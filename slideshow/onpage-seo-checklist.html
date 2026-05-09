@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>On-Page SEO Checklist — Rolloff Dumpster Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-family: 'Inter', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+    body { background: #F5F0E6; color: #1a1a1a; }
+    code { font-family: 'Courier New', monospace; font-size: .88em; background: #F0EBE0; padding: 1px 5px; border-radius: 3px; }
+
+    /* ── Page wrapper ── */
+    .page {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 56px 40px 80px;
+    }
+
+    /* ── Top label ── */
+    .top-label {
+      text-align: center;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .18em;
+      color: #888;
+      margin-bottom: 20px;
+    }
+
+    /* ── Main title ── */
+    .main-title {
+      text-align: center;
+      font-size: clamp(36px, 5vw, 64px);
+      font-weight: 900;
+      color: #111;
+      line-height: 1.05;
+      letter-spacing: -.03em;
+      margin-bottom: 18px;
+    }
+    .main-title em {
+      font-style: normal;
+      background: #111;
+      color: #F5F0E6;
+      padding: 0 6px;
+      border-radius: 4px;
+    }
+
+    /* ── Subtitle ── */
+    .subtitle {
+      text-align: center;
+      font-size: 16px;
+      color: #555;
+      max-width: 640px;
+      margin: 0 auto 28px;
+      line-height: 1.6;
+    }
+    .subtitle strong { color: #111; }
+
+    /* ── Save-this banner ── */
+    .save-banner {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      background: #111;
+      color: #fff;
+      font-size: 14px;
+      padding: 13px 24px;
+      border-radius: 8px;
+      max-width: 680px;
+      margin: 0 auto 56px;
+      line-height: 1.5;
+    }
+    .save-banner .filename {
+      background: #F59E0B;
+      color: #000;
+      font-weight: 700;
+      font-size: 13px;
+      padding: 3px 10px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+
+    /* ── Grid ── */
+    .checklist-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,.07), 0 4px 16px rgba(0,0,0,.05);
+    }
+    .card-header {
+      padding: 16px 20px 14px;
+    }
+    .card-label {
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .14em;
+      margin-bottom: 4px;
+      opacity: .8;
+    }
+    .card-title-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .card-num {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 800;
+      color: #fff;
+      flex-shrink: 0;
+    }
+    .card-title {
+      font-size: 16px;
+      font-weight: 800;
+      color: #111;
+      line-height: 1.2;
+    }
+    .badge {
+      display: inline-block;
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      padding: 3px 8px;
+      border-radius: 4px;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    /* ── Item list ── */
+    .card-body {
+      padding: 4px 20px 20px;
+    }
+    .item-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+    }
+    .item-list li {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      font-size: 13px;
+      color: #333;
+      line-height: 1.5;
+    }
+    .check {
+      flex-shrink: 0;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 1px;
+    }
+    .check svg {
+      width: 9px;
+      height: 9px;
+    }
+
+    /* ── Bottom CTA bar ── */
+    .bottom-bar {
+      margin-top: 48px;
+      background: #111;
+      border-radius: 12px;
+      padding: 22px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+    .bottom-bar p {
+      font-size: 15px;
+      color: #fff;
+      line-height: 1.6;
+      max-width: 760px;
+    }
+    .bottom-bar .filename {
+      background: #F59E0B;
+      color: #000;
+      font-weight: 700;
+      font-size: 13px;
+      padding: 3px 10px;
+      border-radius: 4px;
+    }
+    .bottom-count {
+      font-size: 22px;
+      font-weight: 900;
+      color: #fff;
+      text-align: right;
+      white-space: nowrap;
+      line-height: 1.2;
+    }
+    .bottom-count span {
+      display: block;
+      font-size: 11px;
+      font-weight: 600;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 1023px) { .checklist-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 640px)  { .checklist-grid { grid-template-columns: 1fr; } .page { padding: 32px 20px 60px; } }
+
+    /* ── Color palettes ── */
+    /* blue */    .c1  { --col: #4F8AF5; } .c6  { --col: #4F8AF5; } .c12 { --col: #4F8AF5; }
+    /* purple */  .c2  { --col: #9333EA; } .c7  { --col: #9333EA; } .c13 { --col: #9333EA; }
+    /* red */     .c3  { --col: #EF4444; } .c9  { --col: #EF4444; }
+    /* amber */   .c4  { --col: #F59E0B; } .c10 { --col: #F59E0B; }
+    /* green */   .c5  { --col: #10B981; } .c11 { --col: #10B981; } .c15 { --col: #10B981; }
+    /* orange */  .c8  { --col: #F97316; } .c14 { --col: #F97316; }
+
+    .card-header  { background: color-mix(in srgb, var(--col) 10%, #fff); }
+    .card-label   { color: var(--col); }
+    .card-num     { background: var(--col); }
+    .check        { background: color-mix(in srgb, var(--col) 15%, #fff); }
+    .check svg path { fill: var(--col); }
+
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ── Header ── -->
+  <p class="top-label">The Comprehensive On-Page SEO Checklist</p>
+
+  <h1 class="main-title">On-page SEO &mdash; do these on <em>every page</em>.</h1>
+
+  <p class="subtitle">
+    15 categories &middot; 80+ items &middot; <strong>the complete on-page SEO spec for blog posts and service pages.</strong>
+    Technical SEO (sitemaps, robots.txt, Core Web Vitals) is covered separately.
+  </p>
+
+  <div class="save-banner">
+    Save this as <span class="filename">on-page-seo.md</span> &mdash; every page-generation skill reads it before generating any page.
+  </div>
+
+  <!-- ── Checklist Grid ── -->
+  <div class="checklist-grid">
+
+    <!-- 1. HEAD & METADATA -->
+    <div class="card c1">
+      <div class="card-header">
+        <p class="card-label">Head &amp; Metadata</p>
+        <div class="card-title-row">
+          <span class="card-num">1</span>
+          <span class="card-title">What Google indexes first</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Title tag</strong> &mdash; 50&ndash;60 chars, primary keyword near the start.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Meta description</strong> &mdash; 150&ndash;160 chars, keyword + benefit + soft CTA.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Canonical URL</strong> set to prevent duplicates.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Open Graph</strong> &mdash; <code>og:title</code>, <code>og:description</code>, <code>og:image</code> (1200&times;630), <code>og:url</code>, <code>og:type</code>.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Twitter Card</strong> &mdash; <code>summary_large_image</code>, title, description, image.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Language attribute</strong> on <code>&lt;html&gt;</code> (e.g. <code>lang="en"</code>).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Viewport meta</strong> tag for responsive rendering.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Favicon</strong> + <code>apple-touch-icon</code>.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Charset meta</strong> &mdash; <code>&lt;meta charset="utf-8"&gt;</code>.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 2. URL STRUCTURE -->
+    <div class="card c2">
+      <div class="card-header">
+        <p class="card-label">URL Structure</p>
+        <div class="card-title-row">
+          <span class="card-num">2</span>
+          <span class="card-title">Clean, readable, keyword-forward</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Short slug</strong> &mdash; under 60 chars.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Primary keyword</strong> in the slug.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Hyphens only</strong> &mdash; never underscores.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Lowercase only.</strong></span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>No stop words</strong> ("the", "a", "of") unless necessary.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Logical hierarchy</strong> &mdash; <code>/services/{slug}</code>, <code>/blog/{slug}</code>.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 3. HEADINGS -->
+    <div class="card c3">
+      <div class="card-header">
+        <p class="card-label">Headings</p>
+        <div class="card-title-row">
+          <span class="card-num">3</span>
+          <span class="card-title">Structure for skimmers &amp; bots</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Exactly one H1</strong> per page, contains primary keyword.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Logical H2 + H3 hierarchy</strong> &mdash; never skip levels.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>H2s</strong> use supporting keywords + questions from the cluster.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>No keyword stuffing</strong> &mdash; write naturally.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 4. COPY & BODY -->
+    <div class="card c4">
+      <div class="card-header">
+        <p class="card-label">Copy &amp; Body</p>
+        <div class="card-title-row">
+          <span class="card-num">4</span>
+          <span class="card-title">Answer the query, fast</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Primary keyword</strong> in the first 100 words.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Direct answer</strong> to the query in the first paragraph.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Length</strong> matches SERP average (within 20% of top-3).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Short paragraphs</strong> (1&ndash;4 sentences).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Readability</strong> &mdash; 8th&ndash;10th grade level.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Active voice</strong> preferred.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Bold key phrases</strong> &mdash; sparingly.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Bullets &amp; numbered lists</strong> where appropriate.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 5. FAQ SECTION -->
+    <div class="card c5">
+      <div class="card-header">
+        <p class="card-label">FAQ Section</p>
+        <div class="card-title-row">
+          <span class="card-num">5</span>
+          <span class="card-title">Every blog post</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>4&ndash;8 questions</strong> from SEMRush Questions tab + "People Also Ask".</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Direct answers</strong> &mdash; 2&ndash;4 sentences each.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>FAQ schema</strong> (JSON-LD) applied.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 6. IMAGES -->
+    <div class="card c6">
+      <div class="card-header">
+        <p class="card-label">Images</p>
+        <div class="card-title-row">
+          <span class="card-num">6</span>
+          <span class="card-title">Every image is a ranking signal</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Alt text</strong> describes image + keyword where natural.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Filenames</strong> &mdash; descriptive, hyphens, e.g. <code>emergency-plumber-toronto.webp</code>.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>WebP</strong>, compressed under 200 KB.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Width/height attributes</strong> specified &mdash; prevents CLS.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Lazy loading</strong> (<code>loading="lazy"</code>) for below-fold.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Responsive <code>srcset</code></strong> where needed.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Featured/hero image</strong> for social sharing.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 7. INTERNAL LINKS -->
+    <div class="card c7">
+      <div class="card-header">
+        <p class="card-label">Internal Links</p>
+        <div class="card-title-row">
+          <span class="card-num">7</span>
+          <span class="card-title">Pass authority across the site</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>3&ndash;5 internal links</strong> per post.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Link to <strong>related blog posts &amp; relevant service pages</strong>.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Descriptive anchor text</strong> &mdash; never "click here" or "read more".</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Contextually placed</strong> in body copy.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Breadcrumbs</strong> on every page.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 8. EXTERNAL LINKS -->
+    <div class="card c8">
+      <div class="card-header">
+        <p class="card-label">External Links</p>
+        <div class="card-title-row">
+          <span class="card-num">8</span>
+          <span class="card-title">Cite authority, don't hoard it</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>2&ndash;3 external links</strong> to authoritative sources (.gov, .edu, major industry).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Relevant</strong> to the topic.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Open in new tab</strong> with <code>rel="noopener"</code>.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><code>rel="nofollow"</code> for sponsored links.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 9. SCHEMA MARKUP -->
+    <div class="card c9">
+      <div class="card-header">
+        <p class="card-label">Schema Markup</p>
+        <div class="card-title-row">
+          <span class="card-num">9</span>
+          <span class="card-title">JSON-LD in <code style="font-size:14px;">&lt;head&gt;</code></span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Article schema</strong> on blog posts.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>LocalBusiness schema</strong> &mdash; most specific subtype (Plumber, Dentist&hellip;).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Service schema</strong> on service pages.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>FAQ schema</strong> wherever FAQ section exists.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>BreadcrumbList schema</strong> on every page.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Organization schema</strong> site-wide.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Author/Person schema</strong> for bylines.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 10. E-E-A-T -->
+    <div class="card c10">
+      <div class="card-header">
+        <p class="card-label">E-E-A-T Signals</p>
+        <div class="card-title-row">
+          <span class="card-num">10</span>
+          <span class="card-title">Experience &middot; Expertise &middot; Authority &middot; Trust</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Author byline</strong> with name on every blog post.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Author bio</strong> with credentials (years, qualifications).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Link to <strong>author's dedicated page</strong>.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Published date</strong> displayed.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>"Last updated" date</strong> when refreshed.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Real stories, numbers, opinions</strong> from the business voice file.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Cite authoritative sources.</strong></span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>About page</strong> with full company credentials.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Contact page</strong> &mdash; real address, phone, hours.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 11. ACCESSIBILITY -->
+    <div class="card c11">
+      <div class="card-header">
+        <p class="card-label">Accessibility</p>
+        <div class="card-title-row">
+          <span class="card-num">11</span>
+          <span class="card-title">A11y signals = SEO signals</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Semantic HTML5</strong> &mdash; <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;footer&gt;</code>.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>ARIA labels</strong> on interactive elements where needed.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Color contrast</strong> meets WCAG AA (4.5:1 body text).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Focus indicators</strong> visible on interactive elements.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Alt text</strong> on all images (empty <code>alt=""</code> for decorative).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Descriptive link text.</strong></span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Skip-to-content</strong> link for keyboard users.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 12. MOBILE & RESPONSIVE -->
+    <div class="card c12">
+      <div class="card-header">
+        <p class="card-label">Mobile &amp; Responsive</p>
+        <div class="card-title-row">
+          <span class="card-num">12</span>
+          <span class="card-title">Mobile-first indexing</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Responsive layout</strong> (Tailwind handles this).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Touch targets</strong> minimum 48&times;48 px.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Body font</strong> minimum 16 px.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>No horizontal scroll</strong> at any viewport.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>No intrusive interstitials.</strong></span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 13. SOCIAL PREVIEW -->
+    <div class="card c13">
+      <div class="card-header">
+        <p class="card-label">Social Preview</p>
+        <div class="card-title-row">
+          <span class="card-num">13</span>
+          <span class="card-title">Shareable card</span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>OG image</strong> optimised &mdash; 1200&times;630, under 1 MB.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Twitter Card image</strong> &mdash; 1200&times;600.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Compelling <code>og:description</code></strong> &mdash; different from meta if valuable.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 14. CONVERSION ELEMENTS -->
+    <div class="card c14">
+      <div class="card-header">
+        <p class="card-label">Conversion Elements</p>
+        <div class="card-title-row">
+          <span class="card-num">14</span>
+          <span class="card-title">Capture the lead <span class="badge" style="background:#FEE2E2;color:#DC2626;">Service Pages Only</span></span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Primary CTA</strong> above the fold.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Phone number</strong> with click-to-call (<code>tel:</code>).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Multiple CTA placements</strong> throughout the page.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Trust signals</strong> &mdash; reviews, ratings, licenses, years.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Testimonials</strong> with names (photos where possible).</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Service-area coverage</strong> listed.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Business hours</strong> displayed.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Physical address</strong> with embedded map.</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 15. LONG-FORM CONTENT -->
+    <div class="card c15">
+      <div class="card-header">
+        <p class="card-label">Long-Form Content</p>
+        <div class="card-title-row">
+          <span class="card-num">15</span>
+          <span class="card-title">1500+ word posts <span class="badge" style="background:#D1FAE5;color:#065F46;">1500+ Words</span></span>
+        </div>
+      </div>
+      <div class="card-body">
+        <ul class="item-list">
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Table of contents</strong> with anchor links at the top.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Jump links</strong> for each H2.</span></li>
+          <li><span class="check"><svg viewBox="0 0 10 10"><path d="M1.5 5.5L4 8l4.5-5" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span><strong>Back-to-top button.</strong></span></li>
+        </ul>
+      </div>
+    </div>
+
+  </div><!-- /grid -->
+
+  <!-- ── Bottom bar ── -->
+  <div class="bottom-bar">
+    <p>
+      Point Claude Code at <span class="filename">on-page-seo.md</span>, then say
+      <strong>"generate a blog post about X"</strong> &mdash; it will satisfy every item on this list automatically. That&rsquo;s the whole point.
+    </p>
+    <div class="bottom-count">
+      80+
+      <span>Items &middot; 15 Categories</span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

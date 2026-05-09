@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rolloff Dumpster Finder — Resources Preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+
+    /* ── Reset ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-family: 'Inter', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+    body { background: #fff; color: #2D3A4A; }
+    a { text-decoration: none; color: inherit; }
+    img { display: block; max-width: 100%; }
+    ul { list-style: none; }
+
+    /* ── Tokens ── */
+    :root {
+      --orange:   #F47920;
+      --charcoal: #2D3A4A;
+      --ink:      #1A2530;
+      --warm-bg:  #F5F4F0;
+      --gray:     #6B7280;
+      --border:   #E0DEDA;
+    }
+
+    /* ════════════════════════════════════════
+       HEADER
+    ════════════════════════════════════════ */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: #fff;
+      border-bottom: 1px solid #E8E6E1;
+    }
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 40px;
+      min-height: 170px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 32px;
+    }
+    .header-logo img { width: 220px; height: auto; }
+
+    .header-nav {
+      display: flex;
+      align-items: center;
+      gap: 36px;
+      font-size: 20px;
+      font-weight: 500;
+    }
+    .header-nav a {
+      color: var(--charcoal);
+      transition: color .15s;
+      white-space: nowrap;
+    }
+    .header-nav a:hover  { color: var(--orange); }
+    .header-nav a.active { color: var(--orange); font-weight: 600; }
+
+    .btn-book {
+      background: var(--orange);
+      color: #000;
+      font-weight: 700;
+      font-size: 18px;
+      padding: 14px 30px;
+      border-radius: 9999px;
+      white-space: nowrap;
+      transition: opacity .15s;
+      flex-shrink: 0;
+    }
+    .btn-book:hover { opacity: .88; color: #000; }
+
+    .header-mobile-book { display: none; }
+    @media (max-width: 1023px) {
+      .header-logo img { width: 170px; }
+    }
+    @media (max-width: 700px) {
+      .header-inner        { min-height: 90px; padding: 0 20px; }
+      .header-logo img     { width: 140px; }
+      .header-nav          { display: none; }
+      .header-desktop-book { display: none; }
+      .header-mobile-book  { display: inline-block; }
+    }
+
+    /* ════════════════════════════════════════
+       DARK HERO
+    ════════════════════════════════════════ */
+    .page-hero {
+      background: var(--ink);
+      padding: 80px 32px;
+      position: relative;
+      overflow: hidden;
+    }
+    .page-hero::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image:
+        repeating-linear-gradient(0deg,  transparent, transparent 39px, rgba(255,255,255,.025) 40px),
+        repeating-linear-gradient(90deg, transparent, transparent 39px, rgba(255,255,255,.025) 40px);
+      pointer-events: none;
+    }
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+    .hero-rule {
+      width: 44px;
+      height: 4px;
+      background: var(--orange);
+      border-radius: 2px;
+      margin-bottom: 24px;
+    }
+    .page-hero h1 {
+      font-size: clamp(30px, 5vw, 52px);
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.08;
+      letter-spacing: -.025em;
+      margin-bottom: 20px;
+    }
+    .page-hero p {
+      font-size: 17px;
+      color: rgba(255,255,255,.58);
+      max-width: 580px;
+      line-height: 1.65;
+    }
+
+    /* ════════════════════════════════════════
+       RESOURCE CARD GRID
+    ════════════════════════════════════════ */
+    .resource-section {
+      background: var(--warm-bg);
+      padding: 64px 32px;
+    }
+    .resource-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .resource-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-top: 3px solid var(--orange);
+      border-radius: 3px;
+      padding: 24px 24px 20px;
+      display: flex;
+      flex-direction: column;
+      transition: box-shadow .2s, transform .2s;
+    }
+    .resource-card:hover {
+      box-shadow: 0 8px 28px rgba(0,0,0,.11);
+      transform: translateY(-2px);
+    }
+    .res-badge {
+      display: inline-block;
+      background: var(--orange);
+      color: #000;
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      padding: 4px 9px;
+      border-radius: 2px;
+      margin-bottom: 14px;
+      align-self: flex-start;
+    }
+    .res-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--charcoal);
+      line-height: 1.35;
+      margin-bottom: 10px;
+    }
+    .res-excerpt {
+      font-size: 13px;
+      color: #566070;
+      line-height: 1.65;
+      flex: 1;
+      margin-bottom: 20px;
+    }
+    .res-divider {
+      height: 1px;
+      background: #E8E4DE;
+      margin-bottom: 16px;
+    }
+    .res-link {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--orange);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: gap .15s;
+    }
+    .res-link:hover { gap: 11px; }
+
+    /* ════════════════════════════════════════
+       DARK CTA BAND
+    ════════════════════════════════════════ */
+    .dark-cta-band {
+      background: var(--ink);
+      padding: 72px 32px;
+      text-align: center;
+    }
+    .dark-cta-band h2 {
+      font-size: clamp(26px, 4vw, 38px);
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -.025em;
+      margin-bottom: 14px;
+    }
+    .dark-cta-band p {
+      font-size: 16px;
+      color: rgba(255,255,255,.52);
+      max-width: 460px;
+      margin: 0 auto 32px;
+      line-height: 1.65;
+    }
+    .btn-orange {
+      display: inline-block;
+      background: var(--orange);
+      color: #000;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 13px 28px;
+      border-radius: 9999px;
+      transition: opacity .15s;
+    }
+    .btn-orange:hover { opacity: .88; color: #000; }
+
+    /* ════════════════════════════════════════
+       FOOTER
+    ════════════════════════════════════════ */
+    .site-footer { background: #FAFAF8; color: var(--charcoal); border-top: 1px solid #E0DEDA; }
+    .footer-grid {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 56px 32px;
+      display: grid;
+      grid-template-columns: 1.6fr 1fr 1fr;
+      gap: 48px;
+    }
+    .footer-logo-img {
+      width: 180px;
+      height: auto;
+      margin-bottom: 18px;
+    }
+    .footer-tagline {
+      font-size: 13px;
+      color: #6B7280;
+      line-height: 1.7;
+      max-width: 260px;
+    }
+    .footer-col-head {
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .14em;
+      color: var(--orange);
+      margin-bottom: 18px;
+    }
+    .footer-links { display: flex; flex-direction: column; gap: 10px; }
+    .footer-links a {
+      font-size: 13px;
+      color: var(--charcoal);
+      transition: color .15s;
+    }
+    .footer-links a:hover { color: var(--orange); }
+    .footer-bottom { border-top: 1px solid #E0DEDA; }
+    .footer-bottom-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 16px 32px;
+    }
+    .footer-bottom-inner p { font-size: 11px; color: #9CA3AF; }
+
+    /* ════════════════════════════════════════
+       RESPONSIVE
+    ════════════════════════════════════════ */
+    @media (max-width: 1023px) {
+      .resource-grid { grid-template-columns: repeat(2, 1fr); }
+      .footer-grid   { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 639px) {
+      .resource-grid  { grid-template-columns: 1fr; }
+      .footer-grid    { grid-template-columns: 1fr; gap: 32px; }
+      .page-hero      { padding: 56px 20px; }
+      .resource-section,
+      .dark-cta-band  { padding: 48px 20px; }
+    }
+
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════
+     HEADER
+══════════════════════════════════════════════ -->
+<header class="site-header">
+  <div class="header-inner">
+
+    <a href="https://rolloffdumpsterfinder.com/" aria-label="Rolloff Dumpster Finder home">
+      <div class="header-logo">
+        <img
+          src="Rolloff%20Dumpster%20Finder%20Logo.png"
+          alt="Rolloff Dumpster Finder"
+          width="240" height="72"
+        >
+      </div>
+    </a>
+
+    <nav class="header-nav" aria-label="Main navigation">
+      <a href="https://rolloffdumpsterfinder.com/">Home</a>
+      <a href="http://rolloffdumpsterfinder.com/#section-brYB0mjB0v">About</a>
+      <a href="rolloff-preview.html" class="active">Resources</a>
+      <a href="rolloff-locations-preview.html">Locations</a>
+      <a href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs">Contact</a>
+    </nav>
+
+    <a href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs" class="btn-book header-desktop-book">Book Now</a>
+    <a href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs" class="btn-book header-mobile-book">Book Now</a>
+
+  </div>
+</header>
+
+
+<!-- ══════════════════════════════════════════════
+     DARK HERO
+══════════════════════════════════════════════ -->
+<section class="page-hero">
+  <div class="hero-inner">
+    <div class="hero-rule"></div>
+    <h1>Dumpster Rental Resources</h1>
+    <p>Practical guides on roll-off dumpster sizes, pricing, cleanouts, construction debris, roofing jobs, permits, and what to expect before you book.</p>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════
+     RESOURCE CARDS
+══════════════════════════════════════════════ -->
+<section class="resource-section">
+  <div class="resource-grid">
+
+    <article class="resource-card">
+      <span class="res-badge">Sizing Guide</span>
+      <h2 class="res-title">How to Choose the Right Dumpster Size for Your Project</h2>
+      <p class="res-excerpt">Renting a dumpster that is too small costs you a second haul fee. Renting one that is too large costs you money on unused capacity. Here is the breakdown by project type.</p>
+      <div class="res-divider"></div>
+      <a href="#" class="res-link">Read Guide <span>→</span></a>
+    </article>
+
+    <article class="resource-card">
+      <span class="res-badge">Pricing</span>
+      <h2 class="res-title">What Does a Roll-Off Dumpster Rental Actually Cost?</h2>
+      <p class="res-excerpt">Prices shift based on location, container size, haul distance, and what you put in it. This is what drives the number up or down, and what you can negotiate before booking.</p>
+      <div class="res-divider"></div>
+      <a href="https://rolloffdumpsterfinder.com/blog/what-does-a-dumpster-rental-cost" class="res-link">Read Guide <span>→</span></a>
+    </article>
+
+    <article class="resource-card">
+      <span class="res-badge">Tips</span>
+      <h2 class="res-title">5 Things to Ask Before Booking a Dumpster Rental</h2>
+      <p class="res-excerpt">Not all rental agreements are the same. Knowing what to ask about weight limits, prohibited materials, and extension fees saves you money and avoids surprises on pickup day.</p>
+      <div class="res-divider"></div>
+      <a href="#" class="res-link">Read Guide <span>→</span></a>
+    </article>
+
+    <article class="resource-card">
+      <span class="res-badge">Rules</span>
+      <h2 class="res-title">What Can You Put in a Roll-Off Dumpster?</h2>
+      <p class="res-excerpt">Tires, paint, and mattresses are prohibited at most companies. Here is what is typically accepted, what gets rejected at the landfill, and what triggers an extra disposal fee.</p>
+      <div class="res-divider"></div>
+      <a href="#" class="res-link">Read Guide <span>→</span></a>
+    </article>
+
+    <article class="resource-card">
+      <span class="res-badge">Permits</span>
+      <h2 class="res-title">Do You Need a Permit for a Dumpster Rental?</h2>
+      <p class="res-excerpt">Placing a container on public property usually requires a permit. On a private driveway it typically does not. Here is how to find out what your city or county requires before your drop date.</p>
+      <div class="res-divider"></div>
+      <a href="#" class="res-link">Read Guide <span>→</span></a>
+    </article>
+
+    <article class="resource-card">
+      <span class="res-badge">Roofing</span>
+      <h2 class="res-title">Dumpster Rental Tips for Roofing Projects</h2>
+      <p class="res-excerpt">Shingles are heavy. A full roof tear-off can hit weight limits fast. Here is how to size your container for a roofing job and what surcharges to watch for when booking.</p>
+      <div class="res-divider"></div>
+      <a href="#" class="res-link">Read Guide <span>→</span></a>
+    </article>
+
+    <article class="resource-card">
+      <span class="res-badge">Construction</span>
+      <h2 class="res-title">Construction Dumpster Rental Guide</h2>
+      <p class="res-excerpt">New builds and major renovations produce mixed C&amp;D waste fast. This guide covers container sizing, prohibited materials on job sites, and how to keep the project moving without a second haul.</p>
+      <div class="res-divider"></div>
+      <a href="#" class="res-link">Read Guide <span>→</span></a>
+    </article>
+
+    <article class="resource-card">
+      <span class="res-badge">Cleanouts</span>
+      <h2 class="res-title">Home Cleanout Dumpster Rental Guide</h2>
+      <p class="res-excerpt">Clearing a full house, estate, or hoarded property is a different job than a renovation. This guide covers the right container size, access requirements, and what to do with items that cannot go in the bin.</p>
+      <div class="res-divider"></div>
+      <a href="#" class="res-link">Read Guide <span>→</span></a>
+    </article>
+
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════
+     DARK CTA
+══════════════════════════════════════════════ -->
+<section class="dark-cta-band">
+  <div class="hero-rule" style="margin:0 auto 24px;"></div>
+  <h2>Ready to Book?</h2>
+  <p>Find available roll-off dumpster rentals near you. No oversized containers, no hidden fees.</p>
+  <a href="#" class="btn-orange">Get a Quote</a>
+</section>
+
+
+<!-- ══════════════════════════════════════════════
+     FOOTER
+══════════════════════════════════════════════ -->
+<footer class="site-footer">
+  <div class="footer-grid">
+
+    <div>
+      <img
+        class="footer-logo-img"
+        src="Rolloff%20Dumpster%20Finder%20Logo.png"
+        alt="Rolloff Dumpster Finder"
+        width="180" height="54"
+      >
+      <p class="footer-tagline">Roll-off dumpster rentals matched to your project. No oversized containers, no hidden fees.</p>
+    </div>
+
+    <div>
+      <p class="footer-col-head">Pages</p>
+      <ul class="footer-links">
+        <li><a href="https://rolloffdumpsterfinder.com/">Home</a></li>
+        <li><a href="http://rolloffdumpsterfinder.com/#section-brYB0mjB0v">About</a></li>
+        <li><a href="rolloff-preview.html">Resources</a></li>
+        <li><a href="rolloff-locations-preview.html">Locations</a></li>
+        <li><a href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs">Contact</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <p class="footer-col-head">Contact</p>
+      <ul class="footer-links">
+        <li><a href="tel:+19705686136">(970) 568-6136</a></li>
+        <li><a href="mailto:adam@meetadamchandler.com">adam@meetadamchandler.com</a></li>
+      </ul>
+    </div>
+
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-bottom-inner">
+      <p>&#169; 2025 Rolloff Dumpster Finder. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

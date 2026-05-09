@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rolloff Dumpster Finder — Locations Preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+
+    /* ── Reset ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-family: 'Inter', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+    body { background: #fff; color: #2D3A4A; }
+    a { text-decoration: none; color: inherit; }
+    img { display: block; max-width: 100%; }
+    ul { list-style: none; }
+
+    /* ── Tokens ── */
+    :root {
+      --orange:   #F47920;
+      --charcoal: #2D3A4A;
+      --ink:      #1A2530;
+      --warm-bg:  #F5F4F0;
+      --gray:     #6B7280;
+      --border:   #E0DEDA;
+    }
+
+    /* ════════════════════════════════════════
+       HEADER
+    ════════════════════════════════════════ */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: #fff;
+      border-bottom: 1px solid #E8E6E1;
+    }
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 40px;
+      min-height: 170px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 32px;
+    }
+    .header-logo img { width: 220px; height: auto; }
+
+    .header-nav {
+      display: flex;
+      align-items: center;
+      gap: 36px;
+      font-size: 20px;
+      font-weight: 500;
+    }
+    .header-nav a {
+      color: var(--charcoal);
+      transition: color .15s;
+      white-space: nowrap;
+    }
+    .header-nav a:hover    { color: var(--orange); }
+    .header-nav a.active   { color: var(--orange); font-weight: 600; }
+
+    .btn-book {
+      background: var(--orange);
+      color: #000;
+      font-weight: 700;
+      font-size: 18px;
+      padding: 14px 30px;
+      border-radius: 9999px;
+      white-space: nowrap;
+      transition: opacity .15s;
+      flex-shrink: 0;
+    }
+    .btn-book:hover { opacity: .88; color: #000; }
+
+    .header-mobile-book { display: none; }
+    @media (max-width: 1023px) {
+      .header-logo img { width: 170px; }
+    }
+    @media (max-width: 700px) {
+      .header-inner        { min-height: 90px; padding: 0 20px; }
+      .header-logo img     { width: 140px; }
+      .header-nav          { display: none; }
+      .header-desktop-book { display: none; }
+      .header-mobile-book  { display: inline-block; }
+    }
+
+    /* ════════════════════════════════════════
+       DARK HERO
+    ════════════════════════════════════════ */
+    .page-hero {
+      background: var(--ink);
+      padding: 80px 32px;
+      position: relative;
+      overflow: hidden;
+    }
+    .page-hero::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image:
+        repeating-linear-gradient(0deg,  transparent, transparent 39px, rgba(255,255,255,.025) 40px),
+        repeating-linear-gradient(90deg, transparent, transparent 39px, rgba(255,255,255,.025) 40px);
+      pointer-events: none;
+    }
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+    .hero-rule {
+      width: 44px;
+      height: 4px;
+      background: var(--orange);
+      border-radius: 2px;
+      margin-bottom: 24px;
+    }
+    .page-hero h1 {
+      font-size: clamp(30px, 5vw, 52px);
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.08;
+      letter-spacing: -.025em;
+      margin-bottom: 20px;
+    }
+    .page-hero p {
+      font-size: 17px;
+      color: rgba(255,255,255,.58);
+      max-width: 580px;
+      line-height: 1.65;
+    }
+
+    /* ════════════════════════════════════════
+       SHARED SECTION CHROME
+    ════════════════════════════════════════ */
+    .section-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 32px;
+    }
+    .section-label {
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      color: var(--orange);
+      margin-bottom: 12px;
+    }
+    .section-rule {
+      width: 40px;
+      height: 3px;
+      background: var(--orange);
+      border-radius: 2px;
+      margin-bottom: 14px;
+    }
+    .section-h2 {
+      font-size: clamp(22px, 3vw, 30px);
+      font-weight: 800;
+      color: var(--charcoal);
+      letter-spacing: -.02em;
+      margin-bottom: 8px;
+    }
+    .section-h2-light { color: #fff; }
+    .section-sub {
+      font-size: 15px;
+      color: var(--gray);
+      line-height: 1.6;
+      margin-bottom: 40px;
+    }
+    .section-sub-light {
+      font-size: 15px;
+      color: rgba(255,255,255,.5);
+      line-height: 1.6;
+      margin-bottom: 40px;
+    }
+
+    /* ════════════════════════════════════════
+       ORANGE BUTTONS
+    ════════════════════════════════════════ */
+    .btn-orange {
+      display: inline-block;
+      background: var(--orange);
+      color: #000;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 13px 28px;
+      border-radius: 9999px;
+      transition: opacity .15s;
+    }
+    .btn-orange:hover { opacity: .88; color: #000; }
+
+    .btn-orange-sm {
+      display: inline-block;
+      background: var(--orange);
+      color: #000;
+      font-weight: 700;
+      font-size: 12px;
+      padding: 9px 18px;
+      border-radius: 9999px;
+      transition: opacity .15s;
+    }
+    .btn-orange-sm:hover { opacity: .88; color: #000; }
+
+    /* ════════════════════════════════════════
+       DARK CTA BAND
+    ════════════════════════════════════════ */
+    .dark-cta-band {
+      background: var(--ink);
+      padding: 72px 32px;
+      text-align: center;
+    }
+    .dark-cta-band h2 {
+      font-size: clamp(26px, 4vw, 38px);
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -.025em;
+      margin-bottom: 14px;
+    }
+    .dark-cta-band p {
+      font-size: 16px;
+      color: rgba(255,255,255,.52);
+      max-width: 460px;
+      margin: 0 auto 32px;
+      line-height: 1.65;
+    }
+
+    /* ════════════════════════════════════════
+       SECTION 1 — BROWSE BY STATE
+    ════════════════════════════════════════ */
+    .state-section {
+      background: #fff;
+      padding: 48px 32px;
+      border-bottom: 1px solid #E8E4DE;
+    }
+    .state-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .state-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 9px 18px;
+      border-radius: 3px;
+      font-size: 13px;
+      font-weight: 600;
+      border: 2px solid transparent;
+    }
+    .state-pill.available {
+      background: var(--charcoal);
+      color: #fff;
+      border-color: var(--orange);
+    }
+    .state-pill.available .state-dot {
+      width: 7px;
+      height: 7px;
+      background: var(--orange);
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .state-pill.soon {
+      background: #F3F2EF;
+      color: #9CA3AF;
+      border-color: #E5E3DE;
+    }
+    .soon-tag {
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      background: #E5E3DE;
+      color: #9CA3AF;
+      padding: 2px 6px;
+      border-radius: 2px;
+    }
+
+    /* ════════════════════════════════════════
+       SECTION 2 — CITY CARDS
+    ════════════════════════════════════════ */
+    .city-section {
+      background: var(--warm-bg);
+      padding: 64px 32px;
+    }
+    .city-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .city-card {
+      background: var(--charcoal);
+      border: 1px solid rgba(255,255,255,.06);
+      border-radius: 3px;
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      transition: background .2s, box-shadow .2s;
+    }
+    .city-card:hover {
+      background: var(--ink);
+      box-shadow: 0 10px 36px rgba(0,0,0,.3);
+    }
+    .city-state-label {
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      color: var(--orange);
+      margin-bottom: 10px;
+    }
+    .city-name {
+      font-size: 26px;
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -.02em;
+      line-height: 1.1;
+      margin-bottom: 10px;
+    }
+    .city-desc {
+      font-size: 13px;
+      color: rgba(255,255,255,.48);
+      line-height: 1.65;
+      flex: 1;
+      margin-bottom: 24px;
+    }
+
+    /* ════════════════════════════════════════
+       SECTION 3 — COMMON PROJECTS
+    ════════════════════════════════════════ */
+    .projects-section {
+      background: var(--charcoal);
+      padding: 72px 32px;
+    }
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 16px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .project-card {
+      background: rgba(255,255,255,.05);
+      border: 1px solid rgba(255,255,255,.08);
+      border-top: 2px solid var(--orange);
+      border-radius: 3px;
+      padding: 22px 18px;
+    }
+    .project-num {
+      font-size: 32px;
+      font-weight: 800;
+      color: var(--orange);
+      line-height: 1;
+      margin-bottom: 10px;
+      letter-spacing: -.03em;
+    }
+    .project-name {
+      font-size: 13px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.35;
+      margin-bottom: 8px;
+    }
+    .project-desc {
+      font-size: 12px;
+      color: rgba(255,255,255,.42);
+      line-height: 1.6;
+    }
+
+    /* ════════════════════════════════════════
+       SECTION 4 — SIZE GUIDE
+    ════════════════════════════════════════ */
+    .size-guide-band {
+      background: #fff;
+      border-top: 1px solid #E8E4DE;
+      border-bottom: 1px solid #E8E4DE;
+      padding: 64px 32px;
+    }
+    .size-guide-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 48px;
+    }
+    .size-guide-text { max-width: 560px; }
+    .size-guide-text h2 {
+      font-size: clamp(22px, 3vw, 30px);
+      font-weight: 800;
+      color: var(--charcoal);
+      letter-spacing: -.02em;
+      margin-bottom: 12px;
+    }
+    .size-guide-text p {
+      font-size: 15px;
+      color: var(--gray);
+      line-height: 1.7;
+    }
+
+    /* ════════════════════════════════════════
+       FOOTER
+    ════════════════════════════════════════ */
+    .site-footer { background: #FAFAF8; color: var(--charcoal); border-top: 1px solid #E0DEDA; }
+    .footer-grid {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 56px 32px;
+      display: grid;
+      grid-template-columns: 1.6fr 1fr 1fr;
+      gap: 48px;
+    }
+    .footer-logo-img {
+      width: 180px;
+      height: auto;
+      margin-bottom: 18px;
+    }
+    .footer-tagline {
+      font-size: 13px;
+      color: #6B7280;
+      line-height: 1.7;
+      max-width: 260px;
+    }
+    .footer-col-head {
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .14em;
+      color: var(--orange);
+      margin-bottom: 18px;
+    }
+    .footer-links { display: flex; flex-direction: column; gap: 10px; }
+    .footer-links a {
+      font-size: 13px;
+      color: var(--charcoal);
+      transition: color .15s;
+    }
+    .footer-links a:hover { color: var(--orange); }
+    .footer-bottom { border-top: 1px solid #E0DEDA; }
+    .footer-bottom-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 16px 32px;
+    }
+    .footer-bottom-inner p { font-size: 11px; color: #9CA3AF; }
+
+    /* ════════════════════════════════════════
+       RESPONSIVE
+    ════════════════════════════════════════ */
+    @media (max-width: 1023px) {
+      .city-grid     { grid-template-columns: repeat(2, 1fr); }
+      .projects-grid { grid-template-columns: repeat(3, 1fr); }
+      .footer-grid   { grid-template-columns: 1fr 1fr; }
+      .size-guide-inner { flex-direction: column; align-items: flex-start; }
+    }
+    @media (max-width: 639px) {
+      .city-grid     { grid-template-columns: 1fr; }
+      .projects-grid { grid-template-columns: repeat(2, 1fr); }
+      .footer-grid   { grid-template-columns: 1fr; gap: 32px; }
+      .page-hero     { padding: 56px 20px; }
+      .state-section,
+      .city-section,
+      .projects-section,
+      .size-guide-band,
+      .dark-cta-band { padding: 48px 20px; }
+      .section-wrap  { padding: 0 20px; }
+    }
+
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════
+     HEADER
+══════════════════════════════════════════════ -->
+<header class="site-header">
+  <div class="header-inner">
+
+    <a href="https://rolloffdumpsterfinder.com/" aria-label="Rolloff Dumpster Finder home">
+      <div class="header-logo">
+        <img
+          src="Rolloff%20Dumpster%20Finder%20Logo.png"
+          alt="Rolloff Dumpster Finder"
+          width="240" height="72"
+        >
+      </div>
+    </a>
+
+    <nav class="header-nav" aria-label="Main navigation">
+      <a href="https://rolloffdumpsterfinder.com/">Home</a>
+      <a href="http://rolloffdumpsterfinder.com/#section-brYB0mjB0v">About</a>
+      <a href="rolloff-preview.html">Resources</a>
+      <a href="rolloff-locations-preview.html" class="active">Locations</a>
+      <a href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs">Contact</a>
+    </nav>
+
+    <a href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs" class="btn-book header-desktop-book">Book Now</a>
+    <a href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs" class="btn-book header-mobile-book">Book Now</a>
+
+  </div>
+</header>
+
+
+<!-- ══════════════════════════════════════════════
+     DARK HERO
+══════════════════════════════════════════════ -->
+<section class="page-hero">
+  <div class="hero-inner">
+    <div class="hero-rule"></div>
+    <h1>Roll-Off Dumpster Rental Locations</h1>
+    <p>Find local roll-off dumpster rental options for home cleanouts, roofing jobs, construction debris, demolition projects, and more.</p>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════
+     SECTION 1 — BROWSE BY STATE
+══════════════════════════════════════════════ -->
+<section class="state-section">
+  <div class="section-wrap">
+    <p class="section-label">Browse by State</p>
+    <p style="font-size:15px; color:var(--gray); max-width:520px; line-height:1.6;">
+      We are currently operating in Colorado. Additional states are being added.
+    </p>
+    <div class="state-pills">
+      <div class="state-pill available">
+        <span class="state-dot"></span>
+        Colorado
+      </div>
+      <div class="state-pill soon">Arizona <span class="soon-tag">Soon</span></div>
+      <div class="state-pill soon">Texas <span class="soon-tag">Soon</span></div>
+      <div class="state-pill soon">Wyoming <span class="soon-tag">Soon</span></div>
+      <div class="state-pill soon">New Mexico <span class="soon-tag">Soon</span></div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════
+     SECTION 2 — COLORADO CITY CARDS
+══════════════════════════════════════════════ -->
+<section class="city-section">
+  <div class="section-wrap" style="margin-bottom:40px;">
+    <div class="section-rule"></div>
+    <h2 class="section-h2">Popular Colorado Dumpster Rental Locations</h2>
+    <p class="section-sub" style="margin-bottom:0;">Roll-off dumpster rental guides for Colorado cities. Delivery zones and availability vary by location.</p>
+  </div>
+  <div class="city-grid">
+
+    <article class="city-card">
+      <p class="city-state-label">&#9679; Colorado Location</p>
+      <h2 class="city-name">Denver</h2>
+      <p class="city-desc">Metro Denver roll-off dumpster rentals for home cleanouts, construction debris, and demolition projects across the front range.</p>
+      <a href="#" class="btn-orange-sm">View Location Guide</a>
+    </article>
+
+    <article class="city-card">
+      <p class="city-state-label">&#9679; Colorado Location</p>
+      <h2 class="city-name">Colorado Springs</h2>
+      <p class="city-desc">Roll-off dumpster rental service covering Colorado Springs and the surrounding El Paso County area for residential and commercial projects.</p>
+      <a href="#" class="btn-orange-sm">View Location Guide</a>
+    </article>
+
+    <article class="city-card">
+      <p class="city-state-label">&#9679; Colorado Location</p>
+      <h2 class="city-name">Fort Collins</h2>
+      <p class="city-desc">Fort Collins and Larimer County roll-off rentals for residential cleanouts, roofing tear-offs, yard waste, and construction jobs.</p>
+      <a href="#" class="btn-orange-sm">View Location Guide</a>
+    </article>
+
+    <article class="city-card">
+      <p class="city-state-label">&#9679; Colorado Location</p>
+      <h2 class="city-name">Boulder</h2>
+      <p class="city-desc">Boulder area roll-off dumpster rental for home cleanouts, renovation debris, and construction projects in Boulder County.</p>
+      <a href="#" class="btn-orange-sm">View Location Guide</a>
+    </article>
+
+    <article class="city-card">
+      <p class="city-state-label">&#9679; Colorado Location</p>
+      <h2 class="city-name">Grand Junction</h2>
+      <p class="city-desc">Western Slope roll-off dumpster rental covering Grand Junction, Fruita, and the Grand Valley for cleanouts and construction debris.</p>
+      <a href="#" class="btn-orange-sm">View Location Guide</a>
+    </article>
+
+    <article class="city-card">
+      <p class="city-state-label">&#9679; Colorado Location</p>
+      <h2 class="city-name">Steamboat Springs</h2>
+      <p class="city-desc">Routt County roll-off dumpster rental for seasonal cleanouts, construction projects, and debris removal in the Yampa Valley.</p>
+      <a href="#" class="btn-orange-sm">View Location Guide</a>
+    </article>
+
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════
+     SECTION 3 — COMMON PROJECTS
+══════════════════════════════════════════════ -->
+<section class="projects-section">
+  <div class="section-wrap" style="margin-bottom:40px;">
+    <div class="section-rule"></div>
+    <h2 class="section-h2 section-h2-light">Common Projects We Help With</h2>
+    <p class="section-sub-light">The right container size depends on what you are hauling. Here are the most common project types we handle.</p>
+  </div>
+  <div class="projects-grid">
+
+    <div class="project-card">
+      <div class="project-num">01</div>
+      <p class="project-name">Roofing Dumpster Rentals</p>
+      <p class="project-desc">Container-only rentals sized for shingle tear-offs and roofing debris, with weight limits built for heavy loads.</p>
+    </div>
+
+    <div class="project-card">
+      <div class="project-num">02</div>
+      <p class="project-name">Construction Dumpster Rentals</p>
+      <p class="project-desc">Mixed C&amp;D waste from framing, drywall, concrete, and lumber. Available in 20 and 30-yard sizes.</p>
+    </div>
+
+    <div class="project-card">
+      <div class="project-num">03</div>
+      <p class="project-name">Home Cleanout Dumpsters</p>
+      <p class="project-desc">Full house, estate, or garage cleanouts. Drop-and-go rental with flexible pickup scheduling.</p>
+    </div>
+
+    <div class="project-card">
+      <div class="project-num">04</div>
+      <p class="project-name">Demolition Dumpsters</p>
+      <p class="project-desc">Concrete, block, and structural debris. Heavy material rentals with appropriate weight allowances.</p>
+    </div>
+
+    <div class="project-card">
+      <div class="project-num">05</div>
+      <p class="project-name">Yard Waste Dumpsters</p>
+      <p class="project-desc">Tree branches, sod, and brush after a landscaping project. Clean yard waste typically hauls at a lower rate than mixed loads.</p>
+    </div>
+
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════
+     SECTION 4 — SIZE GUIDE
+══════════════════════════════════════════════ -->
+<section class="size-guide-band">
+  <div class="size-guide-inner">
+    <div class="size-guide-text">
+      <div class="section-rule"></div>
+      <h2>Not sure what size you need?</h2>
+      <p>A 10-yard container holds roughly 3 pickup truck loads. A 20-yard handles most home cleanouts and mid-size renovations. A 30-yard covers a full gut renovation, large roofing tear-off, or extended construction job. Booking the wrong size means paying for a second pull.</p>
+    </div>
+    <a href="#" class="btn-orange" style="flex-shrink:0;">View Dumpster Size Guide</a>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════
+     SECTION 5 — CTA
+══════════════════════════════════════════════ -->
+<section class="dark-cta-band">
+  <div class="hero-rule" style="margin:0 auto 24px;"></div>
+  <h2>Need a Dumpster Now?</h2>
+  <p>Tell us your city, project type, and how much material you have. We will match you with the right container and schedule a drop.</p>
+  <a href="#" class="btn-orange">Book Now / Get Quote</a>
+</section>
+
+
+<!-- ══════════════════════════════════════════════
+     FOOTER
+══════════════════════════════════════════════ -->
+<footer class="site-footer">
+  <div class="footer-grid">
+
+    <div>
+      <img
+        class="footer-logo-img"
+        src="Rolloff%20Dumpster%20Finder%20Logo.png"
+        alt="Rolloff Dumpster Finder"
+        width="180" height="54"
+      >
+      <p class="footer-tagline">Roll-off dumpster rentals matched to your project. No oversized containers, no hidden fees.</p>
+    </div>
+
+    <div>
+      <p class="footer-col-head">Pages</p>
+      <ul class="footer-links">
+        <li><a href="https://rolloffdumpsterfinder.com/">Home</a></li>
+        <li><a href="http://rolloffdumpsterfinder.com/#section-brYB0mjB0v">About</a></li>
+        <li><a href="rolloff-preview.html">Resources</a></li>
+        <li><a href="rolloff-locations-preview.html">Locations</a></li>
+        <li><a href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs">Contact</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <p class="footer-col-head">Contact</p>
+      <ul class="footer-links">
+        <li><a href="tel:+19705686136">(970) 568-6136</a></li>
+        <li><a href="mailto:adam@meetadamchandler.com">adam@meetadamchandler.com</a></li>
+      </ul>
+    </div>
+
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-bottom-inner">
+      <p>&#169; 2025 Rolloff Dumpster Finder. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
