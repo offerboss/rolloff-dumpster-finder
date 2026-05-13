@@ -60,7 +60,7 @@ const resourceCards = [
     title: 'What Can You Put in a Roll-Off Dumpster?',
     excerpt:
       'Tires, paint, and mattresses are prohibited at most companies. Here is what is typically accepted, what gets rejected at the landfill, and what triggers an extra disposal fee.',
-    href: '/blog/what-can-and-cannot-go-in-a-dumpster',
+    href: '/blog/what-can-you-put-in-a-roll-off-dumpster',
   },
   {
     badge: 'Permits',

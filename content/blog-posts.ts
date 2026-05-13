@@ -759,4 +759,231 @@ export const blogPosts: BlogPost[] = [
     faq: [],
     toc: [],
   },
+  {
+    slug: 'what-can-you-put-in-a-roll-off-dumpster',
+    title: 'What Can You Put in a Roll-Off Dumpster? Accepted & Prohibited Items',
+    excerpt:
+      'Tires, paint, and propane tanks are prohibited at every company. Concrete and roofing shingles are accepted — until they hit the weight limit. Here is the full breakdown.',
+    category: 'Rules',
+    coverImage:
+      'https://images.pexels.com/photos/33929758/pexels-photo-33929758.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Blue industrial roll-off dumpster placed beside a modern building facade',
+    date: '2026-05-13',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Most household junk, construction debris, roofing shingles, and yard waste can go in a roll-off dumpster. Paint, motor oil, propane tanks, batteries, tires, and hazardous waste cannot. Here is the full accepted and prohibited items list.',
+    readingTime: 9,
+    keywords: [
+      'what can you put in a roll off dumpster',
+      'concrete dumpster rental',
+      'prohibited items in dumpster',
+      'hazardous materials dumpster',
+      'what not to put in a dumpster',
+      'dumpster accepted items',
+    ],
+    toc: [
+      { id: 'what-goes-in', title: 'What Usually Goes In' },
+      { id: 'heavy-debris', title: 'Concrete, Brick, and Dense Materials' },
+      { id: 'prohibited-items', title: 'What Cannot Go In, Ever' },
+      { id: 'depends-on-provider', title: 'The "It Depends" Category' },
+      { id: 'questions-to-ask', title: 'Four Questions to Ask Before Booking' },
+      { id: 'avoid-fees', title: 'The One Fee Nobody Expects' },
+      { id: 'faq', title: 'Frequently Asked Questions' },
+    ],
+    faq: [
+      {
+        question: 'Can you put drywall in a roll-off dumpster?',
+        answer:
+          'Yes. Drywall is one of the most common renovation materials loaded into roll-off containers. It is lightweight and accepted at most disposal facilities. Some companies charge a small surcharge for large volumes of drywall due to recycling requirements, but it is not a prohibited material.',
+      },
+      {
+        question: 'Can you put concrete in a dumpster?',
+        answer:
+          'Yes, but concrete is dense and will hit weight limits quickly. A standard 20-yard container has a weight limit of 2–4 tons, and concrete weighs roughly 4,000 pounds per cubic yard. For concrete-heavy projects, ask about a dedicated heavy-debris container with appropriate weight allowances before booking.',
+      },
+      {
+        question: 'Can you put paint in a roll-off dumpster?',
+        answer:
+          'Liquid or wet paint cannot go in a roll-off dumpster. Paint is classified as hazardous waste. Dried, hardened paint in sealed containers is often accepted, but confirm with your provider. For liquid paint disposal, the EPA\'s household hazardous waste locator can find drop-off locations near you.',
+      },
+      {
+        question: 'Can you put a mattress in a dumpster?',
+        answer:
+          'It depends on the company. Some providers accept mattresses in standard loads, some charge a flat fee per mattress ($25–$75 each), and some decline them entirely. Confirm before booking if the project includes mattresses.',
+      },
+      {
+        question: 'Can you put tires in a roll-off dumpster?',
+        answer:
+          'No. Tires are prohibited at most licensed disposal facilities and cannot go in a standard roll-off container. Tires require separate disposal through a tire retailer, an auto shop, or a local tire recycling program.',
+      },
+      {
+        question: 'Can you put dirt in a dumpster?',
+        answer:
+          'Yes, dirt and soil are accepted in most containers, but they are heavy. A cubic yard of soil can weigh 2,000–3,000 pounds, which eats through weight allowances quickly. For projects involving significant soil removal, ask about a heavy-debris container or confirm the weight limit before loading.',
+      },
+      {
+        question: 'Can you put a refrigerator in a dumpster?',
+        answer:
+          'Only if the refrigerant has been removed first. Refrigerators, freezers, window AC units, and other appliances containing freon require certified refrigerant removal before disposal. Most appliance retailers and HVAC companies offer this service when replacing the unit.',
+      },
+      {
+        question: 'What happens if you put prohibited items in a dumpster?',
+        answer:
+          'If prohibited materials are discovered at the disposal facility, you will typically be charged a hazardous material removal fee — sometimes several hundred dollars. Some companies refuse to pick up the container until restricted items are removed. Asking before you load is always faster than explaining afterward.',
+      },
+    ],
+    body: `
+<p>Most household junk, construction debris, roofing shingles, furniture, flooring, drywall, and yard waste can go in a standard roll-off dumpster. What cannot: paint, motor oil, propane tanks, batteries, tires, appliances containing refrigerants, asbestos, and anything classified as hazardous waste.</p>
+
+<p>You can throw in the kitchen sink, by the way. Porcelain is fine. The paint cans stored under it are not. (I spent a decade driving roll-off trucks in Colorado. The call from the disposal facility when restricted materials show up is short, efficient, and expensive.)</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
+  <ul class="text-charcoal space-y-2 text-sm">
+    <li><strong>Always accepted:</strong> household junk, furniture, drywall, lumber, flooring, roofing shingles, metal scraps, cardboard, glass, general renovation debris</li>
+    <li><strong>Never accepted:</strong> paint, motor oil, propane tanks, batteries, tires, appliances with freon, asbestos, hazardous waste of any kind</li>
+    <li><strong>Accepted but watch the weight:</strong> concrete, brick, dirt, tile, roofing shingles — dense materials hit weight limits before they fill the container</li>
+    <li><strong>Depends on your provider:</strong> mattresses, electronics, yard waste mixed with construction debris, large appliances</li>
+  </ul>
+</div>
+
+<h2 id="what-goes-in">What Usually Goes In</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/28041688/pexels-photo-28041688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Pile of construction and demolition debris including rubble and concrete at an urban job site"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Most renovation and construction debris loads are straightforward. The dense stuff — and whatever is in the back of the garage — is where things get complicated.</figcaption>
+</figure>
+
+<p>Standard roll-off containers accept the majority of non-hazardous residential and commercial debris. The categories below cover most renovation, cleanout, and construction loads.</p>
+
+<h3>Household junk and cleanout debris</h3>
+
+<p>Furniture, clothing, boxes, shelving, small appliances, lamps, carpet, and general accumulated junk from garages, basements, and attics. This covers most estate cleanouts, move-out debris, and household purges. Rule of thumb: if it is not a chemical, a tire, a battery, or something with a compressor, it almost certainly goes in the bin.</p>
+
+<p>Mattresses are the exception. Some providers accept them, some charge a flat fee per mattress ($25–$75 each), and some decline them entirely. If mattresses are part of the load, call ahead before booking.</p>
+
+<h3>Construction and remodeling debris</h3>
+
+<p>Drywall, framing lumber, plywood, insulation, carpet and pad, cabinets, countertops, demo materials, doors, windows, light fixtures, and general renovation debris. All standard.</p>
+
+<p>Stone countertops and ceramic tile go in the container without issue — but they are heavy. A full kitchen worth of granite or a bathroom with wall-to-wall tile can push weight limits before the container looks anywhere near full. That distinction matters. More on it below.</p>
+
+<h3>Roofing shingles and materials</h3>
+
+<p>Asphalt shingles, roofing felt, metal flashing, fascia boards, and wood decking are all accepted. Roofing debris is where the weight conversation becomes critical. A standard residential roof generates 3–5 tons of shingles. The weight limit on a 20-yard container is typically 2–4 tons. Do the math before you load, not after the truck pulls away.</p>
+
+<p>If your roof has multiple layers of old shingles, or is a larger-than-average structure, tell the provider before booking. They can adjust the weight allowance or recommend a roofing-specific container. For the full roofing breakdown, see <a href="/blog/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a>.</p>
+
+<h3>Yard waste and landscaping debris</h3>
+
+<p>Tree branches, brush, sod, mulch, and general yard waste are accepted by most providers. Two things worth knowing.</p>
+
+<p>First: some companies require yard waste to be hauled separately from construction debris. Mixed loads may be charged at the higher rate, or declined at the facility. Call ahead if the project combines both material types in the same container.</p>
+
+<p>Second: soil and sod are heavier than they look. A few cubic yards of wet sod can eat through a weight allowance faster than most homeowners expect. Dry brush is light. Wet sod is not.</p>
+
+<h2 id="heavy-debris">Concrete, Brick, and Dense Materials</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/14562040/pexels-photo-14562040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Close-up of a pile of broken concrete chunks and clay bricks from residential demolition work"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Concrete and brick are accepted materials. They are also dense enough to blow a weight limit while the container still looks half-empty.</figcaption>
+</figure>
+
+<p>Concrete, brick, asphalt, dirt, tile, and stone are accepted materials in most roll-off dumpsters. They are also the leading cause of overweight charges. Both things are true.</p>
+
+<p>A cubic yard of mixed drywall and lumber scraps weighs roughly 400–600 pounds. A cubic yard of concrete weighs roughly 4,000 pounds — seven to eight times more, same volume. You can hit a 2-ton weight limit with about half a cubic yard of concrete. The container still looks nearly empty. The scale at the landfill does not care how it looks.</p>
+
+<p>Most companies offer dedicated heavy-debris containers with higher weight allowances for concrete-heavy projects — patio demolition, driveway removal, retaining wall teardowns. These are priced differently than standard containers. If more than a quarter of your load is concrete, brick, or soil, ask about heavy-debris pricing before booking a standard roll-off.</p>
+
+<p>The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer">EPA's construction and demolition materials data</a> puts concrete as the single largest component of C&amp;D waste by weight at licensed facilities — which is exactly why roll-off companies price heavy debris separately. For a full breakdown of how weight limits and overweight fees work, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
+
+<h2 id="prohibited-items">What Cannot Go In, Ever</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/8770248/pexels-photo-8770248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Worker in a protective hazmat suit monitoring hazardous waste containers at a waste disposal facility"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Hazardous materials require separate disposal at licensed facilities. A roll-off container is not one of them.</figcaption>
+</figure>
+
+<p>These items are not accepted in any standard roll-off dumpster, regardless of company or location. They require separate disposal at a licensed hazardous waste facility.</p>
+
+<ul>
+  <li><strong>Paint and stains</strong> — liquid or wet paint only. Dried, hardened paint in sealed containers is often accepted; liquid paint is not. Check with your provider on partially used cans.</li>
+  <li><strong>Motor oil, automotive fluids, and solvents</strong> — any petroleum-based liquid</li>
+  <li><strong>Propane tanks</strong> — including empty ones. Residual gas makes them a disposal hazard.</li>
+  <li><strong>Batteries</strong> — car batteries, lithium batteries, and rechargeable batteries of all types</li>
+  <li><strong>Tires</strong> — prohibited at most licensed landfills; require separate tire recycling</li>
+  <li><strong>Appliances containing refrigerants</strong> — refrigerators, window AC units, and dehumidifiers require certified refrigerant removal before disposal</li>
+  <li><strong>Asbestos-containing materials</strong> — requires licensed abatement and specialized disposal. Present in older floor tiles, ceiling tiles, insulation, and certain siding materials. See the <a href="https://www.epa.gov/asbestos" target="_blank" rel="noopener noreferrer">EPA's asbestos guidelines</a> before disturbing any suspected material.</li>
+  <li><strong>Pesticides, herbicides, and pool chemicals</strong></li>
+  <li><strong>Fluorescent bulbs and tubes</strong> — contain mercury; typically require separate recycling</li>
+  <li><strong>Medical waste and sharps</strong></li>
+</ul>
+
+<p>The <a href="https://www.epa.gov/hw/household-hazardous-waste-hhw" target="_blank" rel="noopener noreferrer">EPA's household hazardous waste locator</a> covers local disposal options by zip code for materials that cannot go in the bin.</p>
+
+<h2 id="depends-on-provider">The "It Depends" Category</h2>
+
+<p>These items are not universally prohibited, but they are not universally accepted either. They depend on your specific provider, the disposal facility they use, and sometimes local regulations.</p>
+
+<h3>Mattresses</h3>
+
+<p>Some providers accept mattresses in standard loads. Some charge a flat mattress fee. Some decline them entirely. If the cleanout includes mattresses, ask at booking — not on pickup day while the driver is watching the container get loaded.</p>
+
+<h3>Electronics</h3>
+
+<p>Computers, televisions, and monitors are restricted at many disposal facilities due to lead and mercury content. Some companies accept them with a surcharge; some decline them. Confirm before loading.</p>
+
+<h3>Large appliances without refrigerants</h3>
+
+<p>Washers, dryers, dishwashers, and ranges — appliances that do not contain refrigerants — are accepted by most providers. Refrigerators, freezers, and window AC units require the refrigerant removed by a certified technician first. Most appliance retailers offer this when replacing the unit.</p>
+
+<h3>Mixed yard waste and construction debris</h3>
+
+<p>Some disposal facilities require yard waste to be separated from construction debris for composting or green-waste processing. Mixed loads may be accepted at the higher disposal rate, or declined at the gate. If the project combines both material types, confirm beforehand rather than finding out at the landfill.</p>
+
+<h2 id="questions-to-ask">Four Questions to Ask Before Booking</h2>
+
+<p>These are worth raising before the container lands in the driveway — not while standing next to a full bin wondering what to do with the paint cans.</p>
+
+<ol>
+  <li><strong>What is the weight limit, and what is the overweight rate?</strong> Get both numbers. For any project involving concrete, tile, roofing shingles, or soil, the weight limit matters more than the container size.</li>
+  <li><strong>What materials do you not accept?</strong> Go through your list. Mention mattresses, electronics, any appliances, and any chemicals or liquids you are clearing out. Better to know now.</li>
+  <li><strong>Does the price change based on material type?</strong> Some companies charge a premium for roofing shingles, tires, mattresses, or mixed loads. A quote that does not account for your specific materials may not match the final invoice.</li>
+  <li><strong>Is yard waste hauled separately or mixed?</strong> If the project includes landscape debris and construction waste, ask before loading everything in together.</li>
+</ol>
+
+<p>For more on what to ask before booking, browse the <a href="/resources">Rolloff Dumpster Finder resources section</a>.</p>
+
+<h2 id="avoid-fees">The One Fee Nobody Expects</h2>
+
+<p>The overweight charge. Not because it is obscure — most rental agreements mention it — but because the connection between material density and weight limits is easy to miss until the invoice arrives.</p>
+
+<p>I reckon nine out of ten overweight charges come from four materials: roofing shingles, bathroom tile, concrete, and soil. All of them are accepted. All of them are dense. All of them hit weight limits at a fraction of the container's volume. Dense debris hits weight limits at half capacity, which is technically an efficient use of volume and financially a terrible outcome.</p>
+
+<p>The fix is asking the weight limit before booking, estimating your heaviest material's weight before loading, and for concrete-heavy projects, asking about a dedicated heavy-debris container rather than booking a standard roll-off. That conversation takes five minutes. The overweight charge typically takes three days to arrive and longer to understand.</p>
+
+<p>Need roll-off rental options in your area? Browse the <a href="/locations">location guides</a> for local pricing and availability by city.</p>
+`,
+  },
 ]
