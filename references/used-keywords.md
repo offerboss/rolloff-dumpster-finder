@@ -6,6 +6,7 @@ Active primaries:
 | Date | Primary Keyword | Slug | Secondary Keywords | Source |
 |------|----------------|------|--------------------|--------|
 | 2025-05-09 | dumpster rental cost | what-does-a-dumpster-rental-cost | dumpster rental prices ✓ CSV, average dumpster rental cost ✓ CSV, 10 yard dumpster rental cost ✓ CSV, 20 yard dumpster rental ✓ CSV, roll off dumpster rental prices ✓ CSV | dumpster_keywords.csv |
+| 2026-05-12 | roll off dumpster sizes | how-to-choose-the-right-dumpster-size | dumpster sizing ✓ CSV, what size dumpster do I need (invented), 10 yard dumpster rental ✓ CSV, 15 yard dumpster ✓ CSV, 20 yard dumpster rental ✓ CSV, 30 yard dumpster rental ✓ CSV, 40 yard dumpster rental ✓ CSV, small dumpster rental ✓ CSV, large dumpster rental ✓ CSV, residential dumpster rental ✓ CSV, construction dumpster rental ✓ CSV, yard waste dumpster rental ✓ CSV, roll off sizes ✓ CSV | dumpster_keywords.csv |
 
 Workflow for the next post
 Open the active keyword CSV

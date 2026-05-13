@@ -36,26 +36,32 @@ const breadcrumbSchema = {
 const cityCards = [
   {
     city: 'Denver',
+    slug: 'denver-co-dumpster-rental',
     desc: 'Metro Denver roll-off dumpster rentals for home cleanouts, construction debris, and demolition projects across the front range.',
   },
   {
     city: 'Colorado Springs',
+    slug: null,
     desc: 'Roll-off dumpster rental service covering Colorado Springs and the surrounding El Paso County area for residential and commercial projects.',
   },
   {
     city: 'Fort Collins',
+    slug: null,
     desc: 'Fort Collins and Larimer County roll-off rentals for residential cleanouts, roofing tear-offs, yard waste, and construction jobs.',
   },
   {
     city: 'Boulder',
+    slug: null,
     desc: 'Boulder area roll-off dumpster rental for home cleanouts, renovation debris, and construction projects in Boulder County.',
   },
   {
     city: 'Grand Junction',
+    slug: null,
     desc: 'Western Slope roll-off dumpster rental covering Grand Junction, Fruita, and the Grand Valley for cleanouts and construction debris.',
   },
   {
     city: 'Steamboat Springs',
+    slug: null,
     desc: 'Routt County roll-off dumpster rental for seasonal cleanouts, construction projects, and debris removal in the Yampa Valley.',
   },
 ]
@@ -176,12 +182,21 @@ export default function LocationsPage() {
               <p className="text-[13px] text-white/[.48] leading-[1.65] flex-1 mb-6">
                 {card.desc}
               </p>
-              <a
-                href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
-                className="inline-block bg-orange text-black font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-90 transition-opacity self-start"
-              >
-                View Location Guide
-              </a>
+              {card.slug ? (
+                <Link
+                  href={`/locations/${card.slug}`}
+                  className="inline-block bg-orange text-black font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-90 transition-opacity self-start"
+                >
+                  View Location Guide
+                </Link>
+              ) : (
+                <a
+                  href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
+                  className="inline-block bg-orange text-black font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-90 transition-opacity self-start"
+                >
+                  View Location Guide
+                </a>
+              )}
             </article>
           ))}
         </div>

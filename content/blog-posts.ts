@@ -28,21 +28,279 @@ export interface BlogPost {
 export const blogPosts: BlogPost[] = [
   {
     slug: 'how-to-choose-the-right-dumpster-size',
-    title: 'How to Choose the Right Dumpster Size for Your Project',
+    title: 'How to Choose the Right Dumpster Size: Roll Off Dumpster Sizes Explained',
     excerpt:
       'Renting a dumpster that is too small costs you a second haul fee. Renting one that is too large costs you money on unused capacity. Here is the breakdown by project type.',
     category: 'Sizing Guide',
-    coverImage: 'https://picsum.photos/seed/dumpster-size/800/500',
-    coverImageAlt: 'Roll-off dumpster containers lined up at a rental yard',
+    coverImage:
+      'https://images.pexels.com/photos/34888195/pexels-photo-34888195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Multiple roll-off dumpster containers lined up at a rental yard',
     date: '2025-04-15',
     author: 'Adam Chandler',
     metaDescription:
-      'Choosing the wrong dumpster size costs you money either way. This guide breaks down the right container size for every project type — garage cleanouts, roofing, renovations, and more.',
-    readingTime: 7,
-    keywords: ['dumpster sizing', 'what size dumpster do I need', 'roll off dumpster sizes'],
-    body: '',
-    faq: [],
-    toc: [],
+      'Roll off dumpster sizes run from 10 to 40 yards. This guide matches the right container size to your project — garage cleanouts, roofing, kitchen remodels, and new construction — and explains when weight matters more than volume.',
+    readingTime: 8,
+    keywords: [
+      'roll off dumpster sizes',
+      'dumpster sizing',
+      'what size dumpster do I need',
+      '10 yard dumpster rental',
+      '15 yard dumpster',
+      '20 yard dumpster rental',
+      '30 yard dumpster rental',
+      '40 yard dumpster rental',
+      'small dumpster rental',
+      'large dumpster rental',
+      'residential dumpster rental',
+      'construction dumpster rental',
+      'yard waste dumpster rental',
+      'roll off sizes',
+    ],
+    body: `
+<p>The right roll-off size for most homeowners is the <strong>20-yard container</strong>. It handles a full roof tear-off, a kitchen gut, or a whole-home cleanout, and it is the most commonly rented residential size. If your project is smaller, step to a 10 or 15. If it is bigger, step to a 30. The 40 is for commercial jobs and situations involving concrete that someone underestimated. (Concrete is always underestimated. We will get to that.)</p>
+
+<p>Picking the wrong size is easier than it sounds. Too small and you pay for a second haul. Too large and you pay for space you did not need. This guide matches the right container to the right project — and explains when volume is not even the variable you should be tracking.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick match</p>
+  <ul class="text-charcoal space-y-1 text-sm">
+    <li><strong>10-yard:</strong> Garage cleanouts, single-room remodels, small yard projects</li>
+    <li><strong>15-yard:</strong> Bathroom remodels, small deck removal, mid-size cleanouts</li>
+    <li><strong>20-yard:</strong> Roofing, kitchen remodels, whole-home cleanouts — the default residential choice</li>
+    <li><strong>30-yard:</strong> Large renovations, major demolitions, basement-to-attic cleanouts</li>
+    <li><strong>40-yard:</strong> New construction and commercial projects</li>
+  </ul>
+</div>
+
+<h2 id="size-breakdown">The Five Standard Roll Off Dumpster Sizes</h2>
+
+<p>Roll-off containers come in five standard sizes. The number — 10, 15, 20, 30, or 40 — refers to cubic yards of capacity, not feet, not weight, not truck loads. One cubic yard is roughly the volume of a standard kitchen appliance box. Ten of those stacked is a 10-yard container, which works out to about three full pickup truck loads of loose debris.</p>
+
+<p>The truck-load comparison holds for light, loose material — furniture, carpet, drywall scraps. It falls apart with dense materials. Worth keeping in mind before booking.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/2002142/pexels-photo-2002142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Worker loading debris into a roll-off container on a residential job site"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Every size handles the same basic job. The differences are in capacity, clearance requirements, and what happens when your debris is denser than expected.</figcaption>
+</figure>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Dumpster Size</th>
+        <th class="px-4 py-3 text-left font-semibold">Common Dimensions</th>
+        <th class="px-4 py-3 text-left font-semibold">Holds About</th>
+        <th class="px-4 py-3 text-left font-semibold">Best For</th>
+        <th class="px-4 py-3 text-left font-semibold">Watch Out For</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">10-yard</td>
+        <td class="px-4 py-3">10 ft × 7 ft × 3 ft</td>
+        <td class="px-4 py-3">~3 pickup truck loads</td>
+        <td class="px-4 py-3">Garage cleanouts, single-room remodels</td>
+        <td class="px-4 py-3">Tile and concrete hit the weight limit before the bin is full</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold text-orange">15-yard</td>
+        <td class="px-4 py-3">14 ft × 7 ft × 3.5 ft</td>
+        <td class="px-4 py-3">~4.5 pickup truck loads</td>
+        <td class="px-4 py-3">Bathroom remodels, small deck removal</td>
+        <td class="px-4 py-3">Confirm driveway length before booking</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">20-yard</td>
+        <td class="px-4 py-3">22 ft × 7 ft × 4 ft</td>
+        <td class="px-4 py-3">~6 pickup truck loads</td>
+        <td class="px-4 py-3">Roofing, kitchen remodels, whole-home cleanouts</td>
+        <td class="px-4 py-3">Shingles hit weight limits before filling the volume</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold text-orange">30-yard</td>
+        <td class="px-4 py-3">22 ft × 7 ft × 6 ft</td>
+        <td class="px-4 py-3">~9 pickup truck loads</td>
+        <td class="px-4 py-3">Large renovations, major demolitions</td>
+        <td class="px-4 py-3">Needs 60+ ft of clearance for delivery and pickup</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">40-yard</td>
+        <td class="px-4 py-3">22 ft × 7 ft × 8 ft</td>
+        <td class="px-4 py-3">~12 pickup truck loads</td>
+        <td class="px-4 py-3">New construction, commercial projects</td>
+        <td class="px-4 py-3">Rarely the right call for residential; the cost reflects it</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 id="by-project">Right Size by Project Type</h2>
+
+<p>If you are working from a project description rather than a detailed materials list, use this as your starting point. Sizes below assume standard debris density. If heavy materials are involved — concrete, tile, roofing — read the weight section before booking.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/17849720/pexels-photo-17849720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Green roll-off dumpster placed outside a residential building for a renovation project"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h3>Garage cleanout</h3>
+
+<p>A 10-yard container handles most garage cleanouts. If the garage has been accumulating since the mid-nineties and now qualifies as its own ecosystem, go to a 15. A 20-yard is rarely the right call for a residential garage unless it is a double-wide workshop with equipment that did not survive the decade.</p>
+
+<h3>Bathroom remodel</h3>
+
+<p>A 10 or 15-yard. A standard bathroom gut — vanity, toilet, tub, tile, drywall — usually fits in a 10. If the tile goes wall-to-wall and floor-to-ceiling, bump to the 15. Old tile is denser than it looks. The weight limit on a 10 is typically 1–2 tons, and a full tile tear-out can push against that.</p>
+
+<h3>Kitchen remodel</h3>
+
+<p>A 15 or 20-yard. Cabinets, countertops, flooring, appliances, and drywall add up faster than most people estimate. Stone countertops push you toward the 20. If the kitchen includes a tile floor that was installed with real ambition, confirm the weight limit before loading.</p>
+
+<h3>Roof tear-off</h3>
+
+<p>20-yard, almost always. An average residential roof generates 3–5 tons of shingles. The standard weight limit on a 20-yard is 2–4 tons. On a larger roof you may need to keep the load light and schedule a swap-out partway through. Discuss this before booking. For roofing jobs, weight outranks volume.</p>
+
+<h3>Deck removal</h3>
+
+<p>A 20-yard for a standard wood deck. If the deck has concrete footings being pulled, account for their weight separately. Wood is light. Footings are not. A mixed load of framing lumber and concrete footings can hit a weight limit well before filling the container.</p>
+
+<h3>Whole-home cleanout</h3>
+
+<p>A 20-yard handles most whole-home cleanouts — furniture, carpet, general household goods. If the home is large or the basement is part of the project, go to a 30. Estate cleanouts with decades of accumulated goods typically need more than a standard 20 or more than one pull.</p>
+
+<h3>Basement cleanout</h3>
+
+<p>A 20 or 30-yard. Basements hold more than people expect. If there is concrete flooring being removed, confirm weight limits with the company before booking — that conversation is worth having early.</p>
+
+<h3>Landscaping and yard waste</h3>
+
+<p>A 10 or 20-yard depending on scope. Yard waste — sod, mulch, brush, small branches — is bulky and relatively light, so volume matters more here than weight. A full yard cleanup typically fits in a 20. Single-day trimming often fits in a 10.</p>
+
+<p>Worth noting: some companies will not mix yard waste with construction debris in the same haul. Call ahead if the project combines both material types. For a full list of what is accepted and what is not, see <a href="/blog/what-can-and-cannot-go-in-a-dumpster">What Can and Cannot Go in a Roll-Off Dumpster</a>.</p>
+
+<h3>New construction and major renovation</h3>
+
+<p>A 30 or 40-yard. New construction generates significant volume across multiple material types throughout the project. Most contractors running a full build keep a 30 or 40 onsite. Residential renovation typically stays in the 30. Commercial construction usually runs the 40.</p>
+
+<p>For the difference between a residential rental and a commercial job-site contract, see <a href="/blog/residential-vs-commercial-dumpster-rental">Residential vs. Commercial Dumpster Rentals: What Changes</a>.</p>
+
+<h2 id="weight-vs-volume">When Volume Is Not the Problem</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/28041688/pexels-photo-28041688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Pile of concrete rubble and demolition debris at an urban construction site"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Dense debris reaches weight limits before it fills the container. The bin still looks half-empty. The scale at the landfill does not share that perspective.</figcaption>
+</figure>
+
+<p>This is the section that determines whether you get a clean invoice or a surprise charge three days after the project ends.</p>
+
+<p>Every roll-off container has a weight limit. A standard 20-yard typically allows 2–4 tons of debris. Exceed that and you pay an overweight charge — usually $40–$200 per extra ton. Nearly every overweight charge involves the same handful of materials: concrete, roofing shingles, tile, dirt, and brick.</p>
+
+<p>Here is why this catches people off guard. A cubic yard of drywall scraps weighs roughly 500 pounds. A cubic yard of concrete weighs roughly 4,000 pounds — eight times more, same volume. You can hit a 2-ton weight limit with half a cubic yard of concrete. The container still looks nearly empty. The scale at the landfill does not care how the container looks.</p>
+
+<p>Rule of thumb: if more than a quarter of your debris is heavy material — concrete, tile, roofing, or dirt — size your container based on its weight limit rather than its cubic-yard capacity. Ask the company what the weight limit is for the size you are booking. That number matters more than the size designation when dense material is involved.</p>
+
+<p>The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer">EPA data on construction and demolition materials</a> puts concrete and mixed rubble as the dominant share of C&amp;D waste by weight at licensed landfills — which is precisely why roll-off companies set weight limits by debris type, not container size alone.</p>
+
+<p>For more on how overweight charges work and what they cost, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
+
+<h2 id="placement">What to Know Before the Driver Arrives</h2>
+
+<p>Size affects more than capacity. It also affects what can physically fit in your driveway or on your street.</p>
+
+<p>A roll-off truck needs roughly 60 feet of straight clearance to set a container down. The truck backs in, the container slides off the back, and the truck pulls forward. A 30 or 40-yard container also sits taller than a 10 or 15, which means overhead clearance — power lines, tree branches, garage overhangs — matters too.</p>
+
+<p>Before the driver arrives onsite, confirm:</p>
+
+<ul>
+  <li>Overhead clearance along the delivery path</li>
+  <li>Surface condition — soft ground can shift under the container's weight; ask about plywood protection for driveways if needed</li>
+  <li>HOA rules — some associations restrict driveway placement or require pre-approval</li>
+  <li>Permit requirements — most cities only require a permit if the container sits on public property; driveway placement typically does not require one</li>
+</ul>
+
+<p>If you are unsure about access, give us a call before booking. It is a faster conversation than it sounds, and considerably faster than turning a delivery truck around in a cul-de-sac.</p>
+
+<h2 id="skip-it">When to Skip the Dumpster</h2>
+
+<p>A roll-off is the right tool when you have three or more pickup truck loads of debris and you are doing the work yourself over multiple days. It is not always the right tool.</p>
+
+<p>If your project generates fewer than two pickup truck loads, a junk removal service will often cost the same or less — and they do the loading. For a single truckload of brush or yard waste, a run to the local transfer station might be faster and cheaper than a week-long rental.</p>
+
+<p>Roll-off containers also cannot accept hazardous material — paint, motor oil, propane tanks, batteries — regardless of size. If that describes most of what you are clearing out, a dumpster is not the solution. The <a href="https://www.epa.gov/hw/household-hazardous-waste-hhw" target="_blank" rel="noopener noreferrer">EPA household hazardous waste guide</a> covers local disposal options by zip code.</p>
+
+<p>For extension policies and what happens when the project runs longer than expected, see <a href="/blog/how-long-can-you-keep-a-rental-dumpster">How Long Can You Keep a Rental Dumpster on Your Property</a>.</p>
+
+<p>Pick the right size and the project moves. Pick wrong, and you will spend part of the afternoon staring at a half-empty 40-yarder or making a second-haul call with the quiet acceptance of someone who knew they should have gone one size up when they had the chance. If you are not certain before booking, give us a call — five minutes now is always cheaper than a second haul later.</p>
+`,
+    faq: [
+      {
+        question: 'What size dumpster do I need for a garage cleanout?',
+        answer:
+          'A 10-yard container handles most garage cleanouts. If the garage is large or has been accumulating for many years, step up to a 15-yard. A 20-yard is rarely necessary for a residential garage cleanout.',
+      },
+      {
+        question: 'What is the most common dumpster size for home projects?',
+        answer:
+          'The 20-yard is the most commonly rented residential size. It handles roofing jobs, kitchen remodels, and whole-home cleanouts. If you\'re unsure which size fits your project, starting with a 20-yard is right for most homeowners.',
+      },
+      {
+        question: 'How do I know if I need a 20-yard or 30-yard dumpster?',
+        answer:
+          'If your project is a single phase — one roof, one kitchen remodel, one whole-home cleanout — the 20-yard usually fits. If the project involves a large renovation, major demolition, a full basement cleanout, or multiple rooms being cleared at once, go to the 30.',
+      },
+      {
+        question: 'Can I put roofing shingles in a 10-yard dumpster?',
+        answer:
+          'Shingles can go in any standard roll-off container, but weight limits apply across all sizes. An average residential roof generates 3–5 tons of material. The weight limit on a 10-yard is typically 1–2 tons, which means it will be overweight before it is full. A 20-yard is the standard choice for roofing jobs.',
+      },
+      {
+        question: 'What is the smallest dumpster I can rent?',
+        answer:
+          'The 10-yard is the smallest standard roll-off size. Some companies offer front-load dumpsters or dumpster bags for smaller projects, but roll-off service typically starts at 10 cubic yards.',
+      },
+      {
+        question: 'Do I need a permit to have a roll-off dumpster delivered?',
+        answer:
+          'Only if the container is placed on public property — a street or sidewalk. Driveway placement typically does not require a permit. If you need a street placement, contact your city\'s permit office. Fees usually run $20–$150 depending on the municipality.',
+      },
+      {
+        question: 'What if I fill the dumpster before the project is finished?',
+        answer:
+          'Call the rental company before the container overflows. Most companies can schedule a swap-out — they haul the full container and drop an empty one in its place. This is called a second pull and costs an additional haul fee. It\'s common on larger roofing and renovation jobs.',
+      },
+      {
+        question: 'Can I mix different types of debris in one container?',
+        answer:
+          'Generally yes — mixed loads of household junk, construction debris, and furniture are standard. The exceptions are hazardous materials, which are prohibited regardless of what else is in the container, and yard waste, which some companies require to be hauled separately. Call ahead if your load is mixed.',
+      },
+    ],
+    toc: [
+      { id: 'size-breakdown', title: 'The Five Standard Roll Off Dumpster Sizes' },
+      { id: 'by-project', title: 'Right Size by Project Type' },
+      { id: 'weight-vs-volume', title: 'When Volume Is Not the Problem' },
+      { id: 'placement', title: 'What to Know Before the Driver Arrives' },
+      { id: 'skip-it', title: 'When to Skip the Dumpster' },
+      { id: 'faq', title: 'Frequently Asked Questions' },
+    ],
   },
   {
     slug: 'what-does-a-dumpster-rental-cost',
