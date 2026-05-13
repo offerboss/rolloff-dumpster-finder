@@ -69,7 +69,7 @@ const sizeGuide = [
       'Whole-home cleanout',
       'Deck removal (large)',
     ],
-    note: 'The most common choice for Denver homeowners. Handles most remodels and cleanouts comfortably.',
+    note: 'The most-booked size. Handles most remodels, roofing jobs, and full-home cleanouts comfortably.',
   },
   {
     size: '30 Yard',

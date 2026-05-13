@@ -41,7 +41,7 @@ const cityCards = [
   },
   {
     city: 'Colorado Springs',
-    slug: null,
+    slug: 'colorado-springs-co-dumpster-rental',
     desc: 'Roll-off dumpster rental service covering Colorado Springs and the surrounding El Paso County area for residential and commercial projects.',
   },
   {
