@@ -53,20 +53,23 @@ export default function Header() {
 
         <nav aria-label="Main navigation" className="hidden sm:flex items-center gap-9 text-[20px]">
           <NavLink href="/">Home</NavLink>
-          <NavLink href="/#about">About</NavLink>
           <NavLink href="/resources">Resources</NavLink>
           <NavLink href="/locations">Locations</NavLink>
           <NavLink href="/#contact">Contact</NavLink>
         </nav>
 
         <a
-          href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
+          href="https://form.typeform.com/to/vgtrPHz6"
+          target="_blank"
+          rel="noopener noreferrer"
           className="hidden sm:inline-block bg-orange text-black font-bold text-[18px] px-[30px] py-[14px] rounded-full shrink-0 hover:opacity-90 transition-opacity"
         >
           Book Now
         </a>
         <a
-          href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
+          href="https://form.typeform.com/to/vgtrPHz6"
+          target="_blank"
+          rel="noopener noreferrer"
           className="sm:hidden bg-orange text-black font-bold px-5 py-2 rounded-full text-sm hover:opacity-90 transition-opacity"
         >
           Book Now

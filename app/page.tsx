@@ -1,7 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 
-const BOOK_URL = 'https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs'
 const QUOTE_URL = 'https://form.typeform.com/to/vgtrPHz6'
 
 export const metadata: Metadata = {
@@ -165,7 +164,9 @@ export default function HomePage() {
               reliable service tailored for any project. Start clearing out with ease today.
             </p>
             <a
-              href={BOOK_URL}
+              href={QUOTE_URL}
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-block bg-orange text-black font-bold text-[15px] px-8 py-4 rounded-full hover:opacity-90 transition-opacity"
             >
               Book Your Dumpster Today
@@ -210,7 +211,9 @@ export default function HomePage() {
                 </p>
                 <div>
                   <a
-                    href={BOOK_URL}
+                    href={QUOTE_URL}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="inline-block bg-orange text-black font-bold text-[14px] px-7 py-[13px] rounded-full hover:opacity-90 transition-opacity"
                   >
                     Find Residential Dumpster Rentals
@@ -260,7 +263,9 @@ export default function HomePage() {
             </p>
             <div>
               <a
-                href={BOOK_URL}
+                href={QUOTE_URL}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-block bg-orange text-black font-bold text-[14px] px-7 py-[13px] rounded-full hover:opacity-90 transition-opacity"
               >
                 Find Dumpster Rentals Near Me
@@ -301,7 +306,9 @@ export default function HomePage() {
                 </p>
                 <div>
                   <a
-                    href={BOOK_URL}
+                    href={QUOTE_URL}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="inline-block bg-orange text-black font-bold text-[14px] px-7 py-[13px] rounded-full hover:opacity-90 transition-opacity"
                   >
                     Find Commercial Dumpster Rentals
@@ -327,7 +334,9 @@ export default function HomePage() {
                 </p>
                 <div>
                   <a
-                    href={BOOK_URL}
+                    href={QUOTE_URL}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="inline-block bg-orange text-black font-bold text-[14px] px-7 py-[13px] rounded-full hover:opacity-90 transition-opacity"
                   >
                     Find Dumpster Rentals Near Me

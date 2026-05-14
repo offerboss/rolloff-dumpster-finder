@@ -30,11 +30,6 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/#about" className="text-[13px] text-charcoal hover:text-orange transition-colors">
-                About
-              </Link>
-            </li>
-            <li>
               <Link href="/resources" className="text-[13px] text-charcoal hover:text-orange transition-colors">
                 Resources
               </Link>
@@ -58,13 +53,13 @@ export default function Footer() {
           </p>
           <ul className="flex flex-col gap-[10px]">
             <li>
-              <a href="tel:+19705686136" className="text-[13px] text-charcoal hover:text-orange transition-colors">
-                (970) 568-6136
+              <a href="tel:+19703299463" className="text-[13px] text-charcoal hover:text-orange transition-colors">
+                (970) 329-9463
               </a>
             </li>
             <li>
-              <a href="mailto:adam@meetadamchandler.com" className="text-[13px] text-charcoal hover:text-orange transition-colors">
-                adam@meetadamchandler.com
+              <a href="mailto:adam@RolloffDumpsterFinder.com" className="text-[13px] text-charcoal hover:text-orange transition-colors">
+                adam@RolloffDumpsterFinder.com
               </a>
             </li>
           </ul>
