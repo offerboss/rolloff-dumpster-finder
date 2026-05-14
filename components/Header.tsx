@@ -40,7 +40,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white border-b border-[#E8E6E1]">
       <div className="max-w-[1200px] mx-auto px-5 sm:px-10 min-h-[90px] sm:min-h-[170px] flex items-center justify-between gap-8">
 
-        <Link href="https://rolloffdumpsterfinder.com/" aria-label="Rolloff Dumpster Finder home">
+        <Link href="/" aria-label="Rolloff Dumpster Finder home">
           <Image
             src="https://assets.cdn.filesafe.space/v57xFnmYy49mB7csJulf/media/69f7f3d66b07ab33035b936b.png"
             alt="Rolloff Dumpster Finder"
@@ -52,11 +52,11 @@ export default function Header() {
         </Link>
 
         <nav aria-label="Main navigation" className="hidden sm:flex items-center gap-9 text-[20px]">
-          <NavLink href="https://rolloffdumpsterfinder.com/" external>Home</NavLink>
-          <NavLink href="https://rolloffdumpsterfinder.com/#section-brYB0mjB0v" external>About</NavLink>
+          <NavLink href="/">Home</NavLink>
+          <NavLink href="/#about">About</NavLink>
           <NavLink href="/resources">Resources</NavLink>
           <NavLink href="/locations">Locations</NavLink>
-          <NavLink href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs" external>Contact</NavLink>
+          <NavLink href="/#contact">Contact</NavLink>
         </nav>
 
         <a

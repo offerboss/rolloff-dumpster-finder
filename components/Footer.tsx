@@ -25,14 +25,14 @@ export default function Footer() {
           </p>
           <ul className="flex flex-col gap-[10px]">
             <li>
-              <a href="https://rolloffdumpsterfinder.com/" className="text-[13px] text-charcoal hover:text-orange transition-colors">
+              <Link href="/" className="text-[13px] text-charcoal hover:text-orange transition-colors">
                 Home
-              </a>
+              </Link>
             </li>
             <li>
-              <a href="https://rolloffdumpsterfinder.com/#section-brYB0mjB0v" className="text-[13px] text-charcoal hover:text-orange transition-colors">
+              <Link href="/#about" className="text-[13px] text-charcoal hover:text-orange transition-colors">
                 About
-              </a>
+              </Link>
             </li>
             <li>
               <Link href="/resources" className="text-[13px] text-charcoal hover:text-orange transition-colors">
@@ -45,9 +45,9 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-              <a href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs" className="text-[13px] text-charcoal hover:text-orange transition-colors">
+              <Link href="/#contact" className="text-[13px] text-charcoal hover:text-orange transition-colors">
                 Contact
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
