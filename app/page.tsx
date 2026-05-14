@@ -145,7 +145,7 @@ export default function HomePage() {
       <section
         className="relative min-h-[660px] flex items-center"
         style={{
-          backgroundImage: "url('/Home page images/hero-dumpster-construction.png')",
+          backgroundImage: "url('/home-page-images/hero-dumpster-construction.png')",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
@@ -220,7 +220,7 @@ export default function HomePage() {
               {/* Image */}
               <div className="relative min-h-[320px] lg:min-h-[420px]">
                 <img
-                  src="/Home page images/roll-off-dumpster-rental-residential-cleanout.png"
+                  src="/home-page-images/roll-off-dumpster-rental-residential-cleanout.png"
                   alt="Roll-off dumpster rental at a residential home cleanout and renovation project"
                   width={1448}
                   height={1086}
@@ -239,7 +239,7 @@ export default function HomePage() {
           {/* Image */}
           <div className="rounded-2xl overflow-hidden shadow-sm">
             <img
-              src="/Home page images/residential-cleanout-dumpster.png"
+              src="/home-page-images/residential-cleanout-dumpster.png"
               alt="Residential dumpster rental for home cleanout and general project debris removal"
               width={1448}
               height={1086}
@@ -280,7 +280,7 @@ export default function HomePage() {
               {/* Image left */}
               <div className="relative min-h-[300px] lg:min-h-[420px]">
                 <img
-                  src="/Home page images/commercial-construction-roll-off-dumpster-rental.png"
+                  src="/home-page-images/commercial-construction-roll-off-dumpster-rental.png"
                   alt="Commercial construction roll-off dumpster rental on an active job site"
                   width={1448}
                   height={1086}
@@ -337,7 +337,7 @@ export default function HomePage() {
               {/* Image right */}
               <div className="relative min-h-[300px] lg:min-h-[420px]">
                 <img
-                  src="/Home page images/commercial-construction-dumpster.png"
+                  src="/home-page-images/commercial-construction-dumpster.png"
                   alt="Commercial construction dumpster for business property cleanout and large debris removal"
                   width={1448}
                   height={1086}
