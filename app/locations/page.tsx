@@ -46,7 +46,7 @@ const cityCards = [
   },
   {
     city: 'Fort Collins',
-    slug: null,
+    slug: 'fort-collins-co-dumpster-rental',
     desc: 'Fort Collins and Larimer County roll-off rentals for residential cleanouts, roofing tear-offs, yard waste, and construction jobs.',
   },
   {
