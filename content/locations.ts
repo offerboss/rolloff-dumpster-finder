@@ -480,6 +480,224 @@ export const cityLocations: CityLocation[] = [
     longitude: -104.8214,
   },
 
+  // ─── FORT COLLINS ─────────────────────────────────────────
+  {
+    slug: 'fort-collins-co-dumpster-rental',
+    cityName: 'Fort Collins',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Fort Collins Dumpster Rental | Roll-Off Dumpster Finder CO',
+    metaDescription:
+      'Fort Collins dumpster rental for cleanouts, roofing, construction, and landscaping. Compare container sizes and pricing for projects across Larimer County.',
+    primaryKeyword: 'Fort Collins dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Fort Collins CO',
+      'Fort Collins construction dumpster rental',
+      'roll off dumpster Fort Collins',
+      'roll off dumpster Fort Collins CO',
+      'rolloff dumpsters Fort Collins',
+      'roll offs Fort Collins CO',
+      '10 yard dumpster rental Fort Collins',
+      '20 yard dumpster rental Fort Collins',
+      '30 yard dumpster rental Fort Collins',
+      'roofing dumpster Fort Collins',
+      'residential dumpster rental Fort Collins',
+    ],
+    heroH1: 'Dumpster Rental in Fort Collins, Colorado',
+    heroSubheadline:
+      'Find roll-off dumpster rental options for home cleanouts, roofing tear-offs, construction debris, and landscaping projects in Fort Collins and across Larimer County.',
+    introParagraphs: [
+      'Fort Collins has two active renovation markets running at the same time. Old Town and the neighborhoods around Colorado State University have homes going back to the 1880s and early 1900s — Victorian, Craftsman, and mid-century housing that accumulates material fast when owners finally decide to clear it out. Full kitchen gut jobs, basement overhauls, and garage cleanouts are routine in the College neighborhood, the Prospect area, and along the older blocks south of Mountain Avenue.',
+      'Larimer County gets consistent hail from late spring through early fall, and Fort Collins sees steady roofing activity because of it. The Cameron Peak Fire in 2020 — the largest in Colorado history at the time — burned through the foothills of Larimer County and generated significant debris cleanup work in affected areas. Rapid growth along the Harmony Corridor, the east side, and in Timnath and Windsor also keeps construction dumpster demand steady through the year.',
+      'Rolloff Dumpster Finder helps Fort Collins customers find roll-off dumpster rental options sized for the project at hand, not just the next size up. The service area covers Fort Collins and the broader Larimer and Weld County communities — Loveland, Windsor, Wellington, Timnath, Berthoud, and surrounding areas. Availability and pricing vary by provider and delivery location.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small garage or room cleanout, minor bathroom remodel, single-room debris, yard waste',
+        range: '$280–$490 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and turf waste',
+        range: '$320–$550 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodel, roofing tear-off, full-home cleanout, basement and garage debris',
+        range: '$380–$660 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
+        range: '$450–$790 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
+        range: '$590–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Older housing in the College neighborhood, the Prospect area, and Old Town can carry decades of accumulated material. CSU rental properties see frequent tenant turnover that generates regular cleanout volume — a 10-yard handles most single-unit cleanouts; a 20-yard for a full house.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Larimer County gets regular hail events from spring through fall, and Fort Collins sees steady roofing demand because of it. A 20-yard container handles most residential tear-offs. Shingles are heavy — confirm the weight limit before booking.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Fort Collins is one of the faster-growing cities on the Front Range, with active construction along the Harmony Corridor and in east-side annexations near Timnath. Framing lumber, drywall, insulation, and mixed C&D waste are standard loads for the active build pipeline in the area.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Old Town and the CSU-adjacent neighborhoods have older housing stock that sees regular kitchen and bathroom gut jobs. Cabinets, tile, drywall, and fixtures from a single kitchen remodel typically fill a 10 or 15-yard container.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Detached garages are common in older Fort Collins neighborhoods. A single-car detached garage cleanout usually fits in a 10-yard. Homes in the Prospect and College areas that have not been cleared in years often need a 20-yard for basement and garage combined.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Fort Collins has a significant long-term resident population — families in the area for generations often carry 30 or 40 years of accumulated belongings. Estate clearances in larger Old Town homes and properties near Horsetooth Reservoir frequently need 20 or 30-yard containers.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Water restrictions and interest in xeriscape have made turf removals common in Fort Collins. Yard debris hauls lighter than construction waste, but mature tree trimming and full sod removal add volume fast. A 10 or 15-yard handles most residential landscaping jobs.',
+      },
+      {
+        number: '08',
+        name: 'Rental Property Cleanouts',
+        description:
+          'CSU creates a large student rental market concentrated in the College neighborhood, Prospect, and the streets between campus and Old Town. Property managers doing turnover cleanouts between leases typically need a 10-yard for a unit or a 20-yard for a full house.',
+      },
+      {
+        number: '09',
+        name: 'Deck & Fence Removal',
+        description:
+          'Fort Collins homeowners invest heavily in outdoor living, and older wood decks and fences are a regular teardown project. A 20-yard handles most standard deck removals. If concrete footings come out, confirm weight limits — footings push against the standard allowance fast.',
+      },
+      {
+        number: '10',
+        name: 'Commercial Renovation',
+        description:
+          'Old Town commercial buildings and the Midtown corridor see regular office, retail, and restaurant renovations. Commercial debris loads typically require 30 or 40-yard containers for mixed construction waste.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Fort Collins depends on your lot, the neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and avoids permit requirements in most cases. If the driveway has sufficient length and clearance for the delivery truck, that is the simplest setup.',
+      'Old Town and the CSU-adjacent neighborhoods have mature tree canopy throughout. Overhead clearance from branches and power lines is worth confirming before the truck arrives — it is easier to address before delivery than during it.',
+      'Alley access is available in some older Fort Collins neighborhoods. Confirm the alley width and overhead clearance before scheduling an alley delivery.',
+      'Street or right-of-way placement requires a Right-of-Way Use Permit from the City of Fort Collins Engineering department. Driveway or private property placement typically does not require a permit.',
+      'Many newer Fort Collins neighborhoods — English Ranch, Rigden Farm, Stetson Creek, and Harmony-area developments — have active HOAs with container restrictions or pre-approval requirements. Confirm before booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Old Town',
+      'College',
+      'Prospect',
+      'Midtown',
+      'Harmony',
+      'Fossil Creek',
+      'Rigden Farm',
+      'Stetson Creek',
+      'English Ranch',
+      'Cottonwood Glen',
+      'Provincetowne',
+      'Foothills',
+      'East Fort Collins',
+      'Westside',
+      'Maple Hill',
+      'Richards Lake',
+    ],
+    nearbyCities: [
+      'Loveland',
+      'Windsor',
+      'Timnath',
+      'Wellington',
+      'Berthoud',
+      'Greeley',
+      'Johnstown',
+      'Milliken',
+      'Ault',
+      'Laporte',
+      'Severance',
+      'Longmont',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Fort Collins?',
+        answer:
+          'Dumpster rental prices in Fort Collins vary based on container size, debris type, weight, rental period, and delivery location. A 10-yard typically runs $280–$490 per week. A 20-yard runs $380–$660. A 30-yard ranges from $450–$790. These are general estimates — your actual quote will depend on your project specifics and provider availability.',
+      },
+      {
+        question: 'What size dumpster do I need for a Fort Collins home cleanout?',
+        answer:
+          'For a full-home cleanout in Fort Collins, a 20-yard dumpster handles most jobs comfortably. For a single room or garage cleanout, a 10-yard is usually sufficient. For a larger estate cleanout or a home with decades of accumulated material, a 30-yard gives you room to work without needing a second haul.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Fort Collins?',
+        answer:
+          'Yes. A 20-yard container handles most residential roofing jobs in Fort Collins. Larimer County gets regular hail activity, so roofing turnover is steady. Confirm the weight limit before booking — shingles are dense, and a full tear-off can produce 3–5 tons of material.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster on a Fort Collins street?',
+        answer:
+          'Yes. Street placement in Fort Collins requires a Right-of-Way Use Permit from the City of Fort Collins Engineering department. If your driveway can accommodate the container, that is typically the simpler option and does not require a permit. Confirm placement requirements with your provider before booking.',
+      },
+      {
+        question: 'Can I rent a dumpster for concrete, dirt, or brick in Fort Collins?',
+        answer:
+          'Yes, but heavy debris like concrete, soil, brick, and asphalt typically requires a dedicated heavy-material container with appropriate weight allowances. Standard roll-off dumpsters have weight limits that dense materials hit quickly. Tell your provider upfront what you are hauling so they can quote the right container.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Fort Collins?',
+        answer:
+          'Delivery availability depends on the provider and current demand. Same-week delivery is often possible. For planned projects, booking a few days in advance gives you more flexibility on delivery timing and container selection.',
+      },
+      {
+        question: 'Do you serve nearby cities like Loveland, Windsor, and Wellington?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers throughout the Fort Collins metro area, including Loveland, Windsor, Timnath, Wellington, Berthoud, Johnstown, Milliken, and other Larimer and Weld County communities. Availability and pricing vary by specific delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Fort Collins?',
+        answer:
+          'Standard rental periods run 7–10 days. Extensions are available at a daily rate, typically $5–$10 per day. If the project will run long, ask about extended rental pricing upfront — it is usually more cost-effective than adding days mid-rental.',
+      },
+      {
+        question: 'Are there items I cannot throw in a Fort Collins dumpster?',
+        answer:
+          'Yes. Paint, chemicals, motor oil, propane tanks, batteries, tires, appliances containing refrigerants, asbestos, and hazardous waste are not accepted in standard roll-off dumpsters. Electronics restrictions vary by provider. Call ahead if you have items you are not sure about.',
+      },
+      {
+        question: 'What dumpster size works for a CSU-area rental property cleanout?',
+        answer:
+          'A 10-yard container handles most single-unit apartment or condo cleanouts near CSU. For a full house with accumulated furniture and debris from multiple tenants, a 20-yard is typically the right call. For a duplex or triplex, a 20 or 30-yard depending on the volume.',
+      },
+    ],
+    latitude: 40.5853,
+    longitude: -105.0844,
+  },
+
   // ─── FUTURE CITIES ────────────────────────────────────────
   // To add a new city, copy an existing block above and update:
   //   slug, cityName, metaTitle, metaDescription, heroH1,

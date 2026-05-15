@@ -74,7 +74,7 @@ const resourceCards = [
     title: 'Dumpster Rental Tips for Roofing Projects',
     excerpt:
       'Shingles are heavy. A full roof tear-off can hit weight limits fast. Here is how to size your container for a roofing job and what surcharges to watch for when booking.',
-    href: '#',
+    href: '/blog/roofing-dumpster-rental',
   },
   {
     badge: 'Construction',

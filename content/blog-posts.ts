@@ -986,4 +986,292 @@ export const blogPosts: BlogPost[] = [
 <p>Need roll-off rental options in your area? Browse the <a href="/locations">location guides</a> for local pricing and availability by city.</p>
 `,
   },
+  {
+    slug: 'roofing-dumpster-rental',
+    title: 'Roofing Dumpster Rental: What the Shingles Actually Weigh',
+    excerpt:
+      'Most residential roof tear-offs produce 3–5 tons of shingles. A standard 20-yard container allows 2–4 tons. Here is how to book the right bin and avoid the overweight charge.',
+    category: 'Roofing',
+    coverImage:
+      'https://images.pexels.com/photos/33404248/pexels-photo-33404248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Professional roofer installing asphalt shingles on a new residential roof',
+    date: '2026-05-14',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Roofing dumpster rental runs $350–$600. Most homes need a 20-yard — but shingle weight beats volume. Here is how to size right and skip the overweight fee.',
+    readingTime: 8,
+    keywords: [
+      'roofing dumpster rental',
+      '20 yard roll off dumpster rental',
+      'same day dumpster rental',
+      'roll off dumpster rental',
+      'dumpster for roofing shingles',
+      'shingle weight dumpster',
+    ],
+    toc: [
+      { id: 'weight-limit', title: 'Shingles Max Out Weight Limits Before They Fill the Bin' },
+      { id: 'right-size', title: 'Picking the Right Container for a Roofing Job' },
+      { id: 'cost', title: 'What a Roofing Dumpster Rental Costs' },
+      { id: 'accepted-materials', title: 'What Goes In and What Stays Off the Roof' },
+      { id: 'placement', title: 'How Delivery and Placement Work on a Roofing Job' },
+      { id: 'skip-it', title: 'When a Dumpster Is Not the Right Call' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+    faq: [
+      {
+        question: 'What size dumpster do I need for a roof tear-off?',
+        answer:
+          'A 20-yard container handles most single-family home tear-offs. The key number is the weight limit — a standard 20-yard allows 2–4 tons, and a medium residential roof generates 3–5 tons of shingles. Confirm the specific weight limit before booking, not after the container is already full.',
+      },
+      {
+        question: 'How much does a roofing dumpster rental cost?',
+        answer:
+          'A 7-day roofing dumpster rental typically runs $350–$600 depending on container size, location, and weight allowance. Some companies add a shingle surcharge of $20–$80 on top of the base rate. Ask at booking whether shingles are priced separately or rolled into the flat rate.',
+      },
+      {
+        question: 'Can roofing shingles go in a regular dumpster?',
+        answer:
+          'Yes — asphalt shingles, roofing felt, metal flashing, and plywood decking are all accepted in standard roll-off containers. The only roofing materials that cannot go in are asbestos-containing products, which require licensed abatement and separate disposal. Homes built before 1978 may have asbestos in certain older roofing systems — if in doubt, test before you tear.',
+      },
+      {
+        question: 'How much do roofing shingles weigh per square?',
+        answer:
+          'One square of 3-tab asphalt shingles covers 100 sq ft and weighs 230–250 lbs. Architectural shingles run 350–480 lbs per square. A 20-square roof with architectural shingles produces roughly 7,000–9,600 lbs of debris. If the roof has two layers, double that number.',
+      },
+      {
+        question: 'What happens if shingles exceed the dumpster weight limit?',
+        answer:
+          'You will be billed an overweight fee, typically $40–$200 per extra ton. This is the most common unexpected charge on roofing jobs. Asking the weight limit before booking and counting your roof\'s squares before loading prevents the surprise three days after the job is done.',
+      },
+      {
+        question: 'Can I put multiple layers of old shingles in one dumpster?',
+        answer:
+          'Yes, but the weight adds up fast. A two-layer tear-off on a medium home can produce 6–8 tons. Most standard containers allow 2–4 tons. For multi-layer jobs, confirm a higher weight allowance or plan for a container swap partway through the project.',
+      },
+      {
+        question: 'How long should I rent a dumpster for a roofing project?',
+        answer:
+          'Most roofing tear-offs complete in one to three days, so a standard 7-day rental gives enough buffer. Extensions cost $5–$10 per day. Call the company before your rental period ends — rescheduling fees run higher than the daily extension rate.',
+      },
+      {
+        question: 'Do I need a permit for a roofing dumpster on my driveway?',
+        answer:
+          'No — driveway placement does not require a permit in most cities. If the container needs to go on a public street, most cities require a permit. Fees typically run $20–$150. Confirm with your local permit office if driveway access is not an option.',
+      },
+    ],
+    body: `
+<p>A <strong>roofing dumpster rental</strong> runs $350–$600 for a standard 7-day bin. If you came here thinking shingles were light — they're asphalt. On a roof. Gravity already knew that, and now your weight limit does too.</p>
+
+<p>For most single-family tear-offs, a 20-yard container handles the job. The catch: a standard 20-yard allows 2–4 tons, and a medium residential roof generates 3–5 tons of old shingles. Book the wrong container or skip the weight conversation before booking, and the overweight charge arrives three days after you thought the project was finished.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
+  <p class="text-charcoal">A 20-yard container handles most single-family roofing jobs. Budget $350–$600 for 7 days. Confirm the weight limit — not the cubic-yard capacity — before booking. Shingles are dense, and the overweight fee runs $40–$200 per extra ton.</p>
+</div>
+
+<h2 id="weight-limit">Shingles Max Out Weight Limits Before They Fill the Bin</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/34019842/pexels-photo-34019842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Construction worker on a residential roof removing old shingles during a tear-off project"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Old shingles coming off the roof look manageable from the ground. The scale at the disposal facility has a different take.</figcaption>
+</figure>
+
+<p>One square of standard 3-tab asphalt shingles — 100 sq ft of roofing area — weighs 230–250 lbs. Architectural shingles, now the default on most homes, run 350–480 lbs per square. A ranch home with 20 squares of architectural shingles produces 7,000–9,600 lbs of material in a single tear-off. That is 3.5–4.8 tons.</p>
+
+<p>A standard 20-yard container has a weight limit of 2–4 tons. At the top of that range, a medium single-layer roof fits cleanly. At the bottom, you are in overweight territory before the deck is fully stripped.</p>
+
+<p>The second issue: older homes often have two or three layers of shingles already on the deck. Each layer adds its full weight to the load. A two-layer tear-off on a 20-square roof can produce 6–8 tons — no standard container handles that in a single pull without a specific weight conversation first.</p>
+
+<p>I reckon the overweight charge on roofing jobs traces back to one of two things: nobody asked how many squares were on the roof, or nobody asked how many layers. Usually it is both, and the invoice is correspondingly unpleasant. Dense debris hits weight limits at half capacity. The bin looks half-empty. The scale at the landfill does not.</p>
+
+<h2 id="right-size">Picking the Right Container for a Roofing Job</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/33404080/pexels-photo-33404080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Roof installation on a residential brick house with new asphalt shingles being laid by a contractor"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">The number of new bundles going on tells you how much old material is coming off. Both sides of that transaction weigh roughly the same.</figcaption>
+</figure>
+
+<p>Container selection for roofing comes down to two numbers: how many squares are on the roof, and what the weight limit is on the container you are booking.</p>
+
+<p>A fast way to estimate the square count: ask how many shingle bundles the contractor is ordering. Each bundle covers one-third of a square, so 60 bundles means 20 squares of new material going on — and roughly 20 squares of old material coming off. The old shingles weigh approximately the same as the new ones. That number, combined with the per-square weight for your shingle type, tells you what the load will weigh before the first shingle hits the bin.</p>
+
+<p>If you don't have the bundle order, your contractor can tell you the exact square count from the estimate. Get that number before calling for a container. A 20-square single-layer roof and a 20-square two-layer roof look identical from the driveway and weigh entirely different amounts.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Roof Type</th>
+        <th class="px-4 py-3 text-left font-semibold">Approx. Squares</th>
+        <th class="px-4 py-3 text-left font-semibold">Est. Shingle Weight</th>
+        <th class="px-4 py-3 text-left font-semibold">Recommended Size</th>
+        <th class="px-4 py-3 text-left font-semibold">Watch For</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3">Small shed or garage</td>
+        <td class="px-4 py-3">5–10 squares</td>
+        <td class="px-4 py-3">0.6–2 tons</td>
+        <td class="px-4 py-3 font-semibold text-orange">10-yard</td>
+        <td class="px-4 py-3">Usually within limit</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3">Small single-story, 1 layer</td>
+        <td class="px-4 py-3">15–18 squares</td>
+        <td class="px-4 py-3">2–3 tons</td>
+        <td class="px-4 py-3 font-semibold text-orange">20-yard</td>
+        <td class="px-4 py-3">Confirm 3-ton or 4-ton limit</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3">Medium single-story, 1 layer</td>
+        <td class="px-4 py-3">18–28 squares</td>
+        <td class="px-4 py-3">3–5 tons</td>
+        <td class="px-4 py-3 font-semibold text-orange">20-yard (max weight)</td>
+        <td class="px-4 py-3">Ask for highest weight allowance available</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3">Large or two-story, 1 layer</td>
+        <td class="px-4 py-3">28–40 squares</td>
+        <td class="px-4 py-3">4–7 tons</td>
+        <td class="px-4 py-3 font-semibold text-orange">30-yard</td>
+        <td class="px-4 py-3">May still need a mid-job swap</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="px-4 py-3">Any home, 2+ shingle layers</td>
+        <td class="px-4 py-3">2× single-layer</td>
+        <td class="px-4 py-3">6–10+ tons</td>
+        <td class="px-4 py-3 font-semibold text-orange">30-yard + discuss</td>
+        <td class="px-4 py-3">Split loads or confirm higher weight allowance</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>If you are unsure how many layers are on the deck, have the contractor check the eave edge before the container is ordered. You can often see the layers stacked there. (I have had this conversation approximately two hundred times. The answer is always the same: check the eave edge, count the layers, then call the dumpster company.)</p>
+
+<p>For a full breakdown of container sizing across all project types, see <a href="/blog/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a>.</p>
+
+<h2 id="cost">What a Roofing Dumpster Rental Costs</h2>
+
+<p>Honest numbers for a standard 7-day rental, including delivery, pickup, and disposal up to the weight limit shown.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Container Size</th>
+        <th class="px-4 py-3 text-left font-semibold">Weekly Cost</th>
+        <th class="px-4 py-3 text-left font-semibold">Typical Weight Limit</th>
+        <th class="px-4 py-3 text-left font-semibold">Best Roof Size</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">10-yard</td>
+        <td class="px-4 py-3">$300–$420</td>
+        <td class="px-4 py-3">1–2 tons</td>
+        <td class="px-4 py-3">Shed, small detached garage</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold text-orange">15-yard</td>
+        <td class="px-4 py-3">$350–$480</td>
+        <td class="px-4 py-3">1.5–3 tons</td>
+        <td class="px-4 py-3">Small single-story, tight driveway access</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">20-yard</td>
+        <td class="px-4 py-3">$350–$600</td>
+        <td class="px-4 py-3">2–4 tons</td>
+        <td class="px-4 py-3">Most single-family homes, one layer</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold text-orange">30-yard</td>
+        <td class="px-4 py-3">$450–$700</td>
+        <td class="px-4 py-3">3–6 tons</td>
+        <td class="px-4 py-3">Large homes, multi-layer tear-offs</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Some companies add a shingle surcharge of $20–$80 on top of the base rate. Others roll it into the flat price. That question takes 30 seconds at booking and changes whether the quote matches the invoice. For the full breakdown of what moves the number on any roll-off rental, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
+
+<h2 id="accepted-materials">What Goes In and What Stays Off the Roof</h2>
+
+<p>Standard roofing tear-off debris is accepted in most roll-off containers without issue:</p>
+
+<ul>
+  <li>Asphalt shingles — 3-tab and architectural</li>
+  <li>Wood shingles and cedar shakes</li>
+  <li>Roofing felt, ice-and-water shield, and underlayment</li>
+  <li>Metal flashing, drip edge, and valley metal</li>
+  <li>Fascia boards, soffits, and trim</li>
+  <li>Gutters and downspouts</li>
+  <li>Plywood or OSB roof decking</li>
+</ul>
+
+<p>One category requires a separate conversation before the tear-off begins: <strong>asbestos-containing roofing materials</strong>. Homes built before 1978 — particularly those with flat-roof built-up systems, older fiber cement tiles, or certain composite shingles from that era — sometimes contain asbestos. If there is any doubt, test before you tear. A licensed asbestos inspection typically costs $250–$500. If the material tests positive, a licensed abatement contractor removes it before any standard roofing crew touches the deck, and the dumpster goes on order after abatement is complete — not before. The <a href="https://www.epa.gov/asbestos" target="_blank" rel="noopener noreferrer">EPA's asbestos guidance</a> covers identification and legal disposal requirements in full.</p>
+
+<p>Also not in the bin: paint cans, solvents, or attic chemicals that come down with the demo. Hazardous materials are prohibited in every standard roll-off. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer">EPA's construction and demolition data</a> puts roofing material as one of the largest categories of C&amp;D waste by volume — the vast majority goes in standard containers without issue. The exception is anything with a hazardous classification, and that exception has a real price tag attached to it.</p>
+
+<p>For the complete accepted and prohibited materials breakdown, see <a href="/blog/what-can-you-put-in-a-roll-off-dumpster">What Can You Put in a Roll-Off Dumpster</a>.</p>
+
+<h2 id="placement">How Delivery and Placement Work on a Roofing Job</h2>
+
+<p>The driver needs 60 feet of straight clearance to set a container down. The truck backs in, the container slides off the back, and the truck pulls forward. If your driveway is shorter than 60 feet, measure before booking. Turning a roll-off truck around in a residential cul-de-sac is a memorable event. Not in a good way.</p>
+
+<p>A few things specific to roofing jobs:</p>
+
+<ul>
+  <li><strong>Plywood boards under the container.</strong> Heavy loads leave pressure marks on asphalt driveways. Most companies have plywood pads — not all use them without being asked. Ask before delivery, not after the container is already sitting on the surface.</li>
+  <li><strong>Loading chutes.</strong> A chute lets workers slide shingles directly from the roof edge into the bin instead of carrying bundles down a ladder. Some rental companies supply them; others do not. Confirm before booking if this matters to your crew's efficiency.</li>
+  <li><strong>Street placement permits.</strong> Driveway placement does not require a permit in most municipalities. If the driveway won't work and the container needs to go on the street, contact your city's permit office. Fees run $20–$150 depending on location.</li>
+</ul>
+
+<p>HOA properties add a layer: some associations require pre-approval for container placement or restrict where on the property a bin can sit. Get that confirmation before the driver arrives, not after.</p>
+
+<p>Find roll-off availability and local pricing in your area at <a href="/locations">the location guides</a>.</p>
+
+<h2 id="skip-it">When a Dumpster Is Not the Right Call for a Roofing Job</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/9669805/pexels-photo-9669805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Industrial roll-off dumpster container for construction and roofing waste disposal"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">A roll-off is the right tool for a full tear-off. For a shed repair or a contractor who already handles haul-away, it is often an unnecessary cost.</figcaption>
+</figure>
+
+<p>I will tell you when to skip it.</p>
+
+<p>If the job is a shed roof, a pergola cover, or a partial repair under 8 squares, a roll-off rental will cost more than the alternative. A small shed produces under half a ton of debris. A contractor bag and a run to the local transfer station handles it at a fraction of a week's rental fee.</p>
+
+<p>If your roofing contractor has a dump trailer onsite and their quote includes debris removal, ordering a separate dumpster means paying twice for the same haul. Confirm what the contractor's scope covers before booking anything independently.</p>
+
+<p>If the project is a patch repair — replacing a damaged section rather than a full strip — you likely don't have the volume to justify a 7-day rental. A junk removal service that charges by the load handles a few squares of old shingles at comparable or lower cost, and they do the loading.</p>
+
+<p>For more on matching the right disposal method to the project, browse the <a href="/resources">resources section</a>.</p>
+
+<p>Shingles always weigh more than the person scheduling the container expects. Count the squares, ask about the layers, confirm the weight limit, and the quote and the invoice will be close. If they're still not — give us a call before the next one. It is always the second layer nobody mentioned.</p>
+`,
+  },
 ]
