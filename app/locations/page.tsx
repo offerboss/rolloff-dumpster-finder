@@ -51,17 +51,17 @@ const cityCards = [
   },
   {
     city: 'Boulder',
-    slug: null,
+    slug: 'boulder-co-dumpster-rental',
     desc: 'Boulder area roll-off dumpster rental for home cleanouts, renovation debris, and construction projects in Boulder County.',
   },
   {
     city: 'Grand Junction',
-    slug: null,
+    slug: 'grand-junction-co-dumpster-rental',
     desc: 'Western Slope roll-off dumpster rental covering Grand Junction, Fruita, and the Grand Valley for cleanouts and construction debris.',
   },
   {
     city: 'Steamboat Springs',
-    slug: null,
+    slug: 'steamboat-springs-co-dumpster-rental',
     desc: 'Routt County roll-off dumpster rental for seasonal cleanouts, construction projects, and debris removal in the Yampa Valley.',
   },
 ]

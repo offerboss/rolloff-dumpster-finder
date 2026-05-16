@@ -698,6 +698,630 @@ export const cityLocations: CityLocation[] = [
     longitude: -105.0844,
   },
 
+  // ─── BOULDER ──────────────────────────────────────────────
+  {
+    slug: 'boulder-co-dumpster-rental',
+    cityName: 'Boulder',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Boulder, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Boulder dumpster rental for home cleanouts, roofing tear-offs, renovation debris, and construction jobs. Serving Boulder County and nearby communities.',
+    primaryKeyword: 'boulder dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental boulder co',
+      'boulder construction dumpster rental',
+      'roll off dumpster boulder',
+      'roll off dumpster boulder co',
+      'rolloff dumpsters boulder',
+      'roll offs boulder co',
+      '10 yard dumpster rental boulder',
+      '20 yard dumpster rental boulder',
+      '30 yard dumpster rental boulder',
+    ],
+    heroH1: 'Dumpster Rental in Boulder, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for home cleanouts, roofing tear-offs, construction debris, and renovation projects across Boulder and Boulder County.',
+    introParagraphs: [
+      "Boulder's older neighborhoods generate steady dumpster demand year-round. Whittier and Mapleton Hill have Victorian and early-20th-century homes that see full gut renovations as ownership changes hands. University Hill is dense with student rental properties — turnover after the school year regularly fills 10 and 20-yard containers. Table Mesa and Martin Acres are packed with 1960s and 1970s ranches where kitchens, baths, and basements are being updated. The renovation rate here is high because the housing stock is old and the land value makes improvement worth it.",
+      'The Marshall Fire in December 2021 burned more than 1,000 homes in Louisville and Superior, directly east of Boulder. Demolition, debris removal, and new construction in those communities has driven container demand throughout Boulder County for years. Boulder itself sees consistent infill development — tear-downs, ADU additions, and commercial build-outs along corridors like Broadway produce construction debris hauling needs on a near-constant basis. Projects near Pearl Street and the Hill area often require permit coordination for street-side container placement.',
+      'Rolloff Dumpster Finder connects Boulder customers to container providers serving the city and surrounding Boulder County communities. Boulder is a premium market — pricing runs roughly 5 to 10 percent above Denver rates, and street placement typically requires a City of Boulder Right-of-Way permit. We help you find the right container size for your job so you are not booking too large or calling for a second pull.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, garage clear-outs, small landscaping debris, minor renovation waste.',
+        range: '$290–$510 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, deck tear-downs, light roofing debris.',
+        range: '$330–$570 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, roofing tear-offs, mid-size renovation debris, estate cleanouts.',
+        range: '$400–$690 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Full gut renovations, large roofing jobs, construction framing debris, large estate cleanouts.',
+        range: '$470–$820 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction projects, commercial demolition, multi-unit property cleanouts.',
+        range: '$610–$1,150+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Boulder has no shortage of older homes that have accumulated decades of material. Whittier and Mapleton Hill cleanouts often surface furniture, appliances, and years of basement storage. A 20-yard handles most full-home jobs without needing a second pull.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Front Range hail events push roofing turnover across Boulder County every few years. A 20-yard container is standard for a residential tear-off. Shingles are heavier than they look — confirm the weight limit before loading.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Boulder sees consistent infill development, ADU builds, and commercial renovation along Broadway and Arapahoe. Mixed C&D waste from framing, drywall, and concrete works best in a 20 or 30-yard container.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Mid-century ranches in Table Mesa and Martin Acres are prime remodel candidates. Cabinet pull-outs, tile, fixtures, and drywall from a kitchen or bath gut typically fill a 10 or 15-yard container.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'University Hill rental properties often need cleanouts between tenants. Older Mapleton Hill and Newlands homes accumulate decades of basement storage. A 10-yard handles most garage or single-basement jobs.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Frasier Meadows and the Gunbarrel area have older homeowners whose estates require full-property cleanouts. These jobs produce more volume than expected — a 20 or 30-yard gives you room to sort without booking a second haul.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree removal, sod pull-outs, and brush clearing after a yard project are common in Boulder. Clean yard waste typically hauls at a lower rate than mixed loads — ask about green waste pricing before booking.',
+      },
+      {
+        number: '08',
+        name: 'Marshall Fire Reconstruction',
+        description:
+          'The December 2021 Marshall Fire generated major demolition and reconstruction activity in Louisville and Superior. Container demand throughout Boulder County remains elevated for ongoing rebuild projects in those communities.',
+      },
+      {
+        number: '09',
+        name: 'ADU & Addition Debris',
+        description:
+          'Boulder allows accessory dwelling units on many properties, and ADU builds produce framing, drywall, and concrete waste. A 10 or 20-yard covers most single-unit ADU construction debris.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Boulder depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Boulder and avoids the permit process entirely. Most residential driveways can accommodate a 10 or 20-yard container with board protection for the surface.',
+      'Street placement in Boulder requires a Right-of-Way Use Permit from the City of Boulder Public Works department. Apply before your scheduled delivery date — approval timelines vary.',
+      'Mature trees and narrow streets in Mapleton Hill and Chautauqua can restrict container delivery. Confirm truck access before booking, especially on tight residential blocks or alleys.',
+      'Neighborhoods near Pearl Street, University Hill, and Boulder historic districts may have HOA rules or city guidelines that restrict container placement or require advance notice.',
+      'Alley access is available in some older central Boulder neighborhoods. Verify width and clearance with your provider before committing to alley delivery.',
+      'Boulder sits at roughly 5,430 feet. Winter snow and ice can delay delivery or pickup — factor weather into your project timeline for fall and spring jobs.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Whittier',
+      'Mapleton Hill',
+      'University Hill',
+      'Goss-Grove',
+      'Martin Acres',
+      'Table Mesa',
+      'Chautauqua',
+      'Newlands',
+      'Gunbarrel',
+      'Crossroads',
+      'Holiday',
+      'Frasier Meadows',
+      'Wonderland Hills',
+      'Kalmia',
+      'Dakota Ridge',
+    ],
+    nearbyCities: [
+      'Louisville',
+      'Superior',
+      'Lafayette',
+      'Longmont',
+      'Broomfield',
+      'Westminster',
+      'Erie',
+      'Nederland',
+      'Lyons',
+      'Niwot',
+      'Eldorado Springs',
+      'Mead',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Boulder?',
+        answer:
+          'Boulder dumpster rental runs $290–$510 for a 10-yard container and $400–$690 for a 20-yard, with pricing roughly 5 to 10 percent above Denver market rates. A 30-yard lands in the $470–$820 range. Street placement requires a City of Boulder Right-of-Way permit, which is a separate cost.',
+      },
+      {
+        question: 'What size dumpster do I need for a Boulder home cleanout?',
+        answer:
+          'A 20-yard dumpster handles most full-home cleanouts in Boulder. For a garage or single-room cleanout, a 10-yard is usually enough. Older Mapleton Hill and Whittier homes with decades of accumulated material may need a 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Boulder?',
+        answer:
+          'Yes. A 20-yard container is standard for residential roofing tear-offs in Boulder. Shingles are heavier than they appear — a full tear-off can produce 3–5 tons of material. Confirm the weight allowance before loading to avoid overage charges.',
+      },
+      {
+        question: 'Do I need a permit to put a dumpster on a Boulder street?',
+        answer:
+          'Yes. Boulder requires a Right-of-Way Use Permit from the City of Boulder Public Works department for any container in a public right-of-way. Driveway placement does not require a permit and is the simpler option for most residential jobs.',
+      },
+      {
+        question: 'Can I rent a dumpster for concrete, dirt, or heavy debris in Boulder?',
+        answer:
+          'Yes, but heavy materials like concrete, soil, and brick require a container with appropriate weight allowances. Standard roll-off dumpsters hit their weight limits quickly with dense debris. Tell your provider upfront what you are hauling so they size the container correctly.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Boulder?',
+        answer:
+          'Same-week delivery is often available. Demand runs high during peak construction season and after hail events. Booking a few days in advance gives you more flexibility on timing and container selection.',
+      },
+      {
+        question: 'Do you serve nearby cities like Louisville, Superior, and Lafayette?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves customers throughout Boulder County, including Louisville, Superior, Lafayette, Longmont, Erie, Broomfield, Westminster, Nederland, and Lyons. Availability and pricing vary by specific delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Boulder?',
+        answer:
+          'Standard rental periods run 7–10 days. Extensions are available at a daily rate, typically $5–$10 per day. If your project timeline is uncertain, ask about extended rental pricing when you book.',
+      },
+      {
+        question: 'Are there items I cannot throw in a Boulder dumpster?',
+        answer:
+          'Paint, chemicals, motor oil, propane tanks, batteries, tires, appliances with refrigerants, asbestos, and hazardous waste are not accepted in standard roll-off dumpsters. Electronics restrictions vary by provider. Call ahead if you are unsure about a specific item.',
+      },
+      {
+        question: 'Are Boulder delivery access and street conditions harder to navigate than Denver?',
+        answer:
+          'Some Boulder neighborhoods have real access constraints — narrow historic streets in Mapleton Hill, mature tree canopy, and tight driveways can limit delivery options. Providers familiar with Boulder plan around these conditions, but confirm truck access before scheduling in denser central neighborhoods.',
+      },
+    ],
+    latitude: 40.015,
+    longitude: -105.2705,
+  },
+
+  // ─── GRAND JUNCTION ───────────────────────────────────────
+  {
+    slug: 'grand-junction-co-dumpster-rental',
+    cityName: 'Grand Junction',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Grand Junction, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Grand Junction dumpster rental for home cleanouts, roofing jobs, construction debris, and estate cleanouts. Serving Mesa County and the Grand Valley.',
+    primaryKeyword: 'grand junction dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental grand junction co',
+      'grand junction construction dumpster rental',
+      'roll off dumpster grand junction',
+      'roll off dumpster grand junction co',
+      'rolloff dumpsters grand junction',
+      'roll offs grand junction co',
+      '10 yard dumpster rental grand junction',
+      '20 yard dumpster rental grand junction',
+      '30 yard dumpster rental grand junction',
+    ],
+    heroH1: 'Dumpster Rental in Grand Junction, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for home cleanouts, roofing tear-offs, construction debris, and estate cleanouts across Grand Junction and the Grand Valley.',
+    introParagraphs: [
+      "Grand Junction's housing stock spans a wide range. Lincoln Park and Fruitvale have homes from the 1920s through the 1950s — the kind that produce full kitchen and bath gut jobs when ownership changes. Orchard Mesa and Redlands have postwar ranches where basements and roofs are being updated at a steady pace. Colorado Mesa University drives rental property turnover near College Heights, and the cleanout cycle there is as predictable as the academic calendar.",
+      'Grand Junction is the staging area for the Piceance Basin, one of Colorado western slope oil and gas regions. When commodity prices move, crews and equipment follow — and when they pull out, the cleanout work starts. Yards, shops, and worker housing on the west end of town generate consistent demand for 30 and 40-yard containers during downturns. That cycle has run for decades, and current natural gas activity has kept it going. Agricultural estates in the Palisade and Clifton areas also produce periodic cleanout jobs as properties transfer between generations.',
+      'The Western Slope has fewer dumpster providers than the Front Range. That means less price competition and occasionally fewer container sizes on short notice. Rolloff Dumpster Finder connects Grand Junction customers to available providers across Mesa County without working through a short list and taking whatever is left. Book a few days ahead if your project has a firm start date.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, garage clear-outs, small landscaping debris, minor renovation waste.',
+        range: '$300–$520 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, deck tear-downs, light roofing debris.',
+        range: '$340–$580 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, roofing tear-offs, mid-size renovation debris, estate cleanouts.',
+        range: '$415–$700 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Full gut renovations, large roofing jobs, construction framing debris, industrial cleanouts.',
+        range: '$490–$840 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction projects, commercial demolition, oil field equipment yards, multi-unit cleanouts.',
+        range: '$625–$1,200+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Older Lincoln Park and Fruitvale homes accumulate decades of material. Estate and owner-occupied cleanouts in these neighborhoods regularly fill 20-yard containers. Orchard Mesa ranches with full basements often run closer to a 30-yard.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Grand Junction sees intense UV exposure and high winds that degrade roofing faster than Front Range markets. A 20-yard container handles most residential tear-offs. Shingles are heavier than they look — confirm the weight limit before loading.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Commercial development along North Avenue and residential builds on the northwest side produce steady framing and drywall waste. A 20 or 30-yard handles most mixed C&D loads from new construction or gut renovations.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Postwar ranches in Orchard Mesa and Redlands are prime remodel candidates as they trade hands. Cabinet pull-outs, tile, fixtures, and drywall from a kitchen or bath gut typically fill a 10 or 15-yard container.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Ranch homes throughout Mesa County often have basements packed with decades of storage. CMU rental property turnover near College Heights generates regular single-unit cleanout work. A 10-yard handles most garage or single-room jobs.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Agricultural estates east of Grand Junction in the Palisade and Clifton areas produce large-volume cleanout jobs. Farm equipment, irrigation hardware, and household contents from longtime owners can easily fill a 30-yard container.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Desert landscaping removal, old irrigation systems, and orchard tree trimming are common in Mesa County. Clean green waste typically hauls at a lower rate than mixed loads — confirm green waste pricing before booking.',
+      },
+      {
+        number: '08',
+        name: 'Oil & Gas Industrial Cleanouts',
+        description:
+          'Equipment yards, crew quarters, and industrial facilities tied to Western Slope energy production generate periodic large-volume cleanout work. A 30 or 40-yard container handles most oilfield-adjacent cleanouts when operations scale down.',
+      },
+      {
+        number: '09',
+        name: 'Demolition Debris',
+        description:
+          'Concrete, block, and structural debris from commercial or residential teardowns in Grand Junction require heavy-material containers with appropriate weight allowances. Tell your provider upfront what you are hauling so they size it correctly.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Grand Junction depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and avoids the permit process entirely. Most Grand Junction driveways can accommodate a 10 or 20-yard container with board protection for the surface.',
+      'Street placement within Grand Junction city limits requires a Right-of-Way permit from the City of Grand Junction Engineering department. Applications should be submitted before your scheduled delivery date.',
+      'Rural properties and ranch driveways on the outskirts of Mesa County may have unpaved surfaces, soft shoulders, or weight-restricted access roads. Confirm truck access with your provider before booking.',
+      'Properties in the Redlands have larger lots where a container can often be staged away from the street, which simplifies the permit question.',
+      'High winds are common in the Grand Valley. Secure any lightweight debris and tarps before the pickup truck arrives — airborne material during haul is a provider issue that lands back on the customer.',
+      'Industrial yards on the west end of Grand Junction may have gate clearance or surface conditions that limit delivery options. Confirm dimensions and surface type with your provider upfront.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Grand Junction',
+      'Orchard Mesa',
+      'Redlands',
+      'Lincoln Park',
+      'Fruitvale',
+      'College Heights',
+      'Two Rivers',
+      'North Grand Junction',
+      'Bookcliff Heights',
+      'Riverside',
+      'Ridgecrest',
+      'Patterson Road Corridor',
+      'Mesa',
+    ],
+    nearbyCities: [
+      'Fruita',
+      'Clifton',
+      'Palisade',
+      'Loma',
+      'Mack',
+      'Whitewater',
+      'Delta',
+      'Montrose',
+      'Rifle',
+      'Parachute',
+      'De Beque',
+      'Glenwood Springs',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Grand Junction?',
+        answer:
+          'Grand Junction dumpster rental runs $300–$520 for a 10-yard container and $415–$700 for a 20-yard. The Western Slope market typically prices 5 to 10 percent above Denver rates due to fewer providers and longer haul distances. A 30-yard lands in the $490–$840 range. Book in advance — inventory can be limited.',
+      },
+      {
+        question: 'What size dumpster do I need for a Grand Junction home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Grand Junction. For a garage or single-room job, a 10-yard is usually sufficient. Older Orchard Mesa ranches with full basements and decades of material often need a 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Grand Junction?',
+        answer:
+          'Yes. A 20-yard container is standard for residential roofing tear-offs. Grand Junction has high UV exposure and wind that push roofing turnover — shingles hit weight limits fast, so confirm the allowance before loading. A full tear-off can produce 3–5 tons of material.',
+      },
+      {
+        question: 'Do I need a permit to put a dumpster on a Grand Junction street?',
+        answer:
+          'Yes. Street placement within Grand Junction city limits requires a Right-of-Way permit from the City Engineering department. Driveway placement does not require a permit and is the simpler option for most residential jobs. Rural Mesa County properties are governed separately — check with your provider.',
+      },
+      {
+        question: 'Can I rent a dumpster for concrete, dirt, or heavy debris in Grand Junction?',
+        answer:
+          'Yes, but heavy materials like concrete, soil, and brick require a container with appropriate weight allowances. Standard roll-off dumpsters hit weight limits quickly with dense debris. Tell your provider upfront what you are hauling so they size the container correctly.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Grand Junction?',
+        answer:
+          'The Grand Junction market has fewer providers than Front Range cities. Same-week delivery is often available, but inventory can be tighter. Book a few days ahead if your project has a firm start date, especially during active construction season or post-storm roofing cycles.',
+      },
+      {
+        question: 'Do you serve nearby cities like Fruita, Clifton, and Palisade?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves customers throughout Mesa County, including Fruita, Clifton, Palisade, Loma, Mack, Delta, and Montrose. Availability and delivery pricing vary by location — rural delivery sometimes carries an additional fee.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Grand Junction?',
+        answer:
+          'Standard rental periods run 7–10 days. Extensions are available at a daily rate, typically $5–$10 per day. If your project timeline is uncertain, ask about extended rental pricing when you book — it is usually more cost-effective than adding days mid-rental.',
+      },
+      {
+        question: 'Are there items I cannot throw in a Grand Junction dumpster?',
+        answer:
+          'Paint, chemicals, motor oil, propane tanks, batteries, tires, appliances with refrigerants, asbestos, and hazardous waste are not accepted in standard roll-off dumpsters. This matters in Grand Junction given the volume of oil-related materials on some properties. Call ahead if you have anything in that category.',
+      },
+      {
+        question: 'Does oil and gas activity affect dumpster availability in Grand Junction?',
+        answer:
+          'It can. When energy activity picks up in the Piceance Basin, commercial container demand increases and residential inventory can tighten. If you are planning a project during a period of high oilfield activity in Mesa County, booking ahead is worth it.',
+      },
+    ],
+    latitude: 39.0639,
+    longitude: -108.5506,
+  },
+
+  // ─── STEAMBOAT SPRINGS ────────────────────────────────────
+  {
+    slug: 'steamboat-springs-co-dumpster-rental',
+    cityName: 'Steamboat Springs',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Steamboat Springs, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Steamboat Springs dumpster rental for condo remodels, roofing tear-offs, seasonal cleanouts, and construction debris in Routt County and the Yampa Valley.',
+    primaryKeyword: 'steamboat springs dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental steamboat springs co',
+      'steamboat springs construction dumpster rental',
+      'roll off dumpster steamboat springs',
+      'roll off dumpster steamboat springs co',
+      'rolloff dumpsters steamboat springs',
+      'roll offs steamboat springs co',
+      '10 yard dumpster rental steamboat springs',
+      '20 yard dumpster rental steamboat springs',
+      '30 yard dumpster rental steamboat springs',
+    ],
+    heroH1: 'Dumpster Rental in Steamboat Springs, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for condo remodels, roofing tear-offs, seasonal cleanouts, and construction debris across Steamboat Springs and the Yampa Valley.',
+    introParagraphs: [
+      "Steamboat Springs has an unusual housing mix for a mountain town. Old Town has early 20th-century homes alongside newer infill — both see renovation activity as owners update for short-term rental income. The ski area base is layered with 1970s and 1980s condo and townhome development: Storm Meadows, Ski Time Square, and the Thunderhead corridor. Many of those units have not been touched since original construction and are overdue for gut remodels. Short-term rental demand drives the renovation cycle — owners update between seasons to justify the nightly rate.",
+      'Steamboat runs a two-season economy. The post-ski window — roughly April through June — is when most renovation work happens. Contractors move before summer visitors arrive, and ski-area-adjacent properties see a predictable run of roofing jobs, deck replacements, and interior remodels. The pre-season fall window repeats the cycle in reverse. New luxury development at Wildhorse Meadows and along the US-40 corridor adds consistent construction debris to the mix.',
+      'Routt County has limited dumpster providers. A remote mountain resort market with seasonal demand spikes does not support a large container inventory, and availability tightens fast during peak renovation windows in spring and fall. Rolloff Dumpster Finder connects Steamboat customers to providers covering the Yampa Valley so you can book before the window closes. A 20-yard in Steamboat costs more than the same box in Denver.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, condo clear-outs, small landscaping debris, minor renovation waste.',
+        range: '$315–$545 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, condo gut jobs, deck tear-downs, light roofing debris.',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full condo or home cleanouts, roofing tear-offs, mid-size renovation debris, estate cleanouts.',
+        range: '$435–$750 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Full gut renovations, large roofing jobs, construction framing debris, multi-unit cleanouts.',
+        range: '$520–$900 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction projects, commercial demolition, large-scale resort-area builds.',
+        range: '$670–$1,280+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Old Town properties and full-time residential homes in Steamboat generate the same cleanout demand as any aging housing market. A 20-yard handles most whole-home jobs. Older properties near downtown often have more material than expected once the basement gets cleared.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Mountain weather — heavy snow loads, freeze-thaw cycles, and UV at elevation — pushes roofing turnover faster than lower-altitude markets. A 20-yard container is standard for a residential tear-off. Confirm the weight allowance before loading, especially with older comp shingles.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'New development in Wildhorse Meadows and commercial builds along US-40 produce steady framing and drywall waste. Ski-area-adjacent construction jobs often run on tight spring and fall schedules before the tourist season opens. A 20 or 30-yard covers most mixed C&D loads.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Storm Meadows and Ski Time Square units from the 1970s and 1980s are prime kitchen and bath remodel candidates. Cabinet pull-outs, tile, fixtures, and drywall from a condo gut typically fill a 10 or 15-yard container.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Seasonal properties accumulate gear, furniture, and ski equipment over years. A garage or storage unit cleanout before a sale or rental conversion is common in Steamboat. A 10-yard handles most single-space jobs.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-time Steamboat and Routt County residents leaving large properties require full-estate cleanouts. Ranch properties on the valley floor can produce significant volume — a 30-yard gives you room to work without a second pull.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, brush removal, and sod replacement after a landscaping overhaul are common in Steamboat. Clean green waste typically hauls at a lower rate than mixed loads. Confirm green waste pricing before booking.',
+      },
+      {
+        number: '08',
+        name: 'Condo & Townhome Remodels',
+        description:
+          'The ski area base has the highest concentration of aging condo inventory in Steamboat. Full gut remodels — flooring, cabinets, drywall, fixtures — are common as owners modernize units for short-term rental platforms. A 15 or 20-yard covers most full-unit jobs.',
+      },
+      {
+        number: '09',
+        name: 'Seasonal Property Cleanouts',
+        description:
+          'Vacation homes that change ownership or get converted to long-term rentals often require complete cleanouts. The post-ski and pre-ski transition windows drive most of this work. A 20-yard handles most furnished-property cleanouts comfortably.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Steamboat Springs depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Steamboat and avoids the permit process. Confirm the driveway surface and slope with your provider — steep mountain driveways and unpaved surfaces can limit container options.',
+      'Street placement in Steamboat Springs requires coordination with the City of Steamboat Springs Public Works department. Apply before your scheduled delivery date — approval timelines vary.',
+      'Ski-area-adjacent complexes in Storm Meadows, Ski Time Square, and Wildhorse Meadows typically have HOA rules governing container placement and may require advance notice or restrict placement to specific areas.',
+      'Steep and narrow roads in mountain neighborhoods above town can limit delivery truck access. Confirm truck clearance and road surface conditions before booking, especially at higher elevations.',
+      'Spring deliveries — April and May in particular — can be complicated by mud season and icy driveways. Build schedule flexibility into spring renovation projects.',
+      'Some Routt County rural routes have weight restrictions or seasonal road bans that affect heavy delivery trucks. If your property is on a rural road, verify access conditions with your provider before scheduling.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Old Town',
+      'Downtown Steamboat Springs',
+      'Storm Meadows',
+      'Ski Time Square',
+      'Thunderhead',
+      'Wildhorse Meadows',
+      'Fish Creek',
+      'South Valley',
+      'West Steamboat',
+      'Eagleridge',
+      'Steamboat II',
+      'Emerald Mountain',
+      'Haymaker',
+    ],
+    nearbyCities: [
+      'Hayden',
+      'Craig',
+      'Oak Creek',
+      'Yampa',
+      'Milner',
+      'Clark',
+      'Toponas',
+      'Phippsburg',
+      'Kremmling',
+      'Walden',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Steamboat Springs?',
+        answer:
+          'Steamboat Springs dumpster rental runs $315–$545 for a 10-yard container and $435–$750 for a 20-yard. The Routt County market prices roughly 10 to 15 percent above Denver rates — fewer providers and longer haul distances drive that gap. A 30-yard lands in the $520–$900 range.',
+      },
+      {
+        question: 'What size dumpster do I need for a Steamboat Springs condo or home cleanout?',
+        answer:
+          'A 20-yard handles most full-condo or home cleanouts in Steamboat. For a single unit gut remodel in Storm Meadows or Ski Time Square, a 15-yard often covers the job. Larger seasonal properties or Old Town homes with basements typically need a 20 or 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Steamboat Springs?',
+        answer:
+          'Yes. A 20-yard container is standard for residential roofing tear-offs. Mountain weather accelerates roofing wear — heavy snow loads and freeze-thaw cycles shorten roof life compared to lower elevations. Confirm the weight allowance before loading; shingles hit weight limits fast.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster on a Steamboat Springs street?',
+        answer:
+          'Yes. Street placement in Steamboat Springs requires coordination with City of Steamboat Springs Public Works. Driveway placement does not require a permit and is simpler for most residential jobs. HOA properties near the ski area may have additional restrictions regardless of location.',
+      },
+      {
+        question: 'Can I rent a dumpster for concrete, dirt, or heavy debris in Steamboat Springs?',
+        answer:
+          'Yes, but heavy materials require a container sized for the weight — not just the volume. Concrete, soil, and brick hit standard weight limits quickly. Tell your provider what you are hauling before booking so they can match the container to the load.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Steamboat Springs?',
+        answer:
+          'Routt County has fewer providers than Front Range markets. Same-week delivery is possible in off-peak periods, but spring renovation windows tighten availability fast. Book a week or more ahead if your project starts in April, May, or September when contractor demand is highest.',
+      },
+      {
+        question: 'Do you serve nearby towns like Hayden, Craig, and Oak Creek?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves customers throughout Routt County and the Yampa Valley, including Hayden, Craig, Oak Creek, Yampa, Clark, and Milner. Rural delivery may carry additional fees depending on distance and road conditions.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Steamboat Springs?',
+        answer:
+          'Standard rental periods run 7–10 days. Extensions are available at a daily rate, typically $5–$10 per day. Mountain projects can run long due to weather delays — ask about extended rental terms when you book rather than adding days after the fact.',
+      },
+      {
+        question: 'Are there items I cannot throw in a Steamboat Springs dumpster?',
+        answer:
+          'Paint, chemicals, motor oil, propane tanks, batteries, tires, appliances with refrigerants, asbestos, and hazardous waste are not accepted in standard roll-off dumpsters. Old mountain cabins and dated condo units sometimes contain materials that fall into restricted categories — call ahead if you are unsure.',
+      },
+      {
+        question: 'When is the best time to schedule a dumpster in Steamboat Springs?',
+        answer:
+          'The post-ski window — late April through early June — is the most common renovation season, but also when availability tightens most. If you can schedule outside that window, late summer and early fall typically have better lead times. Book early regardless of the season.',
+      },
+    ],
+    latitude: 40.4849,
+    longitude: -106.8317,
+  },
+
   // ─── FUTURE CITIES ────────────────────────────────────────
   // To add a new city, copy an existing block above and update:
   //   slug, cityName, metaTitle, metaDescription, heroH1,
