@@ -77,11 +77,11 @@ const resourceCards = [
     href: '/blog/roofing-dumpster-rental',
   },
   {
-    badge: 'Construction',
-    title: 'Construction Dumpster Rental Guide',
+    badge: 'Buyers Guide',
+    title: 'Choosing a Dumpster Rental Company: What Actually Matters',
     excerpt:
-      'New builds and major renovations produce mixed C&D waste fast. This guide covers container sizing, prohibited materials on job sites, and how to keep the project moving without a second haul.',
-    href: '#',
+      'The quote looked reasonable. The invoice had three additional charges, two of which had footnotes. Here is what to compare before you hand over a card number.',
+    href: '/blog/how-to-choose-a-dumpster-rental-company',
   },
   {
     badge: 'Cleanouts',

@@ -1274,4 +1274,225 @@ export const blogPosts: BlogPost[] = [
 <p>Shingles always weigh more than the person scheduling the container expects. Count the squares, ask about the layers, confirm the weight limit, and the quote and the invoice will be close. If they're still not — give us a call before the next one. It is always the second layer nobody mentioned.</p>
 `,
   },
+  {
+    slug: 'how-to-choose-a-dumpster-rental-company',
+    title: 'Choosing a Dumpster Rental Company: What Actually Matters',
+    excerpt:
+      'The quote looked reasonable. The invoice had three additional charges, two of which had footnotes. Here is what to compare before you hand over a card number.',
+    category: 'Buyers Guide',
+    coverImage:
+      'https://images.pexels.com/photos/33929758/pexels-photo-33929758.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt:
+      'Blue industrial roll-off dumpster container positioned outside a modern commercial building',
+    date: '2026-05-16',
+    author: 'Adam Chandler',
+    metaDescription:
+      'How to choose a roll-off dumpster rental company without hidden fees or surprise invoices. What to compare, what to ask, and when it is time to keep looking.',
+    readingTime: 8,
+    keywords: [
+      'roll off dumpster rental companies',
+      'dumpster rental companies near me',
+      'local dumpster rental',
+      'dumpster rental services',
+      'cheapest dumpster rental near me',
+      'how to choose a dumpster rental company',
+    ],
+    toc: [
+      { id: 'quote-vs-invoice', title: 'The Gap Between the Quote and the Invoice' },
+      { id: 'what-to-compare', title: 'Five Things Worth Comparing Between Companies' },
+      { id: 'red-flags', title: 'Three Red Flags That Should Send You Elsewhere' },
+      { id: 'pricing-table', title: 'What the Numbers Actually Look Like' },
+      { id: 'when-to-skip', title: 'When to Skip the Roll-Off Entirely' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+    faq: [
+      {
+        question: 'How do I find dumpster rental companies near me?',
+        answer:
+          'Search for local roll-off providers and confirm they serve your specific zip code — delivery zones are tighter than they look on a map. Get at least two written quotes before booking. Rolloff Dumpster Finder matches customers to available local providers across Colorado.',
+      },
+      {
+        question: 'What should I compare when choosing a dumpster rental company?',
+        answer:
+          'Compare the all-in price, not just the advertised base rate. The base rate rarely includes fuel surcharges, disposal fees, or overage charges. Ask for an itemized written quote and compare the total cost including the weight allowance, rental period, and the per-ton overage rate.',
+      },
+      {
+        question: 'What is a fair price for a 20-yard dumpster rental?',
+        answer:
+          'In the Front Range Colorado market, a 20-yard roll-off rental runs $380–$650 all-in for a standard 7–10 day rental. Mountain and rural markets run 5–10 percent higher. If you are paying more than $700 for a suburban residential 20-yard, ask for an itemized breakdown — it may be justified, but it is worth confirming.',
+      },
+      {
+        question: 'Are there hidden fees in dumpster rentals?',
+        answer:
+          'Fuel surcharges ($15–$35), environmental or disposal fees ($10–$30), and weight overage charges ($65–$95 per ton over the included limit) are the most common additions to base quotes. Extended rental fees ($5–$15 per day past the included period) are another. A written itemized quote shows all of these before you commit.',
+      },
+      {
+        question: 'How fast can a company deliver a dumpster?',
+        answer:
+          'Same-day delivery is available from most providers, typically at a premium of $50–$100 above standard scheduling. Next-day delivery is standard when ordered before midday. For planned projects, booking two to three days ahead usually gets you a better rate and a wider choice of container sizes.',
+      },
+      {
+        question: 'Do smaller local companies charge more or less than national ones?',
+        answer:
+          'It varies by market. Local operators sometimes have lower overhead and price under national rates, but some charge more due to smaller inventories. National waste companies are occasionally competitive in dense markets where they already run routes. Compare specific written quotes rather than assuming either direction.',
+      },
+      {
+        question: 'What happens if my dumpster gets overloaded?',
+        answer:
+          'The driver may refuse to haul a visibly overloaded container or one that exceeds legal road weight. More commonly, the company hauls it and bills the overage — typically $65–$95 per ton over the included limit. Ask for the overage rate in writing before you book, not after the container has already left your driveway.',
+      },
+      {
+        question: 'Can I cancel or reschedule a dumpster rental?',
+        answer:
+          'Most companies allow cancellation or rescheduling with 24–48 hours notice at no charge. Same-day cancellations often carry a $50–$75 fee. Read the cancellation policy in your written quote — it is usually one paragraph and worth the minute it takes.',
+      },
+    ],
+    body: `
+<p>Finding a dumpster rental company is easy. (I reckon there are a dozen within ten miles of you right now, including at least one named something like "Just Bins" and another that appears to be a guy with a truck and an email address.) Finding a <strong>roll-off dumpster rental company</strong> that won't follow up with a surprise invoice after the container is already gone — that takes a bit more work. The short version: compare all-in pricing, not just the base rate. Ask about weight limits before you book. And read the overage policy the way you'd read a car rental agreement, because the penalties have similar energy.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">Get an itemized quote — not a headline number. Ask about weight allowances and overage charges before you commit. A company that won't tell you the overage rate upfront is one you will hear from again on the invoice.</p>
+</div>
+
+<nav class="not-prose my-8">
+  <p class="text-sm font-semibold uppercase tracking-wide text-gray-500 mb-3">In This Guide</p>
+  <ol class="list-decimal list-inside space-y-1 text-sm text-charcoal">
+    <li><a href="#quote-vs-invoice" class="text-orange hover:underline">The Gap Between the Quote and the Invoice</a></li>
+    <li><a href="#what-to-compare" class="text-orange hover:underline">Five Things Worth Comparing Between Companies</a></li>
+    <li><a href="#red-flags" class="text-orange hover:underline">Three Red Flags That Should Send You Elsewhere</a></li>
+    <li><a href="#pricing-table" class="text-orange hover:underline">What the Numbers Actually Look Like</a></li>
+    <li><a href="#when-to-skip" class="text-orange hover:underline">When to Skip the Roll-Off Entirely</a></li>
+    <li><a href="#faq" class="text-orange hover:underline">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="quote-vs-invoice">The Gap Between the Quote and the Invoice</h2>
+
+<p>The base rate you see advertised is rarely what you pay. I watched this play out hundreds of times driving a roll-off truck from 2003 to 2013. A customer booked what looked like a $380 rental. The invoice was $520. Nobody lied — the gap just lived in six line items nobody mentioned on the phone.</p>
+
+<p>Here is what typically sits between the quote and the final bill:</p>
+
+<ul class="my-4 space-y-2 pl-5 list-disc text-charcoal">
+  <li><strong>Fuel surcharge:</strong> $15–$35, sometimes labeled "environmental fee." Sometimes both exist on the same invoice under different names.</li>
+  <li><strong>Disposal or tipping fee:</strong> $10–$30. Covers what the landfill charges to accept the load. A real cost, but rarely built into the advertised rate.</li>
+  <li><strong>Weight overage:</strong> $65–$95 per ton over the included limit. This is the one that stings. A full load of shingles or concrete hits the weight limit at roughly half the bin's volume. (If you're hauling roofing debris, read <a href="/blog/roofing-dumpster-rental" class="text-orange hover:underline">the roofing dumpster rental guide</a> first — it covers exactly how fast shingle weight adds up.)</li>
+  <li><strong>Extended rental fee:</strong> $5–$15 per day past the included period, which is usually 7–10 days. Projects run long. Budget a few extra days from the start.</li>
+  <li><strong>Permit pass-through:</strong> Some companies pull the street placement permit for you and add it to the invoice. Others leave it to you. Either way it is a cost — just a question of who handles the paperwork.</li>
+</ul>
+
+<p>The fix is simple. Ask for a written, itemized quote before you commit. Not a verbal number, not a rough estimate — a written quote showing the base rate, all fees, the weight allowance, and the overage rate. If the company won't produce one, that is information worth having before the container arrives.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/6285155/pexels-photo-6285155.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Two contractors reviewing and comparing project quotes on a job site"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="what-to-compare">Five Things Worth Comparing Between Companies</h2>
+
+<p>When you call around — and you should call at least two or three — here is what actually moves the needle.</p>
+
+<p><strong>1. All-in price.</strong> Ask what the full invoice looks like for your project. Not the base rate, not "starting at." Total. Written. If the company resists putting it on paper, the number on paper would likely explain why.</p>
+
+<p><strong>2. Weight allowance.</strong> Every container has one. A 20-yard typically includes 2–4 tons depending on the provider and market. If you're hauling shingles, concrete, or dirt, you will hit that limit before the bin looks full. Ask the specific number, then assume your load will run 15–20 percent heavier than your estimate. Nobody has ever called me to say the project came in lighter than expected. They've called. Just not with that particular update. For a full picture of how overages affect the final bill, the <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers the variables in detail.</p>
+
+<p><strong>3. Rental period and extension cost.</strong> Standard is 7–10 days. Ask what happens on day 11. Some companies charge $5/day, some $15/day, some swap the container and start a new rental period. Know the policy before your project runs long.</p>
+
+<p><strong>4. Accepted materials.</strong> Not every company takes the same things. Concrete, dirt, and clean fill are commonly priced separately or restricted outright. Electronics, appliances, and tires vary by provider. If you're unsure what can go in the bin, the <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">accepted and prohibited items guide</a> covers the standard rules — but always confirm with your specific provider, because local landfill agreements vary. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's construction and demolition materials guidance</a> is useful context for larger commercial jobs where restricted material categories matter.</p>
+
+<p><strong>5. Delivery and pickup flexibility.</strong> Can they do next-day delivery? What is the pickup window? Does the driver call ahead? These sound like logistics details until your contractor is standing on an empty driveway at 8 a.m. and the bin is still there from last week.</p>
+
+<h2 id="red-flags">Three Red Flags That Should Send You Elsewhere</h2>
+
+<p>Most roll-off dumpster rental companies are straightforward operations. A few are not. Here is the shortlist of what makes me hang up and dial the next number.</p>
+
+<p><strong>No written quote.</strong> A verbal estimate is not a contract. A legitimate operation emails you an itemized quote — it takes four minutes to produce. If they won't do it, the written number would likely explain the reluctance.</p>
+
+<p><strong>Pressure to book immediately.</strong> "That rate is only available today." Sometimes true. More often it is a tactic. A company with a solid operation is not running out of containers if you call back tomorrow. Compare quotes. Take a day. If the rate disappears overnight, another company with the same container still has one.</p>
+
+<p><strong>Vague overage rates.</strong> Every company charges for loads over the weight limit. The reliable ones state the rate clearly: "$75 per ton over the included limit." If a company is evasive about what they charge when the load is heavy, assume the number is high and that you will see it on the back of the invoice after the container is already gone. Before booking, it is also worth knowing which materials require specialized disposal — the <a href="https://www.epa.gov/hw" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's hazardous waste guidance</a> covers what cannot legally go into a standard roll-off and why.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/8293769/pexels-photo-8293769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Contractor in yellow hard hat reviewing a project pricing document on a job site"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="pricing-table">What the Numbers Actually Look Like</h2>
+
+<p>Here is a realistic look at all-in pricing for standard roll-off rentals in the Front Range Colorado market. Mountain and rural markets run 5–10 percent higher. National providers vary — sometimes lower in dense markets, sometimes higher where inventory is thin. Before comparing prices, match the container to the job first: the <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster sizing guide</a> walks through every standard container against every common project type.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Container</th>
+        <th class="px-4 py-3 text-left font-semibold">Included Weight</th>
+        <th class="px-4 py-3 text-left font-semibold">All-In Price Range</th>
+        <th class="px-4 py-3 text-left font-semibold">Common Uses</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3 font-semibold text-orange">10-yard</td>
+        <td class="px-4 py-3">1–2 tons</td>
+        <td class="px-4 py-3">$280–$480</td>
+        <td class="px-4 py-3">Garage cleanouts, single-room remodels</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">15-yard</td>
+        <td class="px-4 py-3">1.5–2.5 tons</td>
+        <td class="px-4 py-3">$320–$540</td>
+        <td class="px-4 py-3">Bathroom remodels, small deck removal</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3 font-semibold text-orange">20-yard</td>
+        <td class="px-4 py-3">2–4 tons</td>
+        <td class="px-4 py-3">$380–$650</td>
+        <td class="px-4 py-3">Roofing, kitchen remodels, full home cleanouts</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">30-yard</td>
+        <td class="px-4 py-3">3–5 tons</td>
+        <td class="px-4 py-3">$450–$780</td>
+        <td class="px-4 py-3">Full renovations, large demolition jobs</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3 font-semibold text-orange">40-yard</td>
+        <td class="px-4 py-3">4–6 tons</td>
+        <td class="px-4 py-3">$580–$1,100+</td>
+        <td class="px-4 py-3">New construction, commercial projects</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Same-day delivery carries a premium — usually $50–$100 above standard scheduling. If your project has a fixed start date, booking two or three days ahead typically gets you a better rate and more size options. The urgency premium is avoidable if you plan for it.</p>
+
+<h2 id="when-to-skip">When to Skip the Roll-Off Entirely</h2>
+
+<p>A roll-off is the right tool for most medium-to-large debris removal jobs. It is not the right tool for all of them.</p>
+
+<p><strong>Skip it if your job is under two yards.</strong> A 10-yard container runs $280 minimum plus fees for a 7-day rental. If your entire project fits in a pickup truck, a junk removal service that charges by volume — they do the loading themselves — is almost always cheaper for the same result.</p>
+
+<p><strong>Skip it if you're hauling primarily hazardous materials.</strong> No licensed roll-off provider accepts paint, solvents, motor oil, asbestos, batteries, or household hazardous waste in a standard container. These require a dedicated disposal facility. A provider who says they will take anything is either uninformed or hoping you won't ask follow-up questions. (They will know you asked when the driver shows up and declines to haul the container. The call that follows is a special kind of conversation.) Your county household hazardous waste facility handles restricted materials, usually at low or no cost.</p>
+
+<p><strong>Skip it if you need ongoing trash service.</strong> A roll-off is a project tool — for a one-time accumulation of debris with a clear endpoint. If you need recurring waste pickup for a business or rental property, that is a commercial dumpster service on a subscription model. Different product, different company, completely different pricing structure.</p>
+
+<p>If you're in Colorado and looking for local roll-off availability by city, the <a href="/locations" class="text-orange hover:underline">locations guide</a> covers provider availability and typical pricing across the state.</p>
+
+<p>The best dumpster rental company is the one whose invoice matches the quote. That is a lower bar than it sounds — which tells you something about the industry and something about invoices generally. Give us a call. We'll match you with a provider who clears it.</p>
+`,
+  },
 ]
