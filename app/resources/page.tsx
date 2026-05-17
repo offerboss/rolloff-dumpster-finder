@@ -77,10 +77,10 @@ const resourceCards = [
     href: '/blog/roofing-dumpster-rental',
   },
   {
-    badge: 'Buyers Guide',
+    badge: 'Companies',
     title: 'Choosing a Dumpster Rental Company: What Actually Matters',
     excerpt:
-      'The quote looked reasonable. The invoice had three additional charges, two of which had footnotes. Here is what to compare before you hand over a card number.',
+      'Not all roll-off dumpster rental companies are equal. This guide explains how to compare local providers, spot hidden fees, avoid unreliable service, and choose the right company before booking.',
     href: '/blog/how-to-choose-a-dumpster-rental-company',
   },
   {
