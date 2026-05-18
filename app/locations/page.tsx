@@ -131,16 +131,23 @@ export default function LocationsPage() {
             Browse by State
           </p>
           <p className="text-[15px] text-[#6B7280] max-w-[520px] leading-[1.6] mb-5">
-            We are currently operating in Colorado. Additional states are being added.
+            We are currently operating in Colorado and Arizona. Additional states are being added.
           </p>
           <div className="flex flex-wrap gap-[10px] mt-5">
-            {/* Active state */}
+            {/* Active states */}
             <div className="inline-flex items-center gap-2 px-[18px] py-[9px] rounded-sm text-[13px] font-semibold bg-charcoal text-white border-2 border-orange">
               <span className="w-[7px] h-[7px] rounded-full bg-orange shrink-0" aria-hidden="true" />
               Colorado
             </div>
+            <Link
+              href="/locations/arizona"
+              className="inline-flex items-center gap-2 px-[18px] py-[9px] rounded-sm text-[13px] font-semibold bg-charcoal text-white border-2 border-orange hover:opacity-90 transition-opacity"
+            >
+              <span className="w-[7px] h-[7px] rounded-full bg-orange shrink-0" aria-hidden="true" />
+              Arizona
+            </Link>
             {/* Coming soon states */}
-            {['Arizona', 'Texas', 'Wyoming', 'New Mexico'].map((state) => (
+            {['Texas', 'Wyoming', 'New Mexico'].map((state) => (
               <div
                 key={state}
                 className="inline-flex items-center gap-2 px-[18px] py-[9px] rounded-sm text-[13px] font-semibold bg-[#F3F2EF] text-[#9CA3AF] border-2 border-[#E5E3DE]"

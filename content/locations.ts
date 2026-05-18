@@ -1322,6 +1322,1222 @@ export const cityLocations: CityLocation[] = [
     longitude: -106.8317,
   },
 
+  // ─── PHOENIX ──────────────────────────────────────────────────
+  {
+    slug: 'phoenix-az-dumpster-rental',
+    cityName: 'Phoenix',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Dumpster Rental Phoenix, AZ | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Phoenix dumpster rental for home cleanouts, roofing debris, construction waste, and desert landscaping. Serving greater Phoenix and the Valley of the Sun.',
+    primaryKeyword: 'phoenix dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental phoenix az',
+      'phoenix construction dumpster rental',
+      'roll off dumpster phoenix',
+      'roll off dumpster phoenix az',
+      'rolloff dumpsters phoenix',
+      'roll offs phoenix az',
+      '10 yard dumpster rental phoenix',
+      '20 yard dumpster rental phoenix',
+      '30 yard dumpster rental phoenix',
+    ],
+    heroH1: 'Dumpster Rental in Phoenix, AZ',
+    heroSubheadline:
+      'Roll-off containers for home cleanouts, roofing tear-offs, construction debris, and desert landscaping jobs across greater Phoenix and Maricopa County.',
+    introParagraphs: [
+      'Phoenix runs on renovation volume. The 1950s and \'60s ranches in Maryvale and Alhambra are prime flip targets — a single estate purchase can fill a 20-yard container before a coat of paint goes on. Deer Valley and Moon Valley added another wave of \'80s and \'90s tract homes. Newer construction pushes into Laveen, Ahwatukee, and Desert Ridge. The age spread means three different types of debris showing up in the same metro market at the same time.',
+      'Monsoon season runs July through September. Downed palms, storm-wrecked block fencing, and flooded garage cleanouts create a second surge of dumpster demand each year. Pool demolition is also common here — a standard pool fill generates two to four tons of concrete and rebar. Dense material hits weight limits at roughly half the container\'s volume. Confirm the included tonnage on your quote before the first load goes in.',
+      'Rolloff Dumpster Finder covers Phoenix and the full Valley — Scottsdale, Mesa, Tempe, Chandler, Glendale, Peoria, Gilbert, and Surprise. The Phoenix market is competitive on price, but base rates do not always include fuel surcharges and disposal fees. We show weight limits and what is included before you book. If the invoice does not match the quote, give us a call before you sign off on the haul.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
+        range: '$270–$470 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
+        range: '$370–$640 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and pool demolition.',
+        range: '$440–$770 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
+        range: '$560–$1,050 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Phoenix\'s investor flip market generates consistent cleanout volume year-round. Older ranches in Maryvale, Alhambra, and North Central often contain decades of accumulated furniture, fixtures, and construction debris. A 20-yard handles most single-family loads.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Flat roofs, foam systems, and concrete tile are all common in Phoenix and all require eventual tear-offs. Tile roofing is significantly heavier than asphalt shingles — confirm weight allowances before booking. A 20-yard is the standard starting point for most Phoenix roofing jobs.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Phoenix is one of the fastest-growing metros in the country. Active construction in Laveen, Buckeye, and northwest Peoria produces consistent C&D waste. Mixed debris from framing, drywall, and concrete works best in a 20 or 30-yard container.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Mid-century ranch renovations in Arcadia and Biltmore produce tile, cabinetry, fixtures, and drywall. A 10 to 15-yard container handles most kitchen and bath tear-outs. Confirm weight if you are removing tile floors — they are denser than they look.',
+      },
+      {
+        number: '05',
+        name: 'Garage & Attic Cleanouts',
+        description:
+          'Basements are uncommon in Phoenix, but garages and attics accumulate decades of storage fast. Cleanouts in Moon Valley, Deer Valley, and Sunnyslope often run larger than expected. A 10-yard is the entry point; a 15-yard gives room for bulky items.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Phoenix has a significant retiree population, and estate cleanouts are a regular part of the market. Full-home estate work typically fills a 20 to 30-yard container. Book early — estate cleanouts generate more debris than the initial estimate suggests.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Desert landscaping maintenance and conversion generates brush, sod, gravel, and decomposed granite. Ask your provider about green waste policies before booking — not all facilities accept mixed organic and inorganic loads.',
+      },
+      {
+        number: '08',
+        name: 'Pool Demo & Concrete',
+        description:
+          'Pool fills and demolitions are common across the Valley. A standard backyard pool generates two to four tons of concrete and rebar. Use a 10-yard container with a heavy-material weight allowance for pure concrete loads — standard weight limits will not be enough.',
+      },
+      {
+        number: '09',
+        name: 'Desert Landscaping Debris',
+        description:
+          'Saguaro removal, palm tree trimming, oleander clearing, and desert scrub conversion produce more debris than most homeowners expect. Confirm whether your provider accepts green waste or requires a separate haul for organic material.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Phoenix depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option in Phoenix — flat Valley terrain and wide driveways in most neighborhoods make delivery straightforward.',
+      'HOA communities are common across Scottsdale, Chandler, Gilbert, and North Phoenix. Confirm with your association whether a permit or approval is required before scheduling delivery.',
+      'Containers placed in a public street or right-of-way require a permit through the City of Phoenix Street Transportation Department. Driveway placements on private property typically do not.',
+      'Place protective boards under the container on asphalt during summer months. Phoenix ground temperatures can cause asphalt softening under heavy steel containers in July and August.',
+      'Monsoon flooding can delay delivery and pickup in low-lying areas from July through September. Build a weather buffer into your project schedule if it runs during storm season.',
+      'Narrow streets in older neighborhoods like Willo, Maryvale, and Alhambra can limit truck access. Confirm your delivery address access with your provider before booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Arcadia',
+      'Biltmore',
+      'North Central',
+      'Camelback East',
+      'Willo',
+      'Encanto',
+      'Melrose',
+      'Alhambra',
+      'Maryvale',
+      'Laveen',
+      'Ahwatukee Foothills',
+      'South Mountain',
+      'Sunnyslope',
+      'Moon Valley',
+      'Desert Ridge',
+      'North Mountain',
+      'Deer Valley',
+      'Estrella Village',
+    ],
+    nearbyCities: [
+      'Scottsdale',
+      'Mesa',
+      'Tempe',
+      'Chandler',
+      'Glendale',
+      'Peoria',
+      'Gilbert',
+      'Surprise',
+      'Goodyear',
+      'Avondale',
+      'Buckeye',
+      'Litchfield Park',
+      'El Mirage',
+      'Tolleson',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Phoenix?',
+        answer:
+          'Phoenix dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard — which covers most full-home cleanouts and mid-size roofing jobs — ranges $440–$770. Those are honest base estimates. Fuel surcharges and disposal fees are separate at some providers, so ask for the all-in number before you book.',
+      },
+      {
+        question: 'What size dumpster do I need for a Phoenix home cleanout?',
+        answer:
+          'A 20-yard handles most single-family cleanouts in Phoenix. If you are clearing a larger home, an estate with decades of accumulation, or a property with furniture and appliances, size up to a 30-yard. Booking too small means paying for a second pull — which typically costs more than renting the right size upfront.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Phoenix?',
+        answer:
+          'Yes. Phoenix is a high-volume roofing market — flat, low-slope, tile, and foam roofs all require tear-offs eventually. Tile roofing is dense and hits weight limits faster than shingles. Tell your provider you are hauling tile before booking so they can set the right weight allowance.',
+      },
+      {
+        question: 'What about concrete, pool demolition, or heavy debris in Phoenix?',
+        answer:
+          'Pool demolition and concrete removal are common Phoenix projects. Dense material fills weight limits at roughly half the container\'s volume. Most providers charge a heavy-material surcharge — confirm what is included in your quote before the debris goes in. A 10-yard container is often the right call for pure concrete loads.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Phoenix?',
+        answer:
+          'Phoenix has one of the more competitive dumpster markets in the Southwest. Same-day or next-day delivery is available from several providers in most Valley zip codes. Demand spikes during spring renovation season and after major monsoon events. Book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Scottsdale, Mesa, and Chandler?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves the entire Valley of the Sun, including Scottsdale, Mesa, Tempe, Chandler, Glendale, Peoria, Gilbert, Surprise, Goodyear, and Avondale. Service also extends to Buckeye, Litchfield Park, and other Maricopa County communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Phoenix?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Phoenix market. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your schedule.',
+      },
+      {
+        question: 'Are there items I cannot put in a Phoenix dumpster?',
+        answer:
+          'Paint, solvents, motor oil, propane tanks, batteries, tires, appliances with refrigerants, hazardous waste, and asbestos are not accepted in standard roll-off containers. Some Phoenix providers also restrict mattresses and electronics — ask when booking. Older homes in Maryvale and Alhambra sometimes contain materials that fall into restricted categories.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Phoenix?',
+        answer:
+          'On private property — a driveway or private lot — no permit is typically required. Placing a container in the street or a public right-of-way requires a permit through the City of Phoenix Street Transportation Department. Your rental provider can usually walk you through the process or pull the permit on your behalf.',
+      },
+    ],
+    latitude: 33.4484,
+    longitude: -112.074,
+  },
+
+  // ─── SCOTTSDALE ───────────────────────────────────────────────
+  {
+    slug: 'scottsdale-az-dumpster-rental',
+    cityName: 'Scottsdale',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Dumpster Rental Scottsdale, AZ | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Scottsdale dumpster rental for luxury renovations, home cleanouts, roofing debris, and pool demolition. Serving Scottsdale and the greater East Valley.',
+    primaryKeyword: 'scottsdale dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental scottsdale az',
+      'scottsdale construction dumpster rental',
+      'roll off dumpster scottsdale',
+      'roll off dumpster scottsdale az',
+      'rolloff dumpsters scottsdale',
+      'roll offs scottsdale az',
+      '10 yard dumpster rental scottsdale',
+      '20 yard dumpster rental scottsdale',
+      '30 yard dumpster rental scottsdale',
+    ],
+    heroH1: 'Dumpster Rental in Scottsdale, AZ',
+    heroSubheadline:
+      'Roll-off containers for home cleanouts, luxury renovation debris, roofing tear-offs, and construction waste across Scottsdale and the greater East Valley.',
+    introParagraphs: [
+      'Scottsdale runs a two-speed renovation market. South Scottsdale has 1950s and \'60s ranch homes — older stock that generates consistent cleanout and flip volume. North Scottsdale has luxury custom builds from the \'90s and 2000s, where a full kitchen renovation can fill a 20-yard container on its own. McCormick Ranch and Gainey Ranch add another layer of \'80s construction. The age spread means three different categories of debris showing up in the same market at the same time.',
+      'Scottsdale is one of the top vacation home markets in the country. Second homes in DC Ranch, Troon, and McDowell Mountain Ranch turn over between owners or get overhauled between seasons. A vacation home renovation generates the same debris volume as a primary residence — sometimes more, because owners renovating remotely tend to gut everything at once rather than phasing the work. Estate cleanouts from retirees downsizing add another consistent layer of demand.',
+      'Rolloff Dumpster Finder covers Scottsdale and the full East Valley — Paradise Valley, Fountain Hills, Cave Creek, Tempe, Mesa, and Chandler. Scottsdale providers vary on what the base rate actually includes versus what shows up as a surcharge on the invoice. We show weight limits, included tonnage, and any extras before you book. If the invoice does not match the quote, give us a call.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
+        range: '$280–$490 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
+        range: '$330–$560 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
+        range: '$390–$660 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and luxury remodel waste.',
+        range: '$460–$790 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
+        range: '$580–$1,080 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'South Scottsdale has a dense concentration of 1950s and \'60s ranch homes that generate consistent cleanout and flip volume. A full-house cleanout in this area typically fills a 15 to 20-yard container. Homes with detached garages or casitas run larger than the initial estimate suggests.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Scottsdale\'s tile roofing is standard but significantly heavier than asphalt shingles. A full tile tear-off produces more weight per square foot than most contractors account for upfront. Confirm weight limits with your provider before booking — going over costs more than sizing up initially.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'New builds and additions in North Scottsdale, Troon, and McDowell Mountain Ranch generate consistent construction debris. Framing waste, drywall, and concrete from custom home work fits best in a 20 or 30-yard container. Job sites with multiple trades working in sequence need scheduled pickup windows.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Scottsdale kitchen and bath renovations run larger than the metro average — higher-end finishes mean heavier material volumes. Granite countertops, tile backsplashes, and custom cabinetry add up fast. A 10 to 15-yard container handles most kitchen tear-outs, but size up if you are also pulling flooring.',
+      },
+      {
+        number: '05',
+        name: 'Garage & Attic Cleanouts',
+        description:
+          'Basements are uncommon in Scottsdale, but attached garages and finished attics accumulate significant storage over time. Second homes in DC Ranch and Gainey Ranch that have changed ownership often hold decades of material in the garage. A 10-yard handles most cleanouts; a 15-yard if the attic is also involved.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Scottsdale has a high concentration of retirees and seasonal residents, which makes estate cleanouts a consistent part of the local market. Luxury home estates often contain high-volume items — furniture, stored equipment, custom fixtures. Book a 20 to 30-yard container and assume you will fill it.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Desert landscaping conversion, palm tree trimming, and pool surround removal produce more debris than expected. Confirm whether your provider accepts mixed green waste and decomposed granite in the same load — not all facilities do.',
+      },
+      {
+        number: '08',
+        name: 'Luxury Renovation Debris',
+        description:
+          'A full high-end renovation in Silverleaf or DC Ranch can generate two to three full container pulls. High-end finishes — marble, custom tile, solid wood millwork — are heavy. Tell your provider upfront that you are doing a high-finish tear-out so they can set weight limits that match the load.',
+      },
+      {
+        number: '09',
+        name: 'Pool Demo & Concrete',
+        description:
+          'Scottsdale\'s pool density is one of the highest in the country. A standard backyard pool generates two to four tons of concrete and rebar at demolition. Use a 10-yard container with a heavy-material weight allowance for pure concrete loads — standard weight limits will not be enough.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Scottsdale depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is standard across most Scottsdale neighborhoods — wide driveways and flat terrain make delivery straightforward.',
+      'HOA approval is required in the majority of Scottsdale communities, including McCormick Ranch, Gainey Ranch, DC Ranch, McDowell Mountain Ranch, and Troon. Get written approval before scheduling delivery — some HOAs require the container to be placed inside the garage or screened from the street.',
+      'Gated communities in DC Ranch, Desert Mountain, and Silverleaf require pre-arranged gate access. Confirm gate codes, delivery hours, and community-specific requirements with both your HOA and your provider before booking.',
+      'City of Scottsdale right-of-way permits are required for any container placed in a public street. Contact the Scottsdale Transportation Department for permit requirements. Driveway placements on private property typically do not require a permit.',
+      'Place protective boards under the container on asphalt during summer months. Ground temperatures in Scottsdale can cause asphalt softening under heavy containers in July and August.',
+      'Some North Scottsdale cul-de-sacs have limited truck clearance. Confirm your delivery address with your provider — tight turns can restrict what size truck can access the site.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Old Town',
+      'South Scottsdale',
+      'McCormick Ranch',
+      'Gainey Ranch',
+      'Kierland',
+      'DC Ranch',
+      'Troon',
+      'Pinnacle Peak',
+      'Desert Mountain',
+      'Grayhawk',
+      'McDowell Mountain Ranch',
+      'Silverleaf',
+      'Scottsdale Ranch',
+      'Camelback Corridor',
+      'Shea Corridor',
+    ],
+    nearbyCities: [
+      'Phoenix',
+      'Tempe',
+      'Mesa',
+      'Chandler',
+      'Paradise Valley',
+      'Fountain Hills',
+      'Cave Creek',
+      'Carefree',
+      'Gilbert',
+      'Peoria',
+      'Glendale',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Scottsdale?',
+        answer:
+          'Scottsdale dumpster rental runs $280–$490 for a 10-yard and $390–$660 for a 20-yard, per week. A 30-yard — which covers most full-home cleanouts and large renovation projects — runs $460–$790. Those are honest base estimates. Some Scottsdale providers charge fuel and disposal fees separately, so ask for the all-in number before you book.',
+      },
+      {
+        question: 'What size dumpster do I need for a Scottsdale home cleanout?',
+        answer:
+          'A 20-yard handles most Scottsdale single-family cleanouts. South Scottsdale ranch homes from the \'60s tend to run lighter; larger custom homes in North Scottsdale or DC Ranch tend to run heavier. If you are clearing a second home that has been accumulating storage, size up to a 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Scottsdale?',
+        answer:
+          'Yes. Scottsdale\'s tile roofing is standard and significantly heavier than asphalt shingles. A full tile tear-off on a larger home can exceed standard weight allowances quickly. Tell your provider upfront that you are hauling tile so they can set the right weight limit before delivery.',
+      },
+      {
+        question: 'What about concrete, pool demolition, or heavy debris in Scottsdale?',
+        answer:
+          'Pool demolition is one of the most common heavy-debris projects in Scottsdale. A standard pool generates two to four tons of concrete and rebar. Dense material fills weight limits at roughly half the container\'s volume. A 10-yard with a heavy-material allowance is typically the right call for pure concrete loads.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Scottsdale?',
+        answer:
+          'Scottsdale has good provider coverage from the greater Phoenix market. Same-day or next-day delivery is available from several companies in most Scottsdale zip codes. Spring renovation season and the fall snowbird return push availability tighter. Book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Paradise Valley, Fountain Hills, and Cave Creek?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Scottsdale and the surrounding East Valley, including Paradise Valley, Fountain Hills, Cave Creek, Carefree, Tempe, Mesa, and Chandler. Service also extends to Phoenix and other Maricopa County communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Scottsdale?',
+        answer:
+          'Standard rental periods run 7–10 days. Extensions typically run $5–$15 per day in the Scottsdale market. If a renovation is running long — which happens often on luxury projects — call ahead to extend rather than letting the container sit past its scheduled pickup date.',
+      },
+      {
+        question: 'Are there items I cannot put in a Scottsdale dumpster?',
+        answer:
+          'Paint, solvents, motor oil, propane tanks, batteries, tires, appliances with refrigerants, hazardous waste, and asbestos are not accepted in standard roll-off containers. South Scottsdale homes from the \'50s and \'60s occasionally contain materials that fall into restricted categories. Ask when booking if you have any uncertainty.',
+      },
+      {
+        question: 'Do Scottsdale HOAs restrict dumpster rentals?',
+        answer:
+          'Most do. The majority of Scottsdale neighborhoods require written HOA approval before a container is placed. Some require the dumpster to stay in the garage or be screened from the street. Confirm requirements with your association before scheduling delivery — finding out after the truck arrives is an expensive way to learn that.',
+      },
+    ],
+    latitude: 33.4942,
+    longitude: -111.9261,
+  },
+
+  // ─── CHANDLER ─────────────────────────────────────────────────
+  {
+    slug: 'chandler-az-dumpster-rental',
+    cityName: 'Chandler',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Dumpster Rental Chandler, AZ | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Chandler dumpster rental for home cleanouts, roofing debris, construction waste, and pool demolition. Serving Chandler and the greater Southeast Valley.',
+    primaryKeyword: 'chandler dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental chandler az',
+      'chandler construction dumpster rental',
+      'roll off dumpster chandler',
+      'roll off dumpster chandler az',
+      'rolloff dumpsters chandler',
+      'roll offs chandler az',
+      '10 yard dumpster rental chandler',
+      '20 yard dumpster rental chandler',
+      '30 yard dumpster rental chandler',
+    ],
+    heroH1: 'Dumpster Rental in Chandler, AZ',
+    heroSubheadline:
+      'Roll-off containers for home cleanouts, roofing tear-offs, construction debris, and renovation projects across Chandler and the greater Southeast Valley.',
+    introParagraphs: [
+      'Chandler runs two renovation markets at once. Dobson Ranch and the Kyrene corridor have 1970s and early \'80s housing stock that generates consistent flip and remodel volume. The eastern half of the city — Fulton Ranch, Ocotillo, and Sun Groves — is hitting the first full renovation cycle, with kitchens and baths as the most active category. Both ends of the age spectrum produce debris; they just look different when they land in the container.',
+      'Chandler\'s Price Road Corridor is home to one of the highest concentrations of semiconductor and advanced manufacturing campuses in the country. Intel has been building and expanding there for two decades, and the surrounding commercial construction generates consistent job-site debris. That same economic pull has kept residential construction elevated in Arden, Layton Lakes, and the southeast corridor — new-build waste on top of renovation volume in an already active market.',
+      'Rolloff Dumpster Finder serves Chandler and the full Southeast Valley — Gilbert, Mesa, Tempe, Queen Creek, and Ahwatukee. Chandler is an HOA-heavy market. The majority of neighborhoods require association approval before a container is placed. We can walk you through typical permit and placement requirements before you book. If the invoice does not match the quote, give us a call.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
+        range: '$270–$470 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
+        range: '$370–$640 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and pool demolition.',
+        range: '$440–$770 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
+        range: '$560–$1,050 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Dobson Ranch and the Kyrene corridor have a concentration of 1970s and \'80s homes that generate consistent cleanout and flip volume. A full-house cleanout in these neighborhoods typically fills a 15 to 20-yard container. Detached garages and oversized storage rooms add more than most initial estimates account for.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Chandler roofing is almost entirely tile or flat systems, both of which are significantly heavier than asphalt shingles. A full tile tear-off on a standard Chandler home can push standard weight limits before the container is half full. Confirm weight allowances with your provider before the first load goes in.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Active construction in Arden, Layton Lakes, and the southeast corridor generates consistent C&D waste. The Price Road tech campus area also produces commercial job-site debris at scale. Mixed framing, drywall, and concrete loads fit best in a 20 or 30-yard container.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Older west Chandler homes in Dobson Ranch and the Kyrene area are prime remodel candidates. Tile floors, dated cabinetry, and original fixtures produce more weight per load than most homeowners expect. A 10 to 15-yard container handles most kitchen and bath tear-outs.',
+      },
+      {
+        number: '05',
+        name: 'Garage & Attic Cleanouts',
+        description:
+          'Basements are uncommon in Chandler, but garages and attics in Fulton Ranch and Ocotillo accumulate significant storage over time. HOA communities often require items be staged in the garage before container placement — plan for the extra load. A 10-yard is the typical starting point.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Chandler\'s Sun Lakes border area and the active retiree population in Sun Groves generate consistent estate cleanout demand. Full-home estate work typically fills a 20 to 30-yard container. Book early — estate cleanouts generate more volume than initial walkthroughs suggest.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Desert landscaping conversion, palm removal, and oleander clearing produce more debris than most homeowners expect. Ask your provider about green waste policies before booking — mixed organic and decomposed granite loads are not accepted at all facilities.',
+      },
+      {
+        number: '08',
+        name: 'Pool Demo & Concrete',
+        description:
+          'Pool demolition and concrete removal are common across Chandler. A standard backyard pool generates two to four tons of concrete and rebar. A 10-yard container with a heavy-material allowance is typically the right call for pure concrete loads — standard weight limits will not hold.',
+      },
+      {
+        number: '09',
+        name: 'HOA Community Renovations',
+        description:
+          'Most Chandler neighborhoods sit inside HOA communities with specific rules around container placement and screening. Ocotillo, Fulton Ranch, and Seville have active renovation cycles and established procedures for coordinating rental deliveries. Get HOA approval in writing before scheduling.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Chandler depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across most Chandler neighborhoods — flat terrain and wide driveways make delivery straightforward.',
+      'HOA approval is required in the majority of Chandler communities, including Ocotillo, Fulton Ranch, Dobson Ranch, and Seville. Get written approval before scheduling delivery — some associations require the container be placed inside the garage or screened from the street.',
+      'The City of Chandler requires a right-of-way permit for any container placed in a public street. Contact the Chandler Transportation Department for requirements. Private driveway placements typically do not require a permit.',
+      'Place protective boards under the container on asphalt during summer months. Ground temperatures in Chandler can cause asphalt softening under heavy containers in July and August.',
+      'Gated communities within Ocotillo and The Islands require pre-arranged gate access. Confirm gate codes and delivery windows with your provider before booking.',
+      'Active construction areas in Arden and Layton Lakes may have job-site traffic affecting delivery access. Coordinate your delivery window with your contractor schedule when booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Dobson Ranch',
+      'Ocotillo',
+      'Fulton Ranch',
+      'Sun Groves',
+      'Layton Lakes',
+      'Arden',
+      'Historic Downtown',
+      'Price Road Corridor',
+      'Seville',
+      'Galveston District',
+      'Springfield',
+      'Chandler Heights',
+      'The Islands',
+    ],
+    nearbyCities: [
+      'Mesa',
+      'Gilbert',
+      'Tempe',
+      'Phoenix',
+      'Scottsdale',
+      'Queen Creek',
+      'Ahwatukee',
+      'Sun Lakes',
+      'Maricopa',
+      'Laveen',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Chandler?',
+        answer:
+          'Chandler dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard — which covers most full-home cleanouts and larger renovation projects — ranges $440–$770. Those are honest base estimates. Ask for the all-in number including fuel and disposal fees before you book.',
+      },
+      {
+        question: 'What size dumpster do I need for a Chandler home cleanout?',
+        answer:
+          'A 20-yard handles most single-family cleanouts in Chandler. Older Dobson Ranch homes tend to run lighter; larger HOA properties in Fulton Ranch or Ocotillo with garages and storage rooms tend to run heavier. If you are clearing an estate or a home with decades of accumulation, size up to a 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Chandler?',
+        answer:
+          'Yes. Chandler roofing is predominantly tile, which is significantly heavier than asphalt shingles. A full tile tear-off can exceed standard weight allowances faster than most contractors expect. Tell your provider you are hauling tile before booking so they set the right weight limit.',
+      },
+      {
+        question: 'What about concrete, pool demolition, or heavy debris in Chandler?',
+        answer:
+          'Pool demolition is a common project in Chandler. A standard pool generates two to four tons of concrete and rebar. Dense material fills weight limits at roughly half the container\'s volume — confirm what is included in your quote before the debris goes in. A 10-yard with a heavy-material allowance is typically the right call for pure concrete loads.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Chandler?',
+        answer:
+          'Chandler has good provider coverage from the greater Phoenix market. Same-day or next-day delivery is available from several companies in most Chandler zip codes. Spring renovation season runs busy February through May. Book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Gilbert, Mesa, and Tempe?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Chandler and the full Southeast Valley, including Gilbert, Mesa, Tempe, Queen Creek, Ahwatukee, and Scottsdale. Service also extends to Sun Lakes, Maricopa, and other Maricopa County communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Chandler?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Chandler market. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your project schedule.',
+      },
+      {
+        question: 'Are there items I cannot put in a Chandler dumpster?',
+        answer:
+          'Paint, solvents, motor oil, propane tanks, batteries, tires, appliances with refrigerants, hazardous waste, and asbestos are not accepted in standard roll-off containers. Some providers also restrict mattresses and electronics. Older Dobson Ranch homes from the \'70s and \'80s occasionally contain materials that fall into restricted categories — ask when booking.',
+      },
+      {
+        question: 'Do Chandler HOAs restrict dumpster rentals?',
+        answer:
+          'Most do. Ocotillo, Fulton Ranch, Seville, and Dobson Ranch all have HOA rules that apply to container placement. Some require written approval before delivery, others require the dumpster be placed inside the garage or screened from the street. Confirm requirements with your association before scheduling — finding out at delivery is not a good situation.',
+      },
+    ],
+    latitude: 33.3062,
+    longitude: -111.8413,
+  },
+
+  // ─── MESA ─────────────────────────────────────────────────────
+  {
+    slug: 'mesa-az-dumpster-rental',
+    cityName: 'Mesa',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Dumpster Rental Mesa, AZ | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Mesa dumpster rental for home cleanouts, roofing debris, construction waste, and estate cleanouts. Serving Mesa and the greater East Valley of Maricopa County.',
+    primaryKeyword: 'mesa dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental mesa az',
+      'mesa construction dumpster rental',
+      'roll off dumpster mesa',
+      'roll off dumpster mesa az',
+      'rolloff dumpsters mesa',
+      'roll offs mesa az',
+      '10 yard dumpster rental mesa',
+      '20 yard dumpster rental mesa',
+      '30 yard dumpster rental mesa',
+    ],
+    heroH1: 'Dumpster Rental in Mesa, AZ',
+    heroSubheadline:
+      'Roll-off containers for home cleanouts, roofing tear-offs, construction debris, and estate cleanouts across Mesa and the greater East Valley.',
+    introParagraphs: [
+      'Mesa is one of the largest cities in the United States by land area, and the housing stock reflects that scale. The west side — downtown Mesa, the Fiesta District, and the neighborhoods near Mesa Community College — has 1950s and \'60s homes generating consistent renovation and cleanout volume. Central Mesa adds a layer of 1970s and \'80s tract homes. Eastern Mesa, from Superstition Springs to the Red Mountain corridor, is still actively building out in Eastmark.',
+      'Mesa has one of the highest concentrations of active adult communities in Arizona, particularly in the northeast and east sides. Downsizing and estate cleanouts from residents of these communities generate consistent demand alongside renovation volume. The city also has aerospace manufacturing and logistics activity near Williams Gateway Airport — commercial construction in that corridor produces job-site debris at a scale most residential providers do not typically see.',
+      'Rolloff Dumpster Finder serves Mesa and the full East Valley — Chandler, Gilbert, Tempe, Apache Junction, and Queen Creek. With Mesa\'s size, delivery and provider availability vary more than in smaller markets — a provider servicing the Fiesta District may not cover Eastmark at the same rate. We show available options by zip code before you book. If the invoice does not match the quote, give us a call.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
+        range: '$270–$470 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
+        range: '$370–$640 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and pool demolition.',
+        range: '$440–$770 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
+        range: '$560–$1,050 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'West and central Mesa have a dense concentration of 1950s through \'80s homes — the Fiesta District and Pioneer District in particular generate consistent cleanout and flip volume. A full single-family cleanout typically fills a 15 to 20-yard container. Homes with workshops or large garages often run larger than the initial walkthrough suggests.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Mesa roofing is predominantly tile and flat systems. Tile is significantly heavier than asphalt shingles — a full tear-off on a standard Mesa home can approach standard weight limits before the container is half full. Confirm the weight allowance with your provider before scheduling, not after.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Eastmark is one of the largest master-planned communities under development in Arizona. Active framing, drywall, and concrete waste from new builds in east Mesa has been steady for years. Commercial construction near Williams Gateway Airport adds another layer of job-site debris at a larger scale.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Central Mesa\'s 1970s and \'80s homes are a consistent source of kitchen and bath remodel volume. Original tile floors, dated cabinetry, and cast-iron fixtures produce more debris weight per load than most homeowners estimate. A 10 to 15-yard container handles most tear-outs.',
+      },
+      {
+        number: '05',
+        name: 'Garage & Attic Cleanouts',
+        description:
+          'Basements are uncommon in Mesa, but garages in Dobson Ranch and older west Mesa homes accumulate decades of storage fast. Active adult community residents downsizing often discover their garage holds more than a single container. A 10-yard is the standard starting point; a 15-yard if the attic is also being cleared.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Mesa has one of the largest concentrations of active adult communities in Arizona. Estate cleanouts and downsizing moves in Red Mountain, Las Sendas, and the northeast Mesa areas are a consistent category of demand. Full-home estate work typically fills a 20 to 30-yard container.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Desert landscaping removal, palm trimming, and irrigation system tearouts generate more debris than most homeowners account for. Ask your provider about green waste policies before booking — mixed organic and decomposed granite loads are not accepted at all Mesa-area disposal facilities.',
+      },
+      {
+        number: '08',
+        name: 'Pool Demo & Concrete',
+        description:
+          'Pool demolition and concrete work are common in Mesa. A standard pool fill generates two to four tons of concrete and rebar — well above standard weight limits for most container sizes. A 10-yard with a heavy-material weight allowance is typically the right call for pure concrete loads.',
+      },
+      {
+        number: '09',
+        name: 'Active Adult Community Moves',
+        description:
+          'Mesa\'s retirement and active adult communities — particularly in the northeast and east sides — generate a category of cleanout demand unique to this market. Downsizing from a 2,500-square-foot home into a smaller unit often produces a full 20-yard container of donated, discarded, or estate-bound items.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Mesa depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across most Mesa neighborhoods — flat terrain and wide driveways in newer subdivisions make delivery straightforward.',
+      'Many older west and central Mesa neighborhoods have rear alleys. Alley placement is often the best option in these areas — it keeps the container off the street and typically avoids the permit process.',
+      'Containers placed in a public street or right-of-way require a permit through the City of Mesa Public Works Department. Driveway and alley placements on private property typically do not.',
+      'HOA communities in Las Sendas, Eastmark, and Dobson Ranch require written approval before a container is placed. Confirm requirements with your association before scheduling delivery.',
+      'Place protective boards under the container on asphalt during summer months. Mesa ground temperatures in July and August can cause asphalt softening under heavy containers.',
+      'Narrow streets in the Pioneer District, downtown Mesa, and older west-side neighborhoods can limit truck access. Confirm your delivery address access with your provider before booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Mesa',
+      'Fiesta District',
+      'Red Mountain',
+      'Las Sendas',
+      'Eastmark',
+      'Dobson Ranch',
+      'Riverview District',
+      'Superstition Springs',
+      'Mesa Grande',
+      'Alta Mesa',
+      'Pioneer District',
+      'Lehi',
+      'Greenfield District',
+      'Signal Butte',
+      'Heritage District',
+    ],
+    nearbyCities: [
+      'Chandler',
+      'Gilbert',
+      'Tempe',
+      'Phoenix',
+      'Scottsdale',
+      'Apache Junction',
+      'Gold Canyon',
+      'Queen Creek',
+      'Fountain Hills',
+      'Ahwatukee',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Mesa?',
+        answer:
+          'Mesa dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard covers most full-home cleanouts and large renovation projects and runs $440–$770. Those are honest base estimates. Fuel surcharges and disposal fees are separate at some providers — ask for the all-in number before you book.',
+      },
+      {
+        question: 'What size dumpster do I need for a Mesa home cleanout?',
+        answer:
+          'A 20-yard handles most single-family cleanouts in Mesa. West-side homes from the \'50s and \'60s tend to run lighter; larger east Mesa and active adult community homes with garages and storage rooms tend to run heavier. If you are clearing an estate with decades of accumulation, size up to a 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Mesa?',
+        answer:
+          'Yes. Mesa roofing is predominantly tile, which is heavier than asphalt shingles. A full tile tear-off can exceed standard weight allowances faster than most contractors expect. Tell your provider you are hauling tile before booking so they set the right weight limit.',
+      },
+      {
+        question: 'What about concrete, pool demolition, or heavy debris in Mesa?',
+        answer:
+          'Pool demolition is common in Mesa. A standard pool generates two to four tons of concrete and rebar. Dense material fills weight limits at roughly half the container\'s volume — confirm what is included in your quote before the debris goes in. A 10-yard with a heavy-material allowance is typically the right call for pure concrete loads.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Mesa?',
+        answer:
+          'Mesa has broad coverage from the greater Phoenix market. Same-day or next-day delivery is available from several providers across most Mesa zip codes. Demand runs highest February through May and after summer monsoon events. Book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Chandler, Gilbert, and Tempe?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Mesa and the full East Valley, including Chandler, Gilbert, Tempe, Scottsdale, Apache Junction, and Queen Creek. Service also extends to Gold Canyon, Fountain Hills, and other Maricopa County communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Mesa?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Mesa market. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your schedule.',
+      },
+      {
+        question: 'Are there items I cannot put in a Mesa dumpster?',
+        answer:
+          'Paint, solvents, motor oil, propane tanks, batteries, tires, appliances with refrigerants, hazardous waste, and asbestos are not accepted in standard roll-off containers. Some providers also restrict mattresses and electronics. Older homes in west Mesa and the Pioneer District sometimes contain materials that fall into restricted categories — ask when booking.',
+      },
+      {
+        question: 'Does it matter which part of Mesa I am in?',
+        answer:
+          'It can. Mesa covers a large geographic area, and not every provider services the entire city at the same rate or with the same lead times. A company based near downtown Mesa may have a higher delivery fee for Eastmark or Signal Butte. Give your full address when getting a quote — not just "Mesa, AZ."',
+      },
+    ],
+    latitude: 33.4152,
+    longitude: -111.8315,
+  },
+
+  // ─── TEMPE ────────────────────────────────────────────────────
+  {
+    slug: 'tempe-az-dumpster-rental',
+    cityName: 'Tempe',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Dumpster Rental Tempe, AZ | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Tempe dumpster rental for home cleanouts, rental property turnovers, roofing debris, and construction waste. Serving Tempe and the central Phoenix Valley.',
+    primaryKeyword: 'tempe dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental tempe az',
+      'tempe construction dumpster rental',
+      'roll off dumpster tempe',
+      'roll off dumpster tempe az',
+      'rolloff dumpsters tempe',
+      'roll offs tempe az',
+      '10 yard dumpster rental tempe',
+      '20 yard dumpster rental tempe',
+      '30 yard dumpster rental tempe',
+    ],
+    heroH1: 'Dumpster Rental in Tempe, AZ',
+    heroSubheadline:
+      'Roll-off containers for home cleanouts, rental property turnovers, roofing tear-offs, and construction waste across Tempe and the central Phoenix Valley.',
+    introParagraphs: [
+      'Tempe sits at the geographic center of the Phoenix Valley, and the housing stock reflects it. North Tempe and the Maple-Ash area have 1950s and \'60s bungalows generating renovation and cleanout volume at a steady pace. Near Arizona State University, the rental market is dense — older duplexes, small apartment complexes, and single-family rentals turn over frequently and often need a container between tenants. That rental turnover category is a Tempe-specific demand driver that most other Valley cities do not have at the same scale.',
+      'South Tempe along the Kyrene corridor has 1980s and early \'90s homes hitting the first full renovation cycle. Kitchen and bath remodels are the most active category. The Tempe Town Lake district has seen a decade of commercial and mixed-use redevelopment that continues to produce job-site debris at scale. Both markets generate dumpster demand, but the projects are completely different in size and debris type.',
+      'Rolloff Dumpster Finder serves Tempe and the surrounding central Valley — Phoenix, Mesa, Chandler, Scottsdale, and Gilbert. Tempe is a dense, urban market. Streets near ASU and in older north Tempe neighborhoods can be narrow, and multi-unit access requires more coordination than a standard driveway drop. We can walk you through placement requirements before you book. If the invoice does not match the quote, give us a call.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, bathroom remodels, rental property turnovers, and light construction debris.',
+        range: '$270–$470 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
+        range: '$370–$640 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and commercial site waste.',
+        range: '$440–$770 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
+        range: '$560–$1,050 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'North Tempe and the Maple-Ash area have a concentration of 1950s and \'60s bungalows that generate consistent cleanout and flip volume. A full-house cleanout in these neighborhoods typically fills a 15 to 20-yard container. Smaller lot sizes in older Tempe mean less garage storage but more material packed into the main structure.',
+      },
+      {
+        number: '02',
+        name: 'Rental Property Turnovers',
+        description:
+          'The rental market near Arizona State University is one of the densest in Arizona. Landlords clearing out older duplexes, student rentals, and small apartment units use roll-off containers between major tenants. A 10-yard handles most single-unit turnovers; a 15-yard when full flooring and fixture replacement is involved.',
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Tile and flat roofing are standard in Tempe. Tile is significantly heavier than asphalt shingles — confirm weight allowances before scheduling, not after. Older north Tempe roofs may also have multiple layers if they were re-roofed rather than torn off the first time.',
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'The Tempe Town Lake district has seen sustained commercial and mixed-use redevelopment. Job-site waste from framing, drywall, and concrete is a regular category along the lakefront corridor. South Tempe residential construction and infill development add residential C&D volume on top of the commercial activity.',
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'South Tempe\'s Kyrene corridor has 1980s and \'90s homes hitting the renovation cycle. Original tile floors, dated cabinetry, and older fixture sets produce more debris weight per load than most homeowners estimate. A 10 to 15-yard container handles most kitchen and bath tear-outs.',
+      },
+      {
+        number: '06',
+        name: 'Garage & Attic Cleanouts',
+        description:
+          'Basements are uncommon in Tempe, but garages in south Tempe planned communities — The Lakes and the Kyrene corridor — accumulate significant storage over time. A 10-yard handles most cleanouts. If the attic is also being cleared, size up to a 15-yard.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Older north Tempe neighborhoods have long-term residents, and estate cleanouts in Maple-Ash and Broadmor are a consistent market segment. Full-home estate work typically fills a 20 to 30-yard container. Book early — these jobs generate more volume than initial walkthroughs suggest.',
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Desert landscaping removal, palm trimming, and irrigation replacement produce more debris than most homeowners expect. Confirm green waste policies with your provider before booking — mixed organic and decomposed granite loads are not accepted at all Tempe-area disposal facilities.',
+      },
+      {
+        number: '09',
+        name: 'Pool Demo & Concrete',
+        description:
+          'Pool demolition and concrete work are common across Tempe. A standard pool generates two to four tons of concrete and rebar. A 10-yard container with a heavy-material weight allowance is the right call for pure concrete loads — standard weight limits will not hold.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Tempe depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is standard where lots allow — south Tempe and newer planned communities typically have wide driveways and straightforward access.',
+      'Older north Tempe neighborhoods, including Maple-Ash and Broadmor, have narrower streets and smaller driveways. Confirm truck clearance with your provider before booking rather than sorting it out on delivery day.',
+      'Multi-unit properties and apartment buildings require authorization from the property owner or management company before a container is placed. This applies to most rental properties near Arizona State University.',
+      'Containers placed in a public street or right-of-way require a permit through the City of Tempe Development Services. Private driveway placements typically do not require a permit.',
+      'HOA communities in south Tempe — The Lakes and the Kyrene corridor — require written association approval before delivery. Get it in writing before scheduling.',
+      'Place protective boards under the container on asphalt during summer months. Tempe ground temperatures in July and August can cause asphalt softening under heavy containers.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Tempe',
+      'Maple-Ash',
+      'Broadmor',
+      'Tempe Beach',
+      'The Lakes',
+      'West Tempe',
+      'South Tempe',
+      'Kyrene Corridor',
+      'El Dorado Park',
+      'Lakeshore',
+      'Corona del Sol',
+      'McClintock District',
+    ],
+    nearbyCities: [
+      'Phoenix',
+      'Mesa',
+      'Chandler',
+      'Scottsdale',
+      'Gilbert',
+      'Ahwatukee',
+      'Guadalupe',
+      'Paradise Valley',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Tempe?',
+        answer:
+          'Tempe dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard covers most full-home cleanouts and larger renovation projects and runs $440–$770. Those are honest base estimates. Ask for the all-in number including fuel and disposal fees before booking.',
+      },
+      {
+        question: 'What size dumpster do I need for a Tempe home cleanout?',
+        answer:
+          'A 20-yard handles most single-family cleanouts in Tempe. Older north Tempe bungalows tend to run lighter; larger south Tempe homes with garages and storage rooms tend to run heavier. If you are clearing an estate or a property with decades of accumulation, size up to a 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for a rental property or multi-unit building in Tempe?',
+        answer:
+          'Yes. Rental property turnovers near ASU are a common use case in Tempe. For multi-unit properties, authorization from the property owner or management company is required before delivery. A 10-yard handles most single-unit turnovers; a 15-yard if flooring and fixtures are also being replaced.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Tempe?',
+        answer:
+          'Yes. Tempe roofing is predominantly tile and flat systems. Tile is significantly heavier than asphalt shingles — a full tear-off can exceed standard weight allowances before the container is half full. Tell your provider you are hauling tile before booking so they set the right weight limit.',
+      },
+      {
+        question: 'What about concrete, pool demolition, or heavy debris in Tempe?',
+        answer:
+          'Pool demolition is a common project in Tempe. A standard pool generates two to four tons of concrete and rebar. Dense material fills weight limits at roughly half the container\'s volume — confirm included tonnage before the first load goes in. A 10-yard with a heavy-material allowance is the right call for pure concrete loads.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Tempe?',
+        answer:
+          'Tempe has good provider coverage from the greater Phoenix market. Same-day or next-day delivery is available from several providers across most Tempe zip codes. Demand runs highest during spring semester move-out season and February through May renovation season. Book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Phoenix, Mesa, and Chandler?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Tempe and the full central Valley, including Phoenix, Mesa, Chandler, Scottsdale, Gilbert, and Ahwatukee. Service also extends to Guadalupe and other Maricopa County communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Tempe?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Tempe market. If your project is running long, call ahead to extend rather than letting the container sit past its scheduled pickup.',
+      },
+      {
+        question: 'Are there items I cannot put in a Tempe dumpster?',
+        answer:
+          'Paint, solvents, motor oil, propane tanks, batteries, tires, appliances with refrigerants, hazardous waste, and asbestos are not accepted in standard roll-off containers. Older rental properties and north Tempe homes from the \'50s and \'60s occasionally contain materials in restricted categories. Ask when booking if you have uncertainty.',
+      },
+    ],
+    latitude: 33.4255,
+    longitude: -111.94,
+  },
+
+  // ─── GLENDALE ─────────────────────────────────────────────────
+  {
+    slug: 'glendale-az-dumpster-rental',
+    cityName: 'Glendale',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Dumpster Rental Glendale, AZ | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Glendale dumpster rental for home cleanouts, roofing debris, renovation waste, and construction projects. Serving Glendale and the greater West Valley.',
+    primaryKeyword: 'glendale dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental glendale az',
+      'glendale construction dumpster rental',
+      'roll off dumpster glendale',
+      'roll off dumpster glendale az',
+      'rolloff dumpsters glendale',
+      'roll offs glendale az',
+      '10 yard dumpster rental glendale',
+      '20 yard dumpster rental glendale',
+      '30 yard dumpster rental glendale',
+    ],
+    heroH1: 'Dumpster Rental in Glendale, AZ',
+    heroSubheadline:
+      'Roll-off containers for home cleanouts, roofing tear-offs, construction debris, and renovation projects across Glendale and the greater West Valley of Maricopa County.',
+    introParagraphs: [
+      'Glendale is one of the oldest suburban cities in the Phoenix metro, and the housing stock shows it. Central and east Glendale have 1960s and \'70s ranch homes generating consistent renovation, flip, and cleanout volume — some of the oldest residential stock in the West Valley. The historic areas near downtown and the Catlin Court district add a layer of older properties that require careful debris handling. West Glendale and Arrowhead Ranch bring newer \'80s and \'90s construction into the mix.',
+      'The Westgate Entertainment District and State Farm Stadium in northwest Glendale have driven a decade of commercial and hospitality construction in that corridor. Hotel builds, restaurant expansions, and mixed-use development produce job-site debris at commercial scale. Glendale also sits adjacent to Luke Air Force Base in Litchfield Park — the military household market drives a consistent stream of move-out cleanouts and property turnovers throughout the surrounding West Valley.',
+      'Rolloff Dumpster Finder serves Glendale and the full West Valley — Peoria, Surprise, Avondale, Goodyear, and Litchfield Park. Glendale pricing runs in the same range as the broader Phoenix metro. Older central neighborhoods can affect delivery logistics — narrow streets require a quick access check before booking. We show what is included in the base rate before you commit. If the invoice does not match the quote, give us a call.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
+        range: '$270–$470 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
+        range: '$370–$640 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and pool demolition.',
+        range: '$440–$770 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
+        range: '$560–$1,050 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Central and east Glendale have a dense concentration of 1960s and \'70s ranch homes that generate consistent cleanout and flip volume. These are some of the oldest single-family homes in the West Valley. A full-house cleanout typically fills a 15 to 20-yard container, with larger homes and detached garages running toward the high end.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Glendale roofing is predominantly tile and flat systems — both significantly heavier than asphalt shingles. A full tile tear-off on a central Glendale ranch can approach weight limits before the container is half full. Confirm the weight allowance with your provider before scheduling, not after the first load lands.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'The Westgate Entertainment District and surrounding commercial corridor in northwest Glendale have produced sustained job-site waste over a decade of development. Framing, drywall, concrete, and mixed C&D debris from commercial and residential construction in the area work best in a 20 or 30-yard container.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Central Glendale\'s older ranch homes are prime remodel candidates. Original tile floors, dated cabinetry, and 1960s-era fixtures produce more debris weight per load than most homeowners expect. A 10 to 15-yard container handles most kitchen and bath tear-outs without oversizing.',
+      },
+      {
+        number: '05',
+        name: 'Garage & Attic Cleanouts',
+        description:
+          'Basements are uncommon in Glendale, but older ranch-home garages and finished attics in Palmaire and Thunderbird Estates accumulate decades of storage. HOA communities in Arrowhead Ranch often require the container be staged inside the garage — plan for the extra load when estimating container size.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Glendale\'s older established neighborhoods and proximity to Sun City generate consistent estate cleanout demand. Full-home estate work in the Cholla and Sahuaro districts typically fills a 20 to 30-yard container. Book early — these jobs consistently produce more volume than the initial walkthrough suggests.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Desert landscaping removal, palm trimming, and oleander clearing produce more debris than most homeowners expect. Confirm green waste policies before booking — mixed organic and decomposed granite loads are not accepted at all Glendale-area facilities.',
+      },
+      {
+        number: '08',
+        name: 'Pool Demo & Concrete',
+        description:
+          'Pool demolition and concrete removal are common across Glendale. A standard pool fill generates two to four tons of concrete and rebar — well past standard weight limits for most container sizes. Book a 10-yard with a heavy-material allowance for pure concrete loads.',
+      },
+      {
+        number: '09',
+        name: 'Military Move-Out Cleanouts',
+        description:
+          'Luke Air Force Base in nearby Litchfield Park drives a consistent stream of household moves and property turnovers throughout west Glendale. Move-out cleanouts often combine furniture, stored goods, and renovation debris in a single load. A 15 to 20-yard container handles most military household cleanouts.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Glendale depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across most Glendale neighborhoods — flat terrain and wide driveways in newer subdivisions make delivery straightforward.',
+      'Central and east Glendale neighborhoods from the 1960s and \'70s have narrower streets. Confirm truck clearance with your provider before booking — access issues are easier to solve before the truck is on the road.',
+      'Containers placed in a public street or right-of-way require a permit through the City of Glendale Engineering Services Department. Driveway placements on private property typically do not require a permit.',
+      'Arrowhead Ranch and other HOA communities in northwest Glendale require written association approval before delivery. Some associations require the container be screened from the street or placed inside the garage.',
+      'The downtown historic district and Catlin Court area have older streets with limited truck clearance in spots. Verify access with your provider before scheduling delivery in this area.',
+      'Place protective boards under the container on asphalt during summer months. Glendale ground temperatures in July and August can cause asphalt softening under heavy containers.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Glendale',
+      'Catlin Court',
+      'Arrowhead Ranch',
+      'Westgate',
+      'Barrel District',
+      'Palmaire',
+      'Thunderbird Estates',
+      'North Glendale',
+      'Cholla District',
+      'Sahuaro District',
+      'Heroes Park',
+      'Foothills',
+    ],
+    nearbyCities: [
+      'Phoenix',
+      'Peoria',
+      'Surprise',
+      'Avondale',
+      'Litchfield Park',
+      'Goodyear',
+      'El Mirage',
+      'Tolleson',
+      'Youngtown',
+      'Sun City',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Glendale?',
+        answer:
+          'Glendale dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard — which covers most full-home cleanouts and larger renovation projects — runs $440–$770. Those are honest base estimates. Ask for the all-in number including fuel and disposal fees before you book.',
+      },
+      {
+        question: 'What size dumpster do I need for a Glendale home cleanout?',
+        answer:
+          'A 20-yard handles most single-family cleanouts in Glendale. Older central Glendale ranch homes tend to run lighter than larger newer builds; homes with detached garages or storage rooms tend to run heavier. If you are clearing an estate or a property with decades of accumulation, size up to a 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Glendale?',
+        answer:
+          'Yes. Glendale roofing is predominantly tile and flat systems — both heavier than asphalt shingles. A full tile tear-off can exceed standard weight allowances faster than most contractors expect. Tell your provider you are hauling tile before booking so they set the right weight limit.',
+      },
+      {
+        question: 'What about concrete, pool demolition, or heavy debris in Glendale?',
+        answer:
+          'Pool demolition is a common project in Glendale. A standard pool generates two to four tons of concrete and rebar. Dense material fills weight limits at roughly half the container\'s volume. A 10-yard with a heavy-material allowance is typically the right call for pure concrete loads.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Glendale?',
+        answer:
+          'Glendale has solid provider coverage from the greater Phoenix market. Same-day or next-day delivery is available from several companies across most Glendale zip codes. Spring renovation season and the summer monsoon aftermath push demand higher. Book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Peoria, Surprise, and Avondale?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Glendale and the full West Valley, including Peoria, Surprise, Avondale, Goodyear, Litchfield Park, and El Mirage. Service also extends to Youngtown, Sun City, and other West Valley communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Glendale?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Glendale market. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your schedule.',
+      },
+      {
+        question: 'Are there items I cannot put in a Glendale dumpster?',
+        answer:
+          'Paint, solvents, motor oil, propane tanks, batteries, tires, appliances with refrigerants, hazardous waste, and asbestos are not accepted in standard roll-off containers. Older central Glendale homes from the \'60s and \'70s occasionally contain materials that fall into restricted categories. Ask when booking if you have any uncertainty.',
+      },
+      {
+        question: 'Are there special delivery considerations for older Glendale neighborhoods?',
+        answer:
+          'Yes. Central and east Glendale have 1960s-era streets that can be narrower than newer subdivisions. Some areas also have overhead utility lines that restrict truck boom access. Give your provider your full address before booking so they can confirm truck clearance — not after the driver is already there.',
+      },
+    ],
+    latitude: 33.5387,
+    longitude: -112.186,
+  },
+
   // ─── FUTURE CITIES ────────────────────────────────────────
   // To add a new city, copy an existing block above and update:
   //   slug, cityName, metaTitle, metaDescription, heroH1,

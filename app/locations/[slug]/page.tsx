@@ -26,11 +26,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: `https://rolloffdumpsterfinder.com/locations/${city.slug}`,
       siteName: 'Rolloff Dumpster Finder',
       type: 'website',
+      images: [
+        {
+          url: 'https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
+          width: 1672,
+          height: 941,
+          alt: 'Roll-off dumpster rental',
+        },
+      ],
     },
     twitter: {
       card: 'summary_large_image',
       title: city.metaTitle,
       description: city.metaDescription,
+      images: ['https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png'],
     },
   }
 }
@@ -181,27 +190,30 @@ export default async function CityPage({ params }: Props) {
     })),
   }
 
-  const localBusinessSchema = {
+  const serviceSchema = {
     '@context': 'https://schema.org',
-    '@type': 'LocalBusiness',
-    name: `Rolloff Dumpster Finder — ${city.cityName}, ${city.stateAbbr}`,
-    description: city.metaDescription,
-    url: `https://rolloffdumpsterfinder.com/locations/${city.slug}`,
+    '@type': 'Service',
+    name: `Roll-Off Dumpster Rental in ${city.cityName}, ${city.stateAbbr}`,
+    serviceType: 'Roll-Off Dumpster Rental',
+    provider: {
+      '@type': 'Organization',
+      name: 'Rolloff Dumpster Finder',
+      url: 'https://rolloffdumpsterfinder.com',
+    },
     areaServed: {
       '@type': 'City',
       name: city.cityName,
-      containedIn: { '@type': 'State', name: city.stateName },
+      containedInPlace: { '@type': 'State', name: city.stateName },
     },
-    ...(city.latitude && city.longitude
-      ? { geo: { '@type': 'GeoCoordinates', latitude: city.latitude, longitude: city.longitude } }
-      : {}),
+    url: `https://rolloffdumpsterfinder.com/locations/${city.slug}`,
+    description: city.metaDescription,
   }
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
 
       {/* ── Breadcrumb ─────────────────────────────────────── */}
       <div className="bg-gray-50 border-b border-gray-200 px-6 py-3">
@@ -321,6 +333,13 @@ export default async function CityPage({ params }: Props) {
           >
             Get a {city.cityName} Dumpster Quote
           </a>
+          <p className="mt-5 text-[14px] text-[#6B7280]">
+            Not sure what moves the price?{' '}
+            <Link href="/blog/what-does-a-dumpster-rental-cost" className="text-orange underline underline-offset-2 hover:no-underline">
+              See how dumpster rental pricing works
+            </Link>
+            .
+          </p>
         </div>
       </section>
 
@@ -358,6 +377,15 @@ export default async function CityPage({ params }: Props) {
               </p>
             </div>
           ))}
+        </div>
+        <div className="max-w-[1200px] mx-auto mt-8 text-center">
+          <p className="text-[14px] text-white/[.5]">
+            Not sure which size fits your project?{' '}
+            <Link href="/blog/how-to-choose-the-right-dumpster-size" className="text-orange underline underline-offset-2 hover:no-underline">
+              Read the dumpster size guide
+            </Link>
+            .
+          </p>
         </div>
       </section>
 
@@ -453,6 +481,13 @@ export default async function CityPage({ params }: Props) {
               </ul>
             </div>
           </div>
+          <p className="mt-6 text-[14px] text-[#6B7280]">
+            For the full list of accepted and prohibited items, read our guide to{' '}
+            <Link href="/blog/what-can-you-put-in-a-roll-off-dumpster" className="text-orange underline underline-offset-2 hover:no-underline">
+              what can go in a roll-off dumpster
+            </Link>
+            .
+          </p>
         </div>
       </section>
 
@@ -499,6 +534,25 @@ export default async function CityPage({ params }: Props) {
               </div>
             </div>
           </div>
+          <p className="mt-8 text-[14px] text-[#6B7280]">
+            {city.stateAbbr === 'AZ' ? (
+              <>
+                Looking for other Arizona cities?{' '}
+                <Link href="/locations/arizona" className="text-orange underline underline-offset-2 hover:no-underline">
+                  Browse all Arizona dumpster rental locations
+                </Link>
+                .
+              </>
+            ) : (
+              <>
+                Looking for other service areas?{' '}
+                <Link href="/locations" className="text-orange underline underline-offset-2 hover:no-underline">
+                  Browse all dumpster rental locations
+                </Link>
+                .
+              </>
+            )}
+          </p>
         </div>
       </section>
 
@@ -571,8 +625,12 @@ export default async function CityPage({ params }: Props) {
           </h2>
           <p className="text-[16px] text-white/[.58] leading-[1.7] mb-8">
             Whether you are cleaning out a home, remodeling a kitchen, tearing off a roof, or
-            managing construction debris, Rolloff Dumpster Finder can help you compare roll off
-            dumpster options in the {city.cityName} area.
+            managing construction debris, Rolloff Dumpster Finder can help you find roll off
+            dumpster options in the {city.cityName} area.{' '}
+            <Link href="/blog/how-to-choose-a-dumpster-rental-company" className="text-orange/80 underline underline-offset-2 hover:text-orange hover:no-underline transition-colors">
+              Tips on choosing the right rental company
+            </Link>
+            .
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
