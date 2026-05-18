@@ -545,9 +545,9 @@ export default async function CityPage({ params }: Props) {
               </>
             ) : (
               <>
-                Looking for other service areas?{' '}
-                <Link href="/locations" className="text-orange underline underline-offset-2 hover:no-underline">
-                  Browse all dumpster rental locations
+                Looking for other Colorado cities?{' '}
+                <Link href="/locations/colorado" className="text-orange underline underline-offset-2 hover:no-underline">
+                  Browse all Colorado dumpster rental locations
                 </Link>
                 .
               </>
