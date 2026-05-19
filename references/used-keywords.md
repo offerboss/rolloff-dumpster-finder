@@ -10,6 +10,7 @@ Active primaries:
 | 2026-05-13 | what can you put in a roll off dumpster | what-can-you-put-in-a-roll-off-dumpster | concrete dumpster rental ✓ CSV, prohibited items in dumpster (invented), hazardous materials dumpster (invented), what not to put in a dumpster (invented), dumpster accepted items (invented) | dumpster_keywords.csv |
 | 2026-05-14 | roofing dumpster rental | roofing-dumpster-rental | 20 yard roll off dumpster rental ✓ CSV, same day dumpster rental ✓ CSV, roll off dumpster rental ✓ CSV, dumpster for roofing shingles (invented), shingle weight dumpster (invented) | dumpster_keywords.csv |
 | 2026-05-16 | roll off dumpster rental companies | how-to-choose-a-dumpster-rental-company | dumpster rental companies near me ✓ CSV, local dumpster rental ✓ CSV, dumpster rental services ✓ CSV, cheapest dumpster rental near me ✓ CSV, how to choose a dumpster rental company (invented) | dumpster_keywords.csv |
+| 2026-05-19 | commercial dumpster rental | commercial-dumpster-rental | roll off dumpster service ✓ CSV, dumpster service near me ✓ CSV, dumpster delivery ✓ CSV, construction debris container rental ✓ CSV, commercial roll off dumpster (invented), business dumpster rental (invented) | dumpster_keywords.csv |
 
 Workflow for the next post
 Open the active keyword CSV

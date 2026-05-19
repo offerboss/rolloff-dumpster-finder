@@ -90,6 +90,13 @@ const resourceCards = [
       'Clearing a full house, estate, or hoarded property is a different job than a renovation. This guide covers the right container size, access requirements, and what to do with items that cannot go in the bin.',
     href: '#',
   },
+  {
+    badge: 'Commercial',
+    title: 'Commercial Dumpster Rental: What Businesses Actually Need',
+    excerpt:
+      'A commercial roll-off is the same container as a residential one. What changes is scale, site access, and the permit checklist. Here is how to size, price, and book it.',
+    href: '/blog/commercial-dumpster-rental',
+  },
 ]
 
 export default function ResourcesPage() {

@@ -1495,4 +1495,289 @@ export const blogPosts: BlogPost[] = [
 <p>The best dumpster rental company is the one whose invoice matches the quote. That is a lower bar than it sounds — which tells you something about the industry and something about invoices generally. Give us a call. We'll match you with a provider who clears it.</p>
 `,
   },
+  {
+    slug: 'commercial-dumpster-rental',
+    title: 'Commercial Dumpster Rental: What Businesses Actually Need',
+    excerpt:
+      'Commercial dumpster rental is the same product as a residential rental — a roll-off container, same weight limits, same pricing structure. What changes is scale, site access, and the permit checklist. Here is what to book and when to skip it.',
+    category: 'Buyers Guide',
+    coverImage:
+      'https://images.pexels.com/photos/8811446/pexels-photo-8811446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Large roll-off container positioned on commercial pavement outside a business building',
+    date: '2026-05-19',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Commercial dumpster rental for job sites, office renovations, and business cleanouts. How to size, price, and book a roll-off — and when to skip it entirely.',
+    readingTime: 9,
+    keywords: [
+      'commercial dumpster rental',
+      'roll off dumpster service',
+      'dumpster service near me',
+      'dumpster delivery',
+      'construction debris container rental',
+      'commercial roll off dumpster',
+      'business dumpster rental',
+    ],
+    toc: [
+      { id: 'what-commercial-means', title: 'What "Commercial" Actually Means for a Rental' },
+      { id: 'sizing', title: 'Sizing the Container for Common Commercial Jobs' },
+      { id: 'pricing', title: 'What the Numbers Look Like' },
+      { id: 'accepted-materials', title: 'What Goes in a Commercial Container' },
+      { id: 'when-to-skip', title: 'When the Roll-Off Is the Wrong Tool' },
+      { id: 'booking-questions', title: 'Six Questions to Ask Before Booking' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+    faq: [
+      {
+        question: 'How much does a commercial dumpster rental cost?',
+        answer:
+          'Commercial dumpster rental pricing matches residential: $380–$650 all-in for a 20-yard container in most Front Range markets, $450–$780 for a 30-yard. The base rate does not include fuel surcharges ($15–$35), disposal fees ($10–$30), or weight overage charges ($65–$95 per ton over the included limit). Get a written, itemized quote before committing.',
+      },
+      {
+        question: 'What size dumpster do I need for a commercial renovation?',
+        answer:
+          'Most commercial renovations — office build-outs, retail tenant improvements, restaurant remodels — land in the 20- to 30-yard range. The 20-yard handles standard office and retail jobs without heavy structural demo. Step to a 30-yard for full gut renovations or any job with significant concrete, tile, or structural demolition.',
+      },
+      {
+        question: 'Do I need a permit for a commercial dumpster?',
+        answer:
+          'Placement on private commercial property — a business parking lot or loading dock — typically does not require a permit. Street placement in front of a commercial property almost always does. Permits run $20–$150 depending on municipality. Confirm with your city or county permit office before the container is scheduled.',
+      },
+      {
+        question: 'Can I keep a roll-off container on-site for more than two weeks?',
+        answer:
+          'Yes. Most providers extend at $5–$15 per day past the base rental period. For projects running longer than two weeks, negotiate a longer base period at booking — the daily extension rate is typically higher than what a longer upfront period costs. Confirm the extension policy in the written quote.',
+      },
+      {
+        question: 'What materials are prohibited in a commercial dumpster?',
+        answer:
+          'The prohibited list matches residential: paint, motor oil, solvents, batteries, propane tanks, tires, appliances with refrigerants, asbestos-containing materials, and hazardous waste. Commercial jobs also commonly generate fluorescent lighting tubes and electronics, both of which require separate disposal at certified recycling facilities rather than a standard roll-off.',
+      },
+      {
+        question: 'What is the difference between a roll-off and a commercial dumpster service?',
+        answer:
+          'A roll-off is a project tool — a one-time container rental with a defined start and end date. A commercial dumpster service is an ongoing subscription with a permanent container serviced on a regular schedule. If the need is recurring waste pickup, a roll-off is the wrong product. If the need is a one-time project, it is exactly right.',
+      },
+      {
+        question: 'How fast can I get a commercial dumpster delivered?',
+        answer:
+          'Same-day delivery is available from most roll-off providers at a premium of $50–$100 above standard rates. Next-day delivery is standard when ordered before midday. For planned commercial projects, booking two to three days ahead typically gets you better availability, a wider choice of container sizes, and a better rate.',
+      },
+    ],
+    body: `
+<p>A <strong>commercial dumpster rental</strong> is still just a box on wheels. The word "commercial" is doing a lot of heavy lifting there — which, coincidentally, is the variable that catches most projects off guard. For most commercial jobs — tenant improvements, office renovations, retail build-outs — you are booking the same 20- or 30-yard container a homeowner rents for a kitchen gut. Same weight limits, same pricing structure, same driver who needs 60 feet of clearance and does not need input on where to park.</p>
+
+<p>What actually changes on a commercial job is scale, rental duration, and the pre-delivery checklist. More debris. Longer timelines. More stakeholders with opinions. The container itself is indifferent to all of this.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">Most commercial jobs need a 20- or 30-yard container, booked for 7–14 days. Weight matters more than volume on dense debris. Get a written, itemized quote — fuel surcharges, disposal fees, and overage rates live in the line items, not the headline number.</p>
+</div>
+
+<nav class="not-prose my-8">
+  <p class="text-sm font-semibold uppercase tracking-wide text-gray-500 mb-3">In This Guide</p>
+  <ol class="list-decimal list-inside space-y-1 text-sm text-charcoal">
+    <li><a href="#what-commercial-means" class="text-orange hover:underline">What "Commercial" Actually Means for a Rental</a></li>
+    <li><a href="#sizing" class="text-orange hover:underline">Sizing the Container for Common Commercial Jobs</a></li>
+    <li><a href="#pricing" class="text-orange hover:underline">What the Numbers Look Like</a></li>
+    <li><a href="#accepted-materials" class="text-orange hover:underline">What Goes in a Commercial Container</a></li>
+    <li><a href="#when-to-skip" class="text-orange hover:underline">When the Roll-Off Is the Wrong Tool</a></li>
+    <li><a href="#booking-questions" class="text-orange hover:underline">Six Questions to Ask Before Booking</a></li>
+    <li><a href="#faq" class="text-orange hover:underline">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="what-commercial-means">What "Commercial" Actually Means for a Rental</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/12708007/pexels-photo-12708007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Commercial building exterior with industrial waste containers outside during a renovation project"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<p>In practice, commercial dumpster rental covers three main scenarios:</p>
+
+<ul class="my-4 space-y-2 pl-5 list-disc text-charcoal">
+  <li><strong>Project-based business work</strong> — office renovation, retail build-out, restaurant gut. One-time, short rental window, clear endpoint.</li>
+  <li><strong>Property management cleanouts</strong> — clearing units between tenants, handling a building renovation section by section, clearing common areas before a full remodel.</li>
+  <li><strong>Contractor-managed construction</strong> — new commercial build, large tenant improvement, structural demolition. These are the jobs where multiple containers or multiple pulls on the same container start to make financial sense.</li>
+</ul>
+
+<p>The container you rent for all three is the same roll-off product a homeowner gets. The differences are logistics and scale, not the product. A 30-yard container does not know whether it is sitting in front of a house or a warehouse. Neither does the driver — they need flat ground, 60 feet of clearance, and the correct address. Everything else is coordination.</p>
+
+<p>Where commercial jobs add complexity is pre-delivery approvals. On a commercial property, you may need sign-off from the building owner, the property manager, and the municipality before a container lands. If the container goes on a public street, a permit is almost always required. None of that changes the container. It just adds to the checklist the week before delivery day.</p>
+
+<h2 id="sizing">Sizing the Container for Common Commercial Jobs</h2>
+
+<p>The default for most commercial projects is the 20- or 30-yard container. The 20-yard handles a standard office renovation, a retail build-out, or a tenant improvement without structural demo. Step to the 30-yard when the job includes significant structural work, multi-room demolition, or when you are genuinely uncertain — the cost gap between a 20 and 30 is smaller than the cost of a second haul on a 20 that runs short.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Project Type</th>
+        <th class="px-4 py-3 text-left font-semibold">Recommended Size</th>
+        <th class="px-4 py-3 text-left font-semibold">Weight Note</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3">Office cleanout or light renovation</td>
+        <td class="px-4 py-3 font-semibold text-orange">10–20 yard</td>
+        <td class="px-4 py-3">Low — furniture, drywall, flooring</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50">
+        <td class="px-4 py-3">Retail build-out or tenant improvement</td>
+        <td class="px-4 py-3 font-semibold text-orange">20 yard</td>
+        <td class="px-4 py-3">Medium — mixed demolition debris</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3">Restaurant renovation</td>
+        <td class="px-4 py-3 font-semibold text-orange">20–30 yard</td>
+        <td class="px-4 py-3">High — tile, equipment, concrete floor</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50">
+        <td class="px-4 py-3">Full office gut or structural demo</td>
+        <td class="px-4 py-3 font-semibold text-orange">30–40 yard</td>
+        <td class="px-4 py-3">High — concrete, structural materials</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3">Multi-unit property cleanout</td>
+        <td class="px-4 py-3 font-semibold text-orange">20–30 yard (multiple pulls)</td>
+        <td class="px-4 py-3">Medium — unit contents vary</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">New commercial construction</td>
+        <td class="px-4 py-3 font-semibold text-orange">30–40 yard</td>
+        <td class="px-4 py-3">High — ongoing debris throughout the build</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Weight is the variable most commercial operators underestimate. A contractor gutting a commercial kitchen generates tile, concrete, and old equipment — all dense. A 20-yard container that looks half-full may already be at its weight limit. For any job involving concrete floors, tile, or structural demolition, confirm the weight limit and the overage rate before the first load goes in. For a full sizing breakdown, the <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">roll off dumpster sizes guide</a> matches every standard container to common project types.</p>
+
+<h2 id="pricing">What the Numbers Look Like</h2>
+
+<p>Commercial dumpster rental pricing follows the same structure as residential: base rate plus fuel surcharge, disposal fee, and overage charges for loads over the included weight limit. The numbers are the same too — a 20-yard on a commercial job costs the same as a 20-yard on a residential one, assuming the same market and debris type.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Container</th>
+        <th class="px-4 py-3 text-left font-semibold">All-In Price Range</th>
+        <th class="px-4 py-3 text-left font-semibold">Included Weight</th>
+        <th class="px-4 py-3 text-left font-semibold">Overage Rate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3 font-semibold text-orange">20-yard</td>
+        <td class="px-4 py-3">$380–$650</td>
+        <td class="px-4 py-3">2–4 tons</td>
+        <td class="px-4 py-3">$65–$95/ton over</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">30-yard</td>
+        <td class="px-4 py-3">$450–$780</td>
+        <td class="px-4 py-3">3–5 tons</td>
+        <td class="px-4 py-3">$65–$95/ton over</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3 font-semibold text-orange">40-yard</td>
+        <td class="px-4 py-3">$580–$1,100+</td>
+        <td class="px-4 py-3">4–6 tons</td>
+        <td class="px-4 py-3">$65–$95/ton over</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Standard rental periods run 7–10 days for residential jobs. Commercial projects often run longer. Extended rental fees are typically $5–$15 per day past the included period. If the project timeline is more than two weeks, negotiate a longer rental period upfront — the per-day extension rate is almost always higher than what a longer base period costs at booking. (I have seen more than a few commercial project managers figure this out on day 12. The lesson tends to stick.)</p>
+
+<p>Same-day delivery carries a premium of $50–$100 above standard scheduling on most commercial containers. For planned projects with a known start date, booking two or three days ahead typically gets better availability and a better rate. For a full breakdown of every line item between the quote and the invoice, the <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers the variables in detail.</p>
+
+<h2 id="accepted-materials">What Goes in a Commercial Container</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/15105580/pexels-photo-15105580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Debris and rubble from a commercial building demolition, including broken concrete and construction waste"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<p>Commercial projects generate most of the same debris categories as residential jobs. General construction materials — drywall, framing lumber, flooring, ceiling tiles, ductwork, cabinets, fixtures — are accepted in a standard roll-off container. Office furniture, shelving, cubicle systems, and general cleanout material all go in without issue.</p>
+
+<p>A few categories worth confirming in advance on a commercial job:</p>
+
+<ul class="my-4 space-y-2 pl-5 list-disc text-charcoal">
+  <li><strong>Commercial kitchen equipment</strong> — refrigerators, freezer units, and HVAC equipment require certified refrigerant removal before disposal. If you are demoing a commercial kitchen, confirm which appliances contain refrigerants before loading them into the bin.</li>
+  <li><strong>Electronics</strong> — servers, monitors, computers, and commercial AV equipment are restricted at many disposal facilities. Some providers accept them with a surcharge; others decline entirely. Confirm before loading.</li>
+  <li><strong>Fluorescent lighting</strong> — contains mercury and usually requires separate recycling. Large commercial renovations often generate significant quantities of tubes. Your county hazardous waste facility or a certified recycler handles these.</li>
+  <li><strong>Concrete and tile</strong> — accepted, but dense. A commercial floor demo can push weight limits before the container looks anything close to full. For concrete-heavy jobs, ask about a heavy-debris container rather than a standard roll-off.</li>
+</ul>
+
+<p>What never goes in a commercial container is the same list as residential: paint, motor oil, solvents, batteries, propane tanks, tires, appliances with refrigerants, asbestos-containing materials, and hazardous waste. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's construction and demolition materials guidance</a> covers how restricted commercial waste categories are handled at licensed facilities. For the complete accepted and prohibited breakdown, see <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">what can you put in a roll-off dumpster</a>.</p>
+
+<h2 id="when-to-skip">When the Roll-Off Is the Wrong Tool</h2>
+
+<p>I will tell you when to skip it.</p>
+
+<p><strong>If you need ongoing waste pickup, a roll-off is not your product.</strong> A roll-off container is a project tool — one-time debris accumulation, defined endpoint, haul it away. If your business generates regular waste and needs weekly or bi-weekly pickup, that is a commercial dumpster service on a subscription model. Different container type, different truck, different company, entirely different pricing structure. A roll-off sitting on your lot for six months is not a service. It is a very expensive parking space.</p>
+
+<p><strong>If the project is primarily hazardous material.</strong> No licensed roll-off provider takes paint, solvents, asbestos, lead paint, or anything classified as hazardous waste in a standard container. Commercial buildings constructed before 1978 commonly contain asbestos in flooring, ceiling tiles, insulation, and fireproofing. If there is any possibility of asbestos-containing materials, a licensed abatement contractor handles that before any demo crew touches the structure, and the dumpster goes on order after abatement is complete — not before. The <a href="https://www.epa.gov/asbestos" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's asbestos guidance</a> covers commercial building abatement requirements and regulated quantities.</p>
+
+<p><strong>If the scope is too small for a roll-off.</strong> A 10-yard container starts around $280 plus fees for a 7-day rental. If a single office cleanout generates a couple of pieces of furniture and two cubic yards of general debris, a junk removal service that charges by volume — and does the loading themselves — costs less. The roll-off makes financial sense when you have enough debris to justify a 7-day minimum and enough project complexity to need a container onsite for the duration.</p>
+
+<h2 id="booking-questions">Six Questions to Ask Before Booking</h2>
+
+<p>These are worth raising before the container is scheduled — not after it arrives and a budget line does not account for the overage rate.</p>
+
+<ol class="my-4 space-y-3 pl-5 list-decimal text-charcoal">
+  <li><strong>Is street placement allowed at this address, and what permit does it require?</strong> Commercial properties in busy areas may have restrictions. Street placement permits typically run $20–$150 depending on municipality. Confirm before booking.</li>
+  <li><strong>What is the weight limit, and what is the overage rate?</strong> Get both numbers in writing. For any job involving concrete, tile, or dense debris, this is the number that determines whether the quote matches the invoice.</li>
+  <li><strong>How long is the base rental period, and what does an extension cost per day?</strong> Standard is 7–10 days. Commercial projects run long. Negotiate a longer base period upfront rather than paying daily extension rates on week three.</li>
+  <li><strong>Are there multiple containers available if the scope grows?</strong> Larger commercial projects sometimes need a second container mid-job. Confirm availability before the first one arrives.</li>
+  <li><strong>Is there a surcharge for heavy debris or specific material types?</strong> Concrete and commercial kitchen demolition debris often trigger a material-specific surcharge. Ask at booking, not after the first pull.</li>
+  <li><strong>What is the cancellation and rescheduling policy?</strong> Commercial project timelines shift. Same-day cancellations typically carry a $50–$75 fee. Confirm the policy before the container is on the schedule.</li>
+</ol>
+
+<p>For more on what to compare between roll-off providers before committing, the <a href="/blog/how-to-choose-a-dumpster-rental-company" class="text-orange hover:underline">dumpster rental company guide</a> covers what to evaluate and what to walk away from. For local pricing and provider availability by city, the <a href="/locations" class="text-orange hover:underline">location guides</a> cover markets across Colorado and Arizona.</p>
+
+<h2 id="faq">Straight Answers</h2>
+
+<h3>How much does a commercial dumpster rental cost?</h3>
+<p>Commercial dumpster rental pricing matches residential: $380–$650 all-in for a 20-yard container in most Front Range markets, $450–$780 for a 30-yard. The base rate does not include fuel surcharges ($15–$35), disposal fees ($10–$30), or weight overage charges ($65–$95 per ton over the included limit). Get a written, itemized quote before committing.</p>
+
+<h3>What size dumpster do I need for a commercial renovation?</h3>
+<p>Most commercial renovations — office build-outs, retail tenant improvements, restaurant remodels — land in the 20- to 30-yard range. The 20-yard handles standard office and retail jobs without heavy structural demo. Step to a 30-yard for full gut renovations or any job with significant concrete, tile, or structural demolition.</p>
+
+<h3>Do I need a permit for a commercial dumpster?</h3>
+<p>Placement on private commercial property — a business parking lot or loading dock — typically does not require a permit. Street placement in front of a commercial property almost always does. Permits run $20–$150 depending on municipality. Confirm with your city or county permit office before the container is scheduled.</p>
+
+<h3>Can I keep a roll-off container on-site for more than two weeks?</h3>
+<p>Yes. Most providers extend at $5–$15 per day past the base rental period. For projects running longer than two weeks, negotiate a longer base period at booking — the daily extension rate is typically higher than what a longer upfront period costs. Confirm the extension policy in the written quote.</p>
+
+<h3>What materials are prohibited in a commercial dumpster?</h3>
+<p>The prohibited list matches residential: paint, motor oil, solvents, batteries, propane tanks, tires, appliances with refrigerants, asbestos-containing materials, and hazardous waste. Commercial jobs also commonly generate fluorescent lighting tubes and electronics, both of which require separate disposal at certified recycling facilities.</p>
+
+<h3>What is the difference between a roll-off and a commercial dumpster service?</h3>
+<p>A roll-off is a project tool — a one-time container rental with a defined start and end date. A commercial dumpster service is an ongoing subscription with a permanent container serviced on a regular schedule. If the need is recurring waste pickup, a roll-off is the wrong product. If the need is a one-time project, it is exactly right.</p>
+
+<h3>How fast can I get a commercial dumpster delivered?</h3>
+<p>Same-day delivery is available from most roll-off providers at a premium of $50–$100 above standard rates. Next-day delivery is standard when ordered before midday. For planned commercial projects, booking two to three days ahead typically gets better availability, a wider choice of container sizes, and a better rate.</p>
+
+<p>The container is the easy part of a commercial project. Three site managers debating where it should go is the hard part. Give us a call — we will sort out the container. The committee is on you.</p>
+`,
+  },
 ]
