@@ -17,3 +17,5 @@ export interface Provider {
 }
 
 export const coloradoProviders: Provider[] = []
+
+export const arizonaProviders: Provider[] = []

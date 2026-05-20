@@ -74,9 +74,15 @@ const activeStates = [
     desc: 'Roll-off dumpster rental companies serving the Front Range, Western Slope, and mountain communities. Now accepting provider listings.',
     status: 'Accepting Listings',
   },
+  {
+    state: 'Arizona',
+    href: '/providers/arizona',
+    desc: 'Roll-off dumpster rental companies serving Phoenix metro, Tucson, and markets across Arizona. Now accepting provider listings.',
+    status: 'Accepting Listings',
+  },
 ]
 
-const comingSoon = ['Arizona', 'Texas', 'Utah', 'Wyoming', 'New Mexico']
+const comingSoon = ['Texas', 'Utah', 'Wyoming', 'New Mexico']
 
 export default function ProvidersPage() {
   return (

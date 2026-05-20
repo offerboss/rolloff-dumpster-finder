@@ -398,6 +398,32 @@ export default function ArizonaLocationsPage() {
           </Link>
         </div>
       </section>
+
+      {/* Provider CTA — for companies, not renters */}
+      <section className="bg-white border-t border-[#E8E4DE] py-10 px-8">
+        <div className="max-w-[1200px] mx-auto flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
+          <div>
+            <p className="text-[10px] font-bold uppercase tracking-[.12em] text-[#9CA3AF] mb-1">
+              For Companies
+            </p>
+            <p className="text-[15px] font-semibold text-charcoal leading-[1.5]">
+              Operating a roll-off company in Arizona?{' '}
+              <Link
+                href="/providers/arizona"
+                className="text-orange hover:opacity-80 transition-opacity underline underline-offset-2"
+              >
+                List your business in the Arizona provider directory.
+              </Link>
+            </p>
+          </div>
+          <Link
+            href="/providers/arizona"
+            className="shrink-0 inline-block text-charcoal font-semibold text-[13px] px-[22px] py-[10px] rounded-full border border-[#D1CEC8] hover:border-charcoal transition-colors"
+          >
+            View Provider Directory
+          </Link>
+        </div>
+      </section>
     </>
   )
 }
