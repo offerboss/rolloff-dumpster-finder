@@ -278,6 +278,16 @@ export default async function CityPage({ params }: Props) {
             ))}
           </div>
         </div>
+        <div className="max-w-[1200px] mx-auto mt-12 rounded-2xl overflow-hidden shadow-sm">
+          <img
+            src="/home-page-images/roll-off-dumpster-rental-residential-cleanout.png"
+            alt={`Roll-off dumpster rental for a home cleanout in ${city.cityName}, ${city.stateAbbr}`}
+            width={1448}
+            height={1086}
+            loading="lazy"
+            className="w-full h-[260px] sm:h-[320px] object-cover"
+          />
+        </div>
       </section>
 
       {/* ── 3. Cost Guide ──────────────────────────────────── */}
@@ -400,6 +410,16 @@ export default async function CityPage({ params }: Props) {
             From older neighborhood renovations to new construction debris, here are the project
             types we most commonly help {city.cityName}-area customers with.
           </p>
+        </div>
+        <div className="max-w-[1200px] mx-auto mb-10 rounded-2xl overflow-hidden shadow-sm">
+          <img
+            src="/home-page-images/commercial-construction-roll-off-dumpster-rental.png"
+            alt={`Commercial construction and renovation dumpster rental in ${city.cityName}, ${city.stateAbbr}`}
+            width={1448}
+            height={1086}
+            loading="lazy"
+            className="w-full h-[240px] sm:h-[280px] object-cover"
+          />
         </div>
         <div className="max-w-[1200px] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
           {city.projects.map((p) => (

@@ -1780,4 +1780,252 @@ export const blogPosts: BlogPost[] = [
 <p>The container is the easy part of a commercial project. Three site managers debating where it should go is the hard part. Give us a call — we will sort out the container. The committee is on you.</p>
 `,
   },
+  {
+    slug: 'cheap-dumpster-rental',
+    title: 'Cheap Dumpster Rental: What Actually Moves the Price',
+    excerpt:
+      'Getting a lower price on a dumpster rental is less about negotiating the base rate and more about knowing which variables move the number — and what to ask before the quote becomes the invoice.',
+    category: 'Pricing',
+    coverImage:
+      'https://images.pexels.com/photos/7109515/pexels-photo-7109515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Roll-off dumpster container delivered to a residential property for a home project',
+    date: '2026-05-20',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Cheap dumpster rental starts at $220 per week. Six variables move the price, and three of them you control before booking. Here is what to ask before confirming the quote.',
+    readingTime: 8,
+    keywords: [
+      'cheap dumpster rental',
+      'cheapest dumpster rental near me',
+      'dumpster rental prices near me',
+      'roll off dumpster rental rates',
+      'small dumpster rental cost',
+      'dumpster near me prices',
+      'roll off dumpster prices',
+    ],
+    body: `
+<p>The cheapest dumpster rental is the one sized correctly on the first booking. That sounds like a motivational poster, but it is simple math: a second haul after a too-small container costs $150–$300, which is more than the difference between a 10-yard and a 20-yard in almost every market. (There is always concrete too, but I will get to that.)</p>
+
+<p>Cheap dumpster rental prices start around $220–$280 per week for a 10-yard container in most residential markets. A 20-yard — the container that handles most home projects — runs $350–$500 per week. What you pay within those ranges depends on six variables. Three of them you can influence before you book.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">A 10-yard container starts at $220 per week. A 20-yard runs $350–$500. Book the right size, ask about two-week flat rates if the project runs long, and get the weight limit and overage rate confirmed before the driver arrives. Those three steps keep the quote and the final bill in the same neighbourhood.</p>
+</div>
+
+<nav class="not-prose my-8 rounded-lg bg-[#F5F4F0] border border-[#E8E4DE] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#9CA3AF] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#six-variables" class="text-orange font-medium hover:underline text-sm">The Six Variables That Move the Price</a></li>
+    <li><a href="#what-wont-help" class="text-orange font-medium hover:underline text-sm">What Will Not Move the Price</a></li>
+    <li><a href="#price-by-size" class="text-orange font-medium hover:underline text-sm">Size vs. Price: What You Can Expect to Pay</a></li>
+    <li><a href="#timing" class="text-orange font-medium hover:underline text-sm">When to Book to Get a Lower Rate</a></li>
+    <li><a href="#questions" class="text-orange font-medium hover:underline text-sm">What to Ask Before You Confirm the Quote</a></li>
+    <li><a href="#quote-vs-bill" class="text-orange font-medium hover:underline text-sm">The Difference Between a Low Quote and a Low Bill</a></li>
+    <li><a href="#faq" class="text-orange font-medium hover:underline text-sm">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="six-variables">The Six Variables That Move the Price</h2>
+
+<p>Every dumpster rental quote is built from the same components. Knowing what they are tells you which ones respond to pressure and which ones are fixed before you even pick up the phone.</p>
+
+<p><strong>1. Container size.</strong> Bigger containers cost more. A 10-yard starts at $220 and a 20-yard starts at $350 in most markets. The risk of going too small is the second haul, which costs $150–$300 additional. Rule of thumb: if you are torn between two sizes, take the larger one. The cost difference is usually $50–$100. The second haul is always more.</p>
+
+<p><strong>2. Rental duration.</strong> Standard rentals run 7–10 days. Extensions typically cost $5–$15 per day. If you already know the project will need two weeks, ask for a two-week flat rate before confirming. Some companies have a two-week price that comes in below the 7-day rate plus daily extension fees.</p>
+
+<p><strong>3. Haul distance.</strong> A local operator hauling to a nearby landfill can price lower than a regional chain running the same job from a yard 40 miles out. This is why searching for the cheapest dumpster rental near you is actually worth doing — proximity to the landfill yard matters in the base haul fee.</p>
+
+<p><strong>4. Debris type.</strong> General household goods and furniture are the cheapest loads to dispose of. Roofing shingles, concrete, and dirt carry surcharges at most companies because they hit landfill weight limits faster and often require separate handling. A concrete-heavy load in a general debris container will almost always cost more than expected.</p>
+
+<p><strong>5. Seasonal demand.</strong> Spring through August is peak season in most residential markets. Hail damage on the Front Range and summer renovation activity compress demand into the same six-month window. Book at least a week out during that period. In slower months — September through March — date availability improves and, at some companies, so do rates on standard residential sizes.</p>
+
+<p><strong>6. Weight overage.</strong> This variable is not on the quote, which is why it is the most expensive one. Every container has a weight limit — typically 1–2 tons for a 10-yard, 2–4 tons for a 20-yard. Exceed it and you pay $40–$200 per extra ton. Dense debris hits limits before the container looks full. Concrete is the main offender, as it has been every year since I started doing this in 2003.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/7109515/pexels-photo-7109515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Roll-off dumpster container positioned on a residential driveway for a home renovation project"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="what-wont-help">What Will Not Move the Price (and What to Do Instead)</h2>
+
+<p>The disposal fee at the landfill is set by the landfill. The fuel surcharge is tied to diesel. The weight limit is set by the truck's axle rating. None of those are negotiable, and the company you are calling does not control them either.</p>
+
+<p>Haggling over the base rate rarely works with local independent operators. Most are pricing at a margin that does not leave room for the conversation. And the companies that quote dramatically below market — 20% under everyone else, no obvious explanation — almost always make that up on overweight charges and hidden fees. A quote that is 20% below market is the dumpster rental equivalent of a used car with a clean interior and an engine that is mostly rust. I have watched this play out for twenty-two years. The pattern holds.</p>
+
+<p>What actually helps: ask the right questions before booking, size correctly the first time, and avoid the debris types that carry surcharges if you can keep the load clean. Those three moves will save you more money than any negotiation on the base rate.</p>
+
+<p>If a quote is significantly below every other estimate, ask for a full itemized breakdown before confirming: base rate, disposal fee, fuel surcharge, weight limit, and overage rate. A legitimately competitive quote will have a standard fee structure. A quote built on optimistic assumptions about what your load weighs will not survive that question.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/33929758/pexels-photo-33929758.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Residential renovation debris ready to be loaded into a roll-off dumpster rental container"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="price-by-size">Size vs. Price: What You Can Expect to Pay</h2>
+
+<p>These are honest numbers from residential markets. Mountain and rural areas run 10–20% higher due to haul distance. Dense urban markets in Colorado and Arizona tend to stay in the middle of these ranges. For the full breakdown of what drives these numbers, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Size</th>
+        <th class="px-4 py-3 text-left font-semibold">Typical 7-Day Rate</th>
+        <th class="px-4 py-3 text-left font-semibold">Weight Limit</th>
+        <th class="px-4 py-3 text-left font-semibold">Overage Rate</th>
+        <th class="px-4 py-3 text-left font-semibold">Best For</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">10-yard</td>
+        <td class="px-4 py-3">$220–$380</td>
+        <td class="px-4 py-3">1–2 tons</td>
+        <td class="px-4 py-3">$40–$100 per ton</td>
+        <td class="px-4 py-3">Garage cleanouts, single-room remodels</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold text-orange">15-yard</td>
+        <td class="px-4 py-3">$280–$420</td>
+        <td class="px-4 py-3">1.5–2.5 tons</td>
+        <td class="px-4 py-3">$50–$120 per ton</td>
+        <td class="px-4 py-3">Bathroom remodels, small deck removal</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">20-yard</td>
+        <td class="px-4 py-3">$350–$500</td>
+        <td class="px-4 py-3">2–4 tons</td>
+        <td class="px-4 py-3">$50–$150 per ton</td>
+        <td class="px-4 py-3">Roofing, kitchen remodels, whole-home cleanouts</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold text-orange">30-yard</td>
+        <td class="px-4 py-3">$430–$650</td>
+        <td class="px-4 py-3">3–5 tons</td>
+        <td class="px-4 py-3">$60–$175 per ton</td>
+        <td class="px-4 py-3">Large renovations, basement cleanouts</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">40-yard</td>
+        <td class="px-4 py-3">$500–$800</td>
+        <td class="px-4 py-3">4–6 tons</td>
+        <td class="px-4 py-3">$75–$200 per ton</td>
+        <td class="px-4 py-3">New construction, commercial projects</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>If the quote you receive sits below the low end of these ranges, ask for the fee structure before confirming. It almost always means the weight limit is lower or the overage rate is higher — sometimes both. A low base rate with a high overage rate is only a good deal if the load stays under the limit.</p>
+
+<h2 id="timing">When to Book to Get a Lower Rate</h2>
+
+<p>Peak season runs April through August in most residential markets. Spring cleanouts, summer renovation projects, and roofing demand after hail events on the Front Range all land in the same six-month window. If you have scheduling flexibility, booking September through March gives you better date availability and, in some markets, slightly better rates on standard residential sizes.</p>
+
+<p>Short-notice bookings can carry a premium. Same-day or next-day delivery is not always available in busy markets, and some companies charge a rush fee for short-notice orders. Giving 48–72 hours of lead time costs nothing and expands your options considerably.</p>
+
+<p>Duration also matters more than most people expect. A 14-day project booked as a 7-day rental will pay the base rate plus the daily extension rate — which is typically more than a flat two-week rental booked upfront. Ask about extended rental rates before confirming. A 10-day or 14-day flat rate is available at most companies and usually saves $30–$80 over the week-plus-extensions math.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/8293664/pexels-photo-8293664.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Person reviewing a dumpster rental quote on a clipboard before confirming the booking"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="questions">What to Ask Before You Confirm the Quote</h2>
+
+<p>Four questions that turn a dumpster rental quote into a number you can actually trust:</p>
+
+<p><strong>What is the weight limit, and what is the overage rate?</strong> These two numbers belong together. A 2-ton limit with a $50-per-ton overage is a very different situation than a 1-ton limit with a $150-per-ton overage. Do not assume the weight limit from the container size — confirm it. If you have heavy material in the load, this is the most important call to make before booking.</p>
+
+<p><strong>Are there debris-type surcharges?</strong> Shingles, concrete, dirt, and mattresses often carry additional disposal fees beyond the standard rate. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer">EPA data on construction and demolition waste</a> puts concrete and mixed rubble as the dominant share of C&amp;D waste by weight at licensed landfills — which is why providers price dense material separately from general debris. Hazardous materials — paint, solvents, motor oil, batteries — cannot go in any roll-off container at any price. If the cleanout includes them, the <a href="https://www.epa.gov/hw/household-hazardous-waste-hhw" target="_blank" rel="noopener noreferrer">EPA household hazardous waste guide</a> covers local disposal options by zip code. Ask before loading anything you are not certain about.</p>
+
+<p><strong>Is the fuel surcharge included in the base rate?</strong> Some companies add it on the invoice rather than the quote. A $30–$50 fuel surcharge is standard, but it should appear on the quote, not as a surprise three days after pickup. Ask upfront.</p>
+
+<p><strong>What is the extension rate if the project runs long?</strong> Standard rentals are 7–10 days. Daily extension rates run $5–$15. Calling before your rental period ends avoids a rescheduling fee, typically $75–$150 — considerably more than the daily extension rate. For the full pre-booking checklist, the <a href="/blog/5-things-to-ask-before-booking">5 things to ask before booking a dumpster rental</a> covers the rest of the questions worth having.</p>
+
+<h2 id="quote-vs-bill">The Difference Between a Low Quote and a Low Bill</h2>
+
+<p>The quote is what you agreed to. The bill is what you actually pay. Those two figures should be close — and they are, when the weight limit holds and the rental period ends on schedule. They diverge when heavy debris exceeds the limit, when mixed loads carry surcharges that were not asked about in advance, or when a 7-day rental becomes 11 days without a phone call.</p>
+
+<p>The fastest way to keep them close: size correctly the first time, or ask about weight-specific containers if concrete is a significant part of the project. A concrete-only container booked at the right weight allowance costs less than a general debris container that exceeds its weight limit after loading half a demolished patio. The per-ton overage rate wins that comparison every time.</p>
+
+<p>A flat-rate rental that includes delivery, the rental period, pickup, and disposal up to the weight limit is the cleanest structure. Get the weight limit and the overage rate confirmed before the driver arrives. After the haul, the numbers are fixed. (This is the part where I mention that tracking these invoices for over twenty years has given me what my family diplomatically calls a strong opinion on this topic. They are not wrong.)</p>
+
+<p>For local provider availability in your market, the <a href="/locations">location guides by city</a> cover what to expect across Colorado and Arizona. For help choosing the right container, see <a href="/blog/how-to-choose-the-right-dumpster-size">How to Choose the Right Roll-Off Dumpster Size</a>. For the full list of what is accepted and what carries a surcharge, <a href="/blog/what-can-you-put-in-a-roll-off-dumpster">What Can You Put in a Roll-Off Dumpster</a> covers the complete breakdown.</p>
+
+<p>The bin does not know what you paid for it. The scale at the landfill, on the other hand, has been paying very close attention the entire time — and it has never once cared that the container looked half empty. Get the weight limit before you load. Give us a call if you want to run the numbers first.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+        question: 'What is the cheapest dumpster rental available?',
+        answer:
+          'A 10-yard container is the smallest standard roll-off size and typically starts at $220–$280 per week in dense residential markets. Rural and mountain markets run 10–20% higher due to haul distance. The cheapest option is the right size for your project — renting a bin that is too small and paying for a second haul will cost more than stepping up to the correct container from the start.',
+      },
+      {
+        question: 'How can I get a lower price on a dumpster rental?',
+        answer:
+          'Book early, ask about two-week flat rates if the project runs long, and confirm the weight limit before booking dense material. Asking for an itemized quote — base rate, disposal fee, fuel surcharge, weight limit, and overage rate — lets you compare apples to apples across providers. You cannot negotiate the disposal fee, but you can avoid the overage charge by sizing correctly.',
+      },
+      {
+        question: 'Does negotiating the base rate work with dumpster rental companies?',
+        answer:
+          'Rarely. Local independent operators are usually priced at or near their margin. Companies that offer very low base rates typically make up the difference on overweight charges or debris-type surcharges. A better strategy is asking for a full itemized breakdown and comparing total cost — not just the headline number.',
+      },
+      {
+        question: 'What hidden fees should I ask about before booking?',
+        answer:
+          'Ask specifically about the weight limit and overage rate, debris-type surcharges (concrete, shingles, and dirt often carry extras), fuel surcharge, and the daily extension rate if the project runs past the rental period. None of these are hidden by design, but they are often not included in the initial quote without being asked.',
+      },
+      {
+        question: 'Is it cheaper to rent a smaller dumpster?',
+        answer:
+          'Only if the project actually fits. A 10-yard container costs less per week, but a second haul after filling it adds $150–$300 to the total. If you are debating between two container sizes, the cost difference between them is almost always less than the cost of a second pull. When in doubt, size up.',
+      },
+      {
+        question: 'When is the cheapest time of year to rent a dumpster?',
+        answer:
+          'September through March tends to have better availability and, at some companies, slightly lower rates than the April-through-August peak season. Hail season on the Front Range and summer renovation demand drive rates and compress available inventory. Booking outside peak season and giving 48–72 hours of lead time gives you the best combination of rate and availability.',
+      },
+      {
+        question: 'Why is my dumpster rental bill higher than the quote?',
+        answer:
+          'Almost always overweight charges. Dense material — concrete, tile, roofing shingles, soil — reaches weight limits well before the container looks full. The next most common cause is a debris-type surcharge that was not discussed at booking, or a rental period that ran longer than the base window without an extension call. Getting the weight limit and overage rate in writing before the container is delivered prevents most of these surprises.',
+      },
+      {
+        question: 'When is junk removal cheaper than renting a dumpster?',
+        answer:
+          'For projects under two pickup truck loads where you do not want to do the loading yourself, a junk removal service often costs the same or less than a dumpster rental when you factor in the labor. Roll-off rentals make more sense when you have three or more truckloads of material and the project will run over multiple days — you need the bin to stay onsite while the work happens.',
+      },
+    ],
+    toc: [
+      { id: 'six-variables', title: 'The Six Variables That Move the Price' },
+      { id: 'what-wont-help', title: 'What Will Not Move the Price' },
+      { id: 'price-by-size', title: 'Size vs. Price: What You Can Expect to Pay' },
+      { id: 'timing', title: 'When to Book to Get a Lower Rate' },
+      { id: 'questions', title: 'What to Ask Before You Confirm the Quote' },
+      { id: 'quote-vs-bill', title: 'The Difference Between a Low Quote and a Low Bill' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+  },
 ]

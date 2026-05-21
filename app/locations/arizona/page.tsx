@@ -15,12 +15,23 @@ export const metadata: Metadata = {
     url: 'https://rolloffdumpsterfinder.com/locations/arizona',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
+    images: [
+      {
+        url: 'https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
+        width: 1672,
+        height: 941,
+        alt: 'Roll-off dumpster rental in Arizona',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Arizona Dumpster Rental Locations | Rolloff Dumpster Finder',
     description:
       'Find roll-off dumpster rental options across Arizona for home cleanouts, roofing jobs, construction debris, desert landscaping, and renovation projects.',
+    images: [
+      'https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
+    ],
   },
 }
 
@@ -252,6 +263,32 @@ export default function ArizonaLocationsPage() {
         </div>
       </section>
 
+      {/* Image banner — visual break below state nav */}
+      <section className="bg-[#F5F4F0] pt-12 px-8">
+        <div className="max-w-[1200px] mx-auto rounded-2xl overflow-hidden shadow-sm relative min-h-[240px] lg:min-h-[290px]">
+          <img
+            src="/home-page-images/commercial-construction-dumpster.png"
+            alt="Roll-off dumpster rental for residential and construction projects in Arizona"
+            width={1448}
+            height={1086}
+            loading="lazy"
+            className="absolute inset-0 w-full h-full object-cover"
+          />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#1A2530]/88 via-[#1A2530]/55 to-transparent" />
+          <div className="relative z-10 flex items-center min-h-[240px] lg:min-h-[290px] px-10 py-8">
+            <div className="max-w-[460px]">
+              <div className="w-8 h-[3px] bg-orange rounded-sm mb-4" />
+              <p className="text-[clamp(18px,2.5vw,26px)] font-extrabold text-white tracking-tight leading-[1.2] mb-2">
+                Residential and Commercial Roll-Off Rentals Across Arizona
+              </p>
+              <p className="text-[13px] text-white/[.65] leading-[1.6]">
+                Home cleanouts, tile roofing tear-offs, pool demo debris, and renovation projects — covered statewide.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Section 1 — City cards */}
       <section className="bg-[#F5F4F0] py-16 px-8">
         <div className="max-w-[1200px] mx-auto mb-10">
@@ -330,26 +367,36 @@ export default function ArizonaLocationsPage() {
 
       {/* Section 3 — Size guide band */}
       <section className="bg-white border-y border-[#E8E4DE] py-16 px-8">
-        <div className="max-w-[1200px] mx-auto flex flex-col lg:flex-row items-start lg:items-center justify-between gap-12">
-          <div className="max-w-[560px]">
+        <div className="max-w-[1200px] mx-auto grid grid-cols-1 lg:grid-cols-2 items-center gap-12">
+          <div>
             <div className="w-10 h-[3px] bg-orange rounded-sm mb-[14px]" />
             <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-charcoal tracking-tight mb-3">
               Not sure what size you need?
             </h2>
-            <p className="text-[15px] text-[#6B7280] leading-[1.7]">
+            <p className="text-[15px] text-[#6B7280] leading-[1.7] mb-8">
               A 10-yard container holds roughly 3 pickup truck loads. A 20-yard handles most home
               cleanouts and mid-size renovations. A 30-yard covers a full gut renovation, large
               roofing tear-off, or extended construction job. In Arizona, tile roofing and pool
               concrete can hit weight limits before the bin looks full — booking the right size up
               front avoids a second pull.
             </p>
+            <Link
+              href="/blog/how-to-choose-the-right-dumpster-size"
+              className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
+            >
+              View Dumpster Size Guide
+            </Link>
           </div>
-          <Link
-            href="/blog/how-to-choose-the-right-dumpster-size"
-            className="shrink-0 inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
-          >
-            View Dumpster Size Guide
-          </Link>
+          <div className="rounded-2xl overflow-hidden shadow-sm">
+            <img
+              src="/home-page-images/residential-cleanout-dumpster.png"
+              alt="Residential cleanout roll-off dumpster rental in Arizona"
+              width={1448}
+              height={1086}
+              loading="lazy"
+              className="w-full h-[300px] lg:h-[360px] object-cover"
+            />
+          </div>
         </div>
       </section>
 
