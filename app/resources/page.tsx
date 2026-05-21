@@ -84,11 +84,11 @@ const resourceCards = [
     href: '/blog/how-to-choose-a-dumpster-rental-company',
   },
   {
-    badge: 'Cleanouts',
-    title: 'Home Cleanout Dumpster Rental Guide',
+    badge: 'Pricing',
+    title: 'Cheap Dumpster Rental: What Actually Moves the Price',
     excerpt:
-      'Clearing a full house, estate, or hoarded property is a different job than a renovation. This guide covers the right container size, access requirements, and what to do with items that cannot go in the bin.',
-    href: '#',
+      'A 10-yard container starts around $220 per week. Six variables move the price — and three of them you control before booking. Here is what to ask before the quote becomes the invoice.',
+    href: '/blog/cheap-dumpster-rental',
   },
   {
     badge: 'Commercial',
@@ -96,13 +96,6 @@ const resourceCards = [
     excerpt:
       'A commercial roll-off is the same container as a residential one. What changes is scale, site access, and the permit checklist. Here is how to size, price, and book it.',
     href: '/blog/commercial-dumpster-rental',
-  },
-  {
-    badge: 'Pricing',
-    title: 'Cheap Dumpster Rental: What Actually Moves the Price',
-    excerpt:
-      'A 10-yard container starts around $220 per week. Six variables move the price — and three of them you control before booking. Here is what to ask before the quote becomes the invoice.',
-    href: '/blog/cheap-dumpster-rental',
   },
 ]
 
