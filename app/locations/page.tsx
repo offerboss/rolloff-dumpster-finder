@@ -4,14 +4,14 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'Dumpster Rental Locations | Rolloff Dumpster Finder',
   description:
-    'Browse dumpster rental guides by state. We currently serve Colorado and Arizona with local pricing, city guides, and roll-off rental options.',
+    'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, and Utah with local pricing, city guides, and roll-off rental options.',
   alternates: {
     canonical: 'https://rolloffdumpsterfinder.com/locations',
   },
   openGraph: {
     title: 'Dumpster Rental Locations | Rolloff Dumpster Finder',
     description:
-      'Browse dumpster rental guides by state. We currently serve Colorado and Arizona with local pricing, city guides, and roll-off rental options.',
+      'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, and Utah with local pricing, city guides, and roll-off rental options.',
     url: 'https://rolloffdumpsterfinder.com/locations',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Dumpster Rental Locations | Rolloff Dumpster Finder',
     description:
-      'Browse dumpster rental guides by state. We currently serve Colorado and Arizona with local pricing, city guides, and roll-off rental options.',
+      'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, and Utah with local pricing, city guides, and roll-off rental options.',
   },
 }
 
@@ -53,9 +53,16 @@ const stateCards = [
     cityCount: 6,
     desc: 'Metro Phoenix and Valley of the Sun roll-off dumpster rental guides for home cleanouts, roofing tear-offs, desert landscaping, and construction debris.',
   },
+  {
+    state: 'Utah',
+    href: '/locations/utah',
+    cities: 'Salt Lake City.',
+    cityCount: 1,
+    desc: 'Salt Lake City and Salt Lake Valley roll-off dumpster rental guides for home cleanouts, construction debris, estate cleanouts, and renovation projects.',
+  },
 ]
 
-const comingSoon = ['Texas', 'Wyoming', 'New Mexico', 'Utah']
+const comingSoon = ['Texas', 'Wyoming', 'New Mexico']
 
 export default function LocationsPage() {
   return (
@@ -81,8 +88,8 @@ export default function LocationsPage() {
             Dumpster Rental Locations
           </h1>
           <p className="text-[17px] text-white/[.58] max-w-[580px] leading-[1.65]">
-            We currently serve Colorado and Arizona. Select your state to browse city guides,
-            local pricing, and roll-off rental options.
+            We currently serve Colorado, Arizona, and Utah. Select your state to browse city
+            guides, local pricing, and roll-off rental options.
           </p>
         </div>
       </section>

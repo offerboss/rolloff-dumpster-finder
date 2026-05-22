@@ -80,9 +80,15 @@ const activeStates = [
     desc: 'Roll-off dumpster rental companies serving Phoenix metro, Tucson, and markets across Arizona. Now accepting provider listings.',
     status: 'Accepting Listings',
   },
+  {
+    state: 'Utah',
+    href: '/providers/utah',
+    desc: 'Roll-off dumpster rental companies serving Salt Lake City, the Wasatch Front, Utah Valley, and surrounding communities. Now accepting provider listings.',
+    status: 'Accepting Listings',
+  },
 ]
 
-const comingSoon = ['Texas', 'Utah', 'Wyoming', 'New Mexico']
+const comingSoon = ['Texas', 'Wyoming', 'New Mexico']
 
 export default function ProvidersPage() {
   return (

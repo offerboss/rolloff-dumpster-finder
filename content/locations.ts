@@ -2538,6 +2538,215 @@ export const cityLocations: CityLocation[] = [
     longitude: -112.186,
   },
 
+  // ─── SALT LAKE CITY ──────────────────────────────────────
+  {
+    slug: 'salt-lake-city-ut-dumpster-rental',
+    cityName: 'Salt Lake City',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'Dumpster Rental Salt Lake City, UT | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Salt Lake City dumpster rental for home cleanouts, roofing, construction debris, and renovation. Compare sizes and request pricing across the Salt Lake Valley.',
+    primaryKeyword: 'salt lake city dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental salt lake city ut',
+      'salt lake city construction dumpster rental',
+      'roll off dumpster salt lake city',
+      'roll off dumpster salt lake city ut',
+      'rolloff dumpsters salt lake city',
+      'roll offs salt lake city ut',
+      '10 yard dumpster rental salt lake city',
+      '20 yard dumpster rental salt lake city',
+      '30 yard dumpster rental salt lake city',
+    ],
+    heroH1: 'Dumpster Rental in Salt Lake City, Utah',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, roofing debris, renovation projects, and construction jobs across Salt Lake City and the Salt Lake Valley.',
+    introParagraphs: [
+      'Salt Lake City has two renovation markets running at the same time. The Avenues, Sugarhouse, Marmalade District, and Liberty Wells carry homes from the 1890s through the mid-century — older properties with unfinished basements and the kind of material that only surfaces when someone finally clears an estate or guts a kitchen that last saw an update in the 1970s. These projects fill a 20-yard container fast.',
+      "The Silicon Slopes tech economy has pushed rapid growth across the Salt Lake Valley, and that growth shows up onsite as construction debris. New builds, commercial buildouts, gut remodels on houses bought for the lot value — framing lumber, drywall, concrete, and mixed C&D waste stacks up quickly. SLC's downtown corridor and Capitol Hill see a steady volume of commercial and multi-unit renovation that does not fit in a pickup bed.",
+      'Rolloff Dumpster Finder connects Salt Lake City and Salt Lake Valley customers with roll-off dumpster options sized for the actual job. The Avenues has narrow streets and steep grades that affect truck access. Sugarhouse has high turnover and active renovation demand. The suburbs — Murray, Millcreek, Sandy, West Valley City — add significant volume. Getting the container size right up front avoids a second haul.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small garage or room cleanout, single-bathroom remodel, minor roofing job, yard debris',
+        range: '$260–$440 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
+        range: '$300–$510 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodel, full roofing tear-off, full-home cleanout, basement and garage debris',
+        range: '$360–$610 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
+        range: '$550–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Clearing furniture, junk, and decades of accumulated material from older Salt Lake City homes. The Avenues and Sugarhouse have properties that have been in families for generations — estate cleanouts there regularly fill a 20 or 30-yard container.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Most SLC homes run asphalt shingles that need replacement every 20–30 years. A 20-yard container handles most residential tear-offs. Confirm the weight allowance before loading — shingles are heavier than they look and a full tear-off can push limits on a standard container.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "Framing lumber, drywall, insulation, and mixed C&D waste from new builds and renovations. Downtown SLC, South Salt Lake, and the inner suburbs see constant construction activity driven by the region's tech and population growth.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Older Sugarhouse and Avenues homes go through full kitchen and bathroom gut jobs regularly. Cabinets, tile, drywall, and fixtures add up to more debris than most homeowners expect. A 10 or 15-yard container covers most single-room remodels; size up if you are doing both at once.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Utah homes tend to have large basements that accumulate material over decades. A basement-and-garage cleanout often requires a 20-yard container — sometimes more for homes that have not been cleared in 20 or 30 years.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Multi-generational families in Yalecrest, Harvard-Yale, and East Bench leave behind 40 or 50 years of accumulated belongings. Estate cleanouts are common in these neighborhoods and often require a 20 or 30-yard container, sometimes two pulls for larger properties.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Drought-tolerant and xeriscape conversions are increasingly common across the Salt Lake Valley as water rates rise. Sod removal, tree branches, and landscaping material haul lighter than construction debris but fill a 10 or 15-yard container quickly.',
+      },
+      {
+        number: '08',
+        name: 'Commercial Renovation',
+        description:
+          "Salt Lake City's growing tech sector drives active commercial buildout across downtown and the adjacent Granary District. Office conversions, restaurant renovations, and retail buildouts generate steady demand for 30 and 40-yard containers.",
+      },
+      {
+        number: '09',
+        name: 'Deck & Fence Removal',
+        description:
+          'Older decks and wood fences across SLC neighborhoods come down regularly during home sales and yard renovations. A single deck removal typically fills a 10-yard container. Add a fence line and you are looking at 15 yards.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Salt Lake City depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Private driveway placement is the most common and simplest option. If your driveway can accommodate the delivery truck, you avoid permit requirements in most situations.',
+      'The Avenues neighborhood has narrow, steep streets with overhead utility lines that can restrict truck and boom clearance. Give your provider your full address before booking — access limitations affect container size and delivery approach.',
+      'Street or right-of-way placement in Salt Lake City typically requires a permit from the Salt Lake City Transportation Division. Your rental provider can often coordinate this, but plan for lead time.',
+      'HOA restrictions are common in planned communities across the southern Salt Lake Valley — Herriman, South Jordan, and Draper in particular. Confirm with your HOA before scheduling delivery.',
+      'Winter snow and ice can complicate driveway access from November through March. Salt Lake City averages around 56 inches of snowfall per year — confirm driveway clearance before your delivery date.',
+      'Alley access exists in some older SLC neighborhoods and can be a practical alternative when alleys are wide and free of overhead obstructions.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'The Avenues',
+      'Sugarhouse',
+      'Capitol Hill',
+      'Marmalade District',
+      'Liberty Wells',
+      'Liberty Heights',
+      'East Bench',
+      'Yalecrest',
+      'Harvard-Yale',
+      'Central City',
+      'Rose Park',
+      'Glendale',
+      'Poplar Grove',
+      'Westpointe',
+      'Jordan Meadows',
+      'Ball Park',
+      'Bonneville Hills',
+    ],
+    nearbyCities: [
+      'West Valley City',
+      'Murray',
+      'South Salt Lake',
+      'Millcreek',
+      'Taylorsville',
+      'Holladay',
+      'Cottonwood Heights',
+      'Midvale',
+      'Sandy',
+      'Draper',
+      'West Jordan',
+      'South Jordan',
+      'Herriman',
+      'Bountiful',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Salt Lake City?',
+        answer:
+          'Dumpster rental prices in Salt Lake City vary by container size, debris type, weight, rental period, and delivery location. A 10-yard container typically runs $260–$440 per week. A 20-yard runs $360–$610. A 30-yard ranges from $430–$740. These are general estimates — your actual quote depends on your project specifics and the provider serving your area.',
+      },
+      {
+        question: 'What size dumpster do I need for a Salt Lake City home cleanout?',
+        answer:
+          'For a full-home cleanout, a 20-yard dumpster handles most jobs comfortably. A garage or single-room cleanout often fits in a 10-yard. For an estate cleanout in an older Avenues or Sugarhouse home with decades of accumulated material, a 30-yard gives you room to work without a second haul.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Salt Lake City?',
+        answer:
+          'Yes. A 20-yard container handles most residential roofing jobs in SLC. Asphalt shingles load heavier than they look — a full tear-off can push weight limits on a standard container. Confirm the weight allowance with your provider before the job starts, not after the scale comes back over.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Salt Lake City?',
+        answer:
+          "Dense material requires a container with the right weight allowance. Concrete, soil, brick, and asphalt hit standard weight limits at roughly half the container's volume. Tell your provider upfront what you are hauling so they can quote a heavy-material container rather than a standard roll-off that ends up overweight.",
+      },
+      {
+        question: 'Can I get dumpster delivery to The Avenues in Salt Lake City?',
+        answer:
+          'Yes, but The Avenues has narrow, steep streets and overhead utility lines that affect truck access in some locations. Give your provider your full address and a description of your street before booking. Some Avenues locations require smaller containers or alternate delivery approaches — better to know this before the truck arrives.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Salt Lake City?',
+        answer:
+          'Same-week delivery is typically available from SLC-area providers. Some offer next-day options depending on availability. For planned projects, booking a few days in advance gives you more flexibility on timing and container size.',
+      },
+      {
+        question: 'Do you serve nearby cities like Murray, Sandy, and West Valley City?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Salt Lake City and the surrounding Salt Lake Valley, including West Valley City, Murray, South Salt Lake, Millcreek, Taylorsville, Holladay, Cottonwood Heights, Sandy, Draper, West Jordan, and South Jordan. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Salt Lake City?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the SLC market. If you know the project will take longer, ask about extended pricing when you book — it is usually cheaper than extending mid-rental or needing a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in a Salt Lake City dumpster?',
+        answer:
+          'Paint, chemicals, motor oil, propane tanks, car batteries, tires, appliances with refrigerants, asbestos-containing materials, and hazardous waste are not accepted in standard roll-off containers. Older homes in the Avenues and Sugarhouse occasionally contain asbestos in floor tile, pipe insulation, or roofing materials — if you suspect it, test before you demo.',
+      },
+    ],
+    latitude: 40.7608,
+    longitude: -111.891,
+  },
+
   // ─── FUTURE CITIES ────────────────────────────────────────
   // To add a new city, copy an existing block above and update:
   //   slug, cityName, metaTitle, metaDescription, heroH1,
