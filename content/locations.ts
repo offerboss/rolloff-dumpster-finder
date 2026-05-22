@@ -2747,6 +2747,1052 @@ export const cityLocations: CityLocation[] = [
     longitude: -111.891,
   },
 
+  // ─── PROVO ────────────────────────────────────────────────
+  {
+    slug: 'provo-ut-dumpster-rental',
+    cityName: 'Provo',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'Dumpster Rental in Provo, UT | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Provo dumpster rental for home cleanouts, BYU rental turnovers, roofing debris, and construction jobs. Compare sizes and request pricing across Utah County.',
+    primaryKeyword: 'provo dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental provo ut',
+      'provo construction dumpster rental',
+      'roll off dumpster provo',
+      'roll off dumpster provo ut',
+      'rolloff dumpsters provo',
+      'roll offs provo ut',
+      '10 yard dumpster rental provo',
+      '20 yard dumpster rental provo',
+      '30 yard dumpster rental provo',
+    ],
+    heroH1: 'Dumpster Rental in Provo, Utah',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, roofing tear-offs, construction debris, and renovation projects across Provo and Utah County.',
+    introParagraphs: [
+      'Provo has two distinct housing markets running side by side. Central neighborhoods — Joaquin, Maeser, and Carterville — carry homes from the 1940s through the 1970s. These properties are bought, renovated, and rented to BYU students in steady rotation. A landlord turning over a four-bedroom rental between tenants can pull a 10 or 15-yard container full of old carpet, cabinets, and drywall patches. That cycle runs year-round, not just when students move.',
+      "Utah County is one of the fastest-growing counties in the country. New residential construction, commercial buildouts, and Silicon Slopes growth pushing south from Lehi generate constant construction debris across Provo. Framing lumber, drywall, roofing material, and concrete from slab work stack up at job sites across the valley. The 20 and 30-yard market in Provo runs busy through spring and fall — booking a few days ahead gets you more flexibility.",
+      'Rolloff Dumpster Finder helps Provo-area customers find roll-off containers sized for the actual job. Service extends across Utah County — Orem, Springville, Spanish Fork, American Fork, Vineyard, and surrounding communities. Getting the right container size up front is the difference between one haul and two.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
+        range: '$250–$420 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, deck removal, rental property turnover, medium cleanout',
+        range: '$290–$490 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
+        range: '$350–$590 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
+        range: '$420–$720 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
+        range: '$530–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Older Joaquin and Maeser homes see regular turnover as landlords update properties between tenants. A typical four-bedroom rental turnover fills a 10 or 15-yard container with carpet, fixtures, and accumulated debris. Full estate cleanouts in central Provo often require a 20-yard.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Asphalt shingles on Utah County homes typically run 20–30 years before needing replacement. A full residential tear-off fills a 20-yard container. Shingles weigh more than most homeowners expect — confirm the weight allowance before loading.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "Utah County's rapid growth drives new residential and commercial construction across Provo and surrounding cities. Framing lumber, drywall, concrete, and mixed C&D waste from new builds and gut renovations need somewhere to go. A 20 or 30-yard container covers most mid-size construction cleanup jobs.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Older Provo homes going through starter-home renovations generate more debris than most owners plan for. Cabinets, tile, drywall, and fixtures from a kitchen gut typically fill a 10 or 15-yard container. Doing both kitchen and bath at once usually requires a 20-yard.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Utah homes come with large basements, and those basements collect material for decades. A basement-and-garage clearance on a mid-sized Provo home commonly requires a 20-yard container. Older properties in Edgemont and Rock Canyon can fill a 30-yard when everything comes out.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-term residents in Provo neighborhoods like Provost and Franklin leave behind decades of accumulated belongings. Estate cleanouts often require a 20 or 30-yard container, and larger properties with full basements sometimes need two pulls.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Water-wise landscaping conversions and sod removal are increasingly common across Utah County as water costs rise. Tree debris, sod, and xeriscape material haul lighter than construction waste but fill a 10-yard container fast.',
+      },
+      {
+        number: '08',
+        name: 'Student Housing Renovation',
+        description:
+          'BYU student housing near campus turns over frequently between academic years. Landlords replacing flooring, fixtures, and cabinetry across multiple units often run a 15 or 20-yard container for the full project. Some multi-unit turnovers require two pulls.',
+      },
+      {
+        number: '09',
+        name: 'New Home Construction Cleanup',
+        description:
+          "Utah County's building boom means new residential construction cleanup is a steady part of the Provo dumpster market. A 20 or 30-yard container handles most final-phase cleanups — packaging waste, scrap lumber, drywall offcuts, and site debris.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Provo depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most straightforward option. Most standard roll-off deliveries land on the driveway with minimal disruption to street traffic.',
+      'Street or right-of-way placement in Provo requires a permit from Provo City Engineering. Your rental provider can often help coordinate this — ask when you book so there are no surprises on delivery day.',
+      'Neighborhoods near BYU in North Provo and central Joaquin have narrower residential streets and heavier foot and bike traffic during the academic year. Delivery windows and container size may need adjustment based on your specific street.',
+      'HOA restrictions apply in several newer Provo and Utah County developments. Confirm placement rules with your HOA before scheduling delivery — some communities restrict street-side containers or require placement behind a fence line.',
+      'Plywood under the container protects asphalt driveways from corner damage. Most providers will place a board — confirm when booking if it matters to you.',
+      'Provo Canyon access roads have seasonal weight and size restrictions. Mountain and canyon deliveries may require smaller containers and additional lead time — confirm with your provider before booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Joaquin',
+      'Maeser',
+      'Rock Canyon',
+      'Provost',
+      'Franklin',
+      'Dixon',
+      'Edgemont',
+      'Carterville',
+      'North Provo',
+      'South Provo',
+      'Timp',
+      'Lakeview',
+      'Two Rivers',
+      'Bonneville',
+    ],
+    nearbyCities: [
+      'Orem',
+      'Springville',
+      'Spanish Fork',
+      'Mapleton',
+      'Vineyard',
+      'American Fork',
+      'Lindon',
+      'Pleasant Grove',
+      'Payson',
+      'Salem',
+      'Santaquin',
+      'Elk Ridge',
+      'Draper',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Provo?',
+        answer:
+          'Provo dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $250–$420 per week. A 20-yard runs $350–$590. A 30-yard ranges from $420–$720. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+      },
+      {
+        question: 'What size dumpster do I need for a Provo home cleanout?',
+        answer:
+          'For a full-home cleanout, a 20-yard handles most jobs. A garage or single-room cleanout typically fits in a 10-yard. Older central Provo homes with large basements often need a 30-yard — size up to avoid a second haul.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Provo?',
+        answer:
+          'Yes. A 20-yard container handles most residential roofing tear-offs in Provo. Asphalt shingles weigh more than they look — a full strip job can push weight limits on a standard container. Confirm the allowance before loading, not after the driver weighs in.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Provo?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a heavy-material container with the right allowance — not a standard roll-off quoted for mixed light debris. Tell your provider what you are hauling before they quote you.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Provo?',
+        answer:
+          'Driveway placement on private property typically does not require a permit. Street or right-of-way placement requires a permit from Provo City Engineering. Your rental provider can often coordinate this — ask when you book.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Provo?',
+        answer:
+          'Most Utah County providers deliver within 24–48 hours of booking. For planned projects, a few days of lead time gives you more control over timing and container size availability. During busy spring and fall seasons, same-week delivery can tighten up.',
+      },
+      {
+        question: 'Do you serve Orem, Springville, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Provo and the surrounding Utah County area, including Orem, Springville, Spanish Fork, American Fork, Vineyard, Lindon, Pleasant Grove, Mapleton, Payson, and Salem. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Provo?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If you know the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or needing a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in a Provo dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Asbestos-containing materials in older Provo homes require special handling. If you suspect asbestos in floor tile, pipe insulation, or roofing material, test before you demo.',
+      },
+      {
+        question: 'Can I get a dumpster for a BYU-area rental property renovation?',
+        answer:
+          'Yes. Student housing turnover near BYU is one of the more consistent dumpster demand drivers in Provo. A multi-unit turnover often runs a 15 or 20-yard container. Scheduling delivery during the summer between academic years gives you more flexibility on timing and container availability.',
+      },
+    ],
+    latitude: 40.2338,
+    longitude: -111.6585,
+  },
+
+  // ─── OGDEN ────────────────────────────────────────────────
+  {
+    slug: 'ogden-ut-dumpster-rental',
+    cityName: 'Ogden',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'Dumpster Rental in Ogden, UT | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Ogden dumpster rental for home cleanouts, historic home renovations, roofing debris, and construction jobs. Compare sizes and request pricing across Weber County.',
+    primaryKeyword: 'ogden dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental ogden ut',
+      'ogden construction dumpster rental',
+      'roll off dumpster ogden',
+      'roll off dumpster ogden ut',
+      'rolloff dumpsters ogden',
+      'roll offs ogden ut',
+      '10 yard dumpster rental ogden',
+      '20 yard dumpster rental ogden',
+      '30 yard dumpster rental ogden',
+    ],
+    heroH1: 'Dumpster Rental in Ogden, Utah',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, historic home renovations, roofing tear-offs, and construction debris across Ogden and Weber County.',
+    introParagraphs: [
+      "Ogden's historic neighborhoods are in the middle of a renovation cycle that has been running for over a decade. Central Ogden, the Harrison Boulevard corridor, and the streets around the historic 25th Street district carry homes built from the 1890s through the 1950s. These properties are affordable by Wasatch Front standards, which means buyers renovate rather than tear down. A gut remodel on a 100-year-old Ogden bungalow — new kitchen, bathrooms, updated electrical — generates more debris than most homeowners plan for.",
+      'Hill Air Force Base, just south in Layton, is one of the largest Air Force installations in the country. The contractor and support ecosystem around HAFB drives steady construction debris across the Ogden and North Davis County market — renovation projects, facility maintenance, contractor cleanups, and the regular turnover of military housing in Roy and Clearfield. It is not a demand driver most dumpster guides mention. It runs year-round.',
+      'Rolloff Dumpster Finder connects Ogden-area customers with roll-off containers sized for the actual job. Service extends across Weber County — Roy, South Ogden, Washington Terrace, Riverdale, Harrisville, and North Ogden — and into North Davis County markets like Clearfield, Clinton, and Layton. Getting the container size right up front saves a second haul and the extra cost that comes with it.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
+        range: '$245–$410 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
+        range: '$285–$480 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
+        range: '$345–$580 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
+        range: '$410–$710 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
+        range: '$525–$990+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Older homes in Central Ogden and the Harrison Boulevard area turn over regularly as buyers purchase and renovate. A full-home cleanout in a 1920s Ogden bungalow — furniture, fixtures, and decades of accumulated material — typically fills a 15 or 20-yard container.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Ogden averages around 56 inches of snowfall per year, and older roofs in the central neighborhoods feel it. A full residential tear-off fills a 20-yard container. Confirm the weight allowance before loading — shingles run heavier than most homeowners expect.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "The contractor ecosystem around Hill Air Force Base and the broader Weber County construction market generates steady C&D debris. Framing lumber, drywall, concrete, and mixed waste from new builds and commercial projects need a 20 or 30-yard container for most mid-size jobs.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Historic Ogden homes going through full gut renovations generate more debris than newer construction. Tile, cabinets, plaster walls, and old plumbing fixtures from a 1920s kitchen add up fast. A 10 or 15-yard container covers most single-room remodels.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Older Ogden homes have basements that accumulate material for generations. A full basement-and-garage clearance regularly requires a 20-yard container — sometimes more for properties that have not been cleared in 30 or 40 years.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-term residents in established Ogden neighborhoods like Lorin Farr, Bonneville, and Ogden Heights leave behind 40 or 50 years of belongings. Estate cleanouts in older two-story homes frequently require a 20 or 30-yard container.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Water-wise landscaping conversions are common across Weber County as municipalities encourage xeriscape. Sod removal, tree debris, and old irrigation systems haul lighter than construction material but fill a 10-yard container in a single afternoon.',
+      },
+      {
+        number: '08',
+        name: 'Historic Home Renovation',
+        description:
+          "Ogden's Victorian-era and early 20th-century housing stock is being actively renovated as the city's downtown and surrounding neighborhoods see renewed investment. Plaster walls, original hardwood subfloors, and knob-and-tube removal generate debris loads that surprise first-time renovators. A 20-yard container covers most full-room gut jobs.",
+      },
+      {
+        number: '09',
+        name: 'Military Housing Turnover',
+        description:
+          'Roy, Clearfield, and the communities surrounding Hill Air Force Base see steady housing turnover tied to military reassignments. Landlords and base-adjacent property owners regularly need containers for between-tenant cleanouts and renovation projects. A 10 or 15-yard handles most single-unit turnovers.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Ogden depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most straightforward option and avoids permit requirements in most cases. Confirm the driver has enough clearance from overhead utilities before booking.',
+      'Street or right-of-way placement in Ogden requires a permit from the Ogden City Engineering Division. Your rental provider can often help coordinate this — ask when you book.',
+      'Older central Ogden neighborhoods have narrow streets with overhead utility lines, particularly in the historic blocks near 25th Street and Harrison Boulevard. Give your provider your full address before booking — some streets limit container size or delivery approach.',
+      'Alleys exist in many of Ogden\'s older grid-pattern neighborhoods and can be a practical delivery alternative when the alley is wide enough and clear of obstructions.',
+      'HOA restrictions apply in some newer Ogden and Weber County developments. Confirm placement rules before scheduling delivery — some communities limit street-facing container placement.',
+      'Ogden Canyon and mountain community access roads have seasonal weight and clearance restrictions. Confirm with your provider before booking deliveries to canyon or foothills properties.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Ogden',
+      'Historic 25th Street',
+      'Central Ogden',
+      'East Central Ogden',
+      'Harrison Boulevard',
+      'Lorin Farr',
+      'Bonneville',
+      'Ogden Heights',
+      'Jefferson',
+      'Lincoln',
+      'Madison',
+      'Monroe',
+      'Taylor',
+      'Washington',
+      'West Ogden',
+      'Grant',
+    ],
+    nearbyCities: [
+      'Roy',
+      'South Ogden',
+      'Washington Terrace',
+      'Riverdale',
+      'Harrisville',
+      'North Ogden',
+      'Pleasant View',
+      'Farr West',
+      'Clearfield',
+      'Clinton',
+      'Layton',
+      'Syracuse',
+      'Kaysville',
+      'Bountiful',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Ogden?',
+        answer:
+          'Ogden dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $245–$410 per week. A 20-yard runs $345–$580. A 30-yard ranges from $410–$710. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+      },
+      {
+        question: 'What size dumpster do I need for an Ogden home cleanout?',
+        answer:
+          'For a full-home cleanout, a 20-yard handles most jobs. Older central Ogden homes with large basements and decades of accumulated material often need a 30-yard. A garage or single-room cleanout typically fits in a 10-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Ogden?',
+        answer:
+          'Yes. A 20-yard container handles most residential roofing tear-offs in Ogden. Asphalt shingles weigh more than they look — confirm the weight allowance before loading, not after the driver weighs in.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Ogden?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a heavy-material container with the right allowance. Tell your provider what you are hauling before they quote you so you get the right container from the start.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Ogden?',
+        answer:
+          'Driveway placement on private property typically does not require a permit. Street or right-of-way placement requires a permit from Ogden City Engineering. Your rental provider can often coordinate this — ask when you book.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Ogden?',
+        answer:
+          'Most Weber County providers deliver within 24–48 hours of booking. For planned projects, a few days of lead time gives you more control over timing and container availability. Spring and fall are the busiest seasons — booking ahead helps.',
+      },
+      {
+        question: 'Do you serve Roy, Clearfield, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Ogden and the surrounding Weber and North Davis County area, including Roy, South Ogden, Washington Terrace, Riverdale, Harrisville, North Ogden, Clearfield, Clinton, Layton, and Kaysville. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Ogden?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or scheduling a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in an Ogden dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Older Ogden homes may contain asbestos in floor tile, plaster, or pipe insulation — test before you demo if the property predates 1980.',
+      },
+      {
+        question: 'Can I get a dumpster for a historic home renovation in Ogden?',
+        answer:
+          "Yes. Historic Ogden properties generate more debris than newer construction — plaster walls, old subfloor layers, original windows, and knob-and-tube removal add up fast. A 20-yard container covers most full-room gut jobs. Size up if you're doing multiple rooms at once.",
+      },
+    ],
+    latitude: 41.2230,
+    longitude: -111.9738,
+  },
+
+  // ─── SANDY ────────────────────────────────────────────────
+  {
+    slug: 'sandy-ut-dumpster-rental',
+    cityName: 'Sandy',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'Dumpster Rental in Sandy, Utah | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Sandy dumpster rental for home cleanouts, roofing tear-offs, and construction debris across the South Salt Lake Valley. Compare sizes and request pricing.',
+    primaryKeyword: 'sandy dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental sandy ut',
+      'sandy construction dumpster rental',
+      'roll off dumpster sandy',
+      'roll off dumpster sandy ut',
+      'rolloff dumpsters sandy',
+      'roll offs sandy ut',
+      '10 yard dumpster rental sandy',
+      '20 yard dumpster rental sandy',
+      '30 yard dumpster rental sandy',
+    ],
+    heroH1: 'Dumpster Rental in Sandy, Utah',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, roofing tear-offs, kitchen renovations, and construction debris across Sandy and the South Salt Lake Valley.',
+    introParagraphs: [
+      "Sandy is one of the Salt Lake Valley's primary 1970s and 1980s suburban build-outs — and that housing is now 40 to 50 years old. Original owners are downsizing or passing properties to family; buyers are gutting kitchens, replacing roofs, and overhauling bathrooms that last saw an update when Carter was in office. In the Granite Hills area and older Sandy neighborhoods near 9000 South, the renovation cycle is in full swing. A kitchen gut on a 1975 ranch house fills a 15-yard container before the cabinets hit the ground.",
+      'Sandy sits at the mouth of Little Cottonwood Canyon — which means Alta and Snowbird are a short drive up the road. Vacation rentals, second homes, and canyon-adjacent properties get renovated between ski seasons. Base-area rental properties turn over regularly, and the renovation cycle there runs on a different calendar than the rest of the valley. Mountain properties can have limited truck access and steeper driveways — confirm clearance with your provider before booking a canyon-adjacent delivery.',
+      'Rolloff Dumpster Finder connects Sandy and South Valley customers with roll-off containers sized for the actual job. Service extends to Cottonwood Heights, Draper, South Jordan, Midvale, Murray, West Jordan, and surrounding South Valley communities. Sandy has a well-established provider network, so same-week delivery is usually available — but HOA restrictions affect placement in many neighborhoods, and that detail is worth confirming before the truck shows up.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
+        range: '$260–$440 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
+        range: '$300–$510 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
+        range: '$360–$610 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
+        range: '$550–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Sandy's 1970s and 1980s housing stock is turning over as original owners downsize or pass properties on. A full-home cleanout — furniture, appliances, and 40 years of accumulated material — typically fills a 15 or 20-yard container. Larger Sandy homes with finished basements often need a 30-yard.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Asphalt roofs installed in the 1980s and 1990s across Sandy neighborhoods are reaching end of life. A full residential tear-off fills a 20-yard container. Shingles run heavier than most homeowners expect — confirm the weight allowance before loading begins.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Infill development near Sandy TRAX stations and ongoing residential construction across South Salt Lake County generate steady C&D debris. New builds, commercial projects, and gut renovations produce framing lumber, drywall, and mixed waste that needs a 20 or 30-yard container.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Dated 1970s and 1980s kitchens and bathrooms are the primary remodel driver across Sandy's residential market. Cabinets, tile, countertops, and plumbing fixtures from a full kitchen gut typically fill a 10 or 15-yard container. Doing kitchen and bath at once usually requires a 20-yard.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Sandy homes come with large basements that accumulate material over decades. A full basement-and-garage clearance regularly requires a 20-yard container. Homes near the Dimple Dell and Alta Canyon areas with large lots can fill a 30-yard when everything comes out.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-term Sandy residents who built in the 1970s and 1980s leave behind generations of belongings when estates are settled. These cleanouts regularly fill a 20 or 30-yard container and sometimes require two pulls for larger properties near the eastern bench neighborhoods.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Water-wise landscaping conversions are common across Sandy as South Valley municipalities push xeriscape incentives. Sod removal, tree debris, and old irrigation infrastructure haul lighter than construction waste but fill a 10-yard container in a single afternoon.',
+      },
+      {
+        number: '08',
+        name: 'Vacation Rental Renovation',
+        description:
+          "Sandy's position as the gateway to Little Cottonwood Canyon means vacation rentals and second homes here get renovated between ski seasons. A between-season refresh — flooring, paint, fixtures, appliances — typically fills a 10 or 15-yard container. Full gut renovations on larger canyon-adjacent properties need a 20-yard.",
+      },
+      {
+        number: '09',
+        name: 'Deck & Fence Removal',
+        description:
+          'Aging wood decks and fences across Sandy neighborhoods built in the 1980s come down regularly during home sales and yard updates. A single deck removal typically fills a 10-yard container. Add a fence line and you are looking at a 15-yard.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Sandy depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and avoids permit requirements in most cases. Confirm the driver has enough clearance from overhead garage doors and utility lines before scheduling.',
+      'Street or right-of-way placement in Sandy requires a permit from Sandy City Public Works. Your rental provider can often help coordinate this — ask when you book so there are no delays on delivery day.',
+      'HOA restrictions are common throughout Sandy. Many neighborhoods restrict street-facing container placement or require HOA approval before delivery. Confirm your HOA rules before scheduling — it is faster than explaining it to the driver onsite.',
+      'Canyon-adjacent and eastern bench neighborhoods — Alta Canyon, Dimple Dell, Lone Peak areas — can have steeper driveways and limited truck clearance. Give your provider your full address before booking.',
+      'Little Cottonwood Canyon road has seasonal weight and size restrictions and is not accessible to standard roll-off delivery trucks. Canyon-specific deliveries need special coordination — confirm with your provider.',
+      'Plywood under the container protects older asphalt driveways from corner damage. Most providers will place a board — confirm when booking if it matters to you.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Historic Sandy',
+      'Granite Hills',
+      'Alta Canyon',
+      'Dimple Dell',
+      'Pepperwood',
+      'Crescent',
+      'Sandy Hills',
+      'South Sandy',
+      'Quail Hollow',
+      'Rosecrest',
+      'East Sandy',
+      'Canyon Rim',
+      'Lone Peak',
+      'Sycamore Hills',
+    ],
+    nearbyCities: [
+      'Draper',
+      'South Jordan',
+      'Cottonwood Heights',
+      'Midvale',
+      'Murray',
+      'West Jordan',
+      'Holladay',
+      'Riverton',
+      'Taylorsville',
+      'Bluffdale',
+      'Herriman',
+      'Salt Lake City',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Sandy?',
+        answer:
+          'Sandy dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $260–$440 per week. A 20-yard runs $360–$610. A 30-yard ranges from $430–$740. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+      },
+      {
+        question: 'What size dumpster do I need for a Sandy home cleanout?',
+        answer:
+          'For a full-home cleanout, a 20-yard handles most jobs. Sandy homes with large finished basements often need a 30-yard. A garage or single-room cleanout typically fits in a 10-yard. When in doubt, size up — a second haul costs more than the upgrade.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Sandy?',
+        answer:
+          'Yes. A 20-yard container handles most residential roofing tear-offs in Sandy. Asphalt shingles weigh more than they look — a full strip job can push weight limits on a standard container. Confirm the allowance before loading, not after the driver weighs in.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Sandy?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a heavy-material container with the right allowance. Tell your provider what you are hauling before they quote you — getting the right container from the start is cheaper than overweight fees.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Sandy?',
+        answer:
+          'Driveway placement on private property typically does not require a permit. Street or right-of-way placement requires a permit from Sandy City Public Works. Your provider can often coordinate this — ask when you book. Also check your HOA rules if applicable.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Sandy?',
+        answer:
+          'Sandy is well-served by South Valley providers, and same-week delivery is typically available. Some offer next-day options depending on availability. For planned projects, a few days of lead time gives you more control over timing and container size.',
+      },
+      {
+        question: 'Do you serve Draper, Cottonwood Heights, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Sandy and the surrounding South Salt Lake Valley area, including Draper, South Jordan, Cottonwood Heights, Midvale, Murray, West Jordan, Holladay, Riverton, and Taylorsville. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Sandy?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If you know the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or needing a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in a Sandy dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Asbestos-containing materials in homes built before 1980 require special handling. If you suspect asbestos in floor tile, insulation, or roofing material, test before you demo.',
+      },
+      {
+        question: 'Can I get a dumpster delivered to a canyon-adjacent property near Sandy?',
+        answer:
+          'Yes, for most addresses at the mouth of Little Cottonwood Canyon. Properties further up the canyon road are generally not accessible to standard roll-off delivery trucks due to road restrictions. Confirm your specific address with your provider before booking — clearance and access vary significantly by location.',
+      },
+    ],
+    latitude: 40.5649,
+    longitude: -111.8389,
+  },
+
+  // ─── LEHI ─────────────────────────────────────────────────
+  {
+    slug: 'lehi-ut-dumpster-rental',
+    cityName: 'Lehi',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'Dumpster Rental in Lehi, Utah | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Lehi dumpster rental for new construction cleanup, home renovations, and commercial jobs across northern Utah County. Compare sizes and request pricing.',
+    primaryKeyword: 'lehi dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental lehi ut',
+      'lehi construction dumpster rental',
+      'roll off dumpster lehi',
+      'roll off dumpster lehi ut',
+      'rolloff dumpsters lehi',
+      'roll offs lehi ut',
+      '10 yard dumpster rental lehi',
+      '20 yard dumpster rental lehi',
+      '30 yard dumpster rental lehi',
+    ],
+    heroH1: 'Dumpster Rental in Lehi, Utah',
+    heroSubheadline:
+      'Roll-off dumpster rental for new construction cleanup, home renovations, roofing tear-offs, and commercial debris across Lehi and northern Utah County.',
+    introParagraphs: [
+      'Lehi is building faster than almost any other city in Utah. New residential subdivisions, Silicon Slopes tech campuses, and commercial developments along the I-15 corridor generate a constant stream of construction debris. Framing lumber, drywall, packaging waste, and site cleanup material from new builds stack up faster than crews can haul it. The 20 and 30-yard construction container market in Lehi runs busy year-round — this is not a seasonal spike, it is an ongoing build-out.',
+      "The residential side of Lehi's dumpster market is driven by turnover rather than age. Most Lehi housing is new, but the city's tech workforce is young and mobile — homes sell and get updated between owners more often than in established communities. A kitchen renovation on a 2015 build may not seem like a major job, but it still fills a 15-yard container. Add a bathroom and a basement cleanout, and you are looking at a 20-yard.",
+      'Rolloff Dumpster Finder connects Lehi and northern Utah County customers with roll-off containers sized for the project. Service extends across American Fork, Eagle Mountain, Saratoga Springs, Vineyard, Pleasant Grove, Lindon, and Cedar Hills. Nearly every Lehi subdivision has HOA rules about container placement — confirm that detail before the driver arrives, not after.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
+        range: '$255–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, deck removal, medium residential cleanout, landscaping debris',
+        range: '$295–$495 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, new construction cleanup',
+        range: '$355–$595 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, commercial buildout cleanup, new construction site, mixed C&D debris',
+        range: '$425–$730 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major commercial construction, large demolition, campus buildout, multi-unit cleanout',
+        range: '$535–$1,010+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'New Construction Cleanup',
+        description:
+          "Lehi's relentless residential and commercial build-out generates constant demand for construction cleanup containers. Packaging waste, scrap lumber, drywall offcuts, and site debris from new homes and tech campus projects need a 20 or 30-yard container for most mid-size jobs. Larger commercial sites often run a 40-yard.",
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          "Even Lehi's newer homes turn over as the city's mobile tech workforce relocates. A full-home cleanout from a 2010s build — furniture, appliances, accumulated material — typically fills a 15 or 20-yard container. Homes with finished basements often need a 30-yard.",
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Lehi's older housing stock from the late 1990s and early 2000s is hitting roof replacement age. A full residential tear-off fills a 20-yard container. Asphalt shingles run heavier than they look — confirm the weight allowance before the job starts.",
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'Silicon Slopes commercial buildouts along the I-15 corridor and the Thanksgiving Point business area generate large volumes of C&D debris. Framing, drywall, concrete, and mixed construction waste from office and retail projects commonly require a 30 or 40-yard container.',
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Buyers of Lehi homes from the 2005–2015 build era often gut kitchens and bathrooms before moving in. Cabinets, tile, countertops, and fixtures from a kitchen remodel fill a 10 or 15-yard container. Doing both kitchen and bath at once typically requires a 20-yard.',
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Utah homes are built with large basements, and Lehi's newer stock is no exception. Between owners, basements and garages often need clearing before a renovation begins. A full basement-and-garage cleanout commonly fills a 15 or 20-yard container.",
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          "Lehi's older Historic Lehi neighborhoods near Main Street have long-term residents whose estates require clearing when properties change hands. These cleanouts often fill a 20 or 30-yard container, particularly in homes that have been in families for decades.",
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'New Lehi homeowners frequently replace builder-grade landscaping within the first few years of ownership. Sod removal, tree planting debris, and xeriscape conversions haul lighter than construction waste but fill a 10-yard container quickly.',
+      },
+      {
+        number: '09',
+        name: 'Commercial Buildout Cleanup',
+        description:
+          "Lehi's position at the center of Silicon Slopes drives constant commercial tenant improvement and new office buildout work. Retail and office interior demolition, flooring removal, and partition wall teardowns generate significant debris. A 30 or 40-yard container covers most commercial gut jobs.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Lehi depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and avoids permit requirements in most cases. Most Lehi driveways in newer subdivisions are wide enough to accommodate a standard roll-off delivery.',
+      'Street or right-of-way placement in Lehi requires a permit from Lehi City Public Works. Your rental provider can often help coordinate this — ask when you book.',
+      'HOA restrictions are nearly universal across Lehi subdivisions. Most require containers to be placed on the driveway rather than the street, and some require HOA approval before scheduling delivery. Confirm your HOA rules before booking.',
+      'Traverse Mountain and western bench neighborhoods have winding roads and steeper grades that affect truck clearance and delivery approach. Give your provider your full address before booking.',
+      'Commercial deliveries in the Thanksgiving Point and I-15 corridor area often require coordination with site managers for access and placement. Confirm site access before scheduling.',
+      'New subdivision streets are generally wide and well-paved, which simplifies most standard residential deliveries in Lehi.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Historic Lehi',
+      'Traverse Mountain',
+      'Ivory Ridge',
+      'Ivory Crossing',
+      'Sleepy Ridge',
+      'Thanksgiving Point Estates',
+      'Eaglecrest',
+      'Dry Creek',
+      'Holbrook Farms',
+      'Sky Hawk',
+      'Westfield',
+      'North Lehi',
+      'Quail Run',
+      'Hidden Canyon',
+      'South Lehi',
+    ],
+    nearbyCities: [
+      'American Fork',
+      'Eagle Mountain',
+      'Saratoga Springs',
+      'Vineyard',
+      'Pleasant Grove',
+      'Lindon',
+      'Cedar Hills',
+      'Highland',
+      'Draper',
+      'South Jordan',
+      'Herriman',
+      'Provo',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Lehi?',
+        answer:
+          'Lehi dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $255–$430 per week. A 20-yard runs $355–$595. A 30-yard ranges from $425–$730. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+      },
+      {
+        question: 'What size dumpster do I need for a Lehi home cleanout?',
+        answer:
+          'For a full-home cleanout, a 20-yard handles most jobs. Homes with large finished basements often need a 30-yard. A garage or single-room cleanout typically fits in a 10-yard. When in doubt, size up — a second haul costs more than the upgrade.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Lehi?',
+        answer:
+          'Yes. A 20-yard container handles most residential roofing tear-offs in Lehi. Asphalt shingles run heavier than most homeowners expect — a full strip job can push weight limits on a standard container. Confirm the allowance before loading.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Lehi?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a heavy-material container with the right allowance — not a standard roll-off quoted for light mixed debris. Tell your provider what you are hauling before they quote you.',
+      },
+      {
+        question: 'Do I need to check with my HOA before getting a dumpster in Lehi?',
+        answer:
+          'Yes — almost every Lehi subdivision has HOA rules that affect container placement. Most require driveway placement rather than street-side and some require written approval before delivery. Check your HOA rules first. It is faster than explaining it to the driver onsite.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Lehi?',
+        answer:
+          'Most northern Utah County providers deliver within 24–48 hours of booking. For planned projects, a few days of lead time gives you more control over timing and container size. Commercial jobs at the Thanksgiving Point or Silicon Slopes corridor may need additional coordination for site access.',
+      },
+      {
+        question: 'Do you serve American Fork, Eagle Mountain, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Lehi and the surrounding northern Utah County area, including American Fork, Eagle Mountain, Saratoga Springs, Vineyard, Pleasant Grove, Lindon, Cedar Hills, Highland, and Draper. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Lehi?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or scheduling a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in a Lehi dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Asbestos-containing materials require special handling. Most Lehi homes are new enough that asbestos is not a concern, but if you are renovating a pre-1980 property, test before you demo.',
+      },
+      {
+        question: 'Can I get a dumpster for a commercial construction project in Lehi?',
+        answer:
+          'Yes. Commercial buildouts, tenant improvements, and office renovations in the Thanksgiving Point and Silicon Slopes corridor regularly use 30 and 40-yard containers. Confirm site access and placement with your site manager before scheduling delivery — commercial sites often have specific drop zones.',
+      },
+    ],
+    latitude: 40.3916,
+    longitude: -111.8508,
+  },
+
+  // ─── WEST VALLEY CITY ─────────────────────────────────────
+  {
+    slug: 'west-valley-city-ut-dumpster-rental',
+    cityName: 'West Valley City',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'Dumpster Rental in West Valley City, UT | Rolloff Dumpster Finder',
+    metaDescription:
+      'West Valley City dumpster rental for home cleanouts, roofing tear-offs, and commercial jobs in Utah\'s second-largest city. Compare sizes and request pricing.',
+    primaryKeyword: 'west valley city dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental west valley city ut',
+      'west valley city construction dumpster rental',
+      'roll off dumpster west valley city',
+      'roll off dumpster west valley city ut',
+      'rolloff dumpsters west valley city',
+      'roll offs west valley city ut',
+      '10 yard dumpster rental west valley city',
+      '20 yard dumpster rental west valley city',
+      '30 yard dumpster rental west valley city',
+    ],
+    heroH1: 'Dumpster Rental in West Valley City, Utah',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, roofing tear-offs, construction debris, and commercial jobs across West Valley City and the Salt Lake Valley.',
+    introParagraphs: [
+      "West Valley City is Utah's second-largest city, and much of its housing was built in the 1960s and 1970s when the county land west of Salt Lake City started filling in. That housing is now 50 to 60 years old. In the Granger and Hunter areas, you see the full range of what comes out of an aging suburban home — dated kitchens being gutted, roofs installed when the city was still unincorporated county land, and estate cleanouts on properties that have been in families for decades.",
+      'West Valley City carries a significant commercial and light industrial footprint that most residential-focused dumpster guides overlook. Warehousing, manufacturing, and commercial development along the Bangerter Highway corridor generate consistent demand for larger containers — facility maintenance, interior buildouts, and periodic site cleanups at commercial scale. A 30-yard handles most commercial cleanouts. Larger industrial jobs often need a 40-yard.',
+      'Rolloff Dumpster Finder serves West Valley City and the surrounding Salt Lake County communities — Taylorsville, Kearns, Murray, Magna, South Salt Lake, and Midvale. West Valley City has relatively flat terrain and good truck access in most neighborhoods. Delivery logistics are simpler here than in the canyon-adjacent or historic urban parts of the valley. Getting the container size right is still the decision that matters most.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
+        range: '$255–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
+        range: '$295–$490 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
+        range: '$355–$595 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, commercial buildout cleanup, mixed C&D debris',
+        range: '$425–$730 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial or industrial cleanup, large demolition, major renovation, multi-unit cleanout',
+        range: '$530–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "West Valley City's 1960s and 1970s housing is turning over as original owners downsize or pass properties on. A full-home cleanout in the Granger or Hunter area — furniture, appliances, and decades of accumulated material — typically fills a 15 or 20-yard container. Larger homes with finished basements often need a 30-yard.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Asphalt roofs on WVC homes from the 1970s and 1980s are hitting end of life. A full residential tear-off fills a 20-yard container. Shingles run heavier than most homeowners expect — confirm the weight allowance before loading, not after the scale comes back over.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Commercial and residential construction across West Valley City generates steady C&D debris. New builds, commercial tenant improvements, and renovation projects along the Bangerter corridor commonly require a 20 or 30-yard container for site cleanup.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Older WVC homes are going through kitchen and bathroom gut jobs as buyers update 1970s and 1980s interiors. Cabinets, tile, countertops, and plumbing fixtures from a single kitchen remodel typically fill a 10 or 15-yard container. Doing both at once usually requires a 20-yard.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Utah homes come with large basements, and properties in West Valley City are no exception. A basement-and-garage clearance on a mid-sized WVC home regularly fills a 20-yard container. Homes that have not been cleared in 30 or 40 years can push toward a 30-yard.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Long-term West Valley City residents who settled in the Granger and Hunter areas in the 1970s and 1980s leave behind generations of belongings when estates are settled. These cleanouts frequently require a 20 or 30-yard container and sometimes two pulls for larger properties.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Water-wise landscaping conversions are common across Salt Lake County as municipalities push xeriscape incentives. Sod removal, tree debris, and old irrigation infrastructure haul lighter than construction material but fill a 10-yard container fast.',
+      },
+      {
+        number: '08',
+        name: 'Commercial Cleanouts',
+        description:
+          "West Valley City's Bangerter Highway and I-215 corridor support a concentration of warehouses, light manufacturing, and retail. Periodic facility cleanouts, inventory purges, and buildout debris from commercial tenants commonly require a 30 or 40-yard container. Delivery and placement should be coordinated with site management before scheduling.",
+      },
+      {
+        number: '09',
+        name: 'Deck & Fence Removal',
+        description:
+          'Aging wood decks and fences across WVC neighborhoods come down regularly during home sales and yard updates. A single deck removal typically fills a 10-yard container. Add a fence line or a detached structure and you are looking at a 15-yard.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in West Valley City depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and avoids permit requirements in most cases. Most WVC driveways in single-family neighborhoods have enough clearance for a standard roll-off delivery.',
+      'Street or right-of-way placement in West Valley City requires a permit from West Valley City Public Works. Your rental provider can often help coordinate this — ask when you book.',
+      'West Valley City is relatively flat, which simplifies delivery logistics in most residential areas. Overhead utility lines and narrow access points in older Granger and Hunter neighborhoods are worth confirming before booking.',
+      'HOA restrictions are less common in WVC than in newer Utah suburbs, but some planned communities and townhome developments do have placement rules. Confirm if applicable before scheduling delivery.',
+      'Commercial deliveries in the Bangerter Highway and I-215 industrial corridor require coordination with site management for access, placement zone, and timing. Confirm all details before scheduling.',
+      'Plywood under the container protects older asphalt driveways from corner damage. Ask your provider about board placement when booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Hunter',
+      'Granger',
+      'Chesterfield',
+      'Valley Fair',
+      'Redwood',
+      'Westland',
+      'West Pointe',
+      'Copper Hills',
+      'Mountain View',
+      'Decker Lake',
+      'West Valley Heights',
+      'Bingham Creek',
+      'Caldera',
+      'Central West Valley',
+    ],
+    nearbyCities: [
+      'Salt Lake City',
+      'Taylorsville',
+      'Kearns',
+      'Murray',
+      'South Salt Lake',
+      'Magna',
+      'Midvale',
+      'West Jordan',
+      'Riverton',
+      'Millcreek',
+      'Herriman',
+      'Tooele',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in West Valley City?',
+        answer:
+          'West Valley City dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $255–$430 per week. A 20-yard runs $355–$595. A 30-yard ranges from $425–$730. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+      },
+      {
+        question: 'What size dumpster do I need for a West Valley City home cleanout?',
+        answer:
+          'For a full-home cleanout, a 20-yard handles most jobs. Older Granger and Hunter area homes with large basements and decades of accumulated material often need a 30-yard. A garage or single-room cleanout typically fits in a 10-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in West Valley City?',
+        answer:
+          'Yes. A 20-yard container handles most residential roofing tear-offs in WVC. Asphalt shingles weigh more than they look — a full strip job can push weight limits on a standard container. Confirm the allowance before loading, not after the driver weighs in.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in West Valley City?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a heavy-material container with the right allowance. Tell your provider what you are hauling before they quote you — getting the right container from the start is cheaper than overweight fees.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in West Valley City?',
+        answer:
+          'West Valley City is well-served by Salt Lake Valley providers. Same-week delivery is typically available, and some providers offer next-day options. For planned projects, a few days of lead time gives you more control over timing and container size.',
+      },
+      {
+        question: 'Do you serve Taylorsville, Kearns, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves West Valley City and surrounding Salt Lake County communities, including Taylorsville, Kearns, Murray, South Salt Lake, Magna, Midvale, Millcreek, West Jordan, and Riverton. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in West Valley City?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or needing a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in a West Valley City dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Older WVC homes from the 1960s and 1970s may contain asbestos in floor tile, insulation, or roof materials. If the property predates 1980, test before you demo.',
+      },
+      {
+        question: 'Can I get a dumpster for a commercial or industrial job in West Valley City?',
+        answer:
+          'Yes. West Valley City has a substantial commercial and industrial zone, and providers serving this market are experienced with commercial deliveries. A 30 or 40-yard container covers most commercial cleanouts and buildout debris. Coordinate site access and placement with your site manager before scheduling.',
+      },
+    ],
+    latitude: 40.6916,
+    longitude: -112.0010,
+  },
+
   // ─── FUTURE CITIES ────────────────────────────────────────
   // To add a new city, copy an existing block above and update:
   //   slug, cityName, metaTitle, metaDescription, heroH1,

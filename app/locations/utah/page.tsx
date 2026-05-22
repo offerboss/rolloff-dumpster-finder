@@ -102,27 +102,27 @@ const cityCards = [
   },
   {
     city: 'West Valley City',
-    slug: '',
+    slug: 'west-valley-city-ut-dumpster-rental',
     desc: "West Valley City roll-off dumpster rental for residential cleanouts, construction debris, and renovation projects in Utah's second-largest city.",
   },
   {
     city: 'Provo',
-    slug: '',
+    slug: 'provo-ut-dumpster-rental',
     desc: 'Provo and Utah Valley dumpster rental for home cleanouts, construction debris, roofing jobs, and renovation projects across the rapidly growing Utah County area.',
   },
   {
     city: 'Ogden',
-    slug: '',
+    slug: 'ogden-ut-dumpster-rental',
     desc: 'Ogden and Weber County roll-off dumpster rental for home cleanouts, renovation debris, roofing tear-offs, and construction jobs along the northern Wasatch Front.',
   },
   {
     city: 'Sandy',
-    slug: '',
+    slug: 'sandy-ut-dumpster-rental',
     desc: 'Sandy and the south Salt Lake Valley — roll-off dumpster rental for residential cleanouts, construction debris, and renovation projects near the Cottonwood Canyons.',
   },
   {
     city: 'Lehi',
-    slug: '',
+    slug: 'lehi-ut-dumpster-rental',
     desc: 'Lehi and Silicon Slopes roll-off dumpster rental for new construction cleanup, residential cleanouts, and renovation debris across one of the fastest-growing areas in Utah County.',
   },
 ]
