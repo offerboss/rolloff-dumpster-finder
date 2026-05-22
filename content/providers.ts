@@ -21,3 +21,5 @@ export const coloradoProviders: Provider[] = []
 export const arizonaProviders: Provider[] = []
 
 export const utahProviders: Provider[] = []
+
+export const texasProviders: Provider[] = []

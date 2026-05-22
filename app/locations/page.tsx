@@ -4,14 +4,14 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'Dumpster Rental Locations | Rolloff Dumpster Finder',
   description:
-    'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, and Utah with local pricing, city guides, and roll-off rental options.',
+    'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, Utah, and Texas with local pricing, city guides, and roll-off rental options.',
   alternates: {
     canonical: 'https://rolloffdumpsterfinder.com/locations',
   },
   openGraph: {
     title: 'Dumpster Rental Locations | Rolloff Dumpster Finder',
     description:
-      'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, and Utah with local pricing, city guides, and roll-off rental options.',
+      'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, Utah, and Texas with local pricing, city guides, and roll-off rental options.',
     url: 'https://rolloffdumpsterfinder.com/locations',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Dumpster Rental Locations | Rolloff Dumpster Finder',
     description:
-      'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, and Utah with local pricing, city guides, and roll-off rental options.',
+      'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, Utah, and Texas with local pricing, city guides, and roll-off rental options.',
   },
 }
 
@@ -56,13 +56,20 @@ const stateCards = [
   {
     state: 'Utah',
     href: '/locations/utah',
-    cities: 'Salt Lake City.',
-    cityCount: 1,
-    desc: 'Salt Lake City and Salt Lake Valley roll-off dumpster rental guides for home cleanouts, construction debris, estate cleanouts, and renovation projects.',
+    cities: 'Salt Lake City, West Valley City, Provo, Ogden, Sandy, and Lehi.',
+    cityCount: 6,
+    desc: 'Wasatch Front and Utah Valley roll-off dumpster rental guides for home cleanouts, construction debris, estate cleanouts, and renovation projects.',
+  },
+  {
+    state: 'Texas',
+    href: '/locations/texas',
+    cities: 'Dallas, Houston, Austin, San Antonio, Fort Worth, and Plano.',
+    cityCount: 6,
+    desc: 'Hail Alley roofing tear-offs, year-round construction debris, storm cleanup, and home renovation dumpster rental guides across major Texas metros.',
   },
 ]
 
-const comingSoon = ['Texas', 'Wyoming', 'New Mexico']
+const comingSoon = ['Wyoming', 'New Mexico']
 
 export default function LocationsPage() {
   return (
@@ -88,7 +95,7 @@ export default function LocationsPage() {
             Dumpster Rental Locations
           </h1>
           <p className="text-[17px] text-white/[.58] max-w-[580px] leading-[1.65]">
-            We currently serve Colorado, Arizona, and Utah. Select your state to browse city
+            We currently serve Colorado, Arizona, Utah, and Texas. Select your state to browse city
             guides, local pricing, and roll-off rental options.
           </p>
         </div>

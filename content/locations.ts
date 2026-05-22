@@ -3793,6 +3793,1230 @@ export const cityLocations: CityLocation[] = [
     longitude: -112.0010,
   },
 
+  // ─── DALLAS ───────────────────────────────────────────────
+  {
+    slug: 'dallas-tx-dumpster-rental',
+    cityName: 'Dallas',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Dallas, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Dallas dumpster rental for roofing tear-offs, home cleanouts, hail damage, and construction debris. Compare sizes and get pricing across Dallas neighborhoods.',
+    primaryKeyword: 'dallas dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental dallas tx',
+      'dallas construction dumpster rental',
+      'roll off dumpster dallas',
+      'roll off dumpster dallas tx',
+      'rolloff dumpsters dallas',
+      'roll offs dallas tx',
+      '10 yard dumpster rental dallas',
+      '20 yard dumpster rental dallas',
+      '30 yard dumpster rental dallas',
+    ],
+    heroH1: 'Dumpster Rental in Dallas, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Dallas for roofing tear-offs, home cleanouts, hail damage cleanup, and construction debris across the DFW Metroplex.',
+    introParagraphs: [
+      'Dallas has a wide mix of housing stock driving steady dumpster demand. Lakewood, M-Streets, Winnetka Heights, and Oak Cliff have Craftsman bungalows and Tudor cottages from the 1920s and 1930s in constant renovation. Buckner Terrace, Casa View, and Pleasant Grove are full of 1950s and 1960s post-war houses hitting the age where the kitchen, bath, and roof all need attention at the same time. An estate cleanout in a Casa View ranch fills a 20-yard container without much effort.',
+      'Dallas sits in Hail Alley. A single storm system moving through the DFW area on a March or April night can trigger thousands of roofing replacements across the metro in the weeks that follow. Roll-off providers get slammed fast after a major hail event — container availability tightens within days. If you know a storm came through your neighborhood, book as soon as you have a contractor lined up. Waiting a week after a hail event means waiting longer for a container.',
+      'Rolloff Dumpster Finder connects Dallas customers with roll-off containers sized for the job. We serve Dallas neighborhoods and the wider DFW Metroplex — Irving, Garland, Richardson, Plano, Carrollton, Mesquite, Duncanville, Grand Prairie, and beyond. Get a quote based on what you are actually hauling, not a blanket estimate from someone who would rather go bigger.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Dallas is in Hail Alley, and roofing replacement drives the highest seasonal container demand in the market. A 20-yard handles most residential tear-offs. After a major hail event across the Metroplex, providers fill fast — book as soon as you have a contractor scheduled.',
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          'Estate cleanouts and full-home clear-outs in Pleasant Grove, Casa View, and Buckner Terrace regularly fill a 20-yard container — sometimes more for larger properties with detached garages or workshop storage accumulated over decades.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, insulation, and mixed C&D waste from active builds and gut renovations. Dallas sees constant residential and commercial construction across Uptown, the Design District, and growing suburban areas to the north and east.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Cabinet demolition, tile, old fixtures, and countertop material from renovation projects. M-Streets bungalows and Lakewood homes often generate more debris than expected — the narrow layouts of 1920s and 1930s houses pack a lot of material into a small footprint.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Dallas does not have many basements — the clay soil makes them rare. Garage cleanouts are a different story. Large attached garages in Lake Highlands and Far North Dallas accumulate decades of equipment, seasonal storage, and overflow from house moves.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Clearing a full household after a sale or estate settlement. Older Oak Cliff and East Dallas homes frequently need a 20 or 30-yard container for a full cleanout. A container onsite keeps the process moving without repeated landfill runs.',
+      },
+      {
+        number: '07',
+        name: 'Storm & Hail Debris',
+        description:
+          'Post-storm debris removal — damaged roofing, fencing, siding, tree limbs, and structural material from major weather events. Dallas hail seasons and occasional tornado events generate cleanup volume across multiple neighborhoods simultaneously. Book early after a weather event.',
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, brush clearing, old sod, and landscaping overhaul debris. Large lots in Preston Hollow and Lake Highlands generate significant yard waste during seasonal cleanup. Check whether your provider accepts organics before loading the container.',
+      },
+      {
+        number: '09',
+        name: 'Commercial Renovation',
+        description:
+          'Office gut jobs, restaurant conversions, and retail buildouts in Deep Ellum, Uptown, and the Design District generate significant debris at commercial scale. Coordinate site access and placement with your site manager before scheduling a drop in a dense commercial zone.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Dallas depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Dallas suburban neighborhoods. Use boards under the container to protect stamped concrete, pavers, or decorative driveways.',
+      'Many Dallas neighborhoods have alleys. Alley placement is often preferred — it keeps the container off the street and avoids most HOA sight-line issues without requiring a street permit.',
+      'Street placement in Dallas requires a right-of-way permit from the City of Dallas Transportation Department. Your rental provider can typically pull this permit; confirm before scheduling delivery.',
+      'Uptown, Deep Ellum, and the Design District have limited street access and active parking enforcement. Coordinate the exact drop location with your provider before the driver arrives.',
+      'HOAs in Far North Dallas, Plano-adjacent neighborhoods, and newer Lake Highlands subdivisions often restrict container visibility from the street. Driveway or alley placement resolves most HOA issues without a variance.',
+      'Historic districts near Swiss Avenue, Munger Place, and Winnetka Heights have narrow streets. Longer containers may need to go in the alley or on a board-protected driveway rather than at the curb.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Oak Cliff',
+      'Lakewood',
+      'M-Streets / Greenland Hills',
+      'Lake Highlands',
+      'East Dallas',
+      'Deep Ellum',
+      'Uptown',
+      'Oak Lawn',
+      'Bishop Arts District',
+      'Preston Hollow',
+      'Pleasant Grove',
+      'Casa View',
+      'Buckner Terrace',
+      'Winnetka Heights',
+      'Kessler Park',
+    ],
+    nearbyCities: [
+      'Irving',
+      'Garland',
+      'Plano',
+      'Richardson',
+      'Mesquite',
+      'Carrollton',
+      'Grand Prairie',
+      'Duncanville',
+      'DeSoto',
+      'Farmers Branch',
+      'Rowlett',
+      'Balch Springs',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Dallas?',
+        answer:
+          'A 10-yard container in Dallas runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote will vary by provider, delivery distance, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Dallas home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Dallas. For a garage or single room, a 10-yard is typically enough. Ranch-style homes in Pleasant Grove or Casa View — especially those with workshop space or detached storage — often generate more than expected. Size up if you are unsure; a second pull costs more than the upgrade.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Dallas?',
+        answer:
+          'Yes. A 20-yard is the standard size for residential roofing tear-offs in Dallas. Asphalt shingles weigh more than they look — confirm the weight allowance with your provider before loading. During hail season, booking early is the most important thing you can do.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Dallas?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a heavy-material container with the right allowance. Dallas construction projects often involve concrete flatwork and clay-soil excavation — tell your provider what you are hauling before they quote you.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Dallas?',
+        answer:
+          'In the Dallas metro, same-day or next-day delivery is typically available during normal periods. After a major hail event or storm, lead times stretch as providers fill with roofing jobs. During storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do I need a permit to put a dumpster on the street in Dallas?',
+        answer:
+          'Yes. Street placement in Dallas requires a right-of-way permit from the City of Dallas Transportation Department. Most rental providers can pull this permit on your behalf. Confirm the process before scheduling delivery — a driver cannot legally leave the container on a public street without it.',
+      },
+      {
+        question: 'Do you serve Irving, Plano, and other DFW cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Dallas and the wider DFW Metroplex, including Irving, Garland, Plano, Richardson, Mesquite, Carrollton, Grand Prairie, Duncanville, Farmers Branch, Rowlett, and surrounding communities. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Dallas?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or needing a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in a Dallas dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Pre-1980 Dallas homes may contain asbestos in floor tile, insulation, or roofing material. Test before you demo if the property predates 1980.',
+      },
+    ],
+    latitude: 32.7767,
+    longitude: -96.7970,
+  },
+
+  // ─── HOUSTON ──────────────────────────────────────────────
+  {
+    slug: 'houston-tx-dumpster-rental',
+    cityName: 'Houston',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Houston, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Houston dumpster rental for post-flood gut-outs, roofing tear-offs, home cleanouts, and construction debris in the Greater Houston area. Get a quote.',
+    primaryKeyword: 'houston dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental houston tx',
+      'houston construction dumpster rental',
+      'roll off dumpster houston',
+      'roll off dumpster houston tx',
+      'rolloff dumpsters houston',
+      'roll offs houston tx',
+      '10 yard dumpster rental houston',
+      '20 yard dumpster rental houston',
+      '30 yard dumpster rental houston',
+    ],
+    heroH1: 'Dumpster Rental in Houston, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Houston for flood gut-outs, roofing tear-offs, home cleanouts, and construction debris across the Greater Houston area.',
+    introParagraphs: [
+      "Houston's Inner Loop neighborhoods have some of the most active renovation markets in Texas. The Heights has Victorian and Craftsman homes from the 1890s through the 1920s — many have been bought, gutted, and rebuilt in the past decade. Montrose, Midtown, and Timbergrove have mid-century bungalows hitting renovation age. Meyerland, Bellaire, and Spring Branch have 1950s and 1960s ranch houses turning over steadily as original owners downsize. And because Houston has no zoning law, teardowns and infill new builds happen constantly throughout established neighborhoods — no variance required.",
+      'Hurricane Harvey dropped over 50 inches of rain on parts of Houston in 2017 — the highest rainfall total ever recorded from a U.S. tropical cyclone. Tens of thousands of homes were gutted and rebuilt. But Harvey was not a once-in-a-generation event here. Tropical Storm Allison in 2001, Imelda in 2019, and repeated Tax Day and Memorial Day flood events have inundated homes in Meyerland, Kashmere Gardens, and low-lying areas across the city. Post-flood gut-outs are a recurring demand driver in Houston that does not exist at the same scale anywhere else in Texas.',
+      'Rolloff Dumpster Finder connects Houston customers with roll-off containers sized for the job. We serve Houston neighborhoods and the wider Greater Houston area — Sugar Land, Pearland, Pasadena, Baytown, Missouri City, Katy, Spring, League City, and beyond. Houston site access varies a lot depending on whether you are in a dense Inner Loop neighborhood or a suburban master-planned community. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, kitchen remodels, post-flood gut-outs, estate cleanouts',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, teardown debris, mixed construction waste, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Flood & Storm Gut-Outs',
+        description:
+          'Post-flood gut-outs are a recurring project in Houston. Meyerland, Kashmere Gardens, and low-lying areas across the city have seen repeated flooding from Harvey, Allison, Imelda, and seasonal rain events. A 20-yard handles most residential gut-outs; larger homes often need a 30-yard for the full load of drywall, insulation, flooring, and cabinetry.',
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clearouts in Spring Branch, Garden Oaks, and Meyerland ranch houses fill quickly. These 1950s and 1960s properties often have decades of workshop storage, garage overflow, and outdoor equipment that adds up fast once you start pulling it out.',
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Houston does not sit in Hail Alley the way Dallas does, but Gulf Coast storm seasons generate roof damage every year. A 20-yard handles most residential tear-offs. The city's flat topography means most homes have low-pitch roofs that still produce significant shingle volume on a strip job.",
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from constant new construction and infill development. Houston adds more new housing units per year than almost any other metro in the country — driven by population growth and a land-use environment that puts no restrictions on where or what you build.',
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Cabinet demolition, tile, old fixtures, and countertop material from renovation projects. The Heights and Montrose see heavy kitchen renovation activity — older bungalows getting full gut upgrades as buyers pay premium prices and expect modern interiors. These projects consistently generate more debris than the homeowner expects.",
+      },
+      {
+        number: '06',
+        name: 'Teardown & Infill Demo',
+        description:
+          "Houston's lack of zoning law means older homes get torn down and replaced citywide — including in established inner-loop neighborhoods. Teardown debris requires a 30 or 40-yard container. Confirm that your provider hauls mixed demo debris, including slab and foundation material, before you book.",
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Clearing a full household after a sale or estate settlement. River Oaks and Memorial area properties — large 1940s and 1950s homes on generous lots — generate significant volume during estate clearouts. A 20 or 30-yard container keeps the process moving without repeated landfill runs.',
+      },
+      {
+        number: '08',
+        name: 'Garage Cleanouts',
+        description:
+          'Houston has no basements — the water table is too high. What other cities store underground, Houston stores in the garage. Large attached and detached garages across the suburban west and northwest sides accumulate decades of tools, equipment, and household overflow. A 10-yard handles most single-garage cleanouts.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "Houston's humid subtropical climate means vegetation grows fast and clears heavily. Tree trimming, palm removal, overgrown lot clearing, and landscaping overhauls generate significant organic debris. Confirm whether your provider accepts yard waste before loading — some facilities restrict organics in roll-off containers.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Houston depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Houston. Unlike Dallas, most Houston neighborhoods have no alleys — the driveway is almost always the default landing spot.',
+      'Use boards under the container to protect decorative driveways, stamped concrete, or pavers. This is particularly relevant in Heights and Montrose renovation projects where new driveways are part of the job.',
+      'Street placement in Houston requires a permit from the City of Houston Public Works department. Your rental provider can typically handle this; confirm before scheduling delivery.',
+      'The Heights and Montrose have narrow streets and active street parking. Coordinate the exact drop location with your provider before the driver arrives — there may not be room to reposition once the truck is onsite.',
+      'HOAs in master-planned suburban communities — particularly in Katy, Sugar Land, and Pearland-adjacent neighborhoods — typically restrict container visibility from the street. Driveway placement is required in most cases.',
+      'Post-flood gut-out sites may have compromised driveways or blocked access from storm damage. Confirm the driveway is intact and accessible before scheduling delivery on a flood-affected property.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Montrose',
+      'The Heights',
+      'Midtown',
+      'River Oaks',
+      'Meyerland',
+      'Spring Branch',
+      'Garden Oaks',
+      'Oak Forest',
+      'Timbergrove',
+      'EaDo',
+      'Third Ward',
+      'Independence Heights',
+      'Lazybrook',
+      'Gulfton',
+      'Alief',
+    ],
+    nearbyCities: [
+      'Sugar Land',
+      'Pearland',
+      'Pasadena',
+      'Baytown',
+      'Missouri City',
+      'Katy',
+      'Spring',
+      'League City',
+      'Friendswood',
+      'Stafford',
+      'Humble',
+      'Webster',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Houston?',
+        answer:
+          'A 10-yard container in Houston runs $250–$430 per week. A 20-yard — the most common size for flood gut-outs and home cleanouts — runs $360–$620. A 30-yard for large renovations or teardown debris runs $430–$740. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Houston home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Houston. For a garage or single room, a 10-yard is typically enough. Post-flood gut-outs — where drywall, insulation, flooring, and cabinetry all come out — often need a 20-yard minimum. Size up if you are unsure; a second pull costs more than the upgrade.',
+      },
+      {
+        question: 'Can I get a dumpster for a post-flood gut-out in Houston?',
+        answer:
+          'Yes. A 20-yard container handles most residential flood gut-outs in Houston. Drywall, insulation, flooring, and cabinetry from a full gut typically fill a 20-yard. Larger homes or properties with extensive damage often need a 30-yard. Confirm driveway access is clear before scheduling — post-flood sites sometimes have debris blocking the drop zone.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Houston?',
+        answer:
+          "Yes. A 20-yard handles most residential roofing tear-offs in Houston. Asphalt shingles weigh more than they look — confirm the weight allowance with your provider before loading. Houston's low-pitch roofs still generate significant shingle volume on a full strip job.",
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Houston?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a heavy-material container with the right allowance. Houston construction projects frequently involve concrete slab work — tell your provider what you are hauling before they quote you.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Houston?',
+        answer:
+          'Same-day or next-day delivery is typically available in the Houston metro during normal periods. After a major hurricane or flood event, lead times stretch significantly as providers fill with gut-out and cleanup work. After a named storm, plan for 48–96 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do you serve Sugar Land, Pearland, and nearby Houston suburbs?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Houston and the wider Greater Houston area, including Sugar Land, Pearland, Pasadena, Baytown, Missouri City, Katy, Spring, League City, Friendswood, Stafford, Humble, and Webster. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Houston?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Post-flood gut-outs often take longer than planned — ask about extended rental pricing when you book rather than extending mid-rental.',
+      },
+      {
+        question: 'Are there items I cannot put in a Houston dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Pre-1978 Houston homes may contain lead paint; pre-1980 properties may have asbestos in floor tile, insulation, or ceiling texture. Test before you demo on older properties.',
+      },
+    ],
+    latitude: 29.7604,
+    longitude: -95.3698,
+  },
+
+  // ─── AUSTIN ───────────────────────────────────────────────
+  {
+    slug: 'austin-tx-dumpster-rental',
+    cityName: 'Austin',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Austin, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Austin dumpster rental for home cleanouts, renovation debris, ADU construction, and yard waste across Austin neighborhoods. Compare sizes and get a quote.',
+    primaryKeyword: 'austin dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental austin tx',
+      'austin construction dumpster rental',
+      'roll off dumpster austin',
+      'roll off dumpster austin tx',
+      'rolloff dumpsters austin',
+      'roll offs austin tx',
+      '10 yard dumpster rental austin',
+      '20 yard dumpster rental austin',
+      '30 yard dumpster rental austin',
+    ],
+    heroH1: 'Dumpster Rental in Austin, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Austin for home cleanouts, construction debris, renovation projects, and yard waste across the Austin metro area.',
+    introParagraphs: [
+      "Austin's population growth has reshaped established neighborhoods over the past decade. Hyde Park, Clarksville, and Cherrywood have Craftsman bungalows and Victorian cottages from the 1890s through the 1930s — many bought by tech workers in the 2010s and now being renovated or expanded. East Austin's 1940s and 1950s frame houses are being gutted, rebuilt, and added onto at a pace that keeps dumpster providers busy year-round. Travis Heights, Bouldin Creek, and Allandale have mid-century ranches that have hit the age where the kitchen, bath, and roof all need work at the same time.",
+      "Austin has made it significantly easier to build accessory dwelling units — garage apartments, backyard cottages, and secondary suites on existing lots. ADU construction has become a steady demand driver for roll-off containers across central Austin. Demo of existing garages, concrete flatwork, and caliche excavation for slab foundations generates more debris than most homeowners expect. Austin's infill development policy adds to the volume: small-lot construction debris is a daily reality in this market.",
+      'Rolloff Dumpster Finder connects Austin customers with roll-off containers sized for the job. We serve Austin and the surrounding metro — Round Rock, Cedar Park, Pflugerville, Georgetown, Kyle, Buda, Leander, and beyond. Austin site access varies considerably: tight East Austin lots have different constraints than wide suburban driveways in Cedar Park. Get a quote based on what you are hauling and where the container needs to go.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$250–$440 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and cedar clearing',
+        range: '$320–$530 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, kitchen remodels, ADU demo, estate cleanouts',
+        range: '$370–$630 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$440–$750 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$570–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Full-home clearouts in Austin's established central neighborhoods. Estate and pre-sale cleanouts in Hyde Park, Allandale, and Travis Heights regularly fill a 20-yard container. Homes that haven't been touched in decades often generate more volume than expected once you start pulling furniture and storage out of every room.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Austin's hot summers and occasional hail events drive roofing replacement across the metro. A 20-yard handles most residential tear-offs. Central Austin's older homes — particularly those in Hyde Park and Cherrywood — sometimes have multiple layers of roofing material, which adds weight fast.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from new builds and gut renovations. East Austin sees constant infill construction on tight lots, while the northern suburbs — Round Rock, Cedar Park, and Georgetown — generate steady residential buildout debris from new subdivision development.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Cabinet demolition, tile, old fixtures, and countertop material from renovation projects. Austin's 1940s and 1950s East Austin bungalows are being gutted at a steady pace as buyers invest in smaller homes on well-located lots. A full kitchen gut in one of these smaller houses still fills a 10-yard container with room to spare.",
+      },
+      {
+        number: '05',
+        name: 'ADU & Garage Demo',
+        description:
+          "Austin's ADU-friendly policy has made garage apartment and backyard cottage construction common across central neighborhoods. Demo of an existing detached garage, concrete flatwork removal, and foundation excavation all produce debris that needs a container. A 10 or 15-yard handles most single-structure ADU demo jobs.",
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Austin's limestone bedrock makes true basements rare — excavating solid rock is expensive. Garage cleanouts are a different story. Large attached garages in North Austin and the Cedar Park suburbs accumulate years of storage. A 10-yard covers most single-car garage cleanouts; a 15-yard for two-car garages with heavy storage.",
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Clearing a full household after a sale or estate settlement. Older Rosedale and Crestview properties — post-war ranches on generous lots — often need a 20 or 30-yard container for a full cleanout. Having the container onsite from day one keeps the process moving.',
+      },
+      {
+        number: '08',
+        name: 'Cedar & Yard Clearing',
+        description:
+          "Ashe juniper (cedar) clearing, brush removal, and large-scale landscaping overhauls are common in Austin and the surrounding Hill Country. Cedar grows fast and clears heavy — a full-day clearing job on a large lot can fill a 20-yard container with brush and trunk material. Confirm your provider accepts organics before loading.",
+      },
+      {
+        number: '09',
+        name: 'East Austin Renovation',
+        description:
+          "East Austin's renovation boom has produced a specific type of job: full gut of a 1950s-era frame house on a tight 6,000–7,000 square-foot lot. These projects need a container that fits in a narrow driveway or on the street, and they produce a surprising volume of old plaster, lathe, and original fixtures. Coordinate drop placement before your driver arrives.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Austin depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Austin. Most central Austin neighborhoods have no alleys — the driveway is the default landing spot.',
+      'Use boards under the container to protect decorative concrete, pavers, or limestone driveways. Limestone slab driveways — common in Barton Hills and west Austin hill country neighborhoods — can crack under concentrated load without board protection.',
+      'Street placement in Austin requires a permit from the City of Austin Transportation and Public Works department. Your rental provider can typically handle this; confirm before scheduling delivery.',
+      'East Austin lots are small and streets are narrow from the original 1940s-era development grid. Coordinate the exact drop location before your driver arrives — longer containers may not fit on some lots or may block traffic on narrow streets.',
+      'Steep driveways in Barton Hills, Travis Heights, and hill country neighborhoods west of MoPac require provider assessment before delivery. Some slopes cannot safely hold a loaded container.',
+      'HOAs are uncommon in central Austin neighborhoods but are standard in Round Rock, Cedar Park, Leander, and most master-planned suburban communities. Check HOA placement rules before scheduling.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Hyde Park',
+      'Clarksville',
+      'Travis Heights',
+      'Bouldin Creek',
+      'Cherrywood',
+      'East Austin',
+      'North Loop',
+      'Allandale',
+      'Crestview',
+      'Rosedale',
+      'Mueller',
+      'Barton Hills',
+      'South Lamar',
+      'Brentwood',
+    ],
+    nearbyCities: [
+      'Round Rock',
+      'Cedar Park',
+      'Pflugerville',
+      'Georgetown',
+      'Kyle',
+      'Buda',
+      'San Marcos',
+      'Hutto',
+      'Leander',
+      'Manor',
+      'Dripping Springs',
+      'Lakeway',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Austin?',
+        answer:
+          'A 10-yard container in Austin runs $250–$440 per week. A 20-yard — the most common size for home cleanouts and renovation projects — runs $370–$630. A 30-yard for large renovations or full property cleanouts runs $440–$750. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for an Austin home cleanout?',
+        answer:
+          "A 20-yard handles most full-home cleanouts in Austin. For a garage or single room, a 10-yard is typically enough. Hyde Park and Allandale ranches — especially those with workshop storage — often generate more than expected. Size up if you are unsure; a second pull costs more than the upgrade.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Austin?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Austin. Older central Austin homes sometimes have multiple roofing layers that add significant weight — confirm the weight allowance with your provider before loading. Asphalt shingles weigh more than they look.',
+      },
+      {
+        question: 'What about concrete, limestone, or heavy debris in Austin?',
+        answer:
+          "Dense material hits weight limits at roughly half the container volume. Austin's limestone bedrock is a real factor — foundation work, stone clearing, and concrete flatwork removal all add up fast. Tell your provider what you are hauling before they quote you, especially if the job involves any rock or excavation.",
+      },
+      {
+        question: 'Can I get a dumpster for an ADU or garage apartment build in Austin?',
+        answer:
+          'Yes. ADU construction and garage demo are common projects in central Austin. A 10 or 15-yard container handles most single-structure demo jobs — old garage slab, framing, and roofing material. If the project includes significant concrete flatwork or excavation, size up to a 20-yard or use a heavy-material container.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Austin?',
+        answer:
+          'Same-day or next-day delivery is typically available in the Austin metro during normal periods. Demand spikes during peak renovation season (spring and fall) when the weather is mild and project volume is high. A few days of lead time gives you more control over timing and placement.',
+      },
+      {
+        question: 'Do you serve Round Rock, Cedar Park, and other Austin suburbs?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Austin and the surrounding metro, including Round Rock, Cedar Park, Pflugerville, Georgetown, Kyle, Buda, San Marcos, Hutto, Leander, Manor, Dripping Springs, and Lakeway. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Austin?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or scheduling a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in an Austin dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Pre-1980 Austin homes may contain asbestos in floor tile, insulation, or ceiling texture. Test before you demo if the property is older than 1980.',
+      },
+    ],
+    latitude: 30.2672,
+    longitude: -97.7431,
+  },
+
+  // ─── SAN ANTONIO ──────────────────────────────────────────
+  {
+    slug: 'san-antonio-tx-dumpster-rental',
+    cityName: 'San Antonio',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in San Antonio, TX | Sizes & Local Guide',
+    metaDescription:
+      'San Antonio dumpster rental for home cleanouts, roofing tear-offs, military housing turnover, and renovation debris across Bexar County. Get a quote.',
+    primaryKeyword: 'san antonio dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental san antonio tx',
+      'san antonio construction dumpster rental',
+      'roll off dumpster san antonio',
+      'roll off dumpster san antonio tx',
+      'rolloff dumpsters san antonio',
+      'roll offs san antonio tx',
+      '10 yard dumpster rental san antonio',
+      '20 yard dumpster rental san antonio',
+      '30 yard dumpster rental san antonio',
+    ],
+    heroH1: 'Dumpster Rental in San Antonio, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in San Antonio for home cleanouts, roofing tear-offs, estate cleanouts, and construction debris across the Bexar County metro.',
+    introParagraphs: [
+      'San Antonio has some of the oldest continuously occupied housing stock in Texas. The King William Historic District has Victorian-era homes from the 1870s and 1880s — structures now 140 to 150 years old, in constant need of mechanical updates and structural work. Monte Vista has large Tudor Revival, Spanish Colonial Revival, and Prairie-style homes from the 1910s through the 1940s. Dignowity Hill and Lavaca are full of early 20th-century vernacular Texas cottages that have been renovating steadily as those neighborhoods have been rediscovered. These are old houses with significant material volume when opened up for renovation.',
+      'San Antonio has more military personnel, retirees, and DoD contractor activity than almost any other American city. Joint Base San Antonio — which encompasses Fort Sam Houston, Randolph Air Force Base, and Lackland Air Force Base — is the largest joint base in the Department of Defense. It creates steady housing turnover in the surrounding neighborhoods. Government Hill, Mahncke Park, and the East Side see regular cleanouts as military families rotate in and out on PCS orders. The contractor ecosystem tied to JBSA generates consistent renovation demand that does not slow between seasons.',
+      'Rolloff Dumpster Finder connects San Antonio customers with roll-off containers sized for the job. We serve San Antonio and the surrounding metro — New Braunfels, Boerne, Schertz, Universal City, Live Oak, Converse, Helotes, and Seguin. San Antonio historic neighborhoods and wide suburban corridors have different access requirements. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$240–$420 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$300–$510 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, military housing turnover',
+        range: '$350–$600 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$420–$720 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$540–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clearouts across San Antonio neighborhoods. Estate and pre-sale cleanouts in Monte Vista, Mahncke Park, and the older Southside ranch neighborhoods regularly fill a 20-yard container. Larger historic properties — especially those that have not been touched in decades — often need a 30-yard.',
+      },
+      {
+        number: '02',
+        name: 'Military Housing Turnover',
+        description:
+          'PCS orders move military families in and out of San Antonio on a constant cycle. Government Hill, Mahncke Park, and neighborhoods surrounding the three JBSA installations see regular cleanout volume as service members clear rentals and off-base housing before departure. A 10 or 15-yard handles most military household cleanouts.',
+      },
+      {
+        number: '03',
+        name: 'Historic District Renovation',
+        description:
+          'King William and Monte Vista renovation projects generate significant debris from 100-year-old and older structures. Old plaster, lathe, original flooring, cast iron plumbing, and single-pane window assemblies come out fast during a full gut. Coordinate placement early — both districts have narrow streets that limit drop zone options.',
+      },
+      {
+        number: '04',
+        name: 'Roofing Tear-Offs',
+        description:
+          "San Antonio gets hail and severe thunderstorms regularly, and the city's older housing stock means many roofs are due for replacement on age alone. A 20-yard handles most residential tear-offs. Older homes in King William and Monte Vista often have multiple roofing layers that add significant weight to a standard shingle job.",
+      },
+      {
+        number: '05',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from new construction and renovation. San Antonio sees steady residential growth in the far north — along US-281, Loop 1604, and in the New Braunfels corridor — while renovation continues throughout the older established neighborhoods inside 410.',
+      },
+      {
+        number: '06',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Cabinet demolition, tile, old fixtures, and countertop material from renovation projects. San Antonio's stock of 1940s and 1950s homes — particularly in Alamo Heights adjacent neighborhoods and the North Side — generates steady kitchen and bath renovation volume as homeowners update properties they have held for years.",
+      },
+      {
+        number: '07',
+        name: 'Garage Cleanouts',
+        description:
+          "San Antonio has no basements — the caliche and limestone soil makes excavation expensive and drainage difficult. Garages take the overflow. Large attached garages across the North Side suburbs and detached workshops in older Southside properties accumulate decades of tools, equipment, and storage. A 10-yard handles most single-car garage cleanouts.",
+      },
+      {
+        number: '08',
+        name: 'Estate Cleanouts',
+        description:
+          'Clearing a full household after a sale or estate settlement. Older Monte Vista and Dignowity Hill properties — large early-century homes on generous lots — generate substantial volume during estate clearouts. A 20 or 30-yard container keeps the process moving without repeated landfill trips.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "San Antonio's South Texas brush and mesquite can overtake a property fast. Large lot clearing, mesquite removal, and xeriscape conversions generate significant yard waste. Check whether your provider accepts organics — brush and tree material policies vary by facility. A 20-yard covers most full-yard clearing jobs.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in San Antonio depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across most San Antonio neighborhoods. Suburban properties on the North and Northwest sides typically have adequate driveway space for a standard container.',
+      'Some older midtown neighborhoods — including parts of Lavaca, Tobin Hill, and Government Hill — have alleys. Alley placement keeps the container off the street and simplifies permit requirements.',
+      'Street placement in San Antonio requires a permit from the City of San Antonio Transportation and Capital Improvements department. Your rental provider can typically handle this; confirm before scheduling delivery.',
+      'The King William Historic District and Monte Vista have narrow streets from their Victorian-era layout. Longer containers may need to go in the alley or on a board-protected driveway rather than at the curb. Coordinate exact placement before the driver arrives.',
+      'HOAs are standard in Stone Oak, Shavano Park, and most North Side master-planned developments. Most require containers to be positioned in the driveway and not visible from the street. Check your HOA rules before scheduling.',
+      'Use boards under the container to protect decorative driveways and pavers — common in newer North Side construction and in renovated historic properties where new hardscape is part of the job.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'King William Historic District',
+      'Monte Vista Historic District',
+      'Dignowity Hill',
+      'Lavaca',
+      'Tobin Hill',
+      'Mahncke Park',
+      'Government Hill',
+      'Beacon Hill',
+      'Alta Vista',
+      'Five Points',
+      'Southtown',
+      'Jefferson',
+      'Denver Heights',
+      'Harlandale',
+    ],
+    nearbyCities: [
+      'New Braunfels',
+      'Boerne',
+      'Schertz',
+      'Universal City',
+      'Live Oak',
+      'Converse',
+      'Helotes',
+      'Leon Valley',
+      'Balcones Heights',
+      'Selma',
+      'Seguin',
+      'Kirby',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in San Antonio?',
+        answer:
+          'A 10-yard container in San Antonio runs $240–$420 per week. A 20-yard — the most common size for home cleanouts and roofing tear-offs — runs $350–$600. A 30-yard for large renovations or full property cleanouts runs $420–$720. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a San Antonio home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in San Antonio. For a garage or single room, a 10-yard is typically enough. Larger historic properties in Monte Vista or King William — especially those with original outbuildings or carriage houses — often generate more volume than expected. Size up if you are unsure.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in San Antonio?',
+        answer:
+          "Yes. A 20-yard handles most residential roofing tear-offs in San Antonio. Older homes in King William and Monte Vista sometimes have multiple roofing layers — confirm the weight allowance with your provider before loading. Asphalt shingles weigh more than they look, and San Antonio's older homes can surprise you.",
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in San Antonio?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. San Antonio sits on caliche and limestone — foundation work, caliche excavation, and stone removal all add weight fast. Tell your provider what you are hauling before they quote you, especially if the job involves any rock or heavy soil.',
+      },
+      {
+        question: 'Are there special considerations near military bases in San Antonio?',
+        answer:
+          "Civilian properties surrounding Joint Base San Antonio installations follow standard city permit requirements. Dumpsters on off-base housing near Fort Sam Houston, Randolph, or Lackland don't require any special military authorization. Confirm driveway or street access with your provider as you would for any San Antonio property.",
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in San Antonio?',
+        answer:
+          'Same-day or next-day delivery is typically available in the San Antonio metro during normal periods. A few days of lead time gives you more flexibility on timing and placement. After major storm events, lead times stretch as roofing and cleanup jobs fill provider schedules.',
+      },
+      {
+        question: 'Do you serve New Braunfels, Boerne, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves San Antonio and the surrounding Bexar County metro, including New Braunfels, Boerne, Schertz, Universal City, Live Oak, Converse, Helotes, Leon Valley, Selma, Seguin, and Kirby. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in San Antonio?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended rental pricing when you book — it is cheaper than extending mid-rental or scheduling a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in a San Antonio dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Pre-1980 San Antonio homes may contain asbestos in floor tile, ceiling texture, or insulation. King William and Monte Vista properties, given their age, should be tested before any demo that disturbs original materials.',
+      },
+    ],
+    latitude: 29.4241,
+    longitude: -98.4936,
+  },
+
+  // ─── FORT WORTH ───────────────────────────────────────────
+  {
+    slug: 'fort-worth-tx-dumpster-rental',
+    cityName: 'Fort Worth',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Fort Worth, TX | Sizes, Costs & Guide',
+    metaDescription:
+      'Fort Worth dumpster rental for roofing tear-offs, home cleanouts, construction debris, and Fairmount renovation projects across Tarrant County. Get a quote.',
+    primaryKeyword: 'fort worth dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental fort worth tx',
+      'fort worth construction dumpster rental',
+      'roll off dumpster fort worth',
+      'roll off dumpster fort worth tx',
+      'rolloff dumpsters fort worth',
+      'roll offs fort worth tx',
+      '10 yard dumpster rental fort worth',
+      '20 yard dumpster rental fort worth',
+      '30 yard dumpster rental fort worth',
+    ],
+    heroH1: 'Dumpster Rental in Fort Worth, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Fort Worth for roofing tear-offs, home cleanouts, construction debris, and renovation projects across Tarrant County.',
+    introParagraphs: [
+      'Fort Worth has a distinctive mix of housing that spans from early 20th-century Craftsman bungalows to post-war suburban ranch houses. Fairmount, Mistletoe Heights, and Berkeley Place have homes from the 1900s through the 1930s that have been renovating steadily as the Near Southside area has come back. Ryan Place and Overton Park have 1930s and 1940s period revival homes near TCU that generate steady kitchen and bath renovation volume. Further out, Wedgwood and Seminary Hills are full of 1950s and 1960s ranch houses hitting the age where the roof, kitchen, and mechanical systems all need work at the same time.',
+      'Fort Worth sits in Hail Alley alongside Dallas, and Tarrant County gets hit regularly during spring storm seasons. A major hail event across the western DFW Metroplex can trigger hundreds of simultaneous roofing replacements across Fort Worth, Arlington, and the mid-cities in the weeks that follow. Provider capacity tightens within days of a significant storm. Booking as soon as you have a contractor lined up matters more than the container size. Waiting a week after a hail event in this market means waiting longer for a container.',
+      'Rolloff Dumpster Finder connects Fort Worth customers with roll-off containers sized for the job. We serve Fort Worth and the surrounding Tarrant County metro — Arlington, Grapevine, Hurst, Euless, Bedford, Keller, Mansfield, Burleson, and North Richland Hills. Fort Worth historic neighborhoods have different access requirements than the wide suburban streets in north Fort Worth or southern Tarrant County. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Fort Worth is in Hail Alley and Tarrant County gets hit hard most spring seasons. A 20-yard container handles most residential roofing tear-offs. After a significant hail event across the western DFW Metroplex, provider capacity fills fast — book early once you have a contractor scheduled, not after.',
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clearouts in Fort Worth range from early-century Fairmount bungalows to 1960s Wedgwood ranch houses. Estate and pre-sale cleanouts in these neighborhoods regularly fill a 20-yard container. Properties that have not been touched in decades often generate more volume than expected once furniture and accumulated storage come out.',
+      },
+      {
+        number: '03',
+        name: 'Historic District Renovation',
+        description:
+          'Fairmount and the Near Southside are in an active renovation cycle. Craftsman bungalows and early-century cottages gutted for modern updates produce significant debris — old plaster, lathe, cast iron plumbing, and original flooring come out quickly during a full renovation. The alley access in much of this area is a practical advantage for container placement.',
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from new construction and renovation. North Fort Worth along the Alliance corridor sees constant residential and commercial buildout driven by logistics growth. Alliance Texas is one of the largest master-planned industrial developments in the country and has generated steady surrounding residential construction for two decades.',
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Cabinet demolition, tile, old fixtures, and countertop material from renovation projects. Ryan Place and Overton Park homes — 1930s and 1940s period revivals near TCU — are being updated steadily as buyers invest in well-located properties with good bones. These projects consistently generate more material than the homeowner expects.",
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          "Fort Worth's clay soil and caliche make true basements rare. Large attached garages across Wedgwood, Seminary Hills, and the north Fort Worth suburbs accumulate decades of tools, seasonal equipment, and storage from previous moves. A 10-yard handles most single-car garage cleanouts; a 15-yard for two-car garages with heavy accumulated storage.",
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Clearing a full household after a sale or estate settlement. Older Ryan Place and Mistletoe Heights properties — well-maintained homes on established lots — often need a 20 or 30-yard container for a complete clearout. Having a container onsite from the start keeps the process moving without landfill runs in between.',
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Fort Worth neighborhoods. Large lots in the Hulen corridor and north Fort Worth generate significant yard waste during seasonal cleanup. Confirm whether your provider accepts organics before loading — brush and tree material policies vary by disposal facility.',
+      },
+      {
+        number: '09',
+        name: 'Commercial Renovation',
+        description:
+          "Fort Worth's defense and aerospace industry — anchored by Lockheed Martin's F-35 production at NAS JRB Fort Worth — drives steady contractor and commercial activity in the area. Office gut jobs, industrial facility upgrades, and commercial tenant buildouts generate significant debris. Coordinate site access and placement before scheduling a commercial drop.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Fort Worth depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Fort Worth suburban neighborhoods. Wide lots in Wedgwood, Keller-adjacent areas, and north Fort Worth typically have adequate clearance for a standard container.',
+      'Fairmount, Near Southside, and Mistletoe Heights have alleys running behind many properties. Alley placement is often the preferred option in these neighborhoods — it keeps the container off the street without requiring a street permit.',
+      'Street placement in Fort Worth requires a permit from the City of Fort Worth Transportation and Public Works department. Your rental provider can typically pull this permit; confirm before scheduling delivery.',
+      'Fairmount Historic District streets can be narrow. Coordinate the exact drop location with your provider before the driver arrives — longer containers may need to go in the alley or on a board-protected driveway rather than at the curb.',
+      'HOAs are standard in north Fort Worth suburban development — Alliance corridor neighborhoods, Keller-adjacent communities, and newer Burleson and Mansfield subdivisions. Check HOA placement rules before scheduling.',
+      'Use boards under the container to protect decorative driveways and pavers, common in newer north Fort Worth and Colleyville-adjacent properties.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Fairmount',
+      'Mistletoe Heights',
+      'Berkeley Place',
+      'Ryan Place',
+      'Near Southside',
+      'Westcliff',
+      'Overton Park',
+      'Stop Six',
+      'Polytechnic Heights',
+      'Wedgwood',
+      'Camp Bowie West',
+      'Seminary Hills',
+      'Ridgmar',
+      'Fossil Creek',
+    ],
+    nearbyCities: [
+      'Arlington',
+      'Grapevine',
+      'Hurst',
+      'Euless',
+      'Bedford',
+      'Keller',
+      'Colleyville',
+      'Mansfield',
+      'Burleson',
+      'Crowley',
+      'North Richland Hills',
+      'Richland Hills',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Fort Worth?',
+        answer:
+          'A 10-yard container in Fort Worth runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Fort Worth home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Fort Worth. For a garage or single room, a 10-yard is typically enough. Larger ranch-style homes in Wedgwood or Seminary Hills — especially those with workshop storage or large detached garages — often generate more than expected. Size up if you are unsure.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Fort Worth?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Fort Worth. Asphalt shingles weigh more than they look — confirm the weight allowance with your provider before loading. During spring hail season in Tarrant County, booking as soon as you have a contractor lined up is the most important step.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Fort Worth?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a heavy-material container with the right allowance. Fort Worth construction projects often involve clay soil and caliche excavation — tell your provider what you are hauling before they quote you.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Fort Worth?',
+        answer:
+          'In the Fort Worth metro, same-day or next-day delivery is typically available during normal periods. After a major hail event across Tarrant County, lead times stretch as providers fill with roofing jobs. During storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do I need a permit to put a dumpster on the street in Fort Worth?',
+        answer:
+          'Yes. Street placement in Fort Worth requires a permit from the City of Fort Worth Transportation and Public Works department. Most rental providers can pull this permit on your behalf. Confirm before scheduling — the driver cannot leave the container on a public street without it.',
+      },
+      {
+        question: 'Do you serve Arlington, Keller, and other Tarrant County cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Fort Worth and the surrounding Tarrant County metro, including Arlington, Grapevine, Hurst, Euless, Bedford, Keller, Colleyville, Mansfield, Burleson, Crowley, North Richland Hills, and Richland Hills. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Fort Worth?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or needing a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in a Fort Worth dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Pre-1980 Fort Worth homes may contain asbestos in floor tile, insulation, or roofing material. Test before you demo if the property predates 1980.',
+      },
+    ],
+    latitude: 32.7555,
+    longitude: -97.3308,
+  },
+
+  // ─── PLANO ────────────────────────────────────────────────
+  {
+    slug: 'plano-tx-dumpster-rental',
+    cityName: 'Plano',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Plano, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Plano dumpster rental for home cleanouts, roofing tear-offs, kitchen remodels, and estate cleanouts across Plano neighborhoods. Compare sizes and get a quote.',
+    primaryKeyword: 'plano dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental plano tx',
+      'plano construction dumpster rental',
+      'roll off dumpster plano',
+      'roll off dumpster plano tx',
+      'rolloff dumpsters plano',
+      'roll offs plano tx',
+      '10 yard dumpster rental plano',
+      '20 yard dumpster rental plano',
+      '30 yard dumpster rental plano',
+    ],
+    heroH1: 'Dumpster Rental in Plano, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Plano for home cleanouts, roofing tear-offs, kitchen remodels, and estate cleanouts across Collin County.',
+    introParagraphs: [
+      'Plano built out fast in the 1970s, 1980s, and early 1990s as one of the Dallas metro\'s fastest-growing suburbs. That growth pace means a large portion of the housing stock is now 30 to 50 years old — precisely the age where original kitchens, bathrooms, and roofing start failing at the same time. Heritage Plano neighborhoods from the early 1970s are seeing heavy renovation activity as homeowners update properties they have held for decades. Historic Downtown Plano has a smaller pocket of homes from the 1950s and 1960s that generate a different renovation load — original plaster, cast iron plumbing, and flooring that adds volume fast.',
+      "Toyota's move of its North American headquarters to Legacy West in 2017 brought thousands of relocated employees to Plano and surrounding Collin County. Many bought 1990s and 2000s Plano properties and have been updating them since. Plano is also one of the most HOA-intensive markets in North Texas — most neighborhoods have associations that govern container placement, visibility, and rental duration. Most HOAs require the container in the driveway and out of street-facing view. That's worth knowing before you schedule a delivery, not after.",
+      'Rolloff Dumpster Finder connects Plano customers with containers sized for the project. We serve Plano and the wider Collin County metro — Allen, Frisco, McKinney, Richardson, Murphy, Wylie, Sachse, and The Colony. Get a quote based on what you are actually hauling. Plano\'s well-maintained 1980s ranches and Frisco\'s newer construction don\'t always need the same container, and the price difference between sizes adds up.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Plano is in Collin County — squarely in Hail Alley. Spring storm systems that move through North Texas trigger roofing replacement across the city fast. A 20-yard container handles most residential tear-offs. During active hail seasons, provider availability fills quickly across the DFW market. Book as soon as you have a contractor scheduled.',
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          "Full-home clearouts across Plano's 1970s and 1980s neighborhoods. Estate and pre-sale cleanouts in Heritage Plano and east Plano ranch houses consistently fill a 20-yard container. These homes have been well-maintained, but 40 years of accumulated storage in garages, attics, and closets clears quickly once you have a container in the driveway.",
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Kitchen and bathroom renovation is the dominant project type in Plano's aging suburban stock. Original 1978 or 1985 kitchens — with solid oak cabinets, laminate counters, and tile from that era — are coming out across east and central Plano. A full kitchen gut generates more debris than most homeowners expect, typically filling a 10-yard container to capacity.",
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from renovation and buildout. Plano is largely built out, so most construction debris comes from renovation rather than new builds. The exception is the Legacy West corridor, where commercial tenant improvement and buildout projects generate steady commercial-grade debris.',
+      },
+      {
+        number: '05',
+        name: 'Garage & Attic Cleanouts',
+        description:
+          "North Texas has no basements — the clay soil makes excavation impractical. Plano's large attached garages and attic spaces absorb decades of storage. A two-car garage with an attic above it in a 1980s Plano ranch can easily fill a 10 to 15-yard container once the accumulated tools, seasonal storage, and overflow from multiple moves comes out.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Plano's original suburban buyers from the 1970s and 1980s are downsizing or passing, generating estate cleanout volume across the city's established east-side neighborhoods. Full household clearouts on these properties — often well-furnished 3 and 4-bedroom ranches — typically need a 20-yard container at minimum.",
+      },
+      {
+        number: '07',
+        name: 'Pool & Patio Renovation',
+        description:
+          "Plano's affluent homeowner base drives significant backyard renovation activity — pool resurfacing, deck removal, patio demolition, and pergola teardown all generate debris that needs a container. Concrete pool decks and flagstone patios hit weight limits fast. Confirm with your provider whether you need a standard or heavy-material container before loading.",
+      },
+      {
+        number: '08',
+        name: 'Corporate Relocation Cleanout',
+        description:
+          "Toyota, Ericsson, McAfee, and other corporate campuses bring a steady flow of incoming and outgoing employees to Plano. Household cleanouts tied to corporate relocations — clearing a rental, preparing a home for sale, or sorting an estate — are a consistent project type in this market. A 10 or 15-yard handles most single-household corporate cleanout jobs.",
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, old sod removal, brush clearing, and landscaping overhauls across Plano neighborhoods. Mature tree canopies in east Plano generate significant debris during seasonal maintenance. Confirm whether your provider accepts organics before loading — brush and tree material policies vary by disposal facility.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Plano depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard in Plano. Most suburban neighborhoods have poured concrete driveways with adequate clearance for a standard roll-off container.',
+      'Plano has minimal alley access in most neighborhoods. The driveway is almost always the only practical placement option.',
+      'Street placement in Plano requires a permit from the City of Plano Engineering department. Your rental provider can typically handle this; confirm before scheduling delivery.',
+      'HOAs govern most Plano neighborhoods and are among the most active in North Texas. Most require the container in the driveway, out of street-facing view, and removed within the rental period. Confirm your HOA rules before scheduling a delivery.',
+      'Use boards under the container to protect stamped concrete, decorative pavers, or sealed driveways. These are common in west Plano and Legacy West-adjacent construction, where decorative flatwork is standard.',
+      'Large lots in west Plano and the Willow Bend area have adequate clearance for longer containers, but confirm with your provider before scheduling a drop on a tight or highly decorated driveway.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Historic Downtown Plano',
+      'Heritage Plano',
+      'Legacy West',
+      'Willow Bend',
+      'Chase Oaks',
+      'Russell Creek',
+      'Windhaven',
+      'Ridgeview',
+      'Parker Road Corridor',
+      'Murphy Road Corridor',
+      'Coit Road Corridor',
+      'Jupiter Road Corridor',
+    ],
+    nearbyCities: [
+      'Allen',
+      'Frisco',
+      'McKinney',
+      'Richardson',
+      'Garland',
+      'Murphy',
+      'Wylie',
+      'Sachse',
+      'The Colony',
+      'Carrollton',
+      'Lucas',
+      'Fairview',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Plano?',
+        answer:
+          'A 10-yard container in Plano runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs, kitchen remodels, and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Plano home cleanout?',
+        answer:
+          "A 20-yard handles most full-home cleanouts in Plano. For a garage or single room, a 10-yard is typically enough. Plano's well-kept 1980s ranches — especially those with large garages and attic storage — often generate more than expected once you start clearing. Size up if you are unsure; a second pull costs more than the upgrade.",
+      },
+      {
+        question: 'Can my HOA restrict dumpster rental in Plano?',
+        answer:
+          'Yes. Most Plano neighborhoods have active HOAs that govern container placement and duration. Most require the container in the driveway, not visible from the street, and removed within the rental period. Check your HOA rules before scheduling delivery — your provider cannot override HOA requirements.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Plano?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Plano. Asphalt shingles weigh more than they look — confirm the weight allowance before loading. Plano is in Collin County in Hail Alley, and provider capacity fills fast after major storm events. Book as soon as you have a contractor scheduled.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Plano?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Pool decks, concrete flatwork, and patio slabs need a heavy-material container with the right allowance. Tell your provider what you are hauling before they quote you — concrete and pavers are a different conversation than general junk.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Plano?',
+        answer:
+          'Same-day or next-day delivery is typically available in Plano during normal periods. After a major hail event in Collin County, lead times stretch across the DFW market as providers fill with roofing jobs. During storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do you serve Allen, Frisco, and other Collin County cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Plano and the wider Collin County area, including Allen, Frisco, McKinney, Richardson, Garland, Murphy, Wylie, Sachse, The Colony, Carrollton, Lucas, and Fairview. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Plano?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Many Plano HOAs limit how long a container can sit on the property — factor that into your rental period when you book.',
+      },
+      {
+        question: 'Are there items I cannot put in a Plano dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances with refrigerants — are not accepted in standard roll-off containers. Pre-1980 Plano homes may contain asbestos in floor tile or insulation. Test before you demo if the property is older than 1980.',
+      },
+    ],
+    latitude: 33.0198,
+    longitude: -96.6989,
+  },
+
   // ─── FUTURE CITIES ────────────────────────────────────────
   // To add a new city, copy an existing block above and update:
   //   slug, cityName, metaTitle, metaDescription, heroH1,
