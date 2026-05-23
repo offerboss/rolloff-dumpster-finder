@@ -97,6 +97,13 @@ const resourceCards = [
       'A commercial roll-off is the same container as a residential one. What changes is scale, site access, and the permit checklist. Here is how to size, price, and book it.',
     href: '/blog/commercial-dumpster-rental',
   },
+  {
+    badge: 'Comparison',
+    title: 'Dumpster Trailer Rental vs Roll-Off: What to Know',
+    excerpt:
+      'A dumpster trailer costs less and fits tighter driveways. The 2,000-lb weight limit is where most jobs outgrow it — here is how to tell which option fits your project before you book.',
+    href: '/blog/dumpster-trailer-rental',
+  },
 ]
 
 export default function ResourcesPage() {

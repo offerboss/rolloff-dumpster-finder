@@ -2301,4 +2301,324 @@ export const blogPosts: BlogPost[] = [
       { id: 'straight-answers', title: 'Straight Answers' },
     ],
   },
+  {
+    slug: 'dumpster-trailer-rental',
+    title: 'Dumpster Trailer Rental vs Roll-Off: What to Know',
+    excerpt:
+      'A dumpster trailer rental costs less than a roll-off and fits where a full container truck can\'t reach. The catch is the 2,000-lb weight limit — which most jobs that look light enough end up blowing through.',
+    category: 'Comparison',
+    coverImage:
+      'https://images.pexels.com/photos/8811446/pexels-photo-8811446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Large roll-off dumpster container parked on pavement next to a delivery truck',
+    date: '2026-05-22',
+    author: 'Jake Harlow',
+    metaDescription:
+      'A dumpster trailer rental costs $150–$350 per week — less than a roll-off, but capped at 2,000 lbs. Here is when to choose one and when to stick with the roll-off.',
+    readingTime: 8,
+    keywords: [
+      'dumpster trailer rental',
+      'roll off rental',
+      'dumpster trailer rental near me',
+      'roll off container rental',
+      'dumpster trailer vs roll off',
+      'pull behind dumpster trailer',
+    ],
+    body: `
+<p>A <strong>dumpster trailer rental</strong> costs 20–30% less than a comparable roll-off. That is the whole article, really — except for the part where I tell you it is not always the right call. (The cheap option rarely is, which is the main reason this article exists.) Most trailers run $150–$350 per week. The catch: weight limits top out around 2,000 lbs, sizes cap at 14 cubic yards, and anything heavier than household junk will push you right back to the roll-off anyway.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">The short version</p>
+  <ul class="text-charcoal space-y-1 text-sm">
+    <li><strong>Light residential cleanout:</strong> A dumpster trailer at $150–$350/week is the right call.</li>
+    <li><strong>Roofing, concrete, or demo debris:</strong> Stick with a roll-off. The weight limit will beat you.</li>
+    <li><strong>Budget is tight, load is light:</strong> Trailer saves real money. Budget is tight, load is heavy: it doesn't.</li>
+  </ul>
+</div>
+
+<nav aria-label="Table of contents" class="not-prose my-8 rounded-lg border border-gray-200 bg-gray-50 p-6">
+  <p class="text-sm font-bold uppercase tracking-wide text-gray-700 mb-3">In this guide</p>
+  <ul class="space-y-2 text-sm">
+    <li><a href="#what-is-a-dumpster-trailer" class="text-orange hover:underline">What a Dumpster Trailer Actually Is</a></li>
+    <li><a href="#trailer-vs-roll-off" class="text-orange hover:underline">Trailer vs Roll-Off: The Real Differences</a></li>
+    <li><a href="#when-to-choose-a-trailer" class="text-orange hover:underline">When a Dumpster Trailer Makes Sense</a></li>
+    <li><a href="#when-to-stick-with-roll-off" class="text-orange hover:underline">When You Should Stick with a Roll-Off</a></li>
+    <li><a href="#pricing-comparison" class="text-orange hover:underline">What Each Option Costs</a></li>
+    <li><a href="#weight-limits" class="text-orange hover:underline">Weight Limits: Where Trailers Get You</a></li>
+    <li><a href="#straight-answers" class="text-orange hover:underline">Straight Answers</a></li>
+  </ul>
+</nav>
+
+<h2 id="what-is-a-dumpster-trailer">What a Dumpster Trailer Actually Is</h2>
+
+<p>A dumpster trailer is a small, towable debris container — usually 10 to 14 cubic yards — mounted on a trailer frame. The rental company delivers it the same way they deliver a roll-off: drops it on your property, leaves it for the rental period, then hauls it away. Some providers let you tow it yourself if you have a capable truck. Most operate on a standard delivery-and-pickup model.</p>
+
+<p>A standard roll-off starts at 10 yards and goes up to 40. A dumpster trailer maxes out around 14 yards and holds roughly 2,000 lbs before you are in overweight territory. I once watched someone load half a concrete patio into a 10-yard trailer. The driver was not amused. Neither was the trailer's suspension.</p>
+
+<p>You will also see these called "dumpster rentals on wheels," "haul-away trailers," or "debris trailers" depending on the company. The marketing varies. The product is the same: a smaller, lower-clearance container on a flatbed frame with a weight limit that matters more than the volume.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/8811446/pexels-photo-8811446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Large roll-off dumpster container parked on pavement next to a delivery truck"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h2 id="trailer-vs-roll-off">Trailer vs Roll-Off: The Real Differences</h2>
+
+<p>These two products look similar on paper. They are not interchangeable. Here is where they actually differ:</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Feature</th>
+        <th class="px-4 py-3 text-left font-semibold">Dumpster Trailer</th>
+        <th class="px-4 py-3 text-left font-semibold">Roll-Off</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Size range</td>
+        <td class="px-4 py-3">10–14 cubic yards</td>
+        <td class="px-4 py-3">10–40 cubic yards</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Weight limit</td>
+        <td class="px-4 py-3">~2,000 lbs</td>
+        <td class="px-4 py-3">2–10 tons (size-dependent)</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Delivery method</td>
+        <td class="px-4 py-3">Company delivery or self-haul</td>
+        <td class="px-4 py-3">Company delivery only</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Placement footprint</td>
+        <td class="px-4 py-3">Smaller — fits tighter driveways</td>
+        <td class="px-4 py-3">Larger — needs overhead and side clearance</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Street permit needed?</td>
+        <td class="px-4 py-3">Rarely on private property</td>
+        <td class="px-4 py-3">Sometimes, for right-of-way placement</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Weekly rate</td>
+        <td class="px-4 py-3">$150–$350</td>
+        <td class="px-4 py-3">$250–$700+</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Best for</td>
+        <td class="px-4 py-3">Light residential cleanup</td>
+        <td class="px-4 py-3">Everything with density or scale</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>The weight limit row is where most renters get caught. Two thousand pounds sounds manageable until you start loading. A single layer of drywall chunks across a 10-yard container can hit that limit before you have filled a third of the volume. Add shingles, concrete, or soil and you are over before you have started.</p>
+
+<h2 id="when-to-choose-a-trailer">When a Dumpster Trailer Makes Sense</h2>
+
+<p>There are real jobs where a trailer is the better call. The roll-off does not always win.</p>
+
+<p>A dumpster trailer makes sense when:</p>
+
+<ul>
+  <li>You are doing a <strong>basement or garage cleanout</strong> — furniture, boxes, old appliances, and general household goods stay well under 2,000 lbs</li>
+  <li>Your <strong>driveway is tight</strong> or the property has restricted access — trailers sit lower and take up less horizontal space than a full roll-off truck</li>
+  <li>The project is <strong>one to two days</strong> — trailers are often available on shorter rental windows than roll-offs, which typically start at a full week</li>
+  <li>You are doing an <strong>estate cleanout</strong> with mostly furniture and bagged goods — light load, modest volume, the trailer is the cheaper and more practical call</li>
+  <li>Your <strong>budget is firm and the load is genuinely light</strong> — at $150–$350 per week, a trailer saves real money when the roll-off would just be oversized</li>
+</ul>
+
+<p>If the project is strictly residential and you are moving things that do not weigh much per cubic foot — bags, boxes, furniture, light yard waste — the trailer is a legitimate option. It is not a compromise. It is the right tool for that job.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/13734379/pexels-photo-13734379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Dump truck hauling a large debris load on a highway — used for heavy construction and roofing projects"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h2 id="when-to-stick-with-roll-off">When You Should Stick with a Roll-Off</h2>
+
+<p>The list of jobs where you should not use a dumpster trailer is longer than the list where you should. Here is where the trailer fails.</p>
+
+<p><strong>Roofing tear-offs.</strong> Shingles run 230–250 lbs per square (100 sq ft of roof surface). A 2,000-square-foot ranch house generates 3,500–5,000 lbs of debris in one tear-off layer — already past the trailer limit before the second pass. You need a <a href="/blog/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster sized for the weight</a>, not just the volume.</p>
+
+<p><strong>Concrete, dirt, or masonry.</strong> A cubic yard of concrete weighs around 4,000 lbs. A cubic yard of compacted soil runs 2,700 lbs. Either one exceeds the trailer's weight limit before you have moved a meaningful volume of material. Rent a roll-off and do not look back.</p>
+
+<p><strong>Construction debris from a full remodel or demo.</strong> Mixed loads — framing, flooring, drywall, mechanical, cabinets — pile on fast. A gut renovation routinely fills a 20-yard roll-off without trying. The trailer is not in the same weight class.</p>
+
+<p><strong>Projects running more than two weeks.</strong> Roll-off providers offer weekly extension rates that compete on price once you are past the first week. Trailers parked long-term also tend to create HOA and neighbor friction that a roll-off sitting cleanly on the driveway edge avoids.</p>
+
+<p>Not sure which size roll-off you would actually need? The <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster sizing guide</a> breaks it down by project type with actual yardage targets — it covers the same jobs that routinely push renters out of trailer range.</p>
+
+<h2 id="pricing-comparison">What Each Option Costs</h2>
+
+<p>Prices shift based on market, haul distance, and what is in the load. These are honest ballpark figures across most mid-size U.S. markets:</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Container Type</th>
+        <th class="px-4 py-3 text-left font-semibold">Size</th>
+        <th class="px-4 py-3 text-left font-semibold">Typical Weekly Rate</th>
+        <th class="px-4 py-3 text-left font-semibold">Best For</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">Dumpster trailer</td>
+        <td class="px-4 py-3">10–14 yd</td>
+        <td class="px-4 py-3">$150–$350</td>
+        <td class="px-4 py-3">Household junk, light cleanouts</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold text-orange">Roll-off (small)</td>
+        <td class="px-4 py-3">10–15 yd</td>
+        <td class="px-4 py-3">$250–$420</td>
+        <td class="px-4 py-3">Small remodels, light mixed debris</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">Roll-off (mid)</td>
+        <td class="px-4 py-3">20–30 yd</td>
+        <td class="px-4 py-3">$375–$575</td>
+        <td class="px-4 py-3">Remodels, roofing, construction debris</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold text-orange">Roll-off (large)</td>
+        <td class="px-4 py-3">40 yd</td>
+        <td class="px-4 py-3">$500–$750+</td>
+        <td class="px-4 py-3">Full demolitions, commercial projects</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Weight overage fees are where the trailer's price advantage disappears. Most providers charge $50–$75 per ton over the limit. One ton of overage closes half the gap between trailer and roll-off pricing. Two tons and the trailer costs the same or more. Load light debris only — and I mean that literally, not as a suggestion.</p>
+
+<p>For a complete breakdown of what moves the number on any rental, the <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers every variable worth knowing before you book. The <a href="/blog/cheap-dumpster-rental" class="text-orange hover:underline">cheap dumpster rental guide</a> also covers the six levers that actually move the price before the quote becomes the invoice.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/12821576/pexels-photo-12821576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Delivery truck parked in front of a residential building next to a roll-off dumpster container"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h2 id="weight-limits">Weight Limits: Where Trailers Get You</h2>
+
+<p>This is the section worth reading twice.</p>
+
+<p>A 2,000-lb weight limit on a 10-yard trailer sounds manageable until you see what common debris actually weighs:</p>
+
+<ul>
+  <li><strong>Drywall:</strong> ~70 lbs per 4×8 sheet — a gut renovation generates hundreds of them</li>
+  <li><strong>Asphalt shingles:</strong> 230–250 lbs per square — one layer on a 1,500 sq ft roof is roughly 3,750 lbs</li>
+  <li><strong>Concrete:</strong> ~4,000 lbs per cubic yard — three small slabs and you have blown the limit twice over</li>
+  <li><strong>Compacted soil or dirt:</strong> ~2,700 lbs per cubic yard — half a yard exceeds the trailer limit on its own</li>
+  <li><strong>Mixed household goods and furniture:</strong> 60–120 lbs per piece — ten pieces is 600–1,200 lbs. This is where trailers work.</li>
+</ul>
+
+<p>The <a href="https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/advancing-sustainable-materials-management" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's sustainable materials management data</a> shows that construction and demolition debris accounts for more than twice the weight of municipal solid waste per unit of volume. That density gap is exactly why a container rated for household junk cannot handle a construction teardown, even when the debris appears to fit by volume alone.</p>
+
+<p>If you are unsure what your specific load weighs, the <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">guide to what goes in a roll-off</a> covers common materials by weight class and what gets flagged at the landfill. <a href="https://www.osha.gov/waste-management" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">OSHA's waste handling standards</a> also apply to any jobsite where debris is being removed — worth reviewing if this is a commercial project.</p>
+
+<p>Use a trailer for light loads. Use a roll-off for anything with density. Mixing those two up is how you spend $150 on the wrong container and then $200 more in overage fees to make the problem go away. I have seen enough invoices to know the pattern is common.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>How much does a dumpster trailer rental cost?</h3>
+<p>Most dumpster trailer rentals run $150–$350 per week, depending on size, market, and haul distance. That is 20–30% less than a comparable roll-off. Weight overage fees apply if you exceed the 2,000-lb limit — typically $50–$75 per ton over — which closes the price gap fast on heavier loads.</p>
+
+<h3>What size dumpster trailers can I rent?</h3>
+<p>Most providers offer 10 to 14 cubic yard trailers. That is the standard range for the product type. If you need larger than 14 yards, you are looking at a roll-off — trailers do not scale up the way roll-offs do.</p>
+
+<h3>Can I put roofing shingles in a dumpster trailer?</h3>
+<p>Not practically, no. Shingles run 230–250 lbs per square of roof surface. A modest 1,500-square-foot roof generates 3,500–5,000 lbs of tear-off debris — more than double the trailer's weight limit. You need a roll-off rated for roofing weight, not a trailer. The full breakdown is in the <a href="/blog/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster guide</a>.</p>
+
+<h3>Do I need a permit for a dumpster trailer rental?</h3>
+<p>For private property placement, usually no. For street or sidewalk placement, most cities require a right-of-way permit regardless of container type. The full breakdown of when permits apply — and how to get one — is in the <a href="/blog/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a>.</p>
+
+<h3>Is a roll-off container rental cheaper than a dumpster trailer?</h3>
+<p>No — roll-offs are generally more expensive per week. The trailer is the cheaper option for light loads. The equation flips when you factor in weight overage fees on the trailer, or when the job requires more than 14 yards and you have no choice but to go roll-off.</p>
+
+<h3>How long can I keep a rented dumpster trailer?</h3>
+<p>Standard rental terms run 7 days at most providers. Some offer shorter 3-day or 5-day windows. Extensions are available but add to the weekly cost. If the project runs longer than two weeks, a roll-off on a weekly extension rate often becomes more economical than keeping the trailer on site.</p>
+
+<h3>What can I not put in a dumpster trailer?</h3>
+<p>The prohibited list is the same as any container: no hazardous materials, no liquids, no tires, no batteries, no paint, no electronics. Heavy materials like concrete, dirt, and asphalt are not prohibited — they are just impractical because you will hit the weight limit long before you fill any meaningful volume. The <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">full prohibited items guide</a> covers what gets rejected at the landfill.</p>
+
+<h3>What is the weight limit on a dumpster trailer?</h3>
+<p>Most dumpster trailers are rated for around 2,000 lbs. That limit is firm — the trailer frame, the tow vehicle rating, and DOT road weight standards all enforce it. Exceed it and you are looking at overage fees, a driver who will not pull an overloaded container, or both.</p>
+
+<p>If you are still not sure which to book, ask yourself one question before calling: is this load heavier than a sedan? If yes, skip the trailer.</p>
+`,
+    faq: [
+      {
+        question: 'How much does a dumpster trailer rental cost?',
+        answer:
+          'Most dumpster trailer rentals run $150–$350 per week, depending on size, market, and haul distance. That is 20–30% less than a comparable roll-off. Weight overage fees apply if you exceed the 2,000-lb limit — typically $50–$75 per ton over — which closes the price gap fast on heavier loads.',
+      },
+      {
+        question: 'What size dumpster trailers can I rent?',
+        answer:
+          'Most providers offer 10 to 14 cubic yard trailers. That is the standard range for the product type. If you need larger than 14 yards, you are looking at a roll-off — trailers do not scale up the way roll-offs do.',
+      },
+      {
+        question: 'Can I put roofing shingles in a dumpster trailer?',
+        answer:
+          "Not practically, no. Shingles run 230–250 lbs per square of roof surface. A modest 1,500-square-foot roof generates 3,500–5,000 lbs of tear-off debris — more than double the trailer's weight limit. You need a roll-off rated for roofing weight, not a trailer.",
+      },
+      {
+        question: 'Do I need a permit for a dumpster trailer rental?',
+        answer:
+          'For private property placement, usually no. For street or sidewalk placement, most cities require a right-of-way permit regardless of container type. Check with your city public works department before scheduling delivery.',
+      },
+      {
+        question: 'Is a roll-off container rental cheaper than a dumpster trailer?',
+        answer:
+          'No — roll-offs are generally more expensive per week. The trailer is the cheaper option for light loads. The equation flips when you factor in weight overage fees on the trailer, or when the job requires more than 14 yards and you have no choice but to go roll-off.',
+      },
+      {
+        question: 'How long can I keep a rented dumpster trailer?',
+        answer:
+          'Standard rental terms run 7 days at most providers. Some offer shorter 3-day or 5-day windows. Extensions are available but add to the weekly cost. If the project runs longer than two weeks, a roll-off on a weekly extension rate often becomes more economical.',
+      },
+      {
+        question: 'What can I not put in a dumpster trailer?',
+        answer:
+          'The prohibited list is the same as any container: no hazardous materials, no liquids, no tires, no batteries, no paint, no electronics. Heavy materials like concrete, dirt, and asphalt are not prohibited — they are just impractical because you will hit the weight limit long before you fill any meaningful volume.',
+      },
+      {
+        question: 'What is the weight limit on a dumpster trailer?',
+        answer:
+          'Most dumpster trailers are rated for around 2,000 lbs. That limit is firm — the trailer frame, the tow vehicle rating, and DOT road weight standards all enforce it. Exceed it and you are looking at overage fees, a driver who will not pull an overloaded container, or both.',
+      },
+    ],
+    toc: [
+      { id: 'what-is-a-dumpster-trailer', title: 'What a Dumpster Trailer Actually Is' },
+      { id: 'trailer-vs-roll-off', title: 'Trailer vs Roll-Off: The Real Differences' },
+      { id: 'when-to-choose-a-trailer', title: 'When a Dumpster Trailer Makes Sense' },
+      { id: 'when-to-stick-with-roll-off', title: 'When You Should Stick with a Roll-Off' },
+      { id: 'pricing-comparison', title: 'What Each Option Costs' },
+      { id: 'weight-limits', title: 'Weight Limits: Where Trailers Get You' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
 ]
