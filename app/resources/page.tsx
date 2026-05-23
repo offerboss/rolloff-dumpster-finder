@@ -49,11 +49,11 @@ const resourceCards = [
     href: '/blog/what-does-a-dumpster-rental-cost',
   },
   {
-    badge: 'Tips',
-    title: '5 Things to Ask Before Booking a Dumpster Rental',
+    badge: 'Comparison',
+    title: 'Dumpster Trailer Rental vs Roll-Off: What to Know',
     excerpt:
-      'Not all rental agreements are the same. Knowing what to ask about weight limits, prohibited materials, and extension fees saves you money and avoids surprises on pickup day.',
-    href: '/blog/5-things-to-ask-before-booking',
+      'A dumpster trailer costs less and fits tighter driveways. The 2,000-lb weight limit is where most jobs outgrow it — here is how to tell which option fits your project before you book.',
+    href: '/blog/dumpster-trailer-rental',
   },
   {
     badge: 'Rules',
@@ -96,13 +96,6 @@ const resourceCards = [
     excerpt:
       'A commercial roll-off is the same container as a residential one. What changes is scale, site access, and the permit checklist. Here is how to size, price, and book it.',
     href: '/blog/commercial-dumpster-rental',
-  },
-  {
-    badge: 'Comparison',
-    title: 'Dumpster Trailer Rental vs Roll-Off: What to Know',
-    excerpt:
-      'A dumpster trailer costs less and fits tighter driveways. The 2,000-lb weight limit is where most jobs outgrow it — here is how to tell which option fits your project before you book.',
-    href: '/blog/dumpster-trailer-rental',
   },
 ]
 
