@@ -60,27 +60,32 @@ const regions = [
   {
     key: 'Denver Metro',
     label: 'Denver Metro',
-    desc: 'Roll-off dumpster rental companies serving Denver, Aurora, Lakewood, Arvada, Brighton, Centennial, and surrounding Front Range communities.',
+    desc: 'Serving Denver, Aurora, Lakewood, Arvada, Brighton, Centennial, and surrounding Front Range communities.',
   },
   {
     key: 'Colorado Springs / Pikes Peak',
     label: 'Colorado Springs / Pikes Peak',
-    desc: 'Roll-off dumpster rental companies serving Colorado Springs, Pueblo, Cañon City, and the Pikes Peak region.',
+    desc: 'Serving Colorado Springs, Pueblo, Cañon City, and the Pikes Peak region.',
   },
   {
     key: 'Northern Colorado',
     label: 'Northern Colorado',
-    desc: 'Roll-off dumpster rental companies serving Fort Collins, Greeley, Loveland, Longmont, Berthoud, Erie, and northern Colorado communities.',
-  },
-  {
-    key: 'Mountain Towns',
-    label: 'Mountain Towns',
-    desc: 'Roll-off dumpster rental companies serving mountain communities including Breckenridge, Frisco, Bailey, and nearby areas.',
+    desc: 'Serving Fort Collins, Greeley, Loveland, Longmont, Berthoud, Erie, and northern Colorado communities.',
   },
   {
     key: 'Western Slope',
     label: 'Western Slope',
-    desc: 'Roll-off dumpster rental companies serving Grand Junction, Fruita, Cortez, and Western Slope communities.',
+    desc: 'Serving Grand Junction, Fruita, Cortez, and Western Slope communities.',
+  },
+  {
+    key: 'Mountain Towns',
+    label: 'Mountain Towns',
+    desc: 'Serving mountain communities including Breckenridge, Frisco, Bailey, and nearby areas.',
+  },
+  {
+    key: 'Northwest Colorado',
+    label: 'Northwest Colorado',
+    desc: 'Serving Steamboat Springs, Craig, Meeker, Rangely, and surrounding communities.',
   },
   {
     key: 'Statewide / Multi-Region',
@@ -244,117 +249,158 @@ export default function ColoradoProvidersPage() {
         )}
       </section>
 
-      {/* Standard listings by region */}
+      {/* Standard listings by region — accordion */}
       <section className="bg-white border-y border-[#E8E4DE] py-16 px-8">
         <div className="max-w-[1200px] mx-auto">
           <div className="w-10 h-[3px] bg-orange rounded-sm mb-[14px]" />
           <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-charcoal tracking-tight mb-2">
             Colorado Providers by Region
           </h2>
-          <p className="text-[15px] text-[#6B7280] leading-[1.6] mb-2">
+          <p className="text-[15px] text-[#6B7280] leading-[1.6] mb-1">
             {standard.length > 0
               ? `${standard.length} companies listed across Colorado service regions.`
               : 'No standard listings yet for Colorado.'}
           </p>
-          <p className="text-[13px] text-[#9CA3AF] leading-[1.6] mb-10">
+          <p className="text-[13px] text-[#9CA3AF] leading-[1.6] mb-8">
             Standard listings are compiled from public business information and have not yet been
             confirmed by the provider. Contact information is displayed as found in public records.
           </p>
+          <p className="text-[13px] text-[#6B7280] leading-[1.6] mb-6">
+            Open a region below to view public roll-off dumpster provider listings.
+          </p>
 
-          <div className="space-y-14">
+          <div className="border border-[#E8E4DE] rounded-sm overflow-hidden divide-y divide-[#E8E4DE]">
             {regions.map((region) => {
-              const regionProviders = standard.filter(
-                (p) => p.primaryRegion === region.key
-              )
+              const regionProviders = standard.filter((p) => p.primaryRegion === region.key)
+              const hasFeatured = featured.some((p) => p.primaryRegion === region.key)
+
               return (
-                <div key={region.key}>
-                  {/* Region header */}
-                  <div className="border-b border-[#E8E4DE] pb-4 mb-6">
-                    <h3 className="text-[18px] font-extrabold text-charcoal tracking-tight mb-1">
-                      {region.label}
-                    </h3>
-                    <p className="text-[13px] text-[#6B7280] leading-[1.6]">{region.desc}</p>
-                  </div>
+                <details key={region.key} className="group">
+                  <summary className="list-none [&::-webkit-details-marker]:hidden flex items-start justify-between gap-4 cursor-pointer px-6 py-5 hover:bg-[#F9F8F6] transition-colors select-none">
+                    {/* Left: name, meta, desc */}
+                    <div className="flex-1 min-w-0">
+                      <div className="flex flex-wrap items-center gap-2 mb-[5px]">
+                        <span className="text-[15px] font-extrabold text-charcoal tracking-tight">
+                          {region.label}
+                        </span>
+                        {regionProviders.length > 0 ? (
+                          <span className="text-[10px] font-bold uppercase tracking-[.08em] bg-[#F3F2EF] text-[#566070] px-[8px] py-[3px] rounded-sm border border-[#E5E3DE]">
+                            {regionProviders.length} {regionProviders.length === 1 ? 'provider' : 'providers'}
+                          </span>
+                        ) : (
+                          <span className="text-[10px] font-bold uppercase tracking-[.08em] bg-[#F3F2EF] text-[#9CA3AF] px-[8px] py-[3px] rounded-sm border border-[#E5E3DE]">
+                            No listings yet
+                          </span>
+                        )}
+                        {!hasFeatured && (
+                          <span className="text-[9px] font-bold uppercase tracking-[.08em] text-orange/70 border border-orange/30 px-[7px] py-[2px] rounded-sm">
+                            Featured Partner Available
+                          </span>
+                        )}
+                      </div>
+                      <p className="text-[12px] text-[#6B7280] leading-[1.55]">{region.desc}</p>
+                    </div>
 
-                  {regionProviders.length > 0 ? (
-                    <div className="divide-y divide-[#F0EDE8]">
-                      {regionProviders.map((provider) => (
-                        <div
-                          key={provider.id}
-                          className="py-5 flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4"
+                    {/* Right: chevron */}
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="18"
+                      height="18"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="2.5"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      className="shrink-0 mt-[3px] text-[#9CA3AF] group-open:rotate-180 transition-transform duration-200"
+                      aria-hidden="true"
+                    >
+                      <polyline points="6 9 12 15 18 9" />
+                    </svg>
+                  </summary>
+
+                  {/* Expanded content */}
+                  <div className="border-t border-[#E8E4DE] bg-[#FAFAF8]">
+                    {regionProviders.length > 0 ? (
+                      <div className="divide-y divide-[#EEEAE4]">
+                        {regionProviders.map((provider) => (
+                          <div
+                            key={provider.id}
+                            className="px-6 py-4 flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3"
+                          >
+                            <div className="flex-1 min-w-0">
+                              <div className="flex flex-wrap items-center gap-2 mb-[4px]">
+                                <p className="text-[13px] font-bold text-charcoal leading-[1.3]">
+                                  {provider.name}
+                                </p>
+                                <span className="text-[8px] font-bold uppercase tracking-[.08em] text-[#9CA3AF] bg-white px-[6px] py-[2px] rounded-sm border border-[#E5E3DE]">
+                                  Public Listing
+                                </span>
+                              </div>
+                              <div className="flex flex-wrap gap-x-4 gap-y-[3px]">
+                                {provider.serviceType && (
+                                  <p className="text-[11px] text-[#566070]">
+                                    <span className="font-semibold text-charcoal">Service: </span>
+                                    {provider.serviceType}
+                                  </p>
+                                )}
+                                {provider.cities && provider.cities.length > 0 && (
+                                  <p className="text-[11px] text-[#566070]">
+                                    <span className="font-semibold text-charcoal">City: </span>
+                                    {provider.cities.join(', ')}
+                                  </p>
+                                )}
+                                {provider.ownershipType && (
+                                  <p className="text-[11px] text-[#566070]">
+                                    <span className="font-semibold text-charcoal">Ownership: </span>
+                                    {provider.ownershipType}
+                                  </p>
+                                )}
+                              </div>
+                            </div>
+
+                            <div className="flex flex-row sm:flex-col gap-x-4 gap-y-[5px] sm:items-end shrink-0">
+                              {provider.phone && (
+                                <a
+                                  href={`tel:${provider.phone.replace(/\D/g, '')}`}
+                                  className="text-[12px] font-semibold text-charcoal hover:text-orange transition-colors"
+                                >
+                                  {provider.phone}
+                                </a>
+                              )}
+                              {provider.website && (
+                                <a
+                                  href={provider.website}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="text-[11px] font-semibold text-orange hover:underline"
+                                >
+                                  Website →
+                                </a>
+                              )}
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    ) : (
+                      <div className="px-6 py-10 text-center">
+                        <p className="text-[13px] font-semibold text-charcoal mb-1">
+                          No listings yet for {region.label}
+                        </p>
+                        <p className="text-[12px] text-[#6B7280] leading-[1.65] max-w-[380px] mx-auto mb-5">
+                          We are adding providers to this region. Standard listings are free for local
+                          roll-off dumpster rental companies.
+                        </p>
+                        <a
+                          href={`mailto:adam@meetadamchandler.com?subject=Listing Request — Colorado, ${region.label}`}
+                          className="inline-block bg-charcoal text-white font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-80 transition-opacity"
                         >
-                          <div className="flex-1 min-w-0">
-                            <div className="flex flex-wrap items-center gap-2 mb-[3px]">
-                              <p className="text-[14px] font-bold text-charcoal leading-[1.3]">
-                                {provider.name}
-                              </p>
-                              <span className="text-[9px] font-bold uppercase tracking-[.08em] text-[#9CA3AF] bg-[#F3F2EF] px-[7px] py-[2px] rounded-sm border border-[#E5E3DE]">
-                                Public Listing
-                              </span>
-                            </div>
-                            <div className="flex flex-wrap gap-x-4 gap-y-1 mt-[6px]">
-                              {provider.serviceType && (
-                                <p className="text-[12px] text-[#566070]">
-                                  <span className="font-semibold text-charcoal">Type: </span>
-                                  {provider.serviceType}
-                                </p>
-                              )}
-                              {provider.cities && provider.cities.length > 0 && (
-                                <p className="text-[12px] text-[#566070]">
-                                  <span className="font-semibold text-charcoal">City: </span>
-                                  {provider.cities.join(', ')}
-                                </p>
-                              )}
-                              {provider.ownershipType && (
-                                <p className="text-[12px] text-[#566070]">
-                                  <span className="font-semibold text-charcoal">Type: </span>
-                                  {provider.ownershipType}
-                                </p>
-                              )}
-                            </div>
-                          </div>
-
-                          <div className="flex flex-col gap-[6px] sm:items-end shrink-0">
-                            {provider.phone && (
-                              <a
-                                href={`tel:${provider.phone.replace(/\D/g, '')}`}
-                                className="text-[13px] font-semibold text-charcoal hover:text-orange transition-colors"
-                              >
-                                {provider.phone}
-                              </a>
-                            )}
-                            {provider.website && (
-                              <a
-                                href={provider.website}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="text-[12px] font-semibold text-orange hover:underline"
-                              >
-                                Website →
-                              </a>
-                            )}
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  ) : (
-                    <div className="border border-dashed border-[#D0CCC5] rounded-sm px-8 py-10 text-center">
-                      <p className="text-[13px] font-semibold text-charcoal mb-1">
-                        No listings yet for {region.label}
-                      </p>
-                      <p className="text-[12px] text-[#6B7280] leading-[1.65] max-w-[400px] mx-auto mb-5">
-                        We are adding providers to this region. Standard listings are free for local
-                        roll-off dumpster rental companies.
-                      </p>
-                      <a
-                        href={`mailto:adam@meetadamchandler.com?subject=Listing Request — Colorado, ${region.label}`}
-                        className="inline-block bg-charcoal text-white font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-80 transition-opacity"
-                      >
-                        Submit a Listing
-                      </a>
-                    </div>
-                  )}
-                </div>
+                          Submit a Listing
+                        </a>
+                      </div>
+                    )}
+                  </div>
+                </details>
               )
             })}
           </div>
