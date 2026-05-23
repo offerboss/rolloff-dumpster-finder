@@ -67,7 +67,7 @@ const resourceCards = [
     title: 'Do You Need a Permit for a Dumpster Rental?',
     excerpt:
       'Placing a container on public property usually requires a permit. On a private driveway it typically does not. Here is how to find out what your city or county requires before your drop date.',
-    href: '#',
+    href: '/blog/do-you-need-a-permit-for-a-dumpster-rental',
   },
   {
     badge: 'Roofing',

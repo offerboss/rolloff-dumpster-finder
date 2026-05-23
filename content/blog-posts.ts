@@ -2028,4 +2028,277 @@ export const blogPosts: BlogPost[] = [
       { id: 'faq', title: 'Straight Answers' },
     ],
   },
+  {
+    slug: 'do-you-need-a-permit-for-a-dumpster-rental',
+    title: 'Do You Need a Permit for a Dumpster Rental?',
+    excerpt:
+      'Placing a container on public property usually requires a permit. On a private driveway it typically does not. Here is how to find out what your city or county requires before your drop date.',
+    category: 'Permits',
+    coverImage:
+      'https://images.pexels.com/photos/17849720/pexels-photo-17849720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Roll-off dumpster container placed along a public street curb',
+    date: '2026-05-21',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Do you need a dumpster rental permit? For street placement, usually yes. Private driveway, usually no. Here is what to check before your container arrives.',
+    readingTime: 9,
+    keywords: [
+      'dumpster rental permit',
+      'roll off dumpster permit',
+      'dumpster permit requirements',
+      'permit for dumpster on street',
+      'dumpster on public property permit',
+      'how to get a dumpster permit',
+      'dumpster placement rules',
+    ],
+    body: `
+<p>Whether you need a <strong>dumpster rental permit</strong> depends on one thing: where the container lands. I will note that "it depends" is technically one thing. Drop it on your driveway or any private property — no permit required in most cities. Set it on a public street, sidewalk, or public alley, and the city will want paperwork. The permit exists because the city owns the right-of-way and has strong feelings about who leaves 10-ton steel boxes on their roads. Fair enough.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">The short version</p>
+  <ul class="text-charcoal space-y-1 text-sm">
+    <li><strong>Private driveway or property:</strong> No permit needed in most jurisdictions.</li>
+    <li><strong>Street, sidewalk, or public alley:</strong> Permit required in most cities. Cost runs $25–$150.</li>
+    <li><strong>HOA community:</strong> The HOA has its own rules — separate from the city permit.</li>
+  </ul>
+</div>
+
+<nav aria-label="Table of contents" class="not-prose my-8 rounded-lg border border-gray-200 bg-gray-50 p-6">
+  <p class="text-sm font-bold uppercase tracking-wide text-gray-700 mb-3">In this guide</p>
+  <ul class="space-y-2 text-sm">
+    <li><a href="#private-property" class="text-orange hover:underline">Private Property: When You Do Not Need a Permit</a></li>
+    <li><a href="#public-right-of-way" class="text-orange hover:underline">Street and Sidewalk Placement: When You Do</a></li>
+    <li><a href="#how-to-get-a-permit" class="text-orange hover:underline">How to Get a Dumpster Permit</a></li>
+    <li><a href="#what-permits-cost" class="text-orange hover:underline">What a Dumpster Placement Permit Costs</a></li>
+    <li><a href="#skip-the-permit" class="text-orange hover:underline">What Happens If You Skip the Permit</a></li>
+    <li><a href="#hoa-rules" class="text-orange hover:underline">HOA Rules Are Not the Same as City Permits</a></li>
+    <li><a href="#straight-answers" class="text-orange hover:underline">Straight Answers</a></li>
+  </ul>
+</nav>
+
+<h2 id="private-property">Private Property: When You Do Not Need a Permit</h2>
+
+<p>If the container stays on your property — driveway, side yard, backyard, or a private parking area — you do not need a city permit. In my experience working with rental companies across Colorado, Texas, Arizona, and Utah, private placement does not trigger a permit requirement. That holds across nearly every jurisdiction I have seen.</p>
+
+<p>The driveway is the most common placement spot for a reason. The truck can reach it, the container is not blocking traffic, and neither the city nor your neighbors have anything to complain about. A standard 20-yard container needs about 60 feet of clearance — driveway length matters. If your driveway is short or steep, tell the driver before delivery. Most will figure it out. A few will not. That is not a permit problem.</p>
+
+<p>A few things worth knowing about private placement:</p>
+
+<ul>
+  <li>Protect the driveway surface. Ask your rental company about boards under the container to distribute weight and prevent cracking.</li>
+  <li>Check overhead clearance. Trees, power lines, and garage overhangs can block the swing arm on the truck.</li>
+  <li>Confirm where the container edges sit. Overhang into a public easement can still require a permit in some cities.</li>
+</ul>
+
+<p>One situation where private placement still causes friction: HOA communities. The HOA is not the city, and their rules operate separately. More on that in the last section.</p>
+
+<h2 id="public-right-of-way">Street and Sidewalk Placement: When You Do</h2>
+
+<p>If the dumpster needs to go in the street — at the curb, in a parking lane, on a sidewalk, or in a public alley — you need a permit in most cities. This is called a right-of-way permit, a street use permit, or an encroachment permit depending on where you are. The <a href="https://www.fhwa.dot.gov/real_estate/" target="_blank" rel="noopener noreferrer">Federal Highway Administration defines right-of-way</a> as the land the government owns or controls for road use. When your container sits in that land, the city wants documentation.</p>
+
+<p>The reasons you might need street placement instead of driveway placement:</p>
+
+<ul>
+  <li>No driveway — urban rowhouse, historic district, or alley-access-only property</li>
+  <li>Driveway too short for the container length</li>
+  <li>Steep grade or tight turn that the truck cannot navigate</li>
+  <li>Active renovation requiring multiple swaps, and the crew needs easy street access</li>
+</ul>
+
+<p>Some cities handle this quickly — online applications, 24-hour processing, reasonable fees. Others are slower. Dallas runs permits through the Transportation Department. Denver through Public Works. Houston through Public Works and Engineering. The name varies; the paperwork does not. Good local companies know the permit process in their <a href="/locations" class="text-orange hover:underline">service area</a> and can often pull approvals faster than a homeowner calling in cold.</p>
+
+<h2 id="how-to-get-a-permit">How to Get a Dumpster Permit</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/17322148/pexels-photo-17322148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="City hall building where dumpster placement permit applications are processed by the public works department"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Most permit applications go through the city's Public Works or Streets department — either online or at the municipal office.</figcaption>
+</figure>
+
+<p>Getting a dumpster placement permit is not complicated. It is just not fast, and it does not always happen on your timeline. The standard process:</p>
+
+<ol>
+  <li><strong>Identify the right department.</strong> Start with Public Works, the Streets Department, or City Engineering. Search "[your city] right-of-way permit" and the relevant department comes up. Most cities have an online portal.</li>
+  <li><strong>Submit your application.</strong> You will need your address, the placement location (parking lane, sidewalk, full street closure), the dates, and the container dimensions. Some cities want the rental company name.</li>
+  <li><strong>Pay the fee.</strong> Most fees run $25–$100 for residential placements. Some larger cities charge more.</li>
+  <li><strong>Post the permit on the container.</strong> Some cities require the permit to be visible on the bin during placement. Check the fine print on your approval.</li>
+</ol>
+
+<p>Many rental companies will pull the permit for you — or at least walk you through what to file. Companies that operate across a city know the local process and can often pull approvals faster than a homeowner calling in. I cover what to look for when <a href="/blog/how-to-choose-a-dumpster-rental-company" class="text-orange hover:underline">choosing a dumpster rental company</a> in a separate guide, and permit handling is worth asking about before you book.</p>
+
+<p>Timeline to plan for: most permits process in one to three business days. Some cities offer same-day online approval. A few slower municipalities take up to a week. Build permit time into your project schedule before you lock in the delivery window.</p>
+
+<h2 id="what-permits-cost">What a Dumpster Placement Permit Costs</h2>
+
+<p>The permit is a small fraction of total rental cost. The container itself runs <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">$250–$750 for a standard residential haul</a> depending on size and market. The permit adds $25–$150 on top of that, depending on the city and how long the container stays in the right-of-way.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Market Type</th>
+        <th class="px-4 py-3 text-left font-semibold">Typical Permit Fee</th>
+        <th class="px-4 py-3 text-left font-semibold">Processing Time</th>
+        <th class="px-4 py-3 text-left font-semibold">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Small cities and towns</td>
+        <td class="px-4 py-3">$25–$50</td>
+        <td class="px-4 py-3">1–2 business days</td>
+        <td class="px-4 py-3">Often a simple form; some waive fees for short placements</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Mid-size metros</td>
+        <td class="px-4 py-3">$50–$100</td>
+        <td class="px-4 py-3">2–3 business days</td>
+        <td class="px-4 py-3">Online portals common; fee may scale with duration</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Large cities (Denver, Austin, Houston)</td>
+        <td class="px-4 py-3">$75–$150</td>
+        <td class="px-4 py-3">2–5 business days</td>
+        <td class="px-4 py-3">May require a traffic control plan for full street closures</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Full or lane closure (commercial)</td>
+        <td class="px-4 py-3">$150–$500+</td>
+        <td class="px-4 py-3">Up to 2 weeks</td>
+        <td class="px-4 py-3">Traffic control plan required; rarely applies to residential projects</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Normal residential curb placement in a parking lane sits on the low end of this table. The expensive end is for commercial demolition, full street closures, or situations where the city requires an inspector before delivery. Those are edge cases. Most homeowners are looking at $50–$100 and a two-day wait.</p>
+
+<p>Some cities also charge a daily rate if the container stays beyond the permitted duration. Know your project timeline before you apply.</p>
+
+<h2 id="skip-the-permit">What Happens If You Skip the Permit</h2>
+
+<p>The city issues a fine, orders removal, or both. Fines for unpermitted containers in the right-of-way run $100–$500 per day in many cities. That is a flat fine per incident in others. Either way, the permit fee looks cheap by comparison.</p>
+
+<p>Unpermitted containers can also be towed. The city has the right to remove anything blocking public right-of-way without authorization. If the container gets hauled mid-project, you are paying a removal fee, a tow fee, and potentially a second delivery charge to get back on schedule. That is an expensive version of skipping a $50 form.</p>
+
+<p>There is also a liability angle. If the container is in the street without a permit and a driver hits it at night, questions about responsibility get complicated. Permitted placements typically require reflective markings and lighting — those requirements exist because someone at the city thought through exactly this scenario and decided the permit holder is responsible for the placement. Read the permit before you sign it.</p>
+
+<h2 id="hoa-rules">HOA Rules Are Not the Same as City Permits</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/26777167/pexels-photo-26777167.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Dumpster in a residential alley behind a row of homes in a neighborhood"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Even on private property, HOA rules can restrict when and where you place a container — separate from the city permit question.</figcaption>
+</figure>
+
+<p>If you live in an HOA community, you have two separate sets of rules to navigate: the city's right-of-way requirements and whatever your CC&Rs say about containers on the property. Satisfying one does not satisfy the other.</p>
+
+<p>Common HOA restrictions:</p>
+
+<ul>
+  <li>Placement limited to the backyard or a designated area — not visible from the street</li>
+  <li>Maximum container size allowed on the property</li>
+  <li>Maximum rental duration (some HOAs cap it at 7 days)</li>
+  <li>Advance approval from the HOA board or architectural review committee</li>
+  <li>Delivery and pickup restricted to certain hours</li>
+</ul>
+
+<p>Check your CC&Rs before booking. If you are unsure what is allowed, email the HOA board a week before your project. Most are reasonable — they just want advance notice, not a 20-yard bin appearing in the cul-de-sac without warning. Choosing the <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">right dumpster size</a> matters here too, since some HOAs have explicit size caps.</p>
+
+<p>The good news: driveway placement in an HOA community rarely triggers a city permit requirement. The container is on private property. HOA rules still apply, but the city is not involved.</p>
+
+<p>For context on scale: the <a href="https://www.epa.gov/smm" target="_blank" rel="noopener noreferrer">EPA estimates that Americans generate roughly 292 million tons of municipal solid waste each year</a>. A meaningful portion of that moves through roll-off containers exactly like the one you are renting. The permit process is one of the ways cities track what is staged on public roads and hold someone accountable for the cleanup. It is not pointless paperwork. You can <a href="/resources" class="text-orange hover:underline">find more guides on dumpster placement and rental rules</a> in the resources section.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>Does a dumpster on my driveway need a permit?</h3>
+<p>No, in most cities. Private property placement does not require a city permit. Confirm with your rental company if unsure about your specific address — some cities have easement rules that extend the public right-of-way onto part of a private driveway.</p>
+
+<h3>How much does a dumpster permit cost?</h3>
+<p>Most residential street-placement permits run $25–$100. Larger cities and longer placements can push that to $150. Full street closures for commercial projects can cost several hundred dollars and require additional documentation. The permit is a small line item compared to the container rental.</p>
+
+<h3>How long does it take to get a dumpster permit?</h3>
+<p>Plan for one to three business days. Some cities offer same-day online approval. Others take up to a week in congested areas or for first-time applicants. Apply before you schedule delivery, not after.</p>
+
+<h3>Who do I contact to get a dumpster permit?</h3>
+<p>Start with your city's Public Works or Streets Department. Search "[your city] right-of-way permit" and the relevant department will surface. Most have an online application. Your rental company may also handle permits directly — ask when you book.</p>
+
+<h3>What happens if I put a dumpster in the street without a permit?</h3>
+<p>The city can fine you, order removal, or both. Fines run $100–$500 per day in many cities. If the container gets towed mid-project, you are also paying removal, tow, and re-delivery fees. The permit costs less than one day of fines.</p>
+
+<h3>Does my HOA need to approve a dumpster rental?</h3>
+<p>Check your CC&Rs. Many HOAs require advance approval for containers, restrict placement to non-street-facing areas, and cap rental duration at seven days. HOA rules are separate from city permit requirements — satisfying one does not satisfy the other.</p>
+
+<h3>Do permit rules vary by city?</h3>
+<p>Yes, significantly. Some cities require permits for any container in the right-of-way regardless of duration. Others only require them for placements longer than 48 hours or above a certain size. Check your city's public works portal or ask a local rental company that knows the rules.</p>
+
+<h3>Can my rental company get the permit for me?</h3>
+<p>Many local companies handle the permit application as part of the booking process. Companies that operate across a city know the process and can often pull approvals faster than a homeowner calling in cold. Ask explicitly when you book — not all companies offer this, and some charge a small fee for the service.</p>
+
+<p>The permit is the least exciting part of renting a dumpster. The dumpster itself is a close second. Fill out the form, pay the fee, and get back to the project.</p>
+`,
+    faq: [
+      {
+        question: 'Does a dumpster on my driveway need a permit?',
+        answer:
+          'No, in most cities. Private property placement does not require a city permit. Confirm with your rental company if unsure about your address — some cities have easement rules that extend the public right-of-way onto part of a private driveway.',
+      },
+      {
+        question: 'How much does a dumpster permit cost?',
+        answer:
+          'Most residential street-placement permits run $25–$100. Larger cities and longer placements can push that to $150. Full street closures for commercial projects can cost several hundred dollars. The permit is a small line item compared to the container rental itself.',
+      },
+      {
+        question: 'How long does it take to get a dumpster permit?',
+        answer:
+          'Plan for one to three business days. Some cities offer same-day online approval. Others take up to a week in congested areas or for first-time applicants. Apply before you schedule delivery, not after.',
+      },
+      {
+        question: 'Who do I contact to get a dumpster permit?',
+        answer:
+          "Start with your city's Public Works or Streets Department. Search your city name plus right-of-way permit and the relevant department will come up. Most have an online application. Your rental company may also handle permits directly — ask when you book.",
+      },
+      {
+        question: 'What happens if I put a dumpster in the street without a permit?',
+        answer:
+          'The city can fine you, order removal, or both. Fines run $100–$500 per day in many cities. If the container gets towed mid-project, you also pay removal, tow, and re-delivery fees. The permit costs less than one day of fines.',
+      },
+      {
+        question: 'Does my HOA need to approve a dumpster rental?',
+        answer:
+          'Check your CC&Rs before booking. Many HOAs require advance approval, restrict placement to non-street-facing areas, and cap rental duration at seven days. HOA rules are separate from city permit requirements — satisfying one does not satisfy the other.',
+      },
+      {
+        question: 'Do permit rules vary by city?',
+        answer:
+          'Yes, significantly. Some cities require permits for any container in the right-of-way regardless of duration. Others only require them for placements longer than 48 hours or above a certain container size. Check your city public works portal or ask a local rental company.',
+      },
+      {
+        question: 'Can my rental company get the permit for me?',
+        answer:
+          'Many local companies handle the permit application as part of the booking process. Companies that operate across a city know the process and can pull approvals faster than a homeowner calling in cold. Ask explicitly when you book — not all companies offer this.',
+      },
+    ],
+    toc: [
+      { id: 'private-property', title: 'Private Property: When You Do Not Need a Permit' },
+      { id: 'public-right-of-way', title: 'Street and Sidewalk Placement: When You Do' },
+      { id: 'how-to-get-a-permit', title: 'How to Get a Dumpster Permit' },
+      { id: 'what-permits-cost', title: 'What a Dumpster Placement Permit Costs' },
+      { id: 'skip-the-permit', title: 'What Happens If You Skip the Permit' },
+      { id: 'hoa-rules', title: 'HOA Rules Are Not the Same as City Permits' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
 ]

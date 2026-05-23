@@ -12,6 +12,7 @@ Active primaries:
 | 2026-05-16 | roll off dumpster rental companies | how-to-choose-a-dumpster-rental-company | dumpster rental companies near me ✓ CSV, local dumpster rental ✓ CSV, dumpster rental services ✓ CSV, cheapest dumpster rental near me ✓ CSV, how to choose a dumpster rental company (invented) | dumpster_keywords.csv |
 | 2026-05-19 | commercial dumpster rental | commercial-dumpster-rental | roll off dumpster service ✓ CSV, dumpster service near me ✓ CSV, dumpster delivery ✓ CSV, construction debris container rental ✓ CSV, commercial roll off dumpster (invented), business dumpster rental (invented) | dumpster_keywords.csv |
 | 2026-05-20 | cheap dumpster rental | cheap-dumpster-rental | cheapest dumpster rental near me ✓ CSV, dumpster rental prices near me ✓ CSV, roll off dumpster rental rates ✓ CSV, small dumpster rental cost ✓ CSV, dumpster near me prices ✓ CSV, roll off dumpster prices ✓ CSV | dumpster_keywords.csv |
+| 2026-05-21 | dumpster rental permit | do-you-need-a-permit-for-a-dumpster-rental | roll off dumpster permit (invented), dumpster permit requirements (invented), permit for dumpster on street (invented), dumpster on public property permit (invented), how to get a dumpster permit (invented), dumpster placement rules (invented) | invented (no permit keywords in CSV) |
 
 Workflow for the next post
 Open the active keyword CSV
