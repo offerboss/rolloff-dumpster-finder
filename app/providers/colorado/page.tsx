@@ -199,7 +199,7 @@ export default function ColoradoProvidersPage() {
                   <a
                     href={provider.website}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored nofollow noopener noreferrer"
                     className="inline-block bg-orange text-black font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-90 transition-opacity self-start"
                   >
                     Visit Website
@@ -372,7 +372,7 @@ export default function ColoradoProvidersPage() {
                                 <a
                                   href={provider.website}
                                   target="_blank"
-                                  rel="noopener noreferrer"
+                                  rel="nofollow noopener noreferrer"
                                   className="text-[11px] font-semibold text-orange hover:underline"
                                 >
                                   Website →
