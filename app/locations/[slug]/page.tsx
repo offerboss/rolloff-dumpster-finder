@@ -555,23 +555,26 @@ export default async function CityPage({ params }: Props) {
             </div>
           </div>
           <p className="mt-8 text-[14px] text-[#6B7280]">
-            {city.stateAbbr === 'AZ' ? (
-              <>
-                Looking for other Arizona cities?{' '}
-                <Link href="/locations/arizona" className="text-orange underline underline-offset-2 hover:no-underline">
-                  Browse all Arizona dumpster rental locations
-                </Link>
-                .
-              </>
-            ) : (
-              <>
-                Looking for other Colorado cities?{' '}
-                <Link href="/locations/colorado" className="text-orange underline underline-offset-2 hover:no-underline">
-                  Browse all Colorado dumpster rental locations
-                </Link>
-                .
-              </>
-            )}
+            {(() => {
+              const stateMap: Record<string, { label: string; href: string }> = {
+                AZ: { label: 'Arizona', href: '/locations/arizona' },
+                UT: { label: 'Utah', href: '/locations/utah' },
+                TX: { label: 'Texas', href: '/locations/texas' },
+                WY: { label: 'Wyoming', href: '/locations/wyoming' },
+                OK: { label: 'Oklahoma', href: '/locations/oklahoma' },
+                CO: { label: 'Colorado', href: '/locations/colorado' },
+              }
+              const s = stateMap[city.stateAbbr] ?? stateMap['CO']
+              return (
+                <>
+                  Looking for other {s.label} cities?{' '}
+                  <Link href={s.href} className="text-orange underline underline-offset-2 hover:no-underline">
+                    Browse all {s.label} dumpster rental locations
+                  </Link>
+                  .
+                </>
+              )
+            })()}
           </p>
         </div>
       </section>

@@ -97,6 +97,13 @@ const resourceCards = [
       'A commercial roll-off is the same container as a residential one. What changes is scale, site access, and the permit checklist. Here is how to size, price, and book it.',
     href: '/blog/commercial-dumpster-rental',
   },
+  {
+    badge: 'Home Cleanouts',
+    title: 'Trash Dumpster Rental: What Your Cleanout Actually Needs',
+    excerpt:
+      'Most home cleanouts need a 10- to 20-yard container and budget $280–$620 all-in. Here is when the bin beats junk removal on price — and when it does not.',
+    href: '/blog/trash-dumpster-rental',
+  },
 ]
 
 export default function ResourcesPage() {

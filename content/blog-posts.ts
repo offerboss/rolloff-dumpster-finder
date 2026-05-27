@@ -2621,4 +2621,288 @@ export const blogPosts: BlogPost[] = [
       { id: 'straight-answers', title: 'Straight Answers' },
     ],
   },
+  {
+    slug: 'trash-dumpster-rental',
+    title: 'Trash Dumpster Rental: What Your Cleanout Actually Needs',
+    excerpt:
+      'Most home cleanouts need a 10- to 20-yard container and budget $280–$620 all-in. Here is how to size the bin, what you can put in it, and when junk removal beats a roll-off on price.',
+    category: 'Buyers Guide',
+    coverImage:
+      'https://images.pexels.com/photos/13656554/pexels-photo-13656554.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Large metal trash container positioned beside a brick wall outdoors',
+    date: '2026-05-26',
+    author: 'Jake Harlow',
+    metaDescription:
+      'A trash dumpster rental handles most home cleanouts, estate clears, and pre-sale purges. Here is how to size it, what it costs, and when junk removal beats a roll-off.',
+    readingTime: 8,
+    keywords: [
+      'trash dumpster rental',
+      'residential dumpster rental near me',
+      'big dumpster rental',
+      'small trash dumpster rental',
+      'home cleanout dumpster rental',
+      'estate cleanout dumpster rental',
+      'junk removal vs dumpster rental',
+    ],
+    toc: [
+      { id: 'when-it-fits', title: 'When a Trash Dumpster Is the Right Tool' },
+      { id: 'sizing', title: 'Sizing the Bin for Your Volume of Junk' },
+      { id: 'what-goes-in', title: 'What Goes In and What Does Not' },
+      { id: 'pricing', title: 'What the Numbers Actually Look Like' },
+      { id: 'junk-removal-vs-dumpster', title: 'Junk Removal vs Renting the Bin Yourself' },
+      { id: 'when-to-skip', title: 'When to Skip the Dumpster Entirely' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+    faq: [
+      {
+        question: 'How much does a trash dumpster rental cost for a home cleanout?',
+        answer:
+          'Most home cleanouts land in the $280–$650 range depending on container size. A 10-yard container runs $280–$480 all-in for a 7-day rental. A 20-yard — the right size for most full-home cleanouts — runs $380–$650. Weight overages add $65–$95 per ton if your load runs heavy. Confirm the weight limit and overage rate before booking.',
+      },
+      {
+        question: 'What size dumpster do I need for a full-home cleanout?',
+        answer:
+          'Most full-home cleanouts — furniture, clothing, appliances, household goods — land in the 15- to 20-yard range. A 20-yard container handles a three-bedroom house cleanout without issue. Step to a 30-yard if the basement or garage has been a long-term storage solution. For one or two rooms only, a 10-yard is usually enough.',
+      },
+      {
+        question: 'Can I put a mattress in a rental dumpster?',
+        answer:
+          'Most roll-off providers accept mattresses but many charge a surcharge of $15–$25 per mattress. Some markets have banned standard mattress disposal — in those areas, providers either decline them outright or charge significantly more. Ask before loading. Do not assume mattresses are included in the base rate.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster for a cleanout?',
+        answer:
+          'Standard rental periods run 7–10 days. Most cleanouts finish inside that window. Extensions typically cost $5–$15 per day after the base period. If the project will run two weeks, ask for a two-week flat rate at booking — it often comes in below the 7-day base rate plus daily extension fees.',
+      },
+      {
+        question: 'What is the difference between junk removal and renting a dumpster yourself?',
+        answer:
+          'Junk removal services send a crew that loads everything themselves, pricing by volume at $125–$650 depending on load size. A dumpster rental is a container you fill on your own schedule, priced flat plus weight overages. For loads under three cubic yards, junk removal is usually cheaper. For large volumes, a roll-off costs less per cubic yard because you provide the labor.',
+      },
+      {
+        question: 'Do I need a permit for a trash dumpster rental at my home?',
+        answer:
+          'Placement on a private driveway typically does not require a permit. Placement on a public street or sidewalk almost always does. Permit fees run $20–$150 depending on the municipality. Confirm with your city or county permit office before scheduling delivery — the rules vary more than you would expect between adjacent cities.',
+      },
+      {
+        question: 'Can I put electronics or appliances in a rental dumpster?',
+        answer:
+          'Small appliances without refrigerants — toasters, microwaves, fans — are generally accepted. Refrigerators, AC units, and freezers require freon removal at a certified facility before disposal and are typically declined by roll-off providers until that step is done. Televisions and computers are accepted at some facilities and rejected at others — confirm with your specific provider before loading.',
+      },
+      {
+        question: 'What happens if I put prohibited items in the dumpster?',
+        answer:
+          'If prohibited materials are discovered at the landfill, the load may be rejected or incur a hazmat surcharge — typically $200–$500 per incident. The driver may also decline to haul a container they suspect contains banned material. Your county household hazardous waste facility handles paint, chemicals, and batteries — usually free for residents and a far better option than hoping nobody notices.',
+      },
+    ],
+    body: `
+<p>A <strong>trash dumpster rental</strong> is not a metaphor. It is a steel box you fill with the evidence that you once owned a Bowflex. The Bowflex was never used. The dumpster will be. For most home cleanouts — full-house declutters, estate clears, pre-sale purges, or the aftermath of a gut renovation — renting a trash dumpster is the fastest way to move a large volume of mixed household junk off your property. The question is not whether to rent one. It is which size, for how long, and what you can actually put in it.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">Most home cleanouts need a 10- to 20-yard container. Budget $280–$620 all-in. If the entire load fits in one pickup truck, call a junk removal service — they load it themselves and charge less for small volumes. If it does not fit in a truck, book the bin.</p>
+</div>
+
+<nav class="not-prose my-8">
+  <p class="text-sm font-semibold uppercase tracking-wide text-gray-500 mb-3">In This Guide</p>
+  <ol class="list-decimal list-inside space-y-1 text-sm text-charcoal">
+    <li><a href="#when-it-fits" class="text-orange hover:underline">When a Trash Dumpster Is the Right Tool</a></li>
+    <li><a href="#sizing" class="text-orange hover:underline">Sizing the Bin for Your Volume of Junk</a></li>
+    <li><a href="#what-goes-in" class="text-orange hover:underline">What Goes In and What Does Not</a></li>
+    <li><a href="#pricing" class="text-orange hover:underline">What the Numbers Actually Look Like</a></li>
+    <li><a href="#junk-removal-vs-dumpster" class="text-orange hover:underline">Junk Removal vs Renting the Bin Yourself</a></li>
+    <li><a href="#when-to-skip" class="text-orange hover:underline">When to Skip the Dumpster Entirely</a></li>
+    <li><a href="#faq" class="text-orange hover:underline">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="when-it-fits">When a Trash Dumpster Is the Right Tool</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/8581372/pexels-photo-8581372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Cardboard boxes labeled Keep, Donate, and Trash staged for a home decluttering project"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<p>A roll-off is the right call when your cleanout involves more material than a couple of hauls to the transfer station. That typically means at least three to four pickup truck loads of mixed junk. Below that threshold, a junk removal service — where a crew does the loading and prices by volume — almost always costs less. Above it, the bin wins on price and on the flexibility of working at your own pace.</p>
+
+<p><strong>Full-house cleanouts.</strong> A whole-home declutter — 30 years of accumulation, furniture and all — typically runs 15 to 25 cubic yards of mixed material. That is a 20-yard container on the low end and a 30-yard if the basement was the family's long-term storage solution. The basement always has more in it than anyone expects. This is not an observation. It is a law of physics.</p>
+
+<p><strong>Estate cleanouts.</strong> Families clearing a deceased relative's home are typically working fast, under deadline, and hauling mixed material: furniture, clothing, appliances, boxes, and decades of accumulated household goods. A <strong>home cleanout dumpster rental</strong> is almost always the most cost-effective approach here. Junk removal services charge per cubic yard — and estate volume is rarely small.</p>
+
+<p><strong>Pre-sale purges.</strong> Sellers clearing a home before listing need to move fast. A bin on the driveway for a week handles what would otherwise require four or five separate dump runs, two charity drop-offs, and a borrowed trailer that is, statistically speaking, already spoken for.</p>
+
+<p><strong>Post-renovation cleanup.</strong> A kitchen gut or bathroom remodel generates mixed debris — drywall, cabinets, tile, flooring. Most of that goes in a standard roll-off without restriction. If the project has significant concrete or tile, weight becomes the variable that matters more than volume. More on that in the pricing section.</p>
+
+<h2 id="sizing">Sizing the Bin for Your Volume of Junk</h2>
+
+<p>The right container size depends on what you are hauling and how dense it is. Furniture, carpet, and cardboard are light. Tile, concrete, and old flooring are dense. A 20-yard bin full of household furniture stays well under the weight limit. A 20-yard bin full of concrete will hit the weight limit at roughly 40 percent of its volume. For a <strong>residential dumpster rental near me</strong>, the 20-yard container handles the majority of full-home cleanouts. Weight matters more than volume when the material is dense — keep that in mind before booking.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Container Size</th>
+        <th class="px-4 py-3 text-left font-semibold">Holds About</th>
+        <th class="px-4 py-3 text-left font-semibold">Best Cleanout Match</th>
+        <th class="px-4 py-3 text-left font-semibold">Weight Limit</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3 font-semibold text-orange">10-yard</td>
+        <td class="px-4 py-3">~3 pickup truck loads</td>
+        <td class="px-4 py-3">Single-room or garage cleanout</td>
+        <td class="px-4 py-3">1–2 tons</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">15-yard</td>
+        <td class="px-4 py-3">~4.5 pickup truck loads</td>
+        <td class="px-4 py-3">Two- to three-room cleanouts</td>
+        <td class="px-4 py-3">1.5–2.5 tons</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3 font-semibold text-orange">20-yard</td>
+        <td class="px-4 py-3">~6 pickup truck loads</td>
+        <td class="px-4 py-3">Full-home or estate cleanout — the default choice</td>
+        <td class="px-4 py-3">2–4 tons</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">30-yard</td>
+        <td class="px-4 py-3">~9 pickup truck loads</td>
+        <td class="px-4 py-3">Large home, or cleanout combined with renovation debris</td>
+        <td class="px-4 py-3">3–5 tons</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Rule of thumb: if you are torn between a 10-yard and a 20-yard, book the 20-yard. The cost difference is $80–$120. A second haul runs $150–$350 on top of the original rental. (I have had exactly one customer tell me the project came in lighter than expected. I am still waiting for the second call.) For a deeper breakdown of containers against every common project type, the <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster sizing guide</a> walks through each size in detail.</p>
+
+<h2 id="what-goes-in">What Goes In and What Does Not</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/15828484/pexels-photo-15828484.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Garage overflowing with household clutter and boxes during a residential cleanout project"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<p>A home cleanout generates a mix of material. Most of it goes in a standard roll-off without restriction. Some of it does not — and the driver will not haul a container that contains prohibited material. Knowing the line before you load saves a difficult call on pickup day.</p>
+
+<p><strong>Goes in, no problem:</strong> Furniture, clothing, carpet, cardboard boxes, wood, drywall scraps, general household goods, small appliances without refrigerants, plastic storage bins, books, toys, yard debris.</p>
+
+<p><strong>Usually accepted, sometimes with a surcharge:</strong> Mattresses — most companies charge $15–$25 per mattress and some markets ban them from standard disposal entirely. Old televisions — accepted at some facilities, declined at others. Large appliances with refrigerants (refrigerators, AC units, freezers) require freon removal at a certified facility before the roll-off provider will accept them. Ask before loading any of these.</p>
+
+<p><strong>Not accepted in any standard roll-off:</strong> Paint cans with liquid paint remaining, motor oil, solvents, batteries, propane tanks, asbestos-containing materials, and household chemicals. Your county household hazardous waste facility handles these — usually at low or no cost for residents. The <a href="https://www.epa.gov/hw/household-hazardous-waste-hhw" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA household hazardous waste guide</a> lists what qualifies and where to find a drop-off location.</p>
+
+<p>For the full material breakdown, the <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">accepted and prohibited items guide</a> covers what goes where. Always confirm with your specific provider — landfill agreements vary by region and what one company accepts, another may not.</p>
+
+<h2 id="pricing">What the Numbers Actually Look Like</h2>
+
+<p>The most common billing surprise on a home cleanout is not the base rate — it is the weight overage. A bin full of furniture from a three-bedroom home typically weighs 1–2 tons. A bin loaded with tile, flooring, and drywall can hit 4 tons before it looks half full. Mixed cleanouts land somewhere in the middle. These are honest all-in prices for the Front Range Colorado market. Mountain or rural markets run 5–10 percent higher.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Container</th>
+        <th class="px-4 py-3 text-left font-semibold">Included Weight</th>
+        <th class="px-4 py-3 text-left font-semibold">All-In Price</th>
+        <th class="px-4 py-3 text-left font-semibold">Overage Rate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3 font-semibold text-orange">10-yard</td>
+        <td class="px-4 py-3">1–2 tons</td>
+        <td class="px-4 py-3">$280–$480</td>
+        <td class="px-4 py-3">$65–$95/ton over</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">15-yard</td>
+        <td class="px-4 py-3">1.5–2.5 tons</td>
+        <td class="px-4 py-3">$320–$540</td>
+        <td class="px-4 py-3">$65–$95/ton over</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white">
+        <td class="px-4 py-3 font-semibold text-orange">20-yard</td>
+        <td class="px-4 py-3">2–4 tons</td>
+        <td class="px-4 py-3">$380–$650</td>
+        <td class="px-4 py-3">$65–$95/ton over</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3 font-semibold text-orange">30-yard</td>
+        <td class="px-4 py-3">3–5 tons</td>
+        <td class="px-4 py-3">$450–$780</td>
+        <td class="px-4 py-3">$65–$95/ton over</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>The all-in price includes the base rate, fuel surcharge ($15–$35), and standard disposal fees. It does not include mattress surcharges or weight overages — those appear on the invoice after the haul. Get a written, itemized quote before confirming. For the full breakdown of what moves the price, the <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers every variable in detail.</p>
+
+<h2 id="junk-removal-vs-dumpster">Junk Removal vs Renting the Bin Yourself</h2>
+
+<p>Both options move junk off your property. The difference is who does the loading and how the price is structured.</p>
+
+<p><strong>Junk removal:</strong> A crew shows up, loads everything themselves, and charges by volume. Pricing typically runs $125–$650 depending on load size and market. For small loads — half a truck or less — junk removal is usually cheaper than a roll-off rental and faster: one appointment, no container sitting in the driveway for a week.</p>
+
+<p><strong>Trash dumpster rental:</strong> The container sits on your property for 7–14 days. You load it on your schedule. You pay a flat rate plus any weight overages. For large volumes, the per-yard cost is lower than junk removal because you are providing the labor.</p>
+
+<p>The crossover point is roughly 3–4 cubic yards. Below that, junk removal wins on price. Above it, a roll-off typically costs less per cubic yard. For an <strong>estate cleanout dumpster rental</strong> or a full-home purge, the roll-off is almost always the better deal on price. For a single room cleared on a Tuesday afternoon, junk removal is probably cheaper and simpler.</p>
+
+<p>Timing is the other variable. Junk removal is a single scheduled appointment. A roll-off lets you work over several days. If the cleanout involves multiple family members on different weekends, or a project that will stretch past one day, having the bin available on your schedule matters — and that does not show up in the per-yard comparison.</p>
+
+<h2 id="when-to-skip">When to Skip the Dumpster and Call Someone Else</h2>
+
+<p>A roll-off is the right tool for most home cleanouts. It is not the right tool for all of them.</p>
+
+<p><strong>Skip it if the whole job fits in two pickup truck loads.</strong> At that volume, a junk removal service charges less, does the loading themselves, and hauls it the same day. A <strong>small trash dumpster rental</strong> — a 10-yard — starts at $280 for a 7-day rental. Two truck loads of loose household junk with a junk removal crew typically runs $200–$350 all-in. The bin is not the better deal at that scale.</p>
+
+<p><strong>Skip it if most of your load is hazardous material.</strong> No roll-off provider accepts paint, solvents, oil, asbestos, or household chemicals in a standard container. If your cleanout is primarily restricted material — an old workshop with chemicals, a property with water damage — you need a specialized contractor. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA construction and demolition materials guidance</a> covers what requires separate handling versus what goes in a standard roll-off.</p>
+
+<p><strong>Skip the big dumpster if you are not sure you will fill it.</strong> A <strong>big dumpster rental</strong> — a 30-yard — for a cleanout that produces 10 yards of debris means paying for 20 yards of unused space. If scope is uncertain, book the 20-yard. If it overflows, a second haul runs $150–$350 — still less than the price difference between a 30-yard and a 20-yard in most markets. Sizing conservatively is a reasonable hedge when the volume is unknown going in.</p>
+
+<p><strong>Skip it if your HOA or city will not allow it.</strong> Some neighborhoods restrict open-top containers, and some cities require a permit for a bin placed on the public street. Confirm placement rules before booking. The <a href="/blog/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a> covers the rules by placement type. For cleanouts across Colorado, the <a href="/locations" class="text-orange hover:underline">locations guide</a> covers local permit requirements by city.</p>
+
+<h2 id="faq">Straight Answers</h2>
+
+<h3>How much does a trash dumpster rental cost for a home cleanout?</h3>
+<p>Most home cleanouts land in the $280–$650 range depending on container size. A 10-yard runs $280–$480 all-in for a 7-day rental. A 20-yard — the right size for most full-home cleanouts — runs $380–$650. Weight overages add $65–$95 per ton if your load runs heavy. Confirm the weight limit and overage rate before booking.</p>
+
+<h3>What size dumpster do I need for a full-home cleanout?</h3>
+<p>Most full-home cleanouts — furniture, clothing, appliances, household goods — land in the 15- to 20-yard range. A 20-yard container handles a three-bedroom house cleanout without issue. Step to a 30-yard if the basement or garage has been a long-term storage solution. For one or two rooms only, a 10-yard is usually enough.</p>
+
+<h3>Can I put a mattress in a rental dumpster?</h3>
+<p>Most roll-off providers accept mattresses but many charge $15–$25 per mattress. Some markets have banned standard mattress disposal — in those areas, providers either decline them or charge significantly more. Ask before loading. Do not assume they are included in the base rate.</p>
+
+<h3>How long can I keep a rental dumpster for a cleanout?</h3>
+<p>Standard rental periods run 7–10 days. Most cleanouts finish inside that window. Extensions typically cost $5–$15 per day after the base period. If the project will run two weeks, ask for a two-week flat rate at booking — it often comes in below the 7-day base rate plus daily extension fees.</p>
+
+<h3>What is the difference between junk removal and renting a dumpster yourself?</h3>
+<p>Junk removal services send a crew that loads everything themselves, pricing by volume at $125–$650 depending on load size. A dumpster rental is a container you fill on your own schedule, priced flat plus weight overages. For loads under three cubic yards, junk removal is usually cheaper. For large volumes, a roll-off costs less per cubic yard because you provide the labor.</p>
+
+<h3>Do I need a permit for a trash dumpster rental at my home?</h3>
+<p>Placement on a private driveway typically does not require a permit. Placement on a public street or sidewalk almost always does. Permit fees run $20–$150 depending on the municipality. Confirm with your city or county permit office before scheduling delivery — the rules vary more than you would expect between adjacent cities.</p>
+
+<h3>Can I put electronics or appliances in a rental dumpster?</h3>
+<p>Small appliances without refrigerants — toasters, microwaves, fans — are generally accepted. Refrigerators, AC units, and freezers require freon removal at a certified facility before disposal and are typically declined by roll-off providers until that step is done. Televisions and computers are accepted at some facilities and rejected at others — confirm with your specific provider before loading.</p>
+
+<h3>What happens if I put prohibited items in the dumpster?</h3>
+<p>If prohibited materials are discovered at the landfill, the load may be rejected or incur a hazmat surcharge — typically $200–$500 per incident. The driver may also decline to haul a container they suspect contains banned material. Your county household hazardous waste facility handles paint, chemicals, and batteries — usually free for residents and a far better option than hoping nobody notices.</p>
+
+<p>The bin arrives on a Tuesday. What happens to the stack of Reader's Digests from 1987, the Bowflex nobody will admit owning, and the saxophone in the basement that somehow survived three moves — that part is between you and the landfill. We just haul it. Give us a call.</p>
+`,
+  },
 ]

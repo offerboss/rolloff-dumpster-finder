@@ -262,7 +262,21 @@ export default function TexasLocationsPage() {
               <span className="w-[7px] h-[7px] rounded-full bg-orange shrink-0" aria-hidden="true" />
               Texas
             </div>
-            {['Wyoming', 'New Mexico'].map((state) => (
+            <Link
+              href="/locations/wyoming"
+              className="inline-flex items-center gap-2 px-[18px] py-[9px] rounded-sm text-[13px] font-semibold bg-charcoal text-white border-2 border-orange hover:opacity-90 transition-opacity"
+            >
+              <span className="w-[7px] h-[7px] rounded-full bg-orange shrink-0" aria-hidden="true" />
+              Wyoming
+            </Link>
+            <Link
+              href="/locations/oklahoma"
+              className="inline-flex items-center gap-2 px-[18px] py-[9px] rounded-sm text-[13px] font-semibold bg-charcoal text-white border-2 border-orange hover:opacity-90 transition-opacity"
+            >
+              <span className="w-[7px] h-[7px] rounded-full bg-orange shrink-0" aria-hidden="true" />
+              Oklahoma
+            </Link>
+            {['New Mexico'].map((state) => (
               <div
                 key={state}
                 className="inline-flex items-center gap-2 px-[18px] py-[9px] rounded-sm text-[13px] font-semibold bg-[#F3F2EF] text-[#9CA3AF] border-2 border-[#E5E3DE]"
