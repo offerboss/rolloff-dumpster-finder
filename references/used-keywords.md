@@ -15,6 +15,8 @@ Active primaries:
 | 2026-05-21 | dumpster rental permit | do-you-need-a-permit-for-a-dumpster-rental | roll off dumpster permit (invented), dumpster permit requirements (invented), permit for dumpster on street (invented), dumpster on public property permit (invented), how to get a dumpster permit (invented), dumpster placement rules (invented) | invented (no permit keywords in CSV) |
 | 2026-05-22 | dumpster trailer rental | dumpster-trailer-rental | roll off rental ✓ CSV, dumpster trailer rental near me ✓ CSV, roll off container rental ✓ CSV, dumpster trailer vs roll off (invented), pull behind dumpster trailer (invented) | dumpster_keywords.csv |
 | 2026-05-26 | trash dumpster rental | trash-dumpster-rental | residential dumpster rental near me ✓ CSV, big dumpster rental ✓ CSV, small trash dumpster rental ✓ CSV, home cleanout dumpster rental (invented), estate cleanout dumpster rental (invented), junk removal vs dumpster rental (invented) | dumpster_keywords.csv |
+| 2026-06-06 | same day dumpster rental | same-day-dumpster-rental | dumpster rental near me ✓ CSV, roll off dumpster rental near me ✓ CSV, dumpster rental services near me ✓ CSV, roll off rental near me ✓ CSV, emergency dumpster rental (invented), last minute dumpster rental (invented) | dumpster_keywords.csv |
+| 2026-06-06 | renting a construction dumpster near me | renting-a-construction-dumpster | construction dumpster rental near me ✓ CSV, rent construction dumpster near me ✓ CSV, construction dumpsters near me ✓ CSV, construction dumpster ✓ CSV, contractor dumpster rental (invented), job site dumpster rental (invented) | dumpster_keywords.csv |
 
 Workflow for the next post
 Open the active keyword CSV

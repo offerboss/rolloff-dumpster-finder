@@ -104,6 +104,20 @@ const resourceCards = [
       'Most home cleanouts need a 10- to 20-yard container and budget $280–$620 all-in. Here is when the bin beats junk removal on price — and when it does not.',
     href: '/blog/trash-dumpster-rental',
   },
+  {
+    badge: 'Tips',
+    title: 'Same Day Dumpster Rental: What to Know Before You Call',
+    excerpt:
+      'Same day delivery is available in most markets from local operators if you call before noon. Here is what it costs, which companies can do it, and when to skip the $50–$100 rush fee.',
+    href: '/blog/same-day-dumpster-rental',
+  },
+  {
+    badge: 'Construction',
+    title: 'Renting a Construction Dumpster: What Job Sites Actually Need',
+    excerpt:
+      'Construction debris hits weight limits faster than residential waste — concrete especially. Here is how to size, permit, and plan pulls for a job site before the truck arrives.',
+    href: '/blog/renting-a-construction-dumpster',
+  },
 ]
 
 export default function ResourcesPage() {
