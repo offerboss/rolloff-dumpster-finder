@@ -158,7 +158,7 @@ export const blogPosts: BlogPost[] = [
 
 <h3>Garage cleanout</h3>
 
-<p>A 10-yard container handles most garage cleanouts. If the garage has been accumulating since the mid-nineties and now qualifies as its own ecosystem, go to a 15. A 20-yard is rarely the right call for a residential garage unless it is a double-wide workshop with equipment that did not survive the decade.</p>
+<p>A 10-yard container handles most garage cleanouts. If the garage has been accumulating since the mid-nineties and now qualifies as its own ecosystem, go to a 15. A 20-yard is rarely the right call for a residential garage unless it is a double-wide workshop with equipment that did not survive the decade. For the full breakdown on what a 10-yard holds, what the weight limit means in practice, and when to book one over a larger container, see the <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster rental guide</a>.</p>
 
 <h3>Bathroom remodel</h3>
 
@@ -188,13 +188,13 @@ export const blogPosts: BlogPost[] = [
 
 <p>A 10 or 20-yard depending on scope. Yard waste — sod, mulch, brush, small branches — is bulky and relatively light, so volume matters more here than weight. A full yard cleanup typically fits in a 20. Single-day trimming often fits in a 10.</p>
 
-<p>Worth noting: some companies will not mix yard waste with construction debris in the same haul. Call ahead if the project combines both material types. For a full list of what is accepted and what is not, see <a href="/blog/what-can-and-cannot-go-in-a-dumpster">What Can and Cannot Go in a Roll-Off Dumpster</a>.</p>
+<p>Worth noting: some companies will not mix yard waste with construction debris in the same haul. Call ahead if the project combines both material types. For a full list of what is accepted and what is not, see <a href="/resources/what-can-and-cannot-go-in-a-dumpster">What Can and Cannot Go in a Roll-Off Dumpster</a>.</p>
 
 <h3>New construction and major renovation</h3>
 
-<p>A 30 or 40-yard. New construction generates significant volume across multiple material types throughout the project. Most contractors running a full build keep a 30 or 40 onsite. Residential renovation typically stays in the 30. Commercial construction usually runs the 40.</p>
+<p>A 30 or 40-yard. New construction generates significant volume across multiple material types throughout the project. Most contractors running a full build keep a 30 or 40 onsite. Residential renovation typically stays in the 30. Commercial construction usually runs the 40. For the full breakdown on what the 30-yard handles, how weight limits work at that size, and when it is the right call over a 20, see the <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard dumpster rental guide</a>.</p>
 
-<p>For the difference between a residential rental and a commercial job-site contract, see <a href="/blog/residential-vs-commercial-dumpster-rental">Residential vs. Commercial Dumpster Rentals: What Changes</a>.</p>
+<p>For the difference between a residential rental and a commercial job-site contract, see <a href="/resources/residential-vs-commercial-dumpster-rental">Residential vs. Commercial Dumpster Rentals: What Changes</a>.</p>
 
 <h2 id="weight-vs-volume">When Volume Is Not the Problem</h2>
 
@@ -220,7 +220,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer">EPA data on construction and demolition materials</a> puts concrete and mixed rubble as the dominant share of C&amp;D waste by weight at licensed landfills — which is precisely why roll-off companies set weight limits by debris type, not container size alone.</p>
 
-<p>For more on how overweight charges work and what they cost, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
+<p>For more on how overweight charges work and what they cost, see <a href="/resources/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>. If the 20-yard looks like the right size for your project, the <a href="/resources/20-yard-dumpster-rental">20-yard dumpster rental guide</a> covers dimensions, weight allowances, and driveway placement in detail.</p>
 
 <h2 id="placement">What to Know Before the Driver Arrives</h2>
 
@@ -247,7 +247,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Roll-off containers also cannot accept hazardous material — paint, motor oil, propane tanks, batteries — regardless of size. If that describes most of what you are clearing out, a dumpster is not the solution. The <a href="https://www.epa.gov/hw/household-hazardous-waste-hhw" target="_blank" rel="noopener noreferrer">EPA household hazardous waste guide</a> covers local disposal options by zip code.</p>
 
-<p>For extension policies and what happens when the project runs longer than expected, see <a href="/blog/how-long-can-you-keep-a-rental-dumpster">How Long Can You Keep a Rental Dumpster on Your Property</a>.</p>
+<p>For extension policies and what happens when the project runs longer than expected, see <a href="/resources/how-long-can-you-keep-a-rental-dumpster">How Long Can You Keep a Rental Dumpster on Your Property</a>.</p>
 
 <p>Pick the right size and the project moves. Pick wrong, and you will spend part of the afternoon staring at a half-empty 40-yarder or making a second-haul call with the quiet acceptance of someone who knew they should have gone one size up when they had the chance. If you are not certain before booking, give us a call — five minutes now is always cheaper than a second haul later.</p>
 `,
@@ -465,7 +465,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The pickup-truck comparison works for loose debris. It breaks down when you add dense materials — concrete and tile weigh far more than they look, and you can hit a weight limit in a half-filled container. More on weight limits in the fees section below.</p>
 
-<p>Not sure which size fits your specific project? See <a href="/blog/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a> for a full breakdown by project type.</p>
+<p>Not sure which size fits your specific project? See <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">How to Choose the Right Dumpster Size</a> for a full breakdown by project type. The 20-yard is the most commonly rented size — for a dedicated look at dimensions, weight limits, and what actually fits inside one, see the <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster rental guide</a>. For single-room remodels, garage cleanouts, and small concrete jobs where the 10-yard is the right call, the <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster rental guide</a> covers what the weight limit means in practice and when to book it. For large renovations, estate cleanouts, and commercial work where the job outgrows a 20, see the <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard dumpster rental guide</a>.</p>
 
 <h2 id="factors">Five Things That Move the Price</h2>
 
@@ -526,7 +526,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The flat-rate model is better for customers than variable pricing. With flat-rate, you know your number before the container arrives. With variable pricing, the final bill depends on how much time the driver spent and how heavy the load turned out to be. If a company cannot give you a firm price, ask why.</p>
 
-<p>For a full list of what's restricted, see <a href="/blog/what-can-and-cannot-go-in-a-dumpster">What Can and Cannot Go in a Roll-Off Dumpster</a>.</p>
+<p>For a full list of what's restricted, see <a href="/resources/what-can-and-cannot-go-in-a-dumpster">What Can and Cannot Go in a Roll-Off Dumpster</a>.</p>
 
 <h2 id="hidden-fees">The Fees Nobody Warns You About</h2>
 
@@ -634,7 +634,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you are on the border between two sizes, go up one — not two. One size step costs $50–$100 more per week. One overweight charge can cost that much per extra ton. The math favours going up one size when you're not certain.</p>
 
-<p>For a detailed comparison of how residential and commercial rentals differ, see <a href="/blog/residential-vs-commercial-dumpster-rental">Residential vs. Commercial Dumpster Rentals: What Changes</a>.</p>
+<p>For a detailed comparison of how residential and commercial rentals differ, see <a href="/resources/residential-vs-commercial-dumpster-rental">Residential vs. Commercial Dumpster Rentals: What Changes</a>.</p>
 
 <h2 id="rental-periods">Daily, Weekly, and Monthly Rates</h2>
 
@@ -879,7 +879,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Asphalt shingles, roofing felt, metal flashing, fascia boards, and wood decking are all accepted. Roofing debris is where the weight conversation becomes critical. A standard residential roof generates 3–5 tons of shingles. The weight limit on a 20-yard container is typically 2–4 tons. Do the math before you load, not after the truck pulls away.</p>
 
-<p>If your roof has multiple layers of old shingles, or is a larger-than-average structure, tell the provider before booking. They can adjust the weight allowance or recommend a roofing-specific container. For the full roofing breakdown, see <a href="/blog/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a>.</p>
+<p>If your roof has multiple layers of old shingles, or is a larger-than-average structure, tell the provider before booking. They can adjust the weight allowance or recommend a roofing-specific container. For the full roofing breakdown, see <a href="/resources/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a>.</p>
 
 <h3>Yard waste and landscaping debris</h3>
 
@@ -909,7 +909,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Most companies offer dedicated heavy-debris containers with higher weight allowances for concrete-heavy projects — patio demolition, driveway removal, retaining wall teardowns. These are priced differently than standard containers. If more than a quarter of your load is concrete, brick, or soil, ask about heavy-debris pricing before booking a standard roll-off.</p>
 
-<p>The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer">EPA's construction and demolition materials data</a> puts concrete as the single largest component of C&amp;D waste by weight at licensed facilities — which is exactly why roll-off companies price heavy debris separately. For a full breakdown of how weight limits and overweight fees work, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
+<p>The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer">EPA's construction and demolition materials data</a> puts concrete as the single largest component of C&amp;D waste by weight at licensed facilities — which is exactly why roll-off companies price heavy debris separately. For a full breakdown of how weight limits and overweight fees work, see <a href="/resources/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
 
 <h2 id="prohibited-items">What Cannot Go In, Ever</h2>
 
@@ -1164,7 +1164,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you are unsure how many layers are on the deck, have the contractor check the eave edge before the container is ordered. You can often see the layers stacked there. (I have had this conversation approximately two hundred times. The answer is always the same: check the eave edge, count the layers, then call the dumpster company.)</p>
 
-<p>For a full breakdown of container sizing across all project types, see <a href="/blog/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a>.</p>
+<p>For a full breakdown of container sizing across all project types, see <a href="/resources/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a>.</p>
 
 <h2 id="cost">What a Roofing Dumpster Rental Costs</h2>
 
@@ -1209,7 +1209,7 @@ export const blogPosts: BlogPost[] = [
   </table>
 </div>
 
-<p>Some companies add a shingle surcharge of $20–$80 on top of the base rate. Others roll it into the flat price. That question takes 30 seconds at booking and changes whether the quote matches the invoice. For the full breakdown of what moves the number on any roll-off rental, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
+<p>Some companies add a shingle surcharge of $20–$80 on top of the base rate. Others roll it into the flat price. That question takes 30 seconds at booking and changes whether the quote matches the invoice. For the full breakdown of what moves the number on any roll-off rental, see <a href="/resources/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
 
 <h2 id="accepted-materials">What Goes In and What Stays Off the Roof</h2>
 
@@ -1229,7 +1229,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Also not in the bin: paint cans, solvents, or attic chemicals that come down with the demo. Hazardous materials are prohibited in every standard roll-off. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer">EPA's construction and demolition data</a> puts roofing material as one of the largest categories of C&amp;D waste by volume — the vast majority goes in standard containers without issue. The exception is anything with a hazardous classification, and that exception has a real price tag attached to it.</p>
 
-<p>For the complete accepted and prohibited materials breakdown, see <a href="/blog/what-can-you-put-in-a-roll-off-dumpster">What Can You Put in a Roll-Off Dumpster</a>.</p>
+<p>For the complete accepted and prohibited materials breakdown, see <a href="/resources/what-can-you-put-in-a-roll-off-dumpster">What Can You Put in a Roll-Off Dumpster</a>.</p>
 
 <h2 id="placement">How Delivery and Placement Work on a Roofing Job</h2>
 
@@ -1376,7 +1376,7 @@ export const blogPosts: BlogPost[] = [
 <ul class="my-4 space-y-2 pl-5 list-disc text-charcoal">
   <li><strong>Fuel surcharge:</strong> $15–$35, sometimes labeled "environmental fee." Sometimes both exist on the same invoice under different names.</li>
   <li><strong>Disposal or tipping fee:</strong> $10–$30. Covers what the landfill charges to accept the load. A real cost, but rarely built into the advertised rate.</li>
-  <li><strong>Weight overage:</strong> $65–$95 per ton over the included limit. This is the one that stings. A full load of shingles or concrete hits the weight limit at roughly half the bin's volume. (If you're hauling roofing debris, read <a href="/blog/roofing-dumpster-rental" class="text-orange hover:underline">the roofing dumpster rental guide</a> first — it covers exactly how fast shingle weight adds up.)</li>
+  <li><strong>Weight overage:</strong> $65–$95 per ton over the included limit. This is the one that stings. A full load of shingles or concrete hits the weight limit at roughly half the bin's volume. (If you're hauling roofing debris, read <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">the roofing dumpster rental guide</a> first — it covers exactly how fast shingle weight adds up.)</li>
   <li><strong>Extended rental fee:</strong> $5–$15 per day past the included period, which is usually 7–10 days. Projects run long. Budget a few extra days from the start.</li>
   <li><strong>Permit pass-through:</strong> Some companies pull the street placement permit for you and add it to the invoice. Others leave it to you. Either way it is a cost — just a question of who handles the paperwork.</li>
 </ul>
@@ -1400,11 +1400,11 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>1. All-in price.</strong> Ask what the full invoice looks like for your project. Not the base rate, not "starting at." Total. Written. If the company resists putting it on paper, the number on paper would likely explain why.</p>
 
-<p><strong>2. Weight allowance.</strong> Every container has one. A 20-yard typically includes 2–4 tons depending on the provider and market. If you're hauling shingles, concrete, or dirt, you will hit that limit before the bin looks full. Ask the specific number, then assume your load will run 15–20 percent heavier than your estimate. Nobody has ever called me to say the project came in lighter than expected. They've called. Just not with that particular update. For a full picture of how overages affect the final bill, the <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers the variables in detail.</p>
+<p><strong>2. Weight allowance.</strong> Every container has one. A 20-yard typically includes 2–4 tons depending on the provider and market. If you're hauling shingles, concrete, or dirt, you will hit that limit before the bin looks full. Ask the specific number, then assume your load will run 15–20 percent heavier than your estimate. Nobody has ever called me to say the project came in lighter than expected. They've called. Just not with that particular update. For a full picture of how overages affect the final bill, the <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers the variables in detail.</p>
 
 <p><strong>3. Rental period and extension cost.</strong> Standard is 7–10 days. Ask what happens on day 11. Some companies charge $5/day, some $15/day, some swap the container and start a new rental period. Know the policy before your project runs long.</p>
 
-<p><strong>4. Accepted materials.</strong> Not every company takes the same things. Concrete, dirt, and clean fill are commonly priced separately or restricted outright. Electronics, appliances, and tires vary by provider. If you're unsure what can go in the bin, the <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">accepted and prohibited items guide</a> covers the standard rules — but always confirm with your specific provider, because local landfill agreements vary. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's construction and demolition materials guidance</a> is useful context for larger commercial jobs where restricted material categories matter.</p>
+<p><strong>4. Accepted materials.</strong> Not every company takes the same things. Concrete, dirt, and clean fill are commonly priced separately or restricted outright. Electronics, appliances, and tires vary by provider. If you're unsure what can go in the bin, the <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">accepted and prohibited items guide</a> covers the standard rules — but always confirm with your specific provider, because local landfill agreements vary. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's construction and demolition materials guidance</a> is useful context for larger commercial jobs where restricted material categories matter.</p>
 
 <p><strong>5. Delivery and pickup flexibility.</strong> Can they do next-day delivery? What is the pickup window? Does the driver call ahead? These sound like logistics details until your contractor is standing on an empty driveway at 8 a.m. and the bin is still there from last week.</p>
 
@@ -1431,7 +1431,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2 id="pricing-table">What the Numbers Actually Look Like</h2>
 
-<p>Here is a realistic look at all-in pricing for standard roll-off rentals in the Front Range Colorado market. Mountain and rural markets run 5–10 percent higher. National providers vary — sometimes lower in dense markets, sometimes higher where inventory is thin. Before comparing prices, match the container to the job first: the <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster sizing guide</a> walks through every standard container against every common project type.</p>
+<p>Here is a realistic look at all-in pricing for standard roll-off rentals in the Front Range Colorado market. Mountain and rural markets run 5–10 percent higher. National providers vary — sometimes lower in dense markets, sometimes higher where inventory is thin. Before comparing prices, match the container to the job first: the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster sizing guide</a> walks through every standard container against every common project type.</p>
 
 <div class="not-prose my-6 overflow-x-auto">
   <table class="w-full text-sm border-collapse">
@@ -1660,7 +1660,7 @@ export const blogPosts: BlogPost[] = [
   </table>
 </div>
 
-<p>Weight is the variable most commercial operators underestimate. A contractor gutting a commercial kitchen generates tile, concrete, and old equipment — all dense. A 20-yard container that looks half-full may already be at its weight limit. For any job involving concrete floors, tile, or structural demolition, confirm the weight limit and the overage rate before the first load goes in. For a full sizing breakdown, the <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">roll off dumpster sizes guide</a> matches every standard container to common project types.</p>
+<p>Weight is the variable most commercial operators underestimate. A contractor gutting a commercial kitchen generates tile, concrete, and old equipment — all dense. A 20-yard container that looks half-full may already be at its weight limit. For any job involving concrete floors, tile, or structural demolition, confirm the weight limit and the overage rate before the first load goes in. For a full sizing breakdown, the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">roll off dumpster sizes guide</a> matches every standard container to common project types.</p>
 
 <h2 id="pricing">What the Numbers Look Like</h2>
 
@@ -1701,7 +1701,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Standard rental periods run 7–10 days for residential jobs. Commercial projects often run longer. Extended rental fees are typically $5–$15 per day past the included period. If the project timeline is more than two weeks, negotiate a longer rental period upfront — the per-day extension rate is almost always higher than what a longer base period costs at booking. (I have seen more than a few commercial project managers figure this out on day 12. The lesson tends to stick.)</p>
 
-<p>Same-day delivery carries a premium of $50–$100 above standard scheduling on most commercial containers. For planned projects with a known start date, booking two or three days ahead typically gets better availability and a better rate. For a full breakdown of every line item between the quote and the invoice, the <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers the variables in detail.</p>
+<p>Same-day delivery carries a premium of $50–$100 above standard scheduling on most commercial containers. For planned projects with a known start date, booking two or three days ahead typically gets better availability and a better rate. For a full breakdown of every line item between the quote and the invoice, the <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers the variables in detail.</p>
 
 <h2 id="accepted-materials">What Goes in a Commercial Container</h2>
 
@@ -1727,7 +1727,7 @@ export const blogPosts: BlogPost[] = [
   <li><strong>Concrete and tile</strong> — accepted, but dense. A commercial floor demo can push weight limits before the container looks anything close to full. For concrete-heavy jobs, ask about a heavy-debris container rather than a standard roll-off.</li>
 </ul>
 
-<p>What never goes in a commercial container is the same list as residential: paint, motor oil, solvents, batteries, propane tanks, tires, appliances with refrigerants, asbestos-containing materials, and hazardous waste. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's construction and demolition materials guidance</a> covers how restricted commercial waste categories are handled at licensed facilities. For the complete accepted and prohibited breakdown, see <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">what can you put in a roll-off dumpster</a>.</p>
+<p>What never goes in a commercial container is the same list as residential: paint, motor oil, solvents, batteries, propane tanks, tires, appliances with refrigerants, asbestos-containing materials, and hazardous waste. The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's construction and demolition materials guidance</a> covers how restricted commercial waste categories are handled at licensed facilities. For the complete accepted and prohibited breakdown, see <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">what can you put in a roll-off dumpster</a>.</p>
 
 <h2 id="when-to-skip">When the Roll-Off Is the Wrong Tool</h2>
 
@@ -1752,7 +1752,7 @@ export const blogPosts: BlogPost[] = [
   <li><strong>What is the cancellation and rescheduling policy?</strong> Commercial project timelines shift. Same-day cancellations typically carry a $50–$75 fee. Confirm the policy before the container is on the schedule.</li>
 </ol>
 
-<p>For more on what to compare between roll-off providers before committing, the <a href="/blog/how-to-choose-a-dumpster-rental-company" class="text-orange hover:underline">dumpster rental company guide</a> covers what to evaluate and what to walk away from. For local pricing and provider availability by city, the <a href="/locations" class="text-orange hover:underline">location guides</a> cover markets across Colorado and Arizona.</p>
+<p>For more on what to compare between roll-off providers before committing, the <a href="/resources/how-to-choose-a-dumpster-rental-company" class="text-orange hover:underline">dumpster rental company guide</a> covers what to evaluate and what to walk away from. For local pricing and provider availability by city, the <a href="/locations" class="text-orange hover:underline">location guides</a> cover markets across Colorado and Arizona.</p>
 
 <h2 id="faq">Straight Answers</h2>
 
@@ -1876,7 +1876,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2 id="price-by-size">Size vs. Price: What You Can Expect to Pay</h2>
 
-<p>These are honest numbers from residential markets. Mountain and rural areas run 10–20% higher due to haul distance. Dense urban markets in Colorado and Arizona tend to stay in the middle of these ranges. For the full breakdown of what drives these numbers, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
+<p>These are honest numbers from residential markets. Mountain and rural areas run 10–20% higher due to haul distance. Dense urban markets in Colorado and Arizona tend to stay in the middle of these ranges. For the full breakdown of what drives these numbers, see <a href="/resources/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
 
 <div class="not-prose my-6 overflow-x-auto">
   <table class="w-full text-sm border-collapse">
@@ -1960,7 +1960,7 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>Is the fuel surcharge included in the base rate?</strong> Some companies add it on the invoice rather than the quote. A $30–$50 fuel surcharge is standard, but it should appear on the quote, not as a surprise three days after pickup. Ask upfront.</p>
 
-<p><strong>What is the extension rate if the project runs long?</strong> Standard rentals are 7–10 days. Daily extension rates run $5–$15. Calling before your rental period ends avoids a rescheduling fee, typically $75–$150 — considerably more than the daily extension rate. For the full pre-booking checklist, the <a href="/blog/5-things-to-ask-before-booking">5 things to ask before booking a dumpster rental</a> covers the rest of the questions worth having.</p>
+<p><strong>What is the extension rate if the project runs long?</strong> Standard rentals are 7–10 days. Daily extension rates run $5–$15. Calling before your rental period ends avoids a rescheduling fee, typically $75–$150 — considerably more than the daily extension rate. For the full pre-booking checklist, the <a href="/resources/5-things-to-ask-before-booking">5 things to ask before booking a dumpster rental</a> covers the rest of the questions worth having.</p>
 
 <h2 id="quote-vs-bill">The Difference Between a Low Quote and a Low Bill</h2>
 
@@ -1970,7 +1970,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>A flat-rate rental that includes delivery, the rental period, pickup, and disposal up to the weight limit is the cleanest structure. Get the weight limit and the overage rate confirmed before the driver arrives. After the haul, the numbers are fixed. (This is the part where I mention that tracking these invoices for over twenty years has given me what my family diplomatically calls a strong opinion on this topic. They are not wrong.)</p>
 
-<p>For local provider availability in your market, the <a href="/locations">location guides by city</a> cover what to expect across Colorado and Arizona. For help choosing the right container, see <a href="/blog/how-to-choose-the-right-dumpster-size">How to Choose the Right Roll-Off Dumpster Size</a>. For the full list of what is accepted and what carries a surcharge, <a href="/blog/what-can-you-put-in-a-roll-off-dumpster">What Can You Put in a Roll-Off Dumpster</a> covers the complete breakdown.</p>
+<p>For local provider availability in your market, the <a href="/locations">location guides by city</a> cover what to expect across Colorado and Arizona. For help choosing the right container, see <a href="/resources/how-to-choose-the-right-dumpster-size">How to Choose the Right Roll-Off Dumpster Size</a>. For the full list of what is accepted and what carries a surcharge, <a href="/resources/what-can-you-put-in-a-roll-off-dumpster">What Can You Put in a Roll-Off Dumpster</a> covers the complete breakdown.</p>
 
 <p>The bin does not know what you paid for it. The scale at the landfill, on the other hand, has been paying very close attention the entire time — and it has never once cared that the container looked half empty. Get the weight limit before you load. Give us a call if you want to run the numbers first.</p>
 
@@ -2130,13 +2130,13 @@ export const blogPosts: BlogPost[] = [
   <li><strong>Post the permit on the container.</strong> Some cities require the permit to be visible on the bin during placement. Check the fine print on your approval.</li>
 </ol>
 
-<p>Many rental companies will pull the permit for you — or at least walk you through what to file. Companies that operate across a city know the local process and can often pull approvals faster than a homeowner calling in. I cover what to look for when <a href="/blog/how-to-choose-a-dumpster-rental-company" class="text-orange hover:underline">choosing a dumpster rental company</a> in a separate guide, and permit handling is worth asking about before you book.</p>
+<p>Many rental companies will pull the permit for you — or at least walk you through what to file. Companies that operate across a city know the local process and can often pull approvals faster than a homeowner calling in. I cover what to look for when <a href="/resources/how-to-choose-a-dumpster-rental-company" class="text-orange hover:underline">choosing a dumpster rental company</a> in a separate guide, and permit handling is worth asking about before you book.</p>
 
 <p>Timeline to plan for: most permits process in one to three business days. Some cities offer same-day online approval. A few slower municipalities take up to a week. Build permit time into your project schedule before you lock in the delivery window.</p>
 
 <h2 id="what-permits-cost">What a Dumpster Placement Permit Costs</h2>
 
-<p>The permit is a small fraction of total rental cost. The container itself runs <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">$250–$750 for a standard residential haul</a> depending on size and market. The permit adds $25–$150 on top of that, depending on the city and how long the container stays in the right-of-way.</p>
+<p>The permit is a small fraction of total rental cost. The container itself runs <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">$250–$750 for a standard residential haul</a> depending on size and market. The permit adds $25–$150 on top of that, depending on the city and how long the container stays in the right-of-way.</p>
 
 <div class="not-prose my-6 overflow-x-auto">
   <table class="w-full text-sm border-collapse">
@@ -2215,7 +2215,7 @@ export const blogPosts: BlogPost[] = [
   <li>Delivery and pickup restricted to certain hours</li>
 </ul>
 
-<p>Check your CC&Rs before booking. If you are unsure what is allowed, email the HOA board a week before your project. Most are reasonable — they just want advance notice, not a 20-yard bin appearing in the cul-de-sac without warning. Choosing the <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">right dumpster size</a> matters here too, since some HOAs have explicit size caps.</p>
+<p>Check your CC&Rs before booking. If you are unsure what is allowed, email the HOA board a week before your project. Most are reasonable — they just want advance notice, not a 20-yard bin appearing in the cul-de-sac without warning. Choosing the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">right dumpster size</a> matters here too, since some HOAs have explicit size caps.</p>
 
 <p>The good news: driveway placement in an HOA community rarely triggers a city permit requirement. The container is on private property. HOA rules still apply, but the city is not involved.</p>
 
@@ -2453,7 +2453,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The list of jobs where you should not use a dumpster trailer is longer than the list where you should. Here is where the trailer fails.</p>
 
-<p><strong>Roofing tear-offs.</strong> Shingles run 230–250 lbs per square (100 sq ft of roof surface). A 2,000-square-foot ranch house generates 3,500–5,000 lbs of debris in one tear-off layer — already past the trailer limit before the second pass. You need a <a href="/blog/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster sized for the weight</a>, not just the volume.</p>
+<p><strong>Roofing tear-offs.</strong> Shingles run 230–250 lbs per square (100 sq ft of roof surface). A 2,000-square-foot ranch house generates 3,500–5,000 lbs of debris in one tear-off layer — already past the trailer limit before the second pass. You need a <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster sized for the weight</a>, not just the volume.</p>
 
 <p><strong>Concrete, dirt, or masonry.</strong> A cubic yard of concrete weighs around 4,000 lbs. A cubic yard of compacted soil runs 2,700 lbs. Either one exceeds the trailer's weight limit before you have moved a meaningful volume of material. Rent a roll-off and do not look back.</p>
 
@@ -2461,7 +2461,7 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>Projects running more than two weeks.</strong> Roll-off providers offer weekly extension rates that compete on price once you are past the first week. Trailers parked long-term also tend to create HOA and neighbor friction that a roll-off sitting cleanly on the driveway edge avoids.</p>
 
-<p>Not sure which size roll-off you would actually need? The <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster sizing guide</a> breaks it down by project type with actual yardage targets — it covers the same jobs that routinely push renters out of trailer range.</p>
+<p>Not sure which size roll-off you would actually need? The <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster sizing guide</a> breaks it down by project type with actual yardage targets — it covers the same jobs that routinely push renters out of trailer range.</p>
 
 <h2 id="pricing-comparison">What Each Option Costs</h2>
 
@@ -2508,7 +2508,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Weight overage fees are where the trailer's price advantage disappears. Most providers charge $50–$75 per ton over the limit. One ton of overage closes half the gap between trailer and roll-off pricing. Two tons and the trailer costs the same or more. Load light debris only — and I mean that literally, not as a suggestion.</p>
 
-<p>For a complete breakdown of what moves the number on any rental, the <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers every variable worth knowing before you book. The <a href="/blog/cheap-dumpster-rental" class="text-orange hover:underline">cheap dumpster rental guide</a> also covers the six levers that actually move the price before the quote becomes the invoice.</p>
+<p>For a complete breakdown of what moves the number on any rental, the <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers every variable worth knowing before you book. The <a href="/resources/cheap-dumpster-rental" class="text-orange hover:underline">cheap dumpster rental guide</a> also covers the six levers that actually move the price before the quote becomes the invoice.</p>
 
 <figure class="my-8">
   <img
@@ -2537,7 +2537,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The <a href="https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/advancing-sustainable-materials-management" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's sustainable materials management data</a> shows that construction and demolition debris accounts for more than twice the weight of municipal solid waste per unit of volume. That density gap is exactly why a container rated for household junk cannot handle a construction teardown, even when the debris appears to fit by volume alone.</p>
 
-<p>If you are unsure what your specific load weighs, the <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">guide to what goes in a roll-off</a> covers common materials by weight class and what gets flagged at the landfill. <a href="https://www.osha.gov/waste-management" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">OSHA's waste handling standards</a> also apply to any jobsite where debris is being removed — worth reviewing if this is a commercial project.</p>
+<p>If you are unsure what your specific load weighs, the <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">guide to what goes in a roll-off</a> covers common materials by weight class and what gets flagged at the landfill. <a href="https://www.osha.gov/waste-management" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">OSHA's waste handling standards</a> also apply to any jobsite where debris is being removed — worth reviewing if this is a commercial project.</p>
 
 <p>Use a trailer for light loads. Use a roll-off for anything with density. Mixing those two up is how you spend $150 on the wrong container and then $200 more in overage fees to make the problem go away. I have seen enough invoices to know the pattern is common.</p>
 
@@ -2550,10 +2550,10 @@ export const blogPosts: BlogPost[] = [
 <p>Most providers offer 10 to 14 cubic yard trailers. That is the standard range for the product type. If you need larger than 14 yards, you are looking at a roll-off — trailers do not scale up the way roll-offs do.</p>
 
 <h3>Can I put roofing shingles in a dumpster trailer?</h3>
-<p>Not practically, no. Shingles run 230–250 lbs per square of roof surface. A modest 1,500-square-foot roof generates 3,500–5,000 lbs of tear-off debris — more than double the trailer's weight limit. You need a roll-off rated for roofing weight, not a trailer. The full breakdown is in the <a href="/blog/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster guide</a>.</p>
+<p>Not practically, no. Shingles run 230–250 lbs per square of roof surface. A modest 1,500-square-foot roof generates 3,500–5,000 lbs of tear-off debris — more than double the trailer's weight limit. You need a roll-off rated for roofing weight, not a trailer. The full breakdown is in the <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster guide</a>.</p>
 
 <h3>Do I need a permit for a dumpster trailer rental?</h3>
-<p>For private property placement, usually no. For street or sidewalk placement, most cities require a right-of-way permit regardless of container type. The full breakdown of when permits apply — and how to get one — is in the <a href="/blog/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a>.</p>
+<p>For private property placement, usually no. For street or sidewalk placement, most cities require a right-of-way permit regardless of container type. The full breakdown of when permits apply — and how to get one — is in the <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a>.</p>
 
 <h3>Is a roll-off container rental cheaper than a dumpster trailer?</h3>
 <p>No — roll-offs are generally more expensive per week. The trailer is the cheaper option for light loads. The equation flips when you factor in weight overage fees on the trailer, or when the job requires more than 14 yards and you have no choice but to go roll-off.</p>
@@ -2562,7 +2562,7 @@ export const blogPosts: BlogPost[] = [
 <p>Standard rental terms run 7 days at most providers. Some offer shorter 3-day or 5-day windows. Extensions are available but add to the weekly cost. If the project runs longer than two weeks, a roll-off on a weekly extension rate often becomes more economical than keeping the trailer on site.</p>
 
 <h3>What can I not put in a dumpster trailer?</h3>
-<p>The prohibited list is the same as any container: no hazardous materials, no liquids, no tires, no batteries, no paint, no electronics. Heavy materials like concrete, dirt, and asphalt are not prohibited — they are just impractical because you will hit the weight limit long before you fill any meaningful volume. The <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">full prohibited items guide</a> covers what gets rejected at the landfill.</p>
+<p>The prohibited list is the same as any container: no hazardous materials, no liquids, no tires, no batteries, no paint, no electronics. Heavy materials like concrete, dirt, and asphalt are not prohibited — they are just impractical because you will hit the weight limit long before you fill any meaningful volume. The <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">full prohibited items guide</a> covers what gets rejected at the landfill.</p>
 
 <h3>What is the weight limit on a dumpster trailer?</h3>
 <p>Most dumpster trailers are rated for around 2,000 lbs. That limit is firm — the trailer frame, the tow vehicle rating, and DOT road weight standards all enforce it. Exceed it and you are looking at overage fees, a driver who will not pull an overloaded container, or both.</p>
@@ -2782,7 +2782,7 @@ export const blogPosts: BlogPost[] = [
   </table>
 </div>
 
-<p>Rule of thumb: if you are torn between a 10-yard and a 20-yard, book the 20-yard. The cost difference is $80–$120. A second haul runs $150–$350 on top of the original rental. (I have had exactly one customer tell me the project came in lighter than expected. I am still waiting for the second call.) For a deeper breakdown of containers against every common project type, the <a href="/blog/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster sizing guide</a> walks through each size in detail.</p>
+<p>Rule of thumb: if you are torn between a 10-yard and a 20-yard, book the 20-yard. The cost difference is $80–$120. A second haul runs $150–$350 on top of the original rental. (I have had exactly one customer tell me the project came in lighter than expected. I am still waiting for the second call.) For a deeper breakdown of containers against every common project type, the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster sizing guide</a> walks through each size in detail.</p>
 
 <h2 id="what-goes-in">What Goes In and What Does Not</h2>
 
@@ -2805,7 +2805,7 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>Not accepted in any standard roll-off:</strong> Paint cans with liquid paint remaining, motor oil, solvents, batteries, propane tanks, asbestos-containing materials, and household chemicals. Your county household hazardous waste facility handles these — usually at low or no cost for residents. The <a href="https://www.epa.gov/hw/household-hazardous-waste-hhw" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA household hazardous waste guide</a> lists what qualifies and where to find a drop-off location.</p>
 
-<p>For the full material breakdown, the <a href="/blog/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">accepted and prohibited items guide</a> covers what goes where. Always confirm with your specific provider — landfill agreements vary by region and what one company accepts, another may not.</p>
+<p>For the full material breakdown, the <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">accepted and prohibited items guide</a> covers what goes where. Always confirm with your specific provider — landfill agreements vary by region and what one company accepts, another may not.</p>
 
 <h2 id="pricing">What the Numbers Actually Look Like</h2>
 
@@ -2850,7 +2850,7 @@ export const blogPosts: BlogPost[] = [
   </table>
 </div>
 
-<p>The all-in price includes the base rate, fuel surcharge ($15–$35), and standard disposal fees. It does not include mattress surcharges or weight overages — those appear on the invoice after the haul. Get a written, itemized quote before confirming. For the full breakdown of what moves the price, the <a href="/blog/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers every variable in detail.</p>
+<p>The all-in price includes the base rate, fuel surcharge ($15–$35), and standard disposal fees. It does not include mattress surcharges or weight overages — those appear on the invoice after the haul. Get a written, itemized quote before confirming. For the full breakdown of what moves the price, the <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a> covers every variable in detail.</p>
 
 <h2 id="junk-removal-vs-dumpster">Junk Removal vs Renting the Bin Yourself</h2>
 
@@ -2874,7 +2874,7 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>Skip the big dumpster if you are not sure you will fill it.</strong> A <strong>big dumpster rental</strong> — a 30-yard — for a cleanout that produces 10 yards of debris means paying for 20 yards of unused space. If scope is uncertain, book the 20-yard. If it overflows, a second haul runs $150–$350 — still less than the price difference between a 30-yard and a 20-yard in most markets. Sizing conservatively is a reasonable hedge when the volume is unknown going in.</p>
 
-<p><strong>Skip it if your HOA or city will not allow it.</strong> Some neighborhoods restrict open-top containers, and some cities require a permit for a bin placed on the public street. Confirm placement rules before booking. The <a href="/blog/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a> covers the rules by placement type. For cleanouts across Colorado, the <a href="/locations" class="text-orange hover:underline">locations guide</a> covers local permit requirements by city.</p>
+<p><strong>Skip it if your HOA or city will not allow it.</strong> Some neighborhoods restrict open-top containers, and some cities require a permit for a bin placed on the public street. Confirm placement rules before booking. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a> covers the rules by placement type. For cleanouts across Colorado, the <a href="/locations" class="text-orange hover:underline">locations guide</a> covers local permit requirements by city.</p>
 
 <h2 id="faq">Straight Answers</h2>
 
@@ -2986,7 +2986,7 @@ export const blogPosts: BlogPost[] = [
 
 <ul>
   <li><strong>Address and access details</strong> — low overhead wires, narrow driveway, locked gate? Say it now, not when the driver calls from your street wondering why the truck will not fit.</li>
-  <li><strong>Container size</strong> — 10, 15, or 20-yard covers most residential same day requests. If you are not sure, describe the project and let the dispatcher size it. <a href="/blog/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a> takes about five minutes to read if you have the time before calling.</li>
+  <li><strong>Container size</strong> — 10, 15, or 20-yard covers most residential same day requests. If you are not sure, describe the project and let the dispatcher size it. <a href="/resources/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a> takes about five minutes to read if you have the time before calling.</li>
   <li><strong>What you are loading</strong> — general household junk, roofing debris, or concrete? Weight matters. Dense material affects which container the company can send.</li>
   <li><strong>Your time window</strong> — "before noon" and "any time today" get you different slots. The more specific you are, the better the dispatcher can help.</li>
 </ul>
@@ -3038,7 +3038,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Not every company charges an explicit rush surcharge. Some just say no if capacity is gone. If same day is available at the standard rate, that is not unusual — local operators often build flexibility into their pricing rather than adding a separate line item. If any company quotes a rush premium above $150, compare at least one more quote before confirming.</p>
 
-<p>For standard pricing benchmarks by container size and project type, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>. For ways to reduce the total before booking, see <a href="/blog/cheap-dumpster-rental">Cheap Dumpster Rental: What Actually Moves the Price</a>.</p>
+<p>For standard pricing benchmarks by container size and project type, see <a href="/resources/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>. For ways to reduce the total before booking, see <a href="/resources/cheap-dumpster-rental">Cheap Dumpster Rental: What Actually Moves the Price</a>.</p>
 
 <h2 id="skip-rush-fee">Skip the Rush Fee If You Have 24 Hours</h2>
 
@@ -3101,7 +3101,7 @@ export const blogPosts: BlogPost[] = [
 <p>Same day means delivery on the calendar day you call. If a company says "first thing tomorrow," that is next-day service. Confirm the expected delivery window when booking so there is no ambiguity later.</p>
 
 <h3>Can I get a same day dumpster rental for a roofing job?</h3>
-<p>Yes, but confirm the weight limit before committing. A residential roof tear-off generates 3–5 tons of shingles. If the container's limit is 2 tons and the load runs heavier, you pay an overweight surcharge on top of the rush premium. For the full roofing breakdown, see <a href="/blog/roofing-dumpster-rental">Dumpster Rental Tips for Roofing Projects</a>.</p>
+<p>Yes, but confirm the weight limit before committing. A residential roof tear-off generates 3–5 tons of shingles. If the container's limit is 2 tons and the load runs heavier, you pay an overweight surcharge on top of the rush premium. For the full roofing breakdown, see <a href="/resources/roofing-dumpster-rental">Dumpster Rental Tips for Roofing Projects</a>.</p>
 
 <h3>What if the company says no to same day — what do I do?</h3>
 <p>Ask two questions: what is the earliest available slot, and can they confirm a first-thing-tomorrow delivery if you book now. Most companies that cannot do same day can get a container to you by early the next morning. If that also fails, try two or three local operators before giving up on the timeline.</p>
@@ -3284,7 +3284,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Most contractors on a full residential new build use a 30 or 40-yard container for framing and drywall phases, and a smaller container with a higher weight allowance for masonry and foundation work. This is not the cheapest option per container. It is the cheapest option when you price out the alternative — overweight fees on a 30-yard loaded with concrete are not gentle on the project budget.</p>
 
-<p>For a full breakdown of container dimensions and what each size holds, see <a href="/blog/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a>.</p>
+<p>For a full breakdown of container dimensions and what each size holds, see <a href="/resources/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a>.</p>
 
 <h2 id="permits-access">Permits and Access Are More Complex Than a Driveway Placement</h2>
 
@@ -3311,7 +3311,7 @@ export const blogPosts: BlogPost[] = [
   <li>Confirm the surface is stable enough for a loaded container; soft soil and mud can shift under weight</li>
 </ul>
 
-<p>For the full permit breakdown by placement type, see <a href="/blog/do-you-need-a-permit-for-a-dumpster-rental">Do You Need a Permit for a Dumpster Rental</a>. For job sites with active crews, <a href="https://www.osha.gov/construction" target="_blank" rel="noopener noreferrer">OSHA's construction standards</a> cover waste container placement requirements that apply regardless of what the local permit office says.</p>
+<p>For the full permit breakdown by placement type, see <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental">Do You Need a Permit for a Dumpster Rental</a>. For job sites with active crews, <a href="https://www.osha.gov/construction" target="_blank" rel="noopener noreferrer">OSHA's construction standards</a> cover waste container placement requirements that apply regardless of what the local permit office says.</p>
 
 <h2 id="multiple-pulls">Multiple Pulls or One Big Container: How to Think About It</h2>
 
@@ -3344,7 +3344,7 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>Consider a front-load dumpster for long commercial projects.</strong> For job sites running six months or more with consistent weekly waste output, a front-load dumpster on a scheduled service contract often costs less per ton than repeated roll-off pulls. Roll-offs are best for burst debris — heavy during demo and framing phases, lighter during finishing. Steady, ongoing waste from a long commercial site sometimes fits front-load service better. Ask the company to quote both options if the timeline is long.</p>
 
-<p>For commercial job site rentals specifically, see <a href="/blog/commercial-dumpster-rental">Commercial Dumpster Rental: What Businesses Actually Need</a>. For a comparison of container types and project fits, see <a href="/resources">the resources page</a>.</p>
+<p>For commercial job site rentals specifically, see <a href="/resources/commercial-dumpster-rental">Commercial Dumpster Rental: What Businesses Actually Need</a>. For a comparison of container types and project fits, see <a href="/resources">the resources page</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 
@@ -3352,10 +3352,10 @@ export const blogPosts: BlogPost[] = [
 <p>It depends on the phase. Foundation and concrete work uses a 10–20-yard container at low fill levels due to weight limits. Framing and drywall phases typically take a 20–30-yard. Finishing work fits a 10–20-yard. For a full build, discuss sizing by phase with the rental company rather than picking one container for the entire project.</p>
 
 <h3>How much does construction dumpster rental cost?</h3>
-<p>Standard rates for construction rentals run $400–$650 for a 20-yard container and $500–$750 for a 30-yard on a 7-day rental. Multi-pull projects may qualify for a contracted per-haul rate that is lower than booking each pull separately. Weight overages are the most common unplanned cost — at $40–$200 per extra ton, concrete-heavy phases need a separate budget line. For full pricing, see <a href="/blog/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
+<p>Standard rates for construction rentals run $400–$650 for a 20-yard container and $500–$750 for a 30-yard on a 7-day rental. Multi-pull projects may qualify for a contracted per-haul rate that is lower than booking each pull separately. Weight overages are the most common unplanned cost — at $40–$200 per extra ton, concrete-heavy phases need a separate budget line. For full pricing, see <a href="/resources/what-does-a-dumpster-rental-cost">What Does a Roll-Off Dumpster Rental Actually Cost</a>.</p>
 
 <h3>Do I need a permit for a construction dumpster on a job site?</h3>
-<p>If the container sits on the private lot being developed, a separate dumpster permit is often not required — though this varies by municipality. Some cities require notification or a separate permit regardless of placement. Check with the local building department before booking. For the full permit breakdown, see <a href="/blog/do-you-need-a-permit-for-a-dumpster-rental">Do You Need a Permit for a Dumpster Rental</a>.</p>
+<p>If the container sits on the private lot being developed, a separate dumpster permit is often not required — though this varies by municipality. Some cities require notification or a separate permit regardless of placement. Check with the local building department before booking. For the full permit breakdown, see <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental">Do You Need a Permit for a Dumpster Rental</a>.</p>
 
 <h3>How many dumpster pulls does a typical residential build need?</h3>
 <p>A 2,000 sq ft residential new build typically needs 5–7 pulls of a 30-yard container over the project. A full renovation of similar scope runs 3–5 pulls depending on how much structure is being replaced. These numbers vary based on material mix and site efficiency — if you have your own average from previous builds, use it when estimating.</p>

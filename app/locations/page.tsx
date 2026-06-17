@@ -192,7 +192,7 @@ export default function LocationsPage() {
             </p>
           </div>
           <Link
-            href="/blog/how-to-choose-the-right-dumpster-size"
+            href="/resources/how-to-choose-the-right-dumpster-size"
             className="shrink-0 inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
           >
             View Dumpster Size Guide

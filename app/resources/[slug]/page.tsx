@@ -23,12 +23,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     keywords: post.keywords,
     authors: [{ name: post.author }],
     alternates: {
-      canonical: `https://rolloffdumpsterfinder.com/blog/${post.slug}`,
+      canonical: `https://rolloffdumpsterfinder.com/resources/${post.slug}`,
     },
     openGraph: {
       title: `${post.title} | Rolloff Dumpster Finder`,
       description: post.metaDescription,
-      url: `https://rolloffdumpsterfinder.com/blog/${post.slug}`,
+      url: `https://rolloffdumpsterfinder.com/resources/${post.slug}`,
       siteName: 'Rolloff Dumpster Finder',
       type: 'article',
       publishedTime: post.date,
@@ -51,7 +51,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-export default async function BlogPostPage({ params }: Props) {
+export default async function ResourcePostPage({ params }: Props) {
   const { slug } = await params
   const post = blogPosts.find((p) => p.slug === slug)
   if (!post) notFound()
@@ -76,7 +76,7 @@ export default async function BlogPostPage({ params }: Props) {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://rolloffdumpsterfinder.com/blog/${post.slug}`,
+      '@id': `https://rolloffdumpsterfinder.com/resources/${post.slug}`,
     },
   }
 
@@ -93,14 +93,14 @@ export default async function BlogPostPage({ params }: Props) {
       {
         '@type': 'ListItem',
         position: 2,
-        name: 'Blog',
-        item: 'https://rolloffdumpsterfinder.com/blog',
+        name: 'Resources',
+        item: 'https://rolloffdumpsterfinder.com/resources',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: post.title,
-        item: `https://rolloffdumpsterfinder.com/blog/${post.slug}`,
+        item: `https://rolloffdumpsterfinder.com/resources/${post.slug}`,
       },
     ],
   }
@@ -170,8 +170,8 @@ export default async function BlogPostPage({ params }: Props) {
             </li>
             <li aria-hidden="true">/</li>
             <li>
-              <Link href="/blog" className="hover:text-charcoal transition-colors">
-                Blog
+              <Link href="/resources" className="hover:text-charcoal transition-colors">
+                Resources
               </Link>
             </li>
             <li aria-hidden="true">/</li>
@@ -303,10 +303,10 @@ export default async function BlogPostPage({ params }: Props) {
           </a>
         </div>
 
-        {/* Back to blog */}
+        {/* Back to resources */}
         <div className="mt-10 pt-8 border-t border-gray-200">
           <Link
-            href="/blog"
+            href="/resources"
             className="inline-flex items-center gap-2 text-sm text-gray-500 hover:text-orange transition-colors"
           >
             <span aria-hidden="true">←</span> Back to all guides

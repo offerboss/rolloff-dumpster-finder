@@ -39,84 +39,105 @@ const resourceCards = [
     title: 'How to Choose the Right Dumpster Size for Your Project',
     excerpt:
       'Renting a dumpster that is too small costs you a second haul fee. Renting one that is too large costs you money on unused capacity. Here is the breakdown by project type.',
-    href: '/blog/how-to-choose-the-right-dumpster-size',
+    href: '/resources/how-to-choose-the-right-dumpster-size',
   },
   {
     badge: 'Pricing',
     title: 'What Does a Roll-Off Dumpster Rental Actually Cost?',
     excerpt:
       'Prices shift based on location, container size, haul distance, and what you put in it. This is what drives the number up or down, and what you can negotiate before booking.',
-    href: '/blog/what-does-a-dumpster-rental-cost',
+    href: '/resources/what-does-a-dumpster-rental-cost',
+  },
+  {
+    badge: 'Sizing Guide',
+    title: '20 Yard Dumpster Rental: What Fits, What It Costs, and When to Use One',
+    excerpt:
+      'The 20-yard is the most commonly rented roll-off container. It handles most roof tear-offs, whole-home cleanouts, and kitchen remodels — here is what the weight limits actually mean and when to rent a different size.',
+    href: '/resources/20-yard-dumpster-rental',
+  },
+  {
+    badge: 'Sizing Guide',
+    title: '10 Yard Dumpster Rental: Best Uses, Weight Limits, and Pricing',
+    excerpt:
+      'The 10-yard is the right container for single-room remodels, garage cleanouts, and small concrete jobs. Here is what it holds, why the 1–2 ton weight limit matters more than the cubic-yard number, and when to step up.',
+    href: '/resources/10-yard-dumpster-rental',
+  },
+  {
+    badge: 'Sizing Guide',
+    title: '30 Yard Dumpster Rental: When Bigger Makes Sense',
+    excerpt:
+      'The 30-yard is the right container for large renovations, estate cleanouts, commercial tenant improvements, and any project where a 20-yard has run short. Here is what fits, what the weight limits mean, and when to size down.',
+    href: '/resources/30-yard-dumpster-rental',
   },
   {
     badge: 'Comparison',
     title: 'Dumpster Trailer Rental vs Roll-Off: What to Know',
     excerpt:
       'A dumpster trailer costs less and fits tighter driveways. The 2,000-lb weight limit is where most jobs outgrow it — here is how to tell which option fits your project before you book.',
-    href: '/blog/dumpster-trailer-rental',
+    href: '/resources/dumpster-trailer-rental',
   },
   {
     badge: 'Rules',
     title: 'What Can You Put in a Roll-Off Dumpster?',
     excerpt:
       'Tires, paint, and mattresses are prohibited at most companies. Here is what is typically accepted, what gets rejected at the landfill, and what triggers an extra disposal fee.',
-    href: '/blog/what-can-you-put-in-a-roll-off-dumpster',
+    href: '/resources/what-can-you-put-in-a-roll-off-dumpster',
   },
   {
     badge: 'Permits',
     title: 'Do You Need a Permit for a Dumpster Rental?',
     excerpt:
       'Placing a container on public property usually requires a permit. On a private driveway it typically does not. Here is how to find out what your city or county requires before your drop date.',
-    href: '/blog/do-you-need-a-permit-for-a-dumpster-rental',
+    href: '/resources/do-you-need-a-permit-for-a-dumpster-rental',
   },
   {
     badge: 'Roofing',
     title: 'Dumpster Rental Tips for Roofing Projects',
     excerpt:
       'Shingles are heavy. A full roof tear-off can hit weight limits fast. Here is how to size your container for a roofing job and what surcharges to watch for when booking.',
-    href: '/blog/roofing-dumpster-rental',
+    href: '/resources/roofing-dumpster-rental',
   },
   {
     badge: 'Companies',
     title: 'Choosing a Dumpster Rental Company: What Actually Matters',
     excerpt:
       'Not all roll-off dumpster rental companies are equal. This guide explains how to compare local providers, spot hidden fees, avoid unreliable service, and choose the right company before booking.',
-    href: '/blog/how-to-choose-a-dumpster-rental-company',
+    href: '/resources/how-to-choose-a-dumpster-rental-company',
   },
   {
     badge: 'Pricing',
     title: 'Cheap Dumpster Rental: What Actually Moves the Price',
     excerpt:
       'A 10-yard container starts around $220 per week. Six variables move the price — and three of them you control before booking. Here is what to ask before the quote becomes the invoice.',
-    href: '/blog/cheap-dumpster-rental',
+    href: '/resources/cheap-dumpster-rental',
   },
   {
     badge: 'Commercial',
     title: 'Commercial Dumpster Rental: What Businesses Actually Need',
     excerpt:
       'A commercial roll-off is the same container as a residential one. What changes is scale, site access, and the permit checklist. Here is how to size, price, and book it.',
-    href: '/blog/commercial-dumpster-rental',
+    href: '/resources/commercial-dumpster-rental',
   },
   {
     badge: 'Home Cleanouts',
     title: 'Trash Dumpster Rental: What Your Cleanout Actually Needs',
     excerpt:
       'Most home cleanouts need a 10- to 20-yard container and budget $280–$620 all-in. Here is when the bin beats junk removal on price — and when it does not.',
-    href: '/blog/trash-dumpster-rental',
+    href: '/resources/trash-dumpster-rental',
   },
   {
     badge: 'Tips',
     title: 'Same Day Dumpster Rental: What to Know Before You Call',
     excerpt:
       'Same day delivery is available in most markets from local operators if you call before noon. Here is what it costs, which companies can do it, and when to skip the $50–$100 rush fee.',
-    href: '/blog/same-day-dumpster-rental',
+    href: '/resources/same-day-dumpster-rental',
   },
   {
     badge: 'Construction',
     title: 'Renting a Construction Dumpster: What Job Sites Actually Need',
     excerpt:
       'Construction debris hits weight limits faster than residential waste — concrete especially. Here is how to size, permit, and plan pulls for a job site before the truck arrives.',
-    href: '/blog/renting-a-construction-dumpster',
+    href: '/resources/renting-a-construction-dumpster',
   },
 ]
 

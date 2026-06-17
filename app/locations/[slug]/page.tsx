@@ -345,7 +345,7 @@ export default async function CityPage({ params }: Props) {
           </a>
           <p className="mt-5 text-[14px] text-[#6B7280]">
             Not sure what moves the price?{' '}
-            <Link href="/blog/what-does-a-dumpster-rental-cost" className="text-orange underline underline-offset-2 hover:no-underline">
+            <Link href="/resources/what-does-a-dumpster-rental-cost" className="text-orange underline underline-offset-2 hover:no-underline">
               See how dumpster rental pricing works
             </Link>
             .
@@ -391,7 +391,7 @@ export default async function CityPage({ params }: Props) {
         <div className="max-w-[1200px] mx-auto mt-8 text-center">
           <p className="text-[14px] text-white/[.5]">
             Not sure which size fits your project?{' '}
-            <Link href="/blog/how-to-choose-the-right-dumpster-size" className="text-orange underline underline-offset-2 hover:no-underline">
+            <Link href="/resources/how-to-choose-the-right-dumpster-size" className="text-orange underline underline-offset-2 hover:no-underline">
               Read the dumpster size guide
             </Link>
             .
@@ -503,7 +503,7 @@ export default async function CityPage({ params }: Props) {
           </div>
           <p className="mt-6 text-[14px] text-[#6B7280]">
             For the full list of accepted and prohibited items, read our guide to{' '}
-            <Link href="/blog/what-can-you-put-in-a-roll-off-dumpster" className="text-orange underline underline-offset-2 hover:no-underline">
+            <Link href="/resources/what-can-you-put-in-a-roll-off-dumpster" className="text-orange underline underline-offset-2 hover:no-underline">
               what can go in a roll-off dumpster
             </Link>
             .
@@ -650,7 +650,7 @@ export default async function CityPage({ params }: Props) {
             Whether you are cleaning out a home, remodeling a kitchen, tearing off a roof, or
             managing construction debris, Rolloff Dumpster Finder can help you find roll off
             dumpster options in the {city.cityName} area.{' '}
-            <Link href="/blog/how-to-choose-a-dumpster-rental-company" className="text-orange/80 underline underline-offset-2 hover:text-orange hover:no-underline transition-colors">
+            <Link href="/resources/how-to-choose-a-dumpster-rental-company" className="text-orange/80 underline underline-offset-2 hover:text-orange hover:no-underline transition-colors">
               Tips on choosing the right rental company
             </Link>
             .
