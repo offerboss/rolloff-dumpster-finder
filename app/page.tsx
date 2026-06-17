@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const QUOTE_URL = 'https://form.typeform.com/to/vgtrPHz6'
 
@@ -141,18 +142,20 @@ export default function HomePage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* ── 1. Hero ────────────────────────────────────────────────────── */}
-      <section
-        className="relative min-h-[660px] flex items-center"
-        style={{
-          backgroundImage: "url('/home-page-images/hero-dumpster-construction.png')",
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-        }}
-      >
+      <section className="relative min-h-[660px] flex items-center overflow-hidden">
+        <Image
+          src="/home-page-images/hero-dumpster-construction.webp"
+          alt=""
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover object-center"
+          aria-hidden="true"
+        />
         {/* Overlay */}
-        <div className="absolute inset-0 bg-black/50" aria-hidden="true" />
+        <div className="absolute inset-0 bg-black/50 z-[1]" aria-hidden="true" />
 
-        <div className="relative z-10 w-full max-w-[1200px] mx-auto px-6 sm:px-8 py-20">
+        <div className="relative z-[2] w-full max-w-[1200px] mx-auto px-6 sm:px-8 py-20">
           {/* Card — sits on the left, right side of hero image shows through */}
           <div className="w-full max-w-[520px] bg-[#2D3A4A] rounded-2xl p-8 sm:p-10 shadow-2xl">
             <div className="w-10 h-1 bg-orange rounded-sm mb-5" />
