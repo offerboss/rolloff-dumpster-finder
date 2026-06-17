@@ -187,8 +187,8 @@ const bodyHtml = `
 
 <figure class="not-prose my-8">
   <img
-    src="https://images.pexels.com/photos/6474471/pexels-photo-6474471.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=2"
-    alt="Small roll-off dumpster container in a residential driveway during a remodel project"
+    src="https://images.pexels.com/photos/1029243/pexels-photo-1029243.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=2"
+    alt="Construction debris and broken concrete from a residential demolition project ready for disposal"
     width="1260"
     height="750"
     loading="lazy"
