@@ -243,14 +243,14 @@ export default function HomePage() {
       <section className="bg-white py-14 px-6 sm:px-8">
         <div className="max-w-[1200px] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-14 items-center">
           {/* Image */}
-          <div className="rounded-2xl overflow-hidden shadow-sm">
+          <div className="relative rounded-2xl overflow-hidden shadow-sm min-h-[300px] lg:min-h-[440px]">
             <img
               src="/home-page-images/residential-cleanout-dumpster.png"
               alt="Residential dumpster rental for home cleanout and general project debris removal"
               width={1448}
               height={1086}
               loading="lazy"
-              className="w-full h-full object-cover"
+              className="absolute inset-0 w-full h-full object-cover"
             />
           </div>
           {/* Text */}
