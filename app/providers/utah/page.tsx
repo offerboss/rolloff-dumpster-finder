@@ -3,16 +3,16 @@ import Link from 'next/link'
 import { utahProviders } from '@/content/providers'
 
 export const metadata: Metadata = {
-  title: 'Utah Dumpster Rental Companies | Provider Directory',
+  title: 'Utah Roll-Off Dumpster Rental Companies | Provider Directory',
   description:
-    'Find verified roll-off dumpster rental companies serving Utah. Browse local providers by city, service area, and container size, or submit a listing for your company.',
+    'Browse roll-off dumpster rental companies serving Utah by region. Listings are compiled from public business information and have not yet been confirmed by providers.',
   alternates: {
     canonical: 'https://rolloffdumpsterfinder.com/providers/utah',
   },
   openGraph: {
-    title: 'Utah Dumpster Rental Companies | Provider Directory',
+    title: 'Utah Roll-Off Dumpster Rental Companies | Provider Directory',
     description:
-      'Find verified roll-off dumpster rental companies serving Utah. Browse local providers by city, service area, and container size.',
+      'Browse roll-off dumpster rental companies serving Utah by region. Listings are compiled from public business information and have not yet been confirmed by providers.',
     url: 'https://rolloffdumpsterfinder.com/providers/utah',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
@@ -27,9 +27,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Utah Dumpster Rental Companies | Provider Directory',
+    title: 'Utah Roll-Off Dumpster Rental Companies | Provider Directory',
     description:
-      'Find verified roll-off dumpster rental companies serving Utah.',
+      'Browse roll-off dumpster rental companies serving Utah by region.',
     images: [
       'https://rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
     ],
@@ -56,27 +56,37 @@ const breadcrumbSchema = {
   ],
 }
 
-const utahCoverage = [
-  'Salt Lake City',
-  'West Valley City',
-  'Murray',
-  'Sandy',
-  'Ogden',
-  'Provo',
-  'Draper',
-  'South Salt Lake',
-  'Millcreek',
-  'West Jordan',
+const regions = [
+  {
+    key: 'Wasatch Front / SLC Metro',
+    label: 'Wasatch Front / SLC Metro',
+    desc: 'Serving Salt Lake City, West Valley City, Ogden, Provo, Sandy, Lehi, Murray, Millcreek, West Jordan, South Jordan, American Fork, Springville, Mapleton, Park City, Heber City, Tooele, and surrounding Wasatch Front communities.',
+  },
+  {
+    key: 'Northern Utah',
+    label: 'Northern Utah',
+    desc: 'Serving Logan, North Logan, Brigham City, Garland, and communities throughout Cache Valley and Box Elder County.',
+  },
+  {
+    key: 'Southern Utah',
+    label: 'Southern Utah',
+    desc: 'Serving St. George, Washington City, Cedar City, Hurricane, and surrounding communities in Washington County and Iron County.',
+  },
+  {
+    key: 'Southern/Northern/Eastern Utah',
+    label: 'Southern/Northern/Eastern Utah',
+    desc: 'Serving rural and eastern Utah communities including Coalville, Erda, Duck Creek Village, Enterprise, Sanpete County, and the Uinta Basin.',
+  },
 ]
 
 const featuredSlots = [
   {
     position: 'A',
-    areas: 'Salt Lake City · Salt Lake Valley · Wasatch Front',
+    areas: 'Salt Lake City · Wasatch Front · Salt Lake Valley',
   },
   {
     position: 'B',
-    areas: 'Utah Valley · Provo · Orem',
+    areas: 'Utah Valley · Provo · Ogden',
   },
 ]
 
@@ -110,11 +120,12 @@ export default function UtahProvidersPage() {
             {' '}/ Utah
           </p>
           <h1 className="text-[clamp(30px,5vw,52px)] font-extrabold text-white leading-[1.08] tracking-tight mb-5">
-            Utah Dumpster Rental Companies
+            Utah Roll-Off Dumpster Rental Companies
           </h1>
           <p className="text-[17px] text-white/[.58] max-w-[600px] leading-[1.65]">
-            Verified roll-off dumpster rental companies serving Utah cities. Browse by service
-            area or submit a listing for your company.
+            Roll-off dumpster rental companies serving Utah, organized by service region. Standard
+            listings are compiled from public business information and have not yet been confirmed by
+            the provider.
           </p>
           <p className="mt-5 text-[13px] text-white/[.36]">
             Looking to rent a dumpster?{' '}
@@ -129,35 +140,59 @@ export default function UtahProvidersPage() {
         </div>
       </section>
 
-      {/* Coverage areas nav */}
-      <section className="bg-white py-5 px-8 border-b border-[#E8E4DE]">
-        <div className="max-w-[1200px] mx-auto">
-          <p className="text-[10px] font-bold uppercase tracking-[.12em] text-[#9CA3AF] mb-3">
-            Coverage Areas
-          </p>
-          <div className="flex flex-wrap gap-[8px]">
-            {utahCoverage.map((area) => (
-              <span
-                key={area}
-                className="inline-block px-[14px] py-[6px] rounded-sm text-[12px] font-semibold bg-[#F3F2EF] text-[#566070] border border-[#E5E3DE]"
-              >
-                {area}
-              </span>
-            ))}
+      {/* Utah context section */}
+      <section className="bg-white border-b border-[#E8E4DE] py-12 px-8">
+        <div className="max-w-[1200px] mx-auto flex flex-col lg:flex-row gap-12">
+          <div className="max-w-[560px]">
+            <div className="w-10 h-[3px] bg-orange rounded-sm mb-[14px]" />
+            <h2 className="text-[clamp(18px,2.5vw,24px)] font-extrabold text-charcoal tracking-tight mb-3">
+              Utah Markets
+            </h2>
+            <p className="text-[14px] text-[#566070] leading-[1.7]">
+              The directory covers providers across Salt Lake City, West Valley City, Provo, Ogden,
+              Sandy, and Lehi in the Wasatch Front corridor, plus Logan, St. George, Cedar City, and
+              communities statewide. Common jobs include home cleanouts, roofing tear-offs,
+              construction debris removal, full gut renovations, estate cleanouts, and new build
+              site cleanup.
+            </p>
+          </div>
+          <div className="shrink-0">
+            <p className="text-[10px] font-bold uppercase tracking-[.12em] text-[#9CA3AF] mb-4">
+              Active City Guides
+            </p>
+            <div className="grid grid-cols-2 gap-x-8 gap-y-[6px]">
+              {[
+                { label: 'Salt Lake City', href: '/locations/salt-lake-city-ut-dumpster-rental' },
+                { label: 'West Valley City', href: '/locations/west-valley-city-ut-dumpster-rental' },
+                { label: 'Provo', href: '/locations/provo-ut-dumpster-rental' },
+                { label: 'Ogden', href: '/locations/ogden-ut-dumpster-rental' },
+                { label: 'Sandy', href: '/locations/sandy-ut-dumpster-rental' },
+                { label: 'Lehi', href: '/locations/lehi-ut-dumpster-rental' },
+              ].map((city) => (
+                <Link
+                  key={city.href}
+                  href={city.href}
+                  className="text-[13px] font-semibold text-orange hover:underline underline-offset-2"
+                >
+                  {city.label} →
+                </Link>
+              ))}
+            </div>
           </div>
         </div>
       </section>
 
-      {/* Featured providers */}
+      {/* Featured partner opportunities */}
       <section className="bg-[#F5F4F0] py-16 px-8">
         <div className="max-w-[1200px] mx-auto mb-10">
           <div className="w-10 h-[3px] bg-orange rounded-sm mb-[14px]" />
           <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-charcoal tracking-tight mb-2">
-            Featured Providers
+            Featured Partner Opportunities by Region
           </h2>
           <p className="text-[15px] text-[#6B7280] leading-[1.6]">
-            Featured providers receive first-position placement on matching city and service area
-            pages, along with a verified badge and direct contact display.
+            We are looking for one strong preferred roll-off dumpster partner in each Utah service
+            region. Featured partners receive first-position placement on matching city and service
+            area pages, plus direct contact display.
           </p>
         </div>
 
@@ -169,7 +204,7 @@ export default function UtahProvidersPage() {
                 className="bg-white border border-[#E0DEDA] border-t-[3px] border-t-orange rounded-sm p-7 flex flex-col"
               >
                 <p className="text-[9px] font-bold uppercase tracking-[.12em] text-orange mb-4">
-                  ● Featured Provider — Utah
+                  ● Featured Partner — Utah
                 </p>
                 <h3 className="text-[22px] font-extrabold text-charcoal tracking-tight leading-[1.2] mb-2">
                   {provider.name}
@@ -186,21 +221,15 @@ export default function UtahProvidersPage() {
                       {provider.serviceAreas.join(', ')}
                     </p>
                   )}
-                  {provider.dumpsterSizes.length > 0 && (
-                    <p className="text-[12px] text-[#566070]">
-                      <span className="font-semibold text-charcoal">Sizes: </span>
-                      {provider.dumpsterSizes.join(', ')}
-                    </p>
-                  )}
                 </div>
-                {provider.ctaLink && (
+                {provider.website && (
                   <a
-                    href={provider.ctaLink}
+                    href={provider.website}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored nofollow noopener noreferrer"
                     className="inline-block bg-orange text-black font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-90 transition-opacity self-start"
                   >
-                    View Provider
+                    Visit Website
                   </a>
                 )}
               </article>
@@ -215,35 +244,31 @@ export default function UtahProvidersPage() {
               >
                 <div className="flex items-center justify-between mb-4">
                   <p className="text-[9px] font-bold uppercase tracking-[.12em] text-orange">
-                    ● Featured Provider — Utah
+                    ● Featured Partner — Utah
                   </p>
                   <span className="text-[9px] font-bold uppercase tracking-[.08em] bg-[#F3F2EF] text-[#9CA3AF] px-[8px] py-[3px] rounded-sm border border-[#E5E3DE]">
                     Available
                   </span>
                 </div>
                 <h3 className="text-[18px] font-extrabold text-charcoal tracking-tight leading-[1.2] mb-2">
-                  Featured Provider Slot
+                  Featured Partner Slot
                 </h3>
                 <p className="text-[13px] text-[#566070] leading-[1.65] mb-5 flex-1">
-                  This position is reserved for a verified roll-off dumpster rental company serving{' '}
-                  {slot.areas}. Featured listings include first-position placement on all matching
-                  city pages, a verified badge, and direct contact display.
+                  This position is reserved for a confirmed roll-off dumpster rental company serving{' '}
+                  {slot.areas}. Featured placement includes first-position on all matching city pages
+                  and direct contact display.
                 </p>
                 <div className="space-y-[6px] mb-6">
                   <p className="text-[12px] text-[#9CA3AF]">
                     <span className="font-semibold text-[#B0B8C1]">Coverage: </span>
                     {slot.areas}
                   </p>
-                  <p className="text-[12px] text-[#9CA3AF]">
-                    <span className="font-semibold text-[#B0B8C1]">Sizes: </span>
-                    10, 15, 20, 30, 40 yard
-                  </p>
                 </div>
                 <a
                   href="mailto:adam@meetadamchandler.com?subject=Featured Listing Request — Utah"
                   className="inline-block bg-orange text-black font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-90 transition-opacity self-start"
                 >
-                  Request This Listing
+                  Request This Position
                 </a>
               </div>
             ))}
@@ -251,101 +276,180 @@ export default function UtahProvidersPage() {
         )}
       </section>
 
-      {/* Standard listings */}
+      {/* Standard listings by region — accordion */}
       <section className="bg-white border-y border-[#E8E4DE] py-16 px-8">
         <div className="max-w-[1200px] mx-auto">
           <div className="w-10 h-[3px] bg-orange rounded-sm mb-[14px]" />
           <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-charcoal tracking-tight mb-2">
-            All Utah Providers
+            Utah Providers by Region
           </h2>
-          <p className="text-[15px] text-[#6B7280] leading-[1.6] mb-10">
-            Verified roll-off dumpster rental companies serving Utah. Standard listings include
-            service area, city coverage, container sizes, and contact information.
+          <p className="text-[15px] text-[#6B7280] leading-[1.6] mb-1">
+            {standard.length > 0
+              ? `${standard.length} companies listed across Utah service regions.`
+              : 'No standard listings yet for Utah.'}
+          </p>
+          <p className="text-[13px] text-[#9CA3AF] leading-[1.6] mb-8">
+            Standard listings are compiled from public business information and have not yet been
+            confirmed by the provider. Contact information is displayed as found in public records.
+          </p>
+          <p className="text-[13px] text-[#6B7280] leading-[1.6] mb-6">
+            Open a region below to view public roll-off dumpster provider listings.
           </p>
 
-          {/* Table header */}
-          <div className="hidden md:grid grid-cols-[2fr_2fr_1fr_1fr] gap-4 px-4 pb-3 border-b border-[#E8E4DE]">
-            <p className="text-[10px] font-bold uppercase tracking-[.12em] text-[#9CA3AF]">Company</p>
-            <p className="text-[10px] font-bold uppercase tracking-[.12em] text-[#9CA3AF]">Service Areas</p>
-            <p className="text-[10px] font-bold uppercase tracking-[.12em] text-[#9CA3AF]">Sizes</p>
-            <p className="text-[10px] font-bold uppercase tracking-[.12em] text-[#9CA3AF]">Contact</p>
-          </div>
+          <div className="border border-[#E8E4DE] rounded-sm overflow-hidden divide-y divide-[#E8E4DE]">
+            {regions.map((region) => {
+              const regionProviders = standard.filter((p) => p.primaryRegion === region.key)
+              const hasFeatured = featured.some((p) => p.primaryRegion === region.key)
 
-          {standard.length > 0 ? (
-            <div className="divide-y divide-[#E8E4DE]">
-              {standard.map((provider) => (
-                <div
-                  key={provider.id}
-                  className="grid grid-cols-1 md:grid-cols-[2fr_2fr_1fr_1fr] gap-4 px-4 py-5 items-start"
-                >
-                  <div>
-                    <p className="text-[14px] font-bold text-charcoal leading-[1.3] mb-[2px]">
-                      {provider.name}
-                    </p>
-                    {provider.verified && (
-                      <span className="text-[9px] font-bold uppercase tracking-[.08em] text-orange">
-                        ● Verified
-                      </span>
+              return (
+                <details key={region.key} className="group">
+                  <summary className="list-none [&::-webkit-details-marker]:hidden flex items-start justify-between gap-4 cursor-pointer px-6 py-5 hover:bg-[#F9F8F6] transition-colors select-none">
+                    {/* Left: name, meta, desc */}
+                    <div className="flex-1 min-w-0">
+                      <div className="flex flex-wrap items-center gap-2 mb-[5px]">
+                        <span className="text-[15px] font-extrabold text-charcoal tracking-tight">
+                          {region.label}
+                        </span>
+                        {regionProviders.length > 0 ? (
+                          <span className="text-[10px] font-bold uppercase tracking-[.08em] bg-[#F3F2EF] text-[#566070] px-[8px] py-[3px] rounded-sm border border-[#E5E3DE]">
+                            {regionProviders.length} {regionProviders.length === 1 ? 'provider' : 'providers'}
+                          </span>
+                        ) : (
+                          <span className="text-[10px] font-bold uppercase tracking-[.08em] bg-[#F3F2EF] text-[#9CA3AF] px-[8px] py-[3px] rounded-sm border border-[#E5E3DE]">
+                            No listings yet
+                          </span>
+                        )}
+                        {!hasFeatured && (
+                          <span className="text-[9px] font-bold uppercase tracking-[.08em] text-orange/70 border border-orange/30 px-[7px] py-[2px] rounded-sm">
+                            Featured Partner Available
+                          </span>
+                        )}
+                      </div>
+                      <p className="text-[12px] text-[#6B7280] leading-[1.55]">{region.desc}</p>
+                    </div>
+
+                    {/* Right: chevron */}
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="18"
+                      height="18"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="2.5"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      className="shrink-0 mt-[3px] text-[#9CA3AF] group-open:rotate-180 transition-transform duration-200"
+                      aria-hidden="true"
+                    >
+                      <polyline points="6 9 12 15 18 9" />
+                    </svg>
+                  </summary>
+
+                  {/* Expanded content */}
+                  <div className="border-t border-[#E8E4DE] bg-[#FAFAF8]">
+                    {regionProviders.length > 0 ? (
+                      <div className="divide-y divide-[#EEEAE4]">
+                        {regionProviders.map((provider) => (
+                          <div
+                            key={provider.id}
+                            className="px-6 py-4 flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3"
+                          >
+                            <div className="flex-1 min-w-0">
+                              <div className="flex flex-wrap items-center gap-2 mb-[4px]">
+                                <p className="text-[13px] font-bold text-charcoal leading-[1.3]">
+                                  {provider.name}
+                                </p>
+                                <span className="text-[8px] font-bold uppercase tracking-[.08em] text-[#9CA3AF] bg-white px-[6px] py-[2px] rounded-sm border border-[#E5E3DE]">
+                                  Public Listing
+                                </span>
+                              </div>
+                              <div className="flex flex-wrap gap-x-4 gap-y-[3px]">
+                                {provider.serviceType && (
+                                  <p className="text-[11px] text-[#566070]">
+                                    <span className="font-semibold text-charcoal">Service: </span>
+                                    {provider.serviceType}
+                                  </p>
+                                )}
+                                {provider.cities && provider.cities.length > 0 && (
+                                  <p className="text-[11px] text-[#566070]">
+                                    <span className="font-semibold text-charcoal">City: </span>
+                                    {provider.cities.join(', ')}
+                                  </p>
+                                )}
+                                {provider.ownershipType && (
+                                  <p className="text-[11px] text-[#566070]">
+                                    <span className="font-semibold text-charcoal">Ownership: </span>
+                                    {provider.ownershipType}
+                                  </p>
+                                )}
+                              </div>
+                            </div>
+
+                            <div className="flex flex-row sm:flex-col gap-x-4 gap-y-[5px] sm:items-end shrink-0">
+                              {provider.phone && (
+                                <a
+                                  href={`tel:${provider.phone.replace(/\D/g, '')}`}
+                                  className="text-[12px] font-semibold text-charcoal hover:text-orange transition-colors"
+                                >
+                                  {provider.phone}
+                                </a>
+                              )}
+                              {provider.website && (
+                                <a
+                                  href={provider.website}
+                                  target="_blank"
+                                  rel="nofollow noopener noreferrer"
+                                  className="text-[11px] font-semibold text-orange hover:underline"
+                                >
+                                  Website →
+                                </a>
+                              )}
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    ) : (
+                      <div className="px-6 py-10 text-center">
+                        <p className="text-[13px] font-semibold text-charcoal mb-1">
+                          No listings yet for {region.label}
+                        </p>
+                        <p className="text-[12px] text-[#6B7280] leading-[1.65] max-w-[380px] mx-auto mb-5">
+                          We are adding providers to this region. Standard listings are free for local
+                          roll-off dumpster rental companies.
+                        </p>
+                        <a
+                          href={`mailto:adam@meetadamchandler.com?subject=Listing Request — Utah, ${region.label}`}
+                          className="inline-block bg-charcoal text-white font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-80 transition-opacity"
+                        >
+                          Submit a Listing
+                        </a>
+                      </div>
                     )}
                   </div>
-                  <p className="text-[13px] text-[#566070]">
-                    {provider.serviceAreas.join(', ')}
-                  </p>
-                  <p className="text-[13px] text-[#566070]">
-                    {provider.dumpsterSizes.join(', ')}
-                  </p>
-                  <div>
-                    {provider.website && (
-                      <a
-                        href={provider.website}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-[13px] font-semibold text-orange hover:underline"
-                      >
-                        Website
-                      </a>
-                    )}
-                  </div>
-                </div>
-              ))}
-            </div>
-          ) : (
-            <div className="border border-dashed border-[#D0CCC5] rounded-sm px-8 py-12 text-center">
-              <p className="text-[14px] font-semibold text-charcoal mb-2">
-                No standard listings yet for Utah
-              </p>
-              <p className="text-[13px] text-[#6B7280] leading-[1.65] max-w-[460px] mx-auto mb-6">
-                We are currently onboarding verified providers. Standard listings are free for local
-                roll-off dumpster rental companies with confirmed service areas. Listings typically
-                go live within two to three business days of submission.
-              </p>
-              <a
-                href="mailto:adam@meetadamchandler.com?subject=Standard Listing Request — Utah"
-                className="inline-block bg-charcoal text-white font-bold text-[13px] px-[22px] py-[10px] rounded-full hover:opacity-80 transition-opacity"
-              >
-                Submit a Listing Request
-              </a>
-            </div>
-          )}
+                </details>
+              )
+            })}
+          </div>
         </div>
       </section>
 
-      {/* What listings include */}
+      {/* About listings */}
       <section className="bg-[#F5F4F0] py-16 px-8">
         <div className="max-w-[1200px] mx-auto flex flex-col lg:flex-row items-start justify-between gap-12">
           <div className="max-w-[520px]">
             <div className="w-10 h-[3px] bg-orange rounded-sm mb-[14px]" />
             <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-charcoal tracking-tight mb-3">
-              What a Listing Includes
+              About These Listings
             </h2>
             <p className="text-[15px] text-[#6B7280] leading-[1.7] mb-5">
-              Standard listings include your company name, the cities and service areas you cover,
-              container sizes offered, debris types accepted, and a link to your website. We verify
-              coverage before any listing goes live.
+              Standard listings are compiled from public business data and have not been confirmed by
+              the provider. Contact information is displayed as found. If you are a provider and want
+              to update or claim your listing, contact us directly.
             </p>
             <p className="text-[15px] text-[#6B7280] leading-[1.7]">
-              Featured listings also include first-position placement on matching city pages, a
-              verified badge, direct phone number display, and a short company description.
+              Featured partner positions include first-position placement on matching city and service
+              area pages, direct phone and contact display, and a confirmed partner badge.
             </p>
           </div>
           <div className="shrink-0 flex flex-col gap-4">
@@ -353,7 +457,7 @@ export default function UtahProvidersPage() {
               href="mailto:adam@meetadamchandler.com?subject=Provider Listing Request — Utah"
               className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity text-center"
             >
-              Request a Standard Listing
+              Submit or Update a Listing
             </a>
             <a
               href="mailto:adam@meetadamchandler.com?subject=Featured Listing Request — Utah"
@@ -372,8 +476,8 @@ export default function UtahProvidersPage() {
           List Your Utah Company
         </h2>
         <p className="text-[16px] text-white/[.52] max-w-[500px] mx-auto mb-8 leading-[1.65]">
-          We verify service areas and contact information before listings go live. Standard listings
-          are free. Contact us to get started.
+          Standard listings are free. Contact us with your company name, service area, and the cities
+          you cover.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
