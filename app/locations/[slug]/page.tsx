@@ -190,6 +190,8 @@ export default async function CityPage({ params }: Props) {
     })),
   }
 
+  const citySlugMap = Object.fromEntries(cityLocations.map((c) => [c.cityName, c.slug]))
+
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -543,14 +545,25 @@ export default async function CityPage({ params }: Props) {
                 Nearby Cities & Suburbs
               </p>
               <div className="flex flex-wrap gap-2">
-                {city.nearbyCities.map((nearby) => (
-                  <span
-                    key={nearby}
-                    className="inline-block bg-white border border-[#E0DEDA] text-charcoal text-[13px] font-medium px-3 py-[6px] rounded-sm"
-                  >
-                    {nearby}
-                  </span>
-                ))}
+                {city.nearbyCities.map((nearby) => {
+                  const matchedSlug = citySlugMap[nearby] ?? citySlugMap[nearby.split(',')[0]?.trim()]
+                  return matchedSlug ? (
+                    <Link
+                      key={nearby}
+                      href={`/locations/${matchedSlug}`}
+                      className="inline-block bg-white border border-[#E0DEDA] text-charcoal text-[13px] font-medium px-3 py-[6px] rounded-sm hover:border-orange hover:text-orange transition-colors"
+                    >
+                      {nearby}
+                    </Link>
+                  ) : (
+                    <span
+                      key={nearby}
+                      className="inline-block bg-white border border-[#E0DEDA] text-charcoal text-[13px] font-medium px-3 py-[6px] rounded-sm"
+                    >
+                      {nearby}
+                    </span>
+                  )
+                })}
               </div>
             </div>
           </div>

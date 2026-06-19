@@ -143,6 +143,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      url: 'https://rolloffdumpsterfinder.com/locations/tucson-az-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
       url: 'https://rolloffdumpsterfinder.com/resources/commercial-dumpster-rental',
       lastModified: new Date(),
       changeFrequency: 'monthly',
@@ -420,6 +426,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: 'https://rolloffdumpsterfinder.com/resources/how-long-can-you-keep-a-rental-dumpster',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/jackson-wy-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/evanston-wy-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/green-river-wy-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/riverton-wy-dumpster-rental',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,

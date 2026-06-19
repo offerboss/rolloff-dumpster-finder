@@ -125,6 +125,26 @@ const cityCards = [
     slug: 'sheridan-wy-dumpster-rental',
     desc: 'Northern Wyoming at the base of the Bighorn Mountains. Home cleanouts, ranch property debris, and historic home renovations.',
   },
+  {
+    city: 'Jackson',
+    slug: 'jackson-wy-dumpster-rental',
+    desc: 'Teton County resort market. Luxury renovation debris, vacation rental turnover, short-season construction, and closed-top containers for wildlife-active areas.',
+  },
+  {
+    city: 'Green River',
+    slug: 'green-river-wy-dumpster-rental',
+    desc: 'Southwest Wyoming along the I-80 corridor. Trona and energy industry market sharing a provider pool with Rock Springs. Residential and commercial Sweetwater County deliveries.',
+  },
+  {
+    city: 'Riverton',
+    slug: 'riverton-wy-dumpster-rental',
+    desc: 'Fremont County hub in central Wyoming. Ranch and agricultural property cleanouts, older residential renovation, and rural Wind River Basin deliveries.',
+  },
+  {
+    city: 'Evanston',
+    slug: 'evanston-wy-dumpster-rental',
+    desc: 'Southwest Wyoming on the Utah border. Railroad-era housing stock renovation, Uinta County ranch cleanouts, and deliveries along the I-80 Wyoming-Utah corridor.',
+  },
 ]
 
 const projects = [
@@ -310,7 +330,7 @@ export default function WyomingLocationsPage() {
                 Home Cleanouts, Ranch Debris, and Construction — Covered Statewide
               </p>
               <p className="text-[13px] text-white/[.65] leading-[1.6]">
-                From Cheyenne to Sheridan, roll-off container rental for residential and rural Wyoming projects.
+                From Cheyenne to Jackson, roll-off container rental for residential, ranch, and construction projects across Wyoming.
               </p>
             </div>
           </div>

@@ -5905,4 +5905,940 @@ export const cityLocations: CityLocation[] = [
     latitude: 34.6036,
     longitude: -98.3959,
   },
+
+  // ─── TUCSON ───────────────────────────────────────────────────
+  {
+    slug: 'tucson-az-dumpster-rental',
+    cityName: 'Tucson',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Dumpster Rental in Tucson, AZ | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Tucson dumpster rental for home cleanouts, roofing debris, estate cleanouts, and construction waste. Serving Tucson, Marana, Oro Valley, and southern Arizona.',
+    primaryKeyword: 'tucson dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental tucson az',
+      'tucson construction dumpster rental',
+      'roll off dumpster tucson',
+      'roll off dumpster tucson az',
+      'rolloff dumpsters tucson',
+      'roll offs tucson az',
+      '10 yard dumpster rental tucson',
+      '20 yard dumpster rental tucson',
+      '30 yard dumpster rental tucson',
+    ],
+    heroH1: 'Dumpster Rental in Tucson, AZ',
+    heroSubheadline:
+      'Roll-off containers for home cleanouts, estate cleanouts, roofing tear-offs, and construction debris across Tucson and southern Arizona.',
+    introParagraphs: [
+      "Tucson's housing stock runs older than Phoenix by a decade or more. Sam Hughes, Armory Park, Blenman-Elm, and Broadmoor-Broadway are packed with midcentury ranches and 1940s bungalows that flip, get renovated, or get gutted. Full kitchen tearouts, bathroom overhauls, and whole-house cleanouts in those neighborhoods generate serious debris volume. Adobe and plaster from Barrio Viejo and El Presidio properties are denser than standard drywall — factor that into your weight estimate before booking.",
+      "The University of Arizona drives a reliable second wave of cleanout demand. Properties in Millville, University Heights, and Iron Horse turn over each May and August as student leases end. Landlords with multiple units often need a 10 or 20-yard container for several consecutive turnovers. Investors gutting older rentals between tenants push the same neighborhoods year-round. UA-adjacent properties are not a seasonal market — they are a consistent one.",
+      "Rolloff Dumpster Finder covers Tucson and the surrounding communities — Marana, Oro Valley, Sahuarita, Green Valley, Vail, and South Tucson. Tucson has fewer dumpster providers than Phoenix, which means pricing varies more and availability tightens faster. We show weight limits, included tonnage, and what happens when you go over — before you book. The difference between a transparent quote and a confusing invoice is usually one number: the per-ton overage charge.",
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, bathroom remodels, garage cleanouts, and single-room renovations.',
+        range: '$290–$490 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen remodels, yard waste, medium cleanouts, and roofing on smaller homes.',
+        range: '$330–$560 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, estate cleanouts, roofing tear-offs, and general renovation debris.',
+        range: '$390–$670 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovations, construction debris, multi-square roofing jobs, and adobe demo.',
+        range: '$460–$800 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project sites.',
+        range: '$580–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Tucson's midcentury ranches in Sam Hughes, Blenman-Elm, and Broadmoor-Broadway turn over steadily. A 20-yard handles most full-home cleanouts. If the property has been occupied for decades, budget for a 30-yard — attic storage and garage accumulation add up fast.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Flat roofs and tile systems dominate the Tucson market. Concrete tile is significantly heavier than asphalt shingles — confirm weight allowances before booking. A 20-yard is the standard container for most single-family Tucson roofing jobs.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Active residential growth in Marana, Sahuarita, and Rita Ranch generates steady construction debris. Mixed framing, drywall, and concrete works well in a 20 or 30-yard container. Confirm debris types with your provider before loading.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Tucson's older housing stock is a remodel target. Kitchen and bath guts in Armory Park and Blenman-Elm produce tile, cabinetry, and fixtures. A 10 to 15-yard handles most single-room tearouts. Tile floors are dense — confirm weight limits before the first load goes in.",
+      },
+      {
+        number: '05',
+        name: 'Garage & Attic Cleanouts',
+        description:
+          "Tucson homes rarely have basements, but garages and attics fill fast in this climate. Cleanouts near the University District and in Midvale Park often surprise owners with volume. A 10-yard is the entry point; move to a 15-yard if the space has years of accumulated storage.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Tucson has a large retiree and snowbird population. Estate cleanouts are a steady part of the market — full-home estate work typically fills a 20 to 30-yard container. Book early; estate cleanouts generate more debris than the initial walkthrough suggests.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Xeriscape conversion, saguaro removal, mesquite and palo verde trimming, and invasive plant clearance all generate significant debris. Confirm green waste policies with your provider before booking — not all facilities accept organic and inorganic loads in the same container.',
+      },
+      {
+        number: '08',
+        name: 'University Rental Turnover',
+        description:
+          'Student rental properties in Millville, Iron Horse, and University Heights turn over each May and August. Landlords with multiple units benefit from a single 10 or 20-yard container on-site for back-to-back cleanouts rather than scheduling multiple separate pickups.',
+      },
+      {
+        number: '09',
+        name: 'Adobe & Historic Renovation',
+        description:
+          'Barrio Viejo, El Presidio, and Armory Park have historic adobe and territorial-style homes. Adobe, lime plaster, and Saltillo tile tearouts produce dense, heavy debris that hits weight limits faster than standard drywall. Book a heavy-material allowance on any adobe demo project.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Tucson depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Tucson. Flat terrain in most neighborhoods makes delivery and pickup straightforward for standard driveway configurations.',
+      'Street placement in Tucson requires a right-of-way permit through the City of Tucson Transportation and Mobility Department. Your rental provider can often handle the permit application.',
+      'HOA communities in the Foothills, Marana, and Sahuarita frequently require association approval before a container is delivered. Confirm requirements before scheduling.',
+      'Neighborhoods near the University of Arizona — Millville, Iron Horse, and University Heights — have narrow streets and limited parking. Confirm truck access with your provider before booking.',
+      'Barrio Viejo and the Armory Park historic district have narrow streets and protected frontage. Discuss driveway versus on-property placement with your provider before scheduling.',
+      'Place protective boards under the container on asphalt driveways during summer. Tucson heat can cause asphalt to soften under loaded steel containers in July and August.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Sam Hughes',
+      'Armory Park',
+      'Barrio Viejo',
+      'El Presidio',
+      'Iron Horse',
+      'Blenman-Elm',
+      'Broadmoor-Broadway',
+      'Millville',
+      'University Heights',
+      'Oracle-Limberlost',
+      'Flowing Wells',
+      'Alvernon Heights',
+      'Midvale Park',
+      'Menlo Park',
+      'Dunbar/Spring',
+    ],
+    nearbyCities: [
+      'Marana',
+      'Oro Valley',
+      'Sahuarita',
+      'Green Valley',
+      'Vail',
+      'South Tucson',
+      'Catalina',
+      'Rita Ranch',
+      'Benson',
+      'Sierra Vista',
+      'Nogales',
+      'Mammoth',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Tucson, AZ?',
+        answer:
+          'A 10-yard container in Tucson runs $290–$490 per week. A 20-yard — the most common size for home cleanouts and roofing jobs — runs $390–$670. Tucson has fewer providers than Phoenix, so rates vary more between companies. Get at least two quotes before booking.',
+      },
+      {
+        question: 'What size dumpster do I need for a Tucson home cleanout?',
+        answer:
+          "Most Tucson home cleanouts fit in a 20-yard container. If the property is a midcentury ranch with a full attic and years of accumulated storage, budget for a 30-yard. A 10-yard works for single-room or garage-only cleanouts.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Tucson?',
+        answer:
+          "Yes. Flat roofs and concrete tile are both common in Tucson and both require tear-off containers. Tile roofing is heavier than asphalt — confirm the included weight allowance before booking. A 20-yard handles most single-family Tucson roofing jobs.",
+      },
+      {
+        question: 'What about concrete, tile, or heavy debris in Tucson?',
+        answer:
+          'Dense debris like concrete, Saltillo tile, and adobe fills weight limits at roughly half the container volume. Most Tucson providers include 2–3 tons in a standard rental. Confirm the per-ton overage rate before you load — it typically runs $50–$100 per ton over the limit.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Tucson?',
+        answer:
+          'Most Tucson providers deliver within 24–48 hours for standard orders. Same-day delivery is possible but not guaranteed. Tucson has fewer providers than Phoenix, which means tighter availability — booking a few days ahead is the safer play if your project has a firm start date.',
+      },
+      {
+        question: 'Do you serve nearby cities like Marana, Oro Valley, and Sahuarita?',
+        answer:
+          'Yes. Most Tucson roll-off providers serve the surrounding communities — Marana, Oro Valley, Sahuarita, Green Valley, Vail, and Catalina. Delivery fees may be higher for locations farther from the Tucson metro core. Confirm service area and delivery pricing when you get your quote.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Tucson?',
+        answer:
+          'Standard Tucson rentals run 7–14 days. Most projects finish within a week. If you need more time, most providers offer weekly extensions — ask about the extension rate before signing so it is not a surprise on the invoice.',
+      },
+      {
+        question: 'Are there items I cannot put in a Tucson dumpster?',
+        answer:
+          'Standard prohibited items include paint, batteries, tires, propane tanks, and hazardous materials. Some Tucson providers restrict mattresses or electronics. Confirm what is prohibited with your specific provider — the list varies, and a flagged load can result in an additional sorting fee.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Tucson?',
+        answer:
+          'Driveway placement on private property does not require a permit in Tucson. Street placement requires a right-of-way permit through the City of Tucson Transportation and Mobility Department. Your rental provider can often handle the permit application — confirm before delivery.',
+      },
+      {
+        question: 'What should I know about dumpster rental near the University of Arizona?',
+        answer:
+          'The UA-adjacent neighborhoods — Millville, Iron Horse, and University Heights — have narrow streets and active parking competition. Confirm truck access with your provider before booking. These neighborhoods also peak in May and August for student lease turnover; book a few days ahead if your project falls in those windows.',
+      },
+    ],
+    latitude: 32.2226,
+    longitude: -110.9747,
+  },
+  // ─── JACKSON ──────────────────────────────────────────────────
+  {
+    slug: 'jackson-wy-dumpster-rental',
+    cityName: 'Jackson',
+    stateName: 'Wyoming',
+    stateAbbr: 'WY',
+    metaTitle: 'Dumpster Rental in Jackson, WY | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Jackson, WY. Container sizes, pricing, and local tips for home cleanouts, renovation, and construction in Teton County, Wyoming.',
+    primaryKeyword: 'Jackson dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Jackson WY',
+      'Jackson construction dumpster rental',
+      'roll off dumpster Jackson',
+      'roll off dumpster Jackson WY',
+      'rolloff dumpsters Jackson',
+      'roll offs Jackson WY',
+      '10 yard dumpster rental Jackson',
+      '20 yard dumpster rental Jackson',
+      '30 yard dumpster rental Jackson',
+      'Jackson Wyoming dumpster rental',
+      'Teton County dumpster rental',
+      'dumpster rental Teton County WY',
+    ],
+    heroH1: 'Roll-Off Dumpster Rental in Jackson, Wyoming',
+    heroSubheadline:
+      'Find roll-off dumpster rental options in Jackson for construction debris, home cleanouts, vacation property maintenance, and renovation work in Teton County.',
+    introParagraphs: [
+      "Jackson's housing stock splits into two categories. The older working-town properties — modest wood-frame homes built from the 1950s through the 1970s in East Jackson and along the Budge Drive corridor — and the post-1990s luxury cabins and custom builds that now dominate most of the surrounding terrain. Tear-downs of older properties to make way for high-end rebuilds generate serious debris volume. Layer on year-round vacation rental maintenance — carpet-out, appliance swap, deck replacement — and the container demand in Jackson runs well above what the town's population alone would suggest.",
+      "The construction season in Teton County is short. Snow can close job sites by October, sometimes earlier. From late May through September, contractors stack projects and timelines compress. That means higher container demand in a smaller window from a limited provider pool. Pricing reflects this — expect to pay 30–50% more than Front Range Colorado rates. A 20-yard container that costs $370–$640 in Denver typically runs $550–$850 in Jackson. A last-minute request during peak summer construction often means waiting for a container to free up. Book with a few days' lead time at minimum.",
+      'Rolloff Dumpster Finder lists providers serving Jackson and Teton County, including coverage into Wilson, Teton Village, Hoback Junction, and Driggs, Idaho. Container sizes locally range from 10-yard bins for single-room projects up to 40-yard roll-offs for larger construction sites. One thing worth asking your provider: if your property is near a wildlife corridor or you are renting for multiple weeks, closed-top containers or scheduled mid-rental pickups reduce the risk of bears getting into an open bin. It is not hypothetical — Teton County has active bear management programs for a reason.',
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Single-room cleanout, small deck removal, garage purge, attic clear-out', range: '$380–$620 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, exterior siding removal, cabin renovation', range: '$460–$740 / week' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen gut, vacation property turnover', range: '$550–$850 / week' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, construction debris, tear-down debris', range: '$680–$1,050 / week' },
+      { size: '40 Yard', uses: 'Commercial construction, major demolition, large custom home build-out', range: '$850–$1,400 / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description: 'Full-house and estate cleanouts in East Jackson, Rafter J Ranch, and Melody Ranch. Older properties near the Budge Drive corridor frequently have decades of accumulated storage in detached garages and sheds.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description: 'Heavy snow loads accelerate roof wear in Jackson. Metal roofing replacement is common on luxury properties; older homes often have asphalt shingles coming off. A 20-yard handles most single-family tear-offs — confirm weight limits for heavier materials.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description: 'New custom home construction and luxury tear-and-rebuild projects generate framing lumber, drywall, insulation, and mixed C&D debris throughout the short building season. 30- and 40-yard containers are the standard on larger Teton County builds.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description: 'High-end kitchen and bathroom renovations are a constant in Jackson\'s vacation property market. Cabinets, tile, countertops, and fixture debris fit comfortably in a 10- or 15-yard container for single-trade jobs.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description: 'Garages in Jackson\'s older residential areas accumulate ski equipment, gear, and general storage over years. A 10-yard container handles a single-car garage cleanout without overpaying for capacity.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description: 'Estate cleanouts on larger Teton County properties often require multiple pulls or a 30-yard container. Remote property access — long driveways, gravel roads — should be discussed with the driver before scheduling.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description: 'Spring cleanups after snowmelt generate significant yard waste — downed branches, dead material, and debris from the long winter. Most providers in the Jackson area accept yard waste; confirm before loading.',
+      },
+      {
+        number: '08',
+        name: 'Vacation Property Turnover',
+        description: 'Jackson has a high density of short-term vacation rentals. Property managers handling large-scale turnovers — furniture swaps, full interior updates — use roll-off containers to consolidate and haul in a single load rather than multiple junk-removal trips.',
+      },
+      {
+        number: '09',
+        name: 'Cabin Tear-Downs',
+        description: 'Older cabins on prime Teton County lots are regularly demolished to make way for new custom construction. Full structure demo generates mixed debris requiring a 30- or 40-yard container and coordination with your general contractor on staging.',
+      },
+      {
+        number: '10',
+        name: 'Deck & Exterior Replacement',
+        description: 'Decks, railings, and exterior siding take a beating from Jackson\'s freeze-thaw cycles and heavy snow. A 15-yard container handles most residential deck removal; larger multi-level decks on luxury properties may need a 20-yard.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Jackson depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Jackson. Many properties have gravel or packed-dirt driveways — ask your provider whether boards are needed under the container to protect the surface.',
+      'Street placement in Jackson requires a right-of-way permit through the Town of Jackson. The provider can often coordinate this, but confirm before scheduling. Downtown streets near Town Square have very limited space and active traffic.',
+      'Many properties in subdivisions like Rafter J Ranch, Melody Ranch, and South Park have HOA guidelines or shared-access roads. Confirm placement is allowed under your HOA covenants before booking.',
+      'Steep or narrow driveways are common in the hills above town and on properties bordering the Snake River bottomland. Discuss access specifics with the driver before delivery — not all sites can accommodate a standard roll-off truck.',
+      'Bear activity is active in Teton County year-round, and especially during spring and fall. Open containers left onsite for multiple days can attract bears. Ask your provider about closed-top container options or mid-rental pickup scheduling if your project runs more than a few days.',
+      'Snow can arrive in September and linger into May. If your project spans the shoulder season, confirm the provider\'s weather delay policy before booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Town Square',
+      'East Jackson',
+      'North Jackson',
+      'Cache Creek',
+      'Karns Meadow',
+      'Rafter J Ranch',
+      'Melody Ranch',
+      'South Park',
+      'Budge Drive',
+      'Flat Creek',
+      'Snow King',
+      'Ivory Jackson',
+      'Indian Springs',
+      'Virginian Village',
+      'West Broadway Corridor',
+    ],
+    nearbyCities: [
+      'Wilson',
+      'Teton Village',
+      'Kelly',
+      'Moose',
+      'Hoback Junction',
+      'Driggs, ID',
+      'Victor, ID',
+      'Alta',
+      'Alpine',
+      'Star Valley Ranch',
+      'Afton',
+      'Bondurant',
+      'Moran',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Jackson, WY?',
+        answer:
+          'A 10-yard container in Jackson typically runs $380–$620 per week. A 20-yard — the most common size for home cleanouts and roofing jobs — runs $550–$850. Jackson prices run 30–50% higher than Front Range Colorado markets. The provider pool is small, availability is tighter, and operating costs in Teton County are significantly higher.',
+      },
+      {
+        question: 'What size dumpster do I need for a Jackson home cleanout?',
+        answer:
+          'Most Jackson home cleanouts fit in a 20-yard container. Older East Jackson properties with detached garages and years of storage may need a 30-yard. A 10-yard is the right call for a single-room or garage-only project.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Jackson?',
+        answer:
+          'Yes. Roofing projects are one of the most common container uses in Jackson. Metal roofing — common on newer and renovated properties — is lighter than concrete tile but heavier than asphalt. Confirm the per-ton weight allowance before booking. A 20-yard handles most residential tear-offs.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Jackson?',
+        answer:
+          'Most Jackson providers accept concrete, dirt, and rock in dedicated heavy-debris containers. These materials hit weight limits at roughly half the container volume — a full 10-yard bin of concrete can exceed the weight limit of a 30-yard container. Confirm the per-ton overage rate before loading.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Jackson?',
+        answer:
+          'Most Jackson-area providers need 48–72 hours for standard deliveries. During peak summer construction months — June through August — availability can tighten, and a 4–5 day lead time is more reliable. Book early if your project has a fixed start date.',
+      },
+      {
+        question: 'Do you serve nearby areas like Wilson, Teton Village, and Driggs?',
+        answer:
+          'Most Jackson-area roll-off providers serve Wilson, Teton Village, Hoback Junction, and surrounding Teton County. Some providers also cover Driggs and Victor in Idaho\'s Teton Valley. Delivery fees increase with distance from Jackson — confirm the delivery charge when you get your quote.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Jackson?',
+        answer:
+          'Standard rentals in Jackson run 7 days. Extensions are available from most providers — ask about the weekly extension rate before signing so it does not show up as a surprise on the invoice.',
+      },
+      {
+        question: 'Are there items I cannot put in a Jackson dumpster?',
+        answer:
+          'Standard prohibited items include paint, batteries, propane tanks, tires, and hazardous materials. Some Jackson providers also restrict mattresses or electronics. Confirm the prohibited items list with your specific provider before loading — a flagged load can trigger additional sorting fees.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Jackson, WY?',
+        answer:
+          'Driveway placement on private property does not require a permit. Street or right-of-way placement in the Town of Jackson requires a permit through the Town. Your rental provider can often coordinate the permit, but confirm before delivery.',
+      },
+      {
+        question: 'What should I know about bears and open dumpsters in Jackson?',
+        answer:
+          'Bear activity in Teton County is real, and open containers left onsite overnight can attract bears — particularly in spring and fall. If your project runs more than a day or two, ask your provider whether closed-top containers are available, or schedule a mid-rental pickup to keep the bin from sitting full and open for extended periods.',
+      },
+    ],
+    latitude: 43.4799,
+    longitude: -110.7624,
+  },
+  // ─── EVANSTON ─────────────────────────────────────────────────
+  {
+    slug: 'evanston-wy-dumpster-rental',
+    cityName: 'Evanston',
+    stateName: 'Wyoming',
+    stateAbbr: 'WY',
+    metaTitle: 'Dumpster Rental in Evanston, WY | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Evanston, WY. Container sizes, honest pricing, and delivery for home cleanouts, ranch properties, and construction in Uinta County.',
+    primaryKeyword: 'Evanston dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Evanston WY',
+      'Evanston construction dumpster rental',
+      'roll off dumpster Evanston',
+      'roll off dumpster Evanston WY',
+      'rolloff dumpsters Evanston',
+      'roll offs Evanston WY',
+      '10 yard dumpster rental Evanston',
+      '20 yard dumpster rental Evanston',
+      '30 yard dumpster rental Evanston',
+      'Evanston Wyoming dumpster rental',
+      'Uinta County dumpster rental',
+      'dumpster rental Uinta County WY',
+    ],
+    heroH1: 'Roll-Off Dumpster Rental in Evanston, Wyoming',
+    heroSubheadline:
+      'Find roll-off dumpster rental options in Evanston for home cleanouts, ranch property cleanup, roofing debris, and renovation projects across Uinta County.',
+    introParagraphs: [
+      "Evanston was built by the Union Pacific Railroad, and the housing stock still shows it. The historic core along Main Street and the China Row corridor has Victorian-era homes and railroad worker cottages from the 1870s through 1920s — older properties that need updating, and updating means debris. A kitchen gut job, a full-floor tear-out, a century-old garage finally getting cleared — these jobs show up steadily. Mid-century residential development fills out the neighborhoods north and south of downtown, adding another layer of housing that is overdue for renovation work.",
+      "The Uinta Basin energy economy runs through Evanston. When natural gas activity picks up in the region, construction follows — commercial development along the I-80 corridor, expanded equipment yards, new oilfield service infrastructure. When the cycle turns, properties get cleaned out or repurposed. Both directions generate debris. Ranch and rural property cleanouts across Uinta County add a steady secondary stream: outbuildings, old fencing, equipment that has been sitting on a parcel for years and is finally moving.",
+      "Rolloff Dumpster Finder connects Evanston customers with roll-off providers serving southwestern Wyoming and the Utah border corridor. The city sits near the I-80 Wyoming-Utah line — some providers come from the Rock Springs and Green River direction, others out of the Salt Lake City metro, about 80 miles west. That gives Evanston more options than a town this size typically gets. Container sizes range from 10-yard bins for single-room jobs up to 40-yard roll-offs for larger commercial or rural cleanouts.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Single-room cleanout, small demolition, garage purge, attic clear-out', range: '$270–$460 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodel, deck removal, medium home cleanout, shed demolition', range: '$320–$545 / week' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel, rental property turnover', range: '$385–$665 / week' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, ranch property debris, C&D debris', range: '$465–$800 / week' },
+      { size: '40 Yard', uses: 'Commercial construction, major demo, large industrial or rural site cleanout', range: '$585–$1,090 / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description: "Full-house, garage, and estate cleanouts across Evanston's residential neighborhoods. Older homes in the historic downtown core and along the Harrison Drive corridor often hold decades of accumulated storage.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description: "Evanston's high elevation and heavy winter snowfall accelerate roof wear. A 20-yard container handles most residential asphalt shingle tear-offs. Confirm weight limits before loading — heavy debris fills a bin fast at roughly half capacity.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description: 'Residential and commercial construction along the I-80 corridor generates mixed framing, drywall, and finish debris. 20- and 30-yard containers are the standard for active job sites in the Evanston area.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description: "Kitchen and bathroom updates in Evanston's older housing stock — cabinets, tile, countertops, cast-iron fixtures — go into a 10- or 15-yard container for single-trade jobs. Confirm with your provider whether cast iron and porcelain go in the standard load or count as heavy debris.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description: "Garages and basements in Evanston's mid-century residential areas accumulate fast in a climate where you spend a lot of time indoors. A 10-yard container is the right call for a standard two-car garage without overpaying for unused capacity.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description: 'Estate cleanouts on older Evanston properties can run significant volume — full-house furniture, decades of storage, outbuildings. A 20-yard handles most, but larger properties or those with exterior structures may need a 30-yard.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description: "Spring cleanups after snowmelt generate substantial yard waste in Evanston. Branches, dead plant material, and debris from the long high-elevation winter go into a yard-waste load. Confirm your provider accepts green waste before mixing it with general debris.",
+      },
+      {
+        number: '08',
+        name: 'Ranch & Rural Cleanouts',
+        description: 'Rural Uinta County properties accumulate outbuilding debris, old fencing, equipment, and decades of mixed material. A 30- or 40-yard container is standard for large rural cleanouts. Confirm delivery access on dirt or gravel roads before scheduling.',
+      },
+      {
+        number: '09',
+        name: 'Oilfield & Industrial Site Cleanup',
+        description: 'Commercial and oilfield-adjacent site cleanup in the Evanston area requires sorting non-hazardous debris before loading. Confirm prohibited materials with your provider — industrial sites often have mixed loads that need to be pre-sorted.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Evanston depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Evanston. Most residential lots have adequate driveway access. Ask your provider whether boards are needed under the container to protect the surface — older asphalt can crack under a loaded bin.',
+      'Alley access is available in some of the older downtown residential blocks. If your property has alley access, confirm the alley width is sufficient for the delivery truck before scheduling.',
+      'Street or right-of-way placement in Evanston requires coordination with the City of Evanston Public Works department. Your rental provider can often handle the permit, but confirm before delivery.',
+      'Rural Uinta County properties on private land generally do not require a placement permit. If placing near a county road, check with Uinta County before scheduling.',
+      "Snow and ice can delay delivery or make placement difficult from October through April. Evanston sits at 6,748 feet — winter comes early and stays late. If your project runs into the shoulder season, confirm your provider's weather delay policy.",
+      'Older lots in the historic downtown and China Row area may have overhead wires, mature trees, and tight access. Discuss the site with your driver before booking to confirm the truck can get in and out cleanly.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Historic Downtown',
+      'China Row District',
+      'Railroad District',
+      'North Evanston',
+      'South Evanston',
+      'East End',
+      'West End',
+      'Hospital Hill',
+      'Bear River Bottom',
+      'Country Club Area',
+      'Harrison Drive Corridor',
+      'Yellow Creek Road Area',
+    ],
+    nearbyCities: [
+      'Lyman',
+      'Mountain View',
+      'Fort Bridger',
+      'Urie',
+      'Carter',
+      'Lonetree',
+      'Randolph, UT',
+      'Woodruff, UT',
+      'Kemmerer',
+      'Green River',
+      'Rock Springs',
+      'Coalville, UT',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Evanston, WY?',
+        answer:
+          'A 10-yard container in Evanston typically runs $270–$460 per week. A 20-yard — the most common size for full home cleanouts and roofing jobs — runs $385–$665. Evanston has a small provider pool, so pricing can vary more between companies than in larger markets. Get at least two quotes before booking.',
+      },
+      {
+        question: 'What size dumpster do I need for an Evanston home cleanout?',
+        answer:
+          "Most Evanston home cleanouts fit in a 20-yard container. If the property has a detached garage, outbuildings, or decades of accumulated storage, a 30-yard is the safer call. A 10-yard works for single-room or garage-only jobs.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Evanston?',
+        answer:
+          'Yes. Roofing projects are common in Evanston given the heavy snowfall and freeze-thaw cycles at elevation. A 20-yard handles most single-family residential tear-offs. Confirm the weight allowance before loading — asphalt shingles are denser than they look.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Evanston?',
+        answer:
+          'Most providers accept concrete, dirt, and rock in designated heavy-debris containers. These materials hit weight limits at roughly half the container volume. Confirm the per-ton overage rate before you load — it typically runs $50–$100 per ton over the included limit.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Evanston?',
+        answer:
+          'Most Evanston-area providers need 48–72 hours for standard deliveries. For rural Uinta County addresses or larger containers, plan for 3–5 business days. The provider pool is small — if your project has a firm start date, book early.',
+      },
+      {
+        question: 'Do you serve nearby areas like Lyman, Mountain View, and Kemmerer?',
+        answer:
+          'Most providers serving Evanston also cover surrounding Uinta County communities — Lyman, Mountain View, Fort Bridger, and Urie. Coverage into Kemmerer and toward Green River depends on the provider. Confirm service area and any mileage surcharge when you get your quote.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Evanston?',
+        answer:
+          'Standard rentals in Evanston run 7 days. Most providers offer weekly extensions — ask about the extension rate before signing so it does not show up as a surprise on the invoice.',
+      },
+      {
+        question: 'Are there items I cannot put in an Evanston dumpster?',
+        answer:
+          'Standard prohibited items include paint, batteries, propane tanks, tires, and hazardous materials. Some providers restrict mattresses or electronics. For oilfield or industrial cleanouts, confirm what is acceptable before loading — mixed debris from energy-sector sites often requires sorting.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Evanston?',
+        answer:
+          'Driveway placement on private property does not require a permit. Street or right-of-way placement in Evanston requires coordination with the City of Evanston Public Works department. Your rental provider can often handle the permit, but confirm before delivery.',
+      },
+      {
+        question: 'Can I rent a dumpster for a rural property outside Evanston?',
+        answer:
+          'Yes. Providers serving Evanston regularly deliver to rural Uinta County addresses for ranch cleanouts, outbuilding demolitions, and land-clearing jobs. Delivery fees increase with distance and may be higher on unpaved roads. Confirm service area, access requirements, and the delivery surcharge when booking.',
+      },
+    ],
+    latitude: 41.2697,
+    longitude: -110.9633,
+  },
+  // ─── GREEN RIVER ──────────────────────────────────────────────
+  {
+    slug: 'green-river-wy-dumpster-rental',
+    cityName: 'Green River',
+    stateName: 'Wyoming',
+    stateAbbr: 'WY',
+    metaTitle: 'Dumpster Rental in Green River, WY | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Green River, WY. Container sizes, pricing, and delivery for home cleanouts, renovation, and commercial projects in Sweetwater County.',
+    primaryKeyword: 'Green River dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Green River WY',
+      'Green River construction dumpster rental',
+      'roll off dumpster Green River',
+      'roll off dumpster Green River WY',
+      'rolloff dumpsters Green River',
+      'roll offs Green River WY',
+      '10 yard dumpster rental Green River',
+      '20 yard dumpster rental Green River',
+      '30 yard dumpster rental Green River',
+      'Green River Wyoming dumpster rental',
+      'Sweetwater County dumpster rental',
+      'dumpster rental Sweetwater County WY',
+    ],
+    heroH1: 'Roll-Off Dumpster Rental in Green River, Wyoming',
+    heroSubheadline:
+      'Find roll-off dumpster rental options in Green River for home cleanouts, renovation debris, roofing projects, and commercial work across Sweetwater County.',
+    introParagraphs: [
+      "Green River's housing stock is mostly a product of when the town actually grew — the mid-20th century and especially the 1970s energy boom. The working-class neighborhoods have functional ranch homes, split-levels, and brick construction that was built for miners and plant workers, not for curb appeal. After 40 or 50 years, these properties need updating. Kitchens come out, bathrooms get gutted, roofs hit end-of-life. Estate cleanouts along the Riverview corridor and in North End neighborhoods come in steadily — the workforce that moved here during the boom has been in those houses a long time.",
+      "Sweetwater County is the world's largest producer of trona, mined and processed into soda ash for glass, detergents, and industrial chemicals. That industry drives the local economy. When activity ramps up, commercial construction and plant support work follows. When commodity markets soften, properties change hands, older facilities transition, and cleanup projects accumulate. Green River and Rock Springs sit 14 miles apart and share the same economic cycle, which keeps contractor and commercial debris activity more consistent here than in a purely residential market.",
+      "Rolloff Dumpster Finder lists roll-off providers serving Green River and the broader Sweetwater County market, including Rock Springs and communities along the I-80 corridor. Most providers covering Rock Springs also service Green River, so availability and lead times are reasonably predictable. Container sizes run from 10-yard bins for single-room jobs to 40-yard roll-offs for commercial and industrial work. If your project is south of town toward Flaming Gorge, confirm the delivery surcharge with your provider — distance pricing varies.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Single-room cleanout, garage purge, small demolition, attic clear-out', range: '$260–$450 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodel, deck removal, medium home cleanout, shed demolition', range: '$315–$535 / week' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel, rental property turnover', range: '$375–$655 / week' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, ranch property debris, mixed C&D debris', range: '$455–$785 / week' },
+      { size: '40 Yard', uses: 'Commercial construction, major demolition, large industrial or rural site cleanup', range: '$570–$1,075 / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description: "Full-house and garage cleanouts are steady work in Green River's energy-boom-era neighborhoods. Older ranch homes and split-levels in the North End and East Green River often hold decades of accumulated storage in detached garages and utility sheds.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description: "Harsh winters and the freeze-thaw cycle at 6,099 feet push roof replacements in Green River on a roughly 20-year cycle. A 20-yard container handles most residential asphalt shingle tear-offs — confirm the weight limit before loading if you have multiple layers coming off.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description: "Commercial and residential construction along the Uinta Drive corridor and near I-80 generates mixed framing, drywall, and finish debris. A 20- or 30-yard container is standard on active job sites in the Sweetwater County area.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description: "Kitchen and bathroom updates in Green River's 1960s and 1970s housing stock involve older cabinetry, tile, cast iron, and fixture debris. A 10- or 15-yard handles single-trade remodels. Confirm with your provider whether cast iron counts toward the standard weight limit.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description: "Green River's ranch homes have garages and utility spaces that accumulate fast in a climate with a short outdoor season. A 10-yard container is the right call for most single-car garages and utility spaces.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description: "Estate cleanouts on longtime Green River properties often come with decades of accumulation — tools, equipment, and stored material from careers spent in the trona and energy industries. A 20- or 30-yard handles most, depending on outbuilding volume.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description: "Spring cleanups after snowmelt generate meaningful yard waste in Green River. Confirm your provider accepts green waste before mixing it with general debris — some providers in the Sweetwater County area run separate loads for yard material.",
+      },
+      {
+        number: '08',
+        name: 'Commercial & Industrial Cleanup',
+        description: "Commercial property turnover, oilfield-adjacent site cleanup, and industrial facility transitions generate non-hazardous debris that goes into roll-off containers. Sort prohibited materials before loading — mixed industrial loads can trigger additional inspection or sorting fees.",
+      },
+      {
+        number: '09',
+        name: 'Cabin & Recreation Property Cleanouts',
+        description: "Recreational properties along the Flaming Gorge corridor south of Green River turn over and get cleaned out periodically. Confirm delivery coverage and any distance surcharge with your provider before booking — not all providers service the full Flaming Gorge area.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Green River depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Green River. Most residential properties have adequate driveway access. Ask your provider whether boards are needed under the container — older asphalt in the energy-boom-era neighborhoods can crack under a loaded bin.',
+      'Alley access is available in some of the older downtown and near-North End residential blocks. If your property has alley access, confirm the alley width is sufficient for the delivery truck before booking.',
+      'Street or right-of-way placement in Green River requires a permit through the City of Green River. Your provider can often coordinate the permit, but confirm before delivery — unpermitted street placements can result in the container being removed.',
+      'Snow and ice can delay delivery and complicate placement from October through April. If your project runs into the shoulder season, confirm your provider\'s policy on weather delays before booking.',
+      'Industrial and commercial placements near the trona corridor east of town may have additional access or safety requirements. Confirm site access specifics with the delivery driver before scheduling.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Green River',
+      'North End',
+      'South End',
+      'Castle Rock Heights',
+      'Riverview',
+      'Expedition Island Area',
+      'East Green River',
+      'West Green River',
+      'Uinta Drive Corridor',
+      'Palisades Area',
+      'Railroad District',
+      'Airport Area',
+    ],
+    nearbyCities: [
+      'Rock Springs',
+      'Superior',
+      'Wamsutter',
+      'Rawlins',
+      'Lyman',
+      'Mountain View',
+      'Evanston',
+      'Pinedale',
+      'Baggs',
+      'Craig, CO',
+      'Vernal, UT',
+      'Manila, UT',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Green River, WY?',
+        answer:
+          'A 10-yard container in Green River typically runs $260–$450 per week. A 20-yard — the most common size for full home cleanouts and roofing jobs — runs $375–$655. Green River and Rock Springs share most of the same providers, so pricing is similar across both cities. Get at least two quotes — the small provider pool means rates can vary.',
+      },
+      {
+        question: 'What size dumpster do I need for a Green River home cleanout?',
+        answer:
+          'Most Green River home cleanouts fit in a 20-yard container. If the property has a detached garage, utility shed, or substantial accumulated storage from years of energy-industry work, a 30-yard is the safer call. A 10-yard works for single-room or garage-only jobs.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Green River?',
+        answer:
+          'Yes. Roofing tear-offs are one of the most common container uses in the area. A 20-yard handles most residential asphalt shingle jobs. If you have multiple layers or heavier material coming off, confirm the weight limit upfront — overage fees typically run $50–$100 per ton.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Green River?',
+        answer:
+          'Most providers in the Sweetwater County area accept concrete, dirt, and rock in designated heavy-debris containers. These materials reach weight limits at roughly half the container volume. Confirm the per-ton overage rate before you start loading.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Green River?',
+        answer:
+          'Most providers need 48–72 hours for standard deliveries. Because Green River shares a provider pool with Rock Springs, availability is generally reasonable outside of peak summer construction months. For commercial or industrial projects, 3–5 business days is more reliable.',
+      },
+      {
+        question: 'Do you serve Rock Springs and other nearby areas?',
+        answer:
+          'Most providers serving Green River also cover Rock Springs, Superior, and surrounding Sweetwater County communities. Some extend toward Rawlins and Evanston. Confirm service area and any mileage surcharge when getting your quote.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Green River?',
+        answer:
+          'Standard rentals run 7 days. Most providers offer weekly extensions — ask for the extension rate before signing so it does not appear as a surprise on the invoice.',
+      },
+      {
+        question: 'Are there items I cannot put in a Green River dumpster?',
+        answer:
+          'Standard prohibited items include paint, batteries, propane tanks, tires, and hazardous materials. For industrial or oilfield-adjacent cleanouts, confirm prohibited items before loading — mixed debris from energy-sector sites often requires pre-sorting.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Green River?',
+        answer:
+          'Driveway placement on private property does not require a permit. Street or right-of-way placement in the City of Green River requires a permit through the city. Your provider can often handle the permit — confirm before scheduling delivery.',
+      },
+      {
+        question: 'Can providers deliver south toward Flaming Gorge?',
+        answer:
+          'Some providers serving Green River extend coverage south toward the Flaming Gorge corridor. Coverage and pricing vary — distance surcharges apply and not all providers service this area. Confirm delivery range and the additional fee when you get your quote.',
+      },
+    ],
+    latitude: 41.5266,
+    longitude: -109.4662,
+  },
+  // ─── RIVERTON ─────────────────────────────────────────────────
+  {
+    slug: 'riverton-wy-dumpster-rental',
+    cityName: 'Riverton',
+    stateName: 'Wyoming',
+    stateAbbr: 'WY',
+    metaTitle: 'Dumpster Rental in Riverton, WY | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Riverton, WY. Container sizes, pricing, and delivery for home cleanouts, ranch property cleanup, and construction in Fremont County.',
+    primaryKeyword: 'Riverton dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Riverton WY',
+      'Riverton construction dumpster rental',
+      'roll off dumpster Riverton',
+      'roll off dumpster Riverton WY',
+      'rolloff dumpsters Riverton',
+      'roll offs Riverton WY',
+      '10 yard dumpster rental Riverton',
+      '20 yard dumpster rental Riverton',
+      '30 yard dumpster rental Riverton',
+      'Riverton Wyoming dumpster rental',
+      'Fremont County dumpster rental',
+      'dumpster rental Fremont County WY',
+    ],
+    heroH1: 'Roll-Off Dumpster Rental in Riverton, Wyoming',
+    heroSubheadline:
+      'Find roll-off dumpster rental options in Riverton for home cleanouts, ranch property cleanup, roofing debris, and construction projects across Fremont County.',
+    introParagraphs: [
+      "Riverton was platted in 1906 when the Wind River Valley irrigation project made farming viable in this stretch of central Wyoming. The housing stock reflects a century of growth in a small market: early 20th-century bungalows near downtown along the Federal Boulevard corridor, mid-century ranch homes filling out the residential grid through the 1950s and 1960s, and newer construction on the northern and eastern edges of town. The older inventory needs updating, and Riverton's role as the largest city in Fremont County means estate cleanouts come in from a wide surrounding area.",
+      "The Wind River Basin supports a substantial agricultural economy — irrigated farms, ranching operations, and rural parcels that stretch well beyond the city limits. Properties in the basin accumulate outbuilding debris, old equipment, fencing material, and general storage that eventually needs clearing. Ranch cleanouts in this area typically require a 30- or 40-yard container and a delivery truck that can handle gravel or dirt road access. When oil and gas activity in the basin picks up, contractor and commercial debris adds to the same container demand.",
+      "Rolloff Dumpster Finder lists providers operating in Riverton and serving the broader Fremont County market, including Lander, Shoshoni, Hudson, and Pavillion. Providers based here tend to cover a large geographic footprint by Wyoming standards. Container sizes run from 10-yard bins for single-room residential jobs up to 40-yard roll-offs for large ranch or commercial projects. If your property is on a gravel or unpaved road, mention it when booking — access conditions affect which truck and equipment the provider can send.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Single-room cleanout, attic clear-out, small garage purge, minor demolition', range: '$270–$460 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodel, deck removal, medium home cleanout, shed demolition', range: '$325–$550 / week' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel, rental property turnover', range: '$390–$670 / week' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, ranch property debris, mixed C&D debris', range: '$470–$800 / week' },
+      { size: '40 Yard', uses: 'Commercial construction, large demo, agricultural site cleanup, major ranch cleanout', range: '$590–$1,090 / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description: "Full-house and garage cleanouts in Riverton's older residential neighborhoods — the bungalows and ranch homes near downtown Federal Boulevard and in the mid-century blocks — often involve decades of accumulated storage. A 20-yard handles most, though properties with detached outbuildings frequently need a 30-yard.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description: "Riverton's climate swings — summer heat, wind, and hard winters at nearly 5,000 feet — work through roofing materials faster than milder markets. A 20-yard container handles most single-family asphalt shingle tear-offs. Confirm the weight limit before loading if you have multiple layers.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description: "New residential construction on the northern and eastern edges of Riverton, along with commercial development along the Federal Boulevard and Sunset Drive corridors, generates standard framing, drywall, and finish debris. A 20- or 30-yard is the standard call on active job sites in the area.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description: "Riverton's older housing stock — early 20th-century and mid-century homes — has kitchens and bathrooms that are well overdue for updates. Cabinets, tile, cast-iron fixtures, and old plumbing go into a 10- or 15-yard container for single-trade jobs.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description: "Garages and utility spaces in Riverton accumulate fast — especially on properties that have been in the same family since the mid-century expansion. A 10-yard container is the right size for a standard single-car garage or utility cleanout.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description: "Riverton draws estate cleanout work from across Fremont County — the city's provider pool and central location make it the practical choice for rural and small-town properties throughout the basin. Larger estates with multiple outbuildings often need a 30-yard and multiple pickup trips.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description: "Spring cleanups in Riverton generate meaningful yard waste after the long high-desert winter. Confirm your provider accepts green waste before mixing it with general debris — some providers run separate loads for yard material.",
+      },
+      {
+        number: '08',
+        name: 'Ranch & Agricultural Cleanouts',
+        description: "Ranch and farm property cleanouts in the Wind River Basin are a steady category in this market. Old equipment, corrals, irrigation hardware, and outbuilding debris go into 30- or 40-yard containers. Confirm gravel or dirt road delivery access with your provider before booking — not all trucks handle remote ranch access.",
+      },
+      {
+        number: '09',
+        name: 'Oilfield & Commercial Site Cleanup',
+        description: "The Wind River Basin has active oil and gas production, and the commercial and site cleanup work that follows it. Non-hazardous debris from oilfield-adjacent sites goes into roll-off containers after sorting. Confirm prohibited materials with your provider before loading mixed commercial or industrial debris.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Riverton depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Riverton. Most residential properties have adequate driveway access. If the driveway surface is gravel or older asphalt, ask your provider whether boards are needed under the container to protect the surface.',
+      'Rural and ranch properties outside of Riverton often have dirt or gravel access roads. Discuss road conditions with the driver before booking — some delivery trucks and container sizes require a firmer surface for safe placement.',
+      'Street or right-of-way placement in Riverton requires a permit from the City of Riverton. Your provider can often handle the coordination, but confirm this before scheduling delivery.',
+      'Properties on or near the Wind River bottomlands may have seasonal access limitations during spring runoff. If your project falls in March through May, confirm road conditions before scheduling.',
+      'Alley access is available in some of the older downtown residential blocks. Confirm alley width and overhead clearance before requesting alley placement.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Riverton',
+      'North Riverton',
+      'South Riverton',
+      'East Riverton',
+      'West Riverton',
+      'Riverton Heights',
+      'Airport Area',
+      'Wind River Corridor',
+      'Golf Course Road Area',
+      'Granville Area',
+      'Cedar Hills',
+      'Industrial District',
+    ],
+    nearbyCities: [
+      'Lander',
+      'Shoshoni',
+      'Hudson',
+      'Pavillion',
+      'Fort Washakie',
+      'Ethete',
+      'Dubois',
+      'Thermopolis',
+      'Worland',
+      'Jeffrey City',
+      'Crowheart',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Riverton, WY?',
+        answer:
+          'A 10-yard container in Riverton typically runs $270–$460 per week. A 20-yard — the most common size for full home cleanouts and roofing jobs — runs $390–$670. Riverton has a small provider pool serving a large geographic area, so rates can vary between companies. Get at least two quotes before booking.',
+      },
+      {
+        question: 'What size dumpster do I need for a Riverton home cleanout?',
+        answer:
+          'Most Riverton home cleanouts fit in a 20-yard container. Properties with detached garages, sheds, or accumulated ranch storage often need a 30-yard. A 10-yard is the right call for single-room or small garage jobs.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Riverton?',
+        answer:
+          "Yes. Roofing replacements are common in Riverton's climate. A 20-yard handles most residential shingle tear-offs. Confirm the per-ton weight limit before loading — overage fees typically run $50–$100 per ton, and multiple roofing layers add up fast.",
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Riverton?',
+        answer:
+          'Most providers in Fremont County accept concrete, dirt, and rock in designated heavy-debris containers. These materials reach weight limits at roughly half the container volume. Ask for the per-ton overage rate before you load.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Riverton?',
+        answer:
+          'Most Riverton-area providers need 48–72 hours for standard residential deliveries. Rural addresses and larger container sizes may require 3–5 business days. The provider pool is small, so if your project has a firm start date, book early.',
+      },
+      {
+        question: 'Do you serve Lander, Shoshoni, and other Fremont County areas?',
+        answer:
+          'Most providers serving Riverton also cover Lander, Shoshoni, Hudson, and Pavillion. Coverage into more remote areas — Dubois, Thermopolis, and Crowheart — depends on the specific provider. Confirm service area and any mileage surcharge when getting your quote.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Riverton?',
+        answer:
+          'Standard rentals run 7 days. Most providers offer weekly extensions — ask about the extension rate before signing so you are not caught off guard on the invoice.',
+      },
+      {
+        question: 'Are there items I cannot put in a Riverton dumpster?',
+        answer:
+          'Standard prohibited items include paint, batteries, propane tanks, tires, and hazardous materials. For ranch or oilfield-adjacent cleanouts, sort out any chemical containers, used oil, or treated lumber before loading and confirm the prohibited list with your provider.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Riverton?',
+        answer:
+          'Driveway placement on private property does not require a permit. Street or right-of-way placement in Riverton requires a permit through the City of Riverton. Your provider can often handle the permit — confirm before scheduling delivery.',
+      },
+      {
+        question: 'Can providers deliver to ranch properties on gravel or dirt roads outside Riverton?',
+        answer:
+          'Yes, though it depends on the provider and current road conditions. Most Riverton-area providers regularly deliver to rural Fremont County addresses. Discuss road surface and access length when booking — some trucks require a firmer surface than others, and soft spring conditions after runoff can limit access.',
+      },
+    ],
+    latitude: 43.0249,
+    longitude: -108.3803,
+  },
 ]
