@@ -92,6 +92,12 @@ const activeStates = [
     desc: 'Roll-off dumpster rental companies serving Dallas–Fort Worth, Houston, Austin, San Antonio, and surrounding Texas markets. Now accepting provider listings.',
     status: 'Accepting Listings',
   },
+  {
+    state: 'Oklahoma',
+    href: '/providers/oklahoma',
+    desc: 'Roll-off dumpster rental companies serving Oklahoma City, Tulsa, Norman, Edmond, Lawton, and communities statewide. Now accepting provider listings.',
+    status: 'Accepting Listings',
+  },
 ]
 
 const comingSoon = ['Wyoming', 'New Mexico']
