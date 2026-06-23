@@ -98,9 +98,15 @@ const activeStates = [
     desc: 'Roll-off dumpster rental companies serving Oklahoma City, Tulsa, Norman, Edmond, Lawton, and communities statewide. Now accepting provider listings.',
     status: 'Accepting Listings',
   },
+  {
+    state: 'Wyoming',
+    href: '/providers/wyoming',
+    desc: 'Roll-off dumpster rental companies serving Cheyenne, Casper, Sheridan, Rock Springs, Laramie, and communities statewide. Now accepting provider listings.',
+    status: 'Accepting Listings',
+  },
 ]
 
-const comingSoon = ['Wyoming', 'New Mexico']
+const comingSoon = ['New Mexico']
 
 export default function ProvidersPage() {
   return (

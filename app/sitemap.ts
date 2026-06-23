@@ -251,6 +251,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      url: 'https://rolloffdumpsterfinder.com/providers/wyoming',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: 'https://rolloffdumpsterfinder.com/locations/provo-ut-dumpster-rental',
       lastModified: new Date(),
       changeFrequency: 'monthly',
