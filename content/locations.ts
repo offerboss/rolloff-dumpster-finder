@@ -6841,4 +6841,1023 @@ export const cityLocations: CityLocation[] = [
     latitude: 43.0249,
     longitude: -108.3803,
   },
+
+  // ─── ARLINGTON ────────────────────────────────────────────
+  {
+    slug: 'arlington-tx-dumpster-rental',
+    cityName: 'Arlington',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Arlington, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Arlington dumpster rental for roofing tear-offs, home cleanouts, and hail damage cleanup. Compare sizes across southeast and north Arlington neighborhoods.',
+    primaryKeyword: 'arlington dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental arlington tx',
+      'arlington construction dumpster rental',
+      'roll off dumpster arlington',
+      'roll off dumpster arlington tx',
+      'rolloff dumpsters arlington',
+      'roll offs arlington tx',
+      '10 yard dumpster rental arlington',
+      '20 yard dumpster rental arlington',
+      '30 yard dumpster rental arlington',
+    ],
+    heroH1: 'Dumpster Rental in Arlington, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Arlington for roofing tear-offs, home cleanouts, hail damage cleanup, and construction debris across Tarrant County.',
+    introParagraphs: [
+      'Arlington built steadily through the 1950s, 1960s, and 1970s as the DFW Metroplex expanded between Dallas and Fort Worth. Southeast Arlington and College Hills have brick ranch houses and split-levels from that era that are hitting the renovation trigger point — roofs, kitchens, and HVAC systems all failing on the same timeline. The University of Texas at Arlington generates consistent rental turnover and investor renovation activity in the surrounding College Hills and Interlochen neighborhoods. An estate cleanout in a 1960s southeast Arlington ranch house typically fills a 20-yard container.',
+      'Arlington sits in Hail Alley, and the mid-cities corridor between Dallas and Fort Worth catches spring storm systems from multiple directions. A single hail event in Tarrant County can push hundreds of simultaneous roofing replacements across Arlington, Grand Prairie, and the mid-cities within weeks. Provider capacity fills fast after a significant storm. Book as soon as you have a contractor scheduled — not after. The Entertainment District around AT&T Stadium and Globe Life Field has driven years of commercial construction that keeps contractor demand for roll-off containers elevated year-round.',
+      'Rolloff Dumpster Finder connects Arlington customers with roll-off containers from local operators across Tarrant and Dallas counties. We cover Arlington and the surrounding mid-cities corridor — Grand Prairie, Mansfield, Kennedale, Euless, Bedford, Hurst, and Irving. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Arlington is in Hail Alley and gets hit regularly during spring storm seasons. A 20-yard container handles most residential roofing tear-offs. After a significant hail event across the mid-cities corridor, provider capacity fills fast — book as soon as you have a contractor scheduled, not after the neighbors have already called.',
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clear-outs in southeast Arlington and College Hills — 1950s and 1960s ranch houses — regularly fill a 20-yard container. Properties with large detached garages or workshop storage accumulated over decades often generate more volume than expected. Size up if the garage has not been touched in years.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from active residential and commercial builds. The Entertainment District around AT&T Stadium and Globe Life Field has driven consistent commercial construction volume. West Arlington development along the Matlock corridor adds steady residential new-construction debris.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Cabinet demolition, tile, old fixtures, and countertop material from renovation projects. Southeast Arlington ranch houses from the 1960s often have original kitchens and bathrooms generating a full container load on their own. The narrow galley kitchens of that era pack more material into the bin than the footprint suggests.',
+      },
+      {
+        number: '05',
+        name: 'Garage Cleanouts',
+        description:
+          "Clay soil and caliche across Tarrant County make true basements uncommon in Arlington. Large attached and detached garages in north and west Arlington — especially in older neighborhoods near the Matlock and Park Row corridors — accumulate decades of equipment, seasonal storage, and overflow from prior moves. A 10-yard handles most; step to a 15-yard for a packed two-car garage.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Clearing a full household after a sale or estate settlement. Older southeast Arlington and Interlochen properties often need a 20 or 30-yard container for a complete clear-out. Having the container onsite from day one keeps the project moving without repeated trips to the landfill.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Arlington neighborhoods. Large lots near Lake Arlington and the River Legacy greenway corridor generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics before loading.',
+      },
+      {
+        number: '08',
+        name: 'Storm & Hail Debris',
+        description:
+          'Post-storm debris removal — damaged roofing, fencing, siding, and downed tree material after major weather events. Arlington hail seasons and occasional severe thunderstorms generate cleanup volume across multiple neighborhoods at once. Book early after a weather event; the market tightens fast.',
+      },
+      {
+        number: '09',
+        name: 'Commercial Renovation',
+        description:
+          'Office gut jobs, restaurant buildouts, and retail renovation near the Entertainment District and along Division Street. Commercial projects near AT&T Stadium and Globe Life Field often require coordinated delivery timing around event schedules. Confirm site access and placement with your contractor before scheduling a drop in this corridor.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Arlington depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across Arlington suburban neighborhoods. Wide lots in north Arlington and west Arlington typically have adequate clearance for a standard roll-off container.',
+      'Alleys are less common in Arlington than in older Fort Worth neighborhoods. Most placements are on the driveway or curbside — coordinate with your provider on which option fits the lot.',
+      'Street or right-of-way placement in Arlington requires a permit from the City of Arlington Public Works department. Your rental provider can typically handle this; confirm before scheduling delivery.',
+      'HOA communities are common in west Arlington — Viridian and newer master-planned communities along the Matlock corridor often have placement restrictions on visible containers. Check with your HOA before booking.',
+      'Protect concrete driveways with boards under the container contact points — standard practice on decorative or newer driveways in west Arlington. Ask your provider whether they supply boards.',
+      'Properties near the Entertainment District may have access restrictions on event days. Confirm drop timing with your provider if the container needs to land near AT&T Stadium or Globe Life Field during a game or event week.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Southeast Arlington',
+      'South Arlington',
+      'North Arlington',
+      'Downtown Arlington',
+      'College Hills',
+      'Interlochen',
+      'Meadowbrook',
+      'Lakeshore',
+      'Webb Addition',
+      'Pantego',
+      'Dalworthington Gardens',
+      'Viridian',
+      'Matlock Estates',
+      'Park Row Estates',
+    ],
+    nearbyCities: [
+      'Fort Worth',
+      'Grand Prairie',
+      'Mansfield',
+      'Kennedale',
+      'Euless',
+      'Bedford',
+      'Hurst',
+      'Irving',
+      'Burleson',
+      'Crowley',
+      'Benbrook',
+      'Cedar Hill',
+      'Duncanville',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Arlington?',
+        answer:
+          'A 10-yard container in Arlington runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for an Arlington home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Arlington. For a garage or single-room project, a 10-yard is typically enough. Older southeast Arlington ranch houses with large garages and decades of accumulated storage often generate more than the homeowner expects — size up if you are not certain.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Arlington?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Arlington. Asphalt shingles are heavier than they look — confirm the weight allowance with your provider before loading. During spring hail season in Tarrant County, book as soon as you have a contractor scheduled. Waiting a week after a storm means waiting longer for a container.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Arlington?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a container with the right weight allowance for the job. Arlington construction and landscaping projects often involve clay soil excavation — tell your provider what you are hauling before they quote you.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Arlington?',
+        answer:
+          'Same-day or next-day delivery is typically available across the Arlington market during normal periods. After a major hail event across the mid-cities corridor, lead times stretch as providers fill with roofing jobs. During storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do I need a permit to put a dumpster on the street in Arlington?',
+        answer:
+          'Yes. Street or right-of-way placement in Arlington requires a permit from the City of Arlington Public Works department. Most rental providers can pull this permit on your behalf. Confirm before scheduling — the driver cannot leave the container on a public street without one.',
+      },
+      {
+        question: 'Do you serve Grand Prairie, Mansfield, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Arlington and the surrounding mid-cities and south Tarrant County area — Grand Prairie, Mansfield, Kennedale, Euless, Bedford, Hurst, Irving, Burleson, Crowley, and Benbrook. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Arlington?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run longer, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or calling for a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in an Arlington dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. Pre-1980 Arlington homes may contain asbestos in floor tile, insulation, or roofing material. Test before demo if the property predates 1980.',
+      },
+    ],
+    latitude: 32.7357,
+    longitude: -97.1081,
+  },
+
+  // ─── IRVING ───────────────────────────────────────────────
+  {
+    slug: 'irving-tx-dumpster-rental',
+    cityName: 'Irving',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Irving, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Irving dumpster rental for roofing tear-offs, home cleanouts, and commercial renovation near Las Colinas and DFW Airport. Compare sizes and get a quote.',
+    primaryKeyword: 'irving dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental irving tx',
+      'irving construction dumpster rental',
+      'roll off dumpster irving',
+      'roll off dumpster irving tx',
+      'rolloff dumpsters irving',
+      'roll offs irving tx',
+      '10 yard dumpster rental irving',
+      '20 yard dumpster rental irving',
+      '30 yard dumpster rental irving',
+    ],
+    heroH1: 'Dumpster Rental in Irving, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Irving for roofing tear-offs, home cleanouts, estate cleanouts, and construction debris across Las Colinas and east Irving.',
+    introParagraphs: [
+      'East Irving built out heavily in the 1950s and 1960s as Dallas expanded westward, and those neighborhoods are generating steady renovation demand now. Brick ranch houses in the Heritage District and Bear Creek area have original kitchens, dated bathrooms, and roofs that have been replaced once already. Valley Ranch — the master-planned community that went up through the 1980s and 1990s — is hitting the age where the second round of major updates arrives all at once. An estate cleanout in an east Irving ranch house fills a 20-yard container without much effort.',
+      'Irving sits in Hail Alley alongside the rest of the DFW Metroplex, and spring storm seasons move through Dallas County with regularity. Las Colinas is a different kind of driver — the corporate campus area around the Mandalay Canal has seen continuous commercial renovation and buildout as ExxonMobil, Celanese, and dozens of other Fortune 500 tenants refresh office space and expand facilities. That commercial activity keeps contractor demand for roll-off containers elevated year-round in the northwestern quarter of the city.',
+      'Rolloff Dumpster Finder connects Irving customers with roll-off containers from local operators serving Dallas County and the adjacent mid-cities. We cover Irving and the surrounding area — Coppell, Carrollton, Farmers Branch, Grand Prairie, Euless, and Grapevine. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Irving is in Hail Alley and spring storm seasons hit Dallas County reliably. A 20-yard container handles most residential roofing tear-offs. After a significant hail event across the DFW metro, provider availability tightens fast — book as soon as you have a contractor scheduled, not after the storm has moved on and everyone else has called.',
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          'East Irving and Bear Creek neighborhoods have 1950s and 1960s ranch houses that generate full 20-yard loads during estate and pre-sale cleanouts. Valley Ranch properties from the 1980s and 1990s are larger — two-car garages and workshop storage add significant volume. Size up if the property has accumulated storage across multiple decades.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from residential and commercial projects. Las Colinas sees steady commercial buildout and office renovation alongside corporate campus expansion. DFW Airport-adjacent hotel and hospitality construction in north Irving adds consistent contractor volume.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Cabinet demolition, tile, old fixtures, and countertop material from renovation projects. East Irving's 1960s ranch houses often have original kitchens that were never updated — these projects generate more debris than the small footprint suggests. Valley Ranch kitchens from the 1980s are a different vintage but hitting the same point in their lifecycle.",
+      },
+      {
+        number: '05',
+        name: 'Garage Cleanouts',
+        description:
+          "True basements are rare across Dallas County's clay soil. Attached and detached garages across Valley Ranch, Hackberry Creek, and the Bear Creek corridor accumulate decades of equipment, seasonal storage, and overflow from prior moves. A 10-yard handles most single-car garage cleanouts; step to a 15-yard for a packed two-car garage.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Clearing a full household after a sale or estate settlement. Older east Irving properties on established lots often need a 20-yard container for a complete clear-out. Properties with detached workshops or long-occupied garages frequently generate more than expected and push toward a 30-yard.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Irving neighborhoods. Large lots along the Las Colinas golf corridors and in Valley Ranch generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics before loading.',
+      },
+      {
+        number: '08',
+        name: 'Commercial Renovation',
+        description:
+          'Office gut jobs, corporate campus tenant improvements, and commercial buildouts in the Las Colinas urban center and along the Highway 114 corridor. Las Colinas high-density zones require coordinated delivery timing and access confirmation — the Mandalay Canal area has limited truck access. Discuss site logistics before scheduling a drop in this corridor.',
+      },
+      {
+        number: '09',
+        name: 'Storm & Hail Debris',
+        description:
+          'Post-storm debris removal after major spring weather events across the DFW metro. Irving hail seasons and severe thunderstorms generate cleanup volume simultaneously across multiple neighborhoods. Provider capacity fills fast after a significant storm — book early and confirm availability rather than assuming same-day service.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Irving depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across Irving suburban neighborhoods. East Irving, Bear Creek, and Valley Ranch lots typically have adequate clearance for a standard roll-off container.',
+      'Las Colinas residential and mixed-use properties often have limited truck access — high-density areas around the Mandalay Canal and urban core zones may not accommodate a standard roll-off. Confirm access logistics with your provider before booking in this area.',
+      'Street or right-of-way placement in Irving requires a permit from the City of Irving Public Works department. Your rental provider can often handle this permit; confirm before scheduling delivery.',
+      'Valley Ranch and Hackberry Creek are HOA communities with placement restrictions on visible containers. Check with your HOA before booking to avoid a conflict on delivery day.',
+      'Use boards under the container contact points to protect decorative driveways and pavers, common in newer Valley Ranch and Las Colinas residential properties.',
+      'DFW Airport-adjacent properties in north Irving may have access restrictions based on FAA easements or commercial zoning. Confirm the drop location with your provider if the site is near the airport corridor.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'East Irving',
+      'West Irving',
+      'South Irving',
+      'Las Colinas',
+      'North Las Colinas',
+      'Valley Ranch',
+      'Heritage District',
+      'Bear Creek',
+      'Hackberry Creek',
+      'Cottonhill',
+      'Kinwest',
+      'MacArthur Park',
+      'Mustang Park',
+      'Riverside',
+    ],
+    nearbyCities: [
+      'Dallas',
+      'Coppell',
+      'Carrollton',
+      'Farmers Branch',
+      'Grand Prairie',
+      'Arlington',
+      'Euless',
+      'Grapevine',
+      'Bedford',
+      'Addison',
+      'Duncanville',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Irving?',
+        answer:
+          'A 10-yard container in Irving runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for an Irving home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Irving. For a garage or single-room project, a 10-yard is typically enough. East Irving ranch houses with large attached garages — especially those that have not been emptied in years — often generate more than expected. Size up if you are not sure.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Irving?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Irving. Asphalt shingles are heavier than they look — confirm the weight allowance with your provider before loading. During DFW hail season, booking as soon as you have a contractor lined up is the most important step. Waiting a week after a storm means waiting longer for a container.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Irving?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need a container with the right weight allowance for the job. Dallas County clay soil excavation adds weight fast — tell your provider what you are hauling before they quote you.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Irving?',
+        answer:
+          'Same-day or next-day delivery is typically available across the Irving market during normal periods. After a major hail event across the DFW metro, lead times stretch as providers fill with roofing jobs. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do I need a permit to put a dumpster on the street in Irving?',
+        answer:
+          'Yes. Street or right-of-way placement in Irving requires a permit from the City of Irving Public Works department. Most rental providers can pull this permit on your behalf. Confirm before scheduling — the driver cannot leave the container on a public street without one.',
+      },
+      {
+        question: 'Do you serve Coppell, Grand Prairie, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Irving and the surrounding area — Coppell, Carrollton, Farmers Branch, Grand Prairie, Arlington, Euless, Grapevine, Bedford, and Addison. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Irving?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Ask about extended pricing at the time of booking if the project will run long — it is cheaper than extending mid-rental or calling for a second pull.',
+      },
+      {
+        question: 'Are there items I cannot put in an Irving dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. Pre-1980 Irving homes may contain asbestos in floor tile, insulation, or roofing material. Test before demo if the property predates 1980.',
+      },
+    ],
+    latitude: 32.8140,
+    longitude: -96.9489,
+  },
+
+  // ─── FRISCO ───────────────────────────────────────────────
+  {
+    slug: 'frisco-tx-dumpster-rental',
+    cityName: 'Frisco',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Frisco, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Frisco dumpster rental for new construction, kitchen remodels, hail damage cleanup, and home cleanouts across Collin County. Compare sizes and get a quote.',
+    primaryKeyword: 'frisco dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental frisco tx',
+      'frisco construction dumpster rental',
+      'roll off dumpster frisco',
+      'roll off dumpster frisco tx',
+      'rolloff dumpsters frisco',
+      'roll offs frisco tx',
+      '10 yard dumpster rental frisco',
+      '20 yard dumpster rental frisco',
+      '30 yard dumpster rental frisco',
+    ],
+    heroH1: 'Dumpster Rental in Frisco, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Frisco for new construction, kitchen remodels, hail damage cleanup, and home cleanouts across Collin County.',
+    introParagraphs: [
+      'Frisco grew faster than nearly any city in the country through the 2000s and 2010s, and most of that housing stock is now hitting the 15-to-25-year mark. Original kitchens, roofing systems, and HVAC equipment installed when Stonebriar and Grayhawk were first developed are reaching the end of their lifecycle at the same time. First-generation homeowners and buyers remodeling after purchase both drive steady container demand across these neighborhoods. A full kitchen teardown in a 2005 Frisco home fills a 10-yard container without much effort.',
+      'Frisco is still actively developing — new residential subdivisions in far west Frisco and master-planned communities near the Prosper and Celina borders generate consistent new-construction debris alongside the renovation demand in the older stock. The city sits squarely in Hail Alley, and Collin County spring storm seasons push significant roofing replacement volume each year. When a major system moves through, provider availability in north DFW tightens fast. Book as soon as a contractor is scheduled.',
+      'Rolloff Dumpster Finder connects Frisco customers with roll-off containers from local operators covering Collin County and adjacent communities. We serve Frisco and the surrounding north DFW corridor — Plano, Allen, McKinney, The Colony, Prosper, Little Elm, and Celina. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, kitchen teardowns, garage cleanouts, minor roofing jobs',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, multi-room remodels, estate cleanouts, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'New home construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Frisco sits in Hail Alley and Collin County gets hit reliably during spring storm seasons. A 20-yard container handles most residential roofing tear-offs. After a significant hail event across north DFW, provider capacity fills fast — book as soon as you have a contractor scheduled, not after every neighbor in the subdivision has already called.',
+      },
+      {
+        number: '02',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'The first wave of Frisco homes — built between 2000 and 2010 in Stonebriar, Grayhawk, Eldorado, and Plantation Resort — are generating their first major kitchen and bath renovation cycle. These projects produce cabinet boxes, tile, countertops, and flooring that fill a 10-yard container quickly. Larger kitchens in high-end Frisco homes often push to a 15-yard.',
+      },
+      {
+        number: '03',
+        name: 'New Home Construction',
+        description:
+          'Frisco is still building at pace. New residential developments in far west Frisco and along the Prosper border generate steady framing, drywall, and mixed construction debris. Contractors on active builds typically plan multiple pulls over the project life rather than holding a single container for weeks.',
+      },
+      {
+        number: '04',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clear-outs in Frisco tend to come from buy-and-update scenarios — buyers who close on a 2005-era home and clear it before renovating. A three-bedroom Frisco home in the first cleanup phase typically fits a 15- or 20-yard container. Properties with large three-car garages holding accumulated storage often push to a 20-yard.',
+      },
+      {
+        number: '05',
+        name: 'Garage Cleanouts',
+        description:
+          'Frisco homes from the 2000s and 2010s were built with large attached garages — three-car configurations are common in Starwood, Heritage Lakes, and Newman Village. Large two- and three-car garages that have been collecting storage for 15-plus years regularly fill a 15-yard container. A 10-yard works for a tidier single-car cleanout.',
+      },
+      {
+        number: '06',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from residential and commercial builds. The Star — the Dallas Cowboys headquarters and practice facility — anchors a commercial corridor that has seen years of sustained development. PGA of America\'s headquarters in west Frisco has added another cluster of commercial construction to the market.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, old sod, brush clearing, and full landscaping overhauls across Frisco neighborhoods. Larger lots in Starwood, Phillips Creek Ranch, and the master-planned communities in west Frisco generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics before loading.',
+      },
+      {
+        number: '08',
+        name: 'Estate Cleanouts',
+        description:
+          'Estate and pre-sale cleanouts in Frisco involve newer homes with large footprints and significant garage storage. These projects typically fit a 20-yard container. Frisco homes from the early 2000s can have significant accumulated storage across three-car garages, finished bonus rooms, and large attic spaces.',
+      },
+      {
+        number: '09',
+        name: 'Storm & Hail Debris',
+        description:
+          'Post-storm debris removal — damaged roofing, fencing, siding, and gutters after major spring weather events. Frisco hail seasons can push roofing replacement volume across multiple subdivisions at once. Provider capacity tightens within days of a significant event. Book early rather than waiting for the workload to settle.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Frisco depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across Frisco suburban neighborhoods. Wide driveways in Frisco three-car-garage homes typically provide adequate clearance for a standard roll-off container.',
+      'HOA restrictions apply in virtually every Frisco neighborhood — Stonebriar, Grayhawk, Heritage Lakes, Newman Village, Phillips Creek Ranch, and most others all have governing associations. Check placement rules and any time limits on visible containers before booking.',
+      'Street or right-of-way placement in Frisco requires a permit from the City of Frisco Public Works department. Your rental provider can typically handle this permit; confirm before scheduling delivery.',
+      'Active construction sites in west Frisco and new-development areas require a designated flat placement spot. Coordinate with the builder or site supervisor on the drop location before the driver arrives.',
+      'Use boards under the container contact points to protect newer decorative driveways and pavers, common across Frisco homes built in the 2000s and later. Ask your provider whether they supply boards.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Stonebriar',
+      'Grayhawk',
+      'Eldorado',
+      'Plantation Resort',
+      'Starwood',
+      'Heritage Lakes',
+      'Newman Village',
+      'Western Ridge',
+      'Shaddock Creek',
+      'Phillips Creek Ranch',
+      'Frisco Square',
+      'Frisco Lakes',
+      'Lawler Park',
+      'The Canals at Grand Park',
+    ],
+    nearbyCities: [
+      'Plano',
+      'McKinney',
+      'Allen',
+      'The Colony',
+      'Little Elm',
+      'Prosper',
+      'Celina',
+      'Carrollton',
+      'Lewisville',
+      'Addison',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Frisco?',
+        answer:
+          'A 10-yard container in Frisco runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and multi-room remodels — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Frisco home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Frisco. For a garage or kitchen remodel, a 10- or 15-yard is typically enough. Frisco homes with large three-car garages and significant accumulated storage often generate more than expected — size up if the property has not been cleared in a decade or more.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Frisco?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Frisco. Asphalt shingles are heavier than they look — confirm the weight allowance with your provider before loading. During Collin County hail season, booking as soon as you have a contractor lined up is the most important step. Provider availability tightens fast after a major storm.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Frisco?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and masonry need a container with the right weight allowance. Frisco new-construction and landscaping projects involving grade work or retaining walls should tell the provider what is going in the bin before getting a quote.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Frisco?',
+        answer:
+          'Same-day or next-day delivery is typically available in the Frisco market during normal periods. After a major hail event across Collin County, lead times stretch as providers fill with roofing jobs across north DFW. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'My HOA has rules about containers — what do I need to know?',
+        answer:
+          'Most Frisco neighborhoods have HOA rules that restrict where a container can be placed and how long it can sit visible from the street. Check with your association before booking. Some HOAs require written approval; others just need advance notice. Your provider can usually advise on common restrictions in the area.',
+      },
+      {
+        question: 'Do you serve Plano, McKinney, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Frisco and the surrounding north DFW corridor — Plano, Allen, McKinney, The Colony, Little Elm, Prosper, Celina, Carrollton, and Lewisville. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Frisco?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at the time of booking rather than extending mid-rental. Active construction projects often benefit from a planned pull schedule rather than a single long rental.',
+      },
+      {
+        question: 'Are there items I cannot put in a Frisco dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. Frisco homes are newer and typically do not have asbestos concerns, but any home built before 1980 should be tested before demo work begins.',
+      },
+    ],
+    latitude: 33.1507,
+    longitude: -96.8236,
+  },
+
+  // ─── MCKINNEY ─────────────────────────────────────────────
+  {
+    slug: 'mckinney-tx-dumpster-rental',
+    cityName: 'McKinney',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in McKinney, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'McKinney dumpster rental for historic home renovations, Stonebridge Ranch remodels, roofing tear-offs, and estate cleanouts across Collin County.',
+    primaryKeyword: 'mckinney dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental mckinney tx',
+      'mckinney construction dumpster rental',
+      'roll off dumpster mckinney',
+      'roll off dumpster mckinney tx',
+      'rolloff dumpsters mckinney',
+      'roll offs mckinney tx',
+      '10 yard dumpster rental mckinney',
+      '20 yard dumpster rental mckinney',
+      '30 yard dumpster rental mckinney',
+    ],
+    heroH1: 'Dumpster Rental in McKinney, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in McKinney for historic home renovations, Stonebridge Ranch remodels, roofing tear-offs, and estate cleanouts throughout Collin County.',
+    introParagraphs: [
+      'McKinney has two distinct dumpster markets running at the same time. The historic downtown district and older central neighborhoods built from the 1890s through the 1960s generate estate cleanout and renovation demand as longtime residents move on and buyers take on full-gut projects. Stonebridge Ranch — one of the largest master-planned communities in North Texas, with more than 9,000 homes — has its own renovation wave as properties from the 1990s and early 2000s hit the 25-to-30-year mark. Both markets are active, and they rarely need the same container size.',
+      'McKinney is still building on its western and northern edges. Trinity Falls along the West Fork Trinity River, Painted Tree, and Erwin Farms are generating consistent new-construction debris alongside the renovation demand in the older stock. Collin County sits in Hail Alley, and spring storm seasons push roofing replacement volume across the metro simultaneously. Provider capacity tightens fast after a significant event — booking as soon as a contractor is scheduled is the move, not waiting to see how the workload settles.',
+      'Rolloff Dumpster Finder connects McKinney customers with roll-off containers from local operators covering Collin County and adjacent communities. We serve McKinney and the surrounding corridor — Frisco, Allen, Prosper, Celina, Melissa, Fairview, and Princeton. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, kitchen teardowns, garage cleanouts, small historic home projects',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, estate cleanouts, multi-room remodels, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, whole-property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'New home construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Historic Home Renovation',
+        description:
+          'McKinney\'s historic downtown neighborhoods around the courthouse square have 1890s through 1940s homes that generate significant debris during gut renovations. Original plaster walls, old hardwood subfloors, cast iron pipe, and knob-and-tube wiring all add weight fast. Confirm truck access before scheduling delivery on the narrow downtown grid streets.',
+      },
+      {
+        number: '02',
+        name: 'Estate Cleanouts',
+        description:
+          'The older central McKinney neighborhoods and historic district properties generate the most estate cleanout demand in the market. A home lived in for 40 or more years in the Chestnut Square area typically fills a 20-yard container. Properties with detached garages, workshops, or outbuildings often push to a 30-yard.',
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          'McKinney sits in Hail Alley and Collin County spring storm seasons hit the market reliably. A 20-yard handles most residential roofing tear-offs. Stonebridge Ranch and Craig Ranch homes have larger roof footprints than average — confirm the weight allowance before loading shingles. Book as soon as a contractor is scheduled; post-storm availability drops fast across north DFW.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Stonebridge Ranch properties from the mid-1990s and early 2000s are at the point where original kitchens and master baths need full replacement. Large Stonebridge Ranch kitchens generate cabinet boxes, tile, countertops, and flooring that fill a 10- or 15-yard container. Older downtown-area kitchens often have more surprises behind the walls.',
+      },
+      {
+        number: '05',
+        name: 'New Home Construction',
+        description:
+          'Trinity Falls, Painted Tree, and Erwin Farms are generating steady framing, drywall, and mixed construction debris on the active western and northern edges of McKinney. Contractors on active builds typically plan multiple pulls rather than holding one container for weeks. Craig Ranch sees infill construction and commercial buildout around the McKinney National Golf Club corridor.',
+      },
+      {
+        number: '06',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clear-outs in McKinney come from two sources: buy-and-update projects in Stonebridge Ranch and Craig Ranch, and pre-sale or post-estate work in older central McKinney. A 1980s McKinney ranch house typically fits a 15-yard. An older historic home with decades of accumulated storage usually needs a 20-yard.',
+      },
+      {
+        number: '07',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from residential and commercial builds. Active development corridors in west and north McKinney generate consistent volume. Commercial construction along the US-75 frontage roads and around the Craig Ranch Town Center adds to contractor demand across the market.',
+      },
+      {
+        number: '08',
+        name: 'Garage Cleanouts',
+        description:
+          'Three-car garages are standard in Stonebridge Ranch and Craig Ranch. These fill with accumulated storage over 20-plus years at a rate that surprises most homeowners until they start loading. A packed three-car garage in Stonebridge Ranch regularly generates a 15-yard load. Older central McKinney properties may have detached garages or workshops that add significant volume.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, old sod, brush clearing, and landscaping overhauls across McKinney neighborhoods. Trinity Falls properties along the river corridor and larger Stonebridge Ranch lots generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics and tree limbs before loading.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in McKinney depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across McKinney suburban neighborhoods. Large driveways in Stonebridge Ranch and Craig Ranch homes typically provide adequate clearance for a standard roll-off container.',
+      'The historic downtown grid streets around the courthouse square are narrow by 1890s standards. Large roll-off trucks may have limited turning radius on some downtown blocks. Confirm access with your provider before scheduling delivery for a historic district property.',
+      'Stonebridge Ranch and Craig Ranch are HOA communities with placement rules that may restrict how long a container can be visible from the street. Check with your association before booking.',
+      'Street or right-of-way placement in McKinney requires a permit from the City of McKinney. Your rental provider can typically handle this permit; confirm before scheduling delivery.',
+      'Active construction sites in Trinity Falls, Painted Tree, and Erwin Farms require a designated flat placement spot. Coordinate with the builder or site supervisor before the driver arrives.',
+      'Use boards under the container contact points to protect newer decorative driveways, common across Stonebridge Ranch and Craig Ranch properties.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Stonebridge Ranch',
+      'Craig Ranch',
+      'Trinity Falls',
+      'Painted Tree',
+      'Erwin Farms',
+      'Historic Downtown McKinney',
+      'Chestnut Square',
+      'Tucker Hill',
+      'Eldorado',
+      'Westridge',
+      'Quail Creek',
+      'Village Creek',
+      'Gatewood Estates',
+      'Saddle Creek Estates',
+    ],
+    nearbyCities: [
+      'Frisco',
+      'Allen',
+      'Plano',
+      'Prosper',
+      'Celina',
+      'Melissa',
+      'Princeton',
+      'Anna',
+      'Fairview',
+      'Murphy',
+      'Wylie',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in McKinney?',
+        answer:
+          'A 10-yard container in McKinney runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and estate cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a McKinney home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in McKinney. For a garage or single-room project, a 10- or 15-yard is typically enough. Older historic district homes and Stonebridge Ranch properties with large garages or outbuildings often generate more than expected — size up if the property has not been cleared in a decade or more.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in McKinney?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in McKinney. Asphalt shingles are heavier than they look — confirm the weight allowance with your provider before loading. During Collin County hail season, booking as soon as you have a contractor lined up is critical. Provider availability tightens fast after a major storm.',
+      },
+      {
+        question: 'Are there special considerations for dumpster rental in the historic downtown district?',
+        answer:
+          'The downtown grid streets are narrow and access for large roll-off trucks can be limited on some blocks near the courthouse square. Confirm access with your provider before scheduling delivery. Street placement in the historic district may also require additional lead time on the City of McKinney permit.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in McKinney?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Historic McKinney homes with brick chimneys, concrete foundations, and cast iron pipe generate heavier loads than typical residential debris. Tell your provider what is going in before getting a quote so the weight allowance is right for the job.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in McKinney?',
+        answer:
+          'Same-day or next-day delivery is typically available in McKinney during normal periods. After a major hail event across Collin County, lead times stretch as providers fill with roofing jobs across north DFW. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do you serve Frisco, Allen, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves McKinney and the surrounding north DFW corridor — Frisco, Allen, Plano, Prosper, Celina, Melissa, Fairview, Princeton, and Murphy. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in McKinney?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Ask about extended pricing at booking if the project will run long. Estate cleanouts in larger historic McKinney properties sometimes require multiple pulls — plan for that at the start rather than extending mid-rental.',
+      },
+      {
+        question: 'Are there items I cannot put in a McKinney dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. McKinney homes built before 1980 may contain asbestos in floor tile, insulation, or roofing material. Test before demo if the property predates 1980.',
+      },
+    ],
+    latitude: 33.1972,
+    longitude: -96.6397,
+  },
+
+  // ─── GARLAND ──────────────────────────────────────────────
+  {
+    slug: 'garland-tx-dumpster-rental',
+    cityName: 'Garland',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Garland, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Garland dumpster rental for estate cleanouts, 1960s home renovations, roofing tear-offs, and construction debris across Dallas County. Get a quote today.',
+    primaryKeyword: 'garland dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental garland tx',
+      'garland construction dumpster rental',
+      'roll off dumpster garland',
+      'roll off dumpster garland tx',
+      'rolloff dumpsters garland',
+      'roll offs garland tx',
+      '10 yard dumpster rental garland',
+      '20 yard dumpster rental garland',
+      '30 yard dumpster rental garland',
+    ],
+    heroH1: 'Dumpster Rental in Garland, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Garland for estate cleanouts, 1960s gut renovations, roofing tear-offs, and construction debris across Dallas County and east DFW.',
+    introParagraphs: [
+      'Garland built out heavily in the 1950s and 1960s as Dallas expanded northeast, and those neighborhoods are at the age where renovation and estate cleanout demand is high. Brick ranch houses across South Garland, Duck Creek, and the blocks around Heritage Crossing are 50 to 70 years old. Original kitchens, aging bathrooms, and first-generation roofing systems are all on the replacement list at once. Estate cleanouts in Garland generate some of the largest single-container loads in the DFW market — a three-bedroom ranch lived in for five decades fills a 20-yard container without much effort.',
+      'Garland sits in DFW Hail Alley, and the older roofing stock across the post-WWII neighborhoods amplifies storm-season demand. When a major hail event tracks through Dallas County, Garland generates disproportionate replacement volume because many roofs were already near the end of their service life. Lake Ray Hubbard runs along the city\'s eastern edge, and the Lakeland Hills and Rowlett Creek areas see waterfront renovation activity that is distinct from what drives the rest of the Garland market.',
+      'Rolloff Dumpster Finder connects Garland customers with roll-off containers from local operators covering Dallas County and adjacent communities. We serve Garland and the surrounding east DFW corridor — Rowlett, Sachse, Richardson, Mesquite, Plano, and Wylie. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, garage cleanouts, small concrete jobs, minor roofing work',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, estate cleanouts, kitchen gut jobs, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, full gut remodels, whole-property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Full demolitions, large construction projects, commercial renovation',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Estate Cleanouts',
+        description:
+          'Garland\'s 1950s and 1960s neighborhoods generate more estate cleanout volume per block than most DFW cities. A brick ranch in South Garland or Duck Creek that has had one owner for 40 years regularly fills a 20-yard container — sometimes more if the garage and shed are packed. Size up if the property has not been cleared in decades.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Garland sits in Hail Alley, and the older housing stock across the city means many roofs were already approaching the end of their lifespan before a storm hits. A 20-yard handles most residential tear-offs. Post-storm provider availability across Dallas County tightens fast — book as soon as a contractor is scheduled, not after the adjuster visit.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Original 1960s kitchens in Garland — formica countertops, steel-frame cabinets, linoleum floors — are generating full gut-and-replace projects as buyers renovate after purchase. A full kitchen demolition in a central Garland ranch house fills a 10-yard container. If the bathroom is part of the same project, step to a 15-yard.',
+      },
+      {
+        number: '04',
+        name: 'Full Home Renovation',
+        description:
+          'Buyers taking on Garland\'s older 1950s and 1960s stock often do full gut renovations: plaster walls out, original subfloors out, knob-and-tube wiring and old plumbing gone. These projects generate 25 to 35 cubic yards of mixed debris. Plan for at least one 30-yard pull or two sequential 20-yard pickups across a full gut job.',
+      },
+      {
+        number: '05',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clear-outs before a sale or renovation. Garland ranch houses with original one-car garages and storage sheds generate significant volume even without furniture. If the property includes a detached workshop or has had long-term storage in the garage, a 20-yard is the safer call over a 15.',
+      },
+      {
+        number: '06',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from renovation and new construction across Garland. The Firewheel area in northeast Garland has seen more recent commercial and residential development than the older city core. Renovation contractors across the older central neighborhoods generate steady debris pull volume.',
+      },
+      {
+        number: '07',
+        name: 'Garage Cleanouts',
+        description:
+          'Garland\'s original 1950s and 1960s homes have single-car detached garages and small workshops that accumulate tools, paint cans, and storage across decades of ownership. These are smaller than the three-car garages common in Frisco or McKinney, but the age of the contents adds weight. A 10-yard handles most single-car cleanouts.',
+      },
+      {
+        number: '08',
+        name: 'Concrete & Driveway Work',
+        description:
+          'Original concrete driveways and sidewalks from Garland\'s 1950s and 1960s construction are cracking and settling after 60-plus years. Concrete is heavy — a single one-car driveway slab can hit the weight limit of a 10-yard container before the box is half full. Tell your provider concrete is the primary debris before getting a quote.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, old sod, brush clearing, and landscaping overhauls across Garland neighborhoods. Mature trees across the older Duck Creek and South Garland lots generate significant trimming debris during storm recovery and seasonal cleanup. Confirm whether your provider accepts organics and large limbs before loading.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Garland depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across Garland. Most post-WWII Garland lots have a paved driveway with enough clearance for a standard roll-off container, though single-car driveways in the older central neighborhoods are narrower than typical suburban driveways.',
+      'Garland\'s 1950s and 1960s neighborhoods were built with rear alleys in many blocks. Alley placement is a viable alternative to the front driveway when street access is limited or a permit is required — confirm the alley width and overhead clearance with your provider before scheduling.',
+      'Street or right-of-way placement in Garland requires a permit from the City of Garland. Your rental provider can typically handle this; confirm before scheduling delivery.',
+      'Garland is not an HOA-heavy city — most older central neighborhoods do not have association restrictions on container placement. Confirm this before booking if you are in a newer development near the Sachse or Rowlett border.',
+      'Use boards under the container to protect older concrete driveways. Garland\'s 1950s and 1960s slabs are more likely to crack under point loading than newer driveways. Ask your provider whether they supply boards.',
+      'Lakeland Hills and Rowlett Creek waterfront properties near Lake Ray Hubbard may have limited rear access. Confirm truck clearance with your provider before scheduling delivery on a lakefront lot.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'South Garland',
+      'Duck Creek',
+      'Heritage Crossing',
+      'Downtown Garland',
+      'Club Hill',
+      'North Garland',
+      'Firewheel',
+      'Holford Hills',
+      'Ridgewood',
+      'Lakeland Hills',
+      'Oakridge',
+      'Springpark',
+      'Eastern Hills',
+      'Rowlett Creek',
+    ],
+    nearbyCities: [
+      'Dallas',
+      'Rowlett',
+      'Sachse',
+      'Richardson',
+      'Plano',
+      'Mesquite',
+      'Wylie',
+      'Murphy',
+      'Balch Springs',
+      'Rockwall',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Garland?',
+        answer:
+          'A 10-yard container in Garland runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and estate cleanouts — runs $360–$620. A 30-yard for large gut renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Garland home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Garland. For a garage or single-room project, a 10- or 15-yard is typically enough. Garland\'s older ranch houses — especially those with detached garages, storage sheds, and decades of accumulated contents — regularly generate 20-yard loads. Size up if the property has not been cleared in a long time.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Garland?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Garland. The older housing stock means many Garland roofs are already near the end of their lifespan when a hail event hits — that sometimes means a heavier-than-normal shingle load. Confirm the weight allowance with your provider before loading. Book as soon as a contractor is scheduled; Dallas County hail events fill provider availability fast.',
+      },
+      {
+        question: 'I have a 1960s Garland home — what size do I need for a gut renovation?',
+        answer:
+          'A full gut renovation on a 1960s Garland ranch house generates 25 to 35 cubic yards of mixed debris — plaster, subfloor material, old fixtures, and framing. Plan for a 30-yard container or two sequential 20-yard pulls. Tell your provider what the project involves before booking so the weight allowance is set correctly for dense material like plaster and concrete.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Garland?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Garland\'s original 1950s and 1960s driveways and sidewalks are heavy concrete that fills a container fast. A one-car concrete driveway can approach the weight limit of a 10-yard before the box is half full. Tell your provider that concrete is the primary debris so the quote reflects the right weight allowance.',
+      },
+      {
+        question: 'Can I use the alley behind my Garland house for the dumpster?',
+        answer:
+          'Yes, in many Garland neighborhoods. The 1950s and 1960s subdivisions across central and south Garland were built with rear alleys. Alley placement works when the alley is wide enough for the truck and there are no overhead obstructions. Confirm alley width and clearance with your provider before scheduling — alleys vary significantly across neighborhoods.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Garland?',
+        answer:
+          'Same-day or next-day delivery is typically available in Garland during normal periods. After a major hail event across Dallas County, lead times stretch as providers fill with roofing jobs. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do you serve Rowlett, Richardson, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Garland and the surrounding east DFW corridor — Rowlett, Sachse, Richardson, Plano, Mesquite, Wylie, Murphy, and Rockwall. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Garland?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Estate cleanouts and full gut renovations in older Garland properties often take longer than expected — ask about extended pricing at booking rather than mid-rental.',
+      },
+      {
+        question: 'Are there items I cannot put in a Garland dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. Garland homes built before 1980 may contain asbestos in floor tile, insulation, or roofing shingles. Test before demo if the property predates 1980. Pre-1978 homes may also have lead paint — check before sanding or demolishing surfaces.',
+      },
+    ],
+    latitude: 32.9126,
+    longitude: -96.6389,
+  },
 ]

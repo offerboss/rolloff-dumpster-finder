@@ -490,5 +490,35 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/arlington-tx-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/irving-tx-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/frisco-tx-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/mckinney-tx-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/garland-tx-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
   ]
 }
