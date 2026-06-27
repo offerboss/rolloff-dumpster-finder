@@ -3417,4 +3417,462 @@ export const blogPosts: BlogPost[] = [
       { id: 'faq', title: 'Straight Answers' },
     ],
   },
+  {
+    slug: 'junk-removal-vs-dumpster-rental',
+    title: 'Junk Removal vs. Dumpster Rental: How to Decide',
+    excerpt:
+      'Junk removal wins for small loads and situations where you have no driveway access. The dumpster wins on cost for anything bigger than a couple cubic yards. Here is the break-even point and the four questions to ask before booking either.',
+    category: 'Comparison',
+    coverImage:
+      'https://images.pexels.com/photos/29584744/pexels-photo-29584744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Truck loaded with recycling waste and debris for junk removal hauling',
+    date: '2026-06-22',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Junk removal wins for small loads and tight access. Dumpster rental wins on cost for larger projects. Here is the break-even point and when to use each.',
+    readingTime: 8,
+    keywords: [
+      'junk removal vs dumpster rental',
+      'junk removal cost vs dumpster rental',
+      'should i hire junk removal or rent a dumpster',
+      'junk hauling service vs roll off rental',
+      'when to use junk removal',
+      'full service junk removal',
+    ],
+    body: `
+<p>Junk removal vs. dumpster rental: one sends a crew to carry your stuff out, the other drops off a container and leaves you to do the carrying. Both clear the same pile. Neither is always the right call. (That sentence will cost me customers from both sides, but it is accurate.)</p>
+
+<p>I drove roll-off trucks in Colorado for ten years. I have a vested interest in telling you to rent the bin. Here is what I am going to tell you instead: for loads under two or three cubic yards, junk removal often wins. Above that threshold, the math usually flips. Here is how to figure out which side you are on before you book either.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
+  <p class="text-charcoal">Junk removal is faster and easier for small loads — one or two truckloads worth of stuff — and for situations where you have no driveway space. Dumpster rental is cheaper per cubic yard for larger projects, week-long cleanouts, and anything involving construction debris. The price lines cross somewhere around $300–$400 and 3–4 cubic yards.</p>
+</div>
+
+<h2 id="what-each-service-is">Two Services, Two Different Jobs</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/15432186/pexels-photo-15432186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Worker managing construction debris from a large truck during a junk removal haul"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Junk removal is a labor service. A crew shows up with a truck, carries your debris out of the house, loads it, and hauls it away — usually within one to three hours. You point, they carry. Pricing is typically by volume: a quarter-truck load runs $150–$300, a half-truck $300–$500, a full truck $500–$800 or more depending on the market. The clock starts when they arrive and stops when they drive away.</p>
+
+<p>Dumpster rental is a capacity service. The company drops off a container — typically 10, 15, 20, or 30 cubic yards — leaves it for three to seven days, and picks it up when you call. You load it on your timeline. Pricing is by container size and rental period: a 10-yard container runs $280–$400 per week, a 20-yard runs $350–$550. The labor is yours. The schedule is yours. The second haul fee, if you misjudge the volume, is also yours.</p>
+
+<p>The core difference: junk removal sells labor and speed. Dumpster rental sells time and capacity. Which matters more depends on your project.</p>
+
+<h2 id="what-it-costs">What Each Option Actually Costs Side by Side</h2>
+
+<p>Price is where most people make the decision, so here are honest numbers. These are estimates — your market, your debris type, and your company will move them — but the relative relationship holds.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Size</th>
+      <th>Junk Removal</th>
+      <th>Dumpster Rental</th>
+      <th>Better Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Small (1–2 CY, one bedroom)</td>
+      <td>$150–$300</td>
+      <td>$280–$400 minimum</td>
+      <td>Junk removal</td>
+    </tr>
+    <tr>
+      <td>Medium (3–5 CY, small apartment)</td>
+      <td>$350–$600</td>
+      <td>$330–$500</td>
+      <td>Comparable — get quotes</td>
+    </tr>
+    <tr>
+      <td>Large (8–12 CY, whole-home cleanout)</td>
+      <td>$700–$1,200+</td>
+      <td>$380–$600</td>
+      <td>Dumpster</td>
+    </tr>
+    <tr>
+      <td>Construction debris (any size)</td>
+      <td>$400–$1,500+ or declined</td>
+      <td>$350–$700</td>
+      <td>Dumpster</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The gap widens as volume grows. Junk removal companies charge by the truckload, and their trucks top out at roughly 12–15 cubic yards. Once you exceed one truck, you are paying for a second run at close to the same rate. A 20-yard roll-off handles that same volume in one delivery, at a lower total cost, with no crew involved.</p>
+
+<p>For a deeper look at what drives dumpster pricing, see <a href="/resources/what-does-a-dumpster-rental-cost">what a roll-off rental actually costs</a>.</p>
+
+<h2 id="when-junk-removal-wins">The Cases Where Junk Removal Wins</h2>
+
+<p>I told you I would give you this section. Here it is. There are five situations where I would skip the dumpster and call a junk removal crew instead. (Yes, I just told you not to rent from people like me. You can thank me later.)</p>
+
+<p><strong>Small volume.</strong> Under two cubic yards — a few pieces of furniture, one appliance, one room of accumulated junk — a seven-day container rental does not pencil out. You are paying a $280-plus minimum to use a fraction of the bin. Junk removal charges by volume. Small volume means a small bill.</p>
+
+<p><strong>No driveway or access.</strong> A roll-off truck needs a clear, stable surface roughly 10 feet wide and 22 feet long. Third-floor apartment, townhouse with a shared lot, HOA that restricts container placement — junk removal is the only option if you cannot accommodate the delivery vehicle. The driver is not carrying anything up your stairs.</p>
+
+<p><strong>You need it done in one morning.</strong> Junk removal can wrap a single-room cleanout in under two hours. Dumpster rental involves a booking call, a delivery window, loading days, and a pickup call. If the timeline is "today," junk removal wins.</p>
+
+<p><strong>You have prohibited items that need handling.</strong> Roll-offs cannot legally haul <a href="https://www.epa.gov/hw/household-hazardous-waste-hhw" target="_blank" rel="noopener noreferrer">household hazardous waste</a> — paint, chemicals, batteries, propane tanks. Some junk removal companies are licensed to handle electronics, refrigerants, and mattresses. If your load includes items a roll-off declines, junk removal may clear the whole pile in one trip.</p>
+
+<p><strong>Stairs or awkward access.</strong> Junk removal crews navigate basements, attics, tight hallways. They carry things out. If your debris is on the third floor and the only route is a narrow staircase, that is a junk removal job. The bin sits at the end of the driveway. It does not come to you.</p>
+
+<h2 id="when-the-bin-wins">The Cases Where the Roll-Off Wins</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/4568710/pexels-photo-4568710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Cardboard boxes and furniture staged in a room for a home cleanout before dumpster rental"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p><strong>Large volume.</strong> Above four cubic yards, the per-cubic-yard cost of a roll-off drops below junk removal in almost every market. A full-house cleanout that takes two junk removal trucks runs $1,000–$1,500. A 20-yard container handles the same volume for $400–$600. That gap does not disappear when you add your own labor time — but it is real, and it is consistent.</p>
+
+<p><strong>Week-long or multi-phase projects.</strong> Remodels generate debris across multiple days. You cannot have a junk removal crew on standby while you demo the kitchen. The bin sits there, takes what you put in it, and gets picked up when you call. That flexibility is built into the base price. See the <a href="/resources/trash-dumpster-rental">home cleanout guide</a> for how to size it.</p>
+
+<p><strong>Construction debris.</strong> Mixed concrete, drywall, roofing shingles, and framing lumber are either declined by junk removal companies or charged at a heavy-debris premium that wipes out the cost advantage. Roll-offs handle construction debris as standard. Weight limits apply — concrete in particular hits caps fast — but the container is the right tool for the job. For roofing work specifically, see <a href="/resources/roofing-dumpster-rental">dumpster rental for roofing projects</a>.</p>
+
+<p><strong>You want to sort as you go.</strong> Loading the bin gives you time to separate what goes to the donation center, what goes to a neighbor, what gets set aside for a yard sale. Junk removal takes what you hand them. The pace of a roll-off rental accommodates indecision in a way a two-hour crew window does not.</p>
+
+<p>For help picking the right size container, the <a href="/resources/how-to-choose-the-right-dumpster-size">dumpster size guide</a> covers every standard container from 10 to 40 yards by project type.</p>
+
+<h2 id="how-to-decide">A Four-Question Test Before You Commit to Either</h2>
+
+<p>Run through these before booking anything. The answer usually lands in under a minute.</p>
+
+<p><strong>1. How many cubic yards?</strong> Under two: call junk removal. Over five: call a dumpster company. Between two and five: get a quote from each and compare.</p>
+
+<p><strong>2. Do you have driveway or street access for a container?</strong> No driveway, no space, HOA restriction: junk removal is the only option. If you can fit it, the container is back in play.</p>
+
+<p><strong>3. Does your load include construction debris?</strong> Concrete, drywall, roofing material, lumber: dumpster. Junk removal companies either decline it or charge a premium that erases the savings.</p>
+
+<p><strong>4. Do you need it done in one trip, or are you working over several days?</strong> One morning: junk removal. Spread across a week: the bin. The <a href="https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials" target="_blank" rel="noopener noreferrer">EPA's solid waste data</a> puts the average household at roughly 4.5 pounds of waste per day — a week-long project generates more than a crew can carry out in one visit.</p>
+
+<p>If you have mixed debris — some items that need junk removal handling, some that are fine for a roll-off — using both services on the same project is not unusual. Call the junk removal crew first to clear the hazardous and prohibited items. Then rent the bin for everything else.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>Which is cheaper — junk removal or dumpster rental?</h3>
+<p>For small loads, junk removal is cheaper. A quarter-truck haul runs $150–$300; a 10-yard container rents for $280–$400 minimum, whether you fill it or not. For loads above 4–5 cubic yards, the dumpster wins. A full-house cleanout costs $700–$1,200 with a junk removal crew and $400–$600 with a 20-yard container you load yourself.</p>
+
+<h3>Can junk removal companies handle construction debris?</h3>
+<p>Some do, some do not. Mixed construction debris — drywall, lumber, concrete, shingles — often carries a heavy-debris surcharge or is declined outright. Call and describe exactly what you have before booking. For anything that is primarily construction waste, a roll-off dumpster is the safer default. See the <a href="/resources/renting-a-construction-dumpster">construction dumpster rental guide</a> for specifics on debris types.</p>
+
+<h3>What if I have a refrigerator, appliance, or mattress — items a roll-off won't take?</h3>
+<p>Most junk removal companies are equipped to handle appliances with refrigerants, mattresses, and electronics — items that require specific disposal or recycling paths. If that describes part of your load, call junk removal first. Some companies will haul the prohibited items and leave the rest for the bin, which is a reasonable hybrid approach for larger cleanouts.</p>
+
+<h3>How long does junk removal take compared to renting a dumpster?</h3>
+<p>A junk removal crew can clear a two-bedroom apartment in two to three hours. A dumpster rental runs three to seven days on average — the container arrives, sits while you load, and gets picked up after you call. The speed advantage belongs to junk removal for one-day projects. The flexibility advantage belongs to the bin for anything that takes more than a morning.</p>
+
+<h3>Is junk removal worth it for a single couch or appliance?</h3>
+<p>Yes, if it is heavy, on an upper floor, or requires a special disposal path. Moving a 300-pound sleeper sofa down two flights of stairs is not a weekend project for two people. A junk removal crew handles it in 20 minutes. Renting a roll-off for a single item does not make sense financially — you are paying a weekly minimum for a container you will use for one haul.</p>
+
+<h3>Can I use both junk removal and a dumpster for the same project?</h3>
+<p>Yes, and for large cleanouts it is sometimes the right call. Use junk removal for the items a roll-off will not take — refrigerators, electronics, paint, mattresses — then rent the bin for everything else. It adds a step but removes the headache of sorting prohibited items out of a full container after the fact.</p>
+
+<h3>What if I live in an apartment or have no driveway?</h3>
+<p>Junk removal is the practical answer. A roll-off requires a stable, accessible surface for delivery and pickup — no stairs, no tight parking lots, no shared driveways that would block neighbors. If you cannot accommodate a container, the crew comes to you. Some dumpster companies will place on a street with a permit, but that adds cost and process to what should be a simple haul.</p>
+
+<h3>What is the break-even point between junk removal and a dumpster rental?</h3>
+<p>Roughly $300–$400 in cost and 3–4 cubic yards in volume. Below that, junk removal is usually cheaper. Above it, the container wins on price. The exact number shifts with your market — rates are higher in dense urban areas and lower in rural markets — so get a quote from each for loads in the gray zone. The math is not always obvious until you compare specific numbers.</p>
+
+<p>The couch that survived three apartments is either going onto a junk removal truck or into a 10-yard bin. Both are correct answers. One just requires you to carry it to the end of the driveway yourself. Give us a call if the numbers are not adding up.</p>
+`,
+    faq: [
+      {
+        question: 'Which is cheaper — junk removal or dumpster rental?',
+        answer:
+          'For small loads, junk removal is cheaper. A quarter-truck haul runs $150–$300; a 10-yard container rents for $280–$400 minimum. For loads above 4–5 cubic yards, the dumpster wins. A full-house cleanout costs $700–$1,200 with a junk removal crew and $400–$600 with a 20-yard container you load yourself.',
+      },
+      {
+        question: 'Can junk removal companies handle construction debris?',
+        answer:
+          'Some do, some do not. Mixed construction debris — drywall, lumber, concrete, shingles — often carries a heavy-debris surcharge or is declined outright. Call and describe exactly what you have before booking. For anything that is primarily construction waste, a roll-off dumpster is the safer default.',
+      },
+      {
+        question: 'What if I have a refrigerator, appliance, or mattress — items a roll-off will not take?',
+        answer:
+          'Most junk removal companies are equipped to handle appliances with refrigerants, mattresses, and electronics. If that describes part of your load, call junk removal first. Some companies will haul the prohibited items and leave the rest for the bin, which is a reasonable hybrid approach for larger cleanouts.',
+      },
+      {
+        question: 'How long does junk removal take compared to renting a dumpster?',
+        answer:
+          'A junk removal crew can clear a two-bedroom apartment in two to three hours. A dumpster rental runs three to seven days on average — the container arrives, sits while you load, and gets picked up after you call. Speed advantage goes to junk removal for one-day projects. Flexibility advantage goes to the bin for anything spanning more than a morning.',
+      },
+      {
+        question: 'Is junk removal worth it for a single couch or appliance?',
+        answer:
+          'Yes, if it is heavy, on an upper floor, or requires a special disposal path. A junk removal crew handles a 300-pound sleeper sofa down two flights in 20 minutes. Renting a roll-off for a single item does not make financial sense — you are paying a weekly minimum for a container you will use for one haul.',
+      },
+      {
+        question: 'Can I use both junk removal and a dumpster for the same project?',
+        answer:
+          'Yes, and for large cleanouts it is sometimes the right call. Use junk removal for the items a roll-off will not take — refrigerators, electronics, paint, mattresses — then rent the bin for everything else. It adds a step but removes the headache of sorting prohibited items out of a full container after the fact.',
+      },
+      {
+        question: 'What if I live in an apartment or have no driveway?',
+        answer:
+          'Junk removal is the practical answer. A roll-off requires a stable, accessible surface for delivery and pickup. If you cannot accommodate a container, the crew comes to you. Some dumpster companies will place on a street with a permit, but that adds cost and process to what should be a simple haul.',
+      },
+      {
+        question: 'What is the break-even point between junk removal and a dumpster rental?',
+        answer:
+          'Roughly $300–$400 in total cost and 3–4 cubic yards in volume. Below that, junk removal is usually cheaper. Above it, the container wins on price. The exact number shifts with your market, so get a quote from each for loads in the gray zone before committing.',
+      },
+    ],
+    toc: [
+      { id: 'what-each-service-is', title: 'Two Services, Two Different Jobs' },
+      { id: 'what-it-costs', title: 'What Each Option Actually Costs Side by Side' },
+      { id: 'when-junk-removal-wins', title: 'The Cases Where Junk Removal Wins' },
+      { id: 'when-the-bin-wins', title: 'The Cases Where the Roll-Off Wins' },
+      { id: 'how-to-decide', title: 'A Four-Question Test Before You Commit to Either' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
+  {
+    slug: 'estate-cleanout-dumpster-rental',
+    title: 'Estate Cleanout Dumpster Rental: What the Job Actually Takes',
+    excerpt:
+      'A 3-bedroom house lived in for forty years typically needs one 20-yard container — sometimes two. Here is what household furniture actually weighs, what the dumpster cannot take, and how to plan the timeline around probate and a real estate deadline.',
+    category: 'Home Cleanouts',
+    coverImage:
+      'https://images.pexels.com/photos/4246098/pexels-photo-4246098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Covered sofa and packed cardboard boxes in a cleared living room during an estate cleanout',
+    date: '2026-06-22',
+    author: 'Jake Harlow',
+    metaDescription:
+      'A 3-bedroom estate cleanout needs one 20-yard container. Here is how to size it, what household contents weigh, and what the dumpster cannot take.',
+    readingTime: 8,
+    keywords: [
+      'estate cleanout dumpster rental',
+      'dumpster rental for estate cleanout',
+      'how many dumpsters for estate cleanout',
+      'estate sale cleanout dumpster',
+      'how to clean out an estate',
+      'estate cleanout cost',
+    ],
+    body: `
+<p>An estate cleanout dumpster rental is a different project than renting a container for a renovation. Someone always walks into the garage of a house lived in for forty years and reaches the same conclusion: we are going to need a bigger bin. (Not Jaws. But the instinct is the same.) That instinct is usually right.</p>
+
+<p>I have hauled enough estates to give you the actual numbers. The debris type is different from construction — furniture, clothing, appliances, and decades of accumulated household goods rather than concrete and drywall. That changes the math on container size, weight, and timeline. Here is what the job actually takes.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
+  <p class="text-charcoal">A 3-bedroom house lived in for twenty or more years typically needs one 20-yard container, sometimes two. Household furniture and goods are lighter per cubic yard than construction debris, so you are more likely to hit volume limits than weight limits. Plan for seven days minimum — the sorting takes longer than the hauling.</p>
+</div>
+
+<h2 id="scale">Estate Cleanouts Are a Different Category of Project</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/11495626/pexels-photo-11495626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Attic room filled with vintage furniture, antiques, and accumulated household items — the scale of a typical estate cleanout"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>A standard home cleanout — the kind people do before a move — involves maybe 5–10 cubic yards of unwanted items. An estate cleanout of a house occupied for three or four decades involves the entire contents: every room, the basement, the attic, and the garage. That is a different order of magnitude.</p>
+
+<p>Three things make estate cleanouts harder to estimate than regular cleanouts. First, the volume is hard to predict until you open closets and storage areas. Houses hold more than they appear to hold from the outside. Second, the sorting takes time — what goes to family, what goes to donation, what goes into the bin — and sorting happens in parallel with loading, which slows the timeline. Third, the deadline is usually external: probate, a real estate closing, a lease end. You are not working at your own pace.</p>
+
+<p>The approach that works best: book the container for at least seven days, start with the rooms you are most confident about, and leave the garage for last. The garage is always the last thing. It always takes longer than everything else combined.</p>
+
+<h2 id="how-many-containers">How Many Containers a 3-Bedroom House Actually Needs</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/33842119/pexels-photo-33842119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Large blue industrial roll-off dumpster container at a residential property for an estate cleanout"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>The general rule: one 20-yard container handles most 3-bedroom estate cleanouts, assuming the family has done some sorting and pulled out items going to family, donation, or an estate sale. If the house is fully intact with no prior sorting, budget for two hauls — either a swap-out when the first container fills or a 30-yard container from the start.</p>
+
+<p>Here are honest estimates by house size. These assume you are putting most contents in the bin, not running a full estate sale first.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>House Size</th>
+      <th>Typical Volume</th>
+      <th>Container to Book</th>
+      <th>Estimated Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1–2 BR, recently occupied</td>
+      <td>6–10 CY</td>
+      <td>10–15 yard</td>
+      <td>$280–$480</td>
+    </tr>
+    <tr>
+      <td>3 BR, 10–20 years of residence</td>
+      <td>12–18 CY</td>
+      <td>20 yard</td>
+      <td>$380–$600</td>
+    </tr>
+    <tr>
+      <td>3–4 BR, 30+ years of residence</td>
+      <td>18–30 CY</td>
+      <td>20 yard (2 hauls) or 30 yard</td>
+      <td>$550–$900</td>
+    </tr>
+    <tr>
+      <td>Large home or significant accumulation</td>
+      <td>30–50 CY</td>
+      <td>30–40 yard or multiple pulls</td>
+      <td>$700–$1,400+</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>A swap-out — calling for a pickup while simultaneously booking the next container — typically adds $150–$300 to the total compared to sizing up from the start. If there is any chance you will overflow a 20-yard, book the 30-yard on the first call. The size difference is rarely visible from the street. The cost of a second haul always is.</p>
+
+<p>For a full breakdown of container sizes by project type, see the <a href="/resources/how-to-choose-the-right-dumpster-size">dumpster size guide</a>.</p>
+
+<h2 id="what-things-weigh">What Household Contents Actually Weigh</h2>
+
+<p>Estate cleanout debris — furniture, clothing, kitchenware — is lighter per cubic yard than construction debris. Concrete runs 3,900 lbs per cubic yard. Household furniture runs 100–400 lbs per cubic yard depending on what is in the mix. For most estate cleanouts, you will fill the container by volume before you hit the weight limit.</p>
+
+<p>That said, a few items add up faster than people expect:</p>
+
+<p><strong>Sofas and sectionals:</strong> 150–350 lbs each. A large sectional with a pullout bed can hit 400 lbs on its own.</p>
+
+<p><strong>Mattresses and box springs:</strong> 100–200 lbs per set. A king mattress plus box spring runs 130–200 lbs. Note that some providers decline mattresses — confirm before loading.</p>
+
+<p><strong>Solid wood furniture:</strong> A dining table can weigh 100–350 lbs depending on size and construction. A solid hardwood dresser, 100–200 lbs. A china cabinet, 200–400 lbs.</p>
+
+<p><strong>Books:</strong> Heavy per cubic foot. A standard bookcase full of hardcovers weighs 200–400 lbs. If the house has multiple floor-to-ceiling bookshelves, they add up.</p>
+
+<p><strong>Appliances:</strong> A refrigerator runs 250–350 lbs, a washer 150–220 lbs, a dryer 100–150 lbs. Most appliances are accepted in roll-offs — with one significant exception covered below.</p>
+
+<p>A 20-yard container has a weight limit of roughly 2–4 tons depending on the provider. For a household contents cleanout, you are unlikely to exceed that limit unless you have a significant amount of books, ceramic or stone items, or dense media collections. The volume fills first.</p>
+
+<h2 id="week-vs-crew">One Week vs. Calling a Crew: How to Plan the Timeline</h2>
+
+<p>Two ways to clear an estate. The first: rent a container, load it over seven to ten days at your own pace, call for pickup when it is full. The second: hire a junk removal crew to carry everything out in one or two days. Both get the house clear. The right call depends on three things: how much time you have, how much physical labor you want to take on, and whether sorting matters.</p>
+
+<p><strong>When the roll-off makes sense:</strong> The family needs time to sort through items — what goes to relatives, what goes to donation, what gets discarded. The timeline allows a week. The project involves construction debris or renovation work alongside the cleanout. Cost matters: a junk removal crew for a full 3-bedroom house runs $800–$2,500. A 20-yard container runs $380–$600, with your labor.</p>
+
+<p><strong>When to call junk removal instead:</strong> The timeline is one or two days and no sorting is needed. The property has no driveway space for a container. There are items the roll-off will not take that a licensed junk removal company can handle. For a full breakdown of when each option wins, see <a href="/resources/junk-removal-vs-dumpster-rental">junk removal vs. dumpster rental</a>.</p>
+
+<p><strong>The hybrid approach:</strong> Run an estate sale or donation pickup first to move items with resale value, then rent the container for whatever remains. This is the most cost-effective option when the house has usable furniture or collectibles. It also reduces the container size you need, which reduces the cost.</p>
+
+<p>One practical note on timeline: most providers allow a standard seven-day rental. Extensions are available — usually $15–$30 per day — and most local operators will grant them without drama if you call ahead. Do not wait until day six to ask. Call on day three if you think you will need more time.</p>
+
+<h2 id="prohibited-items">What the Dumpster Will Not Take in an Estate</h2>
+
+<p>Estate cleanouts surface items that roll-offs cannot legally haul. Knowing the list before the container arrives saves a scramble on loading day.</p>
+
+<p><strong>Refrigerators and air conditioners.</strong> Any appliance containing refrigerant — fridges, window AC units, chest freezers — cannot go into a roll-off until the refrigerant is removed by a certified technician. Most HVAC or appliance removal services handle this for $50–$100. Some junk removal companies are licensed to take them as-is. The provider's answer to "do you take refrigerators" tells you which kind you are dealing with.</p>
+
+<p><strong>Medications.</strong> Prescription and over-the-counter medications found in estates go to a pharmacy take-back program or a <a href="https://www.fda.gov/drugs/disposal-unused-medicines-what-you-should-know/drug-disposal-drug-take-back-programs" target="_blank" rel="noopener noreferrer">DEA-authorized disposal site</a>. Not in the bin, not down the drain. Most pharmacies accept them at no charge.</p>
+
+<p><strong>Household hazardous waste.</strong> Paint (even dried cans in some jurisdictions), pesticides, pool chemicals, fertilizers, propane tanks, automotive fluids — these go to a <a href="https://www.epa.gov/hw/household-hazardous-waste-hhw" target="_blank" rel="noopener noreferrer">household hazardous waste facility</a>. Your county likely runs one. Most are free for residents. For a complete list of what is and is not accepted, see <a href="/resources/what-can-you-put-in-a-roll-off-dumpster">what goes in a roll-off dumpster</a>.</p>
+
+<p><strong>Mattresses and electronics.</strong> These vary by provider. Some companies accept them, some decline. Confirm before loading. Electronics in particular may need to go to a certified e-waste recycler — many municipalities run free drop-off days.</p>
+
+<p>The practical move: do a quick pass through the house before the container arrives and pull anything on this list to a staging area. It takes an hour. It saves a situation where the driver arrives and something in the bin cannot be hauled.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>How many dumpsters does a 3-bedroom estate cleanout typically need?</h3>
+<p>One 20-yard container handles most 3-bedroom cleanouts where the family has already sorted through personal items and pulled keepsakes. If the house is being cleared entirely with minimal prior sorting, budget for two hauls — or step up to a 30-yard container from the start. A second haul adds $150–$300 compared to getting the larger container upfront.</p>
+
+<h3>How much does estate cleanout dumpster rental cost?</h3>
+<p>A 20-yard container runs $380–$600 for a standard week. A 30-yard runs $450–$750. If you need a second haul or a swap-out mid-cleanout, add $200–$400 for the additional pull. For a full-service junk removal crew instead, expect $800–$2,500 for a complete 3-bedroom house. See <a href="/resources/what-does-a-dumpster-rental-cost">what a roll-off rental actually costs</a> for a detailed pricing breakdown.</p>
+
+<h3>What do I do with a refrigerator or freezer in the estate?</h3>
+<p>Refrigerators, chest freezers, and window AC units cannot go in a roll-off until the refrigerant is removed. A certified appliance removal company or HVAC technician handles the refrigerant extraction — typically $50–$100 per unit. Some junk removal companies are licensed to take them as-is. Ask specifically when you call. Do not assume a dumpster company will take it without checking first.</p>
+
+<h3>Should I hire junk removal or rent a dumpster for an estate cleanout?</h3>
+<p>If the timeline is one or two days and you do not want to do the physical work, a junk removal crew is worth the premium. If you have a week and the project involves sorting through items as you go, the roll-off is cheaper by $400–$1,500 on a typical 3-bedroom estate. The break-even point is roughly two full junk removal truckloads.</p>
+
+<h3>How long can I keep the container during an estate cleanout?</h3>
+<p>Standard rentals run seven days. Extensions are typically $15–$30 per day and are available from most local operators. Call ahead on day three or four if you think you will need more time — do not wait until the last day. Probate and real estate timelines sometimes push projects longer than expected; most companies accommodate extensions without difficulty.</p>
+
+<h3>What happens if I need a second container partway through?</h3>
+<p>Call your rental company and request a swap-out: they haul the full container and deliver an empty one, usually within 24–48 hours. The swap costs $150–$300 on top of the original rental. If you anticipate overflow before booking, asking for a 30-yard container instead of a 20-yard is almost always cheaper than calling for a second pull after the fact.</p>
+
+<h3>Do I need a permit for the dumpster at the estate property?</h3>
+<p>If the container goes on the private driveway, no permit is required in most jurisdictions. If it needs to sit on the street or in a public right-of-way, a permit is typically required from the city or county — usually $25–$75 and takes one to three business days. For a full breakdown of permit requirements by placement type, see <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental">do you need a permit for a dumpster rental</a>.</p>
+
+<h3>What do I do with medications or chemicals I find in the house?</h3>
+<p>Medications go to a pharmacy take-back program or DEA-authorized disposal site — not into the bin. Household chemicals, paint, pesticides, and automotive fluids go to your county's household hazardous waste facility, which is typically free for residents. Pull these items to a staging area before the container arrives. The county HHW facility handles them in one drop-off trip, usually with no appointment required.</p>
+
+<p>One last rule of thumb: budget twice what you think the garage will take. Everyone who has done one of these jobs would say the same thing. Give us a call when you are ready for the pull.</p>
+`,
+    faq: [
+      {
+        question: 'How many dumpsters does a 3-bedroom estate cleanout typically need?',
+        answer:
+          'One 20-yard container handles most 3-bedroom cleanouts where the family has already sorted through personal items. If the house is being cleared entirely with minimal prior sorting, budget for two hauls or step up to a 30-yard container. A second haul adds $150–$300 compared to getting the larger container upfront.',
+      },
+      {
+        question: 'How much does estate cleanout dumpster rental cost?',
+        answer:
+          'A 20-yard container runs $380–$600 for a standard week. A 30-yard runs $450–$750. If you need a second haul or swap-out mid-cleanout, add $200–$400 for the additional pull. For a full-service junk removal crew, expect $800–$2,500 for a complete 3-bedroom house.',
+      },
+      {
+        question: 'What do I do with a refrigerator or freezer in the estate?',
+        answer:
+          'Refrigerators, chest freezers, and window AC units cannot go in a roll-off until the refrigerant is removed. A certified appliance removal technician handles this for $50–$100 per unit. Some junk removal companies are licensed to take them as-is. Ask specifically when you call — do not assume.',
+      },
+      {
+        question: 'Should I hire junk removal or rent a dumpster for an estate cleanout?',
+        answer:
+          'If the timeline is one or two days and you do not want to do the physical work, junk removal is worth the premium. If you have a week and need to sort through items as you go, the roll-off is cheaper by $400–$1,500 on a typical 3-bedroom estate. The break-even point is roughly two full junk removal truckloads.',
+      },
+      {
+        question: 'How long can I keep the container during an estate cleanout?',
+        answer:
+          'Standard rentals run seven days. Extensions are typically $15–$30 per day and available from most local operators. Call ahead on day three or four if you think you will need more time — do not wait until the last day.',
+      },
+      {
+        question: 'What happens if I need a second container partway through?',
+        answer:
+          'Call your rental company and request a swap-out — they haul the full container and deliver an empty one, usually within 24–48 hours. The swap costs $150–$300 on top of the original rental. Asking for a 30-yard instead of a 20-yard upfront is almost always cheaper than a second pull after the fact.',
+      },
+      {
+        question: 'Do I need a permit for the dumpster at the estate property?',
+        answer:
+          'If the container goes on the private driveway, no permit is required in most jurisdictions. If it needs to sit on a public street, a permit is typically required — usually $25–$75, taking one to three business days. Confirm the placement plan when you call the rental company.',
+      },
+      {
+        question: 'What do I do with medications or chemicals I find in the house?',
+        answer:
+          'Medications go to a pharmacy take-back program or DEA-authorized disposal site — not in the bin. Household chemicals, paint, pesticides, and automotive fluids go to your county household hazardous waste facility, which is typically free for residents. Pull these to a staging area before the container arrives.',
+      },
+    ],
+    toc: [
+      { id: 'scale', title: 'Estate Cleanouts Are a Different Category of Project' },
+      { id: 'how-many-containers', title: 'How Many Containers a 3-Bedroom House Actually Needs' },
+      { id: 'what-things-weigh', title: 'What Household Contents Actually Weigh' },
+      { id: 'week-vs-crew', title: 'One Week vs. Calling a Crew: How to Plan the Timeline' },
+      { id: 'prohibited-items', title: 'What the Dumpster Will Not Take in an Estate' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
 ]

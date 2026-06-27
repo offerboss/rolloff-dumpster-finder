@@ -23,6 +23,9 @@ Active primaries:
 
 | 2026-06-16 | 10 yard dumpster rental | resources/10-yard-dumpster-rental | 10 yard dumpster rental cost ✓ CSV, 10 yard dumpster rental prices ✓ CSV, 10 yard roll off dumpster rental ✓ CSV, 10 yard dumpster ✓ CSV, 10 yard roll off dumpster ✓ CSV, small dumpster rental ✓ CSV, 10 yard dumpster dimensions (invented), 10 yard dumpster weight limit (invented), how much does a 10 yard dumpster cost (invented) | dumpster_keywords.csv — NOTE: this is the dedicated primary page for "10 yard dumpster rental" at /resources/ (not /blog/); previously appeared as a secondary in dumpster-rental-cost and how-to-choose-the-right-dumpster-size |
 
+| 2026-06-22 | junk removal vs dumpster rental | junk-removal-vs-dumpster-rental | junk removal cost vs dumpster rental (invented), should i hire junk removal or rent a dumpster (invented), junk hauling service vs roll off rental (invented), when to use junk removal (invented), full service junk removal (invented) | no CSV match — all invented |
+| 2026-06-22 | estate cleanout dumpster rental | estate-cleanout-dumpster-rental | dumpster rental for estate cleanout (invented), how many dumpsters for estate cleanout (invented), estate sale cleanout dumpster (invented), how to clean out an estate (invented), estate cleanout cost (invented) | no CSV match — all invented; was secondary in trash-dumpster-rental |
+
 Workflow for the next post
 Open the active keyword CSV
 Sort by volume × (1 / KD) or similar

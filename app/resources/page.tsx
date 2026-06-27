@@ -139,6 +139,20 @@ const resourceCards = [
       'Construction debris hits weight limits faster than residential waste — concrete especially. Here is how to size, permit, and plan pulls for a job site before the truck arrives.',
     href: '/resources/renting-a-construction-dumpster',
   },
+  {
+    badge: 'Comparison',
+    title: 'Junk Removal vs. Dumpster Rental: How to Decide',
+    excerpt:
+      'Junk removal wins for small loads and no-driveway situations. The bin wins on cost for anything bigger. Here is the break-even point and four questions to ask before booking either.',
+    href: '/resources/junk-removal-vs-dumpster-rental',
+  },
+  {
+    badge: 'Home Cleanouts',
+    title: 'Estate Cleanout Dumpster Rental: What the Job Actually Takes',
+    excerpt:
+      'A 3-bedroom house lived in for forty years typically needs one 20-yard container — sometimes two. Here is what household furniture weighs, what the dumpster cannot take, and how to plan around a probate deadline.',
+    href: '/resources/estate-cleanout-dumpster-rental',
+  },
 ]
 
 export default function ResourcesPage() {

@@ -466,5 +466,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: 'https://rolloffdumpsterfinder.com/resources/junk-removal-vs-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/resources/estate-cleanout-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
   ]
 }
