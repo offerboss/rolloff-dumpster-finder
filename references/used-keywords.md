@@ -25,6 +25,8 @@ Active primaries:
 
 | 2026-06-22 | junk removal vs dumpster rental | junk-removal-vs-dumpster-rental | junk removal cost vs dumpster rental (invented), should i hire junk removal or rent a dumpster (invented), junk hauling service vs roll off rental (invented), when to use junk removal (invented), full service junk removal (invented) | no CSV match — all invented |
 | 2026-06-22 | estate cleanout dumpster rental | estate-cleanout-dumpster-rental | dumpster rental for estate cleanout (invented), how many dumpsters for estate cleanout (invented), estate sale cleanout dumpster (invented), how to clean out an estate (invented), estate cleanout cost (invented) | no CSV match — all invented; was secondary in trash-dumpster-rental |
+| 2026-06-27 | home cleanout dumpster rental | home-cleanout-dumpster-rental | dumpster for home cleanout (invented), house cleanout dumpster rental (invented), rental dumpster for house cleanout (invented), garage cleanout dumpster rental (invented), basement cleanout dumpster (invented) | no CSV match — all invented; was secondary in trash-dumpster-rental |
+| 2026-06-27 | 40 yard dumpster rental | resources/40-yard-dumpster-rental | 40 yard dumpster ✓ CSV, 40 yard roll off dumpster rental (invented), 40 yard roll off dumpster (invented), 40 yard dumpster rental cost (invented), 40 yard dumpster dimensions (invented), 40 yard dumpster weight limit (invented), how much does a 40 yard dumpster cost (invented) | dumpster_keywords.csv — NOTE: this is the dedicated primary page for "40 yard dumpster rental" at /resources/; previously appeared as a secondary in how-to-choose-the-right-dumpster-size |
 
 Workflow for the next post
 Open the active keyword CSV

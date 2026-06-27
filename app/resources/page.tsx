@@ -70,6 +70,13 @@ const resourceCards = [
     href: '/resources/30-yard-dumpster-rental',
   },
   {
+    badge: 'Sizing Guide',
+    title: '40 Yard Dumpster Rental: When the Biggest Bin Makes Sense',
+    excerpt:
+      'The 40-yard is right for new construction, large commercial demolitions, and industrial cleanouts. Here is when it fits, what the weight limits mean, and when the 30-yard saves you money.',
+    href: '/resources/40-yard-dumpster-rental',
+  },
+  {
     badge: 'Comparison',
     title: 'Dumpster Trailer Rental vs Roll-Off: What to Know',
     excerpt:
@@ -120,10 +127,10 @@ const resourceCards = [
   },
   {
     badge: 'Home Cleanouts',
-    title: 'Trash Dumpster Rental: What Your Cleanout Actually Needs',
+    title: 'Home Cleanout Dumpster Rental: What Size to Rent and What to Toss',
     excerpt:
-      'Most home cleanouts need a 10- to 20-yard container and budget $280–$620 all-in. Here is when the bin beats junk removal on price — and when it does not.',
-    href: '/resources/trash-dumpster-rental',
+      'A home cleanout usually needs a 10- or 20-yard bin. Here is how to estimate volume by room, what the container takes, and when junk removal is the smarter call.',
+    href: '/resources/home-cleanout-dumpster-rental',
   },
   {
     badge: 'Tips',

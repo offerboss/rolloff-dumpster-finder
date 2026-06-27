@@ -3875,4 +3875,294 @@ export const blogPosts: BlogPost[] = [
       { id: 'straight-answers', title: 'Straight Answers' },
     ],
   },
+  {
+    slug: 'home-cleanout-dumpster-rental',
+    title: 'Home Cleanout Dumpster Rental: What Size to Rent and What to Toss',
+    excerpt:
+      'A home cleanout usually needs a 10- or 20-yard dumpster. Here is how to estimate volume by room, what the bin takes, and when junk removal is the smarter call.',
+    category: 'Home Cleanouts',
+    coverImage:
+      'https://images.pexels.com/photos/15828484/pexels-photo-15828484.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt:
+      'Garage filled with household items and clutter overflowing during a home cleanout',
+    date: '2026-06-27',
+    author: 'Jake Harlow',
+    metaDescription:
+      'A home cleanout usually needs a 10- or 20-yard dumpster. Here is how to size it by room, what goes in, and when junk removal is the smarter call.',
+    readingTime: 8,
+    keywords: [
+      'home cleanout dumpster rental',
+      'dumpster for home cleanout',
+      'house cleanout dumpster rental',
+      'rental dumpster for house cleanout',
+      'garage cleanout dumpster rental',
+      'basement cleanout dumpster',
+    ],
+    body: `
+<p>A home cleanout dumpster rental is the most practical tool for clearing a house &mdash; until you open the garage. At that point, every timeline doubles. Everyone thinks their garage is the quick part. Nobody&rsquo;s garage is the quick part.</p>
+
+<p>If you are clearing a bedroom&rsquo;s worth of junk or less, junk removal is probably cheaper and faster. If you are clearing two or more rooms &mdash; or a full house &mdash; the bin almost always wins on cost, assuming you can load it yourself. Most home cleanouts fit a 10- or 20-yard container. You keep it for the length of the job, load at your own pace, and the driver hauls it when you call. That is the whole model.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
+  <p class="text-charcoal">A home cleanout dumpster rental typically means a 10- or 20-yard container and a 7-day rental period. Most single-room cleanouts fit a 10-yard. A full-house or estate cleanout usually needs a 20 or 30-yard &mdash; sometimes two pulls. What goes in, what does not, and how to size it before booking are covered below.</p>
+</div>
+
+<nav aria-label="Table of contents" class="not-prose my-8 rounded-lg border border-[#E0DEDA] bg-[#F5F4F0] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#566070] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#when-a-dumpster-makes-sense" class="text-[15px] text-orange font-medium hover:underline">When a Dumpster Makes Sense for a Home Cleanout</a></li>
+    <li><a href="#what-each-cleanout-takes" class="text-[15px] text-orange font-medium hover:underline">What Garage, Basement, Attic, and Whole-Home Cleanouts Actually Take</a></li>
+    <li><a href="#how-to-estimate-volume" class="text-[15px] text-orange font-medium hover:underline">How to Estimate Volume Before You Book</a></li>
+    <li><a href="#what-goes-in-and-what-does-not" class="text-[15px] text-orange font-medium hover:underline">What Goes in the Bin and What Does Not</a></li>
+    <li><a href="#placement-and-timing" class="text-[15px] text-orange font-medium hover:underline">Placement, HOA Considerations, and How Long to Keep It</a></li>
+    <li><a href="#straight-answers" class="text-[15px] text-orange font-medium hover:underline">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="when-a-dumpster-makes-sense">When a Dumpster Makes Sense for a Home Cleanout</h2>
+
+<p>The short answer is volume. If the pile is smaller than two pickup truck loads, junk removal is usually the better call &mdash; they haul and sort for you, and the labor cost is lower than most people expect at that scale. <a href="/resources/junk-removal-vs-dumpster-rental">Junk Removal vs. Dumpster Rental</a> covers the full decision in detail.</p>
+
+<p>The bin makes sense when volume is above that threshold, you have a driveway or accessible placement spot, and you can load it yourself. Four situations where the dumpster consistently wins:</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-[#1A2530] text-white">
+        <th class="text-left px-4 py-3 font-semibold">Situation</th>
+        <th class="text-left px-4 py-3 font-semibold">Why the Bin Wins</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3 font-medium">Estate or whole-house cleanout</td>
+        <td class="px-4 py-3 text-[#566070]">Volume too high for junk removal; self-loading lets you sort as you go</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3 font-medium">Rental property turnover</td>
+        <td class="px-4 py-3 text-[#566070]">Quick turnaround, unpredictable volume, container is ready when you are</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3 font-medium">Moving cleanout before a sale</td>
+        <td class="px-4 py-3 text-[#566070]">Multiple rooms to clear, furniture and boxes mixed, no need to pay for labor</td>
+      </tr>
+      <tr class="bg-[#F5F4F0]">
+        <td class="px-4 py-3 font-medium">Garage, basement, or attic purge</td>
+        <td class="px-4 py-3 text-[#566070]">High volume, heavy items, two to four days of loading spread across a weekend</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>When not to rent a bin: a single room with light material, no driveway or accessible placement spot, a high-rise or apartment building, or an HOA that prohibits containers on the property. Junk removal can often reach those jobs. A roll-off cannot get to your third-floor hallway no matter how politely you ask.</p>
+
+<h2 id="what-each-cleanout-takes">What Garage, Basement, Attic, and Whole-Home Cleanouts Actually Take</h2>
+
+<p>Volume varies more than most people expect. A two-car garage packed for fifteen years looks very different from one that gets cleaned out annually. The estimates below are starting points &mdash; walk the space and adjust for what you actually see.</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-[#1A2530] text-white">
+        <th class="text-left px-4 py-3 font-semibold">Cleanout Type</th>
+        <th class="text-left px-4 py-3 font-semibold">Est. Volume</th>
+        <th class="text-left px-4 py-3 font-semibold">Recommended Size</th>
+        <th class="text-left px-4 py-3 font-semibold">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3 font-medium">Single room</td>
+        <td class="px-4 py-3 text-[#566070]">2&ndash;5 CY</td>
+        <td class="px-4 py-3 text-[#566070]">10-yard</td>
+        <td class="px-4 py-3 text-[#566070]">Light furniture and boxes; consider junk removal at this scale</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3 font-medium">Garage cleanout</td>
+        <td class="px-4 py-3 text-[#566070]">5&ndash;15 CY</td>
+        <td class="px-4 py-3 text-[#566070]">10 or 20-yard</td>
+        <td class="px-4 py-3 text-[#566070]">Two-car garages packed for years often need a 20</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3 font-medium">Basement cleanout</td>
+        <td class="px-4 py-3 text-[#566070]">5&ndash;20 CY</td>
+        <td class="px-4 py-3 text-[#566070]">10&ndash;20-yard</td>
+        <td class="px-4 py-3 text-[#566070]">Depends on stored furniture and whether there was any water damage</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3 font-medium">Attic cleanout</td>
+        <td class="px-4 py-3 text-[#566070]">2&ndash;8 CY</td>
+        <td class="px-4 py-3 text-[#566070]">10-yard</td>
+        <td class="px-4 py-3 text-[#566070]">Mostly boxes and seasonal items; attics run light</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3 font-medium">Rental turnover</td>
+        <td class="px-4 py-3 text-[#566070]">5&ndash;15 CY</td>
+        <td class="px-4 py-3 text-[#566070]">10&ndash;20-yard</td>
+        <td class="px-4 py-3 text-[#566070]">Range depends on what the tenant left behind</td>
+      </tr>
+      <tr class="bg-[#F5F4F0]">
+        <td class="px-4 py-3 font-medium">Whole-home cleanout</td>
+        <td class="px-4 py-3 text-[#566070]">15&ndash;35 CY</td>
+        <td class="px-4 py-3 text-[#566070]">20&ndash;30-yard</td>
+        <td class="px-4 py-3 text-[#566070]">May need two pulls if heavy furniture fills every room</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Estate cleanouts occupy their own category. A three-bedroom house lived in for forty years typically needs one 20-yard container, sometimes two. <a href="/resources/estate-cleanout-dumpster-rental">Estate Cleanout Dumpster Rental</a> covers what those jobs actually take in full detail.</p>
+
+<p>The garage is the exception to every estimate, every time. Two-car garages packed over a decade regularly fill a 20-yard container before the back wall is reached. If the garage is included in the cleanout, go up one size from whatever the rest of the house tells you.</p>
+
+<h2 id="how-to-estimate-volume">How to Estimate Volume Before You Book</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/8581372/pexels-photo-8581372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Cardboard boxes labeled Keep Donate and Trash sitting on floor during a home cleanout"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Rule of thumb: a standard pickup truck holds about 1.5 cubic yards loaded level with the bed. From there, the math is straightforward:</p>
+
+<ul>
+  <li>10-yard dumpster &asymp; 6 full pickup loads</li>
+  <li>15-yard dumpster &asymp; 10 full pickup loads</li>
+  <li>20-yard dumpster &asymp; 13 full pickup loads</li>
+  <li>30-yard dumpster &asymp; 20 full pickup loads</li>
+</ul>
+
+<p>Walk the house room by room and estimate pickup-truck-equivalent piles. A living room with a couch, a chair, two end tables, and a pile of boxes is probably two loads. A basement with old appliances, shelving, and holiday decorations is three to five. Add them up and size the container accordingly.</p>
+
+<p>When in doubt, go one size up. A second haul costs $150&ndash;$300 on top of the original rental and adds at least a day to the project. The difference between a 10-yard and a 20-yard is usually $75&ndash;$125. That math does not require a spreadsheet. See <a href="/resources/how-to-choose-the-right-dumpster-size">How to Choose the Right Dumpster Size</a> for a full breakdown by project type, and the individual <a href="/resources/10-yard-dumpster-rental">10-yard</a> and <a href="/resources/20-yard-dumpster-rental">20-yard dumpster guides</a> if you are landing between those two options.</p>
+
+<h2 id="what-goes-in-and-what-does-not">What Goes in the Bin and What Does Not</h2>
+
+<p>Most home cleanout material is accepted without issue. The items that are not tend to show up as a surprise, so it is worth knowing before the container arrives rather than after.</p>
+
+<p><strong>Accepted at most companies:</strong> furniture (sofas, chairs, tables, dressers, bed frames), carpet and flooring, cardboard and paper, clothing and soft goods, small kitchen appliances, and general household junk.</p>
+
+<p><strong>Often accepted with a fee:</strong> mattresses (usually $25&ndash;$50 extra), tires (varies significantly by company and market), CRT televisions (some companies require separate electronics disposal). Ask when you book rather than showing up with these and finding out on the spot.</p>
+
+<p><strong>Not accepted anywhere:</strong></p>
+
+<ul>
+  <li>Refrigerators, window AC units, dehumidifiers, or any appliance containing refrigerant</li>
+  <li>Latex or oil-based paint in liquid form</li>
+  <li>Motor oil, transmission fluid, or other automotive fluids</li>
+  <li>Propane tanks, empty or full</li>
+  <li>Car batteries and lithium batteries</li>
+  <li>Pesticides, herbicides, and fertilizers</li>
+  <li>Medications &mdash; bring these to a <a href="https://www.fda.gov/drugs/disposal-unused-medicines-what-you-should-know/drug-disposal-drug-take-back-programs" target="_blank" rel="noopener noreferrer">DEA-authorized take-back program</a></li>
+  <li>Household chemicals and hazardous waste &mdash; take these to your county <a href="https://www.epa.gov/hw/household-hazardous-waste-hhw" target="_blank" rel="noopener noreferrer">household hazardous waste facility</a>, which is typically free for residents</li>
+</ul>
+
+<p>The item that catches most people is the refrigerator. It looks like furniture. It is not. The refrigerant inside requires certified removal, which the landfill cannot process. Set it on the curb on bulk trash day or call a local appliance disposal company. See <a href="/resources/what-can-you-put-in-a-roll-off-dumpster">What Can You Put in a Roll-Off Dumpster</a> for the full accepted and rejected list.</p>
+
+<h2 id="placement-and-timing">Placement, HOA Considerations, and How Long to Keep It</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/17849720/pexels-photo-17849720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Green roll-off dumpster placed outside a residential building for a cleanout"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Driveway placement is the standard. Most companies drop the container at the end of the driveway, no permit required. If you are concerned about surface damage, ask whether they provide boards under the wheels &mdash; many do, and for those who do not, a few 4x6 planks from the hardware store handle it.</p>
+
+<p>Street placement usually requires a permit from the city or county &mdash; typically $25&ndash;$75, taking one to three business days. Many rental companies handle this as part of the booking process. <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental">Do You Need a Permit for a Dumpster Rental</a> covers what to check before the delivery date.</p>
+
+<p>HOA restrictions vary. Some communities prohibit visible containers on the property or limit how long one can sit. A call to the property management office before you book takes two minutes. Finding out on delivery day takes longer.</p>
+
+<p>Standard rentals run 7 days. Extensions are typically $15&ndash;$30 per day and available from most operators. If you think you will need more time, call ahead on day four or five. For a rental turnover or a one-session loading job, mention it when you book &mdash; some companies offer shorter-term rates. Longer projects may benefit from a swap-out rather than a single extended rental. See <a href="/resources/what-does-a-dumpster-rental-cost">What Does a Dumpster Rental Actually Cost</a> for how pricing shifts with size and rental length. Browse <a href="/locations">local providers</a> to compare rates in your area.</p>
+
+<p>Book before the cleanout starts, not after the pile is already in the driveway. And when in doubt on size, go one step up. Nobody has ever called to say the bin was too big.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>What size dumpster do I need for a home cleanout?</h3>
+<p>Most single-room cleanouts fit a 10-yard container. A garage, basement, or two-room cleanout usually calls for a 10 or 20-yard, depending on how packed the space is. A whole-home cleanout typically needs a 20 or 30-yard &mdash; sometimes two pulls. Walk the space room by room and count pickup-truck-equivalent piles before booking.</p>
+
+<h3>How much does a home cleanout dumpster rental typically cost?</h3>
+<p>Costs vary by location, container size, and rental period. In many markets, a 10-yard runs $275&ndash;$450 per week and a 20-yard runs $350&ndash;$550. Weight overage fees apply if you exceed the included tonnage, which is less common with light household material. See the <a href="/resources/what-does-a-dumpster-rental-cost">dumpster rental cost guide</a> for a full breakdown.</p>
+
+<h3>Can I put furniture in a rented dumpster?</h3>
+<p>Yes. Sofas, chairs, dressers, bed frames, and tables are accepted at most companies. Mattresses are often accepted with a fee &mdash; usually $25&ndash;$50 extra. Ask when you book rather than assuming. Heavy upholstered furniture is fine; it just takes up volume faster than it looks like it should.</p>
+
+<h3>Can I put old appliances in the cleanout dumpster?</h3>
+<p>Small appliances like microwaves, toasters, and blenders are typically fine. Large appliances containing refrigerant &mdash; refrigerators, freezers, window AC units, dehumidifiers &mdash; are not accepted anywhere. The refrigerant requires certified removal. Set those on the curb on bulk trash day or call a local appliance disposal company.</p>
+
+<h3>What cannot go in a home cleanout dumpster?</h3>
+<p>Refrigerant-containing appliances, paint, motor oil, propane tanks, car batteries, lithium batteries, pesticides, and household chemicals are rejected at most companies. Medications go to a DEA-authorized take-back location. Your county household hazardous waste facility handles most chemical disposal at no charge for residents.</p>
+
+<h3>Do I need a permit to have a dumpster at my house?</h3>
+<p>Driveway placement usually does not require a permit. Street placement most often does &mdash; typically $25&ndash;$75, taking one to three business days. Your rental company can often pull the permit for you or walk you through the process. HOA restrictions are a separate question from city permits, so check both before booking.</p>
+
+<h3>How long can I keep the dumpster during a home cleanout?</h3>
+<p>Standard rentals run 7 days. Extensions are typically $15&ndash;$30 per day. If you think you will need more time, call on day four or five &mdash; do not wait until the morning of pickup. For a rental turnover or a one-session load, some companies offer shorter-term rates if you ask upfront.</p>
+
+<h3>When is junk removal better than renting a dumpster?</h3>
+<p>Junk removal wins when the volume is under two pickup truck loads, when there is no driveway access for a container, when you need someone else to do the loading, or when access is simply too tight for a roll-off. The bin wins on cost when volume is higher and you can load it yourself. The break-even point is roughly two to three truckloads of material.</p>
+`,
+    faq: [
+      {
+        question: 'What size dumpster do I need for a home cleanout?',
+        answer:
+          'Most single-room cleanouts fit a 10-yard container. A garage, basement, or two-room cleanout usually calls for a 10 or 20-yard, depending on how packed the space is. A whole-home cleanout typically needs a 20 or 30-yard — sometimes two pulls. Walk the space room by room and count pickup-truck-equivalent piles before booking.',
+      },
+      {
+        question: 'How much does a home cleanout dumpster rental typically cost?',
+        answer:
+          'Costs vary by location, container size, and rental period. In many markets, a 10-yard runs $275–$450 per week and a 20-yard runs $350–$550. Weight overage fees apply if you exceed the included tonnage, which is less common with light household material. The dumpster rental cost guide has a full breakdown.',
+      },
+      {
+        question: 'Can I put furniture in a rented dumpster?',
+        answer:
+          'Yes. Sofas, chairs, dressers, bed frames, and tables are accepted at most companies. Mattresses are often accepted with a fee — usually $25–$50 extra. Ask when you book rather than assuming. Heavy upholstered furniture is fine; it just takes up volume faster than it looks like it should.',
+      },
+      {
+        question: 'Can I put old appliances in the cleanout dumpster?',
+        answer:
+          'Small appliances like microwaves, toasters, and blenders are typically fine. Large appliances containing refrigerant — refrigerators, freezers, window AC units, dehumidifiers — are not accepted anywhere. The refrigerant requires certified removal. Set those on the curb on bulk trash day or call a local appliance disposal company.',
+      },
+      {
+        question: 'What cannot go in a home cleanout dumpster?',
+        answer:
+          'Refrigerant-containing appliances, paint, motor oil, propane tanks, car batteries, lithium batteries, pesticides, and household chemicals are rejected at most companies. Medications go to a DEA-authorized take-back location. Your county household hazardous waste facility handles most chemical disposal at no charge for residents.',
+      },
+      {
+        question: 'Do I need a permit to have a dumpster at my house?',
+        answer:
+          'Driveway placement usually does not require a permit. Street placement most often does — typically $25–$75, taking one to three business days. Your rental company can often pull the permit for you or walk you through the process. HOA restrictions are a separate question from city permits, so check both before booking.',
+      },
+      {
+        question: 'How long can I keep the dumpster during a home cleanout?',
+        answer:
+          'Standard rentals run 7 days. Extensions are typically $15–$30 per day. If you think you will need more time, call on day four or five — do not wait until the morning of pickup. For a rental turnover or a one-session load, some companies offer shorter-term rates if you ask upfront.',
+      },
+      {
+        question: 'When is junk removal better than renting a dumpster?',
+        answer:
+          'Junk removal wins when the volume is under two pickup truck loads, when there is no driveway access for a container, when you need someone else to do the loading, or when access is too tight for a roll-off. The bin wins on cost when volume is higher and you can load it yourself. The break-even point is roughly two to three truckloads of material.',
+      },
+    ],
+    toc: [
+      { id: 'when-a-dumpster-makes-sense', title: 'When a Dumpster Makes Sense for a Home Cleanout' },
+      { id: 'what-each-cleanout-takes', title: 'What Garage, Basement, Attic, and Whole-Home Cleanouts Actually Take' },
+      { id: 'how-to-estimate-volume', title: 'How to Estimate Volume Before You Book' },
+      { id: 'what-goes-in-and-what-does-not', title: 'What Goes in the Bin and What Does Not' },
+      { id: 'placement-and-timing', title: 'Placement, HOA Considerations, and How Long to Keep It' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
 ]
