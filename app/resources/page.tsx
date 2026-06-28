@@ -147,6 +147,13 @@ const resourceCards = [
     href: '/resources/renting-a-construction-dumpster',
   },
   {
+    badge: 'Construction',
+    title: 'Demolition Dumpster Rental: What Size You Need and What Gets Heavy Fast',
+    excerpt:
+      'A demolition dumpster is sized by weight, not volume. Tile, concrete, and plaster hit weight limits at a fraction of the bin\'s capacity. Here is how to size it before the invoice.',
+    href: '/resources/demolition-dumpster-rental',
+  },
+  {
     badge: 'Comparison',
     title: 'Junk Removal vs. Dumpster Rental: How to Decide',
     excerpt:

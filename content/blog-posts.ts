@@ -4165,4 +4165,298 @@ export const blogPosts: BlogPost[] = [
       { id: 'straight-answers', title: 'Straight Answers' },
     ],
   },
+
+  {
+    slug: 'demolition-dumpster-rental',
+    title: 'Demolition Dumpster Rental: What Size You Need and What Gets Heavy Fast',
+    excerpt:
+      'A demolition dumpster is sized by weight, not volume. Here is what gets heavy fast, how to match the container to the job, and when the smaller heavy-debris bin saves you money.',
+    category: 'Construction',
+    coverImage:
+      'https://images.pexels.com/photos/28670973/pexels-photo-28670973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt:
+      'Demolished urban building with rubble and debris from construction dismantling',
+    date: '2026-06-28',
+    author: 'Jake Harlow',
+    metaDescription:
+      'A demolition dumpster rental starts with weight, not volume. Here is what materials get heavy fast and how to size the container before the invoice.',
+    readingTime: 9,
+    keywords: [
+      'demolition dumpster rental',
+      'demolition dumpster',
+      'dumpster rental for demolition',
+      'demolition debris dumpster',
+      'demo dumpster rental',
+      'interior demolition dumpster rental',
+      'dumpster for demolition debris',
+    ],
+    body: `
+<p>Demolition is the fun part. You get to swing a sledgehammer. You get to pull things apart with your hands. You get to feel genuinely productive for an afternoon. (The part where the dumpster truck cannot lift the container because you filled it with tile is less fun.) Most demolition containers are sized by volume and then limited by weight. The volume is how much fits. The weight is what usually runs out first.</p>
+
+<p>I have hauled enough demo debris to say this with confidence: concrete is the great equalizer. A 20-yard container looks enormous when it is empty. Load it with broken-up tile and cement board from a single bathroom renovation and you may hit the weight limit before the bin is a quarter full. This guide is about understanding that before you book &mdash; not after the driver hands you an overweight invoice.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
+  <p class="text-charcoal">Most residential demolition projects &mdash; a bathroom gut, kitchen teardown, deck removal, or full roof tear-off &mdash; fit a <strong>20-yard container</strong>. Heavy jobs involving concrete, tile, brick, or plaster may need a smaller heavy-debris container rated for dense material. The right call depends on what you are hauling, not how many cubic yards it takes up.</p>
+</div>
+
+<nav aria-label="Table of contents" class="not-prose my-8 rounded-lg border border-[#E0DEDA] bg-[#F5F4F0] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#566070] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#what-is-a-demolition-dumpster" class="text-[15px] text-orange font-medium hover:underline">What a Demolition Dumpster Is (and When You Need One)</a></li>
+    <li><a href="#interior-vs-exterior-demolition" class="text-[15px] text-orange font-medium hover:underline">Interior vs. Exterior Demo: Two Different Weight Profiles</a></li>
+    <li><a href="#what-gets-heavy-fast" class="text-[15px] text-orange font-medium hover:underline">What Gets Heavy Fast</a></li>
+    <li><a href="#sizing-for-demolition" class="text-[15px] text-orange font-medium hover:underline">Sizing a Container for Demo Debris</a></li>
+    <li><a href="#when-smaller-is-better" class="text-[15px] text-orange font-medium hover:underline">When a Smaller Container Is the Better Call</a></li>
+    <li><a href="#pulls-and-access" class="text-[15px] text-orange font-medium hover:underline">Planning Pulls, Swap-Outs, and Site Access</a></li>
+    <li><a href="#straight-answers" class="text-[15px] text-orange font-medium hover:underline">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="what-is-a-demolition-dumpster">What a Demolition Dumpster Is (and When You Need One)</h2>
+
+<p>A demolition dumpster is a standard roll-off container rented specifically for demo debris &mdash; tile, drywall, lumber, concrete, shingles, brick, fixtures, and anything else that comes out of a structure during a teardown or remodel. It works exactly like any other roll-off: the driver drops it, you load it, and the driver hauls it when you call.</p>
+
+<p>The reason people search for &ldquo;demolition dumpster rental&rdquo; rather than just &ldquo;dumpster rental&rdquo; is weight. Demo jobs involve heavy material. And heavy material is the one thing that changes the whole calculation. Standard rental quotes assume light-to-moderate debris. If your project involves concrete, tile, plaster, or roofing shingles, you may need a different weight allowance and possibly a different pricing structure altogether. More on that shortly.</p>
+
+<p>A demo dumpster makes sense when the debris volume is more than a standard trailer run can handle, when the material is too heavy or bulky for curbside pickup, or when the project runs long enough to need the container onsite for several days. For a rundown of what typically goes in a demolition container and what does not, the <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">accepted and prohibited items guide</a> covers the standard rules.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/8488031/pexels-photo-8488031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Interior space undergoing demolition with broken walls and debris during renovation"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="interior-vs-exterior-demolition">Interior vs. Exterior Demo: Two Different Weight Profiles</h2>
+
+<p>The two broad categories of demo work behave differently when it comes to container sizing. Interior demolition is usually lighter per cubic yard. Exterior demolition often involves heavier material. The overlap &mdash; where concrete, tile, and masonry show up in either context &mdash; is where containers run out of weight capacity before they run out of volume.</p>
+
+<p><strong>Interior demolition</strong> covers kitchen gut jobs, bathroom teardowns, basement finishing removal, attic insulation tear-outs, and tenant improvement work. Most of this material is drywall, wood framing, insulation, fixtures, and flooring &mdash; relatively light compared to exterior materials. The exception is tile floors and tile backer. A single bathroom worth of ceramic tile and cement board can outweigh all the drywall in the room combined. That is not obvious until you start loading.</p>
+
+<p><strong>Exterior demolition</strong> covers decks, sheds, garages, roofing tear-offs, concrete driveways and patios, retaining walls, and whole-structure teardowns. Weight is the dominant variable here. Concrete rubble, asphalt shingles, brick, and stone all weigh significantly more than their volume suggests. A 10-yard container that looks mostly empty when loaded with concrete may already be at its weight limit.</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-[#1A2530] text-white">
+        <th class="text-left px-4 py-3 font-semibold">Project Type</th>
+        <th class="text-left px-4 py-3 font-semibold">Typical Material</th>
+        <th class="text-left px-4 py-3 font-semibold">Weight Profile</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Kitchen gut</td>
+        <td class="px-4 py-3">Cabinets, drywall, flooring, fixtures</td>
+        <td class="px-4 py-3">Light to medium</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Bathroom teardown</td>
+        <td class="px-4 py-3">Tile, cement board, fixtures, drywall</td>
+        <td class="px-4 py-3">Medium to heavy</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Deck removal</td>
+        <td class="px-4 py-3">Lumber, hardware, footings</td>
+        <td class="px-4 py-3">Light to medium</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Shed or garage demo</td>
+        <td class="px-4 py-3">Lumber, roofing, mixed debris</td>
+        <td class="px-4 py-3">Light to medium</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Roof tear-off</td>
+        <td class="px-4 py-3">Asphalt shingles, felt, nails</td>
+        <td class="px-4 py-3">Medium to heavy</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Concrete patio or driveway</td>
+        <td class="px-4 py-3">Concrete chunks, rebar</td>
+        <td class="px-4 py-3">Very heavy</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Retaining wall teardown</td>
+        <td class="px-4 py-3">Block, stone, mortar</td>
+        <td class="px-4 py-3">Very heavy</td>
+      </tr>
+      <tr class="bg-[#F5F4F0]">
+        <td class="px-4 py-3">Full interior gut</td>
+        <td class="px-4 py-3">Mixed: drywall, plaster, flooring, tile</td>
+        <td class="px-4 py-3">Medium — varies widely</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 id="what-gets-heavy-fast">What Gets Heavy Fast</h2>
+
+<p>Most overweight charges on demolition jobs trace back to four materials: concrete, tile, plaster, and roofing shingles. Each one weighs considerably more than the loose debris most people picture when they think about what goes in a dumpster. Standard roll-off pricing assumes light debris. Dense debris changes the math.</p>
+
+<p><strong>Concrete and masonry.</strong> Broken concrete chunks in a container run roughly 1.5&ndash;2 tons per cubic yard (loose and irregular, not solid). A single one-car concrete driveway &mdash; about 36 square feet at four inches thick &mdash; weighs around 1,500&ndash;1,800 lbs before you add anything else. Fill a 10-yard container primarily with concrete and you will likely hit the weight limit before the bin is half full. This is not a theory. I have seen it happen. The driver was not surprised.</p>
+
+<p><strong>Ceramic and porcelain tile.</strong> Tile is heavier per square foot than most people estimate. Ceramic floor tile runs roughly 6&ndash;9 lbs per square foot. A large master bathroom with 100 square feet of tile generates 600&ndash;900 lbs from the tile alone &mdash; add cement board and grout and it climbs. In a kitchen with 200 square feet of tile, the numbers compound quickly. (The tile guy always says it will be quick to load. It is never quick to load.)</p>
+
+<p><strong>Plaster walls.</strong> Pre-1950 homes with genuine plaster over wood lath produce significantly heavier demo debris than modern drywall. Plaster can weigh roughly twice as much as equivalent drywall by volume. If you are demoing an older home with real plaster walls, tell your provider before booking so the weight allowance reflects what is actually going in.</p>
+
+<p><strong>Asphalt shingles.</strong> A standard residential roof has 20&ndash;30 squares (2,000&ndash;3,000 square feet). Architectural shingles often weigh 350&ndash;450 lbs per square. A full tear-off on a 2,500 square foot roof can generate 7,000&ndash;11,000 lbs of shingles before felt and nails. Many 20-yard containers have weight allowances of 4&ndash;6 tons. On a large roof, that math gets tight fast. Confirm the weight allowance before the tear-off starts, not mid-project.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/23940504/pexels-photo-23940504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Large pile of concrete rubble and bricks against a corrugated metal fence at a demolition site"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<p>The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA&rsquo;s construction and demolition materials data</a> puts concrete as the single largest component of C&amp;D waste by weight at licensed disposal facilities. That is why roll-off companies set weight limits by debris type, and why the weight-limit conversation is worth having before you book any container for a demo job.</p>
+
+<h2 id="sizing-for-demolition">Sizing a Container for Demo Debris</h2>
+
+<p>The starting point is the same as any roll-off rental: match the volume to the project. But with demolition debris, weight layers on top of that calculation. For light-to-medium material, volume is the primary variable. For heavy material, weight often becomes the constraint before volume does. The <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">full sizing guide</a> covers all project types. Here is a demolition-specific reference:</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-[#1A2530] text-white">
+        <th class="text-left px-4 py-3 font-semibold">Container Size</th>
+        <th class="text-left px-4 py-3 font-semibold">Typical Demo Use Case</th>
+        <th class="text-left px-4 py-3 font-semibold">Notes on Weight</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3 font-semibold">10-yard</td>
+        <td class="px-4 py-3">Single bathroom gut, small deck or shed removal</td>
+        <td class="px-4 py-3">For concrete-heavy loads, ask about a dedicated heavy-debris container</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3 font-semibold">20-yard</td>
+        <td class="px-4 py-3">Kitchen remodel, full bath renovation, roof tear-off, two-room gut</td>
+        <td class="px-4 py-3">Most common residential demo size; confirm weight allowance for mixed tile or shingles</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3 font-semibold">30-yard</td>
+        <td class="px-4 py-3">Multi-room gut, large structure removal, tenant improvement with structural work</td>
+        <td class="px-4 py-3">Right call when a 20-yard has run short on previous pulls</td>
+      </tr>
+      <tr class="bg-[#F5F4F0]">
+        <td class="px-4 py-3 font-semibold">40-yard</td>
+        <td class="px-4 py-3">Full-structure demolition, commercial gut, major exterior projects</td>
+        <td class="px-4 py-3">Weight limit still applies; does not solve concrete or heavy debris overloading</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>For more detail on each size, see <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster rental</a>, <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard dumpster rental</a>, and <a href="/resources/40-yard-dumpster-rental" class="text-orange hover:underline">40-yard dumpster rental</a>. For what drives the cost up or down, <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">What Does a Roll-Off Dumpster Rental Actually Cost</a> covers the pricing variables in detail.</p>
+
+<h2 id="when-smaller-is-better">When a Smaller Container Is the Better Call</h2>
+
+<p>The biggest container available is not always the right choice for demolition debris. When weight is the binding constraint &mdash; concrete, brick, or tile that will hit the weight limit before the container is half full &mdash; renting a large container means paying for volume you cannot use. That is an expensive way to not solve the problem.</p>
+
+<p>Many rental companies offer dedicated heavy-debris containers, sometimes called concrete containers or clean-fill containers. These are typically smaller units priced and weight-rated specifically for dense material. For jobs where the majority of the load is concrete, masonry, tile, or clean dirt, a dedicated heavy-debris container often makes more financial sense than a standard roll-off with overweight fees on top.</p>
+
+<p>A rough rule of thumb: when more than a quarter of the load by weight is dense material &mdash; concrete, brick, tile, or stone &mdash; it is worth asking about heavy-debris pricing before booking a standard container. That two-minute call at booking is cheaper than the conversation with the driver after the fact.</p>
+
+<p>One important caveat: accepted materials vary by provider and local landfill agreement. Some companies accept concrete and clean fill in their standard roll-offs. Others do not, or price it separately. Some accept mixed demolition debris freely; others restrict certain categories based on their tipping facility. Ask specifically what the company accepts &mdash; and what they do not &mdash; before any material goes in the bin.</p>
+
+<p>For a broader look at construction dumpster rental beyond demolition-specific jobs, <a href="/resources/renting-a-construction-dumpster" class="text-orange hover:underline">Renting a Construction Dumpster: What Job Sites Actually Need</a> covers the contractor side of this in more detail.</p>
+
+<h2 id="pulls-and-access">Planning Pulls, Swap-Outs, and Site Access</h2>
+
+<p><strong>Swap-outs.</strong> A swap-out is when the driver picks up a full container and drops an empty one in the same spot on the same day. For longer demo projects &mdash; a full-home gut, a commercial tenant improvement, a multi-phase exterior job &mdash; plan for multiple pulls before the project ends. Scheduling swaps in advance costs less than a same-day emergency addition and less than watching a half-loaded dumpster sit in the driveway for a week because you cannot afford a second pull yet.</p>
+
+<p><strong>Driveway protection.</strong> Roll-off containers rest on two steel rails. The contact area is small relative to the weight, which means they can leave marks or stress cracks on decorative driveways, pavers, and older concrete. Most drivers carry boards and place them under the rails on request. On asphalt driveways in summer heat, boards are worth asking about regardless of what is in the container.</p>
+
+<p><strong>Access.</strong> The delivery truck needs roughly 60 feet of linear clearance to drop and set a container. Overhead clearance of 18&ndash;22 feet is required for the cable lift. Trees, utility wires, and overhangs that look manageable often fail that threshold. Walk the delivery path before the truck arrives. If the container needs to go on the street rather than the driveway, a permit is often required. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">permit guide</a> covers how that works by location type. For local providers in your area, the <a href="/locations" class="text-orange hover:underline">location directory</a> covers major markets.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>What size dumpster do I need for demolition?</h3>
+<p>Most residential demo projects fit a 20-yard container &mdash; a bathroom gut, kitchen teardown, deck removal, or full roof tear-off. Smaller single-room jobs often fit a 10-yard. Multi-room interior guts or whole-structure removals may need a 30-yard. For concrete-heavy projects, ask whether a dedicated heavy-debris container is the better option before booking a large standard roll-off.</p>
+
+<h3>Can I mix demolition debris with regular junk?</h3>
+<p>Usually yes. Mixed loads of demo debris and household items are common and accepted by most providers in a standard roll-off. The weight limit still applies across the whole load. If you are mixing concrete with lighter material, the concrete will dominate the weight calculation. Tell your provider what is going in so the weight allowance is set correctly before delivery.</p>
+
+<h3>Does concrete need a special dumpster?</h3>
+<p>Not always, but it may. Some companies accept concrete in their standard roll-offs with a higher weight allowance. Others offer dedicated concrete or heavy-debris containers priced specifically for dense loads. If your project involves significant concrete demolition &mdash; a driveway, patio, foundation, or retaining wall &mdash; ask before booking. An overweight fee after the pull usually costs more than a dedicated container at the start.</p>
+
+<h3>Can I put roofing shingles in a demolition dumpster?</h3>
+<p>Yes. Asphalt shingles are among the most common demolition materials loaded into roll-off containers and are accepted by most providers. Confirm the weight allowance before the tear-off starts. On a large roof, shingles alone can push 4&ndash;6 tons. If you are unclear on how shingle weight interacts with container limits, the <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster rental guide</a> covers this in detail.</p>
+
+<h3>What cannot go in a demolition dumpster?</h3>
+<p>Hazardous materials are prohibited in standard roll-offs: asbestos insulation, lead paint chips, paint, solvents, motor oil, propane tanks, and refrigerants. Pre-1980 homes may contain asbestos in pipe insulation, vinyl tile, or roofing material &mdash; test before demo if the property predates 1980. Accepted materials vary by provider and local landfill agreement, so confirm what is and is not accepted before loading anything you are unsure about.</p>
+
+<h3>How many tons can a demolition dumpster hold?</h3>
+<p>It depends on the container size and the provider&rsquo;s weight allowance. A common range for a 20-yard container is 4&ndash;6 tons, but this varies by company. Some set limits by debris type rather than container size. Ask for the specific weight allowance &mdash; and the overweight rate &mdash; before booking any demolition container. Those two numbers together define the actual cost ceiling.</p>
+
+<h3>Do I need a permit for a demolition dumpster?</h3>
+<p>A permit is usually required when the container goes on a public street or right-of-way. Driveway placement on private property typically does not require one. Requirements vary by city, county, and property type. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">permit guide</a> covers how this works across different municipalities.</p>
+
+<h3>How long can I keep a demolition dumpster?</h3>
+<p>Standard rental periods run 7&ndash;10 days. Extension rates typically run $5&ndash;$15 per additional day. For long demo projects, ask about extended pricing at booking &mdash; it is cheaper than extending mid-rental. Multi-phase jobs with planned swap-outs usually get a better rate when the full pull schedule is set upfront rather than added one pull at a time.</p>
+
+<p>Demolition is the fun part. The overweight fee is not. Size the container by what you are hauling, ask about the weight allowance before you book, and call for the pull before the bin is packed so tight the driver has to leave it. Everything else is just physics &mdash; and physics, as I may have mentioned, does not negotiate.</p>
+`,
+    faq: [
+      {
+        question: 'What size dumpster do I need for demolition?',
+        answer:
+          'Most residential demo projects fit a 20-yard container — a bathroom gut, kitchen teardown, deck removal, or full roof tear-off. Smaller single-room jobs often fit a 10-yard. Multi-room guts or whole-structure removals may need a 30-yard. For concrete-heavy projects, ask whether a dedicated heavy-debris container is the better option.',
+      },
+      {
+        question: 'Can I mix demolition debris with regular junk?',
+        answer:
+          'Usually yes. Mixed loads of demo debris and household items are common and accepted by most providers in a standard roll-off. The weight limit still applies across the whole load. Tell your provider what is going in before delivery so the weight allowance reflects what is actually in the bin.',
+      },
+      {
+        question: 'Does concrete need a special dumpster?',
+        answer:
+          'Not always, but it may. Some companies accept concrete in their standard roll-offs with a higher weight allowance. Others offer dedicated concrete or heavy-debris containers. If your project involves significant concrete demolition, ask before booking — an overweight fee after the pull typically costs more than a dedicated container at the start.',
+      },
+      {
+        question: 'Can I put roofing shingles in a demolition dumpster?',
+        answer:
+          'Yes. Asphalt shingles are accepted by most providers in a standard roll-off. Confirm the weight allowance before the tear-off starts — on a large roof, shingles alone can push 4–6 tons. Check the weight allowance, not just the cubic-yard number, before booking.',
+      },
+      {
+        question: 'What cannot go in a demolition dumpster?',
+        answer:
+          'Hazardous materials are prohibited: asbestos insulation, lead paint chips, paint, solvents, motor oil, propane tanks, and refrigerants. Pre-1980 homes may contain asbestos in pipe insulation, vinyl tile, or roofing material — test before demo if the property predates 1980. Accepted materials vary by provider and landfill agreement, so confirm before loading anything you are unsure about.',
+      },
+      {
+        question: 'How many tons can a demolition dumpster hold?',
+        answer:
+          'It depends on the container size and the provider\'s weight allowance. A common range for a 20-yard container is 4–6 tons, but this varies by company. Ask for the specific weight allowance and the overweight rate before booking. Those two numbers define the actual cost ceiling.',
+      },
+      {
+        question: 'Do I need a permit for a demolition dumpster?',
+        answer:
+          'A permit is usually required when the container goes on a public street or right-of-way. Driveway placement on private property typically does not require one. Requirements vary by city, county, and property type — the permit guide covers how this works across different municipalities.',
+      },
+      {
+        question: 'How long can I keep a demolition dumpster?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per additional day. For long demo projects, ask about extended pricing at booking. Multi-phase jobs with planned swap-outs usually get a better rate when the full pull schedule is set upfront.',
+      },
+    ],
+    toc: [
+      { id: 'what-is-a-demolition-dumpster', title: 'What a Demolition Dumpster Is (and When You Need One)' },
+      { id: 'interior-vs-exterior-demolition', title: 'Interior vs. Exterior Demo: Two Different Weight Profiles' },
+      { id: 'what-gets-heavy-fast', title: 'What Gets Heavy Fast' },
+      { id: 'sizing-for-demolition', title: 'Sizing a Container for Demo Debris' },
+      { id: 'when-smaller-is-better', title: 'When a Smaller Container Is the Better Call' },
+      { id: 'pulls-and-access', title: 'Planning Pulls, Swap-Outs, and Site Access' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
 ]
