@@ -7860,4 +7860,1002 @@ export const cityLocations: CityLocation[] = [
     latitude: 32.9126,
     longitude: -96.6389,
   },
+
+  // ─── DENTON ───────────────────────────────────────────────
+  {
+    slug: 'denton-tx-dumpster-rental',
+    cityName: 'Denton',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Denton, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Denton dumpster rental for college rental turnover, home cleanouts, roofing tear-offs, and construction debris across Denton County. Get a quote today.',
+    primaryKeyword: 'denton dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental denton tx',
+      'denton construction dumpster rental',
+      'roll off dumpster denton',
+      'roll off dumpster denton tx',
+      'rolloff dumpsters denton',
+      'roll offs denton tx',
+      '10 yard dumpster rental denton',
+      '20 yard dumpster rental denton',
+      '30 yard dumpster rental denton',
+    ],
+    heroH1: 'Dumpster Rental in Denton, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Denton for college rental turnover, home cleanouts, roofing tear-offs, and construction debris across Denton County.',
+    introParagraphs: [
+      'Denton houses the University of North Texas and Texas Woman\'s University, and that student population creates a rental market that turns over every May and August in a way no other DFW city matches. Landlords clearing units, property managers replacing flooring and fixtures, and students moving out of off-campus houses all generate cleanout volume on the same compressed timeline. A single block of rental houses near UNT can produce a week\'s worth of container demand during a single move-out cycle. Outside of those windows, a 10-yard container handles most single-unit rental turnover.',
+      'Beyond the college market, Denton County has been one of the fastest-growing counties in Texas for the past decade. New master-planned communities have expanded north and west of the older city core. At the same time, Downtown Denton\'s historic neighborhoods near the Courthouse Square have early 1900s housing stock generating renovation and estate cleanout demand on a completely different timeline. Hail Alley follows Denton along with the rest of North Texas — spring storm seasons push roofing replacement demand across both the older and newer housing stock at once.',
+      'Rolloff Dumpster Finder connects Denton customers with roll-off containers from local operators covering Denton County and adjacent communities. We serve Denton and the surrounding corridor — Lewisville, The Colony, Little Elm, Corinth, Flower Mound, Highland Village, and Argyle. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single rental unit turnover, single-room remodels, garage cleanouts, minor roofing jobs',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, multi-unit rental cleanouts, estate cleanouts, multi-room remodels',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'New home construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Rental Turnover Cleanouts',
+        description:
+          'Denton\'s student rental market turns over in concentrated waves each May and August. Landlords clearing multiple units simultaneously often need a container dropped and swapped on short notice. A 10-yard handles a single unit; a 15- or 20-yard covers multi-unit cleanouts or properties with accumulated storage. Book early for May move-out season — provider availability tightens across the whole Denton market at once.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Denton sits in Hail Alley and Denton County spring storm seasons hit the market reliably. A 20-yard handles most residential roofing tear-offs across Denton\'s housing stock. After a significant hail event, provider capacity across north DFW tightens fast — book as soon as a contractor is scheduled, not after the adjuster has seen every house on the block.',
+      },
+      {
+        number: '03',
+        name: 'Historic Home Renovation',
+        description:
+          'Downtown Denton\'s neighborhoods near the Courthouse Square have early 1900s housing stock that generates significant debris during gut renovations. Original plaster walls, old hardwood subfloors, and cast iron pipe all add weight fast. Confirm truck access before scheduling delivery on the narrower streets of the historic district.',
+      },
+      {
+        number: '04',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clear-outs across Denton\'s older neighborhoods and newer master-planned communities. Historic district properties with decades of accumulated contents often fill a 20-yard container. Newer construction in Heritage, Robson Ranch, and adjacent communities generates less volume but larger garages — size based on what is actually in the property.',
+      },
+      {
+        number: '05',
+        name: 'New Home Construction',
+        description:
+          'Denton County has seen sustained residential development on the city\'s western and northern edges. Framing, drywall, and mixed construction debris from new builds in expanding neighborhoods generate consistent container demand. Contractors typically plan multiple pulls over the project life rather than holding a single container for weeks.',
+      },
+      {
+        number: '06',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Older Denton homes near the university corridors and in the historic neighborhoods around Denia and Clear Creek are generating first major kitchen and bath renovation projects. Cabinets, tile, and fixture removal from a full kitchen gut in an older Denton home fills a 10-yard container. Add a bathroom to the scope and step to a 15-yard.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Estate and pre-sale cleanouts in Denton\'s older central neighborhoods and historic district. Properties that have had one owner for 30 or more years in the blocks around the Courthouse Square generate 20-yard loads without much difficulty. Properties with large lots, outbuildings, or workshop storage often push to a 30-yard.',
+      },
+      {
+        number: '08',
+        name: 'Garage Cleanouts',
+        description:
+          'Denton homes across the older central neighborhoods and newer Robson Ranch and Heritage communities both generate garage cleanout demand — for different reasons. Older central Denton properties accumulate decades of tools and storage. Newer retirement communities like Robson Ranch see cleanouts as residents downsize from larger homes.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, old sod, brush clearing, and landscaping overhauls across Denton neighborhoods. Larger lots in the historic Denton neighborhoods and the Pecan Creek area generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics and large limbs before loading.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Denton depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across Denton suburban neighborhoods. Most properties have adequate clearance for a standard roll-off container.',
+      'Downtown Denton streets near the Courthouse Square are narrower than suburban Denton. Confirm truck clearance and turning radius with your provider before scheduling delivery on a historic district property.',
+      'Student rental properties near UNT and TWU may have limited driveway access. Confirm the placement spot before booking — street placement in Denton requires a permit from the City of Denton.',
+      'Master-planned communities in Denton County — Heritage, Savannah, and others — may have HOA rules on container placement and visibility. Check with the association before booking.',
+      'Use boards under the container to protect driveways. On rental properties with older concrete driveways, boards reduce the risk of cracking under point loading.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Denton',
+      'Courthouse Square',
+      'Denia',
+      'North Denton',
+      'South Denton',
+      'Clear Creek',
+      'Pecan Creek',
+      'Heritage',
+      'Robson Ranch',
+      'Oak Point',
+      'Lakewood Village',
+      'Quail Run',
+      'Rayzor Ranch',
+      'Westgate',
+    ],
+    nearbyCities: [
+      'Lewisville',
+      'The Colony',
+      'Little Elm',
+      'Corinth',
+      'Highland Village',
+      'Flower Mound',
+      'Argyle',
+      'Sanger',
+      'Krum',
+      'Lake Dallas',
+      'Hickory Creek',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Denton?',
+        answer:
+          'A 10-yard container in Denton runs $250–$430 per week. A 20-yard for roofing tear-offs or estate cleanouts runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Denton rental property cleanout?',
+        answer:
+          'A 10-yard handles most single-unit rental cleanouts in Denton. For multi-unit cleanouts or properties with accumulated garage storage, a 15- or 20-yard is usually the right call. During the May and August UNT/TWU move-out seasons, book early — provider availability tightens across the whole Denton market at the same time.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Denton?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Denton. Confirm the weight allowance with your provider before loading. During Denton County hail season, booking as soon as a contractor is lined up is the most important step. Provider availability across north DFW tightens fast after a major storm.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Denton?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Historic Denton homes with older concrete foundations, brick chimneys, and cast iron pipe generate heavier loads than standard residential debris. Tell your provider what is going in so the weight allowance is set correctly.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Denton?',
+        answer:
+          'Same-day or next-day delivery is typically available in Denton during normal periods. During the May and August student move-out seasons and after major Denton County hail events, lead times stretch. Plan for 24–72 hours during peak demand rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Denton?',
+        answer:
+          'Street or right-of-way placement in Denton usually requires a permit from the City of Denton. Driveway placement on private property typically does not. Your rental provider can often handle the permit — confirm before scheduling delivery.',
+      },
+      {
+        question: 'Do you serve Lewisville, Flower Mound, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Denton and the surrounding Denton County corridor — Lewisville, The Colony, Little Elm, Corinth, Flower Mound, Highland Village, Argyle, and Sanger. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Denton?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. For rental property cleanouts with multiple units, ask about extended pricing at booking — it is cheaper than multiple last-minute extensions.',
+      },
+      {
+        question: 'Are there items I cannot put in a Denton dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. Denton homes built before 1980 may contain asbestos in floor tile, insulation, or roofing material. Test before demo if the property predates 1980.',
+      },
+    ],
+    latitude: 33.2148,
+    longitude: -97.1331,
+  },
+
+  // ─── GRAND PRAIRIE ────────────────────────────────────────
+  {
+    slug: 'grand-prairie-tx-dumpster-rental',
+    cityName: 'Grand Prairie',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Grand Prairie, TX | Sizes & Local Guide',
+    metaDescription:
+      'Grand Prairie dumpster rental for home cleanouts, roofing tear-offs, commercial debris, and renovation projects between Dallas, Fort Worth, and Arlington.',
+    primaryKeyword: 'grand prairie dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental grand prairie tx',
+      'grand prairie construction dumpster rental',
+      'roll off dumpster grand prairie',
+      'roll off dumpster grand prairie tx',
+      'rolloff dumpsters grand prairie',
+      'roll offs grand prairie tx',
+      '10 yard dumpster rental grand prairie',
+      '20 yard dumpster rental grand prairie',
+      '30 yard dumpster rental grand prairie',
+    ],
+    heroH1: 'Dumpster Rental in Grand Prairie, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Grand Prairie for home cleanouts, roofing tear-offs, commercial debris, and renovation projects across Dallas and Tarrant Counties.',
+    introParagraphs: [
+      'Grand Prairie sits at the center of the DFW triangle — bordered by Dallas to the east, Fort Worth to the west, and Arlington directly to the south. That position concentrates commercial and industrial activity from multiple directions. The housing stock spans two distinct eras: older 1960s and 1970s neighborhoods in central Grand Prairie around the International Parkway corridor, and newer developments near Joe Pool Lake and the Mira Lagos community to the south. The older neighborhoods are generating renovation and estate cleanout demand as they hit the 50-to-60-year mark.',
+      'Grand Prairie\'s industrial and warehouse corridor along I-30 and the SH-161 frontage generates consistent commercial debris — warehouse renovations, light industrial buildout, and tenant improvement work that runs on a separate cycle from residential demand. Hail events track through the Dallas County and Tarrant County portions of the city simultaneously, and a single spring storm can push roofing demand across both the older central housing and the newer Lake Ridge and Mira Lagos communities at the same time.',
+      'Rolloff Dumpster Finder connects Grand Prairie customers with roll-off containers from local operators serving Dallas and Tarrant Counties. We cover Grand Prairie and the surrounding corridor — Arlington, Dallas, Irving, Mansfield, Cedar Hill, Duncanville, and DeSoto. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Garage cleanouts, single-room remodels, small roofing jobs, minor commercial cleanouts',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium home cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, estate cleanouts, kitchen remodels, commercial tenant cleanouts',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, commercial buildout debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'New construction, warehouse renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Grand Prairie straddles Dallas and Tarrant Counties and sits squarely in Hail Alley. A 20-yard handles most residential roofing tear-offs. After a significant hail event, provider capacity across the mid-DFW corridor fills fast — the city\'s position between Dallas, Arlington, and Fort Worth means multiple markets are competing for the same containers at once. Book as soon as a contractor is scheduled.',
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          'Central Grand Prairie\'s 1960s and 1970s neighborhoods are generating estate cleanout and pre-sale cleanout demand as original owners move on. A three-bedroom ranch in the Dalworth Park or Turner Park area lived in for 40 years regularly fills a 20-yard container. Properties with detached garages or storage sheds push toward a 30-yard.',
+      },
+      {
+        number: '03',
+        name: 'Commercial & Warehouse Debris',
+        description:
+          'Grand Prairie\'s I-30 and SH-161 corridors have warehouse and light industrial facilities that generate renovation and cleanout debris on a commercial scale. Tenant improvements, facility renovations, and warehouse cleanouts all generate C&D debris that moves separately from residential volume. A 30- or 40-yard container is typical for commercial-scale work.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Original 1970s kitchens and bathrooms in central Grand Prairie are generating gut-and-replace projects as buyers update after purchase. A full kitchen teardown in a 1970s Grand Prairie ranch house fills a 10-yard container. Add the bathrooms to the scope and step to a 15-yard.',
+      },
+      {
+        number: '05',
+        name: 'Estate Cleanouts',
+        description:
+          'The older central Grand Prairie neighborhoods generate estate cleanout volume as longtime residents move on. Properties in Prairie Hills, Dalworth Park, and South Grand Prairie that have had one owner since the 1970s often fill a 20-yard container without the garage contents even loaded. Size up if the property has outbuildings or a full workshop.',
+      },
+      {
+        number: '06',
+        name: 'Construction Debris',
+        description:
+          'New residential development near Joe Pool Lake, Mira Lagos, and the Lynn Creek area generates framing, drywall, and mixed construction debris. Commercial development along the SH-161 corridor and around Epic Central adds commercial C&D volume to the market. Contractors on active builds typically plan multiple container pulls rather than a single long rental.',
+      },
+      {
+        number: '07',
+        name: 'Garage Cleanouts',
+        description:
+          'Grand Prairie\'s 1970s and 1980s homes have attached and detached garages that accumulate decades of storage. Single-car cleanouts typically fit a 10-yard container; a packed two-car garage in the Westchester or Mountain Creek area usually needs a 15-yard.',
+      },
+      {
+        number: '08',
+        name: 'Waterfront Renovation',
+        description:
+          'Joe Pool Lake borders Grand Prairie on the south, and the Mira Lagos and Lake Ridge communities see renovation activity tied to waterfront properties. Deck rebuilds, fence removal, and dock-adjacent cleanouts are distinct from standard residential projects. Access constraints near the lakefront may require confirming truck clearance before scheduling delivery.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Grand Prairie neighborhoods. Larger lots near Joe Pool Lake and in the Mountain Creek area generate significant yard debris during seasonal cleanup and storm recovery. Confirm whether your provider accepts organics before loading.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Grand Prairie depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across Grand Prairie suburban neighborhoods. Most properties have adequate clearance for a standard roll-off container.',
+      'Street or right-of-way placement in Grand Prairie usually requires a permit. Your rental provider can typically handle this — confirm before scheduling delivery.',
+      'Commercial and industrial properties along I-30 and the SH-161 corridor may require coordinated delivery timing. Confirm access and designated placement spots with the site manager before the driver arrives.',
+      'Waterfront properties near Joe Pool Lake may have limited rear access or terrain constraints. Confirm truck clearance with your provider before scheduling delivery on a lakefront lot.',
+      'Newer HOA communities in Mira Lagos and Lake Ridge may have placement rules. Check with the association before booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Dalworth Park',
+      'Prairie Hills',
+      'South Grand Prairie',
+      'Westchester',
+      'Turner Park',
+      'Mira Lagos',
+      'Lake Ridge',
+      'Lynn Creek',
+      'Mountain Creek',
+      'Corn Valley',
+      'International Parkway Corridor',
+      'North Grand Prairie',
+    ],
+    nearbyCities: [
+      'Dallas',
+      'Arlington',
+      'Irving',
+      'Mansfield',
+      'Cedar Hill',
+      'Duncanville',
+      'DeSoto',
+      'Midlothian',
+      'Fort Worth',
+      'Burleson',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Grand Prairie?',
+        answer:
+          'A 10-yard container in Grand Prairie runs $250–$430 per week. A 20-yard for roofing tear-offs and estate cleanouts runs $360–$620. A 30-yard for large renovations or commercial work runs $430–$740. These are market estimates — your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Grand Prairie home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Grand Prairie. For a garage or single-room project, a 10- or 15-yard is typically enough. Grand Prairie\'s 1960s and 1970s ranch houses with detached garages and storage buildings often generate more than expected — size up if the property has not been cleared in a decade or more.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Grand Prairie?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Grand Prairie. The city straddles Dallas and Tarrant Counties, and after a major hail event providers across the mid-DFW corridor fill fast. Book as soon as a contractor is scheduled.',
+      },
+      {
+        question: 'Do you serve commercial properties and warehouses in Grand Prairie?',
+        answer:
+          'Yes. Roll-off containers serve both residential and commercial projects. Warehouse cleanouts, tenant improvements, and light industrial renovation debris typically need a 30- or 40-yard container. Confirm access and site logistics with your provider before scheduling a commercial delivery.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Grand Prairie?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Concrete, soil, and brick need the right weight allowance for the job. Tell your provider what is going in the bin before getting a quote.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Grand Prairie?',
+        answer:
+          'Same-day or next-day delivery is typically available during normal periods. After a major hail event across the DFW corridor, lead times stretch as providers fill with roofing jobs across Dallas, Tarrant, and adjacent counties. During spring storm season, plan for 24–72 hours.',
+      },
+      {
+        question: 'Do you serve Arlington, Dallas, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Grand Prairie and the surrounding DFW corridor — Arlington, Dallas, Irving, Mansfield, Cedar Hill, Duncanville, and DeSoto. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Grand Prairie?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. For commercial projects with multiple phases, ask about extended pricing at booking rather than extending mid-rental.',
+      },
+      {
+        question: 'Are there items I cannot put in a Grand Prairie dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. Grand Prairie homes built before 1980 may contain asbestos in floor tile, insulation, or roofing shingles. Test before demo if the property predates 1980.',
+      },
+    ],
+    latitude: 32.7460,
+    longitude: -96.9978,
+  },
+
+  // ─── CARROLLTON ───────────────────────────────────────────
+  {
+    slug: 'carrollton-tx-dumpster-rental',
+    cityName: 'Carrollton',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Carrollton, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Carrollton dumpster rental for home cleanouts, kitchen remodels, roofing tear-offs, and construction debris across Dallas, Denton, and Collin Counties.',
+    primaryKeyword: 'carrollton dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental carrollton tx',
+      'carrollton construction dumpster rental',
+      'roll off dumpster carrollton',
+      'roll off dumpster carrollton tx',
+      'rolloff dumpsters carrollton',
+      'roll offs carrollton tx',
+      '10 yard dumpster rental carrollton',
+      '20 yard dumpster rental carrollton',
+      '30 yard dumpster rental carrollton',
+    ],
+    heroH1: 'Dumpster Rental in Carrollton, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Carrollton for home cleanouts, kitchen remodels, roofing tear-offs, and construction debris across the north Dallas suburb corridor.',
+    introParagraphs: [
+      'Carrollton covers three distinct eras of suburban development. South Carrollton along Belt Line Road and Old Denton Road was built heavily in the 1970s and 1980s — brick ranches and traditional split-levels on established lots that are now generating renovation demand. North Carrollton\'s newer neighborhoods, including areas near Hebron Parkway, came up in the 1990s and 2000s and are starting their first renovation cycle. Old Town Carrollton near the historic downtown has structures dating to the early 1900s. These three eras run on different timelines simultaneously, which means container demand across the city is rarely seasonal.',
+      'Carrollton\'s position along the I-35E corridor generates light commercial and industrial activity — distribution centers, office parks, and retail tenant improvements. The city sits in Hail Alley with the rest of North Texas, and spring storm seasons push roofing demand across both the older south Carrollton ranches and the newer HOA communities in the north. Virtually all of Carrollton\'s newer subdivisions have HOA placement rules — confirm with the association before booking a container in a north Carrollton community.',
+      'Rolloff Dumpster Finder connects Carrollton customers with roll-off containers from local operators covering Dallas, Denton, and Collin Counties. We serve Carrollton and the surrounding corridor — Plano, Addison, Farmers Branch, Lewisville, The Colony, Irving, and Dallas. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, garage cleanouts, small roofing jobs, kitchen teardowns',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, estate cleanouts, multi-room remodels, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'New construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Carrollton sits in Hail Alley and spring storm seasons hit the market reliably. A 20-yard handles most residential roofing tear-offs across both the older south Carrollton stock and the newer north Carrollton communities. Book as soon as a contractor is scheduled — post-storm provider availability tightens across north DFW quickly.',
+      },
+      {
+        number: '02',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'South Carrollton\'s 1970s and 1980s ranch houses are generating gut-and-replace kitchen and bath projects as buyers update after purchase. Original 1970s kitchens — formica, steel cabinets, and old appliances — fill a 10-yard container during a complete teardown. Two bathrooms alongside a kitchen renovation pushes to a 15-yard.',
+      },
+      {
+        number: '03',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clear-outs across Carrollton\'s three distinct housing eras. South Carrollton ranch houses with original owners generate large estate cleanout loads. Newer north Carrollton homes with large garages generate different profiles. A 20-yard handles most full-home cleanouts; older properties with detached structures sometimes push to a 30-yard.',
+      },
+      {
+        number: '04',
+        name: 'Estate Cleanouts',
+        description:
+          'South Carrollton and Old Town Carrollton properties with longtime ownership generate estate cleanout demand. A brick ranch in the Josey Ranch or Rosemeade area lived in since 1978 fills a 20-yard container reliably. Properties with detached garages, workshops, or long-occupied storage areas push the estimate higher.',
+      },
+      {
+        number: '05',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, and mixed C&D waste from renovation and infill construction across Carrollton. Light commercial construction along I-35E and Belt Line adds commercial volume to the market. Carrollton\'s position between Dallas and the Collin County suburbs keeps contractor demand steady year-round.',
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          'South Carrollton\'s 1970s homes have single-car and two-car garages that accumulate tools, storage, and decades of accumulated household overflow. A packed two-car garage in Rosemeade or Indian Creek typically fills a 10- to 15-yard container. Newer north Carrollton three-car garages sometimes generate more.',
+      },
+      {
+        number: '07',
+        name: 'Old Town Renovation',
+        description:
+          'Old Town Carrollton near the historic downtown has commercial and residential structures from the early 1900s. Renovation of older Old Town buildings generates plaster, old hardwood floors, cast iron pipe, and mixed debris heavier than modern construction materials. Confirm truck access on the older downtown street grid before scheduling delivery.',
+      },
+      {
+        number: '08',
+        name: 'Rental Turnover',
+        description:
+          'Carrollton has a significant rental stock, particularly in the south Carrollton corridor near Belt Line Road. Landlords and property managers clearing units between tenants generate cleanout demand on compressed timelines. A 10-yard handles most single-unit turnovers; multi-unit cleanouts or properties with significant storage step to a 15-yard.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, sod removal, brush clearing, and landscaping overhauls across Carrollton neighborhoods. Mature trees on established south Carrollton lots generate significant trimming debris during storm recovery. Confirm whether your provider accepts organics and large limbs before loading.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Carrollton depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across Carrollton suburban neighborhoods. South Carrollton ranch lots and north Carrollton suburban lots both typically have adequate clearance for a standard roll-off container.',
+      'Newer north Carrollton HOA communities have placement rules that may restrict container visibility or duration. Check with the association before booking.',
+      'Old Town Carrollton\'s older streets may have access constraints for large trucks. Confirm clearance with your provider before scheduling delivery in the historic downtown area.',
+      'Street or right-of-way placement in Carrollton usually requires a permit. Your rental provider can typically handle this — confirm before scheduling delivery.',
+      'South Carrollton properties with mature trees near the driveway should confirm overhead clearance before scheduling. The delivery truck needs 18–22 feet of vertical clearance for the cable lift.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Rosemeade',
+      'Josey Ranch',
+      'Indian Creek',
+      'South Carrollton',
+      'North Carrollton',
+      'Old Town Carrollton',
+      'Frankford Heights',
+      'Crosby Hills',
+      'Kelly Park',
+      'Furneaux Creek',
+      'Valwood',
+      'Hebron Parkway Corridor',
+    ],
+    nearbyCities: [
+      'Plano',
+      'Addison',
+      'Farmers Branch',
+      'Lewisville',
+      'The Colony',
+      'Irving',
+      'Dallas',
+      'Coppell',
+      'Richardson',
+      'Garland',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Carrollton?',
+        answer:
+          'A 10-yard container in Carrollton runs $250–$430 per week. A 20-yard for roofing tear-offs and estate cleanouts runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Carrollton home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Carrollton. For a garage or single-room project, a 10- or 15-yard is typically enough. South Carrollton\'s 1970s and 1980s ranch houses with original owners generate more volume than newer properties — size up if the property has not been cleared in a decade or more.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Carrollton?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Carrollton. Confirm the weight allowance with your provider before loading. During North Texas hail season, book as soon as a contractor is scheduled — provider availability tightens fast across the north DFW corridor.',
+      },
+      {
+        question: 'My Carrollton HOA has placement rules — what do I need to know?',
+        answer:
+          'Most of Carrollton\'s newer north Carrollton communities have HOA rules restricting container placement duration or visibility. Check with your association before booking. Some HOAs require written approval; others just need advance notice.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Carrollton?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Old Town Carrollton structures with concrete foundations and plaster walls generate heavier demo loads than typical residential debris. Tell your provider what is going in before getting a quote.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Carrollton?',
+        answer:
+          'Same-day or next-day delivery is typically available in Carrollton during normal periods. After a major hail event across north DFW, lead times stretch. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do you serve Plano, Addison, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Carrollton and the surrounding corridor — Plano, Addison, Farmers Branch, Lewisville, The Colony, Irving, Coppell, Richardson, and Dallas. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Carrollton?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Ask about extended pricing at booking if the project will run long — it is cheaper than extending mid-rental.',
+      },
+      {
+        question: 'Are there items I cannot put in a Carrollton dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. Carrollton homes built before 1980 may contain asbestos in floor tile, insulation, or roofing material. Test before demo if the property predates 1980.',
+      },
+    ],
+    latitude: 32.9537,
+    longitude: -96.8903,
+  },
+
+  // ─── RICHARDSON ───────────────────────────────────────────
+  {
+    slug: 'richardson-tx-dumpster-rental',
+    cityName: 'Richardson',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Richardson, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Richardson dumpster rental for older home renovations, Telecom Corridor office cleanouts, roofing tear-offs, and estate cleanouts across Dallas County.',
+    primaryKeyword: 'richardson dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental richardson tx',
+      'richardson construction dumpster rental',
+      'roll off dumpster richardson',
+      'roll off dumpster richardson tx',
+      'rolloff dumpsters richardson',
+      'roll offs richardson tx',
+      '10 yard dumpster rental richardson',
+      '20 yard dumpster rental richardson',
+      '30 yard dumpster rental richardson',
+    ],
+    heroH1: 'Dumpster Rental in Richardson, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Richardson for older home renovations, Telecom Corridor office work, roofing tear-offs, and estate cleanouts across Dallas County.',
+    introParagraphs: [
+      'Richardson built out quickly in the 1960s and 1970s as Dallas expanded north along US-75, and the housing stock reflects that timeline. Ranch houses in Richardson Heights, Canyon Creek, and Hamner Hills are 45 to 60 years old — original kitchens, dated bathrooms, and roofing systems that have been replaced at least once. Buyers taking on these homes often do significant gut renovations, and longtime owners updating before a sale generate steady container demand. An estate cleanout in a Canyon Creek home occupied since 1968 fills a 20-yard container reliably.',
+      'The Telecom Corridor along US-75 between Campbell Road and the President George Bush Turnpike houses Ericsson, Fujitsu, and dozens of other tech tenants. Office gut jobs, tenant improvements, and corporate space renovations from this corridor generate commercial container demand that runs separately from the residential market. Richardson sits in Hail Alley, and spring storm seasons hit the older housing stock hard — roofs already approaching the end of their service life before a storm rarely wait for a convenient booking window.',
+      'Rolloff Dumpster Finder connects Richardson customers with roll-off containers from local operators covering Dallas County and Collin County. We serve Richardson and the surrounding corridor — Plano, Garland, Allen, Dallas, Addison, Murphy, and Sachse. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Garage cleanouts, single-room remodels, kitchen teardowns, minor roofing jobs',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, estate cleanouts, multi-room remodels, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home gut renovations, commercial tenant improvements, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial gut jobs, large demolition, full structure removal',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Estate Cleanouts',
+        description:
+          'Richardson\'s 1960s and 1970s neighborhoods generate significant estate cleanout volume as longtime residents move on. A Canyon Creek or Richardson Heights home occupied since 1970 fills a 20-yard container without much difficulty. Properties with original single-car garages, storage sheds, and workshop areas push toward a 30-yard.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Richardson sits in Hail Alley and the older housing stock across the city means many roofs were already aging when a storm hits. A 20-yard handles most residential tear-offs. Post-storm provider availability across Dallas County tightens fast — book as soon as a contractor is scheduled, not after the neighborhood has already called.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Richardson\'s 1960s ranch houses are generating gut-and-replace kitchen and bath projects as buyers renovate after purchase. Original kitchens in Canyon Creek and Hamner Hills homes — dating to 1965–1975 — fill a 10-yard container during a complete teardown. A kitchen and two baths combined steps to a 15-yard.',
+      },
+      {
+        number: '04',
+        name: 'Office & Tenant Improvement',
+        description:
+          'The Telecom Corridor along US-75 generates commercial container demand from office gut jobs, tenant improvements, and corporate relocations. Standard office renovation projects land in the 20- to 30-yard range depending on the scope. The Corridor has been an active market for corporate space updates as tech tenants refresh aging office stock.',
+      },
+      {
+        number: '05',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clear-outs before a sale or renovation across Richardson\'s older housing stock. A 1960s Richardson ranch house typically fits a 15- to 20-yard container. Properties with original garages that have not been cleared in decades often push to a 20-yard even before the house contents are counted.',
+      },
+      {
+        number: '06',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, and mixed C&D waste from renovation and infill construction. Richardson borders Plano and Garland, and the surrounding commercial development along the US-75 corridor generates steady contractor debris volume. Infill builds and home additions in the older neighborhoods are an active category.',
+      },
+      {
+        number: '07',
+        name: 'Garage Cleanouts',
+        description:
+          'Richardson\'s 1960s and 1970s homes have original single-car and two-car garages that accumulate tools, storage, and equipment over decades. A packed two-car garage in Canyon Creek or Cottonwood Park typically fills a 10-yard container. Properties with detached workshops add significant volume to any cleanout estimate.',
+      },
+      {
+        number: '08',
+        name: 'Full Home Renovation',
+        description:
+          'Buyers taking on Richardson\'s older 1960s and 1970s ranch houses sometimes gut the entire interior — plaster or drywall out, original subfloors out, old wiring and plumbing gone. These projects generate 25 to 35 cubic yards of mixed debris. Plan for a 30-yard container or two sequential 20-yard pulls on a full gut job.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, sod removal, and landscaping overhauls across Richardson\'s established neighborhoods. Mature trees on 50-year-old lots in Canyon Creek, Sherrill Park, and Heights Park generate significant trimming debris during storm recovery. Confirm whether your provider accepts organics before loading.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Richardson depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Richardson\'s older 1960s and 1970s neighborhoods have narrower driveways than modern suburban builds. Single-car driveways in Canyon Creek and Richardson Heights may have limited clearance for a full-size roll-off. Confirm driveway width with your provider before scheduling delivery.',
+      'Most of Richardson\'s older neighborhoods do not have rear alley access — front driveway placement is the standard option.',
+      'Street or right-of-way placement in Richardson requires a permit. Your rental provider can typically handle this — confirm before scheduling delivery.',
+      'Richardson borders Dallas, Plano, and Garland, and the city\'s urban density means some properties have overhead obstructions that limit cable lift clearance. Walk the delivery path before the truck arrives.',
+      'The Telecom Corridor along US-75 has commercial access requirements and designated loading zones on many properties. Confirm the drop location with the building manager before scheduling a commercial delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Canyon Creek',
+      'Richardson Heights',
+      'Hamner Hills',
+      'Cottonwood Park',
+      'Prairie Creek',
+      'Sherrill Park',
+      'Heights Park',
+      'Buckingham',
+      'Arapaho Road Corridor',
+      'Spring Creek',
+      'Telecom Corridor',
+      'University Drive Area',
+    ],
+    nearbyCities: [
+      'Plano',
+      'Garland',
+      'Allen',
+      'Dallas',
+      'Addison',
+      'Murphy',
+      'Sachse',
+      'Wylie',
+      'Frisco',
+      'McKinney',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Richardson?',
+        answer:
+          'A 10-yard container in Richardson runs $250–$430 per week. A 20-yard for roofing tear-offs and estate cleanouts runs $360–$620. A 30-yard for large gut renovations or commercial work runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for a Richardson home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Richardson. For a garage or single-room project, a 10- or 15-yard is typically enough. Richardson\'s 1960s and 1970s properties with original garages and storage areas often generate more than expected — size up if the property has not been cleared in a decade or more.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Richardson?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Richardson. The older housing stock means many Richardson roofs were already approaching end of life when a hail event hits — confirm the weight allowance before loading. Book as soon as a contractor is scheduled.',
+      },
+      {
+        question: 'Do you serve commercial properties in the Telecom Corridor?',
+        answer:
+          'Yes. Roll-off containers work for office gut jobs, tenant improvements, and commercial renovation debris in the Telecom Corridor. Most standard commercial projects land in the 20- to 30-yard range. Confirm access and site logistics with your provider before scheduling a delivery on a commercial Corridor property.',
+      },
+      {
+        question: 'What about narrow driveways in older Richardson neighborhoods?',
+        answer:
+          'Single-car driveways in Canyon Creek, Richardson Heights, and Hamner Hills are narrower than modern suburban builds. Confirm driveway width with your provider before scheduling delivery — a container that does not fit the driveway typically goes on the street, which requires a permit.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Richardson?',
+        answer:
+          'Same-day or next-day delivery is typically available during normal periods. After a major hail event across Dallas County, lead times stretch. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do you serve Plano, Garland, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Richardson and the surrounding corridor — Plano, Garland, Allen, Dallas, Addison, Murphy, Sachse, Wylie, Frisco, and McKinney. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Richardson?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Full gut renovation projects in older Richardson homes sometimes require multiple pulls — plan for that at the start rather than extending mid-rental.',
+      },
+      {
+        question: 'Are there items I cannot put in a Richardson dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. Richardson homes built before 1980 may contain asbestos in floor tile, insulation, or roofing material. Test before demo if the property predates 1980.',
+      },
+    ],
+    latitude: 32.9483,
+    longitude: -96.7299,
+  },
+
+  // ─── ALLEN ────────────────────────────────────────────────
+  {
+    slug: 'allen-tx-dumpster-rental',
+    cityName: 'Allen',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Dumpster Rental in Allen, TX | Sizes, Costs & Local Guide',
+    metaDescription:
+      'Allen dumpster rental for home remodels, roofing tear-offs, garage cleanouts, and construction debris across Collin County. Get a quote today.',
+    primaryKeyword: 'allen dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental allen tx',
+      'allen construction dumpster rental',
+      'roll off dumpster allen',
+      'roll off dumpster allen tx',
+      'rolloff dumpsters allen',
+      'roll offs allen tx',
+      '10 yard dumpster rental allen',
+      '20 yard dumpster rental allen',
+      '30 yard dumpster rental allen',
+    ],
+    heroH1: 'Dumpster Rental in Allen, Texas',
+    heroSubheadline:
+      'Roll-off dumpster rental in Allen for home remodels, roofing tear-offs, garage cleanouts, and construction debris across the Collin County corridor.',
+    introParagraphs: [
+      'Allen grew rapidly through the 1990s and 2000s, and most of that housing stock is now 20 to 35 years old. The earliest neighborhoods along Bethany Drive and the east US-75 corridor are hitting the point where original kitchens, bathrooms, and roofing systems need replacement — the same renovation wave that has been moving through Plano for the past decade is now working its way through Allen\'s older subdivisions. First-time renovators in Allen are often surprised at how much debris a kitchen gut and bath update generate, particularly in the larger two-story homes common in Allen\'s 1990s subdivisions.',
+      'Allen\'s commercial growth along the US-75 and SH-121 corridors generates ongoing tenant improvement and commercial renovation work. The Allen Premium Outlets area and the Watters Creek mixed-use development have driven steady retail and restaurant buildout. Allen sits in Hail Alley in Collin County — the same spring storm patterns that push roofing demand across Plano and McKinney hit Allen at the same time. Provider capacity tightens across the Collin County corridor after a significant event, and virtually every Allen subdivision has an HOA with container placement rules.',
+      'Rolloff Dumpster Finder connects Allen customers with roll-off containers from local operators covering Collin County and adjacent communities. We serve Allen and the surrounding corridor — Plano, Frisco, McKinney, Fairview, Lucas, Murphy, and Richardson. Get a quote based on what you are hauling and where the container needs to land.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Garage cleanouts, single-room remodels, kitchen teardowns, small roofing jobs',
+        range: '$250–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$310–$520 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full roofing tear-offs, multi-room remodels, estate cleanouts, deck removal',
+        range: '$360–$620 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, mixed construction debris, full property cleanouts',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'New construction, commercial renovation, large demolition jobs',
+        range: '$560–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Allen sits in Hail Alley in Collin County and spring storm seasons hit the market reliably. A 20-yard handles most residential roofing tear-offs. Post-storm provider availability tightens across the Plano, Allen, and McKinney corridor at the same time — booking as soon as a contractor is scheduled is the most important step.',
+      },
+      {
+        number: '02',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Allen\'s 1990s and early 2000s homes are generating their first major kitchen and bath renovation cycle. Large two-story homes common in Twin Creeks, Stacy Ridge, and Allen Heights generate more cabinet, tile, and fixture debris than the room count suggests. A full kitchen teardown fills a 10-yard container; add bathrooms and step to a 15-yard.',
+      },
+      {
+        number: '03',
+        name: 'Garage Cleanouts',
+        description:
+          'Allen homes from the 1990s and 2000s were built with large two- and three-car garages that accumulate 20-plus years of storage. A packed three-car garage in Arbor Hills or Fox Hollow typically fills a 15-yard container. Properties with additional workshop storage or a second shed push higher.',
+      },
+      {
+        number: '04',
+        name: 'Home Cleanouts',
+        description:
+          'Full-home clear-outs before a sale or renovation across Allen\'s 1990s and 2000s housing stock. Allen homes are larger than the typical 1970s DFW ranch — finished bonus rooms, large garages, and full basements (uncommon in DFW but present in some Allen builds) generate more volume than expected. Size up if you are unsure.',
+      },
+      {
+        number: '05',
+        name: 'New Home Construction',
+        description:
+          'Allen continues to see infill development and new construction on remaining lots in established neighborhoods and in newer sections near the Fairview and Lucas borders. Framing, drywall, and mixed construction debris from new builds generate consistent contractor demand. Plan for multiple container pulls on any project that will run more than 10 days.',
+      },
+      {
+        number: '06',
+        name: 'Construction Debris',
+        description:
+          'Commercial construction along the US-75 and SH-121 corridors near Allen Premium Outlets and Watters Creek generates ongoing commercial C&D debris. Tenant improvements, retail buildouts, and restaurant renovations in these areas produce mixed debris at commercial scale. A 30- or 40-yard container is typical for commercial-scope work.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Allen\'s housing is newer than most DFW cities — estate cleanouts are less common than in older markets but still present. Pre-sale cleanouts and whole-home clear-outs from Allen\'s 1990s and early 2000s stock generate 15- to 20-yard loads, particularly when large garages and storage areas are included.',
+      },
+      {
+        number: '08',
+        name: 'Deck & Fence Removal',
+        description:
+          'Pressure-treated decks and wood privacy fences installed in Allen\'s 1990s and early 2000s homes are reaching the end of their service life. A standard 400-square-foot deck removal with posts and hardware fills a 10-yard container. Large deck-and-fence combination projects step to a 15-yard.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimming, sod removal, brush clearing, and landscaping overhauls across Allen neighborhoods. Larger lots in Twin Creeks, Arbor Hills, and Allen Station generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics and tree limbs before loading.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Allen depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option across Allen suburban neighborhoods. Wide driveways on Allen\'s 1990s and 2000s homes typically provide adequate clearance for a standard roll-off container.',
+      'Allen is HOA-heavy — virtually every subdivision has an association with placement rules. Check with your HOA before booking to confirm duration limits and any visible-from-street restrictions.',
+      'Street or right-of-way placement in Allen usually requires a permit from the City of Allen. Your rental provider can typically handle this — confirm before scheduling delivery.',
+      'Active construction sites in Allen require a designated flat placement spot. Coordinate with the builder or site supervisor before the driver arrives.',
+      'Use boards under the container to protect newer decorative driveways and pavers, common across Allen\'s 1990s and 2000s homes. Ask your provider whether they supply boards.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Twin Creeks',
+      'Stacy Ridge',
+      'Arbor Hills',
+      'Fox Hollow',
+      'Watters Creek',
+      'Allen Station',
+      'Heritage Village',
+      'Montgomery Ridge',
+      'Allen Heights',
+      'Bethany Drive Corridor',
+      'Parker Road Corridor',
+      'North Allen',
+    ],
+    nearbyCities: [
+      'Plano',
+      'Frisco',
+      'McKinney',
+      'Fairview',
+      'Lucas',
+      'Murphy',
+      'Richardson',
+      'Wylie',
+      'Prosper',
+      'Sachse',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Allen?',
+        answer:
+          'A 10-yard container in Allen runs $250–$430 per week. A 20-yard for roofing tear-offs and multi-room remodels runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+      },
+      {
+        question: 'What size dumpster do I need for an Allen home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Allen. For a garage or single-room project, a 10- or 15-yard is typically enough. Allen\'s larger 1990s and 2000s two-story homes with big garages often generate more than expected — size up if you are unsure.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Allen?',
+        answer:
+          'Yes. A 20-yard handles most residential roofing tear-offs in Allen. Collin County hail season pushes roofing demand across the Plano, Allen, and McKinney corridor at the same time — book as soon as a contractor is scheduled. Provider availability tightens fast after a major event.',
+      },
+      {
+        question: 'My Allen HOA has placement rules — what should I know?',
+        answer:
+          'Most Allen subdivisions have HOA rules restricting container placement duration or visibility from the street. Check with your association before booking. Some require written approval; others just need advance notice. Your provider can usually advise on common restrictions in the area.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Allen?',
+        answer:
+          'Dense material hits weight limits at roughly half the container volume. Allen construction projects involving concrete flatwork, retaining walls, or masonry should tell the provider what is going in before getting a quote so the weight allowance is right for the job.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Allen?',
+        answer:
+          'Same-day or next-day delivery is typically available in Allen during normal periods. After a major hail event across Collin County, lead times stretch across the Plano, Allen, and McKinney corridor. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+      },
+      {
+        question: 'Do you serve Plano, Frisco, McKinney, and nearby cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Allen and the surrounding Collin County corridor — Plano, Frisco, McKinney, Fairview, Lucas, Murphy, Richardson, Wylie, and Prosper. Pricing and availability vary by delivery location.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Allen?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at booking. HOA-governed communities may also have limits on how long a container can sit visible — confirm this when you check placement rules.',
+      },
+      {
+        question: 'Are there items I cannot put in an Allen dumpster?',
+        answer:
+          'Hazardous materials — paint, solvents, motor oil, propane tanks, car batteries, and appliances containing refrigerants — are not accepted in standard roll-off containers. Allen homes are newer and typically do not have asbestos concerns, but any home built before 1980 should be tested before demo work begins.',
+      },
+    ],
+    latitude: 33.1032,
+    longitude: -96.6706,
+  },
 ]

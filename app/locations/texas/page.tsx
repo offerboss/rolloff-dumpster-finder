@@ -125,6 +125,56 @@ const cityCards = [
     slug: 'plano-tx-dumpster-rental',
     desc: 'Plano roll-off dumpster rental for home cleanouts, kitchen and bath remodels, construction cleanup, and renovation projects in the northern DFW suburbs.',
   },
+  {
+    city: 'Arlington',
+    slug: 'arlington-tx-dumpster-rental',
+    desc: 'Arlington dumpster rental for roofing tear-offs, home cleanouts, construction debris, and renovation projects across Tarrant County and the DFW mid-cities.',
+  },
+  {
+    city: 'Irving',
+    slug: 'irving-tx-dumpster-rental',
+    desc: 'Irving roll-off dumpster rental for Las Colinas commercial renovation, east Irving home cleanouts, roofing tear-offs, and construction debris near DFW Airport.',
+  },
+  {
+    city: 'Frisco',
+    slug: 'frisco-tx-dumpster-rental',
+    desc: 'Frisco dumpster rental for new construction, kitchen remodels, hail damage cleanup, and home cleanouts across Collin County.',
+  },
+  {
+    city: 'McKinney',
+    slug: 'mckinney-tx-dumpster-rental',
+    desc: 'McKinney roll-off dumpster rental for historic home renovations, Stonebridge Ranch remodels, roofing tear-offs, and estate cleanouts throughout Collin County.',
+  },
+  {
+    city: 'Garland',
+    slug: 'garland-tx-dumpster-rental',
+    desc: 'Garland dumpster rental for estate cleanouts, 1960s gut renovations, roofing tear-offs, and construction debris across Dallas County.',
+  },
+  {
+    city: 'Denton',
+    slug: 'denton-tx-dumpster-rental',
+    desc: 'Denton dumpster rental for college rental turnover, UNT and TWU move-outs, home cleanouts, roofing tear-offs, and construction debris across Denton County.',
+  },
+  {
+    city: 'Grand Prairie',
+    slug: 'grand-prairie-tx-dumpster-rental',
+    desc: 'Grand Prairie roll-off dumpster rental for home cleanouts, roofing tear-offs, commercial debris, and renovation projects between Dallas, Fort Worth, and Arlington.',
+  },
+  {
+    city: 'Carrollton',
+    slug: 'carrollton-tx-dumpster-rental',
+    desc: 'Carrollton dumpster rental for home cleanouts, kitchen remodels, roofing tear-offs, and construction debris across the north Dallas suburb corridor.',
+  },
+  {
+    city: 'Richardson',
+    slug: 'richardson-tx-dumpster-rental',
+    desc: 'Richardson roll-off dumpster rental for older home renovations, Telecom Corridor office work, estate cleanouts, and roofing tear-offs across Dallas County.',
+  },
+  {
+    city: 'Allen',
+    slug: 'allen-tx-dumpster-rental',
+    desc: 'Allen dumpster rental for home remodels, roofing tear-offs, garage cleanouts, and construction debris across the Collin County corridor.',
+  },
 ]
 
 const projects = [

@@ -154,6 +154,27 @@ const resourceCards = [
     href: '/resources/demolition-dumpster-rental',
   },
   {
+    badge: 'Construction',
+    title: 'Concrete Dumpster Rental: Why Smaller Bins Usually Make More Sense',
+    excerpt:
+      'Concrete hits weight limits long before it fills a container. Here is how to size the right bin for concrete, brick, pavers, and heavy debris — and when a dedicated heavy-debris container beats a 30-yard.',
+    href: '/resources/concrete-dumpster-rental',
+  },
+  {
+    badge: 'Home Cleanouts',
+    title: 'Garage Cleanout Dumpster Rental: What Size Makes Sense for Years of Stuff',
+    excerpt:
+      'Most garage cleanouts fit a 10-yard bin. Two-car garages and estate situations usually need a 15 or 20. Here is what goes in, what stays out, and when junk removal makes more sense.',
+    href: '/resources/garage-cleanout-dumpster-rental',
+  },
+  {
+    badge: 'Construction',
+    title: 'Bathroom Remodel Dumpster Rental: Tile, Tubs, Drywall, and Weight Limits',
+    excerpt:
+      'Bathroom debris is heavier than it looks. Tile, cement board, and a cast iron tub add up fast. Here is what size container to book, and why weight matters more than volume.',
+    href: '/resources/bathroom-remodel-dumpster-rental',
+  },
+  {
     badge: 'Comparison',
     title: 'Junk Removal vs. Dumpster Rental: How to Decide',
     excerpt:

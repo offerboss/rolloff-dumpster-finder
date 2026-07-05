@@ -4459,4 +4459,793 @@ export const blogPosts: BlogPost[] = [
       { id: 'straight-answers', title: 'Straight Answers' },
     ],
   },
+  {
+    slug: 'concrete-dumpster-rental',
+    title: 'Concrete Dumpster Rental: Why Smaller Bins Usually Make More Sense',
+    excerpt:
+      'Concrete is sized by weight, not volume. A standard roll-off hits its weight limit half-full of concrete. Here is how to size the right container before the job starts.',
+    category: 'Construction',
+    coverImage:
+      'https://images.pexels.com/photos/14562040/pexels-photo-14562040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Close-up of broken concrete bricks and rubble pile from demolition debris',
+    date: '2026-07-03',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Concrete dumpster rental is sized by weight, not cubic yards. Here is how to match the right container to a concrete or heavy debris job before you book.',
+    readingTime: 9,
+    keywords: [
+      'concrete dumpster rental',
+      'dumpster for concrete',
+      'concrete debris dumpster',
+      'heavy debris dumpster rental',
+      'concrete removal dumpster',
+      'dumpster rental for concrete',
+    ],
+    body: `
+<p>Concrete does not lose weight when you break it up. (I know. Disappointing.) A one-car driveway slab typically runs 1,500&ndash;1,800 lbs. Break it into chunks, load it into a standard roll-off, and you can hit the weight limit before the container is a quarter full. That is the concrete dumpster problem in one line: it is always about weight, not about how many cubic yards of space remain.</p>
+
+<p>The right container for a concrete-heavy job is usually a smaller one with a higher weight rating, not a 30-yard or 40-yard bin. A larger container does not solve a weight problem &mdash; it gives you more volume at a higher price while the weight limit stays fixed. This guide covers how concrete, brick, pavers, and tile behave under a weight limit and what to ask before you book.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick take</p>
+  <ul class="text-charcoal space-y-1 text-sm">
+    <li><strong>Small concrete job (one driveway section, a patio, a few slabs):</strong> 10-yard or dedicated heavy-debris container</li>
+    <li><strong>Mixed remodel debris with some concrete:</strong> 10- or 20-yard depending on total volume</li>
+    <li><strong>Mostly concrete from a large demolition:</strong> Ask about concrete-specific pricing and weight allowances before booking</li>
+    <li><strong>Large clean load:</strong> A concrete recycler may accept it at lower cost &mdash; worth one phone call</li>
+  </ul>
+</div>
+
+<nav aria-label="Table of contents" class="not-prose my-8 rounded-lg border border-[#E0DEDA] bg-[#F5F4F0] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#566070] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#why-concrete-is-different" class="text-[15px] text-orange font-medium hover:underline">Why Concrete Plays by Different Rules</a></li>
+    <li><a href="#how-heavy-is-heavy" class="text-[15px] text-orange font-medium hover:underline">How Heavy Is Heavy: Concrete, Brick, Pavers, and Tile by the Numbers</a></li>
+    <li><a href="#clean-vs-mixed" class="text-[15px] text-orange font-medium hover:underline">Clean Concrete vs. Mixed Debris: Why It Sometimes Matters</a></li>
+    <li><a href="#sizing-the-container" class="text-[15px] text-orange font-medium hover:underline">Sizing a Container for Concrete and Heavy Debris</a></li>
+    <li><a href="#when-bigger-isnt-the-answer" class="text-[15px] text-orange font-medium hover:underline">When a Bigger Bin Is Not the Answer</a></li>
+    <li><a href="#placement-and-driveway" class="text-[15px] text-orange font-medium hover:underline">Driveway Placement and Access</a></li>
+    <li><a href="#straight-answers" class="text-[15px] text-orange font-medium hover:underline">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="why-concrete-is-different">Why Concrete Plays by Different Rules</h2>
+
+<p>Standard roll-off pricing is built around light-to-moderate residential debris: furniture, drywall scraps, carpet, cabinets, yard waste. The weight limits on residential containers &mdash; commonly 2&ndash;6 tons depending on size and provider &mdash; are calibrated for that kind of load. Concrete is not that kind of load.</p>
+
+<p>Broken concrete in a roll-off container weighs roughly 1.5&ndash;2 tons per cubic yard. That is 3,000&ndash;4,000 lbs for every yard of space used. A 10-yard container with a 2-ton limit runs out of weight after a single cubic yard of concrete &mdash; roughly the debris from one short section of sidewalk. The bin still looks nearly empty. The weight limit is gone.</p>
+
+<p>Most overweight charges on concrete jobs trace back to this mismatch: the container was sized by volume, but weight was the binding constraint the whole time. The fee arrives after the driver takes the load to the scale. At that point, the conversation you should have had at booking is now a line item on the invoice.</p>
+
+<p>The fix is straightforward. Most rental companies will tell you if a dedicated heavy-debris container makes more sense for your job. Some offer concrete-rated units with higher weight allowances at a price that accounts for the heavier tipping fees. Asking that question before booking is the whole game.</p>
+
+<h2 id="how-heavy-is-heavy">How Heavy Is Heavy: Concrete, Brick, Pavers, and Tile by the Numbers</h2>
+
+<p>Dense materials vary more than people expect. Concrete is the heaviest common debris type on a residential job. Tile and masonry are close behind. Here is how the most common heavy debris materials compare:</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-[#1A2530] text-white">
+        <th class="text-left px-4 py-3 font-semibold">Material</th>
+        <th class="text-left px-4 py-3 font-semibold">Approx. Weight per Cubic Yard</th>
+        <th class="text-left px-4 py-3 font-semibold">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Concrete (broken chunks)</td>
+        <td class="px-4 py-3">1.5&ndash;2 tons</td>
+        <td class="px-4 py-3">Varies with rebar content and rubble packing</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Brick / CMU block</td>
+        <td class="px-4 py-3">1.5&ndash;2 tons</td>
+        <td class="px-4 py-3">Similar density to concrete; mortar adds weight</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Asphalt (broken pavement)</td>
+        <td class="px-4 py-3">1.4&ndash;1.8 tons</td>
+        <td class="px-4 py-3">Slightly lighter than concrete; still hits limits fast</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Ceramic / porcelain tile</td>
+        <td class="px-4 py-3">0.8&ndash;1.2 tons</td>
+        <td class="px-4 py-3">Includes weight of cement board backer in most jobs</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Natural stone / pavers</td>
+        <td class="px-4 py-3">1.5&ndash;2.5 tons</td>
+        <td class="px-4 py-3">Dense stone (granite, bluestone) at the high end</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Dirt / soil (dry)</td>
+        <td class="px-4 py-3">1&ndash;1.4 tons</td>
+        <td class="px-4 py-3">Wet soil is heavier; varies with organic content</td>
+      </tr>
+      <tr>
+        <td class="px-4 py-3">Mixed residential debris</td>
+        <td class="px-4 py-3">0.3&ndash;0.8 tons</td>
+        <td class="px-4 py-3">Furniture, drywall, carpet &mdash; the light end of the scale</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>The gap between the top and bottom of that table &mdash; five to six times the weight difference per cubic yard of space used &mdash; is why the sizing conversation changes completely when concrete is involved. A 20-yard container that handles a whole-home cleanout without issue will hit its limit fast if you swap furniture and drywall for broken concrete patio slabs.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/31249540/pexels-photo-31249540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Piles of concrete and bricks from demolished buildings in a residential area"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="clean-vs-mixed">Clean Concrete vs. Mixed Debris: Why It Sometimes Matters</h2>
+
+<p>Many rental companies differentiate between clean concrete loads and mixed demolition debris. Clean concrete &mdash; broken slab without rebar sticking out, no dirt mixed in, no wood or drywall alongside it &mdash; can sometimes go to a recycling facility rather than a C&amp;D landfill. Recycling facilities accept it at a lower tipping fee. Some companies pass part of that saving on through a dedicated clean-concrete rate.</p>
+
+<p>Mixed loads &mdash; concrete chunks alongside drywall scraps, wood framing, insulation, and general demo debris &mdash; go to a standard landfill. That is fine and accepted by virtually every rental company. You are not required to separate concrete from everything else. But if the majority of your load is clean, uncontaminated concrete, it is worth asking your provider whether they offer a separate rate. Sometimes they do.</p>
+
+<p>One note: what one company calls &ldquo;clean concrete&rdquo; may include rebar for another. Ask your specific provider what they mean before deciding whether to sort the load. The <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">accepted materials guide</a> covers general rules, but concrete pricing is one area where the local conversation matters more than a general answer.</p>
+
+<h2 id="sizing-the-container">Sizing a Container for Concrete and Heavy Debris</h2>
+
+<p>For jobs where most of the debris is concrete, brick, or other heavy material, weight is usually the constraint before volume. For mixed jobs where concrete is a small part of the overall load, volume stays the primary factor. The <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">full sizing guide</a> covers all project types; here is a concrete-specific breakdown:</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-[#1A2530] text-white">
+        <th class="text-left px-4 py-3 font-semibold">Container</th>
+        <th class="text-left px-4 py-3 font-semibold">Typical Use Case</th>
+        <th class="text-left px-4 py-3 font-semibold">Concrete Consideration</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3 font-semibold">Mini / heavy-debris (4&ndash;8 CY)</td>
+        <td class="px-4 py-3">Sidewalk section, small patio, paver replacement</td>
+        <td class="px-4 py-3">Rated for dense material; ask for the specific weight limit</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3 font-semibold">10-yard</td>
+        <td class="px-4 py-3">Small driveway removal, retaining wall block, light concrete job</td>
+        <td class="px-4 py-3">Standard weight limits vary by company (1&ndash;3 tons); confirm before loading</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3 font-semibold">20-yard</td>
+        <td class="px-4 py-3">Mixed remodel debris with some concrete, one-car driveway plus other material</td>
+        <td class="px-4 py-3">Right for mixed loads; confirm weight allowance if concrete is a significant portion</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3 font-semibold">30-yard</td>
+        <td class="px-4 py-3">Large mixed renovation projects with light-to-moderate debris</td>
+        <td class="px-4 py-3">More volume, not proportionally more weight capacity &mdash; rarely the right call for heavy loads</td>
+      </tr>
+      <tr>
+        <td class="px-4 py-3 font-semibold">40-yard</td>
+        <td class="px-4 py-3">Large commercial projects, mostly light debris</td>
+        <td class="px-4 py-3">Weight limit still applies; does not solve a concrete weight problem</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>The 10-yard gets mentioned here more than you might expect because several companies offer dedicated heavy-debris or concrete-rated 10-yard containers with higher weight allowances than their standard residential unit. It is worth asking specifically: &ldquo;Do you have a heavy-debris container for mostly concrete?&rdquo; The price and allowance on those units often makes more sense for concrete-focused jobs than a larger standard container. For the full 10-yard breakdown, the <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster rental guide</a> covers weight limits and use cases in detail.</p>
+
+<h2 id="when-bigger-isnt-the-answer">When a Bigger Bin Is Not the Answer</h2>
+
+<p>The instinct to book a larger container when concrete is involved is understandable. It is also usually backwards. A 30-yard container does not give you significantly more weight capacity than a 20-yard. It gives you more volume &mdash; which you cannot use if weight is the constraint before the bin fills. You pay for additional cubic yards of space while the weight limit stays the same.</p>
+
+<p>The arithmetic is simple: if a 20-yard container has a 4-ton weight allowance and the material runs 2 tons per cubic yard, you fill roughly 2 cubic yards before hitting the limit. A 30-yard does not change the weight per cubic yard of what you are loading. It means paying for 30 yards of capacity while using 2 of them.</p>
+
+<p>The right answer in that scenario is one of three options. First, a dedicated heavy-debris container with a weight allowance set for dense material. Second, multiple smaller pulls across the project. Third, contacting a concrete recycler directly if the volume is large enough &mdash; some accept clean, broken concrete at no charge because they can crush and sell it as aggregate.</p>
+
+<p>For jobs where concrete is one part of a larger mixed load &mdash; a home gut where most debris is drywall and lumber, with some tile floor and a concrete step &mdash; a standard 20-yard works fine. The dedicated heavy-debris conversation is for jobs where concrete, brick, or stone is the dominant material. The <a href="/resources/demolition-dumpster-rental" class="text-orange hover:underline">demolition dumpster rental guide</a> covers the weight-by-material breakdown in more detail for full demo projects.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/28041688/pexels-photo-28041688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Building being demolished by crane with pile of rubble and concrete debris in urban area"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="placement-and-driveway">Driveway Placement and Access</h2>
+
+<p>Concrete containers are placed the same way as any roll-off: the truck backs in, the container slides off the bed and settles on two steel rails. The placement concern for concrete jobs is point load on the driveway surface. A loaded concrete dumpster at its weight limit can stress decorative pavers, older cracked concrete, and asphalt in summer heat more than a lightly loaded residential container. Ask the driver about boards under the rails. Most carry them.</p>
+
+<p>Overhead clearance is the other variable. The delivery truck needs roughly 60 feet of linear clearance to set the container and around 18&ndash;22 feet of overhead clearance for the cable lift. Trees, utility wires, and garage overhangs are the usual obstacles. Walk the delivery path before booking if there is any doubt.</p>
+
+<p>If the container goes on a public street rather than a private driveway, a permit is typically required. Rules vary by city and county. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a> explains how to find out what your municipality requires. For what a concrete dumpster rental typically costs and what drives the price, the <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">cost guide</a> covers the variables in detail.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>How much does a concrete dumpster rental cost?</h3>
+<p>Pricing depends on location, container size, and debris type. Concrete-heavy loads often cost more than light residential debris because disposal fees at C&amp;D facilities are higher for heavy material. Ask your provider for a quote that reflects what is actually going in &mdash; and ask what the overweight rate is if you go over. Those two numbers define the real cost ceiling.</p>
+
+<h3>Can I put concrete in a regular dumpster?</h3>
+<p>Often yes, with conditions. Most companies accept concrete in their standard roll-offs, but the weight limit still applies. Small amounts mixed with other debris rarely cause a problem. If concrete is the majority of the load, ask about dedicated heavy-debris pricing before booking. The overweight fee on a standard container typically costs more than the upcharge for a properly rated unit.</p>
+
+<h3>What is a lowboy or heavy-debris dumpster?</h3>
+<p>A lowboy &mdash; also called a heavy-debris container or concrete container &mdash; is a roll-off designed for dense material. It is typically smaller than a standard container (often 4&ndash;10 cubic yards) with a higher weight allowance per unit of volume and a lower profile that makes loading heavy material easier. Not every rental company has them, but most larger operators do. Ask specifically if your load is mostly concrete, brick, or stone.</p>
+
+<h3>Can I mix concrete with other construction debris?</h3>
+<p>Generally yes. Mixed loads of concrete, wood, drywall, and demo debris are accepted by most providers. The total weight limit applies across the whole load. If concrete is more than a small fraction of the load by weight, confirm the weight allowance at booking. Accepted materials vary by hauler and local landfill agreement, so ask what the company accepts before loading anything uncertain.</p>
+
+<h3>Can I put bricks, pavers, and tile in the same container as concrete?</h3>
+<p>Usually yes. Brick, block, pavers, and tile are common heavy debris that most providers accept together in the same roll-off. The combined weight accumulates at roughly the same pace as concrete alone. Treat any combination of masonry and ceramic as a weight-first sizing problem, not a volume problem.</p>
+
+<h3>Can I put dirt in a concrete dumpster?</h3>
+<p>Dirt is accepted by many providers but not all. Clean fill &mdash; uncontaminated soil with no organic material or debris mixed in &mdash; is sometimes handled separately because it can be reused. Contaminated or mixed soil loads are treated as standard C&amp;D waste. Ask your provider before adding significant volumes of dirt to any container.</p>
+
+<h3>Do I need a permit for a concrete dumpster?</h3>
+<p>The permit requirement depends on placement. A container on a private driveway typically does not require a permit. One on a public street usually does. Requirements vary by city and county &mdash; the <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">permit guide</a> covers how to check what your municipality requires before the delivery date.</p>
+
+<h3>When should I skip the dumpster entirely for concrete?</h3>
+<p>Two situations: if the volume is very small, a pickup truck haul to a local transfer station may cost less than a dumpster rental. If you have a large volume of clean, uncontaminated concrete, a recycling facility may accept it at lower cost or no cost. Call a local recycler and ask before booking a roll-off for a primarily concrete load. The <a href="/resources/renting-a-construction-dumpster" class="text-orange hover:underline">construction dumpster guide</a> covers when a roll-off makes sense versus other options.</p>
+
+<p>Concrete was always that weight. The sledgehammer just made it more expensive to ignore. Get the weight allowance confirmed at booking, ask about dedicated containers if the load is mostly dense material, and the invoice at the end will not be a surprise.</p>
+`,
+    faq: [
+      {
+        question: 'How much does a concrete dumpster rental cost?',
+        answer:
+          'Pricing depends on location, container size, and debris type. Concrete-heavy loads often cost more than light residential debris because disposal fees for heavy material are higher. Ask your provider for a quote that reflects what is going in — and ask for the overweight rate. Those two numbers together define the real cost ceiling.',
+      },
+      {
+        question: 'Can I put concrete in a regular dumpster?',
+        answer:
+          'Often yes, with conditions. Most companies accept concrete in standard roll-offs, but the weight limit still applies. Small amounts mixed with other debris rarely cause a problem. If concrete is the majority of the load, ask about dedicated heavy-debris pricing before booking — the overweight fee on a standard container typically costs more than the upcharge for a properly rated unit.',
+      },
+      {
+        question: 'What is a lowboy or heavy-debris dumpster?',
+        answer:
+          'A lowboy — also called a heavy-debris container or concrete container — is a roll-off designed for dense material. It is typically smaller than a standard unit (often 4–10 cubic yards) with a higher weight allowance and a lower profile for easier loading. Not every company has them, but most larger operators do. Ask specifically if your load is mostly concrete, brick, or stone.',
+      },
+      {
+        question: 'Can I mix concrete with other construction debris?',
+        answer:
+          'Generally yes. Mixed loads of concrete, wood, drywall, and demo debris are accepted by most providers. The total weight limit applies across the whole load. If concrete is a significant portion, confirm the weight allowance at booking. Accepted materials vary by hauler and local landfill agreement.',
+      },
+      {
+        question: 'Can I put bricks, pavers, and tile in the same container as concrete?',
+        answer:
+          'Usually yes. Brick, block, pavers, and tile are common heavy debris that most providers accept together in the same roll-off. The combined weight accumulates at roughly the same pace as concrete alone. Treat any combination of masonry and ceramic as a weight-first sizing problem.',
+      },
+      {
+        question: 'Can I put dirt in a concrete dumpster?',
+        answer:
+          'Dirt is accepted by many providers but not all. Clean fill — uncontaminated soil with no debris mixed in — is sometimes handled separately because it can be reused as fill material. Contaminated or mixed soil loads are treated as standard C&D waste. Ask your provider before adding significant dirt to any container.',
+      },
+      {
+        question: 'Do I need a permit for a concrete dumpster?',
+        answer:
+          'The requirement depends on placement. A container on a private driveway typically does not need a permit. One on a public street usually does. Requirements vary by city and county — check what your municipality requires before the delivery date.',
+      },
+      {
+        question: 'When should I skip the dumpster entirely for concrete?',
+        answer:
+          'Two situations: if the volume is very small, a pickup truck haul to a local transfer station may cost less. If you have a large volume of clean, uncontaminated concrete, a recycling facility may accept it at lower cost or no cost. Call a local recycler and ask before booking a roll-off for a primarily concrete load.',
+      },
+    ],
+    toc: [
+      { id: 'why-concrete-is-different', title: 'Why Concrete Plays by Different Rules' },
+      { id: 'how-heavy-is-heavy', title: 'How Heavy Is Heavy: Concrete, Brick, Pavers, and Tile by the Numbers' },
+      { id: 'clean-vs-mixed', title: 'Clean Concrete vs. Mixed Debris: Why It Sometimes Matters' },
+      { id: 'sizing-the-container', title: 'Sizing a Container for Concrete and Heavy Debris' },
+      { id: 'when-bigger-isnt-the-answer', title: 'When a Bigger Bin Is Not the Answer' },
+      { id: 'placement-and-driveway', title: 'Driveway Placement and Access' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
+  {
+    slug: 'garage-cleanout-dumpster-rental',
+    title: 'Garage Cleanout Dumpster Rental: What Size Makes Sense for Years of Stuff',
+    excerpt:
+      'Most garage cleanouts fit a 10-yard bin. Two-car garages and estate situations usually need a 15 or 20. Here is what goes in, what stays out, and when junk removal wins.',
+    category: 'Home Cleanouts',
+    coverImage:
+      'https://images.pexels.com/photos/15828484/pexels-photo-15828484.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Garage filled with household items, plants, and clutter overflowing onto the driveway',
+    date: '2026-07-03',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Garage cleanout dumpster rental: how to size the right bin for one or two-car garages, what goes in, what stays out, and when junk removal makes more sense.',
+    readingTime: 8,
+    keywords: [
+      'garage cleanout dumpster rental',
+      'garage cleanout dumpster',
+      'dumpster rental for garage cleanout',
+      'one car garage dumpster size',
+      'two car garage cleanout dumpster',
+      'garage junk removal dumpster',
+    ],
+    body: `
+<p>Most garage cleanouts fit a 10-yard container. (Every garage cleanout also has a moment when you unearth the bread machine and briefly reconsider the whole project. Push through.) If the garage is a two-car space that has not seen a car since the previous decade, step up to a 15 or 20. If it is an estate situation &mdash; inherited property, twenty or thirty years of accumulation &mdash; start with the 20 and do not look surprised when it fills fast.</p>
+
+<p>This guide covers how to size a container for a garage cleanout, what you can and cannot put in, when junk removal makes more sense than a dumpster, and what to do about the paint cans in the corner. (We will get to those.)</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick match</p>
+  <ul class="text-charcoal space-y-1 text-sm">
+    <li><strong>One-car garage, light cleanout:</strong> 10-yard</li>
+    <li><strong>One-car garage, years of accumulation:</strong> 10&ndash;15 yard</li>
+    <li><strong>Two-car garage:</strong> 15&ndash;20 yard</li>
+    <li><strong>Estate or inherited garage, heavy accumulation:</strong> 20-yard minimum</li>
+    <li><strong>If you need labor to carry things out:</strong> Consider junk removal instead</li>
+  </ul>
+</div>
+
+<nav aria-label="Table of contents" class="not-prose my-8 rounded-lg border border-[#E0DEDA] bg-[#F5F4F0] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#566070] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#sizing-by-garage-type" class="text-[15px] text-orange font-medium hover:underline">Sizing by Garage Type</a></li>
+    <li><a href="#what-goes-in" class="text-[15px] text-orange font-medium hover:underline">What Goes In (and What Fills a Bin Fast)</a></li>
+    <li><a href="#what-stays-out" class="text-[15px] text-orange font-medium hover:underline">What Stays Out: Hazardous Materials and Common Exceptions</a></li>
+    <li><a href="#when-to-skip-the-dumpster" class="text-[15px] text-orange font-medium hover:underline">When Junk Removal Makes More Sense</a></li>
+    <li><a href="#driveway-and-hoa" class="text-[15px] text-orange font-medium hover:underline">Driveway Placement, HOA Restrictions, and Permits</a></li>
+    <li><a href="#straight-answers" class="text-[15px] text-orange font-medium hover:underline">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="sizing-by-garage-type">Sizing by Garage Type</h2>
+
+<p>A single-car garage used for actual car storage and reasonable overflow typically needs a 10-yard container for a cleanout. That is about three full pickup truck loads of loose debris &mdash; boxes, old furniture, tools, sports equipment, lawn chairs, and the obligatory collection of paint cans that predate your current vehicle.</p>
+
+<p>A two-car garage that has been used for storage rather than parking for any significant stretch almost always needs a 15- or 20-yard container. The extra square footage means more volume, and garages used as storage tend to accumulate in layers &mdash; front stuff from last year, middle stuff from five years ago, back stuff from somewhere around the Clinton administration. The 10-yard will fill and you will need a second pull, which costs more than booking the right size upfront.</p>
+
+<p>Estate and inherited property situations are their own category. A garage that has been accumulating for 20 or 30 years &mdash; or one where you are clearing out a property before a sale &mdash; often needs a 20-yard regardless of the physical size of the garage. The volume of accumulated furniture, tools, boxes, and miscellaneous items surprises people every time. When in doubt, go one size larger than your first estimate. A second haul is the most expensive outcome of undersizing. The <a href="/resources/estate-cleanout-dumpster-rental" class="text-orange hover:underline">estate cleanout guide</a> covers the full picture for inherited property situations.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/11373354/pexels-photo-11373354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Messy garage interior with shelves filled with tools, supplies, and accumulated stored items"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="what-goes-in">What Goes In (and What Fills a Bin Fast)</h2>
+
+<p>Garage debris is almost entirely on the accepted list for standard residential roll-offs. Old furniture, cardboard boxes, tools, broken shelving, sports equipment, yard equipment, broken appliances, lumber scraps, renovation leftovers, and general junk all load cleanly into a standard container without issue.</p>
+
+<p><strong>Furniture and shelving.</strong> Wooden shelving units, workbenches, and old furniture are bulky but relatively light. They fill the bin visually faster than they fill it by weight. If the garage is mostly furniture and boxes, a 10-yard holds more than people expect.</p>
+
+<p><strong>Yard equipment.</strong> Riding mowers, push mowers, generators, and pressure washers are accepted in most roll-offs but should have fluids drained first. Gasoline, oil, and other fluids are prohibited even in small amounts. Drain the equipment before it goes in. The equipment itself is fine.</p>
+
+<p><strong>Appliances.</strong> Old refrigerators, washers, dryers, freezers, and water heaters are accepted by many but not all rental companies. Some charge an additional appliance fee. Some require refrigerant removal from refrigerators before accepting them &mdash; this is sometimes a legal requirement. Ask your provider before loading any appliances.</p>
+
+<p><strong>Lumber and construction leftovers.</strong> Scrap lumber, old flooring, drywall pieces, and leftover building materials are fine in a standard roll-off. If there is significant masonry, tile, or concrete mixed in, that changes the weight calculation. Tell your provider if there is substantial heavy material so the weight allowance reflects what is actually going in.</p>
+
+<h2 id="what-stays-out">What Stays Out: Hazardous Materials and Common Exceptions</h2>
+
+<p>Garages are where household hazardous materials accumulate. This section is the one most people skip and most need to read before the container arrives.</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-[#1A2530] text-white">
+        <th class="text-left px-4 py-3 font-semibold">Item</th>
+        <th class="text-left px-4 py-3 font-semibold">Status in Most Roll-Offs</th>
+        <th class="text-left px-4 py-3 font-semibold">What to Do Instead</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Paint (liquid)</td>
+        <td class="px-4 py-3">Prohibited</td>
+        <td class="px-4 py-3">Local household hazardous waste collection event or drop-off facility</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Paint (fully dried in can)</td>
+        <td class="px-4 py-3">Often accepted</td>
+        <td class="px-4 py-3">Add sand or kitty litter to speed drying; confirm with your provider</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Gasoline, motor oil, solvents</td>
+        <td class="px-4 py-3">Prohibited</td>
+        <td class="px-4 py-3">Auto parts stores accept used motor oil; HHW programs for others</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Propane tanks</td>
+        <td class="px-4 py-3">Prohibited</td>
+        <td class="px-4 py-3">Hardware store exchange programs or local HHW facility</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Car batteries / lead-acid batteries</td>
+        <td class="px-4 py-3">Prohibited</td>
+        <td class="px-4 py-3">Auto parts stores accept them at no charge &mdash; call ahead to confirm</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Electronics (TVs, computers)</td>
+        <td class="px-4 py-3">Often prohibited or extra fee</td>
+        <td class="px-4 py-3">Local e-waste recycling or municipal drop-off</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Tires</td>
+        <td class="px-4 py-3">Often prohibited</td>
+        <td class="px-4 py-3">Tire retailers typically accept them for a small recycling fee</td>
+      </tr>
+      <tr>
+        <td class="px-4 py-3">Pesticides, fertilizers, chemicals</td>
+        <td class="px-4 py-3">Prohibited</td>
+        <td class="px-4 py-3">HHW collection events; many accept these at no charge</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>The <a href="https://www.epa.gov/household-hazardous-waste" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA&rsquo;s household hazardous waste program</a> includes a search tool for local collection events and drop-off facilities. Most counties run at least one per year at no charge. Sort these items before the dumpster arrives rather than discovering a prohibited item mid-cleanout. The full rundown of what does and does not go in a roll-off is in the <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">accepted materials guide</a>.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/24181603/pexels-photo-24181603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Pile of discarded items and trash in front of a closed garage roller door"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="when-to-skip-the-dumpster">When Junk Removal Makes More Sense</h2>
+
+<p>A dumpster rental is the right call when you have the time and the ability to do the loading yourself. You save money because you do the work. The container sits in the driveway for a week or two while you sort and load at your own pace. That works for most garage cleanouts where you can physically do the loading.</p>
+
+<p>Junk removal makes more sense in three situations. First: you need labor. Junk removal crews show up, carry everything out, and haul it away &mdash; useful when items are heavy, when you are managing the cleanout remotely, or when you physically cannot do the loading. Second: the volume is small. A handful of items &mdash; a couch, two appliances, a few boxes &mdash; will likely cost less through junk removal than a dumpster rental. Third: access issues. No driveway for the container, or an HOA that prohibits placement, sometimes makes junk removal the only practical option.</p>
+
+<p>The rough break-even point is around one to two pickup truck loads of material. Below that, junk removal often wins on cost and convenience. Above that, the dumpster almost always wins on cost. The <a href="/resources/junk-removal-vs-dumpster-rental" class="text-orange hover:underline">junk removal vs. dumpster rental guide</a> walks through the math in more detail if you are on the fence.</p>
+
+<h2 id="driveway-and-hoa">Driveway Placement, HOA Restrictions, and Permits</h2>
+
+<p>A dumpster in the driveway is the simplest setup. The driver backs the truck in, sets the container on two steel rails, and leaves. For the typical suburban single-family home with a driveway, this works without complications. If you want to protect the driveway surface, ask for boards under the rails when you book.</p>
+
+<p>HOA communities add one step. Some HOAs prohibit dumpsters in driveways or any container visible from the street. Some require board approval before placement. Check your CC&amp;Rs or submit a quick request before booking rather than after the container arrives.</p>
+
+<p>If the container goes on the street because there is no usable driveway, most municipalities require a permit for right-of-way placement. Some issue permits quickly online. Others require several days&rsquo; notice. Rules vary widely by city. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a> explains how to check what your city requires.</p>
+
+<p>For a broader look at home cleanouts beyond the garage, the <a href="/resources/home-cleanout-dumpster-rental" class="text-orange hover:underline">home cleanout dumpster rental guide</a> covers room-by-room sizing and what the full project typically takes. For what the rental costs and what moves the price, the <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">cost guide</a> covers the variables.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>What size dumpster do I need for a garage cleanout?</h3>
+<p>A one-car garage in reasonable condition typically fits a 10-yard container. A two-car garage used for storage rather than parking usually needs a 15 or 20. Estate and inherited property garages with heavy accumulation often need a 20-yard minimum. When in doubt, go one size up &mdash; a second haul fee costs more than the incremental price of a larger container booked upfront.</p>
+
+<h3>Can I put old appliances in a garage cleanout dumpster?</h3>
+<p>Many rental companies accept appliances in their standard containers. Some charge an extra appliance fee. Refrigerators may require refrigerant removal before acceptance &mdash; sometimes required by law. Ask your provider specifically about appliances before booking. Also drain any equipment with a fuel tank before it goes in.</p>
+
+<h3>What do I do with paint cans from the garage?</h3>
+<p>Liquid paint is prohibited in roll-off containers. Fully dried paint in a can is often accepted &mdash; add sand or kitty litter to speed drying if the cans are partially used. For liquid paint and hazardous materials, check your county for household hazardous waste collection events. Most counties run at least one per year at no charge.</p>
+
+<h3>How long can I keep a dumpster for a garage cleanout?</h3>
+<p>Standard rental periods run 7&ndash;10 days. Most garage cleanouts finish within that window. If you are working through an estate or sorting over multiple weekends, ask about extended rental rates at booking. Daily extensions typically run $5&ndash;$15 per day &mdash; cheaper when arranged upfront than mid-rental.</p>
+
+<h3>Can I put tires and batteries from the garage in the dumpster?</h3>
+<p>Tires and car batteries are prohibited in most roll-off containers. Tire retailers typically accept old tires for a small recycling fee. Auto parts stores accept lead-acid batteries at no charge. Handle these separately before the bin arrives to avoid any problem at pickup.</p>
+
+<h3>Do I need a permit for a garage cleanout dumpster?</h3>
+<p>Usually not, if the container sits in your driveway. Street placement requires a city or county permit in most municipalities. HOA communities may also have approval requirements. Check before booking, not after the driver arrives.</p>
+
+<h3>Should I sort items before the dumpster arrives?</h3>
+<p>It helps. Pull out obvious keep items, donation items, and prohibited materials before the bin shows up. That way prohibited items do not create a problem at pickup and keep items do not end up in the bin by accident. Tools and sporting equipment in good condition often move quickly on local resale platforms &mdash; worth checking before they go in.</p>
+
+<p>The garage has witnessed everything you owned, forgot about, and owned again by accident. One well-sized container and a free weekend sorts out most of it. Just deal with the paint cans before the driver arrives.</p>
+`,
+    faq: [
+      {
+        question: 'What size dumpster do I need for a garage cleanout?',
+        answer:
+          'A one-car garage typically fits a 10-yard container. A two-car garage used for storage rather than parking usually needs a 15 or 20. Estate and inherited garages with heavy accumulation often need a 20-yard minimum. When in doubt, go one size up — a second haul fee costs more than the incremental price of a larger container booked upfront.',
+      },
+      {
+        question: 'Can I put old appliances in a garage cleanout dumpster?',
+        answer:
+          'Many rental companies accept appliances in standard containers. Some charge an extra appliance fee. Refrigerators may require refrigerant removal before acceptance. Ask your provider specifically about appliances before booking, and drain any equipment with a fuel tank before it goes in the bin.',
+      },
+      {
+        question: 'What do I do with paint cans from the garage?',
+        answer:
+          'Liquid paint is prohibited in roll-off containers. Fully dried paint in a can is often accepted — add sand or kitty litter to speed drying. For liquid paint and hazardous materials, check your county for household hazardous waste collection events. Most counties run at least one per year at no charge.',
+      },
+      {
+        question: 'How long can I keep a dumpster for a garage cleanout?',
+        answer:
+          'Standard rental periods run 7–10 days. Most garage cleanouts finish within that window. If you\'re working through an estate or sorting over multiple weekends, ask about extended rental rates at booking. Daily extensions typically run $5–$15 per day, cheaper when arranged upfront.',
+      },
+      {
+        question: 'Can I put tires and batteries from the garage in the dumpster?',
+        answer:
+          'Tires and car batteries are prohibited in most roll-off containers. Tire retailers accept old tires for a small recycling fee. Auto parts stores accept lead-acid batteries at no charge. Handle these separately before the bin arrives to avoid any problem at pickup.',
+      },
+      {
+        question: 'Do I need a permit for a garage cleanout dumpster?',
+        answer:
+          'Usually not, if the container sits in your driveway. Street placement requires a city or county permit in most municipalities. HOA communities may have approval requirements. Check before booking, not after the driver arrives.',
+      },
+      {
+        question: 'Should I sort items before the dumpster arrives?',
+        answer:
+          'It helps. Pull out keep items, donation items, and prohibited materials before the bin shows up. That way prohibited items don\'t cause a problem at pickup and keep items don\'t end up in the bin by accident. Tools and sporting equipment in good condition often move quickly on local resale platforms.',
+      },
+    ],
+    toc: [
+      { id: 'sizing-by-garage-type', title: 'Sizing by Garage Type' },
+      { id: 'what-goes-in', title: 'What Goes In (and What Fills a Bin Fast)' },
+      { id: 'what-stays-out', title: 'What Stays Out: Hazardous Materials and Common Exceptions' },
+      { id: 'when-to-skip-the-dumpster', title: 'When Junk Removal Makes More Sense' },
+      { id: 'driveway-and-hoa', title: 'Driveway Placement, HOA Restrictions, and Permits' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
+  {
+    slug: 'bathroom-remodel-dumpster-rental',
+    title: 'Bathroom Remodel Dumpster Rental: Tile, Tubs, Drywall, and Weight Limits',
+    excerpt:
+      'Bathroom debris is heavier than it looks. Tile, cement board, and a cast iron tub add up fast. Here is what size container to book, and why weight matters more than volume.',
+    category: 'Construction',
+    coverImage:
+      'https://images.pexels.com/photos/38076239/pexels-photo-38076239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Worker applying drywall mud during a bathroom renovation with exposed walls',
+    date: '2026-07-03',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Bathroom remodel dumpster rental: how to size the right container for tile, cement board, tubs, and plaster, from a half bath to a full master bath gut.',
+    readingTime: 9,
+    keywords: [
+      'bathroom remodel dumpster rental',
+      'bathroom renovation dumpster',
+      'dumpster rental bathroom remodel',
+      'bathroom gut dumpster',
+      'tile dumpster rental',
+      'bathroom demo dumpster',
+    ],
+    body: `
+<p>Bathroom remodels generate more debris per square foot than almost any other room in the house. A 50-square-foot bathroom can produce half a ton of tile, cement board, drywall, and fixtures without trying particularly hard. (The tub alone, if it is cast iron, can weigh 300&ndash;500 lbs. Someone in the 1960s was definitely not thinking about resale.) Most single-bathroom remodels fit a 10-yard container. Heavy tile jobs and full master bath guts sometimes call for a 20.</p>
+
+<p>This guide covers how to size a container for a bathroom remodel, which materials get heavy fast, when the job outgrows a 10-yard, and what to think about for condos and townhomes where placement is more complicated than a standard driveway drop.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick match</p>
+  <ul class="text-charcoal space-y-1 text-sm">
+    <li><strong>Half bath renovation:</strong> 10-yard &mdash; or a haul-away trip if the scope is minimal</li>
+    <li><strong>Full bath, standard tile and drywall:</strong> 10-yard</li>
+    <li><strong>Master bath, heavy tile, cast iron tub:</strong> 10&ndash;20 yard depending on scope</li>
+    <li><strong>Multiple bathrooms simultaneously:</strong> 20-yard or step up</li>
+    <li><strong>Older home with plaster walls:</strong> Go one size up from your initial estimate</li>
+  </ul>
+</div>
+
+<nav aria-label="Table of contents" class="not-prose my-8 rounded-lg border border-[#E0DEDA] bg-[#F5F4F0] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#566070] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#bathroom-size-to-dumpster-size" class="text-[15px] text-orange font-medium hover:underline">Matching Bathroom Size to Container Size</a></li>
+    <li><a href="#what-gets-heavy" class="text-[15px] text-orange font-medium hover:underline">What Gets Heavy: Tile, Cement Board, Tubs, and Plaster</a></li>
+    <li><a href="#drywall-vs-plaster" class="text-[15px] text-orange font-medium hover:underline">Modern Drywall vs. Plaster Walls in Older Homes</a></li>
+    <li><a href="#when-10-is-enough" class="text-[15px] text-orange font-medium hover:underline">When a 10-Yard Is Enough (and When It Is Not)</a></li>
+    <li><a href="#condo-and-hoa" class="text-[15px] text-orange font-medium hover:underline">Condos, Townhomes, and HOA Placement Concerns</a></li>
+    <li><a href="#straight-answers" class="text-[15px] text-orange font-medium hover:underline">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="bathroom-size-to-dumpster-size">Matching Bathroom Size to Container Size</h2>
+
+<p>The right container for a bathroom remodel depends on scope more than square footage. A half bath with a toilet and vanity swap generates a fraction of the debris of a master bath gut that includes tile floors, a walk-in shower, a double vanity, drywall, and a cast iron soaking tub. Same category, very different weight and volume.</p>
+
+<p><strong>Half bath renovation.</strong> A toilet, vanity, maybe a floor tile update. If there is no structural or wall work, the debris often fits in a haul-away trip rather than a roll-off rental. If you do rent a container, a 10-yard handles it with room to spare for other small projects you want to clear out at the same time.</p>
+
+<p><strong>Full bath, standard scope.</strong> Tile floor, tub surround tile, drywall or cement board, vanity, toilet, fixtures. This is a 10-yard job for most single bathrooms. The volume is manageable and the weight, while meaningful from tile and cement board, typically stays within a standard weight allowance for a residential 10-yard container.</p>
+
+<p><strong>Master bath gut.</strong> Full tile replacement including large-format floor tile, walk-in shower tiled to the ceiling, cement board throughout, double vanity, possibly a freestanding tub. This is where a 10-yard starts to run out or get heavy before it is full. A 20-yard gives you margin. If the scope includes adjacent closet or bedroom wall changes, the 20-yard is the right starting point.</p>
+
+<p><strong>Multiple bathrooms at once.</strong> Two or three bathrooms being gutted simultaneously almost always need a 20-yard. Three standard baths at the same time will easily fill a 10-yard and put you in second-haul territory if you start with the smaller container.</p>
+
+<h2 id="what-gets-heavy">What Gets Heavy: Tile, Cement Board, Tubs, and Plaster</h2>
+
+<p>Bathroom debris is deceptively heavy. Materials that look manageable on the way out often weigh considerably more than they appear. Knowing the numbers before loading helps set the weight allowance conversation correctly at booking.</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-[#1A2530] text-white">
+        <th class="text-left px-4 py-3 font-semibold">Material</th>
+        <th class="text-left px-4 py-3 font-semibold">Approximate Weight</th>
+        <th class="text-left px-4 py-3 font-semibold">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Ceramic / porcelain floor tile</td>
+        <td class="px-4 py-3">6&ndash;9 lbs per sq ft</td>
+        <td class="px-4 py-3">100 sq ft of tile = 600&ndash;900 lbs, before grout</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Cement board backer</td>
+        <td class="px-4 py-3">3&ndash;5 lbs per sq ft</td>
+        <td class="px-4 py-3">Runs beneath tile in most wet areas</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Thinset mortar (adhered)</td>
+        <td class="px-4 py-3">Adds 2&ndash;4 lbs per sq ft</td>
+        <td class="px-4 py-3">Mortar bonded to tile and substrate adds meaningful weight</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Drywall (1/2&rdquo; standard)</td>
+        <td class="px-4 py-3">~2.3 lbs per sq ft</td>
+        <td class="px-4 py-3">Much lighter than tile; rarely the weight problem in a bathroom gut</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Cast iron tub</td>
+        <td class="px-4 py-3">300&ndash;500 lbs</td>
+        <td class="px-4 py-3">Requires at least two people; confirm your provider accepts it</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA] bg-[#F5F4F0]">
+        <td class="px-4 py-3">Acrylic / fiberglass tub</td>
+        <td class="px-4 py-3">50&ndash;100 lbs</td>
+        <td class="px-4 py-3">Light; no weight concern</td>
+      </tr>
+      <tr class="border-b border-[#E0DEDA]">
+        <td class="px-4 py-3">Toilet</td>
+        <td class="px-4 py-3">60&ndash;100 lbs</td>
+        <td class="px-4 py-3">Accepted by most providers; drain completely before loading</td>
+      </tr>
+      <tr>
+        <td class="px-4 py-3">Vanity (wood cabinet)</td>
+        <td class="px-4 py-3">75&ndash;200 lbs</td>
+        <td class="px-4 py-3">Varies by size; stone countertops add significant weight</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>A useful estimate: a full bath gut with tile floor, tiled shower surround, cement board backing, a vanity, and a standard acrylic tub often generates 1,500&ndash;2,500 lbs from the tile and cement board alone, before adding fixtures, drywall, and trim. A standard residential 10-yard container with a 2-ton weight allowance can handle that. A container with a 1-ton limit cannot &mdash; and that is the conversation to have at booking, not at invoice time.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/32168691/pexels-photo-32168691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Construction tools and tile materials laid out on a floor during bathroom renovation"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="drywall-vs-plaster">Modern Drywall vs. Plaster Walls in Older Homes</h2>
+
+<p>If the bathroom was built before roughly 1950&ndash;1960, the walls may be genuine plaster over wood or metal lath rather than modern drywall. The distinction matters because plaster is substantially heavier &mdash; roughly twice the weight of equivalent drywall by volume. A bathroom gut that looks like a drywall job by cubic yards may carry the weight of twice as much material.</p>
+
+<p>Plaster also comes off in irregular chunks rather than clean sheets. It fills a container with more air space between pieces, which means you may hit a weight limit before the bin looks visually full. If the home was built before 1960 and the walls are solid plaster, tell your rental provider before booking. The weight allowance should account for what is actually going in.</p>
+
+<p>One additional note for pre-1978 homes: lead paint was common in that era. Demolition work that disturbs painted surfaces in older bathrooms may create lead dust. The debris itself &mdash; plaster and drywall with lead-based paint &mdash; is generally accepted in standard roll-offs, but confirm with your provider. Some jurisdictions have specific handling requirements for lead-paint debris. Test before demoing if the home predates 1978 and you are unsure.</p>
+
+<h2 id="when-10-is-enough">When a 10-Yard Is Enough (and When It Is Not)</h2>
+
+<p>The 10-yard handles most single-bathroom remodels. It holds about three pickup truck loads of loose debris and manages a standard scope gut &mdash; tile, drywall or cement board, fixtures, vanity, and a standard tub &mdash; without pushing weight limits significantly. If the bathroom is one room and the scope does not expand mid-project, the 10-yard is almost certainly right. The <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster rental guide</a> covers weight limits and use cases in detail.</p>
+
+<p>The 10-yard starts to run short in a few specific situations:</p>
+
+<ul class="space-y-2 my-4 pl-5 list-disc text-charcoal">
+  <li>A master bath with large-format tile throughout &mdash; floor, shower walls, and niche &mdash; where tile volume and weight together push toward a 20-yard</li>
+  <li>Plaster walls in a pre-1960 home, where demo debris weighs roughly twice as much per cubic foot as modern drywall</li>
+  <li>A cast iron tub plus significant tile &mdash; the tub alone adds 300&ndash;500 lbs to an already substantial load</li>
+  <li>Any project that expands in scope mid-demo, which is not uncommon once walls open up</li>
+</ul>
+
+<p>When the 10-yard is borderline, a 20-yard provides margin without significant cost penalty in most markets. The difference between a 10 and a 20 is usually $50&ndash;$150 per week depending on location. That gap closes fast against the cost of a second haul or an overweight fee. The <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster rental guide</a> covers when stepping up makes sense.</p>
+
+<p>The 30-yard is rarely the right container for a single bathroom remodel. It makes sense when the bathroom is one part of a larger whole-home renovation. If the entire project is the bathroom, the 30 gives you volume you will not use at a price that does not pencil out. The <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">full sizing guide</a> covers all the thresholds. For the weight angle on heavy bathroom materials specifically, the <a href="/resources/concrete-dumpster-rental" class="text-orange hover:underline">concrete and heavy debris guide</a> is worth a read before booking if your job has significant tile or masonry.</p>
+
+<figure class="my-8">
+  <img
+    src="https://images.pexels.com/photos/3615716/pexels-photo-3615716.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Home renovation tools arranged on a white tiled floor ready for bathroom remodel work"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg"
+  />
+</figure>
+
+<h2 id="condo-and-hoa">Condos, Townhomes, and HOA Placement Concerns</h2>
+
+<p>Single-family homes with driveways are the simplest dumpster placement scenario. Condos and townhomes are more complicated, and the placement question should come before booking rather than after the container is already on its way.</p>
+
+<p><strong>Condo buildings.</strong> Ground-floor units sometimes have patio or exterior access where a small container can be placed. Above-ground units typically have no way to get a roll-off close to the unit. In those cases, the container often needs to go in a parking lot or loading area, which may require building management approval and a municipal permit. Debris then needs to be carried from the unit to the container &mdash; manageable but worth planning before demo starts. Check with building management before booking.</p>
+
+<p><strong>Townhomes.</strong> A townhome with a private driveway can usually accommodate a container the same way a single-family home can. A townhome without a private driveway &mdash; shared parking only &mdash; falls into the same situation as a condo. Check whether the HOA permits container placement in shared parking areas and whether the municipality requires a permit.</p>
+
+<p><strong>HOA communities.</strong> Some HOAs prohibit visible dumpsters or require approval before placement. Others have no restrictions at all. A quick check of your CC&amp;Rs or a call to property management before booking takes five minutes and avoids a problem on delivery day. Most HOA approvals for short-term renovation projects come through quickly.</p>
+
+<p>If the container ends up on a public street rather than private property, a permit is typically required. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">permit guide</a> covers how requirements vary by city. For what a bathroom remodel dumpster costs and what moves the price, the <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">cost guide</a> covers the variables.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>What size dumpster do I need for a bathroom remodel?</h3>
+<p>Most single-bathroom remodels fit a 10-yard container. Master baths with heavy tile, cement board, and a cast iron tub often work better in a 20-yard. Multiple bathrooms gutted simultaneously almost always need a 20-yard. Go one size up if you are working in a pre-1960 home with plaster walls &mdash; it weighs more than it looks.</p>
+
+<h3>Is a 10-yard dumpster big enough for a bathroom gut?</h3>
+<p>Usually yes for a single standard bathroom. The 10-yard handles most bathroom guts without issue. The exception is heavy tile jobs with significant cement board, plaster walls, and cast iron tubs. Confirm the weight allowance with your provider if the debris is primarily tile and cement board rather than drywall and light fixtures.</p>
+
+<h3>How heavy is bathroom tile and cement board?</h3>
+<p>Ceramic and porcelain floor tile typically runs 6&ndash;9 lbs per square foot. Cement board backer adds another 3&ndash;5 lbs per square foot. A bathroom with 100 square feet of tile and full cement board can generate 900&ndash;1,400 lbs from those two materials alone. Add thinset, grout, and fixtures and the total adds up fast for a room that does not look large.</p>
+
+<h3>Can I put a cast iron tub in a dumpster?</h3>
+<p>Usually yes, but confirm with your provider first. Cast iron tubs weigh 300&ndash;500 lbs, which is a significant addition to the weight allowance. Most companies accept them. Some charge a separate oversized item fee. The bigger logistical challenge is getting a 400-lb tub out of an upstairs bathroom &mdash; that requires planning before it touches the bin.</p>
+
+<h3>What cannot go in a bathroom remodel dumpster?</h3>
+<p>Hazardous materials are prohibited: liquid paint, solvents, and construction chemicals. The debris itself &mdash; tile, drywall, plaster, fixtures, vanities, toilets, and flooring &mdash; is accepted in standard roll-offs. Asbestos-containing materials, which can appear in pre-1980 floor tile mastic and vinyl flooring, require specialized disposal. Test before demoing any 1970s-era or older bathroom flooring.</p>
+
+<h3>Do I need a permit for a bathroom remodel dumpster?</h3>
+<p>Not usually, if the container sits in your driveway. Street placement requires a permit in most cities. Condo and townhome placement in shared areas may require building management approval or a municipal permit. The requirement depends on where the container goes, not what is in it.</p>
+
+<h3>How long will I need the dumpster for a bathroom remodel?</h3>
+<p>Most bathroom demo generates debris over the first two to three days of work, then sporadically. A standard 7&ndash;10 day rental covers most single-bathroom projects. If the project is multi-phase or part of a larger renovation, ask about extension rates at booking. Daily extensions typically run $5&ndash;$15 per day.</p>
+
+<h3>Can I mix bathroom debris with other renovation debris?</h3>
+<p>Yes. Mixed loads of tile, drywall, fixtures, and general renovation debris are accepted by most providers. The weight limit applies across the whole load. If you are mixing heavy bathroom tile with lighter material from other rooms, the tile will dominate the weight calculation. Tell your provider what is going in before delivery.</p>
+
+<p>Bathroom debris has a way of weighing more than the room implies. Size the container by what you are tearing out, not by the square footage on the floor plan. The tile, the cement board, and the tub that has been there since before Carter was president will fill a bin faster than the room suggests. Plan the weight conversation at booking, not at invoice time.</p>
+`,
+    faq: [
+      {
+        question: 'What size dumpster do I need for a bathroom remodel?',
+        answer:
+          'Most single-bathroom remodels fit a 10-yard container. Master baths with heavy tile, cement board, and a cast iron tub often work better in a 20-yard. Multiple bathrooms gutted simultaneously almost always need a 20-yard. Go one size up if you are working in a pre-1960 home with plaster walls — it weighs more than it looks.',
+      },
+      {
+        question: 'Is a 10-yard dumpster big enough for a bathroom gut?',
+        answer:
+          'Usually yes for a single standard bathroom. The 10-yard handles most bathroom guts without issue. The exception is heavy tile jobs with significant cement board, plaster walls, and cast iron tubs. Confirm the weight allowance with your provider if the debris is primarily tile and cement board rather than drywall and light fixtures.',
+      },
+      {
+        question: 'How heavy is bathroom tile and cement board?',
+        answer:
+          'Ceramic and porcelain floor tile typically runs 6–9 lbs per square foot. Cement board backer adds another 3–5 lbs per square foot. A bathroom with 100 square feet of tile and full cement board can generate 900–1,400 lbs from those two materials alone. Add thinset, grout, and fixtures and the total adds up fast for a small room.',
+      },
+      {
+        question: 'Can I put a cast iron tub in a dumpster?',
+        answer:
+          'Usually yes, but confirm with your provider first. Cast iron tubs weigh 300–500 lbs, which is a significant addition to the weight allowance. Most companies accept them. Some charge a separate oversized item fee. The bigger logistical challenge is getting a 400-lb tub out of an upstairs bathroom — that requires planning before it touches the bin.',
+      },
+      {
+        question: 'What cannot go in a bathroom remodel dumpster?',
+        answer:
+          'Hazardous materials are prohibited: liquid paint, solvents, and construction chemicals. The debris itself — tile, drywall, plaster, fixtures, vanities, toilets, and flooring — is accepted in standard roll-offs. Asbestos-containing materials, which can appear in pre-1980 floor tile mastic and vinyl flooring, require specialized disposal. Test before demoing any 1970s-era or older bathroom flooring.',
+      },
+      {
+        question: 'Do I need a permit for a bathroom remodel dumpster?',
+        answer:
+          'Not usually, if the container sits in your driveway. Street placement requires a permit in most cities. Condo and townhome placement in shared areas may require building management approval or a municipal permit. The requirement depends on where the container goes, not what is in it.',
+      },
+      {
+        question: 'How long will I need the dumpster for a bathroom remodel?',
+        answer:
+          'Most bathroom demo generates debris over the first two to three days, then sporadically. A standard 7–10 day rental covers most single-bathroom projects. If the project is multi-phase or part of a larger renovation, ask about extension rates at booking. Daily extensions typically run $5–$15 per day.',
+      },
+      {
+        question: 'Can I mix bathroom debris with other renovation debris?',
+        answer:
+          'Yes. Mixed loads of tile, drywall, fixtures, and general renovation debris are accepted by most providers. The weight limit applies across the whole load. If you\'re mixing heavy bathroom tile with lighter material from other rooms, the tile dominates the weight calculation. Tell your provider what is going in before delivery.',
+      },
+    ],
+    toc: [
+      { id: 'bathroom-size-to-dumpster-size', title: 'Matching Bathroom Size to Container Size' },
+      { id: 'what-gets-heavy', title: 'What Gets Heavy: Tile, Cement Board, Tubs, and Plaster' },
+      { id: 'drywall-vs-plaster', title: 'Modern Drywall vs. Plaster Walls in Older Homes' },
+      { id: 'when-10-is-enough', title: 'When a 10-Yard Is Enough (and When It Is Not)' },
+      { id: 'condo-and-hoa', title: 'Condos, Townhomes, and HOA Placement Concerns' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
 ]
