@@ -42,7 +42,7 @@ If no keyword was provided:
 - Primary keyword in the slug.
 - Hyphens only, lowercase only.
 - No stop words unless the keyword requires them.
-- Pattern: `/blog/{slug}`
+- Pattern: `/resources/{slug}`
 
 **Title rules:**
 - 50–60 characters.
@@ -141,7 +141,7 @@ Every item below must be satisfied before this post is done.
 **Head & Metadata (already handled by the blog template — verify the data you supply is correct):**
 - Title: 50–60 chars, primary keyword near the start.
 - Meta description: 150–160 chars, keyword + benefit + soft CTA.
-- Canonical URL: `https://rolloffdumpsterfinder.com/blog/{slug}`.
+- Canonical URL: `https://rolloffdumpsterfinder.com/resources/{slug}`.
 - Open Graph: title, description, image (1200×630), URL, type.
 - Twitter Card: summary_large_image, title, description.
 
@@ -190,7 +190,7 @@ Use today's date in YYYY-MM-DD format.
 
 ## STEP 9 — Update `app/resources/page.tsx`
 
-Check if the new post topic fits one of the existing `resourceCards` stubs (those with `href: '#'`). If it does, update that card's `href` to `/blog/{slug}`. If there is no matching stub, add a new card at the end of the `resourceCards` array.
+Check if the new post topic fits one of the existing `resourceCards` stubs (those with `href: '#'`). If it does, update that card's `href` to `/resources/{slug}`. If there is no matching stub, add a new card at the end of the `resourceCards` array.
 
 Card shape:
 ```typescript
@@ -198,7 +198,7 @@ Card shape:
   badge: 'Category Label',
   title: 'Card Title',
   excerpt: 'Two-sentence excerpt. Jake Harlow voice.',
-  href: '/blog/{slug}',
+  href: '/resources/{slug}',
 }
 ```
 
@@ -210,7 +210,7 @@ Add a new entry to the sitemap array:
 
 ```typescript
 {
-  url: 'https://rolloffdumpsterfinder.com/blog/{slug}',
+  url: 'https://rolloffdumpsterfinder.com/resources/{slug}',
   lastModified: new Date(),
   changeFrequency: 'monthly',
   priority: 0.8,
