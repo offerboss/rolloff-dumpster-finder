@@ -8870,4 +8870,1085 @@ export const cityLocations: CityLocation[] = [
     latitude: 33.1032,
     longitude: -96.6706,
   },
+  // ─── PUEBLO ───────────────────────────────────────────────
+  {
+    slug: 'pueblo-co-dumpster-rental',
+    cityName: 'Pueblo',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Pueblo Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Pueblo dumpster rental for home cleanouts, roofing tear-offs, remodels, and construction debris. Compare container sizes and local pricing across Pueblo County.',
+    primaryKeyword: 'pueblo dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental pueblo co',
+      'dumpster rental pueblo colorado',
+      'pueblo construction dumpster rental',
+      'roll off dumpster pueblo',
+      'roll off dumpster pueblo co',
+      'rolloff dumpsters pueblo',
+      'roll offs pueblo co',
+      '10 yard dumpster rental pueblo',
+      '20 yard dumpster rental pueblo',
+      '30 yard dumpster rental pueblo',
+      'roofing dumpster pueblo',
+      'residential dumpster rental pueblo',
+    ],
+    heroH1: 'Dumpster Rental in Pueblo, Colorado',
+    heroSubheadline:
+      'Find dumpster rental options for home cleanouts, roofing tear-offs, estate work, and construction debris in Pueblo and surrounding Pueblo County communities.',
+    introParagraphs: [
+      'Pueblo has one of the older housing profiles on the Front Range. The Bessemer and Minnequa neighborhoods sit within a mile of the steel mill. Homes there date to the early 1900s — renovated, neglected, and handed down two generations. Estate cleanouts, pre-sale gut jobs, and full kitchen and bath remodels are steady work in these areas. A container in the driveway is the practical answer for most of it. Thirty trips to the landfill is not a plan.',
+      'Hail is a consistent driver of roofing work in Pueblo. The city sits between Colorado Springs and La Junta — a corridor that sees reliable hail events nearly every spring and summer. A bad storm can push dozens of residential roofing jobs into the queue at once. Most single-family tear-offs fit a 20-yard container, but shingles are heavier than they look. Two layers off a standard roof can push close to the weight limit before the bin looks halfway full.',
+      'Pueblo West — unincorporated Pueblo County, about eight miles west of downtown — adds its own demand from newer builds and large-lot cleanouts. Rolloff Dumpster Finder connects Pueblo customers with container options sized for the project. A 10-yard handles a single garage. A 20-yard covers most roofing jobs. A 30-yard handles a full estate cleanout in an older Northside or Belmont home. The goal is the right size the first time.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$260–$450 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$295–$505 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Roofing tear-offs, kitchen remodels, basement cleanouts, deck removal',
+        range: '$350–$590 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, estate cleanouts, mixed construction debris',
+        range: '$420–$720 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition projects',
+        range: '$530–$960+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Clearing furniture, junk, and accumulated debris from older Pueblo homes. Properties in Bessemer, Minnequa, and Northside often have decades of stored material that moves fast once a container sits in the driveway.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Hail damage drives significant roofing replacement across Pueblo every year. A 20-yard container handles most residential tear-offs, but shingles are heavy — two layers off a standard roof can hit a bin's weight limit well before it looks full. Confirm limits at booking.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from renovation and new construction projects. Active development on the north side of Pueblo and in Pueblo West generates steady container demand from contractors.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Older Pueblo housing stock means full kitchen and bathroom gut jobs are common. Cabinets, tile, drywall, and fixtures add up quickly. A 10 or 15-yard fits most single-room remodels; size up to a 20-yard if you're gutting both at once.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Many Pueblo homes — especially in Belmont, Highland Park, and the Grove neighborhood — have basements and detached garages that have been accumulating since the 1950s. A 20-yard handles most of it, though a 30-yard is the safer call if you haven't looked in there recently.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Pueblo's older neighborhoods see regular estate cleanouts as longtime residents move on. Full-house clearances in Bessemer and Northside often require a 20 or 30-yard container, especially when decades of furniture, tools, and stored goods come out at once.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree removal, brush clearing, and landscaping overhauls generate more volume than most people plan for. A 10-yard handles a moderate yard cleanup; size up to a 20-yard if you are removing significant trees or multiple shrubs.',
+      },
+      {
+        number: '08',
+        name: 'Hail Damage Cleanup',
+        description:
+          'After a major hail event, damaged siding, gutters, and trim accumulate quickly alongside the roofing waste. A 10 or 15-yard container handles most exterior cleanup on a single-family home in addition to the shingles.',
+      },
+      {
+        number: '09',
+        name: 'Investor & Foreclosure Cleanouts',
+        description:
+          "Investor and flip activity is ongoing in Pueblo's older neighborhoods. Clearing a foreclosed or neglected property often means multiple loads — furniture, appliances, construction debris, and accumulated junk. Size up on the first container to avoid a second haul.",
+      },
+      {
+        number: '10',
+        name: 'Commercial Debris',
+        description:
+          "Commercial renovation and light industrial cleanup around Pueblo's south side generates consistent demand for larger containers. A 30 or 40-yard handles most commercial gut jobs and mixed material loads from business cleanouts.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Pueblo depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Pueblo. Most residential lots have enough room for a 10 or 20-yard container without encroaching on the street.',
+      'Alleys run behind many homes in Bessemer and Northside. Alley delivery keeps the container off the street and avoids the permit process — worth asking about if your property backs to one.',
+      'Containers placed on a public street or right-of-way require a permit from the City of Pueblo Public Works department. Contact the city before scheduling if you need street placement.',
+      'Pueblo West is unincorporated Pueblo County, not the City of Pueblo. Permit requirements differ — contact Pueblo County Public Works for street placement in Pueblo West.',
+      'Steep or unpaved driveways in Vineland and areas southeast of town can create access challenges. Ask your provider about delivery requirements before booking.',
+      "HOA rules in newer Pueblo developments like Eagleridge may limit how long a container sits visible in a driveway. Check with your HOA before scheduling.",
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Bessemer',
+      'Minnequa',
+      'Northside',
+      'East Side',
+      'Belmont',
+      'Vineland',
+      'Highland Park',
+      'Grove',
+      'Sunset Park',
+      'Mesa Junction',
+      'Eagleridge',
+      'University Park',
+      'South Side',
+      'Downtown',
+    ],
+    nearbyCities: [
+      'Pueblo West',
+      'Colorado City',
+      'Canon City',
+      'Florence',
+      'Avondale',
+      'Boone',
+      'Beulah',
+      'Fountain',
+      'Security-Widefield',
+      'Penrose',
+      'Walsenburg',
+      'La Junta',
+      'Colorado Springs',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Pueblo?',
+        answer:
+          'Most Pueblo roll-off rentals run $260–$450 per week for a 10-yard and $350–$590 for a 20-yard. Pricing depends on container size, rental length, and debris type. Heavy debris like concrete or tile can trigger overweight charges — get the full rate schedule in writing before you book.',
+      },
+      {
+        question: 'What size dumpster do I need for a Pueblo home cleanout?',
+        answer:
+          'Most Pueblo home cleanouts fit a 20-yard container. Older homes in Bessemer, Northside, and Minnequa tend to have more accumulated material than newer builds. If the basement and garage are both full, size up to a 30-yard. A 10-yard handles a single room or a modest garage.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Pueblo?',
+        answer:
+          'Yes. Pueblo sees significant roofing work every year from hail activity. A 20-yard container handles most single-family tear-offs. Shingles are heavier than they look — one layer off a standard roof weighs roughly 2 tons. Confirm the weight limit with your provider before the crew starts pulling.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Pueblo?',
+        answer:
+          'Heavy debris needs a smaller container than most people assume. A 10-yard container filled with concrete hits its weight limit before it looks half full. Some providers offer mini roll-offs or lowboy containers for heavy loads. Ask specifically about debris type when you get a quote.',
+      },
+      {
+        question: 'How quickly can I get delivery in Pueblo?',
+        answer:
+          'Most providers serving Pueblo deliver within 24–48 hours. Same-day service is sometimes available with enough lead time. Hail storm season can create backlogs — call early in the week if you can. Waiting until Friday afternoon usually means Monday delivery.',
+      },
+      {
+        question: 'Do you serve Pueblo West and nearby communities?',
+        answer:
+          'Most providers covering Pueblo also serve Pueblo West, Colorado City, Avondale, and Canon City. Walsenburg and La Junta are farther out — call to confirm service range before booking. Fountain and Security-Widefield are within range for most carriers.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Pueblo?',
+        answer:
+          'Standard rental periods run 7–10 days. Extensions typically cost $5–$15 per day. If your project might run long, ask about extended rental rates at booking — it is almost always cheaper to negotiate upfront than to pay daily overages after the fact.',
+      },
+      {
+        question: 'Are there items I cannot put in a Pueblo dumpster?',
+        answer:
+          "Hazardous materials are out — motor oil, paint, solvents, propane tanks, and appliances with refrigerants all require separate disposal. Pueblo's older housing stock is a real consideration: homes built before 1980 in Bessemer and Minnequa may contain asbestos. Test before any demo work begins.",
+      },
+      {
+        question: 'Does the City of Pueblo require a permit for a dumpster on the street?',
+        answer:
+          'Yes. A dumpster placed on a public street or in the right-of-way requires a permit from the City of Pueblo Public Works department. Containers on private property — driveways, parking pads — generally do not. Confirm before scheduling and build permit time into your delivery timeline.',
+      },
+      {
+        question: "What's different about renting in Pueblo West versus Pueblo proper?",
+        answer:
+          "Pueblo West is unincorporated Pueblo County, not the City of Pueblo. Street placement permits go through Pueblo County Public Works, not the city. Most providers serve both areas with similar lead times. Properties in Pueblo West typically have larger lots, so driveway placement is usually straightforward.",
+      },
+    ],
+    latitude: 38.2544,
+    longitude: -104.6091,
+  },
+  // ─── ST. GEORGE ──────────────────────────────────────────
+  {
+    slug: 'st-george-ut-dumpster-rental',
+    cityName: 'St. George',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'St. George Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'St. George dumpster rental for home cleanouts, new construction, roofing jobs, and landscaping. Compare container sizes and local pricing in Washington County.',
+    primaryKeyword: 'st. george dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental st. george ut',
+      'dumpster rental st. george utah',
+      'st. george construction dumpster rental',
+      'roll off dumpster st. george',
+      'roll off dumpster st. george ut',
+      'rolloff dumpsters st. george',
+      'roll offs st. george ut',
+      '10 yard dumpster rental st. george',
+      '20 yard dumpster rental st. george',
+      '30 yard dumpster rental st. george',
+      'roofing dumpster st. george',
+      'residential dumpster rental st. george',
+    ],
+    heroH1: 'Dumpster Rental in St. George, Utah',
+    heroSubheadline:
+      'Find roll-off dumpster rental options for home cleanouts, new construction debris, landscaping overhauls, and renovation projects in St. George and Washington County.',
+    introParagraphs: [
+      "St. George is one of the fastest-growing cities in the country, and growth changes what a dumpster market looks like. Most of the housing was built after 1985. Stucco homes, HOA developments, and master-planned communities fill the city's footprint. Now those roofs are hitting 20 years, and those kitchens last saw an update in the early 2000s. Remodels, deck tear-offs, and flooring replacements are steady work across Little Valley, Bloomington, and Sunbrook.",
+      'The other major demand driver is construction itself. Washington County has been one of the fastest-growing metros in the US for a decade. Framing lumber, concrete, drywall, and mixed C&D waste stack up on active job sites across the area. Hotels, vacation rentals, and new residential developments keep contractor demand for larger containers steady. Tourism and retirement are not background details in St. George — they are the economy, and the construction follows both.',
+      "Rolloff Dumpster Finder connects St. George customers with container options sized for the project. The city is HOA-heavy, which affects where a bin can go and how long it can sit. Santa Clara, Ivins, and Washington City are separate municipalities with their own permit processes. Most providers serving St. George cover the full Washington County area. The goal is the right container on the first call, not a second haul.",
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, yard debris',
+        range: '$270–$460 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, deck removal, medium cleanouts, landscaping waste',
+        range: '$310–$525 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Roofing tear-offs, kitchen remodels, full-home cleanouts, vacation rental refurbs',
+        range: '$370–$625 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovations, estate cleanouts, new construction cleanup, commercial debris',
+        range: '$440–$760 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial buildouts, large demolition, multi-unit cleanout',
+        range: '$555–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Clearing furniture, appliances, and accumulated goods from St. George homes. Retirement and snowbird properties in SunRiver and Bloomington regularly turn over, and estate cleanouts for long-term residents produce more volume than most people plan for.",
+      },
+      {
+        number: '02',
+        name: 'New Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete block, and mixed C&D waste from active builds throughout Washington County. Little Valley and the north-end development corridors keep contractor demand for 30 and 40-yard containers steady year-round.',
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Flat and low-slope roofs are common in St. George's desert architecture. UV intensity and summer heat cycles age roofing materials faster than in milder climates. A 20-yard handles most residential tear-offs; tile roofs run heavier and fill a bin faster than asphalt shingles.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "St. George's 1990s and early-2000s housing stock is hitting renovation age. Full kitchen gut jobs — tile floors, outdated cabinetry, original laminate — produce a full 10 or 15-yard container of debris on their own.",
+      },
+      {
+        number: '05',
+        name: 'Vacation Rental Refurbs',
+        description:
+          "St. George's short-term rental market is active, and properties near Zion and Snow Canyon need regular interior refreshes. When flooring, fixtures, and furniture all come out at once, a 10 or 20-yard container handles the debris without multiple truck runs.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "St. George's large retirement population means estate and home transition cleanouts are regular work. Homes in SunRiver and Desert Hills often contain years of accumulated belongings. A 20 or 30-yard container handles most full-house clearances.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Xeriscape conversions, cactus and shrub removal, and desert landscaping overhauls generate more debris than most people expect. Rock and gravel add weight fast. A 10-yard handles a moderate job; heavy rock removal may need a smaller container with a better weight-to-volume ratio.',
+      },
+      {
+        number: '08',
+        name: 'Deck & Patio Removal',
+        description:
+          'Sun exposure in St. George degrades wood decks and covered patios faster than in cooler climates. Composite and concrete patios last longer but still produce significant debris when removed. A 10 or 15-yard handles most residential deck and patio tear-offs.',
+      },
+      {
+        number: '09',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Garages in St. George store the outdoor gear the area runs on — bikes, ATVs, camping equipment, and river toys. A 10-yard handles most single-car garages. Add a workshop or bonus storage room and size up to a 15.",
+      },
+      {
+        number: '10',
+        name: 'Commercial Construction',
+        description:
+          "Hotels, vacation rentals, restaurants, and commercial buildouts around the I-15 corridor generate consistent demand for larger containers. Commercial projects often need expedited delivery and regular swap-outs — confirm both with your provider at booking.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in St. George depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in St. George. Many driveways are sealed concrete or decorative pavers — ask your provider about protection boards to prevent surface damage.',
+      'Most St. George neighborhoods are HOA-governed. Confirm with your HOA before scheduling — rules vary by community and some limit how long a container can sit visible in a driveway.',
+      'Containers placed on a public street or right-of-way in St. George require a permit from the City of St. George Public Works department. Contact the city before scheduling if you need street placement.',
+      'Santa Clara, Ivins, and Washington City are separate municipalities. Each has its own permit office and process for street placement — confirm with the correct city before scheduling delivery.',
+      'Steep driveways in Bloomington Hills, Stone Cliff, and other hillside communities may limit truck access. Ask your provider about delivery clearance requirements before booking.',
+      "Summer temperatures in St. George regularly exceed 110°F. For extended rentals, plan around the pace of the project — heat doesn't affect delivery scheduling, but it does affect how fast a crew can load.",
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown St. George',
+      'Bloomington',
+      'Bloomington Hills',
+      'Little Valley',
+      'Desert Hills',
+      'Sunbrook',
+      'Stone Cliff',
+      'Entrada',
+      'Fossil Hills',
+      'Foremaster Ridge',
+      'Tonaquint',
+      'Winchester Hills',
+      'Red Cliffs',
+      'SunRiver',
+    ],
+    nearbyCities: [
+      'Santa Clara',
+      'Ivins',
+      'Washington City',
+      'Hurricane',
+      'LaVerkin',
+      'Toquerville',
+      'Leeds',
+      'New Harmony',
+      'Enterprise',
+      'Dammeron Valley',
+      'Mesquite, NV',
+      'Cedar City',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in St. George?',
+        answer:
+          'Most St. George roll-off rentals run $270–$460 per week for a 10-yard and $370–$625 for a 20-yard. Pricing varies by container size, debris type, and rental length. Desert landscaping with heavy rock or gravel can trigger overweight charges. Get the full rate schedule in writing before you book.',
+      },
+      {
+        question: 'What size dumpster do I need for a St. George home cleanout?',
+        answer:
+          'Most St. George home cleanouts fit a 20-yard container. Smaller condos or vacation properties often work with a 10-yard. Estate cleanouts in larger homes in Bloomington Hills or SunRiver may need a 30-yard, especially if a large garage or outdoor storage is part of the project.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in St. George?',
+        answer:
+          "Yes. Roofing tear-offs are common in St. George — UV intensity and desert heat cycle aging takes its toll. A 20-yard handles most residential asphalt shingle jobs. Tile roofs are heavier; confirm the weight allowance with your provider before the crew starts pulling.",
+      },
+      {
+        question: 'What about concrete, rock, or heavy debris in St. George?',
+        answer:
+          'Heavy materials like concrete, block, and landscape rock hit weight limits fast. A 10-yard container filled with concrete is close to its limit before it looks even one-third full. Some providers offer mini roll-offs or lowboy containers for dense loads. Ask about debris type at the time of quote.',
+      },
+      {
+        question: 'How quickly can I get delivery in St. George?',
+        answer:
+          "Most providers serving St. George can deliver within 24–48 hours. Same-day service is sometimes available. The city's active construction market means demand stays high year-round — call early in the week when you can.",
+      },
+      {
+        question: 'Do you serve Santa Clara, Ivins, Washington City, and Hurricane?',
+        answer:
+          'Most providers covering St. George also serve Santa Clara, Ivins, Washington City, and Hurricane. Cedar City is about 50 miles north on I-15 — call to confirm coverage. Mesquite, NV is roughly 45 miles south.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in St. George?',
+        answer:
+          'Standard rental periods run 7–10 days. Daily extension rates typically run $5–$15 per day. HOA rules in many St. George communities may limit how long a container can sit visible in a driveway — confirm those rules before scheduling.',
+      },
+      {
+        question: 'Are there items I cannot put in a St. George dumpster?',
+        answer:
+          'Hazardous materials — paint, motor oil, propane tanks, batteries, and appliances with refrigerants — are not accepted in standard roll-offs. Drywall is accepted in most containers. Ask about any material restrictions at booking rather than discovering them on pickup day.',
+      },
+      {
+        question: 'Does the City of St. George require a permit for a street dumpster?',
+        answer:
+          'Yes. Containers on a public street or right-of-way in St. George require a permit from the City of St. George Public Works department. Dumpsters on private driveways typically do not. Santa Clara, Ivins, and Washington City each have separate permit processes as independent municipalities.',
+      },
+      {
+        question: 'My HOA has rules about dumpsters — what should I know?',
+        answer:
+          "HOA rules in St. George communities typically restrict duration, not delivery itself. Common approaches: schedule a shorter rental window, coordinate the cleanout to move fast, or confirm daily extension flexibility with your provider upfront. Check your CC&Rs — some HOAs distinguish between a container being actively loaded versus one sitting idle.",
+      },
+    ],
+    latitude: 37.1044,
+    longitude: -113.5841,
+  },
+  // ─── FLAGSTAFF ────────────────────────────────────────────
+  {
+    slug: 'flagstaff-az-dumpster-rental',
+    cityName: 'Flagstaff',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Flagstaff Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Flagstaff dumpster rental for home cleanouts, roofing, wildfire debris, and construction. Compare container sizes and local pricing in Coconino County, AZ.',
+    primaryKeyword: 'flagstaff dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental flagstaff az',
+      'dumpster rental flagstaff arizona',
+      'flagstaff construction dumpster rental',
+      'roll off dumpster flagstaff',
+      'roll off dumpster flagstaff az',
+      'rolloff dumpsters flagstaff',
+      'roll offs flagstaff az',
+      '10 yard dumpster rental flagstaff',
+      '20 yard dumpster rental flagstaff',
+      '30 yard dumpster rental flagstaff',
+      'roofing dumpster flagstaff',
+      'residential dumpster rental flagstaff',
+    ],
+    heroH1: 'Dumpster Rental in Flagstaff, Arizona',
+    heroSubheadline:
+      'Find roll-off dumpster rental options for home cleanouts, wildfire debris removal, roofing tear-offs, and renovation projects in Flagstaff and Coconino County.',
+    introParagraphs: [
+      "Flagstaff is not Phoenix. The housing stock runs from historic craftsman bungalows in the Southside to mid-century ranch homes near Northern Arizona University. A significant layer of older rental housing surrounds the campus — landlords do periodic updates between tenants, and that generates steady debris. Estate cleanouts, kitchen gut jobs, and full renovations in the Linwood and Switzer Mesa neighborhoods add to the mix. At nearly 7,000 feet, the mountain environment accelerates wear on roofs, decks, and exteriors.",
+      'Wildfire is a real consideration in Flagstaff. The city sits in ponderosa pine forest, squarely in the wildland-urban interface. The 2010 Schultz Fire burned over 15,000 acres east of the San Francisco Peaks. Defensible space work, forest thinning, and hazard-tree removal around homes east of the city generate significant green waste and debris. A 10 or 20-yard container handles most residential clearing jobs. A pickup load does not.',
+      "Rolloff Dumpster Finder connects Flagstaff customers with roll-off options sized for the project. Williams and Sedona are within range for many providers. The rural areas east of the city — Doney Park, Mountainaire, the I-40 corridor — see seasonal cleanout demand that feeds into the Flagstaff market. Snow is a scheduling factor from October through April. Getting a container before the first storm, or waiting until the driveway clears — that timing call is worth discussing with your provider upfront.",
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, yard debris, minor roofing jobs',
+        range: '$290–$500 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, deck removal, medium cleanouts, forest and yard waste',
+        range: '$330–$560 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Roofing tear-offs, kitchen remodels, full-home cleanouts, defensible space debris',
+        range: '$395–$670 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovations, estate cleanouts, new construction cleanup, mixed C&D debris',
+        range: '$470–$820 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
+        range: '$590–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Clearing accumulated goods, furniture, and debris from older Flagstaff homes. The Southside and Sunnyside neighborhoods have homes that have been in families for decades, and clearing one out often takes a 20 or 30-yard container. Don't underestimate what's in a basement at 7,000 feet.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Flagstaff averages over 100 inches of snow per year, and that load takes a toll on roofs. Most residential tear-offs fit a 20-yard container, though older homes with multiple layers can push the weight limit faster than expected. Confirm the included tonnage before the crew starts pulling.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'New residential and commercial development on the east and southeast sides of Flagstaff generates steady framing, drywall, and mixed C&D debris. Contractors serving the growing areas beyond I-40 rely on regular container swaps to keep active job sites clear.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Many Flagstaff homes from the 1960s and 1970s are overdue for kitchen and bath updates. Older cabinetry, tile, and fixtures come out in volume. A 10 or 15-yard handles most single-room gut jobs; size up to a 20-yard if you're tackling both at once.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Flagstaff residents store a lot in their garages and basements — ski gear, camping equipment, hunting supplies, outdoor tools. When it's time to clear one out before a move or renovation, a 10-yard is usually the right call. Add a full basement and size up to a 20.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Long-term Flagstaff residents leave behind homes that reflect decades of mountain and university town living — tools, sporting gear, old furniture, and outdoor equipment. Estate cleanouts here often need a 20 or 30-yard container, especially in older homes with full basements.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Landscaping waste in Flagstaff is different from the valley. Ponderosa pine debris, fallen timber, and cleared brush all need disposal. Most residential yard jobs fit a 10-yard; larger tree removal or fire mitigation clearing typically needs a 20-yard or more.',
+      },
+      {
+        number: '08',
+        name: 'Forest & Defensible Space Debris',
+        description:
+          'Defensible space work around Flagstaff homes generates significant debris — cut timber, brush, slash, and downed trees that cannot be left on the ground in a fire-prone area. A 20-yard handles most residential fire mitigation jobs; larger clearing projects on east-side properties may need a 30-yard.',
+      },
+      {
+        number: '09',
+        name: 'Rental Property Cleanouts',
+        description:
+          "Northern Arizona University drives consistent rental turnover in the neighborhoods around campus. Landlords replacing flooring, clearing out abandoned belongings, and doing between-tenant refreshes regularly fill a 10-yard container. High-turnover units near campus sometimes need two pulls per year.",
+      },
+      {
+        number: '10',
+        name: 'Snow & Weather Damage',
+        description:
+          'Heavy snowfall and freeze-thaw cycles cause real structural damage in Flagstaff — burst pipes, collapsed carports, failed deck boards, and damaged exterior finishes all produce debris that needs removal. A 10 or 15-yard handles most residential weather damage repair jobs.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Flagstaff depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Flagstaff. Gravel and unpaved driveways are common outside the city core — ask your provider about weight distribution boards to prevent rutting.',
+      'Many older properties in the Southside and downtown area have alleys behind them. Alley access can work when the lane is wide enough for the truck — worth asking about if it keeps the container off the street.',
+      'Containers placed on a public street or right-of-way in Flagstaff require a permit from the City of Flagstaff Engineering department. Contact the city before scheduling if you need street placement.',
+      'Properties in Doney Park, Kachina Village, and other unincorporated areas fall under Coconino County, not the City of Flagstaff. Permit requirements differ — confirm with Coconino County before scheduling street placement.',
+      'Narrow streets in the Southside and historic downtown can limit truck access. Confirm delivery clearance with your provider before booking, especially for larger containers.',
+      'Snow is a real factor from October through April. A driveway covered in snow or ice may be inaccessible for delivery. Plan your rental window around the forecast and call your provider if a storm is incoming.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Flagstaff',
+      'Southside',
+      'Sunnyside',
+      'University Heights',
+      'McMillan Mesa',
+      'Switzer Mesa',
+      'Linwood',
+      'Pine Crest',
+      'Continental Country Club',
+      'East Flagstaff',
+      'Riordan',
+      'Foxglenn',
+    ],
+    nearbyCities: [
+      'Doney Park',
+      'Kachina Village',
+      'Mountainaire',
+      'Munds Park',
+      'Williams',
+      'Winslow',
+      'Sedona',
+      'Cottonwood',
+      'Parks',
+      'Bellemont',
+      'Valle',
+      'Cameron',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Flagstaff?',
+        answer:
+          'Flagstaff roll-off rentals typically run $290–$500 per week for a 10-yard and $395–$670 for a 20-yard. Flagstaff is a smaller market than Phoenix with fewer providers, so pricing varies more widely. Heavy debris like concrete or landscaping rock will trigger overweight charges. Get a quote with the full rate card before you book.',
+      },
+      {
+        question: 'What size dumpster do I need for a Flagstaff home cleanout?',
+        answer:
+          'Most Flagstaff home cleanouts fit a 20-yard container. Older homes in the Southside and Sunnyside often have more accumulated material than newer builds. Rental housing near NAU tends to run lighter — a 10-yard usually handles a single unit turnover. For a full estate cleanout, size up to a 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Flagstaff?',
+        answer:
+          "Yes. Roofing work is steady in Flagstaff because heavy snow loads take a real toll on roofs. A 20-yard handles most residential tear-offs. Older homes sometimes have multiple layers — the weight adds up faster than the volume. Confirm the included tonnage before the crew starts.",
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Flagstaff?',
+        answer:
+          'Heavy debris hits weight limits fast. A 10-yard container filled with concrete is near its limit before it looks half full. Some providers offer mini roll-offs or lowboy containers for dense material. Ask specifically about debris type when you get a quote — do not wait until the container is on site.',
+      },
+      {
+        question: 'How quickly can I get delivery in Flagstaff?',
+        answer:
+          "Most providers serving Flagstaff can deliver within 24–48 hours. Flagstaff is more remote than Phoenix — fewer providers means scheduling can tighten during busy seasons. Summer is active for both tourism and renovation. Winter deliveries depend on road and driveway conditions after snow.",
+      },
+      {
+        question: 'Do you serve Williams, Sedona, Winslow, and nearby areas?',
+        answer:
+          'Most providers covering Flagstaff also serve Williams, Sedona, and communities along I-40. Winslow is about 60 miles east — call to confirm coverage. Doney Park, Mountainaire, and Kachina Village are typically within range for local Flagstaff carriers.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Flagstaff?',
+        answer:
+          'Standard rental periods run 7–10 days. Extensions typically cost $5–$15 per day. In winter, ask your provider upfront about weather flexibility — some carriers accommodate delays if a storm hits mid-rental. Ask at booking, not after the container is under two feet of snow.',
+      },
+      {
+        question: 'Are there items I cannot put in a Flagstaff dumpster?',
+        answer:
+          "Hazardous materials — paint, motor oil, propane tanks, batteries, and appliances with refrigerants — are not accepted in standard roll-offs. Flagstaff's older housing stock means asbestos is a real consideration in homes built before 1980. Test before any gut work or demolition begins. Green waste from forest thinning is accepted by most local providers — confirm before loading.",
+      },
+      {
+        question: 'Does snow affect dumpster delivery or pickup in Flagstaff?',
+        answer:
+          'Yes. Flagstaff averages over 100 inches of snow per year. Deliveries during or right after major storms may be delayed. A driveway buried in snow may not be accessible for the truck. Plan your rental window around the forecast, and call your provider if a storm is coming — most can coordinate around it.',
+      },
+      {
+        question: 'Can I use a dumpster for wildfire defensible space clearing?',
+        answer:
+          'Yes. Green waste, brush, slash, and cut timber from defensible space work are accepted in most roll-off containers. Volume adds up fast — a single large ponderosa can fill a 10-yard on its own. For significant clearing projects in the WUI areas east and northeast of the city, size up to a 20 or 30-yard.',
+      },
+    ],
+    latitude: 35.1983,
+    longitude: -111.6513,
+  },
+  // ─── PRESCOTT ─────────────────────────────────────────────────
+  {
+    slug: 'prescott-az-dumpster-rental',
+    cityName: 'Prescott',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Prescott Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Prescott dumpster rental for home cleanouts, estate work, roofing jobs, and defensible space clearing. Compare sizes and local pricing in Yavapai County.',
+    primaryKeyword: 'prescott dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental prescott az',
+      'prescott construction dumpster rental',
+      'roll off dumpster prescott',
+      'roll off dumpster prescott az',
+      'rolloff dumpsters prescott',
+      'roll offs prescott az',
+      '10 yard dumpster rental prescott',
+      '20 yard dumpster rental prescott',
+      '30 yard dumpster rental prescott',
+      'roofing dumpster prescott',
+      'residential dumpster rental prescott',
+      'estate cleanout dumpster prescott',
+    ],
+    heroH1: 'Dumpster Rental in Prescott, Arizona',
+    heroSubheadline:
+      'Find roll-off dumpster options for estate cleanouts, historic home renovation, roofing tear-offs, and construction debris in Prescott and Yavapai County.',
+    introParagraphs: [
+      "Prescott is one of the older and more distinctive towns in Arizona. The Courthouse Plaza area, Miller Valley, and Heritage Park contain homes from the late 1800s and early 1900s. Restoration work, full gut renovations, and estate cleanouts are regular work in those areas. Prescott also has one of the largest retiree populations in the state relative to its size. That drives a steady volume of home transition cleanouts and downsizing projects year-round.",
+      "Prescott Valley — the adjacent city about eight miles east — is one of the faster-growing communities in Arizona. New residential construction there generates consistent demand for construction debris containers. Back in Prescott proper, the wildland-urban interface is real. The city sits in ponderosa pine and juniper forest. Defensible space clearing around the outer neighborhoods produces green waste that does not fit a standard bin. Roofing replacement is more common here than in the Phoenix valley. Snow and moisture at 5,400 feet take their toll.",
+      "Rolloff Dumpster Finder connects Prescott customers with container options across the Quad Cities area — Prescott, Prescott Valley, Chino Valley, and Dewey-Humboldt. Most providers serve the full Yavapai County corridor. Historic Prescott creates some placement challenges. Near Courthouse Plaza, streets are narrow. Older neighborhoods above downtown have steep driveways that are not always straightforward for a delivery truck. Getting placement sorted before the container arrives saves a lot of back-and-forth.",
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small garage cleanouts, bathroom remodels, single-room renovation debris, and light yard waste.',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room cleanouts, kitchen gut jobs, roofing tear-offs on smaller homes, and moderate estate work.',
+        range: '$320–$545 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, roofing on most single-family homes, basement and garage cleanouts, and estate clearances.',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, major renovation projects, new construction framing debris, and commercial work.',
+        range: '$455–$790 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'New construction, large commercial projects, whole-house renovation debris, and multi-unit property cleanouts.',
+        range: '$570–$1,060+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Clearing furniture, accumulated goods, and debris from Prescott homes. Properties in Miller Valley and Heritage Park have been in families for decades, and clearing one out often takes more volume than people expect. A 20-yard container handles most single-family home cleanouts.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Prescott gets snow and significant moisture at 5,400 feet, and roofs wear harder here than in the Phoenix valley. Most residential tear-offs fit a 20-yard container. Older homes with multiple shingle layers run heavier and can push weight limits before the bin looks full — confirm included tonnage before the crew starts.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from new builds across the area. Prescott Valley generates consistent contractor demand for 30 and 40-yard containers on larger residential and commercial job sites.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Prescott's older housing stock — much of it built between the 1970s and 1990s — is hitting full renovation age. A full kitchen gut produces a 10 or 15-yard container of debris on its own. Historic homes near Courthouse Plaza often have original tile and plaster that come out in volume.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Prescott garages store the gear that goes with an outdoor mountain town — hiking equipment, workshop tools, hunting gear, and RV accessories. A 10-yard handles most single-car garage cleanouts. Add a storage room or workshop and size up.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Prescott has one of the largest retiree populations in Arizona relative to its size. Estate cleanouts here are regular, steady work. Longtime residents moving to assisted living or passing on often leave behind fully furnished homes that need a 20 or 30-yard container to clear properly.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "Prescott's high-desert and pine forest landscape generates more yard waste than a typical Arizona property. Tree thinning, brush removal, and native plant clearing add up fast. A 10-yard handles a moderate job; significant tree removal or defensible space work needs a 20-yard.",
+      },
+      {
+        number: '08',
+        name: 'Historic Home Renovation',
+        description:
+          'Victorian homes and craftsman bungalows near Courthouse Plaza and Whiskey Row require renovation work that generates significant debris — original plaster, lathe, wood flooring, and trim. A 15 or 20-yard container handles most full-room renovation projects in the historic district.',
+      },
+      {
+        number: '09',
+        name: 'Defensible Space Debris',
+        description:
+          'Prescott sits in ponderosa pine and juniper forest. Defensible space clearing, hazard-tree removal, and forest thinning around homes in the outer neighborhoods generate green waste and cut timber that does not fit a standard bin. A 10 or 20-yard handles most residential clearing projects.',
+      },
+      {
+        number: '10',
+        name: 'Second-Home Cleanouts',
+        description:
+          "Prescott draws second-home buyers from the Phoenix metro looking to escape the summer heat. Renovating or clearing out a weekend property for sale generates the same debris load as a primary residence. A 10 or 20-yard handles most vacation property cleanouts.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Prescott depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      "Driveway placement is the most common option in Prescott, but many driveways in the older neighborhoods above downtown are steep or narrow. Confirm truck access and driveway grade before booking.",
+      "Street placement in Prescott requires a permit from the City of Prescott Development Services department. Fees and approval timelines vary — ask your provider to confirm current requirements before scheduling.",
+      "Prescott Valley is a separate city with its own permit process. A container on a Prescott Valley street needs a Prescott Valley permit, not a Prescott one. Your provider can clarify which jurisdiction applies to your address.",
+      "Historic district streets near Courthouse Plaza and Whiskey Row are narrow. Delivery truck access is limited on some blocks — confirm route clearance with your provider before booking, especially for larger containers.",
+      "Many newer Prescott communities — including Prescott Lakes and Granville — have HOA rules that restrict container placement, duration, and visibility. Check your HOA rules before booking.",
+      "Prescott receives snow between October and April. Snow and ice on driveways can delay or prevent delivery. Factor weather into your rental window if you are scheduling winter work.",
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Prescott',
+      'Whiskey Row',
+      'Miller Valley',
+      'Heritage Park',
+      'Iron Springs',
+      'Yavapai Hills',
+      'Thumb Butte',
+      'Gateway',
+      'Granville',
+      'Prescott Lakes',
+      'Pioneer Park',
+      'Prescott Country Club',
+    ],
+    nearbyCities: [
+      'Prescott Valley',
+      'Chino Valley',
+      'Dewey-Humboldt',
+      'Mayer',
+      'Paulden',
+      'Skull Valley',
+      'Congress',
+      'Wickenburg',
+      'Cottonwood',
+      'Sedona',
+      'Yarnell',
+      'Ash Fork',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Prescott?',
+        answer:
+          'Most Prescott roll-off rentals run $280–$480 per week for a 10-yard and $380–$650 for a 20-yard. Pricing varies by container size, debris type, and rental length. Prescott is a mid-size market — more providers than Flagstaff, fewer than Phoenix — and rates fall between the two. Get a full quote including weight limits and overage fees before booking.',
+      },
+      {
+        question: 'What size dumpster do I need for a Prescott home cleanout?',
+        answer:
+          "Most Prescott home cleanouts fit a 20-yard container. Older homes in Miller Valley and Heritage Park tend to carry more accumulated material. Estate cleanouts for longtime residents often need a 30-yard. Vacation home and rental property cleanouts typically fit in a 10 or 15-yard.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Prescott?',
+        answer:
+          'Yes. Prescott gets snow and significant moisture at elevation, and roofing replacement is more common here than in the Phoenix valley. A 20-yard handles most residential tear-offs. Older homes with multiple shingle layers can push weight limits faster than the bin fills — confirm included tonnage before the crew starts.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Prescott?',
+        answer:
+          'Heavy debris hits weight limits fast. A 10-yard container filled with concrete or soil can be near its limit before it looks half full. Some providers offer lowboy containers or mini roll-offs for dense material. State your debris type when you call for a quote.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Prescott?',
+        answer:
+          'Most providers serving Prescott can deliver within 24–48 hours. Prescott is large enough to have local carriers — you are not waiting for a Phoenix truck to drive up. Spring and fall are busy renovation seasons. Booking early in the week gives you more scheduling flexibility.',
+      },
+      {
+        question: 'Do you serve Prescott Valley, Chino Valley, and Dewey-Humboldt?',
+        answer:
+          'Yes. Most providers serving Prescott cover the full Quad Cities area — Prescott Valley, Chino Valley, and Dewey-Humboldt. Mayer and Congress are farther out; call to confirm. Cottonwood and Sedona are within range for some carriers but not all.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Prescott?',
+        answer:
+          'Standard rental periods run 7–10 days. Extensions run $5–$15 per day depending on the provider. If you are doing winter work, ask about weather-related flexibility when you book — some Prescott providers accommodate delays caused by snow or ice.',
+      },
+      {
+        question: 'Are there items I cannot put in a Prescott dumpster?',
+        answer:
+          "Hazardous materials — paint, motor oil, propane tanks, batteries, and appliances with refrigerants — are not accepted in standard roll-offs. Homes built before 1980 in Prescott's historic district may contain asbestos in plaster, insulation, or floor tile. Test before gut work begins. Green waste from yard and forest thinning is accepted by most local providers.",
+      },
+      {
+        question: 'Do I need a permit to put a dumpster on a Prescott street?',
+        answer:
+          "Yes. Containers placed on a public street in Prescott require a permit from the City of Prescott Development Services department. If your address is in Prescott Valley, you need a Prescott Valley permit instead — they are separate cities with separate permit processes. Your provider can usually point you in the right direction.",
+      },
+      {
+        question: 'Can I use a dumpster for defensible space clearing near Prescott?',
+        answer:
+          'Yes. Green waste, brush, slash, and cut timber from defensible space work are accepted in most roll-off containers. Volume from forest thinning adds up fast — a single large ponderosa can fill a 10-yard on its own. Size up to a 20 or 30-yard if you are clearing more than a small perimeter.',
+      },
+    ],
+    latitude: 34.5400,
+    longitude: -112.4685,
+  },
+  // ─── WACO ─────────────────────────────────────────────────────
+  {
+    slug: 'waco-tx-dumpster-rental',
+    cityName: 'Waco',
+    stateName: 'Texas',
+    stateAbbr: 'TX',
+    metaTitle: 'Waco Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Waco dumpster rental for home cleanouts, roofing jobs, hail cleanup, and renovation projects. Compare roll-off sizes and local pricing across McLennan County.',
+    primaryKeyword: 'waco dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental waco tx',
+      'waco construction dumpster rental',
+      'roll off dumpster waco',
+      'roll off dumpster waco tx',
+      'rolloff dumpsters waco',
+      'roll offs waco tx',
+      '10 yard dumpster rental waco',
+      '20 yard dumpster rental waco',
+      '30 yard dumpster rental waco',
+      'roofing dumpster waco',
+      'residential dumpster rental waco',
+      'hail damage dumpster waco',
+    ],
+    heroH1: 'Dumpster Rental in Waco, Texas',
+    heroSubheadline:
+      'Find roll-off dumpster rental options for home cleanouts, roofing tear-offs, fixer-upper renovations, and construction debris across Waco and McLennan County.',
+    introParagraphs: [
+      "Waco has become a renovation city. The Fixer Upper era put Sanger Heights and South Waco on the renovation map, and the activity has stayed long after the camera crews left. Craftsman bungalows and 1920s houses in those neighborhoods generate gut renovation jobs that fill a 20-yard container before the kitchen is even touched. Estate cleanouts in Castle Heights and the older residential areas around Cameron Park are also steady work. Many properties there have not turned over in decades.",
+      "Central Texas puts Waco directly in the hail corridor. The city takes significant storm hits most years, and roofing replacement in the weeks after a major event is one of the busier dumpster seasons in this market. Baylor University adds another layer of steady demand. Off-campus housing near the university turns over constantly, and landlords clearing between tenants or gut-renovating older rental units are regular customers.",
+      "Rolloff Dumpster Finder connects Waco customers with container options for the McLennan County area — the city proper as well as Woodway, Hewitt, and Bellmead. Most providers serve Robinson and Lacy Lakeview as well. Waco has multiple local carriers on the platform. That means faster delivery and more price competition than you would find in a smaller Central Texas town on the same I-35 corridor.",
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small garage cleanouts, single-room remodels, bathroom gut jobs, and light yard waste.',
+        range: '$260–$450 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room cleanouts, kitchen renovations, roofing on smaller homes, and estate work.',
+        range: '$300–$510 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, roofing on most single-family homes, fixer-upper demo debris, and estate clearances.',
+        range: '$360–$615 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, major renovation projects, new construction framing debris, and commercial work.',
+        range: '$430–$745 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'New construction, large commercial projects, whole-house renovation debris, and multi-unit property cleanouts.',
+        range: '$540–$1,010+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Clearing furniture, appliances, and accumulated goods from Waco homes. Properties in South Waco, Castle Heights, and Glenwood have often been in families for a generation or more. A 20-yard container handles most single-family home cleanouts; estate situations with decades of accumulation may need a 30-yard.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Waco takes significant hail damage most years, and roofing work drives consistent dumpster demand. A 20-yard handles most residential shingle tear-offs. Heavier tile and multi-layer roofs fill a bin faster than the volume suggests — confirm included tonnage before the crew starts.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Framing lumber, drywall, concrete, and mixed C&D waste from active builds throughout Waco and McLennan County. The I-35 corridor generates steady commercial and residential construction, and 30 and 40-yard containers move regularly on larger job sites.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Waco's fixer-upper renovation culture runs deep. Kitchen gut jobs in Sanger Heights and South Waco — old cabinets, tile floors, cast-iron fixtures — produce a 10 or 15-yard container of debris on their own. Full bath overhauls in the same era homes run heavier with tile and cement board.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Texas homes don't have basements, but Waco garages and workshops accumulate fast. Older properties in North Waco and Beverly Hills often have attached workshops and outbuildings full of decades of equipment. A 10-yard handles most single-car garage cleanouts.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Estate cleanouts in Waco's older neighborhoods — Cameron Park, Castle Heights, and Wooded Acres — are regular work. Longtime residents leave behind fully furnished homes with decades of accumulated material. A 20 or 30-yard is the right starting point for most full-house estate clearances.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Tree trimmings, brush, sod, and landscaping debris from Waco yards add up fast in the Texas growing climate. A 10-yard handles a moderate cleanup. Significant tree removal or large landscaping overhauls need a 20-yard — and confirm your provider accepts green waste before mixing it in.',
+      },
+      {
+        number: '08',
+        name: 'Fixer-Upper Renovations',
+        description:
+          "Waco's renovation market runs beyond kitchen and bath jobs. Full-house gut projects in Sanger Heights and South Waco — stripping walls to studs, replacing plumbing lines, new flooring throughout — generate 20 to 30 yards of debris and often require a swap-out mid-project.",
+      },
+      {
+        number: '09',
+        name: 'Hail & Storm Cleanup',
+        description:
+          'After a major hail event in Waco, cleanup goes beyond roofing. Downed trees, damaged siding, broken gutters, and debris from carports and outbuildings all need removal. A 20-yard handles roofing plus moderate secondary debris. Size up if storm damage hit multiple structures on the property.',
+      },
+      {
+        number: '10',
+        name: 'Rental Property Cleanouts',
+        description:
+          'Baylor University generates consistent off-campus housing turnover. Landlords clearing between student tenants, gut-renovating older rental units near campus, or prepping properties for sale are regular customers. A 10 or 15-yard handles most single-unit turnover cleanouts near the university.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Waco depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Waco. Most residential lots can accommodate a 10 or 20-yard container in the driveway without blocking the street.',
+      "Older neighborhoods in Sanger Heights, South Waco, and East Waco have alleys behind many properties. Alley placement keeps the container off the street and typically avoids the need for a permit.",
+      "Street placement in Waco requires a permit from the City of Waco Engineering and Development Services. Containers on private driveways or property generally do not require a permit.",
+      "Baylor University's campus is not accessible for private dumpster delivery. For work near the university, confirm that the delivery address is a private off-campus property.",
+      'HOA restrictions apply in some of the newer Waco subdivisions. Check your HOA rules before booking — some communities limit container visibility, placement location, or rental duration.',
+      'Waco is largely flat with no significant terrain challenges. Most delivery trucks can access residential streets throughout the city without issue.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Waco',
+      'Sanger Heights',
+      'South Waco',
+      'Castle Heights',
+      'Cameron Park',
+      'North Waco',
+      'Beverly Hills',
+      'Glenwood',
+      'Wooded Acres',
+      'Lake Shore',
+      'Kendrick Lane',
+      'Mountainview',
+      'East Waco',
+    ],
+    nearbyCities: [
+      'Woodway',
+      'Hewitt',
+      'Bellmead',
+      'Lacy Lakeview',
+      'Robinson',
+      'China Spring',
+      'Lorena',
+      'McGregor',
+      'West',
+      'Hillsboro',
+      'Temple',
+      'Killeen',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Waco?',
+        answer:
+          'Most Waco roll-off rentals run $260–$450 per week for a 10-yard and $360–$615 for a 20-yard. Pricing depends on container size, debris type, and how long you need it. Waco has multiple local carriers, which keeps rates more competitive than you might expect for a city this size. Get a quote with the weight limit and overage rate included.',
+      },
+      {
+        question: 'What size dumpster do I need for a Waco home cleanout?',
+        answer:
+          'Most Waco home cleanouts fit a 20-yard container. Older homes in Sanger Heights and South Waco tend to accumulate more than newer builds. Estate cleanouts in Castle Heights or Cameron Park often need a 30-yard. Rental property turnovers near Baylor typically fit in a 10 or 15-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Waco?',
+        answer:
+          'Yes. Waco sits in the Central Texas hail corridor and takes significant storm hits most years. A 20-yard handles most residential shingle tear-offs. Heavy tile roofs and multi-layer jobs push weight limits before the bin looks full — confirm included tonnage before the crew starts.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Waco?',
+        answer:
+          'Heavy debris hits weight limits fast. A 10-yard filled with concrete or soil can be near its limit before it looks half full. State your debris type when you call for a quote — some providers offer mini roll-offs or lowboy containers for dense material.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Waco?',
+        answer:
+          'Most providers serving Waco can deliver within 24–48 hours. During hail season, demand spikes and lead times can stretch. Booking as soon as you know you need a container is the right move after a major storm — the post-storm window fills up fast.',
+      },
+      {
+        question: 'Do you serve Woodway, Hewitt, Bellmead, and nearby cities?',
+        answer:
+          'Yes. Most providers serving Waco cover Woodway, Hewitt, Bellmead, Lacy Lakeview, and Robinson. China Spring and Lorena are typically within range as well. For Temple and Killeen, coverage depends on the carrier — call to confirm.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Waco?',
+        answer:
+          'Standard rental periods run 7–10 days. Extensions run $5–$15 per day depending on the provider. For multi-week renovation projects in Sanger Heights or South Waco, ask about longer rental terms upfront — some providers offer flat rates for projects that will run two to three weeks.',
+      },
+      {
+        question: 'Are there items I cannot put in a Waco dumpster?',
+        answer:
+          "Hazardous materials — paint, motor oil, propane tanks, batteries, and appliances with refrigerants — are not accepted in standard roll-offs. Older homes in Sanger Heights and South Waco built before 1980 may contain asbestos in floor tile, pipe insulation, or ceiling texture. Test before gut work begins.",
+      },
+      {
+        question: 'Do I need a permit to put a dumpster on a Waco street?',
+        answer:
+          'Yes. Containers placed on a public street in Waco require a permit from the City of Waco Engineering and Development Services. Containers on your own driveway or private property generally do not. Most providers can help navigate the permit process — ask when you book.',
+      },
+      {
+        question: 'Can I get a dumpster for hail damage cleanup in Waco?',
+        answer:
+          'Yes. After a major hail event, the typical work is roofing replacement plus damaged siding, gutters, and landscaping debris. A 20-yard handles most residential roofing jobs. Size up to a 30-yard if you are replacing siding or clearing debris from multiple structures on the property.',
+      },
+    ],
+    latitude: 31.5493,
+    longitude: -97.1467,
+  },
 ]

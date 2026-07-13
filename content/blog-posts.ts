@@ -5248,4 +5248,621 @@ export const blogPosts: BlogPost[] = [
       { id: 'straight-answers', title: 'Straight Answers' },
     ],
   },
+  {
+    slug: 'yard-waste-dumpster-rental',
+    title: 'Yard Waste Dumpster Rental: What You Can Toss and What to Ask First',
+    excerpt:
+      'Yard waste dumpster rules vary more than most people expect. What counts as green waste, why dirt and sod get heavy fast, and the questions to ask before you book.',
+    category: 'Landscaping',
+    coverImage:
+      'https://images.pexels.com/photos/5231048/pexels-photo-5231048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Gardener cutting tree branches during a yard cleanup project',
+    date: '2026-07-12',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Yard waste dumpster rental rules vary by hauler. What counts as green waste, what gets heavy fast, and the questions to ask before you book a container.',
+    readingTime: 8,
+    keywords: [
+      'yard waste dumpster rental',
+      'yard waste dumpster near me',
+      'dumpster for yard waste',
+      'green waste dumpster rental',
+      'roll off dumpster yard waste',
+      'landscaping dumpster rental',
+    ],
+    body: `
+<p>I have helped enough people book yard waste dumpster rentals that I can predict the follow-up call. It comes three days in: "Jake, the bin's full and I'm only halfway through." Then they ask for a swap. Sure — but that's a second haul fee on top of the first. The yard's not done, but at least I get to say "sounds like you bit off more than you could chew — literally, since that's a tree." My teenager does not find this funny. She is still wrong.</p>
+
+<p>Here is the short answer: yard waste dumpster rental works well for most residential and landscaping cleanup jobs. Clean green waste — branches, leaves, brush, and grass — goes in most standard roll-offs. Dirt, rock, and sod weigh more than almost anyone expects, and some haulers treat them separately. The rules vary by disposal facility. What you ask before booking determines whether the job goes smoothly or ends in a surprise invoice.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Yard waste dumpster rental works for branches, brush, leaves, and grass clippings. Dirt, rock, and sod are weight problems — size for weight, not volume. Ask your provider what their facility accepts before you load anything.</p>
+</div>
+
+<h2 id="what-counts-as-yard-waste">What Actually Counts as Yard Waste</h2>
+
+<p>The phrase "yard waste" gets used loosely. Different haulers interpret it differently, and different disposal facilities handle it differently. Here is what typically falls in the category, and where the line starts to blur.</p>
+
+<p><strong>Usually included:</strong></p>
+<ul>
+  <li>Branches and limbs (up to a certain diameter — typically under 4 inches for most facilities)</li>
+  <li>Leaves and leaf piles</li>
+  <li>Grass clippings</li>
+  <li>Shrubs and hedges</li>
+  <li>Garden plants and perennials</li>
+  <li>Tree brush and slash</li>
+</ul>
+
+<p><strong>Things that get more complicated:</strong></p>
+<ul>
+  <li><strong>Sod:</strong> Organic, but very heavy. Most providers accept it; some charge per-yard rates on heavy material.</li>
+  <li><strong>Dirt and soil:</strong> Also heavy. Sometimes accepted in a standard roll-off, sometimes requires a separate container.</li>
+  <li><strong>Rock and gravel:</strong> Dense. Many providers charge a separate heavy-material rate or won't take it in a standard roll-off at all.</li>
+  <li><strong>Old wooden fencing:</strong> Not green waste. Treated lumber in particular cannot go to a composting or chipping facility — it goes in as construction debris.</li>
+  <li><strong>Tree stumps:</strong> Large stumps can push weight limits quickly. Confirm with your provider before loading one in.</li>
+</ul>
+
+<p>The distinction that matters most is "clean green waste" versus "mixed debris." A container of nothing but leaves, grass, and brush is clean green waste. According to the <a href="https://www.epa.gov/recycle/composting-home" target="_blank" rel="noopener noreferrer">EPA's composting guidance</a>, yard trimmings can be diverted from landfills entirely through composting and chipping programs — many facilities route clean green loads this way. Add treated wood, concrete chunks, or household junk and the load becomes mixed debris, handled differently and priced differently.</p>
+
+<p>I have seen providers turn loads away at the transfer station for mixed debris. That creates a problem for everyone. The cleanest loads are the ones where the customer asked upfront what the facility accepts. That conversation costs nothing.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/29192615/pexels-photo-29192615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Person clearing yard waste with a shovel during a residential yard cleanup"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h2 id="dirt-rock-sod-weight">Dirt, Rock, and Sod Are a Weight Problem, Not a Volume Problem</h2>
+
+<p>Standard roll-off containers have two limits: volume (cubic yards) and weight (tons). Most yard debris — leaves, branches, light brush — is bulky but not heavy. You fill the bin on volume. Dirt, rock, and sod are different. You hit the weight limit before you hit the volume limit. Sometimes well before.</p>
+
+<p>Here are the honest numbers:</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Material</th>
+        <th class="px-4 py-3 text-left font-semibold">Weight per Cubic Yard</th>
+        <th class="px-4 py-3 text-left font-semibold">Risk Level</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="bg-white">
+        <td class="px-4 py-3">Dry leaves</td>
+        <td class="px-4 py-3 font-variant-numeric">100–200 lbs</td>
+        <td class="px-4 py-3">Volume fills before weight limit</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Brush / loose branches</td>
+        <td class="px-4 py-3">200–400 lbs</td>
+        <td class="px-4 py-3">Bulky; weight rarely the concern</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Wet grass clippings</td>
+        <td class="px-4 py-3">1,000–1,500 lbs</td>
+        <td class="px-4 py-3">Mid-range — watch mixed loads</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Sod</td>
+        <td class="px-4 py-3">1,000–1,500 lbs</td>
+        <td class="px-4 py-3">Weight limit before volume fills</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Dry soil / dirt</td>
+        <td class="px-4 py-3">2,000–2,400 lbs</td>
+        <td class="px-4 py-3">Hits weight limit at 20–30% full</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Wet soil / clay</td>
+        <td class="px-4 py-3">2,700–3,000 lbs</td>
+        <td class="px-4 py-3">Can max out at 10–15% full</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Rock / gravel</td>
+        <td class="px-4 py-3">2,500–3,000 lbs</td>
+        <td class="px-4 py-3">Almost always needs a lowboy</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>One cubic yard of wet soil can weigh over 2,700 lbs. A standard 10-yard container includes a weight allowance of roughly 2–3 tons depending on the provider. Do the math: a 10-yard bin filled with wet dirt can hit its weight limit when it is between 20% and 40% full by volume.</p>
+
+<p>Sod adds up fast. A typical residential sod removal of 1,000 square feet generates 3,000–5,000 lbs depending on the moisture content. That is at or over the weight limit for most 10-yard containers — before the bin looks even half full. (No one ever says "I have a lot of heavy sod to remove" until they are reading an invoice that says otherwise.)</p>
+
+<p>The fix: call your provider and describe exactly what is going in. Say "I am removing about X square feet of sod" or "I have roughly Y cubic yards of gravel." Most providers can steer you to the right size and tell you the overage fee upfront. That conversation costs five minutes. The alternative costs more.</p>
+
+<h2 id="storm-vs-landscaping">Storm Cleanup and Landscaping Are Different Jobs</h2>
+
+<p>A planned landscaping project and post-storm debris are not the same load, even if both look like branches and leaves going into the bin.</p>
+
+<p><strong>Landscaping removal</strong> is controlled. You know roughly what is coming out — shrubs, sod, existing mulch, old ornamental fencing. You can estimate the volume and weight before booking.</p>
+
+<p><strong>Storm debris</strong> is mixed and unpredictable. Downed trees include root balls still holding significant soil. Large branches come in at awkward angles that consume cubic footage inefficiently. Damaged fences — pressure-treated lumber — cannot go to a composting facility with the green waste. You may also have roofing material, insulation, or siding mixed in from outbuildings. That turns a green-waste job into a construction-debris job with different disposal requirements and often different pricing.</p>
+
+<p>Book accordingly. Storm cleanup usually needs a larger container than it looks like at first glance. If a large tree came down, a 20-yard is the right starting point. Tell the provider there is a root ball involved so they can flag any weight concerns before delivery. Most can also handle swap-outs if the scope expands once you start clearing.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/29731767/pexels-photo-29731767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Cut pine branches ready for yard waste disposal after tree trimming"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h2 id="sizing-the-bin">Sizing the Bin for Yard Debris</h2>
+
+<p>The right yard waste dumpster size depends on the material mix. Here is a starting point by project type.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Project</th>
+        <th class="px-4 py-3 text-left font-semibold">Recommended Size</th>
+        <th class="px-4 py-3 text-left font-semibold">Notes</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="bg-white">
+        <td class="px-4 py-3">Seasonal leaf and brush cleanup</td>
+        <td class="px-4 py-3">10-yard</td>
+        <td class="px-4 py-3">Light material; fills on volume</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Shrub removal (10–15 shrubs)</td>
+        <td class="px-4 py-3">10-yard</td>
+        <td class="px-4 py-3">Size up if root balls are large</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Sod removal (up to 500 sq ft)</td>
+        <td class="px-4 py-3">10-yard (confirm weight)</td>
+        <td class="px-4 py-3">Heavy — ask about the weight allowance</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Full tree removal (medium tree)</td>
+        <td class="px-4 py-3">15–20-yard</td>
+        <td class="px-4 py-3">Factor in root ball volume and soil</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Major landscaping overhaul</td>
+        <td class="px-4 py-3">20-yard</td>
+        <td class="px-4 py-3">Mixed light and heavy material</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Storm cleanup (large downed tree)</td>
+        <td class="px-4 py-3">20-yard</td>
+        <td class="px-4 py-3">Plan for mixed debris and root ball</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Significant dirt or rock removal</td>
+        <td class="px-4 py-3">Lowboy / specialty container</td>
+        <td class="px-4 py-3">Standard roll-off weight limits apply</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>A 10-yard of dry leaves is almost entirely a volume question. A 10-yard of wet sod is almost entirely a weight question. They look the same from the outside. They absolutely are not. For a full breakdown of roll-off sizing across all project types, <a href="/resources/how-to-choose-the-right-dumpster-size">this guide covers the complete size-to-project match</a>.</p>
+
+<h2 id="what-haulers-may-not-accept">What Some Haulers Won't Take</h2>
+
+<p>Some materials that look like yard waste are not accepted in a standard roll-off or at a green-waste disposal facility. Here is what to check before you load:</p>
+
+<ul>
+  <li><strong>Pressure-treated and painted wood:</strong> Old fencing, railroad ties, and painted timbers cannot go to a composting or grinding facility. They go in as construction debris, in a separate container.</li>
+  <li><strong>Invasive species:</strong> Some states and counties restrict hauling certain invasive plant species. Certain bamboo types and other spreaders may need to be bagged and disposed of separately. Check with your local cooperative extension office or the <a href="https://www.aphis.usda.gov/plant-health" target="_blank" rel="noopener noreferrer">USDA APHIS plant health program</a> if you are dealing with regulated species.</li>
+  <li><strong>Diseased wood under quarantine:</strong> Trees affected by regulated infestations like emerald ash borer may be subject to movement restrictions in some states. Confirm before hauling.</li>
+  <li><strong>Concrete, asphalt, and construction debris mixed in:</strong> Adding these to a yard-waste load often changes the entire disposal classification and fee.</li>
+  <li><strong>Animal waste and organic refuse:</strong> Neither belongs in a standard roll-off. (The raccoon situation at my rental yard in 2008 is also covered under this rule. We do not need to get into it.)</li>
+</ul>
+
+<p>If you are not certain whether something is accepted, tell your provider before it goes in the container. Not after the driver arrives. Once restricted material is on site in the bin, your options narrow significantly and your bill does not.</p>
+
+<p>For a full list of what cannot go in a roll-off regardless of project type, <a href="/resources/what-can-you-put-in-a-roll-off-dumpster">this guide covers the complete accepted and prohibited list</a>.</p>
+
+<h2 id="questions-to-ask">Six Questions to Ask Before You Book</h2>
+
+<p>Yard waste rental has more variables than most debris types. These six questions take two minutes and save a lot of post-delivery friction:</p>
+
+<p><strong>1. Does your disposal facility accept green waste, or will this go in as a mixed-debris load?</strong> This determines whether your material can be composted or must go to a landfill. Mixed loads often cost more to dispose of.</p>
+
+<p><strong>2. What is the weight limit, and what do you charge per ton over?</strong> Standard overage fees run $50–$100 per ton above the included weight. For heavy material like sod and dirt, this number matters a lot more than the base rental rate.</p>
+
+<p><strong>3. Do you accept sod and dirt in the same container as green waste?</strong> Some providers separate these into a dedicated heavy-material container. Others take it mixed. Some apply per-yard surcharges on heavy material. Know before you load.</p>
+
+<p><strong>4. What counts as contamination for your facility?</strong> If clean green waste is your goal, ask what materials would disqualify the load from composting. Treated wood, plastic, and construction debris are the most common answers.</p>
+
+<p><strong>5. How do you classify storm debris?</strong> Mixed storm material — with fence posts, roofing, and mixed organics — often gets classified as construction debris, not yard waste. The disposal pricing can differ significantly from a clean green-waste load.</p>
+
+<p><strong>6. What is your overage policy and how will I be notified?</strong> Some providers call when the load is weighed at the facility. Others just invoice. Know the process before the container leaves your driveway.</p>
+
+<p>The <a href="/resources/what-does-a-dumpster-rental-cost">full breakdown of dumpster rental pricing</a> covers how weight, size, and debris type all interact on the final bill.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>Can you put yard waste in a roll-off dumpster?</h3>
+<p>Yes. Clean green waste — branches, leaves, grass, shrubs — is accepted by most roll-off providers. The caveat is that not every facility handles green waste the same way. Some route it to composting or chipping; others send it to a landfill. Ask upfront whether your load will be treated as green waste or mixed debris, since it affects both the disposal fee and what you can include in the container.</p>
+
+<h3>How much does a yard waste dumpster rental cost?</h3>
+<p>A 10-yard yard waste rental typically runs $250–$450 per week. A 20-yard is generally $350–$600. The price depends on your location, the disposal facility's rates for green waste, and what is in the load. Always ask for a quote that includes the weight limit and overage rate — not just the rental fee. Those numbers together are the real price.</p>
+
+<h3>Can I mix yard waste with household junk in the same container?</h3>
+<p>You can, but the load will be classified and priced as mixed debris rather than green waste. That usually means higher disposal fees. If you have a significant volume of clean yard material, it is worth keeping it separate from household cleanout debris to avoid paying mixed-load rates on the entire container.</p>
+
+<h3>How heavy is sod per square foot?</h3>
+<p>Standard sod runs about 3–5 lbs per square foot with the soil base attached. Removing 500 square feet of sod generates 1,500–2,500 lbs. Removing 1,000 square feet can put you at or over the weight limit of a 10-yard container before it looks close to full. If sod is part of the job, size for weight rather than volume and confirm the included weight allowance before booking.</p>
+
+<h3>What yard waste will haulers not accept?</h3>
+<p>Pressure-treated and painted wood, concrete mixed with green material, invasive plant species in some counties, and diseased wood under state quarantine. Animal waste is also prohibited. When in doubt, describe the specific materials to your provider before anything goes in the container — not after delivery.</p>
+
+<h3>Is a 10-yard dumpster big enough for a full yard cleanout?</h3>
+<p>For light material — leaves, brush, shrub trimmings — usually yes. A 10-yard holds roughly three full pickup truck loads of loose debris. If sod, rock, or significant soil removal is part of the job, a 10-yard may hit its weight limit well before it looks full. Describe the full scope to your provider and let them steer you on the right size for the material mix.</p>
+
+<h3>Do I need a permit for a yard waste dumpster?</h3>
+<p>Not for driveway placement. If the container goes on a public street or right-of-way, a permit from your local public works or engineering department is typically required. The requirement depends on where the container sits, not what is in it. For the full rundown on permit requirements by location type, <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental">this guide covers permit rules in detail</a>.</p>
+
+<h3>How long does it take to fill a 10-yard with yard debris?</h3>
+<p>A single-day landscaping project with a crew — removing shrubs, trimming trees, clearing brush — can fill a 10-yard in a few hours. A DIY yard cleanout over a weekend typically uses a day or two of loading. Yard waste loads faster than renovation debris because the material is loose and bulky. Standard rentals run 7–10 days, which is more than enough for most residential yard jobs.</p>
+
+<p>Yard waste dumpster rental is one of the few jobs where the biggest risk is not what goes in — it is what you assumed could go in. Ask the questions first. Fill the bin second. And if a large oak came down in last night's storm and you are about to book a 10-yard, I would appreciate a small nod of gratitude that we had this conversation first.</p>
+`,
+    faq: [
+      {
+        question: 'Can you put yard waste in a roll-off dumpster?',
+        answer:
+          'Yes. Clean green waste — branches, leaves, grass, shrubs — is accepted by most roll-off providers. The caveat is that not every facility handles green waste the same way. Some route it to composting or chipping; others send it to a landfill. Ask upfront whether your load will be treated as green waste or mixed debris, since it affects both the disposal fee and what you can include.',
+      },
+      {
+        question: 'How much does a yard waste dumpster rental cost?',
+        answer:
+          'A 10-yard yard waste rental typically runs $250–$450 per week. A 20-yard is generally $350–$600. The price depends on your location, the disposal rates for green waste, and what is in the load. Always ask for a quote that includes the weight limit and overage rate — not just the rental fee.',
+      },
+      {
+        question: 'Can I mix yard waste with household junk in the same container?',
+        answer:
+          'You can, but the load will be classified and priced as mixed debris rather than green waste. That usually means higher disposal fees. If you have a significant volume of clean yard material, keep it separate from household cleanout debris to avoid paying mixed-load rates on the entire container.',
+      },
+      {
+        question: 'How heavy is sod per square foot?',
+        answer:
+          'Standard sod runs about 3–5 lbs per square foot with the soil base attached. Removing 500 square feet of sod generates 1,500–2,500 lbs. A 1,000-square-foot sod removal can put you at or over the weight limit of a 10-yard container before it looks close to full. Size for weight rather than volume when sod is involved.',
+      },
+      {
+        question: 'What yard waste will haulers not accept?',
+        answer:
+          'Pressure-treated and painted wood, concrete mixed with green material, invasive plant species in some counties, and diseased wood under state quarantine. Animal waste is also prohibited. Describe your specific materials to your provider before anything goes in the container — not after delivery.',
+      },
+      {
+        question: 'Is a 10-yard dumpster big enough for a full yard cleanout?',
+        answer:
+          'For light material — leaves, brush, shrub trimmings — usually yes. A 10-yard holds roughly three full pickup truck loads of loose debris. If sod, rock, or significant soil removal is part of the job, a 10-yard may hit its weight limit before it looks full. Describe the full scope to your provider and let them steer you on the right size.',
+      },
+      {
+        question: 'Do I need a permit for a yard waste dumpster?',
+        answer:
+          'Not for driveway placement. If the container goes on a public street or right-of-way, a permit from your local public works department is typically required. The requirement depends on where the container sits, not what is in it. Check with your municipality before scheduling street placement.',
+      },
+      {
+        question: 'How long does it take to fill a 10-yard with yard debris?',
+        answer:
+          'A single-day landscaping project with a crew can fill a 10-yard in a few hours. A DIY yard cleanout over a weekend typically uses a day or two of loading. Yard waste loads faster than renovation debris because the material is loose and bulky. Standard rentals run 7–10 days, which is more than enough for most residential yard jobs.',
+      },
+    ],
+    toc: [
+      { id: 'what-counts-as-yard-waste', title: 'What Actually Counts as Yard Waste' },
+      { id: 'dirt-rock-sod-weight', title: 'Dirt, Rock, and Sod Are a Weight Problem, Not a Volume Problem' },
+      { id: 'storm-vs-landscaping', title: 'Storm Cleanup and Landscaping Are Different Jobs' },
+      { id: 'sizing-the-bin', title: 'Sizing the Bin for Yard Debris' },
+      { id: 'what-haulers-may-not-accept', title: 'What Some Haulers Won\'t Take' },
+      { id: 'questions-to-ask', title: 'Six Questions to Ask Before You Book' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
+  {
+    slug: 'kitchen-remodel-dumpster-rental',
+    title: 'Kitchen Remodel Dumpster Rental: Cabinets, Counters, Flooring, and Debris',
+    excerpt:
+      'A kitchen gut is a mixed-load job — light cabinets and heavy stone in the same bin. Here is how to size the container, what to ask about appliances, and why weight matters more than volume.',
+    category: 'Home Renovation',
+    coverImage:
+      'https://images.pexels.com/photos/15124970/pexels-photo-15124970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Workers inside a home during a major kitchen renovation project',
+    date: '2026-07-13',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Kitchen remodel dumpster rental: what size to book, how heavy stone counters and tile get, appliance acceptance caveats, and what to ask before delivery.',
+    readingTime: 9,
+    keywords: [
+      'kitchen remodel dumpster rental',
+      'dumpster for kitchen remodel',
+      'kitchen gut dumpster size',
+      'roll off dumpster kitchen renovation',
+      'kitchen demo dumpster rental',
+      'dumpster rental kitchen renovation',
+    ],
+    body: `
+<p>Kitchen remodel dumpster rental calls have a second call. Nobody mentions the island in the first call. The island is never in the first call.</p>
+
+<p>Here is the actual answer: most kitchen gut jobs generate between 1 and 2 tons of mixed debris, but the container you need depends less on total volume than on what the debris is made of. A kitchen with granite countertops and tile floor over cement board is a very different weight problem than one with laminate counters and vinyl plank, even if the square footage is identical. The mix of materials — not just the square footage — determines the right size.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Most full kitchen guts fit a 10 or 20-yard container. If the project includes stone countertops and tile over cement board, size for weight rather than volume — those materials can push a 10-yard past its weight limit before it looks half full. Tell your provider about appliances before delivery, not after.</p>
+</div>
+
+<h2 id="refresh-vs-gut">Whether the Job Even Needs a Bin</h2>
+
+<p>Not every kitchen project generates dumpster-level debris. It helps to know where yours lands before booking.</p>
+
+<p>A <strong>cosmetic refresh</strong> — new hardware, paint, resurfaced cabinet fronts, a countertop swap without demo — usually produces one to two pickup truck loads at most. A few dump runs often make more sense than a rental. If you are only pulling one countertop and painting the cabinets, the bin is probably not worth it.</p>
+
+<p>A <strong>partial remodel</strong> — replacing counters, keeping cabinets, adding a tile backsplash — starts to tip toward dumpster territory. Old countertops, drywall scraps, backsplash tile, and packaging together can easily fill a 10-yard.</p>
+
+<p>A <strong>full gut</strong> — everything out, down to studs in at least some areas — is what most people mean when they say kitchen remodel. Cabinets, countertops, flooring, backsplash, appliances, possibly drywall or plaster. This is where the container math gets interesting. A 10-yard handles a light gut; a heavier one may need a 15 or 20-yard, and the driving factor is usually weight, not volume.</p>
+
+<p>As a rule of thumb: if the project generates more than two full pickup truck loads, a dumpster is almost always cheaper than multiple dump trips, especially once you factor in the time and fuel. For a full gut, it is rarely even close.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/18865386/pexels-photo-18865386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Interior of a home with demolition debris from a renovation project"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h2 id="what-comes-out">What a Kitchen Gut Actually Produces</h2>
+
+<p>A full kitchen remodel generates materials across a wide weight range. Knowing which category the heaviest items fall into is what prevents a weight-limit surprise at the invoice stage.</p>
+
+<p><strong>Light and bulky — fills volume before weight:</strong> Cabinet boxes (5–20 lbs per linear foot depending on construction), drywall scraps (about 2 lbs per square foot), laminate countertops (1–2 lbs per square foot), vinyl or LVP flooring (under 1 lb per square foot). These materials take up space in the bin without meaningfully contributing to the weight total.</p>
+
+<p><strong>Medium density — watch the mix:</strong> Standard ceramic floor tile runs 4–8 lbs per square foot. Hardwood flooring is 2–4 lbs per square foot. Neither is alarming on its own, but in a full kitchen they add up.</p>
+
+<p><strong>Heavy — determines the weight limit:</strong> Granite countertops commonly run 18–20 lbs per square foot. Quartz is often 20–25 lbs per square foot. A 30-square-foot granite slab can weigh 540–600 lbs before it leaves the kitchen. Cement board or concrete backerboard, used under tile, adds another 3–5 lbs per square foot. Plaster from older homes runs heavier still — lath-and-plaster walls are commonly 8–12 lbs per square foot. (Lath-and-plaster is what used to be called "character." It is also what is currently making a 10-yard feel lighter than it looks.)</p>
+
+<p>Packaging is the category most people underestimate. A full kitchen order — new cabinets, new appliances, new flooring — arrives in an enormous amount of cardboard, foam, shrink wrap, and wooden pallets. That material has to go somewhere, and it often ends up in the dumpster along with what came out. Add 20–30% to your volume estimate to account for it.</p>
+
+<h2 id="weight-problem">The Weight Math: Stone, Tile, and Cement Board</h2>
+
+<p>A standard roll-off container has two limits: volume (cubic yards) and weight (tons). For most renovation debris, volume fills first. For a kitchen with heavy materials, weight is often the binding constraint.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Material</th>
+        <th class="px-4 py-3 text-left font-semibold">Typical Quantity (200 sq ft kitchen)</th>
+        <th class="px-4 py-3 text-left font-semibold">Approx. Weight</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="bg-white">
+        <td class="px-4 py-3">Base + wall cabinets (MDF/plywood)</td>
+        <td class="px-4 py-3">25 linear feet</td>
+        <td class="px-4 py-3">250–500 lbs</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Laminate countertop</td>
+        <td class="px-4 py-3">30 sq ft</td>
+        <td class="px-4 py-3">30–60 lbs</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Granite or quartz countertop</td>
+        <td class="px-4 py-3">30 sq ft</td>
+        <td class="px-4 py-3">540–750 lbs</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Ceramic tile flooring</td>
+        <td class="px-4 py-3">200 sq ft</td>
+        <td class="px-4 py-3">800–1,600 lbs</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Cement board underlayment</td>
+        <td class="px-4 py-3">200 sq ft</td>
+        <td class="px-4 py-3">600–1,000 lbs</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Plaster walls (older homes)</td>
+        <td class="px-4 py-3">100 sq ft</td>
+        <td class="px-4 py-3">800–1,200 lbs</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Drywall scraps</td>
+        <td class="px-4 py-3">50 sq ft</td>
+        <td class="px-4 py-3">~100 lbs</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Packaging from new materials</td>
+        <td class="px-4 py-3">—</td>
+        <td class="px-4 py-3">200–400 lbs (light but bulky)</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>A kitchen gut with granite counters, ceramic tile floor, and cement board commonly generates 2,500–4,000 lbs of heavy material alone — before the cabinets and packaging are counted. Many 10-yard containers carry a weight allowance of around 2 tons. A heavy kitchen gut can hit that limit when the bin is less than half full by volume.</p>
+
+<p>For heavy loads involving stone or dense tile, the approach in the <a href="/resources/concrete-dumpster-rental">concrete and heavy debris dumpster guide</a> applies here too: describe the specific materials to your provider and ask about weight limits and overage fees before the container is delivered, not after.</p>
+
+<h2 id="sizing-guide">Sizing the Container: 10, 20, or 30 Yard?</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/8583895/pexels-photo-8583895.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Granite countertop in a kitchen — one of the heaviest materials in a remodel"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Kitchen Type</th>
+        <th class="px-4 py-3 text-left font-semibold">What Is Coming Out</th>
+        <th class="px-4 py-3 text-left font-semibold">Suggested Size</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="bg-white">
+        <td class="px-4 py-3">Cosmetic refresh only</td>
+        <td class="px-4 py-3">Countertop swap, hardware, paint</td>
+        <td class="px-4 py-3">10-yard or none</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Light gut, light materials</td>
+        <td class="px-4 py-3">Cabinets + laminate counter + vinyl floor</td>
+        <td class="px-4 py-3">10-yard</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Standard gut, mixed materials</td>
+        <td class="px-4 py-3">Cabinets + tile floor + standard counters + appliances</td>
+        <td class="px-4 py-3">10–15-yard</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Heavy gut: stone counter + tile</td>
+        <td class="px-4 py-3">Granite/quartz + tile + cement board + appliances + packaging</td>
+        <td class="px-4 py-3">15–20-yard; confirm weight</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Full gut with plaster walls</td>
+        <td class="px-4 py-3">Above + plaster from older home</td>
+        <td class="px-4 py-3">20-yard; confirm weight allowance</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Multi-room or structural changes</td>
+        <td class="px-4 py-3">Kitchen + adjacent areas, wall removal</td>
+        <td class="px-4 py-3">20–30-yard</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>The 30-yard is usually more than a single kitchen needs. It makes sense when structural work is involved — moving walls, opening up to an adjacent dining room, or when the kitchen renovation is part of a larger multi-room project. For a standalone kitchen gut, even a heavy one, the 20-yard is typically the ceiling. If you are undecided between a 15 and 20-yard, the 20 gives you the margin on weight that matters more than the extra volume.</p>
+
+<p>For a full breakdown of container sizes and which projects match each, the <a href="/resources/how-to-choose-the-right-dumpster-size">roll-off dumpster size guide</a> covers the complete range.</p>
+
+<p>Compared to a <a href="/resources/bathroom-remodel-dumpster-rental">bathroom remodel</a>, a kitchen tends to produce more packaging volume and more countertop weight. The sizing logic is similar, but kitchens run larger in both categories.</p>
+
+<h2 id="appliances">Appliances: What Usually Goes In and What Might Not</h2>
+
+<p>Old appliances are a common part of kitchen remodel debris. Dishwashers, ranges, ovens, and over-the-range microwaves commonly go into standard roll-offs. That said, what is accepted varies by hauler, disposal facility, and municipality. Do not assume — ask your provider at the time of booking.</p>
+
+<p>Refrigerators are the appliance that most often requires separate handling. Many providers and disposal facilities require that refrigerant be removed from a refrigerator before it can go into a standard roll-off, because refrigerant release is regulated under the <a href="https://www.epa.gov/section608" target="_blank" rel="noopener noreferrer">EPA Section 608 rules</a>. Some providers will not accept a refrigerator in a standard container at all and will direct you to an appliance recycler or municipal drop-off. Ask before delivery.</p>
+
+<p>Weight matters for appliances too. A standard refrigerator commonly weighs 200–350 lbs. A freestanding range is often 130–250 lbs. A dishwasher is usually 60–100 lbs. None of these are alarming individually, but they add to the running weight total in a container that is already carrying granite and tile.</p>
+
+<p>The cleaner path for old appliances: ask your provider what they accept before anything is staged by the dumpster. Some will specify that freon must be removed; others have specific procedures. Knowing before the delivery avoids the scenario where the driver shows up, the refrigerator is sitting on the driveway, and neither of you is certain what to do with it. For a broader list of what goes in and what does not, the <a href="/resources/what-can-you-put-in-a-roll-off-dumpster">full prohibited items guide</a> covers the most common questions by material type.</p>
+
+<h2 id="placement">Driveways, Condos, HOAs, and Urban Kitchens</h2>
+
+<p>A driveway placement is the most common setup for a kitchen remodel container. It keeps the bin off the street, avoids permit requirements in most jurisdictions, and puts it close to the exit route through the house. A few practical notes:</p>
+
+<p><strong>Protect the driveway surface.</strong> Most roll-off trucks use rubber tracks or pads, but delivery on asphalt — especially in hot weather — can leave impressions. Some customers put down plywood sheets under the container legs as added protection. Ask your provider what their procedure is.</p>
+
+<p><strong>Condos and townhomes</strong> add complexity. Urban and attached properties often have shared driveways, loading zones, or underground parking that limits or eliminates standard dumpster delivery. Some buildings restrict container placement to specific areas or require building management approval. Check with your HOA or building manager before booking. It is easier to solve this before delivery than after the truck is blocking the entrance.</p>
+
+<p><strong>Street placement</strong> typically requires a permit. Requirements vary by city — some require a permit only for containers over a certain size; others require one for any container on a public street or right-of-way. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental">permit requirement guide</a> covers the full picture, and providers in your area can usually tell you what the local process involves.</p>
+
+<p><strong>HOA rules</strong> in planned communities sometimes restrict visible container placement, duration, or even the use of roll-offs in residential driveways. If you are in an HOA-managed neighborhood, check your CC&Rs before scheduling delivery.</p>
+
+<p>For kitchen projects specifically, the container is usually on site for 7–10 days, which is enough for most guts. If the demo and new-install phases overlap, ask about extended rental rates at booking.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>What size dumpster do I need for a kitchen remodel?</h3>
+<p>It depends on what is coming out. A light gut — laminate counters, vinyl floor, standard cabinets — often fits in a 10-yard. A heavier gut with granite or quartz countertops and tile over cement board may need a 15 or 20-yard, primarily because of weight, not volume. Describe the specific materials to your provider and ask about the weight allowance before booking.</p>
+
+<h3>How heavy is a granite or quartz countertop?</h3>
+<p>Granite commonly runs 18–20 lbs per square foot; quartz is often 20–25 lbs per square foot. A 30-square-foot kitchen countertop can weigh 540–750 lbs. Combined with tile floor and cement board, a kitchen with stone counters can approach or exceed the weight limit of a 10-yard container well before the bin looks full. If your kitchen has stone counters, factor weight — not just volume — into the size decision.</p>
+
+<h3>Can I put old appliances in a kitchen remodel dumpster?</h3>
+<p>Often yes, but it depends on the hauler and disposal facility. Ranges, dishwashers, and microwaves are commonly accepted in standard roll-offs. Refrigerators may require separate handling because of refrigerant regulations — many providers ask that freon be removed before the unit goes in the container. Ask your provider specifically about appliances when you book, and mention the refrigerator if one is included.</p>
+
+<h3>How much does a kitchen remodel dumpster rental cost?</h3>
+<p>A 10-yard container commonly runs $250–$450 per week. A 20-yard is often in the $350–$650 range. The final cost depends on your location, the weight of what goes in, and the rental period. Always ask for a quote that includes the weight allowance and the overage fee — not just the base rental rate. For a full breakdown of what moves the price, the <a href="/resources/what-does-a-dumpster-rental-cost">dumpster rental cost guide</a> covers all the variables.</p>
+
+<h3>Do I need a permit for a kitchen remodel dumpster?</h3>
+<p>Not usually for driveway placement on private property. If the container goes on a public street or right-of-way, most cities require a permit from the public works or engineering department. Requirements vary by municipality, so check with your provider or local city hall before scheduling street placement. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental">permit guide</a> covers what to expect by location type.</p>
+
+<h3>Can I mix kitchen debris with debris from other rooms?</h3>
+<p>Yes. Mixed renovation debris — from a kitchen gut and adjacent rooms being updated at the same time — is accepted in standard roll-offs. The weight limits apply to the total load, so if you are also removing tile or stone from a bathroom or entry, factor that additional weight into the size decision. For a project that involves multiple rooms and structural changes, a 20 or 30-yard may be appropriate.</p>
+
+<h3>What cannot go in a kitchen remodel dumpster?</h3>
+<p>Hazardous materials are not accepted in standard roll-offs: liquid paint and solvents, chemicals, propane tanks, and appliances containing refrigerant (usually refrigerators and window AC units, depending on the hauler). Pre-1980 kitchen flooring — particularly vinyl tiles and sheet vinyl — may contain asbestos. Test before demoing any flooring from that era. The <a href="/resources/what-can-you-put-in-a-roll-off-dumpster">full prohibited items guide</a> covers what commonly does and does not go in.</p>
+
+<h3>When do I need a second dumpster for a kitchen remodel?</h3>
+<p>Most single-kitchen gut jobs fit in one container. A second pull is most common when the project expanded mid-renovation — an adjacent wall came down, the project grew to include adjacent rooms, or the original sizing did not account for packaging volume from new materials. If the project is large from the start, booking a 20-yard rather than a 10-yard is usually cheaper than paying for a second haul.</p>
+
+<p>If you are reading this after booking a 10-yard for a full kitchen gut with granite countertops and a tile floor, I would suggest calling your rental company before they deliver. Second hauls are priced by regret, not by cubic yard.</p>
+`,
+    faq: [
+      {
+        question: 'What size dumpster do I need for a kitchen remodel?',
+        answer:
+          'It depends on what is coming out. A light gut — laminate counters, vinyl floor, standard cabinets — often fits in a 10-yard. A heavier gut with granite or quartz countertops and tile over cement board may need a 15 or 20-yard, primarily because of weight rather than volume. Describe your specific materials to the provider and ask about the weight allowance before booking.',
+      },
+      {
+        question: 'How heavy is a granite or quartz countertop?',
+        answer:
+          'Granite commonly runs 18–20 lbs per square foot; quartz is often 20–25 lbs per square foot. A 30-square-foot kitchen slab can weigh 540–750 lbs. Combined with tile floor and cement board, a kitchen with stone counters can approach the weight limit of a 10-yard before the bin looks full. Size for weight, not volume, when stone is in the mix.',
+      },
+      {
+        question: 'Can I put old appliances in a kitchen remodel dumpster?',
+        answer:
+          'Often yes, but it depends on the hauler and disposal facility. Ranges, dishwashers, and microwaves are commonly accepted in standard roll-offs. Refrigerators may require separate handling because of refrigerant regulations — many providers ask that freon be removed before the unit goes in. Ask your provider specifically about appliances when you book.',
+      },
+      {
+        question: 'How much does a kitchen remodel dumpster rental cost?',
+        answer:
+          'A 10-yard container commonly runs $250–$450 per week. A 20-yard is often in the $350–$650 range. The final cost depends on your location, the weight of what goes in, and the rental period. Always ask for a quote that includes the weight allowance and overage fee — not just the base rental rate.',
+      },
+      {
+        question: 'Do I need a permit for a kitchen remodel dumpster?',
+        answer:
+          'Not usually for driveway placement on private property. If the container goes on a public street or right-of-way, most cities require a permit. Requirements vary by municipality — check with your provider or local city hall before scheduling street placement.',
+      },
+      {
+        question: 'Can I mix kitchen debris with debris from other rooms?',
+        answer:
+          'Yes. Mixed renovation debris from a kitchen gut and other rooms being updated simultaneously is accepted in standard roll-offs. Weight limits apply to the total load, so if you are also removing tile or stone from a bathroom or entry, factor that additional weight into the size decision.',
+      },
+      {
+        question: 'What cannot go in a kitchen remodel dumpster?',
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, and appliances containing refrigerant. Pre-1980 kitchen flooring — particularly vinyl tiles and sheet vinyl — may contain asbestos; test before demoing. Accepted materials and restrictions vary by hauler and municipality, so confirm with your provider.',
+      },
+      {
+        question: 'When do I need a second dumpster for a kitchen remodel?',
+        answer:
+          'Most single-kitchen guts fit in one container. A second pull is most common when the project expanded mid-renovation — an adjacent wall came down, the scope grew to include other rooms, or the original size did not account for packaging from new materials. Booking a 20-yard rather than a 10-yard is usually cheaper than paying for a second haul.',
+      },
+    ],
+    toc: [
+      { id: 'refresh-vs-gut', title: 'Whether the Job Even Needs a Bin' },
+      { id: 'what-comes-out', title: 'What a Kitchen Gut Actually Produces' },
+      { id: 'weight-problem', title: 'The Weight Math: Stone, Tile, and Cement Board' },
+      { id: 'sizing-guide', title: 'Sizing the Container: 10, 20, or 30 Yard?' },
+      { id: 'appliances', title: 'Appliances: What Usually Goes In and What Might Not' },
+      { id: 'placement', title: 'Driveways, Condos, HOAs, and Urban Kitchens' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
 ]

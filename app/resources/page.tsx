@@ -188,6 +188,20 @@ const resourceCards = [
       'A 3-bedroom house lived in for forty years typically needs one 20-yard container — sometimes two. Here is what household furniture weighs, what the dumpster cannot take, and how to plan around a probate deadline.',
     href: '/resources/estate-cleanout-dumpster-rental',
   },
+  {
+    badge: 'Landscaping',
+    title: 'Yard Waste Dumpster Rental: What You Can Toss and What to Ask First',
+    excerpt:
+      'Clean green waste and mixed debris get treated differently by haulers. What goes in, what does not, and the six questions to ask before you book a roll-off for yard cleanup.',
+    href: '/resources/yard-waste-dumpster-rental',
+  },
+  {
+    badge: 'Home Renovation',
+    title: 'Kitchen Remodel Dumpster Rental: Cabinets, Counters, Flooring, and Debris',
+    excerpt:
+      'A kitchen gut is a mixed-load job — light cabinets and heavy stone in the same bin. Here is how to size the container, what to ask about appliances, and why weight matters more than volume.',
+    href: '/resources/kitchen-remodel-dumpster-rental',
+  },
 ]
 
 export default function ResourcesPage() {
