@@ -41,6 +41,7 @@ export interface CityLocation {
   neighborhoods: string[]
   nearbyCities: string[]
   faq: FaqItem[]
+  heroImage?: { src: string; alt: string }
   latitude?: number
   longitude?: number
 }
@@ -264,6 +265,10 @@ export const cityLocations: CityLocation[] = [
           'Delivery availability depends on the provider and current demand. Same-week delivery is often possible, and some providers may offer next-day options depending on availability. For planned projects, booking a few days in advance gives you more flexibility on delivery timing.',
       },
     ],
+    heroImage: {
+      src: '/RDF-Images/roll-off-dumpster-rentals-denver-co.png',
+      alt: 'Roll-off dumpster rental at a Denver construction site',
+    },
     latitude: 39.7392,
     longitude: -104.9903,
   },
@@ -9950,5 +9955,1305 @@ export const cityLocations: CityLocation[] = [
     ],
     latitude: 31.5493,
     longitude: -97.1467,
+  },
+  // ─── AURORA ───────────────────────────────────────────────────
+  {
+    slug: 'aurora-co-dumpster-rental',
+    cityName: 'Aurora',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Aurora Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Aurora dumpster rental for home cleanouts, roofing jobs, kitchen remodels, and construction debris. Local container sizes and pricing for the Aurora, CO area.',
+    primaryKeyword: 'aurora dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental aurora co',
+      'aurora construction dumpster rental',
+      'roll off dumpster aurora',
+      'roll off dumpster aurora co',
+      'rolloff dumpsters aurora',
+      'roll offs aurora co',
+      '10 yard dumpster rental aurora',
+      '20 yard dumpster rental aurora',
+      '30 yard dumpster rental aurora',
+      'roofing dumpster aurora',
+      'residential dumpster rental aurora',
+      'estate cleanout dumpster aurora',
+    ],
+    heroH1: 'Dumpster Rental in Aurora, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, roofing debris, kitchen remodels, and construction jobs in Aurora and the surrounding Denver metro.',
+    introParagraphs: [
+      "Aurora's older neighborhoods tell you a lot about what drives dumpster demand here. Hoffman Heights, Fletcher, and Aurora Hills carry substantial 1950s and 1960s housing stock — ranch homes and split-levels well into their second or third wave of renovation. Original kitchens, tile bathrooms, and long-untouched basements are common. That kind of debris volume makes a roll-off container the obvious choice over a trailer or a haul-it-yourself approach.",
+      "Buckley Space Force Base sits in eastern Aurora, and the turnover it drives is the most city-specific demand factor here. Military families rotate every two to three years. Landlords near the base deal with regular cleanouts — furniture left behind, full interior refreshes, and accumulated junk from short tenancies. Hail is the other constant. Aurora sits in Colorado's Front Range hail corridor, and roofing tear-offs after major storms are a reliable part of the local demand cycle.",
+      'Aurora covers 154 square miles — larger than Denver proper by area. Providers serving the city typically work from depots spread across the metro, so delivery windows and available container sizes can vary depending on whether your address is in northeast Aurora near Buckley, central Aurora along the I-225 corridor, or southeast Aurora near Southlands. Rolloff Dumpster Finder helps compare options by your actual delivery address, not just the city name.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, deck removal',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, estate cleanouts, mixed construction debris',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$580–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Clearing furniture, junk, and accumulated belongings from Aurora's older ranch homes and split-levels. Hoffman Heights and Fletcher properties that have not been cleared in decades often need 20 or 30-yard containers to manage what comes out.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Aurora sits in Colorado's Front Range hail corridor, and roofing jobs are a consistent part of local dumpster demand. A 20-yard container handles most residential tear-offs, but shingles hit weight limits fast. Confirm the weight allowance before the first bundle goes in.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "New development in southeast Aurora — High Point, Murphy Creek, and the Southlands area — generates steady construction container demand. Framing waste, drywall, and packaging material add up fast on active builds.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Aurora's 1960s housing stock means full gut remodels are routine. Original tile bathrooms and dated kitchens in Kingsborough, Aurora Hills, and Fletcher neighborhoods produce the kind of mixed debris — cabinets, tile, cement board, old fixtures — where a 10 or 15-yard container earns its keep.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Most Aurora single-family homes have attached garages, and many have unfinished basements that double as long-term storage. A single two-car garage cleanout usually fits in a 10-yard; add the basement and size up to a 15 or 20-yard.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Older west and central Aurora neighborhoods have a long-established population. Estate cleanouts here regularly involve homes that haven't been fully cleared in 20 or 30 years — a 20 or 30-yard container, and sometimes a second pull.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Turf removals, xeriscape conversions, and landscaping overhauls are common in Aurora as water costs across the metro continue to climb. A 10 or 15-yard handles most residential yard debris jobs.',
+      },
+      {
+        number: '08',
+        name: 'Rental Property Cleanouts',
+        description:
+          'The military turnover cycle near Buckley Space Force Base keeps landlords busy. Rental property cleanouts in east Aurora — furniture left behind, accumulated junk, and end-of-lease debris — are a regular use case for 10 and 15-yard containers.',
+      },
+      {
+        number: '09',
+        name: 'HOA & Common Area Cleanouts',
+        description:
+          "Aurora has a high concentration of master-planned HOA communities, especially in the southeast. Annual common area cleanouts, fence line clearing, and community improvement projects regularly need a shared roll-off container.",
+      },
+      {
+        number: '10',
+        name: 'Commercial Renovation',
+        description:
+          'The Aurora Medical Center district and the I-225 commercial corridor see ongoing buildouts and tenant improvements. Commercial dumpster jobs may require specific permits or placement coordination with building management.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Aurora depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      "Private driveway placement is the most common setup in Aurora's suburban neighborhoods. Most driveways have adequate length and clearance for delivery. No permit is required for placement on private property in most cases.",
+      "HOA communities are common throughout Aurora — particularly in master-planned developments in the southeast. Check your HOA rules before scheduling delivery, as some associations restrict container placement, duration, or visibility from the street.",
+      'Street or right-of-way placement requires a permit from the City of Aurora Public Works. Contact Aurora Public Works or ask your rental provider for help with the permit process before placing a container on a public street.',
+      "Avoid blocking sidewalks, fire hydrants, ADA curb ramps, or active traffic lanes regardless of where the container sits. Aurora enforces these rules, and the driver won't place a container in a position that creates a safety hazard.",
+      'Larger lot sizes in Aurora generally make placement easier than in urban Denver. That said, some older central Aurora neighborhoods have narrower driveways and tighter approaches. Measure clearance before scheduling delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Hoffman Heights',
+      'Fletcher',
+      'Aurora Hills',
+      'Kingsborough',
+      'Tollgate Crossing',
+      'The Conservatory',
+      'Sable Chase',
+      'Piney Creek',
+      'Quincy Hill',
+      'Seven Hills',
+      'Murphy Creek',
+      'Saddle Rock',
+      'Tallyn\'s Reach',
+      'Southlands',
+      'High Point',
+      'Vista Heights',
+      'Meadowood',
+    ],
+    nearbyCities: [
+      'Denver',
+      'Centennial',
+      'Parker',
+      'Littleton',
+      'Englewood',
+      'Greenwood Village',
+      'Cherry Hills Village',
+      'Commerce City',
+      'Thornton',
+      'Lone Tree',
+      'Castle Rock',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Aurora?',
+        answer:
+          'A 10-yard container runs $280–$480 per week in the Aurora market. A 20-yard is typically $380–$650. The main variables are container size, what you put in it (heavy debris can trigger overage fees), and rental duration. Always ask for a quote that includes the weight allowance, not just the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for an Aurora home cleanout?',
+        answer:
+          "A 10-yard handles single-room or light cleanouts. Most Aurora home cleanouts — especially in older Hoffman Heights and Fletcher homes that have not been cleared in years — need a 20-yard. If you're clearing both a basement and a garage at the same time, budget for a 20 or 30-yard.",
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Aurora?',
+        answer:
+          "Yes, and Aurora sees a lot of roofing work after hail events. A 20-yard container handles most residential roofing tear-offs. Shingles are heavy — a full roof can produce 3 tons or more. Ask your provider about the weight allowance before the tear-off starts, not after the bin is full.",
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Aurora?',
+        answer:
+          'Heavy materials like concrete, brick, dirt, and stone need to go in a smaller container and should not be mixed with general debris. A 10-yard container loaded with concrete can exceed the weight limit before it looks half full. Some providers offer dedicated heavy-debris containers — ask about that option when booking.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Aurora?',
+        answer:
+          "Most providers serving Aurora can schedule delivery within one to three business days. Same-day delivery is available from some local operators if you call before noon. Aurora's geographic size means your specific address — northeast near Buckley, central, or southeast — may affect which providers can reach you fastest.",
+      },
+      {
+        question: 'Do you serve nearby cities like Centennial, Parker, and Englewood?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the Denver southeast metro, including Centennial, Parker, Littleton, Englewood, Greenwood Village, and Commerce City. Availability depends on which providers serve your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Aurora?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Most providers charge a daily rate after that — typically $5–$15 per day depending on the container size. If your project is running long, call your provider before the rental period ends. Extending is usually cheaper than a second pull.',
+      },
+      {
+        question: "What can't I put in an Aurora roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, chemicals, solvents, propane tanks, tires, and batteries. Appliances containing refrigerant — refrigerators, window AC units — may require separate handling depending on the provider. Ask before you put appliances in. Everything else that came out of a renovation or cleanout typically goes in.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in my Aurora driveway?',
+        answer:
+          'No permit is required for driveway placement on private property in Aurora. If the container needs to go on a public street, a right-of-way permit from Aurora Public Works is required. Your rental provider can help navigate that process. When in doubt, ask before the truck arrives.',
+      },
+      {
+        question: 'My neighborhood has an HOA — do I need approval before getting a dumpster?',
+        answer:
+          "Many Aurora master-planned communities have HOA rules about container placement, duration, and visibility from the street. Check your CC&Rs or contact your HOA management company before scheduling delivery. Some require written approval; others just ask that the container not sit more than a set number of days. Getting this confirmed in advance avoids the scenario where the bin gets flagged mid-project.",
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/roll-off-dumpster-rentals-aurora-co.png',
+      alt: 'Roll-off dumpster rentals in Aurora, Colorado',
+    },
+    latitude: 39.7294,
+    longitude: -104.8319,
+  },
+  // ─── LAKEWOOD ─────────────────────────────────────────────────
+  {
+    slug: 'lakewood-co-dumpster-rental',
+    cityName: 'Lakewood',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Lakewood Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Lakewood dumpster rental for home cleanouts, roofing tear-offs, remodels, and construction debris. Local container sizes and honest pricing for Lakewood, CO.',
+    primaryKeyword: 'lakewood dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental lakewood co',
+      'lakewood construction dumpster rental',
+      'roll off dumpster lakewood',
+      'roll off dumpster lakewood co',
+      'rolloff dumpsters lakewood',
+      'roll offs lakewood co',
+      '10 yard dumpster rental lakewood',
+      '20 yard dumpster rental lakewood',
+      '30 yard dumpster rental lakewood',
+      'roofing dumpster lakewood',
+      'residential dumpster rental lakewood',
+      'estate cleanout dumpster lakewood',
+    ],
+    heroH1: 'Dumpster Rental in Lakewood, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, roofing debris, kitchen remodels, and construction jobs in Lakewood and the surrounding Denver metro.',
+    introParagraphs: [
+      "Lakewood's housing stock reads like a post-war timeline. The Eiber, Cloverdale, and Alameda neighborhoods carry substantial 1950s and 1960s brick ranch homes — properties that are hitting the age where the kitchen, bathroom, and roof all need attention at the same time. Belmar, built on the former Villa Italia mall site, adds a newer layer of density with townhomes and mixed-use units that generate a different kind of debris: renovation waste from properties that changed hands after a decade of hard use.",
+      'The hail corridor that runs along the Front Range hits Lakewood regularly, and any significant storm triggers a wave of roofing replacements across the western suburbs. A 20-yard container is the standard setup for a residential tear-off. Lakewood has also seen steady in-migration from out-of-state buyers purchasing 1960s ranch homes for the lot size and proximity to Denver, then gutting the interiors to current standards. That kind of renovation usually starts with a dumpster in the driveway and ends with a second pull.',
+      'Lakewood sits between Denver to the east and Golden and the Jefferson County foothills to the west. Providers working from Denver depots cover the eastern side of the city well; those serving Golden and the foothills handle the western end. Rolloff Dumpster Finder compares available containers by your specific Lakewood address rather than the city name — which matters when your delivery window depends on which side of Wadsworth you are on.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, deck removal',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, estate cleanouts, mixed construction debris',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$580–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Clearing decades of accumulated belongings from Lakewood's 1950s and 1960s ranch homes. Eiber and Cloverdale properties that haven't been fully cleared in 20 or 30 years often need a 20-yard container, and occasionally a second pull for the garage.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Lakewood sees regular hail activity along the Front Range corridor, and roofing replacements follow every significant storm. A 20-yard handles most residential tear-offs, but shingles add weight fast. Ask about the weight allowance before the first bundle goes in.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Original 1960s kitchens and tile bathrooms in Lakewood ranch homes are routine gut jobs. Cabinets, cement board, tile, and old fixtures add weight quickly. A 10 or 15-yard container fits most single-room remodels; go to a 20-yard if you're doing both at once.",
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'Active infill development near the W Line light rail stations and ongoing renovation in the Belmar area generate steady construction container demand. Framing waste, drywall, and packaging from new cabinet orders all pile up faster than expected.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Many Lakewood ranch homes have single-car detached or attached garages and full unfinished basements used as long-term storage. A 10-yard handles a single garage; a 15 or 20-yard if you're clearing both the garage and basement in one shot.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Long-established neighborhoods in western Lakewood — particularly around Bear Creek and Green Gables — carry an older population and generate regular estate cleanout demand. Homes lived in for 40 or 50 years often need a 20 or 30-yard container to clear.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Turf removals and xeriscape conversions are common in Lakewood as Jefferson County water costs continue to rise. A 10 or 15-yard handles most residential landscaping debris. Sod is heavier than it looks — confirm the weight limit if removing more than a few hundred square feet.',
+      },
+      {
+        number: '08',
+        name: 'Deck & Fence Removal',
+        description:
+          'Lakewood ranch homes with rear decks and wood privacy fences often have structures from the 1980s and 1990s reaching the end of their service life. Deck and fence debris is bulky but light. A 10-yard fits most single-deck removals.',
+      },
+      {
+        number: '09',
+        name: 'Rental Property Cleanouts',
+        description:
+          'Properties near the Belmar area and W Line light rail stations see regular tenant turnover. A 10-yard container handles most unit cleanouts. Larger multi-unit properties or those with significant left-behind furniture may need a 15 or 20-yard.',
+      },
+      {
+        number: '10',
+        name: 'Commercial Renovation',
+        description:
+          "Lakewood's Wadsworth Boulevard and 6th Avenue corridors have active commercial redevelopment. Tenant improvement projects, retail buildouts, and office conversions regularly need 30 or 40-yard containers for mixed debris hauls. Commercial permits may differ from residential.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Lakewood depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Private driveway placement is the most common setup in Lakewood. Most properties have adequate clearance for delivery. No permit is required for containers on private property in most cases.',
+      "Many Lakewood ranch homes have single-car or narrow concrete driveways. Measure the width and length before scheduling delivery — the truck needs room to approach and set the container. A tight driveway is better caught before the driver arrives.",
+      'Alley access is available in some older sections of Eiber and Cloverdale. If your property backs to an alley, that can be a simpler option than a narrow front driveway — confirm the alley width and overhead clearance with your provider.',
+      'Street or right-of-way placement requires a permit from the City of Lakewood Engineering Division. Ask your rental provider about the process before scheduling a street placement.',
+      'Belmar townhomes and mixed-use properties have shared parking areas and access restrictions. Contact building management before booking a delivery to confirm where the container can go and for how long.',
+      'HOA communities in western Lakewood — particularly planned developments near Bear Creek — may have rules about container visibility or duration. Check your CC&Rs before delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Eiber',
+      'Cloverdale',
+      'Belmar',
+      'Alameda',
+      'Green Gables',
+      'Bear Creek',
+      'Kendrick Lake',
+      'Fox Hills',
+      'Westgate',
+      'Lakewood Pines',
+      'Union Park',
+      'Pheasant Creek',
+      'Woodmar',
+      'Sheridan Green',
+      'Crown Point',
+    ],
+    nearbyCities: [
+      'Denver',
+      'Arvada',
+      'Wheat Ridge',
+      'Englewood',
+      'Littleton',
+      'Golden',
+      'Edgewater',
+      'Morrison',
+      'Westminster',
+      'Applewood',
+      'Ken Caryl',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Lakewood?',
+        answer:
+          'A 10-yard container typically runs $280–$480 per week in the Lakewood market. A 20-yard is usually $380–$650. The final cost depends on container size, what you put in it, and how long you keep it. Always ask for a quote that includes the weight allowance — not just the base rental rate.',
+      },
+      {
+        question: 'What size dumpster do I need for a Lakewood home cleanout?',
+        answer:
+          "A 10-yard handles light cleanouts and single-room jobs. Most full home cleanouts in Lakewood's older ranch homes need a 20-yard, especially if the property hasn't been cleared in years. Add a basement or a two-car garage to the project and you may be looking at a 30-yard or a second pull.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Lakewood?',
+        answer:
+          'Yes. Lakewood sees regular hail damage and roofing replacements along the Front Range corridor. A 20-yard container handles most residential roof tear-offs. Shingles are heavy — a full residential roof can easily produce 3 tons or more. Confirm the weight allowance with your provider before the tear-off starts.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Lakewood?',
+        answer:
+          'Heavy materials like concrete, brick, and dirt need to go in a smaller container and should not be mixed with general renovation debris. A 10-yard container fully loaded with concrete can exceed the weight limit before it looks half full. Ask your provider about dedicated heavy-debris containers when booking.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Lakewood?',
+        answer:
+          'Most providers serving Lakewood can deliver within one to three business days. Same-day delivery is available from some local operators if you call early. Your location within Lakewood — east side near Wadsworth, or west toward Golden — can affect which providers reach you fastest.',
+      },
+      {
+        question: 'Do you serve nearby cities like Golden, Arvada, and Englewood?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the west Denver metro, including Golden, Arvada, Wheat Ridge, Englewood, Littleton, Edgewater, and Morrison. Availability depends on which providers serve your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Lakewood?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Most providers charge a daily extension rate — typically $5–$15 per day depending on the container size. If the project is running long, call before the rental period ends. Extending is almost always cheaper than paying for a second pull.',
+      },
+      {
+        question: "What can't I put in a Lakewood roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, and batteries. Refrigerators and window AC units may require separate handling due to refrigerant regulations — ask your provider before placing appliances in the bin. Standard renovation debris, furniture, and construction waste are generally fine.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in my Lakewood driveway?',
+        answer:
+          'No permit is needed for placement on private property in Lakewood. If the container needs to go on a public street or right-of-way, a permit from the City of Lakewood Engineering Division is required. Your rental provider can help with the permit process — ask when you book.',
+      },
+      {
+        question: 'I live in a Belmar townhome — can I get a dumpster delivered?',
+        answer:
+          "Possibly, but Belmar's shared parking and managed access areas add a step. Contact building management before booking to confirm where a container can be placed and for how long. Some buildings have designated areas for deliveries; others require written approval. Getting this sorted before the truck arrives saves a lot of trouble.",
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/roll-off-dumpster-rentals-lakewood-co.png',
+      alt: 'Roll-off dumpster rental at a residential property in Lakewood, Colorado',
+    },
+    latitude: 39.7047,
+    longitude: -105.0814,
+  },
+  // ─── ARVADA ───────────────────────────────────────────────────
+  {
+    slug: 'arvada-co-dumpster-rental',
+    cityName: 'Arvada',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Arvada Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Arvada dumpster rental for home cleanouts, roofing jobs, remodels, and construction debris from Olde Town to Candelas. Local pricing and sizing for Arvada, CO.',
+    primaryKeyword: 'arvada dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental arvada co',
+      'arvada construction dumpster rental',
+      'roll off dumpster arvada',
+      'roll off dumpster arvada co',
+      'rolloff dumpsters arvada',
+      'roll offs arvada co',
+      '10 yard dumpster rental arvada',
+      '20 yard dumpster rental arvada',
+      '30 yard dumpster rental arvada',
+      'roofing dumpster arvada',
+      'residential dumpster rental arvada',
+      'estate cleanout dumpster arvada',
+    ],
+    heroH1: 'Dumpster Rental in Arvada, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, roofing debris, kitchen remodels, and construction jobs in Arvada and the surrounding northwest Denver metro.',
+    introParagraphs: [
+      "Arvada covers more ground than most people expect for a Denver suburb — and the housing it contains spans nearly a century of development. Older homes in and around Olde Town Arvada date to the early 1900s. Central Arvada runs 1950s through 1980s ranch and split-level stock in neighborhoods like Lake Arbor and Ralston Valley. Out in Candelas and Whisper Creek, you find tract homes from the 2010s hitting their first round of renovation. Each tier produces dumpster demand at a different stage of the housing life cycle.",
+      "Olde Town Arvada's revival along Grandview Avenue has pulled renovation investment into the surrounding residential streets. An early 1900s house in Arvada getting its first real update in 50 years produces substantial debris — plaster walls, knob-and-tube framing material, original tile, and kitchens nobody touched since the Eisenhower administration. The G Line light rail connection to Union Station, which opened in 2019, accelerated some of that activity by making the neighborhood more accessible to buyers who renovate rather than accept original condition.",
+      'Arvada runs from neighborhoods near Wadsworth in the east to Candelas near the Rocky Flats area in the northwest — a significant geographic spread that affects which providers can reach specific addresses quickly. Rolloff Dumpster Finder compares available containers by your actual Arvada delivery address rather than the city name, which matters when your project is on the west end and the closest depot is in Golden, not Denver.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, deck removal',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large home renovations, estate cleanouts, mixed construction debris',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition jobs',
+        range: '$580–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Clearing accumulated belongings from Arvada's wide range of housing stock — from early 1900s bungalows near Olde Town to 1970s ranch homes in Lake Arbor and Ralston Valley. Older properties that have not been cleared in decades often need a 20 or 30-yard container.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Arvada sits in the Front Range hail corridor, and roofing replacements following major storms are a regular part of dumpster demand. A 20-yard handles most residential tear-offs. Confirm the weight allowance before the job starts — shingles are heavier than they look.',
+      },
+      {
+        number: '03',
+        name: 'Historic Renovations',
+        description:
+          "Homes in and around Olde Town Arvada often carry original plaster walls, lath framing, tile, and fixtures from the early to mid-1900s. Gut renovations of these properties produce debris that is denser and heavier than standard drywall construction. A 15 or 20-yard container handles most single-floor renovation jobs.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Central Arvada's 1960s and 1970s ranch homes have original kitchens and tile bathrooms in steady demand for updating. Cabinets, cement board, tile, and old countertops add up fast. A 10 or 15-yard container fits most single-room jobs.",
+      },
+      {
+        number: '05',
+        name: 'Construction Debris',
+        description:
+          'Active new construction in Candelas and Whisper Creek generates steady construction container demand. Framing waste, drywall scraps, and packaging from appliance deliveries accumulate faster than expected on a new build.',
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Most Arvada single-family homes have attached garages and either finished or unfinished basements. A 10-yard handles a single car garage cleanout; step up to a 15 or 20-yard if you're clearing the garage and basement at the same time.",
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          "Established neighborhoods near Olde Town and central Arvada have a long-settled population. Estate cleanouts from homes lived in for 40 or 50 years regularly need a 20 or 30-yard container — and sometimes a second pull if the basement has been in use the whole time.",
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Turf removals and xeriscape conversions are common across Arvada as water costs rise across Jefferson County. A 10 or 15-yard container handles most residential landscaping debris. Sod and river rock are heavy — confirm the weight limit before booking.',
+      },
+      {
+        number: '09',
+        name: 'Deck & Fence Removal',
+        description:
+          "Arvada's 1970s and 1980s homes often have rear decks and wood privacy fences from the same era. A 10-yard container fits most single-deck removals. Add the fence material and size up to a 15-yard.",
+      },
+      {
+        number: '10',
+        name: 'Rental Property Cleanouts',
+        description:
+          'Properties near the Olde Town Arvada light rail station see regular tenant turnover following the G Line opening. A 10-yard handles most unit cleanouts. Larger multi-unit properties or furnished rentals typically need a 15 or 20-yard.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Arvada depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Private driveway placement is the most common setup in Arvada. No permit is required for containers on private property. Most Arvada driveways have adequate clearance for delivery, particularly in newer developments.',
+      "Olde Town Arvada has narrow historic streets. If your project is near the historic district, street placement requires a permit from the City of Arvada. Contact Arvada Public Works or Engineering before scheduling a street placement.",
+      "Candelas and other newer master-planned communities have strict HOA rules governing container placement, duration, and visibility. Check with your HOA management before booking. Candelas in particular is an active HOA with detailed community standards.",
+      "Lake Arbor and other established HOA communities in central Arvada may also have placement restrictions. Confirm with your HOA before delivery if you're in a managed community.",
+      'Older central Arvada driveways can be narrower than those in newer developments. Measure clearance before scheduling — the delivery truck needs adequate room to approach and set the container.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Olde Town Arvada',
+      'Lake Arbor',
+      'Candelas',
+      'Whisper Creek',
+      'Ralston Valley',
+      'Westwoods',
+      'Indian Tree',
+      'Sunridge',
+      'Alta Vista',
+      'Oberon',
+      'Pomona Park',
+      'Mesa Meadows',
+      'Village East',
+      'Stoneridge',
+      'Panorama Park',
+    ],
+    nearbyCities: [
+      'Denver',
+      'Westminster',
+      'Wheat Ridge',
+      'Lakewood',
+      'Golden',
+      'Broomfield',
+      'Thornton',
+      'Northglenn',
+      'Commerce City',
+      'Edgewater',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Arvada?',
+        answer:
+          'A 10-yard container runs $280–$480 per week in the Arvada market. A 20-yard is typically $380–$650. The final cost depends on container size, the weight of what goes in, and how long you keep it. Get a quote that includes the weight allowance — not just the base rental rate.',
+      },
+      {
+        question: 'What size dumpster do I need for an Arvada home cleanout?',
+        answer:
+          "Most Arvada home cleanouts need a 20-yard container. Older homes near Olde Town that haven't been cleared in decades often need a 30-yard or a second pull. A 10-yard is sufficient for light cleanouts or single-room jobs like a garage or small bedroom.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Arvada?',
+        answer:
+          'Yes. Arvada sees regular hail damage and roofing replacements are common. A 20-yard handles most residential roofing tear-offs. Shingles are dense — a full roof can easily produce 3 tons or more. Always ask about the weight allowance before the tear-off starts.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Arvada?',
+        answer:
+          'Heavy materials need to go in a smaller container and should not be mixed with general renovation debris. A 10-yard filled with concrete can exceed the weight limit well before it looks full. Some providers offer dedicated heavy-debris containers — ask when you book.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Arvada?',
+        answer:
+          "Most providers serving Arvada deliver within one to three business days. Same-day delivery is available from some local operators if you call before noon. Your location within Arvada affects delivery windows — the Candelas area near the foothills may have fewer provider options than east Arvada near Wadsworth.",
+      },
+      {
+        question: 'Do you serve Westminster, Wheat Ridge, and Golden?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the northwest Denver metro, including Westminster, Wheat Ridge, Lakewood, Golden, Broomfield, Thornton, and Northglenn. Availability depends on which providers serve your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Arvada?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call your provider before the rental period ends to extend. It is almost always cheaper than ordering a second haul.',
+      },
+      {
+        question: "What can't I put in an Arvada roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, and batteries. Refrigerators and appliances containing refrigerant may require separate handling — confirm with your provider before placing them in the bin. Standard renovation and cleanout debris is generally accepted.',
+      },
+      {
+        question: 'Do I need a permit to put a dumpster in my Arvada driveway?',
+        answer:
+          'No permit is needed for private driveway placement. If the container needs to go on a public street, a right-of-way permit from the City of Arvada is required. This is more likely to come up if your project is near Olde Town, where driveways can be limited.',
+      },
+      {
+        question: "I'm renovating a home near Olde Town — is there anything special to know about placement?",
+        answer:
+          "Yes. Olde Town Arvada has narrower streets than most of the city, and street placement requires a right-of-way permit. Driveway placement avoids the permit requirement — but older homes near the historic district sometimes have short or narrow driveways. Measure before scheduling. Your provider can help work through the placement options.",
+      },
+    ],
+    latitude: 39.8028,
+    longitude: -105.0875,
+  },
+  // ─── WESTMINSTER ──────────────────────────────────────────────
+  {
+    slug: 'westminster-co-dumpster-rental',
+    cityName: 'Westminster',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Westminster CO Dumpster Rental | Roll-Off Sizes & Local Guide',
+    metaDescription:
+      'Westminster dumpster rental for home cleanouts, roofing jobs, and remodels across the northern Denver metro. Compare container sizes and local pricing.',
+    primaryKeyword: 'westminster dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Westminster CO',
+      'Westminster construction dumpster rental',
+      'roll off dumpster Westminster',
+      'roll off dumpster Westminster CO',
+      'rolloff dumpsters Westminster',
+      'roll offs Westminster CO',
+      '10 yard dumpster rental Westminster',
+      '20 yard dumpster rental Westminster',
+      '30 yard dumpster rental Westminster',
+    ],
+    heroH1: 'Dumpster Rental in Westminster, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, hail-season roofing jobs, kitchen and bath remodels, and construction debris across Westminster and the northern Denver metro.',
+    introParagraphs: [
+      "Westminster's housing stock is mostly from the 1970s through the 1990s — ranch homes, bi-levels, and split-levels throughout Countryside, Crestview, and the Sunset Ridge area. That era of construction is now hitting the age where full kitchen and bath gut jobs are routine. The original tile work, cabinets, and fixtures come out in volume, and the projects generate more debris than most people expect before the first roll-off lands in the driveway. Large suburban lots and standard driveways make container placement here more straightforward than in older urban neighborhoods.",
+      "Westminster sits in the northern Denver metro and sees its share of Front Range hail. The US-36 and I-25 corridor running through the city gets hit regularly, and roofing replacements after major hail events account for a significant slice of dumpster demand in the area. The Downtown Westminster redevelopment project — which converted the old Westminster Mall site into a walkable mixed-use district — generated years of commercial construction and debris hauling. Active development continues in the area, and it keeps construction-grade containers in regular circulation.",
+      'Rolloff Dumpster Finder helps Westminster homeowners and contractors find roll-off options across the northern Denver metro. Providers serving Westminster typically also cover Broomfield, Thornton, Northglenn, Arvada, and Wheat Ridge. Call before loading heavy debris like tile, stone, or concrete — weight limits are set by the hauler, not by how full the bin looks.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, garage cleanouts, minor roofing jobs, yard debris',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, deck removal, landscaping debris',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, full home cleanouts',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovations, estate cleanouts, mixed construction debris, commercial work',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial demolition, large multi-room projects',
+        range: '$580–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Westminster's 1970s and 1980s housing stock is reaching the age where homes change hands with decades of accumulated material. Full-home cleanouts in Countryside, Crestview, and Sunset Ridge often need a 20 or 30-yard container. Basements and attached garages add volume fast.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Hail damage is common along the US-36 and I-25 corridor through Westminster. A 20-yard container handles most residential shingle tear-offs. Shingles hit weight limits before a bin looks full — confirm the weight allowance before the first layer comes off the roof.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Original 1970s and 1980s kitchens in Westminster homes are a routine gut job — dated tile, laminate countertops, and old cabinets all go out together. A 10 or 15-yard container handles most single-room jobs; a 20-yard if both kitchen and bath come out at once.',
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'Active development near Downtown Westminster and along the US-36 corridor generates steady C&D container demand. Mixed debris from framing, drywall, insulation, and concrete works best in 20 and 30-yard containers. Confirm weight allowances on concrete-heavy loads.',
+      },
+      {
+        number: '05',
+        name: 'Basement Cleanouts',
+        description:
+          "Many Westminster ranch homes have full basements that accumulate decades of storage. An estate cleanout or pre-sale clearance on a 1970s ranch in Westminster's established neighborhoods can easily fill a 20-yard container before the main floor is touched.",
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          'Attached two-car garages are standard in most Westminster subdivisions, and they collect material for years. A 10-yard handles a light garage cleanout; a 20-yard is more realistic if the garage doubles as a shop or long-term storage area.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          "Westminster's established mid-century neighborhoods see regular estate clearances as properties transfer after long-term ownership. These jobs often need a 30-yard container and sometimes a second pull for homes with full basements and detached storage.",
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Xeriscape conversions are common across Westminster as water costs rise and Front Range drought conditions continue. Turf removal and landscaping overhauls generate more volume than the project looks like from the street. A 10 or 15-yard covers most residential landscaping jobs.',
+      },
+      {
+        number: '09',
+        name: 'Deck & Fence Removal',
+        description:
+          'Older decks and wood fences throughout Westminster subdivisions are reaching replacement age. A 10-yard container handles most residential deck removals. Pressure-treated lumber is accepted in most standard roll-offs — confirm with your provider if uncertain.',
+      },
+      {
+        number: '10',
+        name: 'Rental Property Cleanouts',
+        description:
+          "Westminster's rental market along the US-36 corridor and near Front Range Community College sees regular property cleanouts between tenants. A 10-yard typically handles an apartment unit; a 20-yard for a full house.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Westminster depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common setup in Westminster. Suburban driveways with standard lengths typically have adequate room for a roll-off container without blocking the street.',
+      'Street or right-of-way placement requires a permit from the City of Westminster. Contact Westminster Public Works before scheduling a street drop.',
+      'HOA restrictions are common in newer Westminster developments like Legacy Ridge, The Ranch, and Bradburn Village. Check your CC&Rs before booking — some associations limit placement duration or require containers to be screened from the street.',
+      'Most Westminster homes have attached two-car garages, which means the driveway approach can be shorter than it looks. Measure available length and check overhead clearance from eaves and utility lines before scheduling delivery.',
+      'Westminster sits at roughly 5,400 feet elevation. The city maintains roads well through winter, but clearing snow from the driveway surface before delivery improves access for the truck.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Countryside',
+      'Crestview',
+      'Sunset Ridge',
+      'The Ranch',
+      'Legacy Ridge',
+      'Bradburn Village',
+      'Hyland Hills',
+      'Westminster Hills',
+      'Ketner Lake',
+      'Arrowhead',
+      'Brittany Hills',
+      'Downtown Westminster',
+      'Huron',
+      'Countryside North',
+      'Sheridan Green',
+    ],
+    nearbyCities: [
+      'Broomfield',
+      'Thornton',
+      'Northglenn',
+      'Arvada',
+      'Wheat Ridge',
+      'Louisville',
+      'Superior',
+      'Lafayette',
+      'Denver',
+      'Federal Heights',
+      'Commerce City',
+      'Golden',
+      'Erie',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Westminster?',
+        answer:
+          'A 10-yard container in Westminster runs $280–$480 per week. A 20-yard is typically $380–$650. The final cost depends on container size, rental duration, and the weight of what goes in. Get a quote that includes the weight allowance — heavy debris like shingles, tile, and concrete can push the total well past the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for a Westminster home cleanout?',
+        answer:
+          "Most Westminster home cleanouts need a 20-yard container. Homes from the 1970s and 1980s in Countryside or Crestview that haven't been cleared in decades often need a 30-yard or a second pull once the basement is touched. A 10-yard works for lighter single-room or garage cleanouts.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Westminster?',
+        answer:
+          'Yes. Westminster sees regular hail damage along the US-36 and I-25 corridor. A 20-yard handles most residential shingle tear-offs. Shingles are heavier than most people expect — confirm the weight allowance before the crew starts removing material.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Westminster?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits long before the container looks full. A 10-yard filled with concrete often exceeds the weight cap with room to spare. Ask your provider about dedicated heavy-debris containers for jobs that are mostly concrete or dirt.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Westminster?',
+        answer:
+          'Most providers serving Westminster can deliver within one to three business days. Same-day delivery may be available from some operators. After a significant hail event, availability across the northern Denver metro tightens quickly — book as soon as you know the roofing job is scheduled.',
+      },
+      {
+        question: 'Do you serve Broomfield, Thornton, and Northglenn?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the northern Denver metro, including Broomfield, Thornton, Northglenn, Arvada, Wheat Ridge, and Federal Heights. Availability and pricing depend on which providers serve your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Westminster?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at a daily rate — usually $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+      },
+      {
+        question: "What can't I put in a Westminster roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard containers: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Ask your provider for the full restricted materials list before loading.',
+      },
+      {
+        question: 'Do I need a permit to put a dumpster in my Westminster driveway?',
+        answer:
+          'No permit is needed for driveway placement on private property. If the container needs to go on a public street, a right-of-way permit from the City of Westminster is required. Your rental provider can usually assist with the permit process.',
+      },
+      {
+        question: 'Are there HOA restrictions on dumpster rentals in Westminster?',
+        answer:
+          "Some Westminster HOAs restrict container placement. Communities like Legacy Ridge, The Ranch, and Bradburn Village have active associations with rules on duration and visibility. Check your CC&Rs or contact your HOA before scheduling delivery — it is better to know the restrictions before the driver arrives.",
+      },
+    ],
+    latitude: 39.8367,
+    longitude: -105.0372,
+  },
+  // ─── THORNTON ─────────────────────────────────────────────────
+  {
+    slug: 'thornton-co-dumpster-rental',
+    cityName: 'Thornton',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Thornton CO Dumpster Rental | Roll-Off Sizes & Local Guide',
+    metaDescription:
+      'Thornton dumpster rental for home cleanouts, roofing tear-offs, and remodels across the northern Denver metro. Compare container sizes and local pricing.',
+    primaryKeyword: 'thornton dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Thornton CO',
+      'Thornton construction dumpster rental',
+      'roll off dumpster Thornton',
+      'roll off dumpster Thornton CO',
+      'rolloff dumpsters Thornton',
+      'roll offs Thornton CO',
+      '10 yard dumpster rental Thornton',
+      '20 yard dumpster rental Thornton',
+      '30 yard dumpster rental Thornton',
+    ],
+    heroH1: 'Dumpster Rental in Thornton, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, hail-season roofing jobs, kitchen and bath remodels, and construction debris across Thornton and the northern Denver metro.',
+    introParagraphs: [
+      "Thornton's housing stock spans several decades of suburban growth. The older sections of the city — neighborhoods like Hunters Glen, Signal Creek, and Woodbridge — have 1970s and 1980s ranch homes and two-story houses that are now well past original finish life. Full kitchen gut jobs, bath overhauls, and carpet-to-hardwood conversions are routine work in these areas. North Thornton near the 136th and 144th Avenue corridors is newer, but most of the city has the kind of aging housing stock that generates steady renovation volume.",
+      "Thornton sits in Adams County, directly in the Front Range hail corridor. Major hail events hit the northern Denver suburbs regularly and drive large numbers of roofing replacements in short windows. The 2017 hail season produced one of the largest single-season roofing demand spikes the Front Range had seen in years, and Thornton and Adams County were at the center of it. Active residential construction in north Thornton — new subdivisions extending toward Brighton — keeps construction-grade containers in steady demand year-round.",
+      'Rolloff Dumpster Finder helps Thornton homeowners and contractors find roll-off options across the northern Denver metro. Providers serving Thornton typically also cover Northglenn, Westminster, Commerce City, Broomfield, and Brighton. Call before loading heavy material — concrete, brick, and roofing shingles hit weight limits fast. The weight allowance on the quote matters more than the size printed on the side of the container.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, garage cleanouts, minor roofing jobs, yard debris',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, deck removal, landscaping debris',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, full home cleanouts',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovations, estate cleanouts, mixed construction debris, commercial work',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial demolition, large multi-room projects',
+        range: '$580–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Thornton's 1970s and 1980s housing stock in Hunters Glen, Woodbridge, and Signal Creek is reaching the age where estate clearances and pre-sale cleanouts are common. Many of these homes have full basements and two-car garages that add significant volume. A 20-yard container handles most full-home cleanouts; a 30-yard if the basement has been used as primary storage for decades.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Adams County sees some of the most consistent hail activity in the Denver metro. A 20-yard container handles most residential shingle tear-offs. After a major hail event — 2017 being the recent benchmark — roofing container demand across Thornton and Northglenn spikes within days. Book early if a hail event has recently hit.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Original kitchens and bathrooms in Thornton's older subdivisions are well past their replacement window. Tile, laminate, dated fixtures, and builder-grade cabinets all come out in volume. A 10 or 15-yard container covers a single bathroom; a 20-yard if the kitchen is included.",
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'North Thornton is one of the more active residential construction zones in the Denver metro, with new subdivisions building out along 136th, 144th, and 152nd Avenue corridors. Mixed framing, drywall, concrete, and packaging waste from new builds works best in 20 and 30-yard containers.',
+      },
+      {
+        number: '05',
+        name: 'Basement Cleanouts',
+        description:
+          "Full basements are standard in most Thornton ranch homes built before the 1990s. An estate cleanout on a home that has been in one family for 30 years can fill a 20-yard from the basement alone. Size up if you haven't seen what's down there yet.",
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          'Attached two-car garages are the norm across Thornton subdivisions. A light cleanout typically fits in a 10-yard container. If the garage has been doubling as a workshop or overflow storage, a 15 or 20-yard is the more realistic call.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          "Long-term homeowners in Thornton's established 1970s and 1980s neighborhoods generate estate volume when properties transfer. Homes with finished basements, sheds, and detached storage regularly need a 30-yard container. A second pull is not unusual on homes that haven't been cleared in 20 or 30 years.",
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Rising water costs and drought conditions across Adams County are driving xeriscape conversions and turf removals throughout Thornton. A 10 or 15-yard handles most residential landscaping jobs. Sod is heavier than it looks — confirm the weight allowance if turf removal is the primary load.',
+      },
+      {
+        number: '09',
+        name: 'Deck & Fence Removal',
+        description:
+          'Older wood decks and privacy fences in established Thornton subdivisions are hitting replacement age. A 10-yard container handles most residential deck or fence removals. If the project includes a concrete footer or footings, ask about the weight allowance before loading.',
+      },
+      {
+        number: '10',
+        name: 'New Construction Debris',
+        description:
+          'Active builder activity in north Thornton keeps demand for new construction containers consistent. Smaller custom builds and spec homes in the 136th–152nd Avenue area use 20 and 30-yard containers for framing waste, drywall, roofing, and packaging.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Thornton depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common setup in Thornton. Attached two-car garage driveways in most subdivisions have adequate length for a roll-off container without extending onto the street.',
+      'Street or right-of-way placement requires a permit from the City of Thornton. Contact Thornton Public Works before scheduling a street drop.',
+      'HOA restrictions are present in many Thornton communities, particularly in newer developments in north Thornton. Check your CC&Rs before scheduling — some associations limit container duration or require approval.',
+      "North Thornton neighborhoods near 136th Avenue and beyond are newer construction with wider streets and larger lots. Older sections of Thornton closer to 84th Avenue have more compact driveways — measure before scheduling if the driveway is the placement plan.",
+      'The Hunters Glen area has lake-adjacent properties with some access constraints. If your home is on a cul-de-sac or private lane in that area, confirm truck clearance with your provider.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Hunters Glen',
+      'Signal Creek',
+      'Woodbridge',
+      'Eastlake',
+      'Northgate',
+      'Prairie View',
+      'Riverdale',
+      'Cottonwood Hollow',
+      'Lochwood',
+      'Fox Run',
+      'Deer Run',
+      'Thorncreek',
+      'Centennial Valley',
+      'Thornton Crossroads',
+      'Holly Hills',
+    ],
+    nearbyCities: [
+      'Northglenn',
+      'Westminster',
+      'Commerce City',
+      'Brighton',
+      'Denver',
+      'Broomfield',
+      'Federal Heights',
+      'Henderson',
+      'Dacono',
+      'Erie',
+      'Arvada',
+      'Longmont',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Thornton?',
+        answer:
+          'A 10-yard container in Thornton runs $280–$480 per week. A 20-yard is typically $380–$650. The final cost depends on container size, rental duration, and the weight of what goes in. Always ask for a quote that includes the weight allowance — roofing shingles and concrete push totals past the base rate fast.',
+      },
+      {
+        question: 'What size dumpster do I need for a Thornton home cleanout?',
+        answer:
+          "Most Thornton home cleanouts need a 20-yard container. Homes in Hunters Glen or Signal Creek with full basements that haven't been cleared in decades often need a 30-yard. A 10-yard works for lighter single-room or garage jobs.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Thornton?',
+        answer:
+          'Yes. Thornton and Adams County are in one of the more active hail zones on the Front Range. A 20-yard handles most residential shingle tear-offs. After a major hail event, container availability across the northern metro tightens quickly — book as soon as the roofing project is confirmed.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Thornton?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits long before the container looks full. Ask your provider about dedicated heavy-debris containers for loads that are mostly concrete or dirt. A 10-yard of concrete commonly exceeds the weight limit with room to spare.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Thornton?',
+        answer:
+          'Most providers serving Thornton can deliver within one to three business days. Same-day delivery is available from some local operators. After a significant hail event, availability tightens across the northern Denver metro — book early rather than late.',
+      },
+      {
+        question: 'Do you serve Northglenn, Westminster, and Commerce City?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the northern Denver metro, including Northglenn, Westminster, Commerce City, Brighton, Broomfield, and Federal Heights. Availability and pricing depend on which providers cover your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Thornton?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at a daily rate — usually $5–$15 per day depending on container size. Call before the rental period closes. Extending is almost always cheaper than a second haul.',
+      },
+      {
+        question: "What can't I put in a Thornton roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Appliances containing refrigerant — older refrigerators and air conditioners — may require separate handling. Ask your provider for the full restricted items list before loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in my Thornton driveway?',
+        answer:
+          'No permit is required for driveway placement on private property. If the container needs to go on a public street, a right-of-way permit from the City of Thornton is required. Your rental provider can often assist with the permit process.',
+      },
+      {
+        question: 'Are there HOA restrictions on dumpsters in Thornton?',
+        answer:
+          "Yes, some Thornton HOAs restrict container placement. Newer north Thornton developments are more likely to have active associations with rules on duration or placement location. Check your CC&Rs before booking — most restrictions are manageable if you know about them before the container arrives.",
+      },
+    ],
+    latitude: 39.8680,
+    longitude: -104.9719,
+  },
+  // ─── CENTENNIAL ───────────────────────────────────────────────
+  {
+    slug: 'centennial-co-dumpster-rental',
+    cityName: 'Centennial',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Centennial CO Dumpster Rental | Roll-Off Sizes & Local Guide',
+    metaDescription:
+      'Centennial dumpster rental for home cleanouts, roofing jobs, and kitchen remodels in the south Denver metro. Compare container sizes and local pricing.',
+    primaryKeyword: 'centennial dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Centennial CO',
+      'Centennial construction dumpster rental',
+      'roll off dumpster Centennial',
+      'roll off dumpster Centennial CO',
+      'rolloff dumpsters Centennial',
+      'roll offs Centennial CO',
+      '10 yard dumpster rental Centennial',
+      '20 yard dumpster rental Centennial',
+      '30 yard dumpster rental Centennial',
+    ],
+    heroH1: 'Dumpster Rental in Centennial, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, hail-season roofing jobs, kitchen and bath remodels, and construction debris across Centennial and the south Denver metro.',
+    introParagraphs: [
+      "Centennial incorporated in 2001 from unincorporated Arapahoe County, but most of the housing predates the city by decades. Neighborhoods like Piney Creek, The Homestead, and Foxridge have ranch homes and two-stories built from the 1960s through the 1990s — now hitting the age where kitchen gut jobs, bath overhauls, and carpet replacements are routine. The housing density is high relative to lot size, which makes driveway placement the most practical setup for most container deliveries in the city.",
+      "The south Denver metro — including Centennial and Arapahoe County — sits in the Front Range hail corridor. Roofing replacements run through Centennial's HOA-managed communities after major hail events, often within weeks of a single storm. That creates a secondary constraint most homeowners do not expect: many Centennial neighborhoods are governed by active associations with specific rules on container placement, duration, and how visible the bin can be from the street. Check your CC&Rs before scheduling delivery.",
+      'Rolloff Dumpster Finder connects Centennial homeowners and contractors with roll-off providers serving the south Denver metro. Providers covering Centennial typically also serve Greenwood Village, Englewood, Aurora, Littleton, and Parker. Get a quote that includes the weight allowance, not just the container size. In a mixed-load renovation job, what goes in matters more than how much of it fits.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, garage cleanouts, minor roofing jobs, yard debris',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, deck removal, landscaping debris',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, full home cleanouts',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovations, estate cleanouts, mixed construction debris, commercial work',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial demolition, large multi-room projects',
+        range: '$580–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Centennial's 1960s through 1990s housing stock is now 30 to 60 years old — the range where full-home clearances are routine. Neighborhoods like The Homestead and Foxridge generate steady cleanout volume as properties change hands. A 20-yard container handles most full-home cleanouts; a 30-yard if the basement has been used as primary storage.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Centennial and Arapahoe County are in the south metro's hail corridor. Roofing replacements after a major hail event move fast across HOA communities — many of which require replacement within a set window after insurance approval. A 20-yard container handles most residential tear-offs. Confirm the weight allowance before the crew starts.",
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Builder-grade kitchens and tile bathrooms from the 1970s and 1980s are a standard gut job in Centennial. Cabinets, countertops, fixtures, flooring, and cement board all come out in one load. A 10 or 15-yard covers a single bathroom; a 20-yard if the kitchen is included.',
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'Active infill development and residential additions throughout Centennial generate mixed C&D waste. Framing lumber, drywall, insulation, and concrete debris work best in 20 and 30-yard containers. Confirm weight allowances before loading concrete or brick.',
+      },
+      {
+        number: '05',
+        name: 'Basement Cleanouts',
+        description:
+          "Many Centennial ranch homes from the 1970s and 1980s have full unfinished basements used as primary storage for decades. Pre-sale and estate cleanouts in neighborhoods like Piney Creek and Foxridge often need a 20-yard just for the basement. Size up if you have not been in the basement recently.",
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          'Attached two-car garages are standard throughout Centennial subdivisions. A light cleanout fits in a 10-yard. If the garage has been used as a workshop or overflow storage for years, a 15 or 20-yard is the more accurate size.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          "Centennial's established neighborhoods see regular estate clearances as long-term homeowners transfer properties. Homes in The Homestead and Heritage Place that have been in one family since the 1970s or 1980s often need a 30-yard container. A second pull is not unusual.",
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Xeriscape conversions and turf removals are common across Centennial as water costs rise and drought conditions continue through Arapahoe County. A 10 or 15-yard handles most residential landscaping jobs. Sod is heavier than it looks — ask about weight limits if turf is the primary material.',
+      },
+      {
+        number: '09',
+        name: 'Deck & Patio Removal',
+        description:
+          'Older wood decks throughout Centennial subdivisions are reaching or past replacement age. A 10-yard handles most residential deck removals. If the deck includes a concrete slab or footings, check the weight allowance before loading — those add up quickly.',
+      },
+      {
+        number: '10',
+        name: 'Pre-Sale Cleanouts',
+        description:
+          "Active real estate turnover in Centennial's desirable south metro location drives regular pre-sale cleanouts. Sellers clearing 20 or 30 years of accumulated material before listing often need a 20 or 30-yard container. Scheduling delivery before the listing is set typically provides more flexibility.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Centennial depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most practical option in most Centennial neighborhoods given typical lot sizes and HOA restrictions on street placement.',
+      'Street or right-of-way placement requires a permit from the City of Centennial. Contact the City of Centennial Public Works department before scheduling a street drop — do not assume the county handles permitting, as Centennial is an incorporated municipality.',
+      'HOA restrictions are widespread in Centennial. Most neighborhoods — including Piney Creek, The Homestead, Foxridge, and Heritage Place — have active associations with rules on container placement duration, visibility, and approved locations. Check your CC&Rs before booking.',
+      'Driveway length varies across Centennial depending on era of construction. Homes from the 1960s and 1970s often have shorter driveways. Measure available length and check overhead clearance from garage eaves and utility lines before scheduling delivery.',
+      'After a major hail event, many Centennial HOAs require roofing replacement within a specific insurance-mandated window. Container availability across the south metro tightens fast during hail season — book the container when the roofing appointment is confirmed, not after.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Piney Creek',
+      'The Homestead',
+      'Foxridge',
+      'Willow Springs',
+      'Heritage Place',
+      'Cherry Knolls',
+      'The Farm',
+      'Hunters Hill',
+      'Foxhill',
+      'Greenfield',
+      'Walnut Hills',
+      'Chaparral',
+      'Ridgeview Hills',
+      'Homestead Farm',
+    ],
+    nearbyCities: [
+      'Aurora',
+      'Greenwood Village',
+      'Englewood',
+      'Littleton',
+      'Parker',
+      'Lone Tree',
+      'Cherry Hills Village',
+      'Highlands Ranch',
+      'Foxfield',
+      'Sheridan',
+      'Denver',
+      'Arapahoe County',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Centennial?',
+        answer:
+          'A 10-yard container in Centennial runs $280–$480 per week. A 20-yard is typically $380–$650. The final cost depends on container size, rental duration, and the weight of what goes in. Get a quote that includes the weight allowance — heavy debris like shingles, tile, and concrete push totals well past the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for a Centennial home cleanout?',
+        answer:
+          "Most Centennial home cleanouts need a 20-yard container. Homes from the 1970s and 1980s in Piney Creek or The Homestead that haven't been cleared in decades often need a 30-yard once the basement is factored in. A 10-yard is sufficient for a single-room or light garage cleanout.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Centennial?',
+        answer:
+          'Yes. Centennial and Arapahoe County see regular hail damage. A 20-yard handles most residential shingle tear-offs. Confirm the weight allowance before the tear-off starts — shingles are denser than most people expect, and a full residential roof can produce 3 or more tons.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Centennial?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits before the container looks full. A 10-yard filled with concrete commonly exceeds the weight cap with volume to spare. Ask your provider about heavy-debris containers for loads that are mostly concrete or dirt.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Centennial?',
+        answer:
+          'Most providers serving Centennial can deliver within one to three business days. Same-day delivery is available from some local operators. After a major hail event, container availability across the south metro tightens — book as soon as the roofing project is scheduled.',
+      },
+      {
+        question: 'Do you serve Greenwood Village, Parker, and Littleton?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers across the south Denver metro, including Greenwood Village, Parker, Englewood, Littleton, Lone Tree, and Aurora. Availability and pricing depend on which providers serve your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Centennial?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at a daily rate — usually $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+      },
+      {
+        question: "What can't I put in a Centennial roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard containers: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Ask your provider for the complete restricted items list before loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in my Centennial driveway?',
+        answer:
+          'No permit is required for driveway placement on private property. If the container needs to go on a public street, a right-of-way permit from the City of Centennial is required — not Arapahoe County, since Centennial is an incorporated municipality with its own permitting process. Your rental provider can often assist.',
+      },
+      {
+        question: 'My Centennial neighborhood has an HOA — what do I need to know?',
+        answer:
+          "Most Centennial neighborhoods have active HOAs with rules on container placement, duration, and visibility. Check your CC&Rs before booking. Common restrictions include a limit on how many days the container can sit and requirements that it not be visible from the street. Knowing the rules before the container arrives is far easier than dealing with a violation notice after.",
+      },
+    ],
+    latitude: 39.5807,
+    longitude: -104.8772,
   },
 ]

@@ -265,6 +265,20 @@ export default async function CityPage({ params }: Props) {
         </div>
       </section>
 
+      {/* ── 1b. Hero Image (city-specific, when provided) ── */}
+      {city.heroImage && (
+        <div className="bg-[#F5F4F0]">
+          <img
+            src={city.heroImage.src}
+            alt={city.heroImage.alt}
+            width={1920}
+            height={1080}
+            className="w-full h-auto block"
+            loading="eager"
+          />
+        </div>
+      )}
+
       {/* ── 2. Intro ───────────────────────────────────────── */}
       <section className="bg-white py-16 px-8 border-b border-[#E8E4DE]">
         <div className="max-w-[800px] mx-auto">

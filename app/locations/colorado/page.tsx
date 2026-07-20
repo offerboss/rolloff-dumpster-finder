@@ -96,6 +96,11 @@ const faqSchema = {
 
 const cityCards = [
   {
+    city: 'Denver Metro Area',
+    slug: 'colorado/denver-metro',
+    desc: 'Regional hub covering Denver, Aurora, Lakewood, and Arvada. Hail corridor roofing, mid-century home cleanouts, and active suburban construction across the Front Range.',
+  },
+  {
     city: 'Denver',
     slug: 'denver-co-dumpster-rental',
     desc: 'Metro Denver roll-off dumpster rentals for home cleanouts, construction debris, and demolition projects across the front range.',
