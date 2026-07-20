@@ -279,16 +279,18 @@ export default function DenverMetroPage() {
       </section>
 
       {/* Hero image */}
-      <div className="bg-[#F5F4F0]">
-        <img
-          src="/RDF-Images/denver-metro-roll-off-dumpster-rentals.png"
-          alt="Roll-off dumpster rentals across the Denver metro area"
-          width={1920}
-          height={1080}
-          className="w-full h-auto block"
-          loading="eager"
-        />
-      </div>
+      <section className="bg-white py-8 md:py-10">
+        <div className="max-w-[1200px] mx-auto px-8">
+          <img
+            src="/RDF-Images/denver-metro-roll-off-dumpster-rentals.png"
+            alt="Roll-off dumpster rentals across the Denver metro area"
+            width={1920}
+            height={1080}
+            className="block w-full h-auto rounded-2xl shadow-md"
+            loading="eager"
+          />
+        </div>
+      </section>
 
       {/* Quick summary callout */}
       <section className="bg-white border-b border-[#E8E4DE] py-10 px-8">
