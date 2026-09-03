@@ -11256,4 +11256,987 @@ export const cityLocations: CityLocation[] = [
     latitude: 39.5807,
     longitude: -104.8772,
   },
+  // ─── GUNNISON ─────────────────────────────────────────────────
+  {
+    slug: 'gunnison-co-dumpster-rental',
+    cityName: 'Gunnison',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental in Gunnison, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Gunnison, CO for home renovations, ranch property cleanouts, and construction debris in Gunnison County. Compare sizes and pricing.',
+    primaryKeyword: 'gunnison dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental gunnison co',
+      'gunnison construction dumpster rental',
+      'roll off dumpster gunnison',
+      'roll off dumpster gunnison co',
+      'rolloff dumpsters gunnison',
+      'roll offs gunnison co',
+      '10 yard dumpster rental gunnison',
+      '20 yard dumpster rental gunnison',
+      '30 yard dumpster rental gunnison',
+    ],
+    heroH1: 'Dumpster Rental in Gunnison, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for home renovations, ranch property cleanouts, roofing debris, and construction projects in Gunnison and Gunnison County.',
+    introParagraphs: [
+      "Gunnison sits at 7,700 feet in the Gunnison Valley, and the housing stock shows it. Older craftsman and bungalow homes in the downtown core have weathered decades of extreme winters and are finally getting their first major updates: rooflines repaired after years of heavy snow loading, kitchens gutted, interiors retiled. Mid-century ranch homes throughout the residential grid are in a similar renovation cycle. The student rental market near Western Colorado University turns over each August with its own predictable cleanout demand.",
+      "Cattle ranching is still the Gunnison Valley's primary agricultural industry, and working ranch properties generate a distinct cleanout job. Old outbuildings, irrigation equipment, fence materials, and decades of accumulated stock on rural parcels are a different category than a suburban estate cleanout — these jobs typically need a 30-yard container and at least one swap-out. Outside the valley, defensible space work around mountain properties generates brush and debris volume as wildfire risk management becomes more common in western Colorado.",
+      'Rolloff Dumpster Finder connects Gunnison homeowners, contractors, and ranch property owners with roll-off providers serving Gunnison County. Some providers here also run Crested Butte and the surrounding valley on the same route. Gunnison is a remote mountain market — fewer haulers operate here than on the Front Range, and delivery can extend in severe winter weather. Booking ahead by a few days is less optional here than in a metro area.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, bathroom debris, small cleanouts, and light yard or brush waste.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room cleanouts, flooring removal, roofing on smaller homes, and kitchen debris.',
+        range: '$350–$590 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen renovations, and mixed construction debris.',
+        range: '$420–$720 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, ranch property cleanups, commercial jobs, and heavy mixed demolition.',
+        range: '$495–$860 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Agricultural property cleanups, large demolition projects, major construction sites, and high-volume C&D debris.',
+        range: '$640–$1,200 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Gunnison's older housing stock — craftsman homes and bungalows from the early 1900s through mid-century — carries decades of accumulated contents. A full-home cleanout in the downtown core typically needs a 20-yard container. Long-established homeowners or estate transitions often require a second pull.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Snow loads at 7,700 feet accelerate roof wear faster than most Colorado markets. Shingle tear-offs are common after severe winters, and a 20-yard container handles most residential roofing jobs. Shingles are heavy — confirm weight allowances with your provider before the crew starts loading.',
+      },
+      {
+        number: '03',
+        name: 'Ranch Property Cleanouts',
+        description:
+          'Working cattle ranches in the Gunnison Valley accumulate outbuildings, equipment, fence materials, and stored goods over generations. A ranch property cleanup is typically a 30-yard job with at least one swap-out. Confirm rural delivery access — gate clearances and soft ground vary across the valley.',
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'Residential and light commercial construction in Gunnison generates framing scraps, drywall, packaging, and mixed debris. Mountain construction logistics run differently than on the Front Range — confirm delivery windows with your provider since road conditions can affect scheduling in shoulder seasons.',
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Gunnison's older housing is in a renovation cycle. Original kitchens and bathrooms in 1950s and 1960s homes are being updated for the first time. A full kitchen gut produces a 10- to 15-yard load; tile and cement board work pushes toward the weight limit before the bin looks full.",
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Older Gunnison homes commonly have full basements and detached garages that have stored goods through decades of winter seasons. A garage cleanout usually fits a 10-yard; a basement with long-term storage typically needs 15 or 20. Mountain homeowners often store more per square foot than their elevation should allow.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-term ownership is common in the Gunnison Valley. Estate transitions on properties held for 30-plus years regularly need a 20-yard container and sometimes a second pull for outbuildings or barn storage on larger parcels.',
+      },
+      {
+        number: '08',
+        name: 'University Rental Cleanouts',
+        description:
+          'Western Colorado University drives a student rental market that turns over each August. Units near campus need cleanouts between tenants — old furniture, accumulated goods, and the particular debris that student housing produces. A standard apartment cleanout typically fits a 10-yard.',
+      },
+      {
+        number: '09',
+        name: 'Defensible Space Clearing',
+        description:
+          'Wildfire risk management in western Colorado generates brush, dead timber, and debris from defensible space work around mountain properties. Clean woody debris goes in most roll-offs, but confirm what your provider accepts before mixing materials — some restrict large-diameter logs or treat brush separately from construction debris.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Gunnison depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement on private property is the most common setup and does not require a permit in Gunnison.',
+      'Gunnison has older grid-pattern residential streets — some neighborhoods near downtown have alley access behind properties, which can simplify placement and keep the container off the street.',
+      'Street placement in the public right-of-way typically requires a permit from the City of Gunnison. Ask your provider whether they can assist with the permit when you book.',
+      'Many Gunnison driveways are gravel or compacted dirt — confirm with your provider whether plywood is needed under the container wheels to protect the surface and prevent sinking.',
+      'Mountain weather significantly affects scheduling. Heavy snowfall, icy roads, or spring mud season can delay delivery or restrict access. Build scheduling buffer into projects that run from November through April.',
+      'Rural ranch properties in Gunnison County often have long driveways, narrow gates, or soft ground that require smaller vehicles. Discuss your delivery address and access details with your provider before booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Gunnison',
+      'University District',
+      'West End',
+      'East End',
+      'Tomichi Avenue Area',
+      'North Gunnison',
+      'South Gunnison',
+      'Riverfront',
+      'Valley Vista',
+      'College Heights',
+      'Rural Route Corridor',
+    ],
+    nearbyCities: [
+      'Crested Butte',
+      'Montrose',
+      'Salida',
+      'Almont',
+      'Parlin',
+      'Pitkin',
+      'Lake City',
+      'Ohio City',
+      'Saguache',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Gunnison?',
+        answer:
+          'A 10-yard container in Gunnison typically runs $310–$530 per week. A 20-yard is usually $420–$720. Mountain and remote market pricing runs above Front Range rates due to fewer haulers and longer haul distances. Confirm the weight allowance in the quote before booking.',
+      },
+      {
+        question: 'What size dumpster for a Gunnison home cleanout?',
+        answer:
+          'Most full-home cleanouts need a 20-yard container. Older homes in the downtown core that have been in the same family for decades can run heavier — a second pull is sometimes needed. A single room or garage usually fits a 10-yard.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Gunnison?',
+        answer:
+          'Yes. Snow loads at 7,700 feet accelerate roof wear, and roofing tear-offs are a regular job in Gunnison. A 20-yard handles most residential shingle tear-offs. Shingles hit weight limits fast — confirm the allowance before the crew loads.',
+      },
+      {
+        question: 'Do you serve ranch properties and rural addresses in Gunnison County?',
+        answer:
+          'Yes. Agricultural property cleanouts are a common job in the Gunnison Valley. Rural delivery depends on access — gate clearances, road conditions, and distance from the highway vary significantly. Discuss your specific address details with the provider before scheduling.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Gunnison?',
+        answer:
+          'Most providers serving Gunnison accept concrete and soil in standard roll-offs. Weight limits are the constraint, not volume — 3 to 4 tons of concrete fills less than a third of a 20-yard bin. For significant concrete work, ask about a dedicated heavy-debris container.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Gunnison?',
+        answer:
+          'Delivery typically runs 2–4 business days in Gunnison. Fewer haulers operate in this market than on the Front Range. Winter weather can extend lead times further — booking a week ahead is the safe call for projects that run November through April.',
+      },
+      {
+        question: 'Do you serve Crested Butte, Montrose, and nearby areas?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Gunnison, Crested Butte, Almont, Parlin, and other Gunnison County communities. Some providers extend west toward Montrose along the US-50 corridor. Availability depends on which providers serve your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Gunnison?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Ranch property cleanouts and mountain construction projects often take longer than planned — confirm the extension terms upfront.',
+      },
+      {
+        question: "What can't I put in a Gunnison roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Pesticide containers and agricultural chemicals from ranch properties require separate disposal. Ask your provider for the full restricted list before loading.',
+      },
+      {
+        question: 'Does winter weather affect dumpster delivery in Gunnison?',
+        answer:
+          'Yes. Gunnison is one of the coldest towns in Colorado, and severe winter weather can delay delivery or restrict road access. Providers may not be able to reach some rural addresses during heavy snowfall or after significant accumulation. Build scheduling buffer into any project that runs from November through April.',
+      },
+    ],
+    latitude: 38.5458,
+    longitude: -106.9253,
+  },
+  // ─── CRESTED BUTTE ────────────────────────────────────────────
+  {
+    slug: 'crested-butte-co-dumpster-rental',
+    cityName: 'Crested Butte',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental in Crested Butte, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Crested Butte, CO for Old Town historic renovations, resort construction, and mountain property cleanouts in Gunnison County.',
+    primaryKeyword: 'crested butte dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental crested butte co',
+      'crested butte construction dumpster rental',
+      'roll off dumpster crested butte',
+      'roll off dumpster crested butte co',
+      'rolloff dumpsters crested butte',
+      'roll offs crested butte co',
+      '10 yard dumpster rental crested butte',
+      '20 yard dumpster rental crested butte',
+      '30 yard dumpster rental crested butte',
+    ],
+    heroH1: 'Dumpster Rental in Crested Butte, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for Old Town historic renovations, resort construction, vacation home remodels, and mountain property cleanouts in Crested Butte.',
+    introParagraphs: [
+      "Crested Butte's Old Town is a National Historic District — Victorian-era homes from the silver mining era of the 1880s that now sit in one of Colorado's most valuable resort markets. Renovating these properties is not a standard suburban job. Older materials, narrow lots, high construction costs, and historic context all factor in. The second home market adds a steady layer of high-budget kitchen and bath overhauls, additions, and full interior renovations from owners who are frequently coordinating from out of state.",
+      'Mount Crested Butte — the resort municipality 3 miles north at the ski area base — runs its own construction and renovation calendar. Condo and lodge renovations during ski season transitions, base area commercial construction, and new residential development above town keep local hauler demand active through summer. Wildfire mitigation work in the Elk Mountains generates a separate debris stream as defensible space clearing becomes more common for properties in the wildland-urban interface above 9,000 feet.',
+      'Rolloff Dumpster Finder connects Crested Butte homeowners and contractors with roll-off providers serving the Gunnison Valley. Providers typically run the same route through Gunnison, 28 miles south on CO-135. This is a remote mountain market — delivery windows are more limited than on the Front Range, and winter access to some properties can be restricted for weeks. Second home owners coordinating remotely should confirm access details with their provider well before the project start date.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, small cleanouts, light brush debris, and bathroom jobs in vacation properties.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room cleanouts, flooring removal, kitchen debris, and roofing on smaller mountain homes.',
+        range: '$350–$590 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen and bath renovations, and mixed construction debris.',
+        range: '$420–$720 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large vacation home renovations, estate cleanouts, commercial tenant improvements, and heavy mixed demolition.',
+        range: '$495–$860 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major resort construction, large demolition projects, new development site cleanup, and high-volume C&D debris.',
+        range: '$640–$1,200 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Historic Property Renovation',
+        description:
+          "Old Town Victorian homes are being renovated by buyers who paid premium prices and want interiors to match. These projects tend to run larger than a typical renovation — older materials, full gut jobs in properties that have been maintained to the standard of a ski town rather than updated. A full historic home renovation typically needs at least a 20-yard container and often a second pull.",
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          'Ownership transitions in Crested Butte generate cleanout demand as vacation properties change hands or long-term locals sell. A full-home cleanout in Old Town typically needs a 15- or 20-yard container. Properties with detached garages or outbuildings often need a second pull.',
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Snow loads at nearly 9,000 feet are severe — Crested Butte averages over 200 inches of snow per year at the resort. Rooflines on older properties take significant wear, and tear-offs after difficult seasons are common. A standard residential shingle tear-off fills a 20-yard container; confirm weight limits before the crew starts loading.',
+      },
+      {
+        number: '04',
+        name: 'Resort Construction Debris',
+        description:
+          'Mount Crested Butte generates active construction and renovation volume between ski seasons — condo and lodge interiors, base area commercial improvements, and new residential development. 20- and 30-yard containers are standard on active job sites; larger projects may need multiple swap-outs through the summer construction window.',
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Vacation home owners in Crested Butte invest heavily in kitchen and bath upgrades between ownership cycles or when the property goes into rental rotation. These are high-budget projects with full tile, stone, and fixture replacement. The debris load is dense — a full kitchen gut with stone countertops produces a heavy 15-yard load.",
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Older Crested Butte properties commonly have crawl spaces, basements, and detached garages that have stored gear and goods through years of seasonal ownership. A garage cleanout typically fits a 10-yard; a full basement with seasonal storage needs 15 or 20.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Estate transitions in Crested Butte — both full-time residents and long-term vacation home owners — generate cleanout volume that often includes high-value items alongside standard debris. A 20-yard handles most estate cleanouts; larger properties with multiple outbuildings may need a second pull.',
+      },
+      {
+        number: '08',
+        name: 'Defensible Space Clearing',
+        description:
+          'Wildfire risk management for properties in the Elk Mountains above Crested Butte generates brush, dead timber, and debris from defensible space work. Clean woody debris goes in most roll-offs, but large-diameter logs or mixed vegetation may require confirmation with your provider before loading.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Short growing seasons in the high mountains mean landscaping work is compressed into a narrow summer window. Property owners completing yard projects, tree removal, or drainage work before winter generates a seasonal debris volume that fits a 10-yard container for most residential lots.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Crested Butte depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement on private property is the most common setup and does not require a permit in Crested Butte.',
+      "Old Town's Victorian-era street grid has narrow lots and tight street widths. Container placement requires more planning than in a typical suburban neighborhood — confirm dimensions with your provider before scheduling.",
+      'Street placement in the public right-of-way requires a permit from the Town of Crested Butte. Given the narrow historic streets, permit approval timelines and placement conditions can be more restrictive than in larger cities.',
+      'No alley access is available in most of Old Town. Driveway or street placement are the standard options.',
+      'Crested Butte averages over 200 inches of snow annually at the resort. Winter delivery is subject to road conditions and may be delayed or rescheduled after significant snowfall. Do not schedule delivery without confirming access with your provider during winter months.',
+      'Second home owners coordinating remotely should arrange on-site contact for delivery — the driver needs someone who can direct placement, confirm access, and accept the container.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Old Town',
+      'Elk Avenue District',
+      'North End',
+      'South End',
+      'Gothic Road Corridor',
+      'Poverty Gulch',
+      'Coal Creek Area',
+      'Slate River Area',
+      'Treasury',
+      'Butte Avenue Area',
+      'Mount Crested Butte',
+    ],
+    nearbyCities: [
+      'Gunnison',
+      'Mount Crested Butte',
+      'Almont',
+      'Parlin',
+      'Pitkin',
+      'Ohio City',
+      'Lake City',
+      'Gothic',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Crested Butte?',
+        answer:
+          'A 10-yard container in Crested Butte typically runs $310–$530 per week. A 20-yard is usually $420–$720. Remote mountain market pricing runs above Front Range rates. Confirm the weight allowance in the quote before booking — high-density renovation debris from historic properties hits limits faster than typical residential waste.',
+      },
+      {
+        question: 'What size dumpster for a Crested Butte home cleanout?',
+        answer:
+          'Most full-home cleanouts need a 20-yard container. Old Town Victorian properties with long-term accumulated contents — gear, furniture, seasonal storage — often need a second pull. A single room or garage typically fits a 10-yard.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Crested Butte?',
+        answer:
+          'Yes. Snow loads at nearly 9,000 feet are significant, and roofing tear-offs after difficult winters are common. A 20-yard handles most residential jobs. Shingles and older roofing materials can be heavy — confirm weight limits before the crew loads.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Crested Butte?',
+        answer:
+          'Most providers serving Crested Butte accept concrete and soil. Weight limits apply — concrete hits the limit long before the bin looks full. For significant demolition or heavy material jobs, ask about a dedicated heavy-debris container.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Crested Butte?',
+        answer:
+          'Plan for 3–5 business days in most cases. Providers typically run from Gunnison, 28 miles south. Winter weather can extend lead times significantly — road conditions on CO-135 can delay delivery after heavy snowfall. Booking a week or more ahead is the right call for winter projects.',
+      },
+      {
+        question: 'Do you serve Mount Crested Butte and Gunnison?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Crested Butte, Mount Crested Butte, and the Gunnison Valley. Coverage and pricing vary by specific delivery address — Mount Crested Butte and properties above the valley floor may carry additional delivery charges.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Crested Butte?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Mountain renovation projects often run longer than planned — confirm extension terms before you start. Second home owners coordinating remotely should build extra buffer into their rental term.',
+      },
+      {
+        question: "What can't I put in a Crested Butte roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Older homes in Crested Butte may contain lead paint or asbestos materials — do not load demolition debris from pre-1980 properties without confirming the material composition first.',
+      },
+      {
+        question: 'Are there historic preservation restrictions on dumpster placement in Old Town?',
+        answer:
+          'The Town of Crested Butte has guidelines for Old Town that affect exterior modifications, but dumpster placement is primarily a street permit and HOA matter rather than a preservation restriction. Confirm permit requirements with the town before scheduling street placement, and check with your HOA if applicable.',
+      },
+    ],
+    latitude: 38.8697,
+    longitude: -106.9878,
+  },
+  // ─── MT. CRESTED BUTTE ────────────────────────────────────────
+  {
+    slug: 'mt-crested-butte-co-dumpster-rental',
+    cityName: 'Mt. Crested Butte',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Mt. Crested Butte, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Mt. Crested Butte, CO for condo renovations, resort construction, and ski season transition cleanouts. Compare sizes and pricing.',
+    primaryKeyword: 'mt crested butte dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental mt crested butte co',
+      'mt crested butte construction dumpster rental',
+      'roll off dumpster mt crested butte',
+      'roll off dumpster mt crested butte co',
+      'rolloff dumpsters mt crested butte',
+      'roll offs mt crested butte co',
+      '10 yard dumpster rental mt crested butte',
+      '20 yard dumpster rental mt crested butte',
+      '30 yard dumpster rental mt crested butte',
+    ],
+    heroH1: 'Dumpster Rental in Mt. Crested Butte, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for condo renovations, resort construction, ski season transition cleanouts, and new development at Mt. Crested Butte.',
+    introParagraphs: [
+      "Mt. Crested Butte is the resort municipality at the base of Crested Butte Mountain Resort, and the housing stock reflects it. Condominiums, townhomes, and ski lodge buildings from the 1970s through 1990s make up most of the built environment. These are not single-family renovation projects — they are condo gut jobs, with dated interiors, aging finishes, and 1980s kitchens being replaced for the short-term rental market or ahead of a resale. A full condo renovation typically produces a 15- to 20-yard load.",
+      'Nearly all construction in Mt. Crested Butte happens in the summer shoulder season — the window between ski season close in April and the first significant snowfall in October. That compressed timeline makes job site scheduling tighter than anywhere on the Front Range. Everyone in the valley is working the same window. Base area commercial construction, resort infrastructure upgrades, and new luxury residential development add to the volume and the competition for container availability during summer.',
+      'Rolloff Dumpster Finder connects Mt. Crested Butte condo owners, contractors, and property managers with roll-off providers serving the Gunnison Valley. Providers typically run from Gunnison, 31 miles south on CO-135, often the same loop covering Crested Butte town. At 9,375 feet, winter delivery is not realistic for most of the year. Plan projects around the shoulder season and book containers early — availability tightens in June and July.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-unit condo cleanouts, small bathroom renovations, light brush debris, and single-room remodels.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room condo renovations, flooring removal, kitchen debris, and roofing on smaller structures.',
+        range: '$350–$590 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full condo gut renovations, whole-unit cleanouts, roofing tear-offs, and mixed construction debris.',
+        range: '$420–$720 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large lodge renovations, multi-unit cleanouts, commercial tenant improvements, and heavy mixed demolition.',
+        range: '$495–$860 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major resort construction, large commercial demolition, new development site cleanup, and high-volume C&D debris.',
+        range: '$640–$1,200 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Condo Renovations',
+        description:
+          'The primary renovation job in Mt. Crested Butte is the 1970s or 1980s ski condo being updated for the rental market or resale. Full gut jobs with kitchen, bath, and flooring replacement are common. A single-unit renovation typically produces a 15- to 20-yard load; larger two-level units can push toward the weight limit.',
+      },
+      {
+        number: '02',
+        name: 'Home Cleanouts',
+        description:
+          'Ownership transitions in Mt. Crested Butte generate cleanout demand as vacation properties change hands or go through estate settlement. Most units are condos, so a full cleanout is typically a 10- or 15-yard job. Larger units with detached storage may need a 20-yard.',
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Snow loads at 9,375 feet are severe and accelerate roof wear on condo buildings and townhomes throughout the resort community. Tear-offs are most commonly scheduled in late spring after ski season closes. A standard residential-scale roof fills a 20-yard container; confirm weight limits before the crew loads.',
+      },
+      {
+        number: '04',
+        name: 'Resort Construction Debris',
+        description:
+          'Base area commercial construction, infrastructure upgrades, and new residential development generate significant debris volume in the summer construction window. 20- and 30-yard containers are standard on resort job sites, with swap-outs planned in advance given the compressed seasonal timeline.',
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Condo kitchens and bathrooms in the base area are the primary renovation target as owners update for rental appeal or prepare to sell. Tile, stone, aged cabinetry, and 1980s fixtures all come out in the same load. A full kitchen and bath combo in a ski condo typically fills a 15-yard container.',
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Storage rooms and ski lockers in Mt. Crested Butte condo complexes accumulate gear and goods over years of seasonal ownership. A storage unit cleanout typically fits a 10-yard container. Larger underground parking and storage areas may need a 15-yard depending on what's been stored.",
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Vacation property estate transitions in Mt. Crested Butte are a distinct category — units owned for 20 or 30 years that have accumulated seasonal gear, ski equipment, and personal property across two or three decades of ownership. A 15- to 20-yard container handles most.',
+      },
+      {
+        number: '08',
+        name: 'Flooring Removal',
+        description:
+          'Original 1970s and 1980s carpet and vinyl flooring in resort condos is one of the most common renovation jobs in the base area. Carpet fills a bin before hitting weight limits; tile over concrete subfloors hits weight limits faster than expected. Know the floor material before sizing the container.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'The short growing season at nearly 10,000 feet compresses all landscaping work into a narrow summer window. Property managers completing exterior maintenance, drainage work, or vegetation removal generate a brief but concentrated debris demand each June through August.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Mt. Crested Butte depends on your unit, condo complex, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Most Mt. Crested Butte properties are in condo complexes with HOA management. HOA approval for container placement is required in most complexes before scheduling delivery — confirm this before booking.',
+      'Driveway and designated parking area placement is the most common setup. Many condo complexes have shared lots or underground parking, which limits where a container can be dropped.',
+      'Street placement in the public right-of-way requires a permit from the Town of Mt. Crested Butte. Mountain resort streets are narrow and heavily used during summer construction season — permit approval may include placement restrictions.',
+      'No alley access exists in Mt. Crested Butte. Street, parking area, or designated lot placement are the primary options.',
+      'Steep terrain throughout the base area means some delivery locations are not accessible to standard roll-off trucks. Discuss your specific property address and access details with your provider before booking.',
+      'Winter delivery is not feasible at 9,375 feet for most of the year. Plan projects for the shoulder season (May through October) and build scheduling buffer into the timeline — container demand peaks in June and July.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Base Area',
+      'Mountaineer Square',
+      'Snowmass',
+      'Gothic Road Corridor',
+      'Silver Sage',
+      'Paradise Road',
+      'North Face',
+      'East River Corridor',
+      'Upper Mountain',
+      'Resort Core',
+    ],
+    nearbyCities: [
+      'Crested Butte',
+      'Gunnison',
+      'Almont',
+      'Gothic',
+      'Parlin',
+      'Ohio City',
+      'Pitkin',
+      'Lake City',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Mt. Crested Butte?',
+        answer:
+          'A 10-yard container in Mt. Crested Butte typically runs $310–$530 per week. A 20-yard is usually $420–$720. Mountain market pricing runs above Front Range rates. Confirm the weight allowance before booking — dense renovation debris from condo gut jobs can hit weight limits at lower volume than expected.',
+      },
+      {
+        question: 'What size dumpster for a Mt. Crested Butte condo renovation?',
+        answer:
+          'A full condo gut renovation typically needs a 15- or 20-yard container. A smaller bathroom or single-room remodel usually fits a 10-yard. If the project involves full flooring removal with tile over concrete, size up — tile hits weight limits before the bin looks full.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Mt. Crested Butte?',
+        answer:
+          'Yes. Ski season snowfall at nearly 10,000 feet accelerates roof wear on older condo and lodge buildings. Roofing tear-offs are commonly scheduled in late spring after the resort closes. A 20-yard handles most residential-scale jobs; larger commercial roofing projects may need a 30-yard.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Mt. Crested Butte?',
+        answer:
+          'Most providers accept concrete and soil. Weight limits are the constraint. Dense renovation debris — tile, stone countertops, concrete subfloor — can push a 20-yard container toward its weight limit before the bin looks half full. Ask your provider about weight allowances before loading.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Mt. Crested Butte?',
+        answer:
+          'Plan for 3–5 business days. Providers typically run from Gunnison, 31 miles south. During peak summer construction season in June and July, container availability tightens across the Gunnison Valley. Booking a week or more in advance is the right call during the shoulder season.',
+      },
+      {
+        question: 'Do you serve Crested Butte town and Gunnison?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Mt. Crested Butte, Crested Butte town, and the broader Gunnison Valley. Most providers run both municipalities on the same delivery loop. Availability and pricing vary by specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Mt. Crested Butte?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Mountain construction timelines are compressed and weather-dependent — confirm extension terms before starting. The summer shoulder season is short; do not assume an extension will be available at peak season.',
+      },
+      {
+        question: "What can't I put in a Mt. Crested Butte roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Older condo buildings may contain asbestos in floor tiles, popcorn ceilings, or pipe insulation — do not load demolition debris from pre-1980 units without confirming material composition first.',
+      },
+      {
+        question: 'Do I need HOA approval to place a dumpster in my condo complex?',
+        answer:
+          'In most Mt. Crested Butte condo complexes, yes. HOA management controls shared parking and common areas, and a roll-off container is typically subject to HOA approval regardless of where it is placed. Contact your HOA before scheduling delivery — this is a step the hauler cannot take for you.',
+      },
+    ],
+    latitude: 38.8988,
+    longitude: -106.9658,
+  },
+  // ─── LAKE CITY ────────────────────────────────────────────────
+  {
+    slug: 'lake-city-co-dumpster-rental',
+    cityName: 'Lake City',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental in Lake City, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Lake City, CO for Victorian property renovations, vacation cabin cleanouts, and remote Hinsdale County projects. Compare sizes and pricing.',
+    primaryKeyword: 'lake city dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental lake city co',
+      'lake city construction dumpster rental',
+      'roll off dumpster lake city',
+      'roll off dumpster lake city co',
+      'rolloff dumpsters lake city',
+      'roll offs lake city co',
+      '10 yard dumpster rental lake city',
+      '20 yard dumpster rental lake city',
+      '30 yard dumpster rental lake city',
+    ],
+    heroH1: 'Dumpster Rental in Lake City, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for Victorian property renovations, vacation cabin cleanouts, and construction debris in Lake City and Hinsdale County.',
+    introParagraphs: [
+      "Lake City is the county seat of Hinsdale County — the least populous county in Colorado, with fewer than 800 residents across its entire area. The town itself has around 400 to 500 permanent residents and sits at 8,671 feet in the Lake Fork of the Gunnison River valley. Victorian-era mining homes from the 1870s and 1880s silver boom still line Silver Street. These properties are being slowly renovated by owners committed to the area long-term. The second home and vacation cabin market adds a separate layer of intermittent cleanout and renovation demand.",
+      "The Alpine Loop backcountry route — one of the most recognized 4WD trails in the Rocky Mountains — runs through Lake City and connects to Ouray and Silverton. That route, combined with world-class trout fishing on the Lake Fork of the Gunnison River, brings significant summer tourism and supports a vacation property market. Some of these properties have been in the same family for 40 or 50 years and are transitioning to the next generation or finally being updated. A remote cabin cleanout in Hinsdale County is a different logistical job than a suburban estate — access and timing require planning.",
+      'Rolloff Dumpster Finder connects Lake City homeowners and property owners with roll-off providers willing to serve Hinsdale County. This is one of the most remote markets in Colorado — providers typically come from Gunnison, 55 miles north on CO-149, which crosses Spring Creek Pass at nearly 11,000 feet and can be affected by winter weather. Lead times here run longer than anywhere else in our Colorado coverage. Book well ahead of your project start date and confirm delivery access to your specific address before scheduling.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, small cabin cleanouts, bathroom debris, and light yard waste.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room cleanouts, vacation property turnovers, flooring removal, and kitchen debris.',
+        range: '$350–$590 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Whole-home cleanouts, standard roofing tear-offs, full kitchen renovations, and mixed construction debris.',
+        range: '$420–$720 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate and property cleanouts, ranch or outfitter property cleanup, commercial projects, and heavy mixed demolition.',
+        range: '$495–$860 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction sites, large property cleanups, significant demolition, and high-volume C&D debris.',
+        range: '$640–$1,200 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Lake City's Victorian mining homes and the vacation cabins in the surrounding valley generate estate and ownership-transition cleanouts. A full-home cleanout in the historic downtown corridor typically needs a 15- or 20-yard container. Properties with outbuildings or that have been in the same family for decades commonly need a second pull.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Heavy snowfall at 8,671 feet and the freeze-thaw cycles of a high-altitude valley accelerate roof wear on older Lake City properties. Roofing tear-offs are typically scheduled in summer when road access and weather cooperate. A standard residential shingle tear-off fills a 20-yard container; confirm weight limits before the crew starts loading.',
+      },
+      {
+        number: '03',
+        name: 'Vacation Property Cleanouts',
+        description:
+          'Many Lake City properties are held as vacation cabins by families who visit for fishing, hunting, and the Alpine Loop. These properties turn over between generations or go through cleanout when they enter or exit the short-term rental market. Access details and road conditions to the property should be confirmed with the provider before scheduling.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Lake City's older housing stock — Victorian homes and mid-century cabins — is in a long renovation cycle as property values in the mountain recreation market rise. Kitchen and bath updates in smaller historic homes typically produce a 10- to 15-yard load.",
+      },
+      {
+        number: '05',
+        name: 'Construction Debris',
+        description:
+          'New construction and cabin additions in Hinsdale County generate mixed framing, drywall, and finish debris. Construction logistics in this remote market require more lead time — confirm container delivery windows well in advance, as providers come from significant distances.',
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Older Lake City properties and vacation cabins commonly have storage that has accumulated across decades of seasonal use. A garage or outbuilding cleanout usually fits a 10-yard container; a full basement cleanout needs 15 to 20 depending on contents.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          "Lake City's permanents are long-term residents — and estate transitions here often involve properties held 30 to 60 years with contents to match. A full estate cleanout commonly needs a 20-yard container. Properties with barns, outbuildings, or equipment storage may need a second pull.",
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Wildfire mitigation work around Lake City and Hinsdale County properties generates defensible space debris — brush, dead timber, and vegetation. Clean woody debris goes in most roll-offs, but confirm what your provider accepts before loading. Large-diameter logs or heavy brush may require separate handling.',
+      },
+      {
+        number: '09',
+        name: 'Ranch & Outfitter Cleanup',
+        description:
+          "Ranching and hunting outfitter operations in Hinsdale County generate property cleanup volume that is distinct from residential renovation. Old equipment, fence materials, outbuildings, and decades of accumulated stock on large rural parcels often need a 30-yard container and at least one swap-out. Discuss your property's access and road conditions with your provider before scheduling.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Lake City depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement on private property is the most common setup and does not require a permit in Lake City.',
+      'The historic downtown grid — particularly along Silver Street and Gunnison Avenue — has some alley access behind properties. An alley placement keeps the container off the street without requiring a street permit.',
+      'Street placement in the public right-of-way typically requires a permit from Hinsdale County or the Town of Lake City. Confirm the applicable permit authority for your address before scheduling.',
+      'Lake City has minimal HOA density — most properties are individually owned without HOA restrictions. Confirm with any homeowners association if your property is in a planned area.',
+      'Properties outside the town center are often accessed via unpaved county roads. Discuss your delivery address and road conditions with your provider — some rural Hinsdale County addresses may not be accessible to standard roll-off trucks.',
+      'CO-149 from Gunnison to Lake City crosses Spring Creek Pass at nearly 11,000 feet. Winter weather can affect delivery schedules. Build scheduling buffer into projects that run from October through May.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Lake City',
+      'Silver Street District',
+      'North End',
+      'South End',
+      'Henson Creek Corridor',
+      'Lake Fork Riverside',
+      'Spring Creek Area',
+      'Mill Creek Area',
+      'Engineer Road Area',
+      'Upper Residences',
+    ],
+    nearbyCities: [
+      'Gunnison',
+      'Creede',
+      'Saguache',
+      'South Fork',
+      'Del Norte',
+      'Montrose',
+      'Crested Butte',
+      'Ouray',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Lake City?',
+        answer:
+          'A 10-yard container in Lake City typically runs $310–$530 per week. A 20-yard is usually $420–$720. Pricing in remote mountain markets runs above Front Range rates, and delivery charges may apply given the distance from the nearest hauler hub. Confirm the full quote before booking.',
+      },
+      {
+        question: 'What size dumpster for a Lake City home cleanout?',
+        answer:
+          'Most full-home cleanouts need a 20-yard container. Older Lake City properties with decades of accumulated contents — particularly those with outbuildings or barn storage — sometimes need a second pull. A single room or garage typically fits a 10-yard.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Lake City?',
+        answer:
+          'Yes. Heavy snowfall and freeze-thaw cycles accelerate roof wear on older Lake City homes. Roofing jobs are best scheduled in summer when CO-149 is reliable and weather cooperates. A 20-yard handles most residential shingle tear-offs; confirm weight limits before the crew loads.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Lake City?',
+        answer:
+          'Most providers accept concrete and soil, but weight limits apply. Confirm that your provider can handle heavy debris at this delivery distance — remote market logistics sometimes limit the load types a specific hauler will take. Ask about weight allowances before booking.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Lake City?',
+        answer:
+          'Plan for 5–7 business days or more. Lake City is one of the most remote markets in Colorado — providers typically come from Gunnison, 55 miles north on CO-149. CO-149 crosses Spring Creek Pass and can be affected by weather. Book at least a week ahead for any project, and further ahead for winter-adjacent work.',
+      },
+      {
+        question: 'Do you serve Gunnison, Creede, and nearby Hinsdale County areas?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Lake City and the surrounding Hinsdale County area. Some providers extend to Creede and South Fork along CO-149. Coverage and lead times depend on which providers serve your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Lake City?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Remote project cleanouts and ranch or cabin projects often take longer than planned — confirm extension terms upfront rather than assuming availability.',
+      },
+      {
+        question: "What can't I put in a Lake City roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Pesticide containers, agricultural chemicals, and mining-era materials from older Lake City properties require separate disposal. Ask your provider for the full restricted list before loading.',
+      },
+      {
+        question: 'Can a roll-off truck access my rural Hinsdale County property?',
+        answer:
+          'Not always. Some rural and backcountry properties in Hinsdale County are accessed via unpaved roads that standard roll-off trucks cannot navigate safely. Discuss your specific address, road surface, and gate clearances with your provider before booking. A different container type or a different placement location may be needed.',
+      },
+    ],
+    latitude: 38.0294,
+    longitude: -107.3192,
+  },
+  // ─── ALMONT ───────────────────────────────────────────────────
+  {
+    slug: 'almont-co-dumpster-rental',
+    cityName: 'Almont',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental in Almont, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Almont, CO for fishing cabin cleanouts, Taylor Canyon property work, and outfitter operations in Gunnison County. Compare sizes and pricing.',
+    primaryKeyword: 'almont dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental almont co',
+      'almont construction dumpster rental',
+      'roll off dumpster almont',
+      'roll off dumpster almont co',
+      'rolloff dumpsters almont',
+      'roll offs almont co',
+      '10 yard dumpster rental almont',
+      '20 yard dumpster rental almont',
+      '30 yard dumpster rental almont',
+    ],
+    heroH1: 'Dumpster Rental in Almont, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for fishing cabin cleanouts, outfitter property renovations, and construction debris in Almont and the Gunnison Valley corridor.',
+    introParagraphs: [
+      "Almont sits at the confluence of the East River and Taylor River at the top of the Gunnison Valley, where CO-135 toward Crested Butte meets the road up Taylor Canyon toward Taylor Park Reservoir. The community is small — a few hundred people — and the property base is a mix of fishing lodges, outfitter operations, vacation cabins, and the ranching and agriculture that predate the recreation economy. These properties need maintenance. Occasionally one needs a significant cleanout or renovation. A remote mountain property job in Almont is a logistics exercise, not just a debris question.",
+      "The Taylor River below Taylor Park Reservoir is designated Gold Medal trout water, and Almont is the last service stop before Taylor Canyon narrows. Fishing cabins and outfitter operations along the lower Taylor and East River generate renovation and cleanout demand that falls to the same haulers serving the Gunnison and Crested Butte corridor. Nearly all of this work happens between May and September — once the first significant snowfall arrives, access to some canyon properties becomes seasonal.",
+      'Rolloff Dumpster Finder connects Almont property owners and contractors with roll-off providers serving Gunnison County. Providers covering Almont typically run from Gunnison, 11 miles south on CO-135. Properties up Taylor Canyon add logistics complexity — not all trucks can access all canyon addresses. Discuss your specific road conditions and delivery access with your provider before booking.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cabin cleanouts, single-room remodels, bathroom debris, and light yard waste.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Mid-size cabin cleanouts, multi-room remodels, flooring removal, and kitchen debris.',
+        range: '$350–$590 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full property cleanouts, standard roofing tear-offs, kitchen renovations, and mixed construction debris.',
+        range: '$420–$720 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, outfitter property cleanups, ranch renovation debris, and heavy mixed demolition.',
+        range: '$495–$860 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction sites, large property cleanups, significant demolition, and high-volume C&D debris.',
+        range: '$640–$1,200 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Ownership transitions at Almont fishing cabins and vacation properties generate cleanout demand as properties change hands or go through estate settlement. Access is the main variable — confirm road conditions and driveway clearance with your provider before scheduling, since some properties sit off unpaved routes.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Heavy snowfall at 8,000 feet accelerates roof wear on older cabins and lodge buildings throughout the Almont area. Roofing jobs are typically scheduled in summer when road access and weather cooperate. A standard residential shingle tear-off fills a 20-yard container; confirm weight allowances before the crew loads.',
+      },
+      {
+        number: '03',
+        name: 'Fishing Lodge Renovations',
+        description:
+          "Fishing lodges and outfitter operations along the Taylor and East Rivers occasionally cycle through significant renovation — kitchens, guest cabins, common areas. These are commercial-scale jobs in a remote location. A full lodge kitchen renovation typically needs a 20-yard container; larger operations may need a 30-yard.",
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'New cabin construction and additions along the Taylor Canyon corridor generate framing, drywall, and finish debris. Construction logistics in this remote mountain market require more lead time than on the Front Range — confirm delivery windows well in advance.',
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Vacation cabins and lodge properties in the Almont area go through periodic kitchen and bathroom updates. Tile, countertops, and cabinetry from a mid-size remodel typically fill a 10- to 15-yard container. Heavy tile and stone work can hit weight limits before the bin looks full.',
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Outbuildings, storage rooms, and garages at Almont area properties accumulate gear, equipment, and supplies across years of seasonal use. A garage or outbuilding cleanout typically fits a 10-yard container; larger storage areas need 15 to 20.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-term cabin and ranch property owners in the Gunnison Valley generate estate cleanout demand as properties transition generations or go through ownership changes. A full cabin estate typically needs a 15- to 20-yard container and sometimes a second pull for outbuildings.',
+      },
+      {
+        number: '08',
+        name: 'Ranch & Outfitter Cleanup',
+        description:
+          'Ranching and outfitter operations in the Almont corridor generate equipment, fence materials, and outbuilding debris that is distinct from residential renovation. These jobs typically need a 30-yard container. Discuss the delivery route and any access constraints with your provider before scheduling.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Defensible space clearing and seasonal landscaping work around Almont properties generate brush and vegetation debris. Confirm what your provider accepts for woody debris — clean brush usually goes in a standard roll-off, but large-diameter logs may require separate handling.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Almont depends on your lot, property access, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway or on-property placement is the most common setup in Almont. Most properties are on private land with no need for a street permit.',
+      'Almont is an unincorporated community in Gunnison County — there is no city permit process. Street placement on a county road requires coordination with Gunnison County, not a town government.',
+      'Almont has no HOA density — most properties are individually owned without HOA restrictions. Confirm if your property is in a planned or gated community before assuming no restrictions apply.',
+      'Properties along Taylor Canyon Road can present access challenges for standard roll-off trucks — narrowing road, grades, and soft ground in early spring and late fall. Discuss your delivery address and road conditions with your provider before booking.',
+      'Mountain weather significantly affects scheduling. Build buffer into any project that runs near the seasonal windows — early October through mid-May can bring road conditions that delay or prevent delivery to some canyon addresses.',
+      'Soft ground on many Almont area properties can shift under container weight. Gravel pads or plywood under wheels help prevent sinking, especially in spring thaw.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Almont Crossroads',
+      'Taylor Canyon Corridor',
+      'East River Valley',
+      'Lower Taylor River',
+      'Almont Resort Area',
+      'North Almont',
+      'South Almont',
+      'Potholes Recreation Area',
+      'Almont Junction',
+      'Gunnison River Confluence',
+    ],
+    nearbyCities: [
+      'Gunnison',
+      'Crested Butte',
+      'Mt. Crested Butte',
+      'Lake City',
+      'Parlin',
+      'Pitkin',
+      'Ohio City',
+      'Saguache',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Almont?',
+        answer:
+          'A 10-yard container in the Almont area typically runs $310–$530 per week. A 20-yard is usually $420–$720. Remote mountain market pricing runs above Front Range rates. Some delivery addresses in Taylor Canyon may carry additional charges — confirm the full quote before booking.',
+      },
+      {
+        question: 'What size dumpster for an Almont property cleanout?',
+        answer:
+          'Most full-property cleanouts in the Almont area need a 15- or 20-yard container. Cabin properties with outbuildings, storage rooms, or accumulated equipment may need a second pull. A single room or smaller cabin cleanout typically fits a 10-yard.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Almont?',
+        answer:
+          'Yes. Heavy snowfall at 8,000 feet accelerates roof wear on older cabins and lodge buildings. Roofing jobs are best scheduled in summer when access is reliable. A 20-yard handles most residential-scale jobs; confirm weight limits before the crew loads.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Almont?',
+        answer:
+          'Most providers accept concrete and soil in standard roll-offs. Weight limits are the real constraint. For remote delivery addresses in Taylor Canyon, some haulers may limit load types based on what the return trip looks like. Confirm what your provider will accept at your specific address.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Almont?',
+        answer:
+          'Plan for 3–5 business days. Providers typically run from Gunnison, 11 miles south. Properties up Taylor Canyon may take longer depending on access conditions. Build extra lead time into projects near the seasonal windows — late fall and early spring access can be uncertain.',
+      },
+      {
+        question: 'Do you serve Gunnison, Crested Butte, and Taylor Canyon properties?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Almont, Gunnison, and the Crested Butte corridor. Coverage for specific Taylor Canyon addresses depends on which providers serve that area and road conditions at the time. Confirm your delivery address with the provider before booking.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Almont?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Remote property cleanouts and outfitter renovation projects often take longer than planned — confirm extension terms upfront and factor in seasonal access windows when setting your project timeline.',
+      },
+      {
+        question: "What can't I put in an Almont roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Pesticide containers and agricultural chemicals from ranch operations require separate disposal. Ask your provider for the full restricted list before loading.',
+      },
+      {
+        question: 'Can roll-off trucks reach properties on Taylor Canyon Road?',
+        answer:
+          'Some can, and some cannot. Taylor Canyon Road narrows significantly above the Almont junction, and road surface conditions vary by season. Discuss your specific delivery address and road details with your provider before booking — a smaller truck or different container type may be needed for some canyon addresses.',
+      },
+    ],
+    latitude: 38.6625,
+    longitude: -106.8428,
+  },
 ]

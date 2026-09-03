@@ -658,5 +658,35 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/gunnison-co-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/crested-butte-co-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/mt-crested-butte-co-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/lake-city-co-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/almont-co-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
   ]
 }
