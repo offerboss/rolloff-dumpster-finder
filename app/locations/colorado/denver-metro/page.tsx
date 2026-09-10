@@ -153,6 +153,51 @@ const cityCards = [
     slug: 'arvada-co-dumpster-rental',
     desc: 'Northwest Denver suburb spanning early 1900s homes near historic Olde Town Arvada to active new construction in the Candelas development. The G Line light rail has accelerated renovation activity near the station.',
   },
+  {
+    city: 'Westminster',
+    slug: 'westminster-co-dumpster-rental',
+    desc: 'Split between Adams and Jefferson counties, Westminster serves a mixed market of 1970s–1990s housing in the south and newer master-planned development near US-36 in the north. Hail corridor roofing demand is consistent.',
+  },
+  {
+    city: 'Thornton',
+    slug: 'thornton-co-dumpster-rental',
+    desc: "Adams County's largest city and one of the fastest-growing in the metro. 1960s–1980s housing in the south, active new construction in the north. Strong hail-season roofing demand across a large suburban footprint.",
+  },
+  {
+    city: 'Centennial',
+    slug: 'centennial-co-dumpster-rental',
+    desc: 'South Arapahoe County suburb with 1970s–1980s housing in Piney Creek and The Homestead driving estate cleanout and renovation demand. Active hail corridor — providers here book out fast after major storms.',
+  },
+  {
+    city: 'Littleton',
+    slug: 'littleton-co-dumpster-rental',
+    desc: "Historic Old Town Littleton anchors a market of 1960s–1970s ranches in Columbine Hills and Governors Ranch. Steady estate cleanout and renovation demand, with Front Range hail driving consistent roofing tear-offs.",
+  },
+  {
+    city: 'Englewood',
+    slug: 'englewood-co-dumpster-rental',
+    desc: "South Denver border city with 1940s–1960s bungalows in Bates-Logan Park and Duncan Park. Light rail investment has accelerated renovation activity near the Oxford and Englewood stations.",
+  },
+  {
+    city: 'Broomfield',
+    slug: 'broomfield-co-dumpster-rental',
+    desc: "Colorado's newest county, built out between 1990 and 2010 along the US-36 Denver–Boulder corridor. Anthem, The Broadlands, and Interlocken drive a growing renovation and commercial construction market.",
+  },
+  {
+    city: 'Commerce City',
+    slug: 'commerce-city-co-dumpster-rental',
+    desc: 'Adams County city split between 1940s–1950s housing in south Derby and Adams City, and active new construction in north Reunion and Prairie Farm. Industrial corridor along Quebec Street drives commercial roll-off demand.',
+  },
+  {
+    city: 'Wheat Ridge',
+    slug: 'wheat-ridge-co-dumpster-rental',
+    desc: "One of the oldest Denver suburbs, with a tight residential grid of 1950s–1960s ranches from Sheridan to Kipling. Alley access is common. Buyers coming from Denver are renovating the older stock in volume.",
+  },
+  {
+    city: 'Greenwood Village',
+    slug: 'greenwood-village-co-dumpster-rental',
+    desc: "Affluent south metro city with executive estates in Cherry Knolls, Hunters Hill, and Vintage Park. The Denver Tech Center sits within city limits, driving commercial roll-off demand alongside high-value residential renovation.",
+  },
 ]
 
 const projects = [
@@ -342,7 +387,7 @@ export default function DenverMetroPage() {
             and city-specific FAQ. Additional metro communities are being added.
           </p>
         </div>
-        <div className="max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-5">
+        <div className="max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
           {cityCards.map((card) => (
             <article
               key={card.city}
@@ -368,23 +413,15 @@ export default function DenverMetroPage() {
         </div>
         <div className="max-w-[1200px] mx-auto mt-6">
           <p className="text-[13px] text-[#9CA3AF] leading-[1.65]">
-            Additional Denver metro communities — including Westminster, Thornton, Centennial,
-            Littleton, and Englewood — do not yet have dedicated local guides. Providers serving
-            these cities are available through{' '}
-            <Link
-              href="/locations/denver-co-dumpster-rental"
-              className="text-orange hover:opacity-80 transition-opacity underline underline-offset-2"
-            >
-              the Denver city guide
-            </Link>{' '}
-            or the{' '}
+            Smaller metro communities — including Edgewater, Golden, Northglenn, and unincorporated
+            Jefferson and Adams County — are served by providers in the guides above. The{' '}
             <Link
               href="/providers/colorado"
               className="text-orange hover:opacity-80 transition-opacity underline underline-offset-2"
             >
               Colorado provider directory
-            </Link>
-            .
+            </Link>{' '}
+            lists additional coverage by zip code.
           </p>
         </div>
       </section>

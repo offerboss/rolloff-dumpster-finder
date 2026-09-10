@@ -202,6 +202,27 @@ const resourceCards = [
       'A kitchen gut is a mixed-load job — light cabinets and heavy stone in the same bin. Here is how to size the container, what to ask about appliances, and why weight matters more than volume.',
     href: '/resources/kitchen-remodel-dumpster-rental',
   },
+  {
+    badge: 'Home Renovation',
+    title: 'Flooring Removal Dumpster Rental: Carpet, Tile, Hardwood, and Weight Limits',
+    excerpt:
+      'Carpet and LVP fill the bin before they hit weight limits. Tile and mortar hit weight limits before they fill the bin. Here is how to size the container around what the floor is actually made of.',
+    href: '/resources/flooring-removal-dumpster-rental',
+  },
+  {
+    badge: 'Geo Guide',
+    title: '20 Yard Dumpster Rental in Denver: When This Size Makes Sense',
+    excerpt:
+      'A 20-yard dumpster runs $380–$650 per week in Denver. Here is when it fits your project, when a 10 or 30 makes more sense, and what alley access, driveway dimensions, and weight limits mean for Denver specifically.',
+    href: '/resources/20-yard-dumpster-rental-denver',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'Denver Dumpster Rental Cost: What Affects Local Pricing',
+    excerpt:
+      'Denver dumpster rental runs $280–$480/week for a 10-yard, $380–$650 for a 20-yard. Here is what drives the range — weight limits, debris type, delivery distance, urban access, and how to compare quotes before the price becomes the invoice.',
+    href: '/resources/denver-dumpster-rental-cost',
+  },
 ]
 
 export default function ResourcesPage() {

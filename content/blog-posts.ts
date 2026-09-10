@@ -5865,4 +5865,858 @@ export const blogPosts: BlogPost[] = [
       { id: 'straight-answers', title: 'Straight Answers' },
     ],
   },
+  {
+    slug: 'flooring-removal-dumpster-rental',
+    title: 'Flooring Removal Dumpster Rental: Carpet, Tile, Hardwood, and Weight Limits',
+    excerpt:
+      'Carpet and LVP fill the bin before they hit weight limits. Tile and mortar hit weight limits before they fill the bin. Here is how to size the container around what the floor is actually made of.',
+    category: 'Home Renovation',
+    coverImage:
+      'https://images.pexels.com/photos/15798781/pexels-photo-15798781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt: 'Partially renovated room with exposed brick walls and construction materials on site',
+    date: '2026-08-25',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Flooring removal dumpster rental: how to size the container by material, tile and mortar weight math, carpet vs hardwood vs LVP, and what cannot go in the bin.',
+    readingTime: 9,
+    keywords: [
+      'flooring removal dumpster rental',
+      'dumpster for flooring removal',
+      'carpet removal dumpster rental',
+      'tile removal dumpster rental',
+      'hardwood floor removal dumpster',
+      'flooring dumpster rental',
+    ],
+    body: `
+<p>Flooring removal always takes two days. The first day you pull up the carpet. The second day you figure out what the previous owner was hiding underneath it.</p>
+
+<p>The actual answer on flooring removal dumpster rental: size the container around what the flooring is made of, not how many square feet you are pulling. Carpet and laminate are volume problems — they fill the bin before they hit weight limits. Tile, mortar, and stone are weight problems — they hit the weight limit before the bin looks full. Most overweight charges on flooring jobs come from the layer nobody asked about before booking the container.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Most flooring jobs fit a 10 or 20-yard container. Carpet, wood, and vinyl are mostly volume; tile and mortar are mostly weight. Describe the specific flooring materials to your provider before booking and ask about the weight allowance upfront — that one conversation prevents most of the invoicing surprises.</p>
+</div>
+
+<h2 id="flooring-weight">The Material Is What Determines the Container</h2>
+
+<p>Square footage matters. What is under the floor matters more. Two 500-square-foot flooring removal jobs can produce debris that varies by 8,000 pounds or more depending on the material.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Flooring Type</th>
+        <th class="px-4 py-3 text-left font-semibold">Approx. Weight (per sq ft)</th>
+        <th class="px-4 py-3 text-left font-semibold">500 sq ft — Estimated Total</th>
+        <th class="px-4 py-3 text-left font-semibold">Binding Limit</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="bg-white">
+        <td class="px-4 py-3">Vinyl plank / LVP</td>
+        <td class="px-4 py-3">0.5–1 lb</td>
+        <td class="px-4 py-3">250–500 lbs</td>
+        <td class="px-4 py-3">Volume</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Laminate flooring</td>
+        <td class="px-4 py-3">1–2 lbs</td>
+        <td class="px-4 py-3">500–1,000 lbs</td>
+        <td class="px-4 py-3">Volume</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Carpet + pad</td>
+        <td class="px-4 py-3">3–5 lbs</td>
+        <td class="px-4 py-3">1,500–2,500 lbs</td>
+        <td class="px-4 py-3">Volume</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Solid hardwood</td>
+        <td class="px-4 py-3">2–4 lbs</td>
+        <td class="px-4 py-3">1,000–2,000 lbs</td>
+        <td class="px-4 py-3">Volume</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Ceramic / porcelain tile (thin-set)</td>
+        <td class="px-4 py-3">7–14 lbs</td>
+        <td class="px-4 py-3">3,500–7,000 lbs</td>
+        <td class="px-4 py-3">Weight</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Tile + cement board underlayment</td>
+        <td class="px-4 py-3">10–19 lbs</td>
+        <td class="px-4 py-3">5,000–9,500 lbs</td>
+        <td class="px-4 py-3">Weight</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">Tile + thick mortar bed (pre-1985 installs)</td>
+        <td class="px-4 py-3">15–20+ lbs</td>
+        <td class="px-4 py-3">7,500–10,000+ lbs</td>
+        <td class="px-4 py-3">Weight</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">Natural stone (slate, travertine, marble)</td>
+        <td class="px-4 py-3">12–20 lbs</td>
+        <td class="px-4 py-3">6,000–10,000 lbs</td>
+        <td class="px-4 py-3">Weight</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>The numbers above are approximate — they depend on tile thickness, mortar application depth, and whether the subfloor is coming out too. But the direction is reliable. Carpet, wood, laminate, and vinyl are volume-constrained. Tile, stone, and mortar are weight-constrained. A job that mixes both can hit either limit depending on what goes in first.</p>
+
+<p>Subfloor material is what people miss. Plywood subfloor adds about 1.5–2 lbs per square foot. Cement board adds 3–5 lbs per square foot. Neither number is alarming on its own, but combined with a tile removal they push the total considerably higher.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/5691535/pexels-photo-5691535.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Pile of wooden planks and construction debris on floor during home renovation"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h2 id="tile-mortar">Tile and Mortar: Where the Weight Comes From</h2>
+
+<p>Here is the thing about tile: the tile is rarely the problem. The installation underneath it is the problem.</p>
+
+<p>Modern tile installs use thin-set mortar — a cement-based adhesive applied in a thin layer before the tile is set. That adds roughly 3–6 lbs per square foot to the tile weight, which is manageable.</p>
+
+<p>Older installs — particularly in homes built before 1985 — commonly used a mud-set method. A thick mortar bed, usually 1 to 1.5 inches, was floated over the subfloor before the tile was pressed in. That bed alone adds 10–15 lbs per square foot before you have counted the tile itself. A 300-square-foot bathroom with a mud-set floor can produce 4,500–6,000 lbs of debris from that one room. (That is more than two tons from a single bathroom. The math on tile has a way of clarifying things quickly.)</p>
+
+<p>Mortar does not come out as fine powder when broken — it comes out in chunks. Those chunks stack in the bin like concrete blocks. I have seen 10-yard containers hit their weight limit with the bin looking less than a third full. Dense debris hits weight limits at a fraction of the visual capacity, which is exactly the kind of thing that generates surprised phone calls after the invoice arrives.</p>
+
+<p>Natural stone — travertine, slate, marble — is heavier than standard ceramic. If the project includes a stone tile installation over a mortar bed, describe that specifically when requesting a quote. The weight allowance and the container recommendation may both change. For more on how dense materials affect the sizing decision, the <a href="/resources/concrete-dumpster-rental" class="text-orange hover:underline">concrete and heavy debris dumpster guide</a> covers the same weight-over-volume math in depth.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/4756488/pexels-photo-4756488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Room under renovation with exposed beams and construction materials on the floor"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h2 id="sizing-guide">Sizing the Container: 10, 20, or Skip the 30</h2>
+
+<p>A 10-yard container handles most single-room light flooring removals — carpet, LVP, or laminate in a bedroom, living room, or office. It manages about 400–600 square feet of light material without difficulty, and keeps the rental cost down. If the same room has tile, the weight math shifts — 300 square feet of ceramic tile with thin-set can approach the typical 2-ton weight allowance on a 10-yard.</p>
+
+<p>A 20-yard is the standard choice for whole-house flooring removal when the material is mostly carpet, hardwood, laminate, or LVP. It also works for moderate tile removal in the 400–700 square foot range, depending on mortar thickness. For a <a href="/resources/bathroom-remodel-dumpster-rental" class="text-orange hover:underline">bathroom remodel</a> or <a href="/resources/kitchen-remodel-dumpster-rental" class="text-orange hover:underline">kitchen remodel</a> that includes flooring alongside other demo debris, a 20-yard usually handles the combined load. More on general sizing in the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a>.</p>
+
+<p>A 30-yard is rarely needed for flooring-only removal. For most residential flooring jobs, the 20-yard has more than enough volume. A 30-yard makes sense when flooring removal is part of a larger renovation — a gut that includes walls, ceilings, fixtures, and flooring all going into the same container. For flooring alone, a 30-yard is the equivalent of renting a moving truck for a studio apartment. It fits everything. Nobody will thank you for the extra cost.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Container</th>
+        <th class="px-4 py-3 text-left font-semibold">Typical Price Range</th>
+        <th class="px-4 py-3 text-left font-semibold">Common Weight Limit</th>
+        <th class="px-4 py-3 text-left font-semibold">Best for</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="bg-white">
+        <td class="px-4 py-3">10 Yard</td>
+        <td class="px-4 py-3">$280–$480 / week</td>
+        <td class="px-4 py-3">1–2 tons (confirm)</td>
+        <td class="px-4 py-3">Single room, light flooring only</td>
+      </tr>
+      <tr class="bg-gray-50">
+        <td class="px-4 py-3">20 Yard</td>
+        <td class="px-4 py-3">$380–$650 / week</td>
+        <td class="px-4 py-3">2–4 tons (confirm)</td>
+        <td class="px-4 py-3">Whole-house light flooring; moderate tile</td>
+      </tr>
+      <tr class="bg-white">
+        <td class="px-4 py-3">30 Yard</td>
+        <td class="px-4 py-3">$450–$780 / week</td>
+        <td class="px-4 py-3">3–5 tons (confirm)</td>
+        <td class="px-4 py-3">Flooring combined with full renovation gut</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Prices vary by region, haul distance, and landfill disposal fees. These ranges reflect suburban markets — rural and mountain locations typically run 5–15% higher. Always confirm the included weight allowance in the quote, not just the base price. The weight limit is where most flooring jobs produce an invoice that does not match the estimate. More detail in <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">what dumpster rental actually costs</a>.</p>
+
+<h2 id="heavy-debris">When a Smaller Heavy-Debris Container Is the Smarter Call</h2>
+
+<p>Some providers offer dedicated heavy-debris containers — lower-profile bins designed specifically for dense material. They hold less volume than a standard 20-yard but carry a higher weight-per-yard ratio, which is what a tile-and-mortar job actually needs.</p>
+
+<p>If the flooring project is almost entirely clean tile, mortar, and stone — no mixed renovation debris — it is worth asking your provider whether a heavy-debris container is available. The comparison to run: does a smaller heavy-debris container (with a higher weight limit) compare favorably in price to a standard 20-yard roll-off? For jobs that are weight-bound rather than volume-bound, the smaller container sometimes allows more material at a lower total cost.</p>
+
+<p>This option is not universal. Not every provider carries them. But it is the right question to ask before booking a standard container for a job that is mostly dense material.</p>
+
+<h2 id="cannot-go-in">What Usually Cannot Go in a Flooring Removal Dumpster</h2>
+
+<p>Most flooring materials go in a standard roll-off without issue: carpet, pad, tack strips, hardwood, laminate, LVP, ceramic tile, cement board, and packaging from new materials. A few categories need attention before the demo starts.</p>
+
+<p><strong>Pre-1986 vinyl tile and sheet vinyl.</strong> Older vinyl flooring — particularly 9-inch and 12-inch vinyl tiles and sheet vinyl installed before 1986 — commonly contains asbestos fibers. The material looks ordinary. Old black mastic adhesive underneath may also be asbestos-containing. Disturbing asbestos-containing material during demolition releases fibers that are a serious inhalation hazard. If the floor is original to a pre-1986 home, have it tested before removing anything. The <a href="https://www.epa.gov/asbestos/asbestos-your-home" target="_blank" rel="noopener noreferrer" class="text-orange hover:underline">EPA's guidance on asbestos in the home</a> covers testing requirements and next steps. Licensed abatement contractors handle the removal. This is not a roll-off dumpster project until abatement is complete.</p>
+
+<p><strong>Solvent-based adhesives and floor stripping chemicals.</strong> Wood floor adhesive (mastic), urethane adhesive, and chemical floor strippers are commonly classified as hazardous waste in liquid form. Do not put liquid chemicals in the bin. Flooring debris with dried adhesive residue on it — old hardwood with dried mastic underneath, for example — is generally accepted. The concern is the chemical in liquid form, not dried adhesive on removed material.</p>
+
+<p><strong>Liquid paint.</strong> If the project involves clearing out old paint cans alongside the flooring, do not put liquid paint in the container. Dry latex paint is usually fine. Wet or liquid paint is not. Rules vary by hauler — confirm before loading anything you are uncertain about.</p>
+
+<p>Accepted materials and restrictions vary by hauler, landfill, and municipality. A quick call before the delivery is always worth the ten minutes. More on what goes in and what does not in <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">what can go in a roll-off dumpster</a>.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/3615716/pexels-photo-3615716.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Home renovation tools on a tiled floor ready for a flooring removal project"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<h2 id="placement">Driveways, Condos, HOAs, and Where the Bin Goes</h2>
+
+<p>Most residential flooring jobs place the container on the driveway. That is the standard placement — private property, no permit required in most jurisdictions, straightforward driver access for delivery and pickup.</p>
+
+<p><strong>Driveway protection.</strong> A full dumpster of flooring debris can weigh 5–8 tons including the container itself. Placing plywood sheets under the container wheels is standard practice for asphalt and paver driveways. Concrete driveways are generally fine without it, but ask the driver before delivery — they see the results of both approaches regularly.</p>
+
+<p><strong>HOA approval.</strong> Some homeowners associations require advance notice or approval for a container in the driveway. Others have restrictions on street placement. Confirm this before the delivery is scheduled — a ten-minute email to the HOA manager avoids a longer conversation after the truck has already arrived.</p>
+
+<p><strong>Street placement.</strong> If the driveway cannot accommodate the container, street placement is an option in most municipalities, but usually requires a right-of-way permit from the city. Your provider can often pull that permit for a small fee. More detail in the <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a>.</p>
+
+<p><strong>Condos and townhomes.</strong> No private driveway means a different conversation with property management before booking. Some buildings allow containers in designated areas. Others do not allow roll-offs on the property at all, in which case street placement with a permit is typically the only option.</p>
+
+<p><strong>Alley access.</strong> In older neighborhoods with alleys behind the homes, alley placement often works well — keeps the container off the street and out of the front yard. Confirm alley clearance and any shared-use restrictions with the municipality before scheduling.</p>
+
+<p>For a wider look at roll-off dumpster availability across the area, the <a href="/locations" class="text-orange hover:underline">locations directory</a> covers markets by city.</p>
+
+<h2 id="straight-answers">Straight Answers</h2>
+
+<h3>How much does flooring removal dumpster rental cost?</h3>
+<p>Honest numbers for most suburban markets: a 10-yard container runs $280–$480 per week. A 20-yard runs $380–$650. Mountain and rural markets typically run 5–15% higher. Weight overages are where the invoice surprises happen — always ask what the included weight allowance is before booking, and describe your flooring materials specifically so the provider can flag weight concerns before delivery rather than after.</p>
+
+<h3>What size dumpster do I need for whole-house flooring removal?</h3>
+<p>For light materials — carpet, LVP, laminate — a 20-yard handles most whole-house removals. For whole-house tile, the right size depends on the mortar thickness and whether the subfloor is coming out too. Some jobs fit a 20-yard; others need a second pull or a container with a higher weight allowance. Describe the flooring type, estimated square footage, and the installation method when you call for a quote.</p>
+
+<h3>Can carpet go in a dumpster?</h3>
+<p>Yes. Carpet and pad are accepted in standard roll-off containers at almost all providers. Cut carpet into strips roughly 3 feet wide before loading — rolled sections and full-room pieces are awkward to handle and take up more bin space than they need to. Tack strips and carpet staples go in the same container.</p>
+
+<h3>Does tile with mortar go in a standard roll-off dumpster?</h3>
+<p>Usually yes — tile, thin-set mortar, and cement board are accepted at most providers. The issue is weight, not material acceptance. A 500-square-foot tile floor with thick mortar can weigh 4–7 tons or more. Standard roll-off containers typically carry weight limits of 2–4 tons. Confirm the weight allowance before booking and ask whether a heavy-debris container is an option for a pure tile job.</p>
+
+<h3>Can old vinyl tile go in the dumpster?</h3>
+<p>It depends on the age. Vinyl tile and sheet vinyl installed before 1986 may contain asbestos. Do not demo that flooring without testing it first. The EPA's asbestos guidance covers home testing resources. If the test comes back negative, the material generally goes in a standard container. If positive, licensed abatement handles the removal — the roll-off comes after abatement is complete, not before.</p>
+
+<h3>What about wood floor adhesive?</h3>
+<p>Flooring debris with dried adhesive residue on it is generally accepted. Liquid solvent-based adhesives and chemical floor strippers are not — those are commonly classified as hazardous waste. The concern is liquid chemicals in the bin, not dried adhesive on the removed flooring. Confirm with your provider if there is a large amount of adhesive-covered material, as rules vary by hauler.</p>
+
+<h3>How long can I keep the dumpster during a flooring removal project?</h3>
+<p>Standard rental periods are 7–14 days with most providers. Extended rentals are usually available for an additional daily or weekly fee. Most residential flooring removals do not need more than a week. If the project spans multiple rooms or is being phased, factor that timeline into the rental period before booking so you are not paying for extensions.</p>
+
+<h3>Do I need a permit for a flooring removal dumpster?</h3>
+<p>Driveway placement on private property does not usually require a permit. Street placement in the public right-of-way requires a permit in most municipalities — the process and cost vary by city. Some providers handle the permit for a fee. Confirm requirements with your city or county before scheduling street placement. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a> covers this in more detail.</p>
+
+<p>Get the right size, describe the materials honestly, and the rest is just demo work. The tack strips, unfortunately, are still on you.</p>
+`,
+    faq: [
+      {
+        question: 'How much does flooring removal dumpster rental cost?',
+        answer:
+          'Honest numbers for most suburban markets: a 10-yard container runs $280–$480 per week. A 20-yard runs $380–$650. Mountain and rural markets typically run 5–15% higher. Weight overages are where invoice surprises happen — always ask for the included weight allowance before booking, and describe your flooring materials specifically so the provider can flag weight concerns before delivery.',
+      },
+      {
+        question: 'What size dumpster do I need for whole-house flooring removal?',
+        answer:
+          'For light materials — carpet, LVP, laminate — a 20-yard handles most whole-house removals. For whole-house tile, the right size depends on mortar thickness and whether the subfloor is coming out. Some jobs fit a 20-yard; others need a second pull or a container with a higher weight allowance. Describe the flooring type, estimated square footage, and installation method when you call.',
+      },
+      {
+        question: 'Can carpet go in a dumpster?',
+        answer:
+          'Yes. Carpet and pad are accepted in standard roll-off containers at almost all providers. Cut carpet into 3-foot strips before loading — rolled sections and full-room pieces take up more bin space than they need to. Tack strips and carpet staples go in the same container.',
+      },
+      {
+        question: 'Does tile with mortar go in a standard roll-off dumpster?',
+        answer:
+          'Usually yes — tile, thin-set mortar, and cement board are accepted at most providers. The issue is weight, not acceptance. A 500-square-foot tile floor with thick mortar can weigh 4–7 tons or more. Standard roll-offs typically carry limits of 2–4 tons. Confirm the weight allowance before booking and ask whether a heavy-debris container is available for a pure tile job.',
+      },
+      {
+        question: 'Can old vinyl tile or sheet vinyl go in the dumpster?',
+        answer:
+          'It depends on the age. Vinyl tile and sheet vinyl installed before 1986 may contain asbestos. Do not demo that flooring without testing it first. If the test comes back negative, the material generally goes in a standard container. If positive, licensed abatement contractors handle removal — the roll-off comes after abatement is complete, not before.',
+      },
+      {
+        question: 'What about wood floor adhesive and solvent-based products?',
+        answer:
+          'Flooring debris with dried adhesive residue on it is generally accepted. Liquid solvent-based adhesives and chemical floor strippers are not — those are commonly classified as hazardous waste. The concern is liquid chemicals in the bin, not dried adhesive on removed flooring. Confirm with your provider if you have a large volume of adhesive-covered material, as rules vary by hauler.',
+      },
+      {
+        question: 'How long can I keep the dumpster during a flooring removal project?',
+        answer:
+          'Standard rental periods are 7–14 days with most providers. Extended rentals are usually available for an additional fee. Most residential flooring removals do not need more than a week. If the project is phased across multiple rooms or timed around deliveries, factor that into the rental period before booking.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster during flooring removal?',
+        answer:
+          'Driveway placement on private property does not usually require a permit. Street placement in the public right-of-way requires a permit in most municipalities — the process and cost vary by city. Some providers handle the permit for a small fee. Confirm requirements with your city or county before scheduling street placement.',
+      },
+    ],
+    toc: [
+      { id: 'flooring-weight', title: 'The Material Is What Determines the Container' },
+      { id: 'tile-mortar', title: 'Tile and Mortar: Where the Weight Comes From' },
+      { id: 'sizing-guide', title: 'Sizing the Container: 10, 20, or Skip the 30' },
+      { id: 'heavy-debris', title: 'When a Smaller Heavy-Debris Container Is the Smarter Call' },
+      { id: 'cannot-go-in', title: 'What Usually Cannot Go in a Flooring Removal Dumpster' },
+      { id: 'placement', title: 'Driveways, Condos, HOAs, and Where the Bin Goes' },
+      { id: 'straight-answers', title: 'Straight Answers' },
+    ],
+  },
+  {
+    slug: '20-yard-dumpster-rental-denver',
+    title: '20 Yard Dumpster Rental in Denver: When This Size Makes Sense',
+    excerpt:
+      'A 20-yard dumpster handles most Denver roofing jobs, kitchen remodels, and home cleanouts. Here is when it is the right call, when to size down, and what Denver-specific placement and weight-limit details change the decision.',
+    category: 'Geo Guide',
+    coverImage:
+      'https://images.pexels.com/photos/8811446/pexels-photo-8811446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt:
+      'Large roll-off dumpster container sitting on a residential driveway ready for a home renovation project',
+    date: '2026-09-09',
+    author: 'Jake Harlow',
+    metaDescription:
+      'A 20-yard dumpster runs $380–$650 per week in Denver. Here is when it fits your project, when a 10 or 30 makes more sense, and what Denver driveway, alley, and street-placement rules change the decision.',
+    readingTime: 9,
+    keywords: [
+      '20 yard dumpster rental Denver',
+      '20 yard dumpster Denver',
+      'dumpster rental Denver 20 yard',
+      'Denver 20 yard dumpster rental',
+      '20 yard roll off dumpster Denver',
+      'roll off dumpster rental Denver',
+    ],
+    body: `
+<p>A 20-yard dumpster is the right container for most Denver residential projects. Roof tear-offs, kitchen guts, whole-home cleanouts, and the bathroom that has been on the list since the last owner — the 20-yard handles all of it. It is the most commonly rented residential roll-off in the Denver metro, and that is not an accident.</p>
+
+<p>The part that trips people up is not the size. It is the weight limit. And in Denver — where a lot of the renovation work involves older tile, hail-damaged roofing, and the kind of kitchen that has a mortar-bed floor under the linoleum — that distinction matters. (The mortar bed always finds a way to make itself known.)</p>
+
+<p>Here is when to book a 20-yard, when to downsize to a 10, when to go up to a 30, and what Denver-specific factors — alley access, older driveway dimensions, street permits — change the calculation.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">A 20-yard dumpster runs $380–$650 per week in the Denver metro. It fits most roofing jobs, kitchen remodels, and home cleanouts. Heavy debris — concrete, tile, roofing shingles — can hit the weight limit before the bin looks full. Driveway or alley placement avoids the street permit process. Confirm the weight limit and delivery access before booking.</p>
+</div>
+
+<nav class="not-prose my-8 rounded-lg bg-[#F5F4F0] border border-[#E8E4DE] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#9CA3AF] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#what-a-20-holds" class="text-orange font-medium hover:underline text-sm">What a 20-Yard Dumpster Actually Holds</a></li>
+    <li><a href="#denver-projects" class="text-orange font-medium hover:underline text-sm">Denver Projects Where a 20-Yard Makes Sense</a></li>
+    <li><a href="#when-10-wins" class="text-orange font-medium hover:underline text-sm">When the 10-Yard Is the Right Call</a></li>
+    <li><a href="#when-to-go-30" class="text-orange font-medium hover:underline text-sm">When the 30 Makes More Sense</a></li>
+    <li><a href="#weight-limits" class="text-orange font-medium hover:underline text-sm">Weight Limits: The Number That Changes Everything</a></li>
+    <li><a href="#placement-denver" class="text-orange font-medium hover:underline text-sm">Placing a 20-Yard Dumpster in Denver</a></li>
+    <li><a href="#comparing-quotes" class="text-orange font-medium hover:underline text-sm">How to Compare Denver Dumpster Rental Quotes</a></li>
+    <li><a href="#faq" class="text-orange font-medium hover:underline text-sm">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="what-a-20-holds">What a 20-Yard Dumpster Actually Holds</h2>
+
+<p>A 20-yard container holds 20 cubic yards of debris. Think of it as roughly six to eight full pickup truck loads of loose household material. The physical footprint is typically about 22 feet long, 8 feet wide, and 4 feet tall — low enough to load without a ladder, long enough to fit most residential driveways.</p>
+
+<p>The cubic-yard number describes volume. It says nothing about weight. A 20-yard container carries a weight limit — typically 2–4 tons depending on the provider. Light material like furniture, carpet, and drywall rarely gets close to that ceiling. Dense material like concrete, roofing shingles, ceramic tile, and soil can hit the limit at half capacity. That is the distinction worth understanding before the project starts, not after the invoice arrives.</p>
+
+<p>For a full breakdown of dimensions and what typical project materials actually weigh, see the <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster rental guide</a>. This page covers what changes when that container is in Denver specifically.</p>
+
+<h2 id="denver-projects">Denver Projects Where a 20-Yard Makes Sense</h2>
+
+<p>Denver's housing stock has a renovation cycle that generates steady 20-yard demand. The bungalows, foursquares, and craftsman homes throughout Park Hill, Highlands, Washington Park, Baker, and Capitol Hill are at the age where major systems are failing and first-generation finishes are finally getting replaced. In the suburbs — Lakewood, Aurora, Englewood, Littleton, Westminster, Thornton — the 1970s and 1980s ranches are going through their first serious gut. There is a lot of tile out there. And mortar. And the occasional cast iron tub that someone is very proud of having kept.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/8488031/pexels-photo-8488031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Demolished room interior showing exposed wall framing and construction debris from a home renovation"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">A full kitchen or bathroom gut generates debris volume faster than most people expect. Tile, drywall, cabinets, and fixtures add up — usually filling a 15- or 20-yard container.</figcaption>
+</figure>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Project</th>
+        <th class="px-4 py-3 text-left font-semibold">20-Yard Fit</th>
+        <th class="px-4 py-3 text-left font-semibold">Weight Watch</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-medium">Roofing tear-off</td>
+        <td class="px-4 py-3">Yes, for most residential roofs</td>
+        <td class="px-4 py-3">Shingles hit weight limits fast — confirm limit before booking</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-medium">Kitchen gut</td>
+        <td class="px-4 py-3">Yes</td>
+        <td class="px-4 py-3">Stone countertops and tile floors push weight — know your mix</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-medium">Bathroom remodel</td>
+        <td class="px-4 py-3">Yes, if tile and tub are going</td>
+        <td class="px-4 py-3">Cast iron tub and mortar bed are dense; verify weight limit</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-medium">Whole-home cleanout</td>
+        <td class="px-4 py-3">Yes, for most 3-bedroom homes</td>
+        <td class="px-4 py-3">Furniture and household goods are light — weight rarely an issue</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-medium">Flooring removal — tile</td>
+        <td class="px-4 py-3">Yes</td>
+        <td class="px-4 py-3">Tile and mortar hit weight limits before the bin looks full</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-medium">Flooring removal — carpet/LVP</td>
+        <td class="px-4 py-3">A 10 usually fits</td>
+        <td class="px-4 py-3">Light material — volume, not weight, is the constraint</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-medium">Garage cleanout</td>
+        <td class="px-4 py-3">Rarely needed — 10 usually fits</td>
+        <td class="px-4 py-3">Step up if the garage also serves as storage or a workshop</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>Denver sees heavy roofing demand after significant hail seasons — and along the I-25 and I-70 corridors, a bad hail event can put every roofing crew in the metro to work simultaneously. When that happens, availability for 20-yard containers tightens fast. If your neighborhood took a hit and you are scheduling a tear-off, book the container when you book the roofing crew, not after.</p>
+
+<p>For Denver-specific roofing dumpster considerations, see the <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster rental guide</a>. For kitchen and bathroom remodel specifics, the <a href="/resources/kitchen-remodel-dumpster-rental" class="text-orange hover:underline">kitchen remodel guide</a> and <a href="/resources/bathroom-remodel-dumpster-rental" class="text-orange hover:underline">bathroom remodel guide</a> cover what heavy debris mixes do to the weight calculation.</p>
+
+<h2 id="when-10-wins">When the 10-Yard Is the Right Call</h2>
+
+<p>The 10-yard makes sense when the project is genuinely smaller than a full room gut. A single-car detached garage cleanout in Highlands or Baker usually fits a 10. A bathroom remodel where only the vanity and toilet are swapped fits a 10. A carpet-only flooring swap in one or two rooms fits a 10.</p>
+
+<p>It also makes sense when the debris is dense. A 10-yard container loaded with concrete, brick, or old mortar-bed material costs less than a 20-yard pushed past its weight limit on the same load. Weight limits, not volume, are the binding constraint on heavy material. For concrete-heavy projects specifically — patio demolition, driveway sections, old retaining walls — ask about a heavy-debris container. The <a href="/resources/concrete-dumpster-rental" class="text-orange hover:underline">concrete dumpster guide</a> has the calculation.</p>
+
+<p>The <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster rental guide</a> covers what fits, when to step up, and how the weight limit works in practice. And the <a href="/resources/garage-cleanout-dumpster-rental" class="text-orange hover:underline">garage cleanout guide</a> covers how to size the container based on what has actually accumulated.</p>
+
+<h2 id="when-to-go-30">When the 30 Makes More Sense</h2>
+
+<p>The 20-yard runs short on multi-phase jobs. Kitchen gut happening at the same time as the bathroom tear-out: go to a 30. Full estate cleanout of a 4-bedroom home with decades of accumulated contents: plan for a 30 or a second pull. Basement included in the cleanout: add significant volume — basements hold more than people estimate.</p>
+
+<p>Any project involving structural demolition — concrete slabs, load-bearing walls, block or brick — should be sized by weight first and volume second. The <a href="/resources/demolition-dumpster-rental" class="text-orange hover:underline">demolition dumpster guide</a> walks through how to size containers for mixed heavy-debris projects. The <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard guide</a> covers when stepping up saves you the cost and logistics of a second haul.</p>
+
+<h2 id="weight-limits">Weight Limits: The Number That Changes Everything</h2>
+
+<p>A standard 20-yard container in Denver allows 2–4 tons of debris. That range is real — providers set their own limits, and the number in your quote is the number that counts. Ask for it before booking.</p>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/15798781/pexels-photo-15798781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Home renovation in progress with debris and construction materials on the floor of an unfinished room"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Mixed renovation debris — drywall, tile, cabinets, flooring — adds up faster than most homeowners expect, and heavy materials hit weight limits long before the bin looks full.</figcaption>
+</figure>
+
+<p>Here is what common Denver renovation materials weigh: roofing shingles run roughly 1.5–2.5 tons per cubic yard of material. Ceramic tile and mortar bed are similar. A full residential roof tear-off on a medium-sized Denver home commonly produces 3–5 tons of shingles. If the weight limit on the 20-yard is 2 tons, the math does not work in your favor. The container fills up in shingles well before the bin is visually full, and the overweight charge shows up after pickup — typically $65–$150 per ton over the limit.</p>
+
+<p>The rule of thumb for Denver projects: if the project involves roofing, significant tile demo, or any concrete, ask the provider specifically what the weight limit is and what the overage rate is per ton. That conversation takes two minutes. The overweight invoice shows up Tuesday morning after the pickup Friday. One of those conversations is better to have than the other.</p>
+
+<p>For a full breakdown of how Denver dumpster pricing works, where overweight charges come from, and what to verify before confirming a quote, see <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">what a dumpster rental actually costs</a>. For a framework on choosing the right size for your specific project, <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">the sizing guide</a> walks through the decision by project type.</p>
+
+<h2 id="placement-denver">Placing a 20-Yard Dumpster in Denver</h2>
+
+<p>Denver's older neighborhoods and suburban metro areas present different placement situations. The container that lands cleanly in a Centennial driveway may need more planning in a Capitol Hill block with a short, side-lot driveway and a garage alley behind it.</p>
+
+<p><strong>Driveway placement</strong> is the simplest option in most cases. It does not usually require a permit, it keeps the container off the street, and it is what the driver prefers. Most standard single-car driveways in the Denver metro can accommodate a 22-foot container. Shorter or sloped driveways in Highlands, Baker, Five Points, and Capitol Hill may be tighter than they look from the street. Measure the usable driveway length and confirm access with the provider before booking.</p>
+
+<p><strong>Alley placement</strong> is common in older Denver neighborhoods. Homes in Park Hill, Montclair, Cole, Sloan's Lake, and many inner-city blocks have detached garages off the alley — exactly where the container should go during a renovation. Alleys work well when overhead clearance is clear (tree branches and utility lines are the main obstacles) and when the surface can take the weight of a loaded roll-off truck. Some Denver alleys are gravel or packed dirt and can soften after rain. Ask the driver before assuming alley access is ready on delivery day.</p>
+
+<p><strong>Street or right-of-way placement</strong> may require a permit from the City and County of Denver. Denver's Department of Transportation and Infrastructure handles temporary right-of-way use for residential projects. The process and cost can vary depending on the street and the situation. Your rental provider can often advise, and some will handle the permit application as part of the service. Do not place a container in a public right-of-way without confirming permit requirements first. For more on the permit question across Colorado municipalities, see the guide on <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster rental permits</a>.</p>
+
+<p>In suburban Denver — Aurora, Lakewood, Littleton, Thornton, Westminster, Englewood, Commerce City — residential driveways tend to be wider and longer. Street placement is often less constrained. HOA rules in planned communities can add their own layer of restrictions on container placement, duration, and visibility. Check your CC&Rs before booking if the neighborhood has an active HOA.</p>
+
+<h2 id="comparing-quotes">How to Compare Denver Dumpster Rental Quotes</h2>
+
+<p>A 20-yard container in Denver typically runs $380–$650 per week. The range reflects real variables: your delivery location within the metro, the provider's haul distance to a licensed landfill, the weight limit included in the base price, and whether delivery and fuel are bundled or listed separately.</p>
+
+<p>When you get a quote, ask these four things before confirming:</p>
+
+<ol class="my-4 pl-6 space-y-2 list-decimal text-charcoal">
+  <li>What is the weight limit included in this price?</li>
+  <li>What is the overage rate per ton if I go over?</li>
+  <li>Is delivery and fuel included, or are those separate?</li>
+  <li>What is the exact rental period — 7 days, 10, or 14?</li>
+</ol>
+
+<p>The lowest base quote with a 1-ton weight limit is not the cheapest quote for a roofing job. A quote that is $50 per week higher with a 3-ton limit may save $200 on overage charges once the shingles are loaded. Do the math on your actual project weight before comparing base rates.</p>
+
+<p>For Denver metro dumpster rental coverage — including Aurora, Lakewood, Englewood, and surrounding communities — see the <a href="/locations/colorado/denver-metro" class="text-orange hover:underline">Denver metro locations guide</a>. For the full Denver city page with pricing by container size, see <a href="/locations/denver-co-dumpster-rental" class="text-orange hover:underline">Denver dumpster rental</a>. For Colorado dumpster rental more broadly, the <a href="/locations/colorado" class="text-orange hover:underline">Colorado locations page</a> covers the state.</p>
+
+<h2 id="faq">Straight Answers</h2>
+
+<h3>Is a 20-yard dumpster big enough for a Denver home cleanout?</h3>
+<p>Yes, for most 3-bedroom homes. A 20-yard handles furniture, carpet, and general household goods without a second haul. For larger homes or cleanouts that include the basement, plan for a 30-yard or factor in a second pull from the start. Furniture and household goods are light — weight limits are rarely the issue on a standard cleanout.</p>
+
+<h3>Can I use a 20-yard dumpster for roofing in Denver?</h3>
+<p>Yes, for most residential roofs. The 20-yard is the standard roofing container in Denver, especially during active hail seasons when demand is high. Shingles are heavy — most 20-yard containers allow 2–4 tons, and a larger residential roof can approach or exceed that limit. Confirm the weight limit with your provider before the crew loads. If the roof is large, ask about a swap-out mid-job rather than an overweight charge at the end.</p>
+
+<h3>Is a 20-yard dumpster too big for a Denver driveway?</h3>
+<p>Not usually. A standard 20-yard container is roughly 22 feet long — that fits most residential driveways in the Denver metro. Older, shorter driveways in Capitol Hill, Highlands, Baker, and similar neighborhoods can be tighter. Measure the usable driveway length and confirm with the provider before delivery day if access looks close.</p>
+
+<h3>Can a 20-yard dumpster go in a Denver alley?</h3>
+<p>Often yes. Alley placement works well in Park Hill, Sloan's Lake, Montclair, and other older Denver neighborhoods with detached garages. The main variables are overhead clearance — utility lines and tree branches are the common obstacles — and surface condition. Some Denver alleys are gravel or compacted dirt and can soften after rain. Ask the driver before assuming alley access is ready on delivery day.</p>
+
+<h3>Do I need a permit for a 20-yard dumpster in Denver?</h3>
+<p>Driveway or alley placement on private property does not usually require a permit. Street or right-of-way placement in Denver may require a permit from the City and County of Denver's Department of Transportation and Infrastructure. Check with your rental provider before scheduling street placement — some providers handle the permit application as part of the service.</p>
+
+<h3>What should not go in a 20-yard dumpster?</h3>
+<p>Hazardous materials are not accepted: liquid paint, solvents, motor oil, propane tanks, batteries, tires, and appliances with refrigerants. The specific prohibited list varies by provider and the landfill they use. Ask for the restricted items list before loading — not while standing next to a full bin on pickup day.</p>
+
+<h3>Is a 10-yard or 20-yard better for heavy debris like tile or concrete?</h3>
+<p>For heavy debris specifically, the 10-yard often makes more financial sense. A 10-yard container positioned as a heavy-debris bin stays within the weight limit and avoids overage charges. A 20-yard pushed past its weight limit on a load of tile and concrete costs more than sizing down from the start. Discuss your specific debris mix with the provider before choosing the container size.</p>
+
+<h3>How do I compare 20-yard dumpster rental quotes in Denver?</h3>
+<p>Compare total cost, not base price. Get the weight limit and overage rate per ton from each provider, confirm whether delivery and fuel are included, and clarify the exact rental period. A lower base quote with a 1-ton weight limit can cost significantly more than a higher base quote with a 3-ton limit on any project involving shingles, tile, or concrete. The number that matters is the final invoice — work backward from that.</p>
+
+<p>One bin, one project phase, the right weight limit confirmed before booking. That is the whole formula. The shingles that went over the limit already figured this out for someone else — no need to repeat their experiment.</p>
+`,
+    faq: [
+      {
+        question: 'Is a 20-yard dumpster big enough for a Denver home cleanout?',
+        answer:
+          'Yes, for most 3-bedroom homes. A 20-yard handles furniture, carpet, and general household goods without a second haul. For larger homes or cleanouts that include the basement, plan for a 30-yard or factor in a second pull. Furniture and household goods are light — weight limits are rarely the issue on a standard cleanout.',
+      },
+      {
+        question: 'Can I use a 20-yard dumpster for roofing in Denver?',
+        answer:
+          'Yes, for most residential roofs. The 20-yard is the standard roofing container in Denver, especially during hail seasons. Shingles are heavy — most 20-yard containers allow 2–4 tons, and a larger residential roof can approach or exceed that limit. Confirm the weight limit with your provider before the crew loads.',
+      },
+      {
+        question: 'Is a 20-yard dumpster too big for a Denver driveway?',
+        answer:
+          'Not usually. A standard 20-yard container is roughly 22 feet long — that fits most residential driveways in the Denver metro. Older, shorter driveways in Capitol Hill, Highlands, Baker, and similar neighborhoods can be tighter. Measure the usable driveway length and confirm with the provider before delivery day if access looks close.',
+      },
+      {
+        question: 'Can a 20-yard dumpster go in a Denver alley?',
+        answer:
+          'Often yes. Alley placement works well in Park Hill, Sloan\'s Lake, Montclair, and other older Denver neighborhoods with detached garages. The main variables are overhead clearance (utility lines, tree branches) and surface condition. Some Denver alleys are gravel or compacted dirt and can soften after rain. Ask the driver before assuming alley access is ready.',
+      },
+      {
+        question: 'Do I need a permit for a 20-yard dumpster in Denver?',
+        answer:
+          'Driveway or alley placement on private property does not usually require a permit. Street or right-of-way placement in Denver may require a permit from the City and County of Denver\'s Department of Transportation and Infrastructure. Check with your rental provider before scheduling street placement.',
+      },
+      {
+        question: 'What should not go in a 20-yard dumpster?',
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, motor oil, propane tanks, batteries, tires, and appliances with refrigerants. The specific prohibited list varies by provider and landfill. Ask for the restricted items list before loading — not while standing next to a full bin on pickup day.',
+      },
+      {
+        question: 'Is a 10-yard or 20-yard better for heavy debris like tile or concrete?',
+        answer:
+          'For heavy debris specifically, the 10-yard often makes more financial sense. A 10-yard container positioned as a heavy-debris bin stays within the weight limit and avoids overage charges. A 20-yard pushed past its weight limit on a concrete or tile load costs more than sizing down from the start. Discuss your debris mix with the provider before choosing.',
+      },
+      {
+        question: 'How do I compare 20-yard dumpster rental quotes in Denver?',
+        answer:
+          'Compare total cost, not base price. Get the weight limit and overage rate per ton from each provider, confirm whether delivery and fuel are included, and clarify the exact rental period. A lower base quote with a 1-ton weight limit can cost significantly more than a higher base quote with a 3-ton limit on any project involving shingles, tile, or concrete.',
+      },
+    ],
+    toc: [
+      { id: 'what-a-20-holds', title: 'What a 20-Yard Dumpster Actually Holds' },
+      { id: 'denver-projects', title: 'Denver Projects Where a 20-Yard Makes Sense' },
+      { id: 'when-10-wins', title: 'When the 10-Yard Is the Right Call' },
+      { id: 'when-to-go-30', title: 'When the 30 Makes More Sense' },
+      { id: 'weight-limits', title: 'Weight Limits: The Number That Changes Everything' },
+      { id: 'placement-denver', title: 'Placing a 20-Yard Dumpster in Denver' },
+      { id: 'comparing-quotes', title: 'How to Compare Denver Dumpster Rental Quotes' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+  },
+  {
+    slug: 'denver-dumpster-rental-cost',
+    title: 'Denver Dumpster Rental Cost: What Affects Local Pricing',
+    excerpt:
+      'Dumpster rental in Denver runs $280–$480 per week for a 10-yard container and $380–$650 for a 20-yard. Here is what drives that range, why quotes vary, and what to confirm before the price becomes the invoice.',
+    category: 'Geo Guide',
+    coverImage:
+      'https://images.pexels.com/photos/7688524/pexels-photo-7688524.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt:
+      'Person using a calculator next to paperwork, reviewing costs and pricing for a home project',
+    date: '2026-09-09',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Denver dumpster rental costs $280–$480/week for a 10-yard container, $380–$650 for a 20-yard. Here is what drives local pricing — weight limits, debris type, delivery location, and how to compare quotes before the invoice arrives.',
+    readingTime: 9,
+    keywords: [
+      'Denver dumpster rental cost',
+      'dumpster rental cost Denver',
+      'roll off dumpster prices Denver',
+      'Denver dumpster prices',
+      'how much does dumpster rental cost in Denver',
+      'Denver roll off dumpster cost',
+      'dumpster rental prices Denver CO',
+    ],
+    body: `
+<p>Dumpster rental in Denver runs $280–$480 per week for a 10-yard container and $380–$650 for a 20-yard. Those are the real numbers. The gap between the low end and the high end is also real — and the invoice that shows up three days after pickup can widen it further if the weight limit was not confirmed before loading. This guide explains what drives Denver dumpster rental pricing, how to read a quote before it becomes a bill, and when sizing down actually saves money.</p>
+
+<p>(If you have already rented a dumpster and are now reading this after the overweight charge arrived: I am sorry. This guide existed for a reason. Let it help with the next one.)</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">Denver dumpster rental costs $280–$480/week for a 10-yard, $380–$650 for a 20-yard, $450–$780 for a 30-yard. Weight limits and overage fees add to the base rate on any project with dense debris. Delivery distance, urban access complexity, and rental period length all move the price. Confirm the weight limit and rental period before booking — those are the two variables most likely to separate the quote from the final invoice.</p>
+</div>
+
+<nav class="not-prose my-8 rounded-lg bg-[#F5F4F0] border border-[#E8E4DE] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#9CA3AF] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#what-affects-cost" class="text-orange font-medium hover:underline text-sm">What Drives Dumpster Rental Cost in Denver</a></li>
+    <li><a href="#pricing-by-size" class="text-orange font-medium hover:underline text-sm">Denver Pricing by Container Size</a></li>
+    <li><a href="#weight-limits" class="text-orange font-medium hover:underline text-sm">Weight Limits and Overage Fees</a></li>
+    <li><a href="#delivery-location" class="text-orange font-medium hover:underline text-sm">Delivery Distance and Where You Are in the Metro</a></li>
+    <li><a href="#placement" class="text-orange font-medium hover:underline text-sm">Urban Denver vs. Suburban Access</a></li>
+    <li><a href="#rental-length" class="text-orange font-medium hover:underline text-sm">Rental Period and Extension Fees</a></li>
+    <li><a href="#how-to-compare" class="text-orange font-medium hover:underline text-sm">How to Compare Denver Dumpster Rental Quotes</a></li>
+    <li><a href="#faq" class="text-orange font-medium hover:underline text-sm">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="what-affects-cost">What Drives Dumpster Rental Cost in Denver</h2>
+
+<p>Six variables determine what you pay in Denver. Most quotes bundle some of these into the base rate and leave others for the invoice.</p>
+
+<ul class="my-4 pl-6 space-y-2 list-disc text-charcoal">
+  <li><strong>Container size</strong> — the single biggest driver. A 10-yard and a 30-yard are not the same product. More capacity costs more.</li>
+  <li><strong>Weight limit and debris type</strong> — dense material (shingles, tile, concrete) can hit weight limits before the bin looks half full. Providers either include a tonnage allowance or charge overages per ton.</li>
+  <li><strong>Delivery location within the metro</strong> — haul distance to the nearest licensed disposal facility is priced into the base rate. Addresses farther from disposal facilities tend to cost more.</li>
+  <li><strong>Rental period</strong> — most Denver providers offer 7-day or 10-day base periods. Extensions cost $5–$15 per day.</li>
+  <li><strong>Debris classification</strong> — mixed household debris, roofing shingles, clean concrete, and green waste are often priced and disposed of differently. Some providers charge a material-specific surcharge for shingles or concrete.</li>
+  <li><strong>Delivery and fuel surcharges</strong> — some quotes bundle these; others list them separately. The total matters more than the line items.</li>
+</ul>
+
+<p>Denver's dumpster market is competitive along the I-25 and I-70 corridors where multiple haulers operate. Inner-suburban markets — Lakewood, Aurora, Englewood — tend to see more provider options and moderate pricing. Outer suburban and rural addresses beyond Commerce City, Littleton, or Thornton can carry higher haul-distance costs. The city of Denver itself sits in the center of the metro, but delivery to dense urban neighborhoods with access complexity can also affect pricing.</p>
+
+<h2 id="pricing-by-size">Denver Pricing by Container Size</h2>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Container Size</th>
+        <th class="px-4 py-3 text-left font-semibold">Denver Price Range</th>
+        <th class="px-4 py-3 text-left font-semibold">Common Projects</th>
+        <th class="px-4 py-3 text-left font-semibold">Weight Watch</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-medium">10-yard</td>
+        <td class="px-4 py-3 font-medium text-orange">$280–$480 / week</td>
+        <td class="px-4 py-3">Garage cleanouts, single-room remodels, small roofing jobs</td>
+        <td class="px-4 py-3">Right container for heavy debris when sized intentionally</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-medium">15-yard</td>
+        <td class="px-4 py-3 font-medium text-orange">$320–$540 / week</td>
+        <td class="px-4 py-3">Bathroom remodels, mid-size cleanouts, flooring removal</td>
+        <td class="px-4 py-3">Tile and mortar push weight early</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-medium">20-yard</td>
+        <td class="px-4 py-3 font-medium text-orange">$380–$650 / week</td>
+        <td class="px-4 py-3">Kitchen guts, roofing tear-offs, full-home cleanouts</td>
+        <td class="px-4 py-3">Shingles and stone countertops hit limits before the bin looks full</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-medium">30-yard</td>
+        <td class="px-4 py-3 font-medium text-orange">$450–$780 / week</td>
+        <td class="px-4 py-3">Large renovations, estate cleanouts, multi-room guts</td>
+        <td class="px-4 py-3">Right size for large volume light debris; expensive if used for concrete</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-medium">40-yard</td>
+        <td class="px-4 py-3 font-medium text-orange">$580–$1,100+ / week</td>
+        <td class="px-4 py-3">New construction, commercial demolition, major site work</td>
+        <td class="px-4 py-3">Commercial and contractor use; heavy debris pricing applies</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>The 20-yard is the most commonly rented residential container in Denver. It handles most roofing jobs, kitchen remodels, and whole-home cleanouts without a second pull. For a detailed breakdown of when the 20-yard makes sense — and when a 10 or 30 is the better call for Denver projects specifically — see the <a href="/resources/20-yard-dumpster-rental-denver" class="text-orange hover:underline">Denver 20-yard dumpster rental guide</a>.</p>
+
+<p>Size guides for each container are at the <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard</a>, <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard</a>, <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard</a>, and <a href="/resources/40-yard-dumpster-rental" class="text-orange hover:underline">40-yard</a> guide pages.</p>
+
+<h2 id="weight-limits">Weight Limits and Overage Fees</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/34019842/pexels-photo-34019842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Construction worker on a residential roof removing old shingles during a roofing tear-off"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Roofing tear-offs generate some of the densest debris in residential rental. A standard residential roof commonly produces 3–5 tons of material — weight limits matter before the first shingle goes in.</figcaption>
+</figure>
+
+<p>Weight limits are the variable most likely to separate a Denver dumpster rental quote from the final invoice. Providers typically allow 2–4 tons of debris in a standard 20-yard container. The problem is that common Denver renovation materials are denser than people expect.</p>
+
+<p>Roofing shingles from a hail-damaged Denver roof run roughly 1.5–2.5 tons per cubic yard. Ceramic tile and mortar bed are similar. A full residential roof tear-off on a mid-size Denver home commonly produces 3–5 tons of material. If the provider's weight limit on a 20-yard container is 2 tons, the math fails visibly only at the landfill scale — not in the driveway where the bin still looks manageable.</p>
+
+<p>The overage rate in Denver typically runs $65–$150 per ton over the included limit. On a roofing job that runs 2 tons over, that is $130–$300 added after pickup. It is the kind of fee that arrives by email on a day when you thought the project was finished.</p>
+
+<p>Heavy debris projects — concrete demolition, tile removal, old patio slabs — often call for a smaller, purpose-sized container rather than a large one. A 10-yard container with a confirmed 2-ton limit, loaded with concrete only, costs less than a 20-yard with a 2-ton limit doing the same job past its weight capacity. For concrete-specific sizing, see the <a href="/resources/concrete-dumpster-rental" class="text-orange hover:underline">concrete dumpster rental guide</a>. For demolition projects with mixed debris, see the <a href="/resources/demolition-dumpster-rental" class="text-orange hover:underline">demolition dumpster guide</a>.</p>
+
+<p>Denver's roofing market is one of the highest-demand in the country after significant hail seasons — which happen most years along the Front Range. During active storm recovery, containers may book out quickly and some providers may apply demand pricing. If a hail event hits your neighborhood, book the container when you book the roofing crew.</p>
+
+<h2 id="delivery-location">Delivery Distance and Where You Are in the Metro</h2>
+
+<p>Denver dumpster rental pricing includes the haul distance to a licensed disposal facility — but that distance varies significantly depending on where in the metro you are. Providers base out of different locations across the metro, and the facility they use for disposal may be near the airport, south of the city, or west along US-6. A delivery from a Lakewood-based provider to a Lakewood address is different from the same provider driving to Commerce City.</p>
+
+<p>Addresses in the core urban neighborhoods — Capitol Hill, Highlands, Five Points, Baker, Sloan's Lake — are generally central enough that multiple providers can serve them without significant haul distance premium. Addresses at the outer edges of the metro — far eastern Aurora, southern Centennial, northwestern Westminster or Broomfield — may carry additional distance-related cost depending on the provider's service area and disposal route.</p>
+
+<p>Some providers publish a flat delivery rate; others break it out separately. Ask which applies before confirming. The total matters, not which line it appears on.</p>
+
+<h2 id="placement">Urban Denver vs. Suburban Access</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/17000989/pexels-photo-17000989.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    alt="Exterior view of a residential building in Denver, Colorado showing typical urban neighborhood character"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+  <figcaption class="mt-2 text-sm text-gray-500 text-center">Older Denver neighborhoods have shorter driveways, narrower alleys, and different access logistics than suburban metro areas. Placement decisions affect cost and scheduling.</figcaption>
+</figure>
+
+<p>Placement does not usually add a direct dollar amount to the base rate — but it affects cost indirectly in ways worth understanding before delivery day.</p>
+
+<p>In older Denver neighborhoods — Park Hill, Highlands, Capitol Hill, Baker, Washington Park — driveways are often shorter and narrower than in suburban markets. Detached garages off back alleys are common, and alley access often works well when the clearance is clear. Some alleys in these neighborhoods are gravel or packed dirt and can soften after rain. If alley delivery fails on arrival, a street placement becomes the next option — and street placement in Denver may require a permit from the City and County of Denver's Department of Transportation and Infrastructure.</p>
+
+<p>In suburban Denver — Aurora, Lakewood, Littleton, Thornton, Englewood, Westminster, Centennial — driveways are typically longer and wider. Placement on private property is usually straightforward. HOA rules in planned communities may restrict container duration, placement location, and visibility. Check your CC&Rs before booking if the neighborhood has an active HOA — a container in violation of HOA rules can result in fees that dwarf the rental cost.</p>
+
+<p>Street placement that requires a permit involves a separate application and fee. The permit cost varies by situation and location. Your rental provider can often advise on the process, and some handle the application for a fee. For more detail on permit requirements across Colorado municipalities, see the <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster rental permit guide</a>.</p>
+
+<h2 id="rental-length">Rental Period and Extension Fees</h2>
+
+<p>Most Denver dumpster providers offer 7-day or 10-day base rental periods in the quoted price. Extensions are available at $5–$15 per day. That rate sounds modest — but a 5-day extension at $12 per day adds $60 to the base rate. If you know the project will take two weeks, ask about a flat two-week rate at booking. It is often cheaper than the extension math.</p>
+
+<p>The projects most likely to need an extension: roofing jobs that get delayed by weather, estate cleanouts running over multiple weekends, kitchen renovations where contractor timing slips. Factor realistic project duration into the booking, not the optimistic version. The container waiting an extra three days does not care how confident you were on day one.</p>
+
+<p>Standard rental periods are confirmed at booking. Missing the pickup window without an extension request can result in additional fees. Confirm the extension policy and the pickup scheduling process before the container arrives.</p>
+
+<h2 id="how-to-compare">How to Compare Denver Dumpster Rental Quotes</h2>
+
+<p>The lowest base quote in Denver is not always the cheapest final invoice. Comparing Denver dumpster rental quotes requires looking at total cost, not the headline number.</p>
+
+<p>Before confirming any Denver dumpster rental, ask these questions:</p>
+
+<ol class="my-4 pl-6 space-y-2 list-decimal text-charcoal">
+  <li><strong>What is the weight limit included in the quoted price?</strong> Get the exact tonnage allowance, not a vague answer.</li>
+  <li><strong>What is the overage rate per ton?</strong> Know the fee before the debris is loaded, not after pickup.</li>
+  <li><strong>Is delivery and fuel included, or are those separate charges?</strong> A $300 quote with a $75 delivery fee is a $375 rental.</li>
+  <li><strong>What is the exact rental period?</strong> Is it 7 days from delivery or 7 calendar days? Extension rates?</li>
+  <li><strong>Are there material-specific surcharges for shingles, concrete, or mixed loads?</strong> Some providers charge more for roofing debris regardless of weight.</li>
+</ol>
+
+<p>A quote that answers all five questions clearly is easier to compare than one that answers only size and price. The cheapest quote that withholds weight limit details is often the most expensive final invoice. For a broader guide to finding lower dumpster rental prices across all markets, see the <a href="/resources/cheap-dumpster-rental" class="text-orange hover:underline">cheap dumpster rental guide</a>. For the national cost context, see <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">what a dumpster rental actually costs</a>.</p>
+
+<p>For Denver city and metro dumpster rental options — including pricing by container size across Aurora, Lakewood, Englewood, and surrounding suburbs — see the <a href="/locations/denver-co-dumpster-rental" class="text-orange hover:underline">Denver dumpster rental page</a> and the <a href="/locations/colorado/denver-metro" class="text-orange hover:underline">Denver metro locations guide</a>. For Colorado dumpster rental more broadly, see the <a href="/locations/colorado" class="text-orange hover:underline">Colorado locations page</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+
+<h3>How much does dumpster rental cost in Denver?</h3>
+<p>A 10-yard container in Denver typically runs $280–$480 per week. A 20-yard runs $380–$650. A 30-yard ranges from $450–$780. These are general estimates — your actual quote depends on your project specifics, delivery location, debris type, and the provider's weight limit and pricing structure.</p>
+
+<h3>What affects the price of a roll-off dumpster in Denver?</h3>
+<p>Six main variables: container size, included weight limit and debris type, delivery distance to a licensed disposal facility, rental period, whether delivery and fuel are bundled, and any material-specific surcharges for roofing shingles, concrete, or mixed loads. The weight limit and debris type are the variables most likely to change the final invoice from the quote.</p>
+
+<h3>Is a 20-yard dumpster usually the best value in Denver?</h3>
+<p>For most Denver residential projects, yes. The 20-yard handles roofing jobs, kitchen guts, and full-home cleanouts without a second haul. For dense debris like concrete or tile, a smaller container with an appropriate weight limit may be more cost-effective. For a detailed comparison, see the <a href="/resources/20-yard-dumpster-rental-denver" class="text-orange hover:underline">Denver 20-yard guide</a>.</p>
+
+<h3>Why do Denver dumpster quotes vary so much?</h3>
+<p>Provider pricing varies by haul distance to disposal facilities, the weight limit included in the base rate, material-specific surcharges, delivery zone, and whether fuel and delivery are bundled. A 20-yard quote at $400 with a 3-ton limit is a different product than a 20-yard quote at $350 with a 1-ton limit — particularly on any project involving shingles, tile, or concrete.</p>
+
+<h3>Can heavy debris increase the final dumpster rental price?</h3>
+<p>Yes. This is the most common source of invoice surprises in Denver. Dense materials — roofing shingles, ceramic tile, concrete, dirt, brick — can hit weight limits before the bin looks half full. Exceeding the limit triggers overage charges of $65–$150 per ton in most Denver markets. Confirm the weight limit before loading any project involving heavy renovation debris.</p>
+
+<h3>Is the cheapest Denver dumpster rental quote always the best option?</h3>
+<p>Not if the weight limit is low or the debris type carries surcharges. A cheaper quoted price can cost more on the final invoice if the weight allowance does not match the project. Compare the total cost — base rate, weight limit, overage rate, delivery, and rental period — not just the headline number.</p>
+
+<h3>Do street placement or permits affect dumpster rental cost in Denver?</h3>
+<p>Street placement in Denver may require a permit from the City and County of Denver, which carries its own cost. Some rental providers handle the permit application for a fee; others leave it to the renter. Driveway or alley placement on private property typically avoids the permit requirement. Confirm placement requirements with your provider before scheduling delivery.</p>
+
+<h3>How do I compare Denver dumpster rental quotes?</h3>
+<p>Ask each provider for the weight limit and overage rate per ton, whether delivery and fuel are included, and the exact rental period. Then compare total cost based on your actual project — not the cheapest base rate. A quote that answers all those questions directly is the one to work with. A quote that is vague about weight limits is the one to press further before booking.</p>
+
+<p>The quote is what it costs when everything goes right. The invoice is what it costs when the shingles weigh more than anyone thought and the pickup ran three days late. Those two numbers do not have to be different — but they will be, unless you ask the right questions upfront.</p>
+`,
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Denver?',
+        answer:
+          'A 10-yard container in Denver typically runs $280–$480 per week. A 20-yard runs $380–$650. A 30-yard ranges from $450–$780. These are general estimates — your actual quote depends on your project specifics, delivery location, debris type, and the provider\'s weight limit and pricing structure.',
+      },
+      {
+        question: 'What affects the price of a roll-off dumpster in Denver?',
+        answer:
+          'Six main variables: container size, included weight limit and debris type, delivery distance to a licensed disposal facility, rental period, whether delivery and fuel are bundled, and any material-specific surcharges for roofing shingles, concrete, or mixed loads. Weight limits and debris type are the variables most likely to change the final invoice from the quote.',
+      },
+      {
+        question: 'Is a 20-yard dumpster usually the best value in Denver?',
+        answer:
+          'For most Denver residential projects, yes. The 20-yard handles roofing jobs, kitchen guts, and full-home cleanouts without a second haul. For dense debris like concrete or tile, a smaller container with an appropriate weight limit may be more cost-effective. For a detailed comparison, see the Denver 20-yard dumpster guide.',
+      },
+      {
+        question: 'Why do Denver dumpster quotes vary so much?',
+        answer:
+          'Provider pricing varies by haul distance to disposal facilities, the weight limit included in the base rate, material-specific surcharges, delivery zone, and whether fuel and delivery are bundled. A 20-yard at $400 with a 3-ton limit is a different product than a 20-yard at $350 with a 1-ton limit — particularly on any project involving shingles, tile, or concrete.',
+      },
+      {
+        question: 'Can heavy debris increase the final dumpster rental price?',
+        answer:
+          'Yes. Dense materials — roofing shingles, ceramic tile, concrete, dirt, brick — can hit weight limits before the bin looks half full. Exceeding the limit triggers overage charges of $65–$150 per ton in most Denver markets. Confirm the weight limit before loading any project involving heavy renovation debris.',
+      },
+      {
+        question: 'Is the cheapest Denver dumpster rental quote always the best option?',
+        answer:
+          'Not if the weight limit is low or the debris type carries surcharges. A cheaper quoted price can cost more on the final invoice if the weight allowance does not match the project. Compare total cost — base rate, weight limit, overage rate, delivery, and rental period — not just the headline number.',
+      },
+      {
+        question: 'Do street placement or permits affect dumpster rental cost in Denver?',
+        answer:
+          'Street placement in Denver may require a permit from the City and County of Denver, which carries its own cost. Some rental providers handle the permit application for a fee. Driveway or alley placement on private property typically avoids the permit requirement. Confirm placement requirements with your provider before scheduling delivery.',
+      },
+      {
+        question: 'How do I compare Denver dumpster rental quotes?',
+        answer:
+          'Ask each provider for the weight limit and overage rate per ton, whether delivery and fuel are included, and the exact rental period. Compare total cost based on your actual project, not the cheapest base rate. A quote that answers those questions directly is the one to work with.',
+      },
+    ],
+    toc: [
+      { id: 'what-affects-cost', title: 'What Drives Dumpster Rental Cost in Denver' },
+      { id: 'pricing-by-size', title: 'Denver Pricing by Container Size' },
+      { id: 'weight-limits', title: 'Weight Limits and Overage Fees' },
+      { id: 'delivery-location', title: 'Delivery Distance and Where You Are in the Metro' },
+      { id: 'placement', title: 'Urban Denver vs. Suburban Access' },
+      { id: 'rental-length', title: 'Rental Period and Extension Fees' },
+      { id: 'how-to-compare', title: 'How to Compare Denver Dumpster Rental Quotes' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+  },
 ]

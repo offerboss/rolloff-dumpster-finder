@@ -208,8 +208,6 @@ export const cityLocations: CityLocation[] = [
       'Westminster',
       'Thornton',
       'Commerce City',
-      'Glendale',
-      'Sheridan',
       'Edgewater',
       'Golden',
     ],
@@ -11255,6 +11253,2242 @@ export const cityLocations: CityLocation[] = [
     ],
     latitude: 39.5807,
     longitude: -104.8772,
+  },
+
+  // ─── LITTLETON ────────────────────────────────────────────────
+  {
+    slug: 'littleton-co-dumpster-rental',
+    cityName: 'Littleton',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Littleton, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Littleton, CO for ranch home renovations, roofing tear-offs, estate cleanouts, and construction debris. Compare sizes and local pricing.',
+    primaryKeyword: 'littleton dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental littleton co',
+      'littleton construction dumpster rental',
+      'roll off dumpster littleton',
+      'roll off dumpster littleton co',
+      'rolloff dumpsters littleton',
+      'roll offs littleton co',
+      '10 yard dumpster rental littleton',
+      '20 yard dumpster rental littleton',
+      '30 yard dumpster rental littleton',
+    ],
+    heroH1: 'Dumpster Rental in Littleton, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental in Littleton for ranch home renovations, roofing tear-offs, estate cleanouts, and construction debris across the south Denver metro.',
+    introParagraphs: [
+      "Littleton's housing stock runs older than most of its neighbors. The neighborhoods around Old Town — Bemis Park, Governors Ranch, Columbine Hills, Columbine Knolls — have heavy concentrations of 1960s and 1970s ranch homes, many untouched since they were built. That volume of original kitchens, single-pane windows, and unfinished basements drives steady demand for roll-off containers during whole-home renovations and estate cleanouts. Some of the older ranches near the Highline Canal haven't had a thorough cleanout in decades.",
+      "Littleton sits in the Front Range hail corridor. The south metro gets hit most years between April and September, and a residential roofing tear-off on a typical Littleton ranch generates 2,000 to 3,000 pounds of shingle material. Most providers prefer roofing debris in a dedicated container rather than mixed with general remodel material. Book the bin when the roofer books the job — south metro availability tightens fast after a major hail event.",
+      'Rolloff Dumpster Finder connects Littleton homeowners and contractors with roll-off providers serving the south Denver metro. Providers who cover Littleton typically also serve Englewood, Centennial, Highlands Ranch, and Morrison. Get a quote that includes the weight allowance, not just the base rate. A 20-yard container at $400 with a 2-ton limit and a $75-per-ton overage charge can look different on the final invoice after a heavy cleanout.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, small bathroom remodels, minor yard waste, and light garage purges.',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Basement cleanouts, kitchen tear-outs, mid-size landscaping jobs, and partial garage cleanouts.',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, residential roofing tear-offs, bathroom and kitchen remodels, and estate cleanouts.',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Whole-house renovation debris, large construction projects, multi-room demo, and commercial cleanouts.',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction jobs, full gut renovations, large-volume commercial or multi-unit cleanouts.',
+        range: '$580–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Many Littleton ranches near Columbine Hills and Governors Ranch haven't been fully cleared in 30 or 40 years. A 20-yard container handles most single-family cleanouts. Basements with decades of accumulated furniture and tools often push the load into 30-yard territory.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Hail damage across the south metro keeps Littleton roofing contractors busy from late spring through early fall. A 20-yard roll-off handles most residential shingle tear-offs. Confirm the weight allowance before the job starts — three layers of old shingles will test the limit.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "Infill construction and new builds near Dakota Station and Chatfield generate consistent debris volume. A 30-yard container covers most framing, drywall, and subfloor material from a new build or gut renovation. Keep concrete and heavy masonry out of a mixed-debris container if you're near the weight cap.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Littleton's older ranch kitchens run small — 1960s galley layouts that are now getting opened up into the living space. Cabinets, tile, countertops, and drywall from a typical ranch kitchen gut fill a 10- or 15-yard container comfortably. Add a second bath and you're into 20-yard territory.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Unfinished basements in Littleton's original ranch stock accumulate fast. A 20-yard container covers a full basement clear-out, including old furniture, shelving, and stored materials. Oversized garages in Governors Ranch and Grant Ranch neighborhoods often run a 15-yard on their own.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Littleton has a significant population of long-term homeowners, and estate cleanouts in Old Town and Columbine Knolls can span decades of accumulated belongings. A 20-yard is the standard starting point; 30-yard containers are common when the cleanout includes outbuildings or a packed workshop.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'The large lots near Chatfield and Lee Gulch generate serious yard waste during tree removal, xeriscape conversions, and sod tear-outs. A 10- or 15-yard handles most residential landscaping loads. Confirm your provider accepts yard waste — some require it in a separate container from construction debris.',
+      },
+      {
+        number: '08',
+        name: 'Ranch Home Renovation',
+        description:
+          "Littleton's 1960s and 1970s ranch homes are being opened up, re-sided, and fully gutted. A full gut on a 1,500-square-foot ranch produces more debris than most homeowners expect — original flooring, lathe-and-plaster walls, original cabinetry, and insulation all compound. Plan for a 20- or 30-yard container from the start.",
+      },
+      {
+        number: '09',
+        name: 'Historic Downtown Remodels',
+        description:
+          "Old Town Littleton has a concentrated block of late 19th and early 20th century commercial and residential buildings along Main Street. Remodels in this district often involve older materials — original brick, plaster walls, and period framing. Truck access on some Old Town blocks is tight; confirm routing with the driver before delivery.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Littleton depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Littleton and requires no permit. Plywood under the container protects the surface.',
+      "Old Town Littleton has narrower streets than most of the city. Confirm truck routing and turning clearance before scheduling delivery to any address near Main Street or the historic district.",
+      'Street or right-of-way placement requires a permit from the City of Littleton Public Works Department. Processing times vary — apply before you need the bin.',
+      'HOA communities including Governors Ranch, Columbine Knolls, and Grant Ranch commonly have rules on container visibility, duration, and placement location. Check your CC&Rs before booking.',
+      'Some driveways in the hillside neighborhoods near Bear Creek and the foothills west of Santa Fe Drive have steep grades. Tell your provider about grade or access issues when you request a quote.',
+      'Alley access exists in a few of the older blocks near downtown. If alley delivery saves driveway space, confirm that alley width accommodates a roll-off truck before the driver heads out.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Old Town Littleton',
+      'Bemis Park',
+      'Governors Ranch',
+      'Columbine Hills',
+      'Columbine Knolls',
+      'Littleton Village',
+      'Chatfield',
+      'Grant Ranch',
+      'Lee Gulch',
+      'Fairview',
+      'Centennial Acres',
+      'Dakota Station',
+      'Heritage Park',
+      'Marcy Park',
+    ],
+    nearbyCities: [
+      'Englewood',
+      'Centennial',
+      'Highlands Ranch',
+      'Lakewood',
+      'Sheridan',
+      'Cherry Hills Village',
+      'Greenwood Village',
+      'Morrison',
+      'Parker',
+      'Lone Tree',
+      'Columbine Valley',
+      'Denver',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Littleton?',
+        answer:
+          'A 10-yard container in Littleton runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Dense debris like shingles, tile, or concrete pushes totals well past the base rate — get a quote that includes the weight allowance.',
+      },
+      {
+        question: 'What size dumpster do I need for a Littleton home cleanout?',
+        answer:
+          "Most Littleton home cleanouts need a 20-yard container. Ranch homes in Columbine Hills or Governors Ranch that haven't been fully cleared in decades often push into 30-yard territory once the basement is factored in. A 10-yard works for a single-room cleanout or a light garage purge.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Littleton?',
+        answer:
+          'Yes. A 20-yard handles most residential shingle tear-offs in Littleton. Confirm the weight allowance before the job starts — three layers of old shingles can push the limit before the container looks full. Book early after a hail event; south metro availability drops fast.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Littleton?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits well before the container appears full. A 10-yard filled with concrete often exceeds the weight cap with room to spare. Ask your provider about heavy-debris containers or weight caps if the load is mostly concrete, brick, or soil.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Littleton?',
+        answer:
+          'Most providers serving Littleton can deliver within one to three business days. Some local operators offer same-day delivery. After a significant hail event, availability across the south Denver metro tightens quickly — book as soon as the project is scheduled.',
+      },
+      {
+        question: 'Do you serve Englewood, Highlands Ranch, and Centennial?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the south Denver metro, including Englewood, Centennial, Highlands Ranch, Sheridan, Morrison, and Greenwood Village. Availability and pricing depend on which providers cover your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Littleton?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+      },
+      {
+        question: "What can't I put in a Littleton roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard containers: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Ask your provider for the full restricted list before you start loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Littleton?',
+        answer:
+          'No permit is required for driveway placement on private property. Street or right-of-way placement requires a permit from the City of Littleton Public Works Department. Your rental provider can often help with the paperwork — ask when you request the quote.',
+      },
+      {
+        question: 'Can a roll-off truck access my street in Old Town Littleton?',
+        answer:
+          'It depends on the block. Old Town Littleton has narrower streets and tighter turns than most of the city. Tell your provider the exact delivery address and describe any access concerns — the driver may need to assess the approach before scheduling, or may suggest a driveway placement instead.',
+      },
+    ],
+    latitude: 39.6133,
+    longitude: -105.0166,
+  },
+
+  // ─── COMMERCE CITY ────────────────────────────────────────────
+  {
+    slug: 'commerce-city-co-dumpster-rental',
+    cityName: 'Commerce City',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Commerce City, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Commerce City, CO for home cleanouts, construction debris, roofing tear-offs, and renovation projects. Compare sizes and pricing.',
+    primaryKeyword: 'commerce city dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental commerce city co',
+      'commerce city construction dumpster rental',
+      'roll off dumpster commerce city',
+      'roll off dumpster commerce city co',
+      'rolloff dumpsters commerce city',
+      'roll offs commerce city co',
+      '10 yard dumpster rental commerce city',
+      '20 yard dumpster rental commerce city',
+      '30 yard dumpster rental commerce city',
+    ],
+    heroH1: 'Dumpster Rental in Commerce City, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental in Commerce City for home cleanouts, new construction debris, roofing tear-offs, and rental property turnovers across the north Denver metro.',
+    introParagraphs: [
+      "Commerce City splits into two distinct rental markets. The south side — Derby, Adams City, and Irondale — has older working-class housing from the 1940s and 1950s, and that stock drives steady estate cleanout and rental property turnover demand. A 15- or 20-yard container handles most of what comes out of those older homes. The north side in Reunion, Buffalo Mesa, and Prairie Farm is newer suburban construction, with larger lots and active landscaping and new-build debris demand.",
+      "The industrial corridor along Quebec Street and I-76 generates consistent construction and demolition debris year-round. Commerce City also sits in the Front Range hail corridor, and the newer roofs in Reunion and Fronterra Village are just as likely to need a tear-off after a summer storm as older roofs in the south. Roofing jobs in both zones fill a 20-yard container. Confirm the weight allowance before the tear-off starts.",
+      'Rolloff Dumpster Finder connects Commerce City customers with roll-off providers serving the north Denver metro. Providers covering Commerce City typically also serve Thornton, Brighton, Aurora, and Federal Heights. Get a quote that includes the weight limit, not just the rental rate. A container priced at $400 with a 2-ton cap and $75-per-ton overages can surprise you after a mixed renovation load.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, light garage purges, small landscaping projects, and minor bathroom remodels.',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen tear-outs, basement cleanouts, mid-size landscaping jobs, and rental property turnovers.',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and estate cleanouts.',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Whole-house renovation debris, large construction jobs, multi-room demo, and commercial cleanouts.',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction sites, full gut renovations, large-volume commercial demolition, and multi-unit cleanouts.',
+        range: '$580–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "The older south Commerce City neighborhoods — Derby, Adams City, and Irondale — have decades of accumulated material in homes that haven't been cleared in years. A 20-yard handles most single-family cleanouts in these areas. Rental property turnovers here tend to run heavier than owners expect.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Front Range hail hits Commerce City every few years, and the newer roofs in Reunion and Fronterra Village need replacement just as much as older roofs in the south. A 20-yard roll-off handles most residential shingle tear-offs. Get the weight allowance in writing before the job starts — multiple shingle layers push the limit fast.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Active commercial and industrial construction in the Quebec Street and I-76 corridor generates significant debris volume year-round. New residential build-out in north Commerce City also keeps construction roll-offs in steady demand. A 30-yard is the standard for most framing, drywall, and subfloor material on a new build.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "The older homes in Adams City and Irondale have original kitchens being updated in volume. Cabinets, countertops, tile, and drywall from a full kitchen tear-out typically fill a 10- or 15-yard container. Add a bathroom and you're into 20-yard territory.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "South Commerce City's older housing stock has unfinished basements and detached garages that accumulate fast. A 15-yard handles a typical garage cleanout. Full basement clear-outs in homes untouched for 20 or 30 years often require a 20-yard.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Derby and Adams City have a significant population of long-term homeowners, and estate cleanouts in these neighborhoods can span decades of household goods, tools, and stored materials. A 20-yard is the standard starting point. If the property has an outbuilding or workshop, plan for a 30-yard.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "The larger lots in Reunion and Buffalo Mesa generate serious yard waste during sod removal, tree trimming, and xeriscape conversions. A 10- or 15-yard handles most residential landscaping loads. Confirm your provider accepts yard waste — some require it in a dedicated container separate from construction debris.",
+      },
+      {
+        number: '08',
+        name: 'New Construction Cleanup',
+        description:
+          'Active residential development in north Commerce City — Reunion, Prairie Farm, and Fronterra Village — keeps new construction roll-offs in consistent demand. Builder debris from framing, insulation, drywall, and packaging fills a 30-yard quickly. Schedule pickup before the debris creates a site hazard.',
+      },
+      {
+        number: '09',
+        name: 'Rental Property Turnover',
+        description:
+          "Commerce City has a significant rental housing market, particularly in the older south neighborhoods. A turnover typically requires a 10- or 15-yard container — appliances, flooring, drywall patches, and accumulated tenant debris add up. Same-day delivery is available from some local providers if the timeline between tenants is tight.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Commerce City depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and requires no permit. Plywood under the container protects the surface from the truck.',
+      'Street or right-of-way placement requires a permit from the City of Commerce City Public Works Department. Apply before you need the bin.',
+      'Reunion, Buffalo Mesa, and Fronterra Village have active HOAs with rules on container duration and visibility. Check your CC&Rs before booking.',
+      "Some older driveways in Derby and Adams City are narrower than standard suburban driveways. Tell your provider the driveway width when you request a quote — a smaller container may be the right call if the standard roll-off won't fit.",
+      'For commercial deliveries in the industrial zone near Quebec Street and I-76, coordinate access and placement with the driver in advance. Heavy truck traffic in this corridor affects scheduling.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Adams City',
+      'Derby',
+      'Irondale',
+      'Rose Hill',
+      'Hazeltine Heights',
+      'Reunion',
+      'Buffalo Mesa',
+      'Prairie Farm',
+      'Fronterra Village',
+      'Belle Creek',
+      'The Lakes at Dunes Park',
+      'Turnberry',
+    ],
+    nearbyCities: [
+      'Thornton',
+      'Brighton',
+      'Aurora',
+      'Denver',
+      'Northglenn',
+      'Westminster',
+      'Federal Heights',
+      'Henderson',
+      'Broomfield',
+      'Barr Lake',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Commerce City?',
+        answer:
+          'A 10-yard container in Commerce City runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Dense debris — shingles, concrete, tile — pushes totals well past the base rate. Get a quote that includes the weight allowance.',
+      },
+      {
+        question: 'What size dumpster do I need for a Commerce City home cleanout?',
+        answer:
+          "Most Commerce City home cleanouts need a 20-yard container. The older homes in Derby and Adams City that haven't been cleared in decades often push into 30-yard territory once the basement and garage are factored in. A 10-yard works for a single room or a light rental property turnover.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Commerce City?',
+        answer:
+          'Yes. A 20-yard handles most residential shingle tear-offs. Commerce City sits in the Front Range hail corridor, so local providers are used to roofing jobs. Confirm the weight allowance before the job starts — two or three shingle layers will test the limit before the container looks full.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Commerce City?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits before the container appears full. A 10-yard filled with concrete commonly exceeds the cap with room to spare. Ask your provider about heavy-debris containers or per-ton rates if the load is mostly concrete, brick, or soil.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Commerce City?',
+        answer:
+          'Most providers serving Commerce City deliver within one to three business days. Some local operators offer same-day delivery. After a major hail event, availability across the north Denver metro tightens — book as soon as the project is confirmed.',
+      },
+      {
+        question: 'Do you serve Thornton, Brighton, and Aurora?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the north Denver metro, including Thornton, Brighton, Aurora, Northglenn, Westminster, Federal Heights, and Henderson. Availability and pricing depend on which providers cover your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Commerce City?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+      },
+      {
+        question: "What can't I put in a Commerce City roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard containers: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Ask your provider for the complete restricted list before you start loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in my Commerce City driveway?',
+        answer:
+          'No permit is required for driveway placement on private property. Street placement requires a permit from the City of Commerce City Public Works Department. Your rental provider can often assist with the permit process — ask when you book.',
+      },
+      {
+        question: 'Can I rent a dumpster for an active construction site in north Commerce City?',
+        answer:
+          'Yes. Providers serving Commerce City regularly deliver roll-offs to active construction sites in Reunion, Prairie Farm, and Fronterra Village. A 30-yard is the standard for new construction debris. Confirm site access and container placement with the driver before delivery — active build sites have variable access conditions.',
+      },
+    ],
+    latitude: 39.8083,
+    longitude: -104.9339,
+  },
+
+  // ─── WHEAT RIDGE ──────────────────────────────────────────────
+  {
+    slug: 'wheat-ridge-co-dumpster-rental',
+    cityName: 'Wheat Ridge',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Wheat Ridge, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Wheat Ridge, CO for home renovations, roofing tear-offs, and estate cleanouts. Compare sizes and pricing for the west Denver metro.',
+    primaryKeyword: 'wheat ridge dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental wheat ridge co',
+      'wheat ridge construction dumpster rental',
+      'roll off dumpster wheat ridge',
+      'roll off dumpster wheat ridge co',
+      'rolloff dumpsters wheat ridge',
+      'roll offs wheat ridge co',
+      '10 yard dumpster rental wheat ridge',
+      '20 yard dumpster rental wheat ridge',
+      '30 yard dumpster rental wheat ridge',
+    ],
+    heroH1: 'Dumpster Rental in Wheat Ridge, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental in Wheat Ridge for mid-century home renovations, roofing tear-offs, estate cleanouts, and construction debris across the west Denver metro.',
+    introParagraphs: [
+      "Wheat Ridge has one of the oldest housing stocks in the Denver metro. Most of the city was built in the 1950s and 1960s — mid-century ranches and post-war bungalows filling a tight residential grid from Sheridan Boulevard to Kipling Street. Fruitdale, Paramount Heights, and the Lakeview neighborhoods have blocks where most homes were built within the same decade. That age drives steady demand for full-home renovations, basement updates, and estate cleanouts. Buyers coming from Denver are renovating in volume.",
+      "Wheat Ridge sits in the Front Range hail corridor, and the roof stock matches the housing age. Many 1950s and 1960s roofs in the city have been replaced once already and are due for another tear-off. A typical Wheat Ridge ranch produces 2,000 to 2,500 pounds of shingle material on a single-layer tear-off. Older multi-layer roofs run considerably heavier. Book the bin when the roofer books the job — summer container availability tightens fast after a hail event.",
+      'Rolloff Dumpster Finder connects Wheat Ridge homeowners and contractors with roll-off providers serving the west Denver metro. Providers covering Wheat Ridge typically also serve Arvada, Lakewood, Edgewater, and Denver. Many driveways in the city are original 1950s concrete — plywood under the container protects the surface. Get the weight allowance in the quote before loading. A full renovation mixed-load gets heavy before the container looks full.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, light garage purges, minor landscaping jobs, and small bathroom remodels.',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen tear-outs, basement cleanouts, mid-size landscaping projects, and partial home cleanouts.',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and estate cleanouts.',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Whole-house renovation debris, large construction projects, multi-room demo, and heavy estate cleanouts.',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major gut renovations, large-volume construction debris, commercial cleanouts, and multi-unit projects.',
+        range: '$580–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "The older ranches in Fruitdale, Paramount Heights, and Lakeview accumulate fast — original kitchens, decades of stored materials, and unfinished basements that haven't been touched since the house was built. A 20-yard handles most single-family cleanouts. Deep accumulations often push into 30-yard territory once the basement and detached garage are factored in.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Wheat Ridge gets hit regularly in the Front Range hail corridor, and the 1950s–1970s roof stock in the city is a recurring source of tear-off work. A 20-yard handles most single-layer residential tear-offs. Confirm the weight allowance before the job starts — multiple shingle layers push totals fast.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Renovation additions and whole-home gut projects generate consistent construction debris across Wheat Ridge. A 30-yard covers most framing, drywall, and subfloor material from a full renovation. Keep concrete and heavy masonry separate if you are near the weight cap on a mixed load.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "The original galley kitchens in Wheat Ridge ranches are being opened up in volume. Cabinets, tile, countertops, and drywall from a full kitchen tear-out fill a 10- or 15-yard container. Add a 1960s bathroom to the scope and you're looking at a 20-yard.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Detached garages are standard in the older Wheat Ridge residential grid, and they accumulate as fast as the basements. A 10- or 15-yard handles a typical garage purge. Full basement clear-outs — particularly in homes that haven't been touched in 30 or 40 years — usually require a 20-yard.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Wheat Ridge has a significant population of long-term homeowners, and estate cleanouts in Paramount Heights and Bel Aire commonly span decades of household goods, tools, and stored materials. A 20-yard is the starting point. If the home has a detached workshop or outbuilding, plan for a 30-yard.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "The established lots throughout Wheat Ridge generate serious yard waste during tree removal, sod tear-outs, and xeriscape conversions. A 10- or 15-yard handles most residential landscaping loads. Confirm your provider accepts yard waste — some require it in a container separate from construction debris.",
+      },
+      {
+        number: '08',
+        name: 'Mid-Century Renovations',
+        description:
+          "Wheat Ridge's 1950s and 1960s stock is being opened up, re-sided, and fully gutted at a pace that makes a 20- or 30-yard container a standard fixture in many driveways. Original lathe-and-plaster walls, old cast-iron plumbing, asbestos-era insulation, and period cabinetry all add weight. Plan for a heavier load than the container size alone suggests.",
+      },
+      {
+        number: '09',
+        name: 'Investment Property Cleanouts',
+        description:
+          "Wheat Ridge is attracting buyers priced out of Denver proper, and investment property acquisitions bring a wave of cleanouts and light renovations. A 10- or 15-yard covers most turnover jobs. Properties that sat vacant or were heavily occupied often need a 20-yard once every room is cleared.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Wheat Ridge depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and requires no permit. Many driveways in Wheat Ridge are original 1950s concrete — use plywood under the container to prevent surface damage.',
+      "Wheat Ridge's older grid-pattern neighborhoods were built with alleys, and alley placement is sometimes an option. Confirm alley width and clearance with your provider before booking — standard roll-off trucks need adequate turning room, and not every alley accommodates delivery.",
+      'Street or right-of-way placement requires a permit from the City of Wheat Ridge. Contact the Public Works Department before scheduling. Your rental provider can often help with the paperwork.',
+      'Wheat Ridge has very few HOA communities compared to newer Denver suburbs, but check your neighborhood before booking if you are unsure. Some older deed restrictions address container placement.',
+      'The northern portion of the city near Clear Creek has some properties with irregular grades or limited driveway access. Describe your access conditions when requesting a quote — the driver may need to assess before delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Fruitdale',
+      'Lakeview',
+      'Paramount Heights',
+      'Bel Aire',
+      'Manor Garden',
+      'Clear Creek Valley',
+      'Ridgecrest',
+      'Paramount',
+      'Morse Park',
+      'Vivian Park',
+      'Applewood',
+      'Crown Hill',
+    ],
+    nearbyCities: [
+      'Arvada',
+      'Lakewood',
+      'Denver',
+      'Edgewater',
+      'Golden',
+      'Lakeside',
+      'Westminster',
+      'Broomfield',
+      'Northglenn',
+      'Thornton',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Wheat Ridge?',
+        answer:
+          'A 10-yard container in Wheat Ridge runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Dense debris — shingles, old concrete driveways, and tile — pushes totals well past the base rate. Get a quote that includes the weight allowance.',
+      },
+      {
+        question: 'What size dumpster do I need for a Wheat Ridge home cleanout?',
+        answer:
+          "Most Wheat Ridge home cleanouts need a 20-yard container. The older ranches in Fruitdale and Paramount Heights that haven't been cleared in decades often push into 30-yard territory once the basement and detached garage are factored in. A 10-yard handles a single-room cleanout or a light garage purge.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Wheat Ridge?',
+        answer:
+          'Yes. Wheat Ridge sits in the Front Range hail corridor and local providers handle roofing jobs regularly. A 20-yard handles most single-layer residential shingle tear-offs. Confirm the weight allowance before the job starts — older multi-layer roofs push the limit before the container looks full.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Wheat Ridge?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits before the container is visually full. A 10-yard loaded with concrete commonly exceeds the cap with room to spare. Ask your provider about heavy-debris containers or per-ton rates if the load is mostly concrete, brick, or soil.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Wheat Ridge?',
+        answer:
+          'Most providers serving Wheat Ridge deliver within one to three business days. Some local operators offer same-day delivery. Summer availability tightens after hail events — book as soon as the project is confirmed.',
+      },
+      {
+        question: 'Do you serve Arvada, Lakewood, and Golden?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the west Denver metro, including Arvada, Lakewood, Edgewater, Golden, Denver, and Westminster. Availability and pricing depend on which providers cover your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Wheat Ridge?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+      },
+      {
+        question: "What can't I put in a Wheat Ridge roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard containers: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Ask your provider for the full restricted list before you start loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Wheat Ridge?',
+        answer:
+          'No permit is required for driveway placement on private property. Street or right-of-way placement requires a permit from the City of Wheat Ridge Public Works Department. Your rental provider can often assist with the permit — ask when you book.',
+      },
+      {
+        question: 'Can I place a dumpster in the alley in Wheat Ridge?',
+        answer:
+          "It depends on the alley. Wheat Ridge's older neighborhoods were built with alleys, and alley placement is sometimes an option if the container fits and doesn't block access. Confirm alley width and clearance with your provider before booking. Alley placement facing a public right-of-way may still require a city permit.",
+      },
+    ],
+    latitude: 39.7661,
+    longitude: -105.0775,
+  },
+
+  // ─── GREENWOOD VILLAGE ────────────────────────────────────────
+  {
+    slug: 'greenwood-village-co-dumpster-rental',
+    cityName: 'Greenwood Village',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Greenwood Village, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Greenwood Village dumpster rental for home renovations, estate cleanouts, roofing tear-offs, and construction near the DTC. Compare sizes and pricing.',
+    primaryKeyword: 'greenwood village dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental greenwood village co',
+      'greenwood village construction dumpster rental',
+      'roll off dumpster greenwood village',
+      'roll off dumpster greenwood village co',
+      'rolloff dumpsters greenwood village',
+      'roll offs greenwood village co',
+      '10 yard dumpster rental greenwood village',
+      '20 yard dumpster rental greenwood village',
+      '30 yard dumpster rental greenwood village',
+    ],
+    heroH1: 'Dumpster Rental in Greenwood Village, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental in Greenwood Village for estate home renovations, roofing tear-offs, custom home teardowns, and commercial construction near the Denver Tech Center.',
+    introParagraphs: [
+      "Greenwood Village is one of the smallest and wealthiest incorporated cities in the Denver metro. Large executive lots and custom homes in Cherry Knolls, Vintage Park, and Hunters Hill were built mostly in the 1970s and 1980s. Many of those properties are being renovated in volume — kitchen expansions, master suite additions, and whole-floor remodels that generate 20- to 30-yard loads. Some properties skip renovation entirely and go straight to teardown and rebuild.",
+      "The Denver Tech Center sits within Greenwood Village's city limits and generates consistent commercial construction and renovation debris. Office fit-outs, tenant improvements, and demolitions in the DTC mean commercial roll-offs are a routine part of the local market. The city also sits in the Front Range hail corridor. Estate-sized roofs — some over 4,000 square feet — produce considerably more shingle material than the suburban average when it's time for a tear-off.",
+      'Rolloff Dumpster Finder connects Greenwood Village homeowners and contractors with roll-off providers serving the south Denver metro. Providers covering Greenwood Village typically also serve Centennial, Cherry Hills Village, Englewood, and Littleton. Large-lot properties often have room for a container well away from the main drive, but gated entries and private roads need to be flagged when booking. The driver needs to know about access conditions before the truck heads out.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, minor landscaping jobs, small bathroom remodels, and light garage purges.',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen tear-outs, partial home cleanouts, mid-size landscaping projects, and office suite cleanouts.',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and estate cleanouts.',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Whole-house renovation debris, large custom home remodels, multi-room demo, and commercial fit-outs.',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Full home teardowns, large commercial demolitions, major renovation projects, and multi-unit cleanouts.',
+        range: '$580–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "The 1970s and 1980s estate homes in Cherry Knolls and Vintage Park accumulate at scale — larger homes mean more stored material across more rooms. A 20-yard handles many full cleanouts, but GV estate properties with outbuildings, workshops, or three-car garages commonly need a 30-yard. Start with a 20 and have a plan if the volume runs over.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Estate roofs in Greenwood Village are larger than the Denver suburban average — 3,000 to 5,000 square feet is common in Hunters Hill and The Preserve. A 20-yard handles most residential tear-offs, but larger roofs on older multi-layer systems may need a 30-yard. Confirm the weight allowance before the roofer starts.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "Custom home additions, full gut renovations, and new builds throughout Greenwood Village generate significant debris volume. A 30-yard is the standard for whole-home renovation jobs. The larger lot sizes in GV often allow container placement away from the main structure, which simplifies loading from multiple zones of the property.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'High-end kitchen and bath renovations in Greenwood Village tend to run larger than metro averages — custom cabinetry, stone countertops, and custom tile add weight. A 15- or 20-yard handles most kitchen tear-outs. Large primary suite bathroom remodels with custom stonework often push into 20-yard territory on their own.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Three-car garages and finished basements are standard in Greenwood Village, and they accumulate accordingly. A 15-yard handles a typical garage purge. Estate-sized basements that haven't been cleared in 20 or 30 years commonly need a 20-yard, particularly if the space was used as a workshop or secondary storage area.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Greenwood Village has a substantial population of long-term executive homeowners, and estate cleanouts here involve larger properties with more square footage than typical Denver suburb jobs. A 20-yard is the starting point. Estates with outbuildings, detached garages, or a pool house routinely require a 30-yard.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "Large lots throughout Greenwood Village generate serious landscaping volume during xeriscape conversions, tree removal, and sod tear-outs. A 15-yard handles most residential landscaping loads, but large-lot properties doing full yard overhauls often need a 20-yard. Confirm your provider accepts yard waste — some require it in a dedicated container.",
+      },
+      {
+        number: '08',
+        name: 'Custom Home Teardowns',
+        description:
+          "Greenwood Village sees a meaningful number of teardown-and-rebuild projects, particularly in areas like Sundance Hills and Orchard Hills where older custom homes are being replaced with new construction. A 40-yard is the standard container for a full teardown. The larger lots give the crew room to stage debris, which speeds up the haul.",
+      },
+      {
+        number: '09',
+        name: 'Commercial Office Cleanouts',
+        description:
+          'The Denver Tech Center generates consistent demand for commercial roll-offs during office suite cleanouts, tenant buildouts, and partial demolitions. A 20- or 30-yard handles most commercial cleanouts. Confirm property management access requirements before scheduling delivery — building access and loading dock hours vary by property.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Greenwood Village depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and requires no permit. Large lots in Greenwood Village often provide room to position the container away from the main entry.',
+      'Gated properties and private roads require advance coordination with your rental provider. Give the driver a gate code or access contact when booking — showing up to a locked gate adds cost and delays the job.',
+      'Street or right-of-way placement requires a permit from the City of Greenwood Village. Contact the Public Works Department before scheduling delivery to the street.',
+      'Many Greenwood Village residential areas have HOA covenants that restrict container placement, duration, and visibility. Check your CC&Rs before booking.',
+      'Commercial deliveries to properties within the Denver Tech Center require coordination with building management. Loading dock hours and access restrictions vary by property — confirm before scheduling.',
+      'Some estate driveways have circular configurations or low-clearance entries that limit truck access. Describe your driveway layout when requesting a quote.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Vintage Park',
+      'Cherry Knolls',
+      'Hunters Hill',
+      'Sundance Hills',
+      'The Colony',
+      'Denver Tech Center',
+      'Greenwood Oaks',
+      'The Preserve',
+      'Orchard Hills',
+      'Heritage Oaks',
+      'Greenwood Village Manor',
+      'Willow Creek',
+    ],
+    nearbyCities: [
+      'Centennial',
+      'Cherry Hills Village',
+      'Englewood',
+      'Littleton',
+      'Aurora',
+      'Denver',
+      'Lone Tree',
+      'Highlands Ranch',
+      'Parker',
+      'Sheridan',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Greenwood Village?',
+        answer:
+          'A 10-yard container in Greenwood Village runs $280–$480 per week. A 20-yard is typically $380–$650. Larger estate homes and high-end renovation jobs often need a 30-yard, which runs $450–$780. Get a quote that includes the weight allowance — stone countertops, tile, and heavy materials push totals past the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for a Greenwood Village home cleanout?',
+        answer:
+          "Most Greenwood Village home cleanouts need a 20-yard container. Estate-sized properties in Cherry Knolls or Hunters Hill with multiple outbuildings or a large basement commonly push into 30-yard territory. A 10-yard covers a single-room cleanout, but it's rarely sufficient for a full estate.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Greenwood Village?',
+        answer:
+          'Yes. Greenwood Village sits in the Front Range hail corridor and providers here handle roofing jobs regularly. Estate-sized roofs generate more material than average — confirm the weight allowance before the tear-off starts. A roof over 3,500 square feet may need a 30-yard rather than a standard 20.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Greenwood Village?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits before the container is visually full. Custom home teardowns and pool demolitions generate heavy mixed loads. Ask your provider about heavy-debris containers or per-ton pricing for loads that are mostly concrete, masonry, or compacted soil.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Greenwood Village?',
+        answer:
+          'Most providers serving Greenwood Village deliver within one to three business days. Some local operators offer same-day delivery. After major hail events, south metro container availability tightens — book as soon as the project is confirmed.',
+      },
+      {
+        question: 'Do you serve Centennial, Cherry Hills Village, and Englewood?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the south Denver metro, including Centennial, Cherry Hills Village, Englewood, Littleton, Lone Tree, Highlands Ranch, and Aurora. Availability and pricing depend on which providers cover your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Greenwood Village?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+      },
+      {
+        question: "What can't I put in a Greenwood Village roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Pool chemicals, refrigerants, and appliances with sealed systems may require separate handling. Ask your provider for the full restricted list before loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Greenwood Village?',
+        answer:
+          'No permit is required for placement on private property. Street or right-of-way placement requires a permit from the City of Greenwood Village Public Works Department. Most homeowners use driveway placement, which avoids the permit process entirely.',
+      },
+      {
+        question: 'Can I get a roll-off for a commercial project in the Denver Tech Center?',
+        answer:
+          "Yes. Providers serving Greenwood Village regularly deliver roll-offs to the Denver Tech Center for office cleanouts, tenant improvements, and demolition projects. Confirm access hours and placement requirements with building management before scheduling — loading dock restrictions and lot access vary by property and aren't always posted.",
+      },
+    ],
+    latitude: 39.6264,
+    longitude: -104.9175,
+  },
+
+  // ─── ENGLEWOOD ────────────────────────────────────────────────
+  {
+    slug: 'englewood-co-dumpster-rental',
+    cityName: 'Englewood',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Englewood, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Englewood, CO for home cleanouts, roofing tear-offs, estate cleanouts, and renovation projects. Compare sizes and local pricing.',
+    primaryKeyword: 'englewood dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental englewood co',
+      'englewood construction dumpster rental',
+      'roll off dumpster englewood',
+      'roll off dumpster englewood co',
+      'rolloff dumpsters englewood',
+      'roll offs englewood co',
+      '10 yard dumpster rental englewood',
+      '20 yard dumpster rental englewood',
+      '30 yard dumpster rental englewood',
+    ],
+    heroH1: 'Dumpster Rental in Englewood, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental in Englewood for home cleanouts, roofing tear-offs, estate cleanouts, and renovation projects across the south Denver metro.',
+    introParagraphs: [
+      "Englewood sits directly south of Denver city limits, and its housing stock reflects that proximity. Most of the residential neighborhoods east and west of South Broadway were built in the 1940s through 1960s — bungalows and small ranches that have been owned by the same families for decades. Bates-Logan Park, Duncan Park, and Old Hampden have concentrated blocks of this older stock. Estate cleanouts, renovation projects, and rental property turnovers are the core of local dumpster demand.",
+      "The light rail lines running through Englewood — Oxford and Englewood stations on the C and W lines — have accelerated investment in the city's older housing. Buyers are purchasing 1950s-era properties near transit and renovating them in full. That renovation wave generates consistent roll-off demand: full kitchen and bath overhauls, roofing tear-offs after hail events, and complete interior gut projects that fill a 20- or 30-yard container.",
+      'Rolloff Dumpster Finder connects Englewood homeowners and contractors with roll-off providers serving the south Denver metro. Providers covering Englewood typically also serve Denver, Cherry Hills Village, Centennial, Littleton, and Greenwood Village. Get a quote that includes the weight allowance. A 1950s kitchen gut with tile floors, lathe-and-plaster walls, and cast-iron fixtures will hit the weight cap before the container looks full.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, light garage purges, minor landscaping jobs, and small bathroom remodels.',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen tear-outs, basement cleanouts, mid-size landscaping projects, and rental property turnovers.',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and estate cleanouts.',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Whole-house renovation debris, large construction projects, multi-room demo, and heavy estate cleanouts.',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major gut renovations, large-volume commercial cleanouts, full demolitions, and multi-unit projects.',
+        range: '$580–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "The older bungalows and ranches in Bates-Logan Park and Duncan Park have accumulated decades of material. A 20-yard handles most single-family cleanouts. Properties that haven't been cleared in 30 or 40 years often push into 30-yard territory once the basement and detached garage are factored in.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Englewood sits in the Front Range hail corridor, and the older roof stock on 1950s and 1960s homes is a regular source of tear-off work. A 20-yard handles most residential shingle tear-offs. Confirm the weight allowance before the roofer starts — older roofs with multiple layers push the limit quickly.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "Renovation additions and gut projects throughout Englewood's older housing stock generate consistent construction debris. A 30-yard covers most framing, drywall, and subfloor material from a whole-home renovation. The South Broadway corridor also sees commercial renovation that drives roll-off demand.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Englewood's original 1950s kitchens are being opened up and modernized in volume. Tile floors, lathe-and-plaster walls, and original cabinetry add more weight than homeowners expect. A 10- or 15-yard handles most kitchen tear-outs. Add a bathroom and plan for a 20-yard.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Unfinished basements and detached garages are standard in Englewood's older residential grid. A 15-yard handles most garage purges. Full basement clear-outs in homes untouched for decades commonly need a 20-yard.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Englewood has a significant population of long-term homeowners, and estate cleanouts in Old Hampden and Belleview Park commonly involve decades of household goods, tools, and stored materials. A 20-yard is the standard starting point. If the property has a detached garage or workshop, plan for a 30-yard.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "Established lots throughout Englewood generate solid landscaping volume during xeriscape conversions, sod tear-outs, and tree removal. A 10- or 15-yard handles most residential landscaping loads. Confirm yard waste is accepted — some providers require it in a separate container from construction debris.",
+      },
+      {
+        number: '08',
+        name: 'Light Rail Corridor Renovations',
+        description:
+          "Properties near the Englewood and Oxford light rail stations have seen active investment since the lines opened. Full-home gut renovations in these transit-adjacent corridors are a regular driver of roll-off demand. A 20- or 30-yard is the standard for whole-home interior renovations in this market.",
+      },
+      {
+        number: '09',
+        name: 'Investment Property Cleanouts',
+        description:
+          "Englewood's older housing stock attracts investors and buyers looking to renovate near Denver at a lower price point. A rental property turnover typically needs a 10- or 15-yard container. Properties that sat vacant or had extended tenancy often need a 20-yard once every room is cleared.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Englewood depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and requires no permit. Older driveways in Bates-Logan Park and Duncan Park are often narrower than newer suburban driveways — describe access when requesting a quote.',
+      'Street or right-of-way placement requires a permit from the City of Englewood. Contact the Public Works Department before scheduling street delivery.',
+      'HOA restrictions are uncommon in Englewood compared to newer Denver suburbs, but check your property covenants before booking.',
+      "The Broadway Station area and neighborhoods near the light rail have limited street parking and tighter access than the surrounding residential grid. Confirm driver routing in advance if your property is within a block or two of the station.",
+      'Some detached garages in the older residential grid have narrow alley access. If alley delivery is needed, confirm alley width and truck clearance with the provider before booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Bates-Logan Park',
+      'Old Hampden',
+      'Belleview Park',
+      'Duncan Park',
+      'Broadway Station',
+      'East Hampden',
+      'South Broadway Corridor',
+      'Westernhills',
+      'Cherry Hills Manor',
+      'Malley Drive',
+      'Rotherham',
+      'CityCenter Englewood',
+    ],
+    nearbyCities: [
+      'Denver',
+      'Centennial',
+      'Cherry Hills Village',
+      'Littleton',
+      'Greenwood Village',
+      'Lakewood',
+      'Aurora',
+      'Lone Tree',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Englewood?',
+        answer:
+          'A 10-yard container in Englewood runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Older 1950s renovation material — tile, plaster, cast iron — runs heavier than it looks. Get a quote that includes the weight allowance.',
+      },
+      {
+        question: 'What size dumpster do I need for an Englewood home cleanout?',
+        answer:
+          "Most Englewood home cleanouts need a 20-yard container. The older bungalows in Bates-Logan Park and Duncan Park that haven't been cleared in decades often push into 30-yard territory once the basement and garage are factored in. A 10-yard covers a single room or a light rental property turnover.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Englewood?',
+        answer:
+          'Yes. Englewood sits in the Front Range hail corridor and providers here handle roofing jobs regularly. A 20-yard handles most residential shingle tear-offs. Confirm the weight allowance before the roofer starts — older roofs with multiple layers push the limit before the container looks full.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Englewood?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits before the container is visually full. A 10-yard filled with concrete commonly exceeds the cap with room to spare. Ask your provider about heavy-debris containers or per-ton pricing for loads that are mostly concrete, brick, or soil.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Englewood?',
+        answer:
+          'Most providers serving Englewood deliver within one to three business days. Some local operators offer same-day delivery. Summer availability tightens after hail events — book as soon as the project is confirmed.',
+      },
+      {
+        question: 'Do you serve Denver, Littleton, and Centennial?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the south Denver metro, including Denver, Centennial, Littleton, Cherry Hills Village, Greenwood Village, Lakewood, and Aurora. Availability and pricing depend on which providers cover your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Englewood?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+      },
+      {
+        question: "What can't I put in an Englewood roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Ask your provider for the full restricted list before loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Englewood?',
+        answer:
+          'No permit is required for driveway placement on private property. Street placement requires a permit from the City of Englewood Public Works Department. Your rental provider can often assist — ask when you book.',
+      },
+      {
+        question: 'Are there dumpster rentals available near the Englewood light rail stations?',
+        answer:
+          "Yes. Providers serving Englewood deliver throughout the city, including properties near the Oxford and Englewood light rail stations. Transit-adjacent neighborhoods have active renovation activity — book early if you're working in one of these corridors during peak renovation season.",
+      },
+    ],
+    latitude: 39.6483,
+    longitude: -104.9877,
+  },
+
+  // ─── BROOMFIELD ───────────────────────────────────────────────
+  {
+    slug: 'broomfield-co-dumpster-rental',
+    cityName: 'Broomfield',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Broomfield, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Broomfield, CO for home renovations, roofing tear-offs, construction debris, and landscaping projects near Denver and Boulder.',
+    primaryKeyword: 'broomfield dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental broomfield co',
+      'broomfield construction dumpster rental',
+      'roll off dumpster broomfield',
+      'roll off dumpster broomfield co',
+      'rolloff dumpsters broomfield',
+      'roll offs broomfield co',
+      '10 yard dumpster rental broomfield',
+      '20 yard dumpster rental broomfield',
+      '30 yard dumpster rental broomfield',
+    ],
+    heroH1: 'Dumpster Rental in Broomfield, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental in Broomfield for home renovations, roofing tear-offs, new construction debris, and landscaping projects along the Denver–Boulder corridor.',
+    introParagraphs: [
+      "Broomfield is the newest county in Colorado — incorporated as both a city and county in 2001 — and the housing stock reflects that. Most of the residential development in Anthem, The Broadlands, Lac Amora, and Flatiron Meadows was built between the 1990s and 2010s. That era of construction means the first major renovation wave is underway. Roofing systems, original kitchens, and first-generation finishes are aging out, and roll-off demand is rising to meet that work.",
+      "The US-36 corridor running through Broomfield connects Denver to Boulder and has attracted significant commercial development. Interlocken and the surrounding business park generate consistent construction and tenant improvement debris. The city also sits in the Front Range hail corridor — large-lot suburban roofs common throughout Anthem and the northern communities produce meaningful shingle volume when replacement time arrives.",
+      'Rolloff Dumpster Finder connects Broomfield homeowners and contractors with roll-off providers serving the northwest Denver metro. Providers covering Broomfield typically also serve Westminster, Thornton, Arvada, Northglenn, and Louisville. Get the weight allowance in the quote before loading. Construction debris from framing, concrete, and drywall gets heavy before the container looks close to full.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, light garage purges, minor landscaping jobs, and small bathroom remodels.',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen tear-outs, partial home cleanouts, mid-size landscaping projects, and garage cleanouts.',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and construction debris.',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Whole-house renovation debris, large new construction jobs, multi-room demo, and commercial cleanouts.',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction sites, full gut renovations, large commercial demolitions, and multi-unit cleanouts.',
+        range: '$580–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Homes in Anthem, Lac Amora, and Brandywine from the late 1990s and 2000s are reaching the point where full cleanouts are common during ownership transitions. A 20-yard handles most single-family cleanouts. Larger homes with three-car garages or finished basements often need a 30-yard.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Broomfield sits in the Front Range hail corridor. The large-lot homes in Anthem and The Broadlands have substantial roof square footage — 2,500 to 4,000 square feet is common. A 20-yard handles most residential tear-offs, but larger roofs may need a 30-yard. Confirm the weight allowance before the job starts.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "Active commercial construction in Interlocken and ongoing residential build-out in McKay Landing and Mountain Vista generate consistent debris volume. A 30-yard is the standard for new residential construction. Commercial jobs in the Interlocken corridor typically run 30- or 40-yard containers.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "First-generation kitchens in Broomfield's 1990s-2000s homes are being updated in volume. Laminate cabinets, tile countertops, and original fixtures are coming out across the city. A 10- or 15-yard handles most kitchen tear-outs. Larger kitchens common in the Anthem and Broadlands floor plans often push into 20-yard territory.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Finished basements and oversized garages are standard in Broomfield's newer housing stock. A 15-yard handles most garage purges. Full basement clear-outs — particularly finished spaces being converted or homes changing ownership — commonly need a 20-yard.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Broomfield's older neighborhoods — Lac Amora, Brandywine, and Country Club Highlands — have homes from the late 1980s and early 1990s whose original owners are now transitioning out. Estate cleanouts in these areas run 20-yard loads. Larger properties often push toward 30-yard containers.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "The large lots in Anthem and The Broadlands generate significant landscaping volume during xeriscape conversions, sod tear-outs, and tree removal. A 10- or 15-yard handles most residential loads. Confirm your provider accepts yard waste — some require it in a container separate from construction debris.",
+      },
+      {
+        number: '08',
+        name: 'New Construction Cleanup',
+        description:
+          "Active new residential and commercial construction in north Broomfield keeps new-build roll-offs in consistent demand. Builder debris from framing, insulation, drywall, and packaging fills a 30-yard quickly. Schedule pickup before the debris creates a site hazard or access problem.",
+      },
+      {
+        number: '09',
+        name: 'Commercial Office Cleanouts',
+        description:
+          'The Interlocken business park generates commercial cleanout and tenant improvement demand year-round. A 20- or 30-yard handles most commercial cleanouts. Confirm access hours and placement requirements with property management before scheduling — Interlocken parking lots have variable access conditions.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Broomfield depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option and requires no permit. Newer Broomfield driveways are generally wide enough to accommodate a standard roll-off truck without access issues.',
+      'Street or right-of-way placement requires a permit from the City and County of Broomfield Public Works Department. Apply before you need the bin.',
+      'Anthem, The Broadlands, and other master-planned communities have active HOAs with container visibility and duration rules. Check your CC&Rs before booking.',
+      'Commercial deliveries to the Interlocken business park require coordination with property management. Parking lot placement and loading zone access vary by building — confirm before scheduling.',
+      'Larger lots in Anthem and the northern communities often provide room to place a container away from the main driveway, which reduces surface damage risk and keeps the truck out of traffic.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Anthem',
+      'The Broadlands',
+      'Interlocken',
+      'Flatiron Meadows',
+      'Redleaf',
+      'Lac Amora',
+      'Brandywine',
+      'Country Club Highlands',
+      'Mountain Vista',
+      'McKay Landing',
+      'Midway',
+      'Aspen Creek',
+    ],
+    nearbyCities: [
+      'Westminster',
+      'Thornton',
+      'Northglenn',
+      'Arvada',
+      'Louisville',
+      'Lafayette',
+      'Erie',
+      'Superior',
+      'Denver',
+      'Boulder',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Broomfield?',
+        answer:
+          'A 10-yard container in Broomfield runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Dense debris — concrete, shingles, tile — pushes totals well past the base rate. Get a quote that includes the weight allowance.',
+      },
+      {
+        question: 'What size dumpster do I need for a Broomfield home cleanout?',
+        answer:
+          "Most Broomfield home cleanouts need a 20-yard container. Larger homes in Anthem or The Broadlands with three-car garages or finished basements often push into 30-yard territory. A 10-yard is sufficient for a single-room cleanout or a light garage purge.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Broomfield?',
+        answer:
+          'Yes. Broomfield sits in the Front Range hail corridor and providers here handle roofing jobs regularly. The large residential roofs common in Anthem and Broadlands communities can approach 30-yard territory. Confirm the weight allowance before the tear-off starts.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Broomfield?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits before the container appears full. Ask your provider about heavy-debris containers or per-ton pricing if the load is mostly concrete, masonry, or compacted soil.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Broomfield?',
+        answer:
+          'Most providers serving Broomfield deliver within one to three business days. Some local operators offer same-day delivery. Summer availability tightens after hail events — book as soon as the project is confirmed.',
+      },
+      {
+        question: 'Do you serve Westminster, Thornton, and Arvada?',
+        answer:
+          'Yes. Rolloff Dumpster Finder connects customers throughout the northwest Denver metro, including Westminster, Thornton, Northglenn, Arvada, Louisville, and Lafayette. Availability and pricing depend on which providers cover your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Broomfield?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+      },
+      {
+        question: "What can't I put in a Broomfield roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Ask your provider for the full restricted list before loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Broomfield?',
+        answer:
+          'No permit is required for driveway placement on private property. Street placement requires a permit from the City and County of Broomfield Public Works Department. Your rental provider can often assist — ask when you book.',
+      },
+      {
+        question: 'Are there dumpster rentals available for commercial jobs in Interlocken?',
+        answer:
+          'Yes. Providers serving Broomfield regularly deliver roll-offs to the Interlocken business park for office cleanouts, tenant improvements, and construction projects. Confirm property management access requirements before scheduling — building access and parking lot placement vary by property.',
+      },
+    ],
+    latitude: 39.9205,
+    longitude: -105.0867,
+  },
+  // ─── GREELEY ──────────────────────────────────────────────────
+  {
+    slug: 'greeley-co-dumpster-rental',
+    cityName: 'Greeley',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental in Greeley, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Greeley, CO for home cleanouts, hail-season roofing, and construction projects in Weld County. Compare sizes and local pricing.',
+    primaryKeyword: 'greeley dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental greeley co',
+      'greeley construction dumpster rental',
+      'roll off dumpster greeley',
+      'roll off dumpster greeley co',
+      'rolloff dumpsters greeley',
+      'roll offs greeley co',
+      '10 yard dumpster rental greeley',
+      '20 yard dumpster rental greeley',
+      '30 yard dumpster rental greeley',
+    ],
+    heroH1: 'Dumpster Rental in Greeley, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for home cleanouts, hail-season roofing tear-offs, construction debris, and renovation projects in Greeley and across Weld County.',
+    introParagraphs: [
+      "Greeley's housing market spans nearly 150 years of construction. Victorian and Craftsman-era homes in the Old Town and Downtown areas, mid-century ranches in Westgate and Bittersweet from the 1950s and 1960s, and active new development on the west side are all in the mix. The mid-century stock is now at the age where ownership changes drive full gut renovations — kitchens stripped to studs, carpet pulled through the whole house — and estate cleanouts that fill a 20-yard container before the garage is touched.",
+      "Weld County is one of the most oil-productive counties in the country, and the commercial construction tied to that industry generates consistent roll-off demand in and around Greeley year-round. Pad-site buildouts, oilfield service facilities, and light industrial construction along the US-85 and Highway 34 corridors regularly need 30 and 40-yard containers. The University of Northern Colorado adds a separate demand layer: landlords and property managers near campus clear rental units between academic terms, and the turnover is predictable and steady. The eastern plains location also puts Greeley directly in the hail corridor — sometimes more exposed than the Denver metro — and roofing container demand spikes fast after major storms.",
+      "Rolloff Dumpster Finder connects Greeley homeowners, landlords, and contractors with local roll-off providers covering Greeley, Evans, Windsor, Milliken, and the surrounding Weld County area. Compare sizes, weight limits, and pricing before booking. The comparison takes a few minutes and the overweight fee it can prevent is typically $75–$150 or more.",
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, garage cleanouts, and light yard debris.',
+        range: '$290–$500 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room cleanouts, mid-size remodels, roofing on smaller homes, and basement debris.',
+        range: '$330–$560 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Whole-home cleanouts, standard roof tear-offs, kitchen and bath renovations, and construction debris.',
+        range: '$390–$670 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, major gut renovations, commercial tenant improvements, and heavy mixed demo.',
+        range: '$460–$800 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, large demolition jobs, industrial cleanouts, and high-volume C&D debris.',
+        range: '$590–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Craftsman and ranch homes in Old Town and Bittersweet have accumulated decades of material. Full-home cleanouts in Greeley commonly need a 20-yard container — homes that haven't been cleared in 30 or 40 years often need a second pull once the basement is reached.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Greeley sits in the northern Front Range hail corridor and sees significant storm activity on the eastern plains. After a major event, roofing container demand across Weld County tightens within days. A 20-yard handles most residential shingle tear-offs — confirm the weight allowance before the crew starts.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Active residential development on the west side of Greeley and infill near the UNC campus generate consistent framing, drywall, and mixed C&D debris. Commercial buildout along Highway 34 and the US-85 corridor adds to industrial roll-off demand year-round.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Mid-century ranches in Westgate and Bittersweet are being gutted as ownership changes. Tile, cabinets, countertops, and old drywall add up faster than most estimates account for — especially when the subfloor comes out with the tile.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Older Greeley homes commonly have unfinished basements that have collected decades of goods. A two-car garage cleanout typically fits a 10-yard. A full basement cleanout usually needs a 15 or 20-yard depending on what's in it.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Downtown and Old Town Greeley have established homes that have been in families for generations. Estate cleanouts in these neighborhoods regularly need 20 or 30-yard containers. Homes lived in for 40 or 50 years can fill a 20-yard before the living room is done.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Xeriscape conversions and turf removals are common in Greeley as water rates have increased. Sod, branches, and clean yard debris go into most roll-offs — confirm with your provider before loading, as some exclude dirt and sod from standard containers.',
+      },
+      {
+        number: '08',
+        name: 'University Rental Turnover',
+        description:
+          'The University of Northern Colorado generates consistent move-out and landlord cleanup demand in the neighborhoods surrounding campus. Rental property cleanouts and unit-turnover debris are common jobs between academic terms — predictable volume for anyone managing multiple properties near UNC.',
+      },
+      {
+        number: '09',
+        name: 'Commercial & Industrial',
+        description:
+          "Weld County's oil and gas industry drives commercial roll-off demand around Greeley year-round. Oilfield service facilities, light industrial cleanouts, and commercial tenant improvements along the Highway 34 and US-85 corridors regularly require 30 or 40-yard containers.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Greeley depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement on private property is the most common setup and does not typically require a permit in Greeley.',
+      'Older central Greeley neighborhoods — Old Town, Bittersweet, and the Downtown area — often have alley access behind the home, which is a practical alternative to blocking the driveway.',
+      'Street placement in the public right-of-way requires a permit from the City of Greeley Public Works Department. Ask your provider whether they can assist with the permit when you book.',
+      'Evans addresses fall within the City of Evans, which has its own permitting process for street placement. Confirm requirements with Evans city administration before scheduling if your address is in Evans.',
+      'Newer HOA communities on the west side — including developments in the Poudre River Ranch and Promontory areas — may restrict container placement in driveways or on the street. Check with the HOA before the delivery date.',
+      'Placing plywood under the container wheels protects asphalt driveways from divots — a standard precaution worth asking the driver about before delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Greeley',
+      'Old Town',
+      'Westgate',
+      'Bittersweet',
+      'Boomerang',
+      'Poudre River Ranch',
+      'Fox Run',
+      'Promontory',
+      'Garden Place',
+      'Shoshone Park',
+      'Farr Park',
+      'High Plains Village',
+      'University Area',
+      'East Greeley',
+      'North Greeley',
+    ],
+    nearbyCities: [
+      'Evans',
+      'Windsor',
+      'Fort Collins',
+      'Loveland',
+      'Johnstown',
+      'Milliken',
+      'Eaton',
+      'Ault',
+      'LaSalle',
+      'Kersey',
+      'Berthoud',
+      'Wellington',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Greeley?',
+        answer:
+          'A 10-yard container in Greeley typically runs $290–$500 per week. A 20-yard is usually $390–$670. Prices depend on container size, what goes in it, rental duration, and which providers serve your delivery address. Confirm the weight allowance in the quote — that is where most invoicing surprises happen.',
+      },
+      {
+        question: 'What size dumpster do I need for a Greeley home cleanout?',
+        answer:
+          'Most full-home cleanouts need a 20-yard container. A single room or garage typically fits a 10-yard. Older Greeley homes in the Old Town and Bittersweet areas that have not been cleared in decades often need a 20 or 30-yard — and sometimes a second pull once the basement is opened.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Greeley?',
+        answer:
+          'Yes. Greeley is in the Front Range hail corridor and roofing tear-offs are one of the most common container uses after storm season. A 20-yard handles most residential shingle tear-offs. Shingles are dense — a full roof commonly produces 3 tons or more — so confirm the weight allowance before the job starts.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Greeley?',
+        answer:
+          'Most providers serving Greeley accept concrete, brick, and soil in standard roll-offs, but weight limits apply. Concrete hits weight limits long before it fills the container — 3–4 tons can be reached before the bin looks a third full. For clean concrete or heavy masonry jobs, ask whether a smaller heavy-debris container is available.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Greeley?',
+        answer:
+          'Most local providers deliver within 1–3 business days. Same-day delivery is sometimes available if you call before mid-morning. After a major hail event, container availability across Weld County tightens quickly — booking a day or two ahead is worthwhile during storm season.',
+      },
+      {
+        question: 'Do you serve Evans, Windsor, and other Weld County communities?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Greeley, Evans, Windsor, Milliken, Johnstown, Eaton, and surrounding Weld County communities. Availability depends on which providers serve your specific delivery address and zip code.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Greeley?',
+        answer:
+          'Standard rental periods run 7 to 14 days with most providers. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Confirm the extension terms when you book so the timeline does not run short mid-project.',
+      },
+      {
+        question: "What can't I put in a Greeley roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Pre-1978 renovation debris may contain lead or asbestos — confirm with your provider if the project involves older materials.',
+      },
+      {
+        question: 'Can I get a dumpster for a commercial or oilfield-related job near Greeley?',
+        answer:
+          'Yes. Providers serving Greeley regularly deliver roll-offs to commercial properties, light industrial facilities, and job sites throughout Weld County. For commercial projects, confirm site access requirements and weight limits before booking — commercial loads often run heavier than residential.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Greeley?',
+        answer:
+          'No permit is needed for placement on a private driveway. Street placement in the public right-of-way requires a permit from the City of Greeley Public Works Department. Evans addresses fall under Evans city jurisdiction — confirm requirements separately if your address is in Evans.',
+      },
+    ],
+    latitude: 40.4233,
+    longitude: -104.7091,
+  },
+  // ─── WINDSOR ──────────────────────────────────────────────────
+  {
+    slug: 'windsor-co-dumpster-rental',
+    cityName: 'Windsor',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental in Windsor, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Windsor, CO for home renovations, roofing tear-offs, and construction debris in Water Valley, Raindance, and Weld County.',
+    primaryKeyword: 'windsor dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental windsor co',
+      'windsor construction dumpster rental',
+      'roll off dumpster windsor',
+      'roll off dumpster windsor co',
+      'rolloff dumpsters windsor',
+      'roll offs windsor co',
+      '10 yard dumpster rental windsor',
+      '20 yard dumpster rental windsor',
+      '30 yard dumpster rental windsor',
+    ],
+    heroH1: 'Dumpster Rental in Windsor, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for home renovations, hail-season roofing, and construction debris in Windsor, Timnath, and northern Weld County.',
+    introParagraphs: [
+      "Windsor's housing stock is almost entirely from 1990 onward — it was a small agricultural community that became one of northern Colorado's fastest-growing towns over the past three decades. The older portion of that stock is now 25–35 years old and entering first renovation cycles: kitchens being gutted, bathrooms getting tile and countertop swaps, carpets replaced through the whole house. The Water Valley community — built around Windsor Lake — has high-value homes that regularly generate renovation volume well above the average suburban project.",
+      'Windsor sits between Fort Collins and Greeley in the northern Front Range hail corridor, and storm activity in this part of Weld and Larimer County is steady. Roofing container demand spikes after major hail events — providers often cover Windsor, Timnath, and southern Fort Collins on the same delivery loop. Active residential development continues in Raindance on the south side and in east Windsor, generating consistent framing, drywall, and construction debris throughout the year.',
+      'Rolloff Dumpster Finder connects Windsor homeowners and contractors with local roll-off providers covering Windsor, Timnath, Severance, and the broader northern Front Range. Most Windsor jobs come with an HOA variable — knowing the placement restrictions in Water Valley, Raindance, or Pelican Lakes before the container is delivered avoids a conversation nobody wants after the truck has already left. Compare sizes and pricing from local providers before booking.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single-room remodels, garage cleanouts, and light yard debris.',
+        range: '$290–$500 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room cleanouts, mid-size remodels, roofing on smaller homes, and basement debris.',
+        range: '$330–$560 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen and bath renovations, and construction debris.',
+        range: '$390–$670 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, major gut renovations, commercial tenant improvements, and heavy mixed demo.',
+        range: '$460–$800 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, large demolition jobs, new development site cleanup, and high-volume C&D debris.',
+        range: '$590–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Windsor homes from the 1990s and early 2000s are now well into their first major ownership transitions. Full-home cleanouts in Water Valley and Highpointe commonly need a 20-yard container — and homes that have added a workshop or stored garage contents for decades can need a second pull.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Windsor sits in the northern Front Range hail corridor between Fort Collins and Greeley. After a significant storm, roofing demand across northern Weld County tightens fast. A 20-yard handles most residential shingle tear-offs — confirm the weight allowance before the crew starts loading.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Active residential development continues in Raindance and east Windsor, generating framing scraps, drywall, packaging, and mixed C&D waste through most of the year. New home construction often needs multiple pulls as phases complete — coordinate the swap-out schedule early.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          '1990s-era kitchens in Windsor are being gutted — laminate counters out, cabinet boxes replaced, tile floors removed. The remodel volume is consistent with first-cycle renovation in a community where most homes are the same age and hit the upgrade threshold at the same time.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Windsor homes commonly have finished or partially finished basements that have collected years of stored goods. A two-car garage cleanout usually fits a 10-yard; a full basement cleanup typically needs a 15 or 20-yard depending on what has accumulated.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "The earlier Water Valley and Pelican Lakes phases have homes from the mid-1990s with long-term owners. Estate cleanouts in these neighborhoods regularly need 20-yard containers and occasionally a second pull. Coordinate the timing early if a probate or sale deadline is involved.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Large lots in Water Valley and Raindance generate xeriscape conversion and landscaping debris as water costs climb. Sod, branches, and clean yard debris go in most roll-offs — confirm with your provider before loading, as some restrict dirt and heavy soil.',
+      },
+      {
+        number: '08',
+        name: 'HOA Community Renovation',
+        description:
+          'Water Valley, Pelican Lakes, and Raindance are HOA-managed communities with strict placement rules. Confirm HOA approval before the container is scheduled — some communities require the container to be gone within a set number of days, which affects the rental term you book.',
+      },
+      {
+        number: '09',
+        name: 'New Home Construction',
+        description:
+          'Active subdivisions in east Windsor and along the Raindance corridor generate ongoing C&D demand. Construction crews typically need a 20 or 30-yard container, with multiple swaps as the project progresses from framing through finish work.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Windsor depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement on private property is the most common setup and does not typically require a permit in Windsor.',
+      'Windsor is primarily newer suburban development — most neighborhoods do not have alley access. Driveway or street placement are the standard options.',
+      'Street placement in the public right-of-way requires a permit from the Town of Windsor. Ask your provider whether they can assist with the permit when you book.',
+      'The vast majority of Windsor neighborhoods — including Water Valley, Raindance, and Pelican Lakes — are HOA-managed. Check HOA rules before scheduling delivery. Some communities limit the number of days a container can sit on a driveway.',
+      'Windsor straddles the Weld and Larimer County line. Most of Windsor is in Weld County, but some western addresses may fall under different jurisdictional requirements — confirm which municipality applies to your address before scheduling street placement.',
+      'Placing plywood under the container wheels protects exposed aggregate and concrete driveways — ask the driver before delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Windsor',
+      'Water Valley',
+      'Raindance',
+      'Pelican Lakes',
+      'Highpointe',
+      'Wind River',
+      'Chimney Park',
+      'Heritage Ridge',
+      'Windsor Lake Area',
+      'North Windsor',
+      'East Windsor',
+    ],
+    nearbyCities: [
+      'Greeley',
+      'Fort Collins',
+      'Timnath',
+      'Severance',
+      'Loveland',
+      'Evans',
+      'Milliken',
+      'Johnstown',
+      'Eaton',
+      'Berthoud',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Windsor?',
+        answer:
+          'A 10-yard container in Windsor typically runs $290–$500 per week. A 20-yard is usually $390–$670. Prices depend on container size, what goes in, rental duration, and which providers serve your delivery address. Confirm the weight allowance in the quote — overages are where most invoicing surprises happen.',
+      },
+      {
+        question: 'What size dumpster do I need for a Windsor home cleanout?',
+        answer:
+          'Most full-home cleanouts need a 20-yard container. A single room, garage, or basement segment typically fits a 10-yard. Windsor homes from the 1990s with unfinished basements that have stored items for 25-plus years sometimes need a second pull — plan for that before booking.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Windsor?',
+        answer:
+          'Yes. Windsor is in the northern Front Range hail corridor and roofing tear-offs are common after storm season. A 20-yard handles most residential shingle tear-offs. Shingles are heavy — a full roof commonly produces 3 tons or more — so confirm the weight allowance before the job starts.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Windsor?',
+        answer:
+          'Most providers serving Windsor accept concrete and soil in standard roll-offs, but weight limits apply. Concrete hits weight limits long before it fills the container — 3–4 tons can be reached before the bin looks a third full. For clean concrete or heavy demolition jobs, ask whether a smaller heavy-debris container is available.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Windsor?',
+        answer:
+          'Most local providers deliver within 1–3 business days. Same-day delivery is sometimes available if you call before mid-morning. After a major hail event, container availability across northern Weld County tightens fast — booking ahead by a day or two is worthwhile during storm season.',
+      },
+      {
+        question: 'Do you serve Timnath, Greeley, and Fort Collins from Windsor?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Windsor, Timnath, Severance, and the surrounding northern Front Range communities including Greeley and Fort Collins. Availability depends on which providers serve your specific delivery address.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Windsor?',
+        answer:
+          'Standard rental periods run 7 to 14 days with most providers. Extensions are usually available at a daily rate — typically $5–$15 per day. HOA communities in Windsor often require the container to be removed within a specified number of days — confirm those rules before booking the rental term.',
+      },
+      {
+        question: "What can't I put in a Windsor roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Ask your provider for the full restricted list before loading — rules vary by hauler and landfill.',
+      },
+      {
+        question: 'Do HOA communities in Windsor like Water Valley allow dumpsters?',
+        answer:
+          'Most do, but with conditions. Water Valley, Raindance, and Pelican Lakes typically require HOA approval before a container is placed on a driveway or street. Some communities limit how many days the container can remain. Confirm with your HOA before scheduling delivery — not after.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Windsor?',
+        answer:
+          'No permit is required for driveway placement on private property. Street placement in the public right-of-way requires a permit from the Town of Windsor. Windsor straddles the Weld and Larimer County line — some addresses may fall under different jurisdictional requirements, so confirm which municipality applies before scheduling.',
+      },
+    ],
+    latitude: 40.4772,
+    longitude: -104.9014,
+  },
+  // ─── EVANS ────────────────────────────────────────────────────
+  {
+    slug: 'evans-co-dumpster-rental',
+    cityName: 'Evans',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental in Evans, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Evans, CO for home renovations, roofing tear-offs, and cleanouts in south Greeley and northern Weld County. Compare sizes and pricing.',
+    primaryKeyword: 'evans dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental evans co',
+      'evans construction dumpster rental',
+      'roll off dumpster evans',
+      'roll off dumpster evans co',
+      'rolloff dumpsters evans',
+      'roll offs evans co',
+      '10 yard dumpster rental evans',
+      '20 yard dumpster rental evans',
+      '30 yard dumpster rental evans',
+    ],
+    heroH1: 'Dumpster Rental in Evans, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for home renovations, roofing tear-offs, and cleanouts in Evans and the southern Greeley metro area of Weld County.',
+    introParagraphs: [
+      "Evans has one of the more affordable housing markets in the northern Front Range, and that affordability drives a steady first-time buyer renovation cycle. The established core — blocks running south from the South Platte River through the Saratoga and Riverside areas — is mostly 1960s through 1980s housing. Homes that are now 40 to 65 years old and seeing their first major updates: kitchens gutted, bathrooms retiled, flooring replaced through the whole house. The cleanup from one of these jobs typically fills a 10- or 15-yard container without much room to spare.",
+      'Evans sits inside the same hail corridor as Greeley. The two cities share a border and the same storm exposure — when a major hail event moves through northern Weld County, both get hit. Roofing container demand spikes the same week across Evans and Greeley, and the same local haulers cover the combined service area. Booking a container early after a storm is worth it because the inventory moves fast across the metro.',
+      'Rolloff Dumpster Finder connects Evans homeowners and contractors with roll-off providers covering Evans, Greeley, and surrounding Weld County communities. Most providers make the Evans and Greeley run on the same delivery loop — which tends to keep response times short. Compare container sizes and pricing before booking; a 10-yard for a bathroom job and a 20-yard for a whole-home cleanout are priced differently, and the difference matters.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, garage cleanouts, bathroom debris, and light yard waste.',
+        range: '$290–$500 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Mid-size cleanouts, flooring removal, multi-room remodels, and roofing on smaller homes.',
+        range: '$330–$560 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen renovations, and mixed construction debris.',
+        range: '$390–$670 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, major gut renovations, commercial tenant improvements, and heavy mixed demolition.',
+        range: '$460–$800 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, large demolition jobs, new development site cleanup, and high-volume C&D debris.',
+        range: '$590–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'Evans has a steady market of first-time buyers picking up 1960s and 1970s homes and immediately clearing them out before moving in. A full-home cleanout in the Saratoga or Riverside corridors usually needs a 15- or 20-yard container — sometimes a second pull if the previous owners left furniture behind.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Evans and Greeley share the same hail exposure along the northern Front Range corridor. A standard residential roof tear-off fills a 20-yard container and can push toward weight limits depending on how many shingle layers are coming off. Confirm the weight allowance before the crew starts loading.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Newer residential development on the south and east edges of Evans generates framing scraps, drywall, packaging, and mixed C&D waste. Active job sites typically cycle through a 20- or 30-yard container and need swap-out coordination as phases complete.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Evans's 1970s and 1980s housing stock is in the middle of a renovation cycle. Cabinets out, tile floors up, countertops replaced. A kitchen gut typically fills a 10-yard container for light material loads, but a full remodel with tile and cement board pushes toward a 15-yard.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Older Evans homes commonly have unfinished basements that have become long-term storage. A two-car garage cleanout usually fits a 10-yard container; a full basement cleanout that has accumulated 30-plus years of contents typically needs a 15 or 20-yard.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-term ownership transitions in the Riverside and Saratoga areas generate estate cleanout volume. A three-bedroom home lived in for 40 years typically needs a 20-yard container and sometimes a second pull for outbuildings or detached garages.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Xeriscape conversions in Evans generate sod, existing landscaping debris, and soil. Yard waste goes in most roll-offs, but confirm with your provider before mixing dirt or rock into the load — heavy soil can hit weight limits well before the bin looks full.',
+      },
+      {
+        number: '08',
+        name: 'Flooring Removal',
+        description:
+          "Evans's aging housing stock means a lot of carpet-over-subfloor and original vinyl tile removal. Carpet fills a bin before it hits weight limits; original tile set in thick mortar hits weight limits first. Know which flooring type you are pulling before sizing the container.",
+      },
+      {
+        number: '09',
+        name: 'Property Flip Debris',
+        description:
+          'Evans is an active market for investor renovations — affordably priced homes that get gutted and updated. A full flip typically needs at least one 20-yard pull, often more if the property was held long-term and accumulated deferred maintenance.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Evans depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement on private property is the most common setup and does not require a permit in Evans.',
+      'Some older Evans neighborhoods near the city core have alley access behind properties — an alley placement keeps the container off the driveway and away from street traffic.',
+      'Street placement in the public right-of-way typically requires a permit from the City of Evans. Ask your provider whether they assist with street permits when you book.',
+      'Evans has less HOA density than newer communities in Weld County — most of the established residential core has no HOA. Newer development on the southern edge may have HOA placement rules; confirm before booking.',
+      'Evans and Greeley share a border with no physical separation in most areas — if your address is near the Greeley city limit, confirm which municipality applies to your street placement permit requirements.',
+      'Placing plywood under the container wheels protects asphalt and concrete driveways. Ask the driver at delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Evans',
+      'Riverside',
+      'Saratoga',
+      'Prairie Heights',
+      'Evans Heights',
+      'Summit View',
+      'Red Hawk',
+      'Valley View',
+      'South Evans',
+      'Eastfield',
+      'High Plains',
+      'Crystal Lake Area',
+    ],
+    nearbyCities: [
+      'Greeley',
+      'Windsor',
+      'Milliken',
+      'Gilcrest',
+      'Kersey',
+      'Johnstown',
+      'LaSalle',
+      'Eaton',
+      'Garden City',
+      'Platteville',
+      'Fort Lupton',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Evans?',
+        answer:
+          'A 10-yard container in Evans typically runs $290–$500 per week. A 20-yard is usually $390–$670. Prices shift based on container size, rental duration, weight, and which providers serve your address. Confirm the weight allowance in the quote before signing off.',
+      },
+      {
+        question: 'What size dumpster do I need for an Evans home cleanout?',
+        answer:
+          'Most full-home cleanouts need a 20-yard container. A single room or garage usually fits a 10-yard. Evans homes from the 1970s that have stored contents for decades can need a second pull — factor that in before booking the rental term.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Evans?',
+        answer:
+          'Yes. Roofing tear-offs are one of the most common jobs in Evans, particularly after hail events in the northern Weld County corridor. A 20-yard handles most residential shingle tear-offs. Shingles are heavy — confirm the weight allowance before the crew loads.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Evans?',
+        answer:
+          'Most providers serving Evans accept concrete and soil. Weight limits are the constraint — 3 to 4 tons of concrete fills much less than half of a 20-yard bin. For significant concrete or demolition work, ask about a smaller dedicated heavy-debris container.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Evans?',
+        answer:
+          'Most local providers deliver within 1–3 business days. Evans is served by the same haulers that cover Greeley, so availability is generally good. After a major hail event, container inventory across the combined metro tightens — booking a day or two ahead is worth it during storm season.',
+      },
+      {
+        question: 'Do you serve Greeley, Windsor, and Milliken from Evans?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Evans, Greeley, Windsor, Milliken, and the surrounding Weld County area. Evans and Greeley are often on the same delivery loop, which keeps response times short.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Evans?',
+        answer:
+          'Standard rental periods run 7 to 14 days with most providers. Extensions are usually available at a daily rate of $5–$15. If your project timeline is uncertain, book the shorter term and extend — it is easier than shortening a long rental.',
+      },
+      {
+        question: "What can't I put in an Evans roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant typically need separate handling. Ask your provider for the full restricted materials list before loading.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Evans?',
+        answer:
+          'No permit is required for driveway placement on private property. Street placement in the public right-of-way requires a permit from the City of Evans. Some Evans addresses are near the Greeley city limit — confirm which municipality applies to your address before scheduling street placement.',
+      },
+    ],
+    latitude: 40.3758,
+    longitude: -104.6919,
+  },
+  // ─── JOHNSTOWN ────────────────────────────────────────────────
+  {
+    slug: 'johnstown-co-dumpster-rental',
+    cityName: 'Johnstown',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental in Johnstown, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Johnstown, CO for home renovations, new construction, and roofing debris in Thompson River Ranch and Weld County. Compare sizes and pricing.',
+    primaryKeyword: 'johnstown dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental johnstown co',
+      'johnstown construction dumpster rental',
+      'roll off dumpster johnstown',
+      'roll off dumpster johnstown co',
+      'rolloff dumpsters johnstown',
+      'roll offs johnstown co',
+      '10 yard dumpster rental johnstown',
+      '20 yard dumpster rental johnstown',
+      '30 yard dumpster rental johnstown',
+    ],
+    heroH1: 'Dumpster Rental in Johnstown, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for home renovations, new construction, hail-season roofing, and cleanouts in Johnstown and the northern I-25 corridor.',
+    introParagraphs: [
+      "Johnstown grew from roughly 2,000 people in 1990 to around 20,000 today — which means most of the housing stock is from the 2000s and early 2010s, and the first wave of those homes is now old enough for its first major renovation. Thompson River Ranch, the large master-planned community that covers a significant portion of Johnstown's growth area, has homes from 2005 through 2015 that are now seeing kitchen updates, flooring replacements, and bath remodels. A standard renovation pull in this community typically needs a 15- or 20-yard container.",
+      'Johnstown sits on the I-25 corridor between Loveland and Greeley, which puts it in the northern Front Range hail zone. The same storm systems that hit Windsor and Fort Collins to the north track down through Johnstown and Milliken. Roofing container demand spikes across the area after major storm events, and the same providers often run Windsor, Johnstown, and Milliken on the same delivery loop. Active new residential and commercial construction along the I-25 interchange also generates ongoing framing and finish debris throughout the year.',
+      'Rolloff Dumpster Finder connects Johnstown homeowners and contractors with roll-off providers covering Johnstown, Milliken, Loveland, and surrounding Weld and Larimer County communities. Most Johnstown deliveries involve HOA-managed properties — Thompson River Ranch and other master-planned communities often have placement rules that apply to both driveways and street-adjacent containers. Confirm those requirements before scheduling delivery, not after.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, garage cleanouts, light yard debris, and small bathroom jobs.',
+        range: '$290–$500 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room remodels, flooring removal, mid-size cleanouts, and roofing on smaller homes.',
+        range: '$330–$560 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen renovations, and mixed construction debris.',
+        range: '$390–$670 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, major gut renovations, commercial tenant improvements, and heavy mixed demolition.',
+        range: '$460–$800 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, large demolition jobs, new development site cleanup, and high-volume C&D debris.',
+        range: '$590–$1,100 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'The first wave of Thompson River Ranch homes — built between 2005 and 2012 — is now 13 to 20 years old and cycling through ownership transitions. Full-home cleanouts in these communities typically need a 15- or 20-yard container. Larger floor plans that have stored contents through multiple moves can need a second pull.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Johnstown is in the northern Front Range hail corridor, and roofing demand picks up fast after major storm events. Providers often run Windsor, Johnstown, and Milliken on the same delivery loop, so container availability across the corridor tightens together. A standard residential roof tear-off fills a 20-yard container and can push toward weight limits depending on shingle layers.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Active residential development continues throughout Johnstown, particularly along the southern and eastern growth edges. New home construction generates framing scraps, drywall, packaging, and mixed C&D debris through the full build cycle. 20- and 30-yard containers are standard on active job sites with multiple swap-outs.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Johnstown homes from the mid-2000s are in their first major kitchen and bathroom update cycle. Tile floors coming up, laminate counters out, original cabinets replaced. A full kitchen gut typically needs a 15-yard container; a bathroom with cement board and tile can get heavy fast and may push toward the weight limit.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Newer Johnstown homes commonly have finished or partially finished basements that have accumulated contents over a decade-plus of ownership. A full basement cleanout in a larger home typically needs a 15- or 20-yard container. Two-car garage cleanouts usually fit a 10-yard.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Older Johnstown properties near the historic downtown core — homes from the 1960s through 1980s — generate estate cleanout volume as long-term owners transition. These jobs often need a 20-yard container and occasionally a second pull if outbuildings or detached garages are involved.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Johnstown homeowners in the I-25 corridor are converting high-water landscaping to xeriscape at a steady pace. Sod, existing plant material, and soil can all go in a standard roll-off, but heavy soil and rock hit weight limits before the bin looks full. Confirm what your provider accepts before mixing types.',
+      },
+      {
+        number: '08',
+        name: 'I-25 Commercial Cleanup',
+        description:
+          'Commercial and light industrial development along the Johnstown I-25 interchange generates tenant improvement and construction debris. 20- and 30-yard containers handle most commercial build-out jobs; larger demolition or site-prep work may need a 40-yard.',
+      },
+      {
+        number: '09',
+        name: 'Flooring Removal',
+        description:
+          "The original flooring in Johnstown's 2005–2012 housing — carpet, LVP, and laminate — is aging out. Carpet fills a container before hitting weight limits; original tile in thick mortar beds hits weight limits early. Size the container based on what the floor is actually made of, not how many rooms are coming out.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Johnstown depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement on private property is the most common setup and does not require a permit in Johnstown.',
+      'Johnstown is primarily newer suburban development — most neighborhoods have no alley access. Driveway or street are the standard placement options.',
+      'Street placement in the public right-of-way typically requires a permit from the Town of Johnstown. Ask your provider whether they assist with the permit when you book.',
+      'The vast majority of Johnstown development is HOA-managed. Thompson River Ranch and other master-planned communities commonly have rules about container placement, duration, and screening. Confirm with your HOA before scheduling delivery.',
+      'Johnstown straddles the Weld and Larimer County line in some areas. Confirm which municipality applies to your address before scheduling street placement — permit requirements may differ.',
+      'Placing plywood under the container wheels protects exposed aggregate driveways common in newer Johnstown subdivisions. Ask the driver at delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Johnstown',
+      'Thompson River Ranch',
+      'Pioneer Ridge',
+      'Tallgrass',
+      'Centennial Park',
+      'Mountain View',
+      'Prairie Meadows',
+      'Rolling Hills',
+      'Letford',
+      'Johnstown Village',
+      'Old Town Johnstown',
+    ],
+    nearbyCities: [
+      'Milliken',
+      'Loveland',
+      'Windsor',
+      'Greeley',
+      'Evans',
+      'Fort Collins',
+      'Berthoud',
+      'Timnath',
+      'Mead',
+      'Firestone',
+      'Longmont',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Johnstown?',
+        answer:
+          'A 10-yard container in Johnstown typically runs $290–$500 per week. A 20-yard is usually $390–$670. Prices shift based on container size, rental duration, and what goes in. Confirm the weight allowance in the quote — overages are billed after pickup, not before.',
+      },
+      {
+        question: 'What size dumpster for a Johnstown home cleanout?',
+        answer:
+          'Most full-home cleanouts in Johnstown need a 20-yard container. A single room or garage usually fits a 10-yard. Larger Thompson River Ranch homes with finished basements that have stored contents through multiple ownership transitions sometimes need a second pull — plan for that before booking the rental term.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Johnstown?',
+        answer:
+          'Yes. Johnstown is in the northern Front Range hail corridor and roofing tear-offs are common, particularly after storm events. A 20-yard handles most residential shingle tear-offs. Shingles are heavy — confirm the weight allowance before the crew starts loading so the overage charge is not a surprise.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Johnstown?',
+        answer:
+          'Most providers serving Johnstown accept concrete and soil in standard roll-offs. Weight limits are the constraint — 3 to 4 tons of concrete is reached before the bin looks a third full. For significant concrete work, ask whether a dedicated heavy-debris container is available.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Johnstown?',
+        answer:
+          'Most local providers deliver within 1–3 business days. Johnstown is often on the same delivery loop as Windsor and Milliken, which tends to keep availability good. After a major hail event, container inventory across the northern Front Range corridor tightens — booking a day or two ahead is worthwhile during storm season.',
+      },
+      {
+        question: 'Do you serve Milliken, Loveland, and Windsor from Johnstown?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Johnstown, Milliken, Loveland, Windsor, and surrounding Weld and Larimer County communities. Availability depends on which providers serve your specific delivery address and zip code.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Johnstown?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. HOA communities in Johnstown often limit how long a container can remain on a driveway or in the street — confirm those rules before booking the rental term.',
+      },
+      {
+        question: "What can't I put in a Johnstown roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Refrigerators and appliances with refrigerant may require separate handling. Ask your provider for the full restricted list before loading.',
+      },
+      {
+        question: 'Do HOA communities in Johnstown allow dumpsters?',
+        answer:
+          'Most do, but with conditions. Thompson River Ranch and other HOA-managed Johnstown communities typically require approval before a container is placed on a driveway or street, and many limit the number of days it can remain. Confirm with your HOA before scheduling delivery — the hauler cannot check that for you.',
+      },
+    ],
+    latitude: 40.3367,
+    longitude: -104.9122,
+  },
+  // ─── FORT MORGAN ──────────────────────────────────────────────
+  {
+    slug: 'fort-morgan-co-dumpster-rental',
+    cityName: 'Fort Morgan',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental in Fort Morgan, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Roll-off dumpster rental in Fort Morgan, CO for home cleanouts, farm property cleanup, roofing tear-offs, and renovation debris in Morgan County. Compare sizes.',
+    primaryKeyword: 'fort morgan dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental fort morgan co',
+      'fort morgan construction dumpster rental',
+      'roll off dumpster fort morgan',
+      'roll off dumpster fort morgan co',
+      'rolloff dumpsters fort morgan',
+      'roll offs fort morgan co',
+      '10 yard dumpster rental fort morgan',
+      '20 yard dumpster rental fort morgan',
+      '30 yard dumpster rental fort morgan',
+    ],
+    heroH1: 'Dumpster Rental in Fort Morgan, CO',
+    heroSubheadline:
+      'Roll-off dumpster rentals for home cleanouts, farm property cleanup, roofing debris, and renovation projects in Fort Morgan and Morgan County.',
+    introParagraphs: [
+      "Fort Morgan's established residential grid has brick bungalows and craftsman homes from the 1920s through 1950s — solid older construction that accumulates 60-plus years of contents before the estate cleanout finally happens. Mid-century housing in the North End and East Fort Morgan adds another layer of stock overdue for kitchen and bath updates. The combination of older housing and long-term ownership creates a steady renovation and estate cleanout stream that is consistent year-round.",
+      "JBS USA's beef processing plant is Fort Morgan's largest employer and has shaped the city's workforce character for decades. Workforce housing around the plant turns over on its own cycle, and cleanouts follow each time. Agricultural land throughout Morgan County generates a separate stream: old outbuildings, farm equipment, fence materials, and decades of accumulated storage on rural parcels. A farm cleanup in Morgan County is a different job than a suburban estate — it usually needs a 30-yard container and at least one swap-out.",
+      'Rolloff Dumpster Finder connects Fort Morgan homeowners, contractors, and agricultural property owners with roll-off providers serving Morgan County. Providers covering Fort Morgan sometimes also run Brush to the east and communities west toward Greeley. Hauler availability is more limited here than on the Front Range — being specific about your delivery address and booking a day or two ahead avoids the availability surprise.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, bathroom debris, small garage cleanouts, and light yard waste.',
+        range: '$300–$520 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Multi-room cleanouts, flooring removal, roofing on smaller homes, and kitchen debris.',
+        range: '$345–$570 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen and bath renovations, and mixed construction debris.',
+        range: '$415–$710 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, farm property cleanups, commercial tenant improvements, and heavy mixed demolition.',
+        range: '$475–$820 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Agricultural property cleanups, large demolition projects, commercial construction, and high-volume C&D debris.',
+        range: '$600–$1,150 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Fort Morgan homes from the 1930s through 1960s are some of the older housing stock in northeastern Colorado. Full-home cleanouts in the downtown core and North End neighborhoods regularly need a 20-yard container. Properties lived in by the same family for 40-plus years often need a second pull.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Morgan County sits in the eastern plains hail corridor, and Fort Morgan gets storm activity that drives roofing replacement demand. A standard residential shingle tear-off fills a 20-yard container and can hit weight limits depending on shingle layers. Confirm the weight allowance before the crew starts loading.',
+      },
+      {
+        number: '03',
+        name: 'Farm Property Cleanouts',
+        description:
+          "Agricultural properties throughout Morgan County accumulate decades of equipment, materials, and stored goods that eventually need to move. A farm cleanup is typically a 30-yard job with at least one swap-out. Old fencing, equipment parts, and building materials from collapsed outbuildings all go in a standard roll-off — confirm what's acceptable with your provider before loading.",
+      },
+      {
+        number: '04',
+        name: 'Estate Cleanouts',
+        description:
+          "Long-term ownership is the norm in Fort Morgan — families that have held properties for 30 to 60 years leave significant estate cleanout volume. A three-bedroom home in the downtown residential grid typically needs a 20-yard container. Larger properties with detached garages or outbuildings may need a second pull.",
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Fort Morgan's mid-century housing stock is due for kitchen and bathroom updates. Original 1950s and 1960s kitchens with aging plumbing, tile, and fixtures are common. A full kitchen gut produces a 10- to 15-yard load depending on how much tile and cement board is involved.",
+      },
+      {
+        number: '06',
+        name: 'Construction Debris',
+        description:
+          'Residential and light commercial construction in and around Fort Morgan generates framing scraps, drywall, packaging, and mixed debris. 20-yard containers are standard for most residential new construction; commercial projects along the US-34 and I-76 corridors may need a 30-yard.',
+      },
+      {
+        number: '07',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Older Fort Morgan homes commonly have full basements and detached garages that have stored goods for decades. A garage cleanout usually fits a 10-yard container; a full basement with long-term storage typically needs a 15 or 20-yard. Detached garages on older properties sometimes need a separate pull.",
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "Fort Morgan properties along the South Platte corridor often have mature trees and established landscaping that generates significant debris during storm cleanup or removal. Branches and clean yard waste go in most roll-offs — confirm with your provider before mixing dirt or soil into the load.",
+      },
+      {
+        number: '09',
+        name: 'Outbuilding Demolition',
+        description:
+          "Rural and semi-rural properties around Fort Morgan commonly have old sheds, coops, and outbuildings that have reached end of life. A single-structure teardown usually fills a 10- or 15-yard container. If the outbuilding has a concrete slab, confirm whether the provider accepts heavy debris mixed with wood and roofing material.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Fort Morgan depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement on private property is the most common setup and does not require a permit in Fort Morgan.',
+      "Fort Morgan's older residential grid — particularly the downtown core and North End — commonly has alley access behind properties. An alley placement keeps the container off the driveway and out of the street without a permit.",
+      'Street placement in the public right-of-way typically requires a permit from the City of Fort Morgan. Ask your provider whether they assist with the permit process when you book.',
+      'Fort Morgan has less HOA density than Front Range suburban communities. Most of the established residential core has no HOA restrictions on container placement.',
+      "Rural and agricultural properties in Morgan County have different considerations: long driveways, gate access, and soft ground. Confirm the delivery route with your provider before scheduling — some rural addresses may require a smaller vehicle or shorter container for safe delivery.",
+      'Mature trees near the street or driveway on older Fort Morgan properties can complicate placement — confirm overhead clearance with your provider before delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Fort Morgan',
+      'North End',
+      'East Fort Morgan',
+      'West Fort Morgan',
+      'South Fort Morgan',
+      'Riverside',
+      'Pioneer Park Area',
+      'Country Club Area',
+      'Glenn Miller Park Area',
+      'Railroad District',
+      'Old Town',
+    ],
+    nearbyCities: [
+      'Brush',
+      'Greeley',
+      'Wiggins',
+      'Log Lane Village',
+      'Sterling',
+      'Akron',
+      'Weldona',
+      'Snyder',
+      'Goodrich',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Fort Morgan?',
+        answer:
+          'A 10-yard container in Fort Morgan typically runs $300–$520 per week. A 20-yard is usually $415–$710. Pricing in eastern plains markets runs slightly above Front Range rates due to fewer haulers serving the area. Confirm the weight allowance in the quote before booking.',
+      },
+      {
+        question: 'What size dumpster for a Fort Morgan home cleanout?',
+        answer:
+          'Most full-home cleanouts need a 20-yard container. Fort Morgan homes from the 1930s through 1950s that have been in the same family for decades can run large — a second pull is sometimes needed for full properties with detached garages or basement storage.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Fort Morgan?',
+        answer:
+          'Yes. Morgan County is in the eastern plains hail corridor and roofing tear-offs are a regular demand driver. A 20-yard handles most residential roofing jobs. Shingles are heavy — a full roof can hit 3 tons or more — so confirm the weight allowance before the crew loads.',
+      },
+      {
+        question: 'Do you serve farm and agricultural properties around Fort Morgan?',
+        answer:
+          'Yes. Agricultural property cleanouts in Morgan County are a common job type — old outbuildings, equipment, fencing materials, and stored goods. Farm jobs typically need a 30-yard container and at least one swap-out. Confirm delivery access details with your provider, since rural driveways and gate clearances vary.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Fort Morgan?',
+        answer:
+          'Most providers serving Fort Morgan accept concrete and soil. Weight limits apply — 3 to 4 tons of concrete fills less than a third of a 20-yard bin before hitting the limit. For significant concrete demolition, ask about a dedicated heavy-debris container.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Fort Morgan?',
+        answer:
+          'Delivery typically runs 2–4 business days in Fort Morgan — slightly longer than Front Range markets due to fewer haulers operating in the area. Booking a day or two ahead is more important here than in metro markets.',
+      },
+      {
+        question: 'Do you serve Brush, Wiggins, and nearby Morgan County communities?',
+        answer:
+          'Yes. Providers through Rolloff Dumpster Finder typically cover Fort Morgan, Brush, Wiggins, Log Lane Village, and surrounding Morgan County communities. Availability depends on which providers serve your specific delivery address and zip code.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Fort Morgan?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Farm and rural property cleanouts often take longer than a standard residential job — confirm the extension terms before starting.',
+      },
+      {
+        question: "What can't I put in a Fort Morgan roll-off dumpster?",
+        answer:
+          'Hazardous materials are not accepted: liquid paint, solvents, chemicals, propane tanks, tires, batteries, and automotive fluids. Pesticide containers and agricultural chemicals from farm properties also require separate disposal. Ask your provider for the full restricted list before loading.',
+      },
+    ],
+    latitude: 40.2508,
+    longitude: -103.7996,
   },
   // ─── GUNNISON ─────────────────────────────────────────────────
   {

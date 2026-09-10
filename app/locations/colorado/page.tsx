@@ -130,6 +130,51 @@ const cityCards = [
     slug: 'steamboat-springs-co-dumpster-rental',
     desc: 'Routt County roll-off dumpster rental for seasonal cleanouts, construction projects, and debris removal in the Yampa Valley.',
   },
+  {
+    city: 'Westminster',
+    slug: 'westminster-co-dumpster-rental',
+    desc: 'Adams and Jefferson County suburb with 1970s–1990s housing stock and active development near US-36. Consistent hail-season roofing demand.',
+  },
+  {
+    city: 'Thornton',
+    slug: 'thornton-co-dumpster-rental',
+    desc: "Adams County's largest city. 1960s–1980s housing in the south, active new construction in the north. Strong seasonal roofing and renovation demand.",
+  },
+  {
+    city: 'Centennial',
+    slug: 'centennial-co-dumpster-rental',
+    desc: 'South Arapahoe County suburb with 1970s–1980s ranch homes in Piney Creek and The Homestead. Estate cleanouts and hail-corridor roofing drive demand.',
+  },
+  {
+    city: 'Littleton',
+    slug: 'littleton-co-dumpster-rental',
+    desc: 'Arapahoe and Jefferson County market anchored by historic Old Town. Steady renovation and estate cleanout volume, plus Front Range hail roofing demand.',
+  },
+  {
+    city: 'Englewood',
+    slug: 'englewood-co-dumpster-rental',
+    desc: 'South Denver border city with 1940s–1960s bungalows in Bates-Logan Park and Duncan Park. Light rail investment driving renovation activity near the stations.',
+  },
+  {
+    city: 'Broomfield',
+    slug: 'broomfield-co-dumpster-rental',
+    desc: "Colorado's newest county, built out along the US-36 corridor. Anthem, The Broadlands, and Interlocken anchor a growing renovation and commercial market.",
+  },
+  {
+    city: 'Commerce City',
+    slug: 'commerce-city-co-dumpster-rental',
+    desc: 'Adams County city with older housing in south Derby and active new construction in north Reunion. Industrial Quebec Street corridor drives commercial roll-off demand.',
+  },
+  {
+    city: 'Wheat Ridge',
+    slug: 'wheat-ridge-co-dumpster-rental',
+    desc: 'One of the oldest Denver suburbs, with 1950s–1960s ranches from Sheridan to Kipling. Alley access is common. Renovation volume from buyers coming from Denver is growing.',
+  },
+  {
+    city: 'Greenwood Village',
+    slug: 'greenwood-village-co-dumpster-rental',
+    desc: 'Affluent south metro city with executive estates and the Denver Tech Center. High-value residential renovation and commercial tenant improvement drive roll-off demand.',
+  },
 ]
 
 const projects = [
