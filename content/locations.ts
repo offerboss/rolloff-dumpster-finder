@@ -14473,4 +14473,1006 @@ export const cityLocations: CityLocation[] = [
     latitude: 38.6625,
     longitude: -106.8428,
   },
+
+  // ─── DUNCAN ──────────────────────────────────────────────────
+  {
+    slug: 'duncan-ok-dumpster-rental',
+    cityName: 'Duncan',
+    stateName: 'Oklahoma',
+    stateAbbr: 'OK',
+    metaTitle: 'Roll Off Dumpster Rental in Duncan, OK | Sizes & Pricing',
+    metaDescription:
+      'Duncan dumpster rental for home cleanouts, roofing tear-offs, and construction debris in Stephens County. Get local roll-off pricing and book delivery.',
+    primaryKeyword: 'duncan dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Duncan OK',
+      'Duncan construction dumpster rental',
+      'roll off dumpster Duncan',
+      'roll off dumpster Duncan OK',
+      'rolloff dumpsters Duncan',
+      'roll offs Duncan OK',
+      '10 yard dumpster rental Duncan',
+      '20 yard dumpster rental Duncan',
+      '30 yard dumpster rental Duncan',
+    ],
+    heroH1: 'Dumpster Rental in Duncan, Oklahoma',
+    heroSubheadline:
+      'Find roll-off dumpster rental for home cleanouts, roofing tear-offs, construction debris, and storm cleanup in Duncan and Stephens County.',
+    introParagraphs: [
+      "Duncan's established residential neighborhoods carry decades of history — and decades of accumulated material. The older homes north and east of downtown, many built during the oil booms of the 1920s through 1950s, are now going through estate cleanouts, kitchen gut renovations, and full-property turnovers. Halliburton chose Duncan in 1919 for a reason — Stephens County oil money built substantial homes, and those homes now generate consistent demand for roll-off containers as the housing stock cycles through new owners and renovation projects.",
+      'Hail and wind events hit Stephens County reliably through spring and early summer, and roofing tear-offs follow those storms with predictable regularity. A 20-yard handles most residential roofing jobs in Duncan. Commercial buildings and older agricultural structures in the county often need a 30-yard and a conversation with the provider about shingle weight limits. The oil and gas industry background also means some cleanup projects involve equipment yards, storage buildings, and oilfield-adjacent debris that falls outside what a standard residential hauler expects.',
+      'Rolloff Dumpster Finder connects Duncan customers with local roll-off providers serving Stephens County and the surrounding area. We cover Duncan and the surrounding corridor — Marlow, Velma, Comanche, Lindsay, and Elmore City. Get a quote based on what you are actually hauling, not a blanket estimate from someone who would rather go bigger.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
+        range: '$250–$420 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction.',
+        range: '$290–$470 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
+        range: '$320–$550 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, commercial roofing, construction debris, storm cleanup with structural material.',
+        range: '$400–$700 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction projects, large commercial demolition, industrial cleanup and site clearing.',
+        range: '$550–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "The older residential neighborhoods north and east of downtown Duncan carry decades of accumulated household material. A full-home cleanout typically needs a 20-yard container. Properties that haven't been cleared in 30 or 40 years — especially those with a detached garage or storm cellar — often push into 30-yard territory.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Hail and wind damage through Oklahoma's severe weather season drives consistent shingle replacement in Stephens County. A 20-yard handles most residential roofing jobs in Duncan. Commercial buildings and older agricultural structures in the county often need a 30-yard and a check on the provider's weight limits for heavy shingle loads.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'New construction and renovation activity in Duncan generates framing, drywall, roofing, and finish debris. The oil and gas economy creates some site cleanup projects that go beyond standard residential — equipment buildings, storage yards, and industrial structures generate heavier material that requires upfront discussion with your provider.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Older homes in Duncan often have original kitchens and bathrooms due for full replacement. Tile, countertops, cabinetry, and drywall from a mid-size gut typically fill a 10- to 15-yard container. Dense tile and stone hits weight limits before the bin looks full — a common cause of overweight charges.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Storm cellars and detached garages are common in Duncan and throughout Stephens County. These structures accumulate decades of equipment, supplies, and stored material. A storm cellar plus garage cleanout typically needs a 15- to 20-yard container.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Duncan's established neighborhoods have long-term homeowners, and estate cleanouts are a consistent part of the local market. A 3-bedroom home lived in for 40 years typically needs a 20-yard container. Properties with outbuildings, storm cellars, or attached workshops often require a second pull.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Storm debris cleanup after hail and wind events generates significant yard waste in Stephens County. Tree limbs, brush, and wind-damaged fencing are the most common materials. Confirm your provider accepts green waste — some roll-off operators do not mix yard debris with general household waste.',
+      },
+      {
+        number: '08',
+        name: 'Storm Cleanup',
+        description:
+          'Oklahoma sits in Tornado Alley, and severe weather events produce debris that goes well beyond yard waste. Structural material — insulation, siding, fencing, roofing — from storm damage typically needs a 20- or 30-yard container. Book early after major weather events; availability tightens fast across Stephens County.',
+      },
+      {
+        number: '09',
+        name: 'Agricultural & Oilfield Cleanup',
+        description:
+          'Stephens County has deep roots in oil and gas, and equipment yards, storage buildings, and working ranch properties generate cleanup projects that differ from standard residential jobs. Discuss the debris type with your provider before booking — some material from oilfield-adjacent operations may require separate disposal.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Duncan depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common setup in Duncan and requires no permit from the city. Confirm your driveway dimensions and surface condition with your provider at booking.',
+      'Alley placement is available in some of the older established neighborhoods north and east of downtown. Not all alleys in Duncan can accommodate a standard roll-off truck — confirm access before scheduling.',
+      'Street placement in Duncan requires a right-of-way permit from the City of Duncan Public Works department. Contact the city before your delivery date to confirm current permit requirements and fees.',
+      'Duncan has no significant HOA concentration in its older residential areas, but newer subdivisions on the south and west sides of town may have community association rules on container placement. Check before booking.',
+      'Older driveways in established Duncan neighborhoods may have aging concrete or tight setbacks. Describe your access when requesting a quote — the driver needs to get in and back out safely.',
+      "Storm cellar lids and low-clearance outbuildings can limit where a container fits on some Stephens County properties. Account for the bin's footprint — typically 8 feet wide by 14–22 feet long — when identifying a placement spot.",
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Historic District',
+      'North Duncan',
+      'South Duncan',
+      'Eastside',
+      'Fairgrounds District',
+      'Country Club',
+      'Highland Park',
+      'Plum Creek Area',
+      'West Duncan',
+      'Central Duncan',
+      'University District',
+    ],
+    nearbyCities: [
+      'Lawton',
+      'Chickasha',
+      'Marlow',
+      'Velma',
+      'Comanche',
+      'Lindsay',
+      'Elmore City',
+      'Rush Springs',
+      'Pauls Valley',
+      'Anadarko',
+      'Elgin',
+      'Waurika',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Duncan?',
+        answer:
+          'A 10-yard container in Duncan typically runs $250–$420 per week. A 20-yard is usually $320–$550. Pricing reflects the Stephens County market — generally in line with Lawton area rates. Get an itemized quote; fuel surcharges and disposal fees are often listed separately from the base rental rate.',
+      },
+      {
+        question: 'What size dumpster do I need for a Duncan home cleanout?',
+        answer:
+          "A 20-yard handles most full-home cleanouts in Duncan. The older homes north and east of downtown that haven't been cleared in years — especially those with a detached garage or storm cellar — often push into 30-yard territory once everything is factored in. For a single room or light cleanout, a 10-yard is usually enough.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Duncan?',
+        answer:
+          'Yes. Hail and wind damage drive consistent roofing replacement throughout Stephens County. A 20-yard handles most residential tear-offs. Confirm the weight limit before loading — shingles are dense, and a full roof can approach or exceed the standard 2-ton limit on a 20-yard container.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Duncan?',
+        answer:
+          'Most providers in the Duncan area accept concrete and soil in a standard roll-off. Weight limits are the primary constraint — dense debris hits them well before the bin looks full. A 10-yard loaded with concrete typically maxes out at one to two tons. Ask your provider about their heavy-debris policy and weight overage fees before loading.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Duncan?',
+        answer:
+          'Most providers serving Duncan can deliver within 24–48 hours under normal conditions. After major weather events — hail storms, tornadoes, high-wind events — availability tightens across Stephens County. Book as early as possible after storm damage; the good providers fill up fast.',
+      },
+      {
+        question: 'Do you serve Marlow, Velma, and other nearby communities?',
+        answer:
+          "Yes. Providers through Rolloff Dumpster Finder typically cover Duncan and the surrounding Stephens County area, including Marlow, Velma, Comanche, Elmore City, and Rush Springs. Delivery availability and pricing vary by distance from the provider's base. Confirm your delivery address when requesting a quote.",
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Duncan?',
+        answer:
+          'Standard rental periods in the Duncan area run 7 to 14 days. Extensions are usually available at $5–$15 per day. Estate cleanouts and renovation projects often take longer than expected — confirm extension terms before you start loading so you are not caught by an early pickup.',
+      },
+      {
+        question: "What items can't I put in a Duncan dumpster?",
+        answer:
+          'Hazardous materials are not accepted: paint, solvents, motor oil, batteries, propane tanks, and tires are prohibited in most standard roll-offs. Some providers also restrict appliances with refrigerants and certain electronics. Ask for the restricted items list before loading — disposal violations can result in additional charges.',
+      },
+      {
+        question: 'Can I rent a dumpster for oilfield or agricultural cleanup in Stephens County?',
+        answer:
+          'Standard roll-off containers handle most oilfield-adjacent cleanup — scrap metal, wood, general debris from storage buildings and equipment yards. Material contaminated with oil, chemicals, or produced water is a different matter and requires specialty disposal. Discuss the debris type with your provider before booking.',
+      },
+    ],
+    latitude: 34.5023,
+    longitude: -97.9578,
+  },
+
+  // ─── CHICKASHA ────────────────────────────────────────────────
+  {
+    slug: 'chickasha-ok-dumpster-rental',
+    cityName: 'Chickasha',
+    stateName: 'Oklahoma',
+    stateAbbr: 'OK',
+    metaTitle: 'Roll Off Dumpster Rental in Chickasha, OK | Sizes & Pricing',
+    metaDescription:
+      'Chickasha dumpster rental for home cleanouts, roofing tear-offs, and estate cleanouts in Grady County. Get local roll-off pricing and book delivery.',
+    primaryKeyword: 'chickasha dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Chickasha OK',
+      'Chickasha construction dumpster rental',
+      'roll off dumpster Chickasha',
+      'roll off dumpster Chickasha OK',
+      'rolloff dumpsters Chickasha',
+      'roll offs Chickasha OK',
+      '10 yard dumpster rental Chickasha',
+      '20 yard dumpster rental Chickasha',
+      '30 yard dumpster rental Chickasha',
+    ],
+    heroH1: 'Dumpster Rental in Chickasha, Oklahoma',
+    heroSubheadline:
+      'Find roll-off dumpster rental for home cleanouts, estate cleanouts, roofing tear-offs, and storm cleanup in Chickasha and Grady County.',
+    introParagraphs: [
+      "Chickasha's older residential neighborhoods — the blocks around downtown and the University of Science and Arts of Oklahoma — have housing stock built largely from the early 1900s through the 1950s. Those homes are now cycling through estate cleanouts, full-room renovations, and rental property turnovers as ownership changes hands. The university keeps a steady stream of housing activity in the neighborhoods closest to campus: tenant turnover, landlord renovations, and the occasional full gut of a property that has been rented hard for twenty years.",
+      'Grady County sits squarely in the Oklahoma severe weather corridor, and hail and wind events drive consistent roofing demand in the spring and early summer. Agricultural properties outside the city — barns, equipment sheds, storm cellars, and outbuildings on working farms and pasture land — generate a category of cleanup that residential haulers sometimes are not set up for. A barn cleanout or a farm outbuilding teardown produces different material than a house cleanout, and it is worth discussing the debris type with your provider before booking.',
+      'Rolloff Dumpster Finder connects Chickasha customers with local roll-off providers serving Grady County and the I-44 corridor. Chickasha sits between the OKC metro and the Southwest Oklahoma cluster — providers from both directions typically cover the area. We serve Chickasha and the surrounding corridor: Tuttle, Blanchard, Rush Springs, Anadarko, Duncan, and Marlow. Get a quote based on what you are actually hauling.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
+        range: '$250–$420 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction debris.',
+        range: '$290–$470 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
+        range: '$320–$550 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, commercial roofing, construction debris, storm cleanup with structural material.',
+        range: '$400–$700 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction projects, large commercial demolition, agricultural site clearing, industrial cleanup.',
+        range: '$550–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          'The older residential blocks around downtown Chickasha and near USAO carry decades of accumulated household material. A full-home cleanout typically needs a 20-yard container. Properties that include a detached garage, storm cellar, or outbuilding often push into 30-yard territory once everything is factored in.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Hail and wind events hit Grady County reliably through spring, and roofing replacements follow those storms across Chickasha's established neighborhoods. A 20-yard handles most residential tear-offs. Larger commercial roofing jobs on agricultural buildings outside the city often need a 30-yard and a weight limit check.",
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'New construction and renovation activity along the I-44 corridor and in Chickasha proper generates framing, drywall, and finish debris. Mixed C&D loads from light commercial projects typically need a 20- to 30-yard container depending on material density.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'The older housing stock near downtown and the university district often has original kitchens and bathrooms. Tile, countertops, cabinetry, and drywall from a mid-size gut typically fills a 10- to 15-yard container. Stone and tile hits weight limits before the bin looks full.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Storm cellars are common in Chickasha and throughout Grady County. These structures accumulate equipment, seasonal supplies, and stored material over decades. A storm cellar plus attached garage cleanout typically needs a 15- to 20-yard container.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-term homeowners in established Chickasha neighborhoods generate consistent estate cleanout demand as properties change hands. A 3-bedroom home lived in for 40 years typically needs a 20-yard container. Properties with outbuildings or agricultural sheds often require a second pull.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Storm debris cleanup after hail and wind events generates significant yard waste in Grady County. Tree limbs, brush, and wind-damaged fencing are the most common materials. Confirm your provider accepts green waste — some operators prefer to keep it separate from general household debris.',
+      },
+      {
+        number: '08',
+        name: 'Storm Cleanup',
+        description:
+          'Chickasha sits in the Oklahoma severe weather corridor, and tornado and wind events produce debris well beyond what a yard waste container handles. Structural material from storm damage typically needs a 20- to 30-yard container. Book early after a major event; availability tightens county-wide fast.',
+      },
+      {
+        number: '09',
+        name: 'Agricultural & Farm Cleanup',
+        description:
+          'Grady County farms and rural properties generate barn cleanouts, equipment shed teardowns, and outbuilding removal that differs from standard residential jobs. Discuss the material type with your provider before booking — scrap metal, wood, and general farm debris typically go in a standard roll-off; contaminated materials do not.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Chickasha depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common setup in Chickasha and typically requires no permit on private property. Confirm your driveway dimensions and surface condition with your provider at booking.',
+      'Alley access is available in some of the older established neighborhoods near downtown and USAO. Confirm the alley width and surface condition before scheduling — not all alleys accommodate a standard roll-off truck.',
+      'Street placement in Chickasha requires a right-of-way permit from the City of Chickasha. Contact City Hall or the Public Works department to confirm current permit requirements before your delivery date.',
+      'Rural and agricultural properties in Grady County outside the city limits typically do not require a placement permit. Confirm driveway access and ground conditions with your provider — soft or low-clearance approaches may limit which containers can be delivered.',
+      'The blocks nearest USAO have established residential lots with mature trees and narrow setbacks. Confirm the footprint — typically 8 feet wide by 14–22 feet long — fits your placement spot before scheduling.',
+      'Storm cellar lids and low-clearance sheds can restrict where a container fits on some Chickasha properties. Account for the driver needing enough space to maneuver in and back out.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Historic District',
+      'University District',
+      'North Chickasha',
+      'South Chickasha',
+      'East Chickasha',
+      'West Chickasha',
+      'Shannon Springs Area',
+      'Lake Chickasha Area',
+      'Fairgrounds District',
+      'College Hill',
+      'Northwood',
+    ],
+    nearbyCities: [
+      'Oklahoma City',
+      'Norman',
+      'Tuttle',
+      'Blanchard',
+      'Anadarko',
+      'Rush Springs',
+      'Duncan',
+      'Marlow',
+      'Lindsay',
+      'Lawton',
+      'Elmore City',
+      'Cyril',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Chickasha?',
+        answer:
+          'A 10-yard container in Chickasha typically runs $250–$420 per week. A 20-yard is usually $320–$550. Chickasha sits between the OKC metro and the Southwest Oklahoma market, and providers from both directions serve the area — pricing is generally in line with the Grady County market. Get an itemized quote; fuel surcharges and disposal fees are often listed separately.',
+      },
+      {
+        question: 'What size dumpster do I need for a Chickasha home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Chickasha. The older homes near downtown and the university that have not been cleared in years — especially those with a storm cellar or detached garage — often push into 30-yard territory. For a single room or light cleanout, a 10-yard is usually enough.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Chickasha?',
+        answer:
+          'Yes. Hail and wind damage drive consistent roofing replacement across Grady County. A 20-yard handles most residential tear-offs in Chickasha. Confirm weight limits before loading — shingles are dense, and a full residential roof can hit the standard 2-ton limit on a 20-yard before the bin is visually full.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Chickasha?',
+        answer:
+          'Most providers in the Chickasha area accept concrete and soil in a standard roll-off. Weight limits are the constraint — dense material hits them before the bin fills. A 10-yard loaded with concrete typically maxes out at one to two tons. Ask your provider about their heavy-debris policy and overage fees before you start loading.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Chickasha?',
+        answer:
+          'Most providers serving Chickasha can deliver within 24–48 hours under normal conditions. Chickasha is served by providers from the OKC metro and from the Southwest Oklahoma market, so coverage is generally good. After major hail or tornado events, availability tightens — book as early as possible.',
+      },
+      {
+        question: 'Do you serve Tuttle, Blanchard, Anadarko, and nearby towns?',
+        answer:
+          "Yes. Providers through Rolloff Dumpster Finder typically cover Chickasha and the surrounding Grady County area, including Tuttle, Blanchard, Rush Springs, Anadarko, and Cyril. Delivery availability and pricing vary by distance from the provider's base. Confirm your delivery address when requesting a quote.",
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Chickasha?',
+        answer:
+          'Standard rental periods in the Chickasha area run 7 to 14 days. Extensions are usually available at $5–$15 per day. Estate cleanouts and farm property projects often take longer than a standard week — confirm extension terms before you start loading.',
+      },
+      {
+        question: "What items can't I put in a Chickasha dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard roll-offs: paint, solvents, motor oil, batteries, propane tanks, and tires are prohibited at most providers. Agricultural chemicals and pesticide containers from farm properties also require separate disposal. Ask for the restricted items list before loading.',
+      },
+      {
+        question: 'Can I get a dumpster for a farm or agricultural property in Grady County?',
+        answer:
+          'Yes. Standard roll-off containers handle most farm cleanup — wood debris, general equipment, old fencing, and non-hazardous material from barns and outbuildings. Material contaminated with agricultural chemicals, pesticides, or fuels requires specialty disposal. Discuss the debris type with your provider before booking so they can confirm what they will accept.',
+      },
+    ],
+    latitude: 35.0526,
+    longitude: -97.9378,
+  },
+
+  // ─── ALTUS ───────────────────────────────────────────────────
+  {
+    slug: 'altus-ok-dumpster-rental',
+    cityName: 'Altus',
+    stateName: 'Oklahoma',
+    stateAbbr: 'OK',
+    metaTitle: 'Dumpster Rental Altus, OK | Roll-Off Sizes & Local Pricing',
+    metaDescription:
+      'Altus dumpster rental for home cleanouts, roofing tear-offs, and estate cleanouts in Jackson County. Get local roll-off container pricing and book delivery.',
+    primaryKeyword: 'altus dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Altus OK',
+      'Altus construction dumpster rental',
+      'roll off dumpster Altus',
+      'roll off dumpster Altus OK',
+      'rolloff dumpsters Altus',
+      'roll offs Altus OK',
+      '10 yard dumpster rental Altus',
+      '20 yard dumpster rental Altus',
+      '30 yard dumpster rental Altus',
+    ],
+    heroH1: 'Dumpster Rental in Altus, Oklahoma',
+    heroSubheadline:
+      'Find roll-off dumpster rental for home cleanouts, roofing tear-offs, estate cleanouts, and construction debris in Altus and Jackson County.',
+    introParagraphs: [
+      "Altus is Jackson County's seat and the largest city in the southwest corner of Oklahoma. The established residential neighborhoods around downtown and near Western Oklahoma State College carry housing stock built largely from the 1940s through the 1970s — a mix of post-war ranches and mid-century homes that are now cycling through estate cleanouts, renovation projects, and rental property turnovers. Properties in Altus that have sat long-term accumulate material in storm cellars, detached garages, and outbuildings at rates that surprise first-time renters.",
+      'Altus Air Force Base sits just outside the city and is a major tanker and airlift training installation. Personnel rotations through the base create consistent housing demand and a steady cycle of move-in and move-out cleanouts in the residential neighborhoods closest to the installation. Hail and wind events in southwest Oklahoma also drive roofing replacement activity through the spring and early summer. Cotton agriculture and dryland farming across Jackson County generate a category of farm and outbuilding cleanup that is distinct from residential work.',
+      'Altus is a remote market — fewer providers operate here than in Lawton or OKC, and lead times reflect that. Rolloff Dumpster Finder connects Altus customers with roll-off providers serving Jackson County and the surrounding area, including Frederick, Hobart, Mangum, and Hollis. Get a quote based on what you are actually hauling and confirm delivery timelines before you schedule the work.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
+        range: '$260–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction debris.',
+        range: '$300–$480 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
+        range: '$340–$570 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, commercial roofing, construction debris, storm cleanup with structural material.',
+        range: '$420–$720 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction projects, large commercial demolition, agricultural site clearing, industrial cleanup.',
+        range: '$570–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "The post-war and mid-century housing in Altus's established neighborhoods holds decades of accumulated household material. A full-home cleanout typically needs a 20-yard container. Properties with a detached garage, storm cellar, or outbuilding often push into 30-yard territory once everything is accounted for.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Hail and wind events hit southwest Oklahoma reliably through the spring severe weather season, and roofing replacements follow across Jackson County. A 20-yard handles most residential tear-offs in Altus. Older agricultural buildings and commercial structures often need a 30-yard and a weight limit check on the shingle load.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'New residential and commercial construction in Altus generates framing, drywall, roofing, and finish debris. Lead times for delivery in this remote market can be longer than in the OKC metro — confirm scheduling before your crew starts demolition.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'The older housing stock in Altus often has original kitchens and bathrooms due for full replacement. Tile, countertops, and cabinetry from a mid-size gut fill a 10- to 15-yard container. Stone and tile debris hits weight limits before the bin looks full — confirm overweight fees before loading.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Storm cellars are common in Altus and throughout Jackson County. Combined with a detached garage or shop building, a full cellar-and-garage cleanout typically needs a 15- to 20-yard container. Some rural properties outside the city have larger outbuildings that push that estimate higher.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-term homeowners in established Altus neighborhoods generate consistent estate cleanout demand. A 3-bedroom home lived in for decades typically needs a 20-yard container. Properties with agricultural outbuildings or large shop spaces on rural Jackson County parcels often need a second pull.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Storm debris from severe weather events generates significant yard waste in southwest Oklahoma. Tree limbs, brush, and wind-damaged fencing are the most common materials. Confirm your provider accepts green waste — some operators require it to be kept separate from general household debris.',
+      },
+      {
+        number: '08',
+        name: 'Housing Turnover',
+        description:
+          'Personnel rotations at Altus Air Force Base drive a steady cycle of move-in and move-out cleanouts in the residential neighborhoods closest to the installation. These are often time-sensitive jobs — confirm delivery lead times with your provider before committing to a move-out date.',
+      },
+      {
+        number: '09',
+        name: 'Agricultural & Farm Cleanup',
+        description:
+          'Jackson County cotton farming and dryland agriculture generate barn cleanouts, equipment shed teardowns, and outbuilding removal. General farm debris — wood, scrap metal, non-hazardous materials — goes in a standard roll-off. Contaminated materials from chemical storage require separate handling; confirm what your provider accepts before booking.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Altus depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common setup in Altus and typically requires no permit on private property. Confirm your driveway surface, dimensions, and any overhead clearance issues with your provider at booking.',
+      'Street placement in Altus requires a right-of-way permit from the City of Altus. Contact the City of Altus Public Works department before your delivery date to confirm current requirements and fees.',
+      'Alley access is available in some established neighborhoods near downtown. Confirm alley width and surface condition before scheduling — not all alleys in Altus accommodate a standard roll-off truck.',
+      'Rural and agricultural properties outside the Altus city limits typically do not require a placement permit. Confirm driveway access, ground conditions, and road quality with your provider — soft ground can shift under container weight.',
+      'Altus AFB-adjacent residential areas sometimes have community guidelines on exterior storage and container placement. Confirm any property rules before scheduling.',
+      "Storm cellar doors and low-clearance outbuildings can restrict where a container fits on some Altus properties. Account for the bin's footprint — typically 8 feet wide by 14–22 feet long — and the driver's need to maneuver in and back out.",
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Historic District',
+      'North Altus',
+      'South Altus',
+      'East Altus',
+      'West Altus',
+      'College Area',
+      'Airport District',
+      'Fairgrounds Area',
+      'Central Altus',
+      'Hospital District',
+    ],
+    nearbyCities: [
+      'Lawton',
+      'Frederick',
+      'Hobart',
+      'Mangum',
+      'Hollis',
+      'Elk City',
+      'Duncan',
+      'Quartz Mountain Area',
+      'Snyder',
+      'Blair',
+      'Martha',
+      'Eldorado',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Altus?',
+        answer:
+          'A 10-yard container in Altus typically runs $260–$430 per week. A 20-yard is usually $340–$570. Altus is a remote market with fewer providers than Lawton or OKC — pricing reflects that. Get an itemized quote; fuel surcharges for longer delivery distances are common and often listed separately.',
+      },
+      {
+        question: 'What size dumpster do I need for an Altus home cleanout?',
+        answer:
+          "A 20-yard handles most full-home cleanouts in Altus. Properties with a storm cellar, detached garage, or agricultural outbuilding often push into 30-yard territory once everything is factored in. For a single room or light cleanout, a 10-yard is usually enough.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Altus?',
+        answer:
+          'Yes. Hail and wind damage drive consistent roofing work across Jackson County each spring. A 20-yard handles most residential tear-offs. Confirm the weight limit before the crew loads — shingles hit the standard 2-ton limit on a 20-yard well before the bin fills up visually.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Altus?',
+        answer:
+          'Most providers in the Altus area accept concrete and soil in a standard roll-off. Weight limits are the constraint — a 10-yard loaded with concrete typically maxes out at one to two tons. Ask your provider about overage fees before loading; they add up fast on dense material.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Altus?',
+        answer:
+          'Plan for 48–72 hours in most cases. Altus has fewer active providers than the OKC or Lawton markets, and delivery lead times are longer. After major hail or wind events, availability tightens further. Book as far in advance as possible, especially for storm cleanup jobs.',
+      },
+      {
+        question: 'Do you serve Frederick, Hobart, Mangum, and nearby towns?',
+        answer:
+          "Yes. Providers through Rolloff Dumpster Finder typically cover Altus and the surrounding Jackson County area, including Frederick, Hobart, Mangum, Hollis, and Snyder. Delivery availability and pricing vary by distance from the provider's base — confirm your delivery address when requesting a quote.",
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Altus?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at $5–$15 per day. Estate cleanouts and farm property projects in the Altus area often take longer than a standard week — confirm extension terms upfront so you are not caught by an early pickup.',
+      },
+      {
+        question: "What items can't I put in an Altus dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard roll-offs: paint, solvents, motor oil, batteries, propane tanks, and tires are prohibited at most providers. Agricultural chemicals, pesticide containers, and fuel from farm properties require separate disposal. Ask for the restricted items list before loading.',
+      },
+      {
+        question: 'Can I rent a dumpster for a move-out cleanout near Altus AFB?',
+        answer:
+          'Yes. Move-in and move-out cleanouts in residential neighborhoods near the base are a common project type in this market. These are often time-sensitive given move-out inspection windows — confirm delivery lead times with your provider before committing to a date.',
+      },
+    ],
+    latitude: 34.6381,
+    longitude: -99.3337,
+  },
+
+  // ─── ANADARKO ─────────────────────────────────────────────────
+  {
+    slug: 'anadarko-ok-dumpster-rental',
+    cityName: 'Anadarko',
+    stateName: 'Oklahoma',
+    stateAbbr: 'OK',
+    metaTitle: 'Dumpster Rental Anadarko, OK | Roll-Off Sizes & Pricing',
+    metaDescription:
+      'Anadarko dumpster rental for home cleanouts, roofing tear-offs, and estate cleanouts in Caddo County. Get local roll-off container pricing and book delivery.',
+    primaryKeyword: 'anadarko dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Anadarko OK',
+      'Anadarko construction dumpster rental',
+      'roll off dumpster Anadarko',
+      'roll off dumpster Anadarko OK',
+      'rolloff dumpsters Anadarko',
+      'roll offs Anadarko OK',
+      '10 yard dumpster rental Anadarko',
+      '20 yard dumpster rental Anadarko',
+      '30 yard dumpster rental Anadarko',
+    ],
+    heroH1: 'Dumpster Rental in Anadarko, Oklahoma',
+    heroSubheadline:
+      'Find roll-off dumpster rental for home cleanouts, roofing tear-offs, estate cleanouts, and construction debris in Anadarko and Caddo County.',
+    introParagraphs: [
+      "Anadarko is Caddo County's seat and sits at the center of a distinct stretch of southwest-central Oklahoma. The older residential neighborhoods around downtown carry housing stock built from the early 1900s through the 1950s — a mix of craftsman bungalows and mid-century homes that are cycling through estate cleanouts, renovation projects, and long-deferred maintenance work. For a city of roughly 6,500 people, properties here accumulate material across generations, and a single full-home cleanout in a long-term residence often produces more volume than first-time renters expect.",
+      'Anadarko has a significant institutional presence for a city its size. Tribal government offices, the Bureau of Indian Affairs regional headquarters, and cultural facilities including the Southern Plains Indian Museum operate here. That institutional footprint creates renovation and cleanout demand alongside standard residential work. Hail and wind events in Caddo County also drive consistent roofing activity through the spring severe weather season, and agricultural properties on the county\'s wheat and cotton farms generate farm outbuilding cleanup that falls outside what a standard residential hauler expects.',
+      'Rolloff Dumpster Finder connects Anadarko customers with local roll-off providers serving Caddo County and the surrounding area. Providers from the OKC metro direction and the Southwest Oklahoma cluster both cover this market. We serve Anadarko and the surrounding corridor — Chickasha, Lawton, Carnegie, Fort Cobb, and Hinton. Confirm delivery lead times before you schedule; this is a smaller market than Lawton or OKC.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
+        range: '$250–$420 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction debris.',
+        range: '$290–$470 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
+        range: '$320–$550 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, commercial roofing, construction debris, storm cleanup with structural material.',
+        range: '$400–$700 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction projects, large commercial demolition, agricultural site clearing, industrial cleanup.',
+        range: '$550–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "The older residential blocks around downtown Anadarko carry decades of accumulated household material. A full-home cleanout in a property that has been owner-occupied for 40 or more years typically needs a 20-yard container. Properties with a detached garage or storm cellar often push into 30-yard territory once the full scope is counted.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Hail and wind events hit Caddo County reliably in the spring severe weather season, and roofing replacements follow. A 20-yard handles most residential tear-offs in Anadarko. Older commercial and agricultural buildings outside the city often need a 30-yard and a check on the shingle weight limit before loading.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Renovation and new construction activity in Anadarko generates framing, drywall, and finish debris. Institutional buildings in the city also undergo periodic facility updates. Confirm delivery lead times with your provider before scheduling a construction project — this is a smaller market with fewer active haulers.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'The older housing stock in Anadarko often has original kitchens and bathrooms. Tile, countertops, cabinetry, and drywall from a mid-size gut typically fill a 10- to 15-yard container. Stone and tile hits weight limits before the bin looks full — confirm overage fees before loading.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Storm cellars are common in Anadarko and throughout Caddo County. A storm cellar plus detached garage cleanout on a property held by one family for decades typically needs a 15- to 20-yard container. Some rural parcels outside the city have shop buildings that push that estimate higher.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Long-term homeowners in Anadarko's established neighborhoods generate consistent estate cleanout demand as properties transition. A 3-bedroom home lived in for 40 years typically needs a 20-yard container. Rural Caddo County properties with outbuildings or agricultural structures often require a second pull.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Storm debris cleanup after severe weather generates yard waste across Caddo County. Tree limbs, brush, and wind-damaged fencing are the most common materials. Confirm your provider accepts green waste — some operators keep it separate from general household debris.',
+      },
+      {
+        number: '08',
+        name: 'Storm Cleanup',
+        description:
+          'Anadarko sits in the Oklahoma severe weather corridor and sees tornado and wind activity through the spring. Structural debris from storm damage — insulation, siding, roofing, fencing — typically needs a 20- to 30-yard container. Book early after a significant event; availability in this smaller market tightens quickly.',
+      },
+      {
+        number: '09',
+        name: 'Agricultural & Farm Cleanup',
+        description:
+          'Wheat and cotton farming across Caddo County generates barn cleanouts, equipment shed teardowns, and outbuilding removal. Standard roll-off containers handle most non-hazardous farm debris. Contaminated materials from chemical storage or fuel handling require separate disposal — discuss debris type with your provider before booking.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Anadarko depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common setup in Anadarko and typically requires no permit on private property. Confirm your driveway surface, dimensions, and any overhead clearance issues with your provider at booking.',
+      'Street placement in Anadarko requires a right-of-way permit from the City of Anadarko. Contact City Hall or the Public Works department before your delivery date to confirm current requirements and fees.',
+      'Alley access exists in some of the older neighborhoods near downtown. Confirm alley width and surface condition before scheduling — not all alleys can accommodate a standard roll-off truck.',
+      'Rural and agricultural properties in Caddo County outside the city limits generally do not require a placement permit. Confirm driveway access and ground conditions with your provider — soft ground can shift under container weight.',
+      'The historic downtown area has established commercial properties with varying setbacks and curb conditions. Confirm the footprint requirements with your provider before scheduling a container near historic structures.',
+      "Storm cellar doors and low-clearance outbuildings can restrict where a container fits on some Anadarko properties. Account for the bin's footprint — typically 8 feet wide by 14–22 feet long — when identifying a placement spot.",
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Historic District',
+      'North Anadarko',
+      'South Anadarko',
+      'East Anadarko',
+      'West Anadarko',
+      'Fairgrounds District',
+      'Museum District',
+      'Central Anadarko',
+      'Airport Area',
+      'Riverside District',
+    ],
+    nearbyCities: [
+      'Chickasha',
+      'Lawton',
+      'Oklahoma City',
+      'Carnegie',
+      'Fort Cobb',
+      'Hinton',
+      'Rush Springs',
+      'Duncan',
+      'Cement',
+      'Cyril',
+      'Elgin',
+      'Marlow',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Anadarko?',
+        answer:
+          'A 10-yard container in Anadarko typically runs $250–$420 per week. A 20-yard is usually $320–$550. Anadarko is a smaller market served by providers from both the OKC metro and the Southwest Oklahoma cluster. Get an itemized quote — fuel surcharges are common in smaller markets and often listed separately from the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for an Anadarko home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Anadarko. Long-term residences in established neighborhoods — especially those with a storm cellar or outbuilding — often push into 30-yard territory once everything is factored in. For a single room or light cleanout, a 10-yard is usually enough.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Anadarko?',
+        answer:
+          'Yes. Hail and wind events hit Caddo County consistently in the spring, and roofing replacements follow. A 20-yard handles most residential tear-offs. Confirm weight limits before loading — shingles are dense, and a full roof can hit the 2-ton limit before the bin looks full.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Anadarko?',
+        answer:
+          'Most providers in the Anadarko area accept concrete and soil in a standard roll-off. Weight limits are the main constraint — dense material hits them before the bin fills. A 10-yard loaded with concrete typically maxes out at one to two tons. Ask your provider about overage fees before you start loading.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Anadarko?',
+        answer:
+          'Plan for 48–72 hours. Anadarko is a smaller market than Lawton or OKC — fewer providers operate here, and lead times are longer. After hail storms or major weather events, availability tightens further. Book as far in advance as possible, particularly for storm cleanup jobs.',
+      },
+      {
+        question: 'Do you serve Chickasha, Carnegie, Fort Cobb, and nearby towns?',
+        answer:
+          "Yes. Providers through Rolloff Dumpster Finder typically cover Anadarko and surrounding Caddo County, including Chickasha, Carnegie, Fort Cobb, Hinton, and Cyril. Delivery availability and pricing vary by distance from the provider's base. Confirm your delivery address when requesting a quote.",
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Anadarko?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at $5–$15 per day. Estate cleanouts and rural property projects often take longer than the initial estimate — confirm extension terms before you start loading so you are not caught by an early pickup.',
+      },
+      {
+        question: "What items can't I put in an Anadarko dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard roll-offs: paint, solvents, motor oil, batteries, propane tanks, and tires are prohibited at most providers. Agricultural chemicals and pesticide containers from farm properties require separate disposal. Ask for the restricted items list before loading.',
+      },
+      {
+        question: 'Do you serve rural Caddo County properties outside Anadarko city limits?',
+        answer:
+          'Yes. Providers covering Anadarko typically extend service to surrounding Caddo County rural properties. Delivery to remote farm parcels may carry additional charges and longer lead times. Confirm your property address and road access with the provider — some rural roads and soft ground conditions affect what can be delivered.',
+      },
+    ],
+    latitude: 35.0726,
+    longitude: -98.2436,
+  },
+
+  // ─── ELGIN ───────────────────────────────────────────────────
+  {
+    slug: 'elgin-ok-dumpster-rental',
+    cityName: 'Elgin',
+    stateName: 'Oklahoma',
+    stateAbbr: 'OK',
+    metaTitle: 'Dumpster Rental Elgin, OK | Roll-Off Sizes & Local Pricing',
+    metaDescription:
+      'Elgin dumpster rental for home cleanouts, roofing tear-offs, and construction debris in Comanche County. Get local roll-off pricing and book delivery.',
+    primaryKeyword: 'elgin dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Elgin OK',
+      'Elgin construction dumpster rental',
+      'roll off dumpster Elgin',
+      'roll off dumpster Elgin OK',
+      'rolloff dumpsters Elgin',
+      'roll offs Elgin OK',
+      '10 yard dumpster rental Elgin',
+      '20 yard dumpster rental Elgin',
+      '30 yard dumpster rental Elgin',
+    ],
+    heroH1: 'Dumpster Rental in Elgin, Oklahoma',
+    heroSubheadline:
+      'Find roll-off dumpster rental for home cleanouts, roofing tear-offs, new construction debris, and storm cleanup in Elgin and Comanche County.',
+    introParagraphs: [
+      "Elgin sits about 12 miles north of Lawton in Comanche County and functions as a bedroom community for the larger metro to the south. The residential areas carry a mix of older ranch homes and newer construction that has followed steady population growth over the past two decades. Estate cleanouts, renovation projects, and home turnovers are the core of local dumpster demand. Properties here that have been owner-occupied for 20 or 30 years — especially those with detached shops or storm cellars — often produce more volume than first-time renters expect.",
+      'Elgin is close to Fort Sill, and personnel rotations through the area create a steady cycle of move-in and move-out cleanouts in the residential neighborhoods closest to the installation. That housing turnover runs year-round, not just in the spring and fall. Hail and wind events in Comanche County also drive consistent roofing replacement demand. New residential construction has continued in Elgin as the community grows, and job site debris from framing and finish work adds a construction component to the local market.',
+      'Rolloff Dumpster Finder connects Elgin customers with local roll-off providers serving Comanche County. Elgin is covered by the same provider network as Lawton, 12 miles south — delivery lead times are typically in line with the Lawton market. We serve Elgin and the surrounding corridor: Lawton, Cache, Fletcher, Medicine Park, and Chickasha. Get a quote based on what you are actually hauling.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
+        range: '$250–$420 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction debris.',
+        range: '$290–$470 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
+        range: '$320–$550 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, new construction debris, storm cleanup with structural material, commercial roofing.',
+        range: '$400–$700 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction projects, large commercial demolition, agricultural site clearing, industrial cleanup.',
+        range: '$550–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Elgin's residential areas include older ranch homes and newer subdivisions that have absorbed growth from the Lawton metro. A full-home cleanout typically needs a 20-yard container. Properties with a detached shop building or storm cellar — common in Comanche County — often push into 30-yard territory once the full scope is counted.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Hail and wind events hit Comanche County consistently through the spring severe weather season, and roofing replacements follow across Elgin and the surrounding area. A 20-yard handles most residential tear-offs. Confirm the weight limit before loading — shingle loads on a full residential roof approach the standard 2-ton limit quickly.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "New residential construction has continued in Elgin as the community grows north of Lawton. Framing, drywall, roofing, and finish debris from new builds typically need a 20- to 30-yard container. Elgin's provider network mirrors Lawton's — lead times are generally in the 24–48 hour range under normal conditions.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Older homes in Elgin often have original kitchens and bathrooms due for full replacement. Tile, countertops, cabinetry, and drywall from a mid-size gut fill a 10- to 15-yard container. Stone and tile hits weight limits before the bin looks full — confirm overage fees before loading.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Storm cellars and detached shop buildings are common on Elgin residential properties and rural Comanche County parcels. A storm cellar plus garage or shop cleanout typically needs a 15- to 20-yard container. Rural properties with multiple outbuildings often need a second pull.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-term homeowners in Elgin generate consistent estate cleanout demand as properties transition. A 3-bedroom home lived in for decades typically needs a 20-yard container. Properties with agricultural land, shop buildings, or large storage areas often push the estimate into 30-yard territory.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Storm debris cleanup after hail and wind events generates significant yard waste in Comanche County. Tree limbs, brush, and wind-damaged fencing are the most common materials. Confirm your provider accepts green waste — some operators separate it from general household debris.',
+      },
+      {
+        number: '08',
+        name: 'Storm Cleanup',
+        description:
+          'Comanche County sees consistent tornado and severe wind activity through the spring season, and storm debris cleanup is a recurring project type in the area. Structural material from storm damage typically needs a 20- to 30-yard container. Book early after a major event; availability in the Lawton/Elgin market tightens fast.',
+      },
+      {
+        number: '09',
+        name: 'Housing Turnover',
+        description:
+          'Fort Sill is approximately 10 miles south of Elgin, and personnel rotations through the area drive a year-round cycle of housing cleanouts in the residential neighborhoods closest to the installation. These jobs are often time-sensitive — confirm delivery lead times before committing to a move-out date.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Elgin depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common setup in Elgin and typically requires no permit on private property. Confirm your driveway surface, dimensions, and any overhead clearance with your provider at booking.',
+      'Street placement in Elgin requires coordination with the City of Elgin. Contact the city before your delivery date to confirm current right-of-way permit requirements and fees.',
+      'Rural and agricultural properties in Comanche County outside Elgin city limits generally do not require a placement permit. Confirm driveway access and ground conditions — soft ground under a loaded container can cause sinking.',
+      'Elgin has limited alley infrastructure compared to older urban areas. Most container placements are driveway or yard based. Confirm with your provider whether alley delivery is possible at your address.',
+      'Newer subdivisions in Elgin may have community or HOA guidelines on exterior storage and container placement. Confirm any restrictions before scheduling.',
+      "Storm cellar lids and detached shop buildings can restrict where a container fits on some Elgin properties. Account for the bin's footprint — typically 8 feet wide by 14–22 feet long — when identifying a placement spot.",
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Elgin',
+      'North Elgin',
+      'South Elgin',
+      'East Elgin',
+      'West Elgin',
+      'School District Area',
+      'Highway 277 Corridor',
+      'West Cache Road Area',
+      'Rural Residential North',
+      'New Development Area',
+    ],
+    nearbyCities: [
+      'Lawton',
+      'Cache',
+      'Fletcher',
+      'Medicine Park',
+      'Chickasha',
+      'Duncan',
+      'Anadarko',
+      'Marlow',
+      'Comanche',
+      'Cyril',
+      'Rush Springs',
+      'Elmore City',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Elgin?',
+        answer:
+          'A 10-yard container in Elgin typically runs $250–$420 per week. A 20-yard is usually $320–$550. Elgin is covered by the same Comanche County provider network as Lawton — pricing is generally in line with the Lawton market. Get an itemized quote; fuel surcharges and disposal fees are often listed separately.',
+      },
+      {
+        question: 'What size dumpster do I need for an Elgin home cleanout?',
+        answer:
+          "A 20-yard handles most full-home cleanouts in Elgin. Properties with a detached shop building, storm cellar, or agricultural outbuilding often push into 30-yard territory once everything is factored in. For a single room or light cleanout, a 10-yard is usually enough.",
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Elgin?',
+        answer:
+          'Yes. Hail and wind events hit Comanche County reliably through the spring severe weather season. A 20-yard handles most residential tear-offs in Elgin. Confirm the weight limit before loading — shingles are dense, and a full roof approaches the standard 2-ton limit before the bin looks full.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Elgin?',
+        answer:
+          'Most providers serving Elgin accept concrete and soil in a standard roll-off. Weight limits are the constraint — dense material hits them before the bin fills. A 10-yard loaded with concrete typically maxes out at one to two tons. Ask your provider about overage fees before loading.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Elgin?',
+        answer:
+          'Most providers serving Elgin can deliver within 24–48 hours under normal conditions. Elgin uses the same provider network as Lawton, 12 miles south, so lead times are generally consistent with that market. After major weather events, availability tightens — book early after storm damage.',
+      },
+      {
+        question: 'Do you serve Lawton, Cache, and other nearby communities?',
+        answer:
+          "Yes. Providers through Rolloff Dumpster Finder cover Elgin and the surrounding Comanche County area, including Lawton, Cache, Fletcher, and Medicine Park. Delivery availability and pricing vary by delivery address. Confirm your location when requesting a quote.",
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Elgin?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at $5–$15 per day. Housing turnover projects and estate cleanouts often run longer than a standard week — confirm extension terms before you start loading.',
+      },
+      {
+        question: "What items can't I put in an Elgin dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard roll-offs: paint, solvents, motor oil, batteries, propane tanks, and tires are prohibited at most providers. Agricultural chemicals from rural properties require separate disposal. Ask for the restricted items list before loading — violations can result in additional charges.',
+      },
+      {
+        question: 'Can I rent a dumpster for a move-out cleanout near Fort Sill?',
+        answer:
+          'Yes. Move-in and move-out cleanouts in Elgin and the surrounding Comanche County neighborhoods are a common project type. These cleanouts are often time-sensitive given inspection and move-out timelines — confirm delivery lead times with your provider before you commit to a date.',
+      },
+    ],
+    latitude: 34.7784,
+    longitude: -98.2953,
+  },
 ]
