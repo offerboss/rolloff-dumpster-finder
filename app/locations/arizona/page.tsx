@@ -125,6 +125,21 @@ const cityCards = [
     slug: 'glendale-az-dumpster-rental',
     desc: 'Glendale and West Valley roll-off dumpster rental for home cleanouts, construction debris, roofing tear-offs, and renovation projects across the Phoenix west side.',
   },
+  {
+    city: 'Flagstaff',
+    slug: 'flagstaff-az-dumpster-rental',
+    desc: 'Coconino County seat at 7,000 feet elevation in Northern Arizona. Home cleanouts, construction debris, wildfire-adjacent debris removal, and renovation projects across the Colorado Plateau.',
+  },
+  {
+    city: 'Prescott',
+    slug: 'prescott-az-dumpster-rental',
+    desc: 'Yavapai County seat with a large retiree population and historic Victorian neighborhoods. Estate cleanouts, home renovation, roofing tear-offs, and construction debris across the Prescott Quad Cities.',
+  },
+  {
+    city: 'Tucson',
+    slug: 'tucson-az-dumpster-rental',
+    desc: "Pima County seat and Arizona's second-largest city. Home cleanouts, construction debris, University of Arizona-area renovation, and roofing jobs across the Tucson Basin.",
+  },
 ]
 
 const projects = [

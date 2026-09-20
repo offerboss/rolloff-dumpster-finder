@@ -223,6 +223,34 @@ const resourceCards = [
       'Denver dumpster rental runs $280–$480/week for a 10-yard, $380–$650 for a 20-yard. Here is what drives the range — weight limits, debris type, delivery distance, urban access, and how to compare quotes before the price becomes the invoice.',
     href: '/resources/denver-dumpster-rental-cost',
   },
+  {
+    badge: 'Geo Guide',
+    title: 'Colorado Dumpster Rental Cost: Prices by Market and Size',
+    excerpt:
+      'Dumpster rental in Colorado ranges from $260/week for a 10-yard in a competitive Front Range market to over $545/week in a mountain town. Here is what drives the gap across Denver, the I-25 corridor, and the Western Slope.',
+    href: '/resources/colorado-dumpster-rental-cost',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'Oklahoma Dumpster Rental Cost: Prices by Market and Size',
+    excerpt:
+      'Most Oklahoma markets run $250–$420/week for a 10-yard container — Oklahoma City, Tulsa, and Lawton all quote the same rates. Southwest cluster cities like Duncan and Chickasha run slightly lower on larger sizes. Here is what the state rate sheet actually looks like.',
+    href: '/resources/oklahoma-dumpster-rental-cost',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'Texas Dumpster Rental Cost: Prices by Size and Metro',
+    excerpt:
+      'Most Texas metros run $250–$430/week for a 10-yard container. Dallas, Fort Worth, and Houston all quote the same rates. San Antonio runs slightly lower. Austin\'s ceiling runs slightly higher. Here is the full breakdown by metro and container size.',
+    href: '/resources/texas-dumpster-rental-cost',
+  },
+  {
+    badge: 'Geo Guide',
+    title: '20 Yard Dumpster Rental in Colorado: Cost, Size & Best Uses',
+    excerpt:
+      'A 20-yard dumpster runs $350–$590 in Pueblo, $380–$650 in Denver, and $435–$750 in mountain markets like Steamboat Springs. Here is what it costs across Colorado, what fits, and when to size up or down.',
+    href: '/resources/20-yard-dumpster-rental-colorado',
+  },
 ]
 
 export default function ResourcesPage() {

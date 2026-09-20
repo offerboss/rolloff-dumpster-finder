@@ -175,6 +175,76 @@ const cityCards = [
     slug: 'greenwood-village-co-dumpster-rental',
     desc: 'Affluent south metro city with executive estates and the Denver Tech Center. High-value residential renovation and commercial tenant improvement drive roll-off demand.',
   },
+  {
+    city: 'Aurora',
+    slug: 'aurora-co-dumpster-rental',
+    desc: 'Adams and Arapahoe County suburb east of Denver. Mid-century housing in Hoffman Heights and Meadowood, new construction near E-470, and steady hail-corridor roofing demand.',
+  },
+  {
+    city: 'Lakewood',
+    slug: 'lakewood-co-dumpster-rental',
+    desc: "Jefferson County's largest city and one of Colorado's most established inner-ring suburbs. 1950s–1970s ranch homes in Green Mountain and Belmar drive steady renovation and cleanout volume.",
+  },
+  {
+    city: 'Arvada',
+    slug: 'arvada-co-dumpster-rental',
+    desc: 'Jefferson and Adams County suburb anchored by Olde Town Arvada. 1950s–1960s ranch homes and active new construction near Indiana Street generate consistent Front Range roll-off demand.',
+  },
+  {
+    city: 'Pueblo',
+    slug: 'pueblo-co-dumpster-rental',
+    desc: "Pueblo County seat on the Arkansas River — Colorado's Steel City. Older industrial-era housing stock in the Historic Arkansas Riverwalk area drives estate cleanouts and renovation demand.",
+  },
+  {
+    city: 'Greeley',
+    slug: 'greeley-co-dumpster-rental',
+    desc: 'Weld County seat and Northern Front Range hub. University of Northern Colorado and a steady residential market drive construction debris, home cleanouts, and renovation projects year-round.',
+  },
+  {
+    city: 'Windsor',
+    slug: 'windsor-co-dumpster-rental',
+    desc: 'Fast-growing Weld and Larimer County community between Greeley and Fort Collins. Active new residential construction and a growing renovation market on the Northern Front Range.',
+  },
+  {
+    city: 'Evans',
+    slug: 'evans-co-dumpster-rental',
+    desc: 'Weld County suburb adjacent to Greeley. Residential cleanouts, roofing tear-offs, and construction debris across a Northern Front Range community with active housing turnover.',
+  },
+  {
+    city: 'Johnstown',
+    slug: 'johnstown-co-dumpster-rental',
+    desc: 'Weld and Larimer County exurb growing fast along I-25 between Loveland and Greeley. New residential construction and renovation projects in one of Northern Colorado\'s fastest-expanding markets.',
+  },
+  {
+    city: 'Fort Morgan',
+    slug: 'fort-morgan-co-dumpster-rental',
+    desc: 'Morgan County seat on the Eastern Plains, about 90 miles northeast of Denver. Agricultural and energy industry activity, estate cleanouts, and rural renovation projects along the South Platte corridor.',
+  },
+  {
+    city: 'Gunnison',
+    slug: 'gunnison-co-dumpster-rental',
+    desc: 'Gunnison County seat and gateway to Crested Butte. Western Colorado University and a tight mountain housing market drive home cleanouts, construction debris, and seasonal renovation projects.',
+  },
+  {
+    city: 'Crested Butte',
+    slug: 'crested-butte-co-dumpster-rental',
+    desc: 'Historic Victorian ski town at 8,900 feet in Gunnison County. Seasonal construction, home renovation, and estate cleanouts in a high-altitude market with limited provider availability.',
+  },
+  {
+    city: 'Mt. Crested Butte',
+    slug: 'mt-crested-butte-co-dumpster-rental',
+    desc: 'Resort village adjacent to the Crested Butte ski area. Seasonal construction, base-area renovation, and slopeside property cleanouts at high altitude in Gunnison County.',
+  },
+  {
+    city: 'Lake City',
+    slug: 'lake-city-co-dumpster-rental',
+    desc: 'Hinsdale County seat at 8,671 feet — one of the most remote markets in Colorado. Home cleanouts, seasonal cabin turnover, and small-scale renovation projects in the San Juan Mountains.',
+  },
+  {
+    city: 'Almont',
+    slug: 'almont-co-dumpster-rental',
+    desc: 'Gunnison County community at the Taylor and Gunnison River confluence. Small-market roll-off rental for seasonal cabin cleanouts and rural renovation projects near Taylor Park reservoir.',
+  },
 ]
 
 const projects = [
@@ -486,6 +556,20 @@ export default function ColoradoLocationsPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Colorado 20-yard guide callout */}
+      <section className="bg-[#F5F4F0] py-10 px-8">
+        <div className="max-w-[860px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4 rounded-sm border border-[#E8E4DE] bg-white p-6">
+          <div className="flex-1">
+            <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Size Guide</p>
+            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">20 Yard Dumpster Rental in Colorado: Cost, Size &amp; Best Uses</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">Pueblo starts at $350/week. Denver runs $380. Mountain markets like Steamboat Springs reach $435. Here is the full Colorado breakdown by market for the most commonly rented container.</p>
+          </div>
+          <Link href="/resources/20-yard-dumpster-rental-colorado" className="shrink-0 inline-block bg-orange text-black font-bold text-[13px] px-5 py-[10px] rounded-full hover:opacity-90 transition-opacity whitespace-nowrap">
+            See Size Guide →
+          </Link>
         </div>
       </section>
 

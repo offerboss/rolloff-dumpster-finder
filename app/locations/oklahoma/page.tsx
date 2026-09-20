@@ -125,6 +125,31 @@ const cityCards = [
     slug: 'lawton-ok-dumpster-rental',
     desc: 'Southwest Oklahoma adjacent to Fort Sill. Home cleanouts, military housing turnover, construction debris, and storm cleanup in Comanche County.',
   },
+  {
+    city: 'Duncan',
+    slug: 'duncan-ok-dumpster-rental',
+    desc: 'Stephens County seat and birthplace of Halliburton. Home cleanouts, oil-country construction debris, roofing tear-offs, and renovation projects in Southwest Oklahoma.',
+  },
+  {
+    city: 'Chickasha',
+    slug: 'chickasha-ok-dumpster-rental',
+    desc: 'Grady County seat on the I-44 corridor, home of the University of Science and Arts of Oklahoma. Home cleanouts, construction debris, and renovation projects in central-southwest Oklahoma.',
+  },
+  {
+    city: 'Altus',
+    slug: 'altus-ok-dumpster-rental',
+    desc: 'Jackson County seat in the western Oklahoma plains. Home cleanouts, construction debris, roofing tear-offs, and renovation projects in a remote Southwest Oklahoma market.',
+  },
+  {
+    city: 'Anadarko',
+    slug: 'anadarko-ok-dumpster-rental',
+    desc: 'Caddo County seat and home of the BIA regional office. Home cleanouts, construction debris, and renovation projects in west-central Oklahoma.',
+  },
+  {
+    city: 'Elgin',
+    slug: 'elgin-ok-dumpster-rental',
+    desc: 'Comanche County bedroom community south of Lawton. Residential cleanouts, new construction debris, and renovation projects in a growing Southwest Oklahoma suburb.',
+  },
 ]
 
 const projects = [
@@ -436,6 +461,23 @@ export default function OklahomaLocationsPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Oklahoma cost guide callout */}
+      <section className="bg-[#F5F4F0] py-10 px-8">
+        <div className="max-w-[860px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4 rounded-sm border border-[#E8E4DE] bg-white p-6">
+          <div className="flex-1">
+            <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Pricing Guide</p>
+            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Oklahoma Dumpster Rental Cost: Prices by Market and Size</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">Oklahoma City, Tulsa, and most markets run $250–$420/week for a 10-yard. Here is how pricing breaks down across all ten Oklahoma markets by container size.</p>
+          </div>
+          <Link
+            href="/resources/oklahoma-dumpster-rental-cost"
+            className="shrink-0 inline-block bg-orange text-black font-bold text-[13px] px-5 py-[10px] rounded-full hover:opacity-90 transition-opacity whitespace-nowrap"
+          >
+            See Cost Guide →
+          </Link>
         </div>
       </section>
 

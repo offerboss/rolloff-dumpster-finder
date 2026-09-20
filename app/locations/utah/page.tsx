@@ -125,6 +125,11 @@ const cityCards = [
     slug: 'lehi-ut-dumpster-rental',
     desc: 'Lehi and Silicon Slopes roll-off dumpster rental for new construction cleanup, residential cleanouts, and renovation debris across one of the fastest-growing areas in Utah County.',
   },
+  {
+    city: 'St. George',
+    slug: 'st-george-ut-dumpster-rental',
+    desc: "Washington County seat in Utah's Dixie. Fast-growing retirement and resort market with active new construction, home cleanouts, and renovation projects across southwestern Utah.",
+  },
 ]
 
 const projects = [

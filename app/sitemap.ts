@@ -802,5 +802,29 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: 'https://rolloffdumpsterfinder.com/resources/colorado-dumpster-rental-cost',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/resources/oklahoma-dumpster-rental-cost',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/resources/texas-dumpster-rental-cost',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/resources/20-yard-dumpster-rental-colorado',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
   ]
 }

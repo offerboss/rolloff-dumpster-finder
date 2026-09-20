@@ -6636,7 +6636,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>A quote that answers all five questions clearly is easier to compare than one that answers only size and price. The cheapest quote that withholds weight limit details is often the most expensive final invoice. For a broader guide to finding lower dumpster rental prices across all markets, see the <a href="/resources/cheap-dumpster-rental" class="text-orange hover:underline">cheap dumpster rental guide</a>. For the national cost context, see <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">what a dumpster rental actually costs</a>.</p>
 
-<p>For Denver city and metro dumpster rental options — including pricing by container size across Aurora, Lakewood, Englewood, and surrounding suburbs — see the <a href="/locations/denver-co-dumpster-rental" class="text-orange hover:underline">Denver dumpster rental page</a> and the <a href="/locations/colorado/denver-metro" class="text-orange hover:underline">Denver metro locations guide</a>. For Colorado dumpster rental more broadly, see the <a href="/locations/colorado" class="text-orange hover:underline">Colorado locations page</a>.</p>
+<p>For Denver city and metro dumpster rental options — including pricing by container size across Aurora, Lakewood, Englewood, and surrounding suburbs — see the <a href="/locations/denver-co-dumpster-rental" class="text-orange hover:underline">Denver dumpster rental page</a> and the <a href="/locations/colorado/denver-metro" class="text-orange hover:underline">Denver metro locations guide</a>. For how Denver pricing compares to mountain and Western Slope markets across the state, see the <a href="/resources/colorado-dumpster-rental-cost" class="text-orange hover:underline">Colorado dumpster rental cost guide</a> and the <a href="/resources/20-yard-dumpster-rental-colorado" class="text-orange hover:underline">Colorado 20-yard dumpster rental guide</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 
@@ -6718,5 +6718,1361 @@ export const blogPosts: BlogPost[] = [
       { id: 'how-to-compare', title: 'How to Compare Denver Dumpster Rental Quotes' },
       { id: 'faq', title: 'Straight Answers' },
     ],
+  },
+  {
+    slug: 'colorado-dumpster-rental-cost',
+    title: 'Colorado Dumpster Rental Cost: Prices by Market and Size',
+    excerpt:
+      'Dumpster rental in Colorado ranges from $260/week for a 10-yard in a competitive Front Range market to over $545/week in a mountain town. Here is what drives the gap and what to expect across Denver, the I-25 corridor, and the Western Slope.',
+    category: 'Geo Guide',
+    coverImage:
+      'https://images.pexels.com/photos/30161234/pexels-photo-30161234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt:
+      'Snow-covered residential neighborhood in Colorado in winter, showing the housing variety found across the state',
+    date: '2026-09-20',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Colorado dumpster rental costs $260–$545/week for a 10-yard container depending on your market. Here is how Front Range, mountain, and Western Slope pricing compare — and what drives the gap.',
+    readingTime: 11,
+    keywords: [
+      'Colorado dumpster rental cost',
+      'dumpster rental cost Colorado',
+      'Colorado dumpster rental prices',
+      'roll off dumpster prices Colorado',
+      'how much does a dumpster cost in Colorado',
+      'Colorado roll off dumpster cost',
+      'dumpster prices Colorado',
+    ],
+    body: `
+<p>A 10-yard dumpster in Colorado Springs runs $260–$460 per week. The same container in Gunnison runs $310–$530. That is a 20-percent gap for the same piece of equipment in the same state. Colorado has three distinct dumpster rental pricing tiers, and the Continental Divide earns its name — cross it heading west and the math changes by $30–$70 on a standard container size. I have seen people budget Front Range rates for a mountain project and land $150 short before anything was delivered.</p>
+
+<p>(If you are already on-site reading this: I am sorry. This guide still has the other numbers you need.)</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">Colorado dumpster rental prices run roughly $260–$545/week for a 10-yard container depending on the market. Front Range cities — Denver, Colorado Springs, Fort Collins — fall in the middle. Pueblo and secondary plains markets run lower. Mountain markets like Steamboat Springs and Gunnison run higher due to fewer providers and longer haul distances. Confirm the weight limit and what is included in the base rate before booking.</p>
+</div>
+
+<nav class="not-prose my-8 rounded-lg bg-[#F5F4F0] border border-[#E8E4DE] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#9CA3AF] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#colorado-pricing-overview" class="text-orange font-medium hover:underline text-sm">How Much Does a Dumpster Rental Cost in Colorado?</a></li>
+    <li><a href="#pricing-by-size" class="text-orange font-medium hover:underline text-sm">Colorado Pricing by Container Size</a></li>
+    <li><a href="#why-prices-vary" class="text-orange font-medium hover:underline text-sm">Why Colorado Prices Vary by Market</a></li>
+    <li><a href="#front-range" class="text-orange font-medium hover:underline text-sm">Denver and Front Range Costs</a></li>
+    <li><a href="#mountain-rural" class="text-orange font-medium hover:underline text-sm">Mountain and Rural Colorado Pricing</a></li>
+    <li><a href="#what-affects-price" class="text-orange font-medium hover:underline text-sm">What Affects Your Final Quote</a></li>
+    <li><a href="#by-city" class="text-orange font-medium hover:underline text-sm">Colorado Dumpster Rental by City</a></li>
+    <li><a href="#faq" class="text-orange font-medium hover:underline text-sm">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="colorado-pricing-overview">How Much Does a Dumpster Rental Cost in Colorado?</h2>
+
+<p>Colorado dumpster rental pricing varies more by market than by container size within a given market. A 20-yard in Denver runs $380–$650. A 20-yard in Steamboat Springs runs $435–$750. The container is the same. The distance from the provider's yard to a licensed disposal facility is not.</p>
+
+<p>The table below shows 10-yard, 20-yard, and 30-yard pricing across Colorado markets using RDF city-guide data. These are the typical ranges customers see when requesting quotes — your actual number will depend on debris type, weight, rental period, and delivery specifics.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Market</th>
+        <th class="px-4 py-3 text-left font-semibold">10-Yard / week</th>
+        <th class="px-4 py-3 text-left font-semibold">20-Yard / week</th>
+        <th class="px-4 py-3 text-left font-semibold">30-Yard / week</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Denver</td>
+        <td class="px-4 py-3 font-medium text-orange">$280–$480</td>
+        <td class="px-4 py-3">$380–$650</td>
+        <td class="px-4 py-3">$450–$780</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Colorado Springs</td>
+        <td class="px-4 py-3 font-medium text-orange">$260–$460</td>
+        <td class="px-4 py-3">$360–$620</td>
+        <td class="px-4 py-3">$430–$740</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Fort Collins</td>
+        <td class="px-4 py-3 font-medium text-orange">$280–$490</td>
+        <td class="px-4 py-3">$380–$660</td>
+        <td class="px-4 py-3">$450–$790</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Boulder</td>
+        <td class="px-4 py-3 font-medium text-orange">$290–$510</td>
+        <td class="px-4 py-3">$400–$690</td>
+        <td class="px-4 py-3">$470–$820</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Pueblo</td>
+        <td class="px-4 py-3 font-medium text-orange">$260–$450</td>
+        <td class="px-4 py-3">$350–$590</td>
+        <td class="px-4 py-3">$420–$720</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Greeley</td>
+        <td class="px-4 py-3 font-medium text-orange">$290–$500</td>
+        <td class="px-4 py-3">$390–$670</td>
+        <td class="px-4 py-3">$460–$800</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Grand Junction</td>
+        <td class="px-4 py-3 font-medium text-orange">$300–$520</td>
+        <td class="px-4 py-3">$415–$700</td>
+        <td class="px-4 py-3">$490–$840</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Steamboat Springs</td>
+        <td class="px-4 py-3 font-medium text-orange">$315–$545</td>
+        <td class="px-4 py-3">$435–$750</td>
+        <td class="px-4 py-3">$520–$900</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Gunnison</td>
+        <td class="px-4 py-3 font-medium text-orange">$310–$530</td>
+        <td class="px-4 py-3">$420–$720</td>
+        <td class="px-4 py-3">$495–$860</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>These are typical listed ranges from RDF city guides. Your actual quote will depend on the specific provider, debris type, weight, and rental period. Ask for an itemized breakdown — some providers list fuel surcharges and disposal fees separately from the base rate.</p>
+
+<h2 id="pricing-by-size">Colorado Pricing by Container Size</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/36035072/pexels-photo-36035072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Modern home renovation project with ladders and construction materials inside a residential property"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Container size is the biggest single driver of the quoted price. Here is what each size runs across Colorado markets — with a note on where mountain pricing diverges from the Front Range.</p>
+
+<p><strong>10-yard:</strong> Front Range range is $260–$510 per week. Mountain and remote markets run $310–$545. Best for single-room remodels, garage cleanouts, and small roofing jobs. Dense material — tile, concrete, brick — hits weight limits before the bin looks half full. The <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster guide</a> covers weight limits and dimensions.</p>
+
+<p><strong>15-yard:</strong> Sits between the 10 and the 20. Not every Colorado provider carries this size, particularly outside the Front Range. Good for bathroom remodels, medium cleanouts, and flooring removal. Confirm availability when booking.</p>
+
+<p><strong>20-yard:</strong> The most commonly rented container in Colorado. Front Range range: $350–$690 per week. Mountain markets: $420–$750. Handles full roof tear-offs, whole-home cleanouts, and kitchen renovations. The size where weight limits become meaningful if the load includes shingles or tile. The <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster guide</a> covers dimensions and weight allowances. For Colorado-specific pricing across all markets, see the <a href="/resources/20-yard-dumpster-rental-colorado" class="text-orange hover:underline">Colorado 20-yard dumpster rental guide</a>.</p>
+
+<p><strong>30-yard:</strong> Front Range: $420–$820. Mountain markets: $495–$900. Covers large estate cleanouts, gut renovations, and extended construction jobs. In mountain markets, availability can be limited — fewer haulers operate at volume in remote areas. Book a week ahead whenever possible.</p>
+
+<p><strong>40-yard:</strong> Commercial construction, large demolitions, and industrial cleanouts. Front Range: $560–$1,150+. Mountain markets: $640–$1,280+. Not all Colorado providers carry this size outside metro areas.</p>
+
+<p>If you are unsure which size fits your project, the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a> walks through the decision by project type before you book.</p>
+
+<h2 id="why-prices-vary">Why Colorado Prices Vary by Market</h2>
+
+<p>The same container costs more in Gunnison than in Colorado Springs. The equipment is identical. What changes is everything that happens between the provider's yard and your driveway.</p>
+
+<p><strong>Provider competition.</strong> Denver, Colorado Springs, and the northern Front Range have multiple roll-off companies competing for the same residential jobs. Competition keeps base rates tighter. Mountain towns and the Eastern Plains have fewer providers — sometimes one or two covering an entire county. That changes the rate.</p>
+
+<p><strong>Haul distance to disposal facilities.</strong> Colorado has fewer licensed disposal facilities in its mountain and rural counties than along the Front Range. The <a href="https://cdphe.colorado.gov/section-6-solid-waste-sites-and-facilities" target="_blank" rel="noopener noreferrer">Colorado Department of Public Health and Environment</a> maintains the statewide facility registry — and in mountain counties, the nearest option can be 30–60 miles from the job site. That distance is built into your quote whether it is itemized or not.</p>
+
+<p><strong>Mountain access and road conditions.</strong> Delivery trucks are large. Not every mountain road handles them at every time of year. Some rural routes restrict heavy vehicles during spring thaw. Narrow streets in older resort towns add time to every delivery. Time is cost.</p>
+
+<p><strong>Seasonal demand.</strong> Hail season runs roughly May through August on the Front Range, and post-storm demand can tighten container availability within 48 hours. Mountain markets have their own seasonal pattern: ski-season construction, summer renovation work, fall cleanouts. Timing affects availability more than price in most cases, but both can move.</p>
+
+<p><strong>Debris weight allowances.</strong> Weight limits vary by provider and are not always visible in the quoted rate. A Colorado roofing job can generate shingles that weigh more than they look. Overweight charges apply after pickup. Ask for the specific tonnage allowance before loading anything dense.</p>
+
+<h2 id="front-range">Denver and Front Range Costs</h2>
+
+<p>Denver is Colorado's largest dumpster rental market and has the most providers. That competition generally keeps rates at the lower to middle end of the state range. A 10-yard runs $280–$480 per week. A 20-yard runs $380–$650.</p>
+
+<p>Colorado Springs and Pueblo tend to run slightly below Denver for equivalent jobs. Fort Collins tracks close to Denver. Boulder runs slightly above — demand is high and foothills delivery can add complexity.</p>
+
+<p>The Front Range also sees the most pronounced hail-season availability pressure. After a significant storm system, providers book up across the metro within 24–48 hours. Rates don't always spike, but the container you need often gets harder to schedule. Getting the size right on the first booking matters more during storm season than any other time of year.</p>
+
+<p>For a detailed breakdown specific to Denver — urban versus suburban access, what street permits cost, and how to compare quotes across Front Range haulers — the <a href="/resources/denver-dumpster-rental-cost" class="text-orange hover:underline">Denver dumpster rental cost guide</a> covers the local variables in full.</p>
+
+<h2 id="mountain-rural">Mountain and Rural Colorado Pricing</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/28586799/pexels-photo-28586799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Modern multi-story residential buildings against a snow-covered mountain range in Colorado"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Mountain and remote markets operate differently. Expect to pay more. Expect fewer providers. And expect delivery windows that account for a longer drive than anything on the Front Range.</p>
+
+<p>Steamboat Springs is one of the clearer examples. Routt County has limited provider options and the nearest transfer station adds real distance to the haul. Rates run 10–15 percent above Denver levels — roughly $315–$545 for a 10-yard and $435–$750 for a 20-yard.</p>
+
+<p>Gunnison operates similarly. The valley sits at 7,700 feet with a small pool of providers covering the entire area, including Crested Butte and surrounding communities. A 10-yard runs $310–$530. A 20-yard runs $420–$720. Winter delivery can be complicated by road conditions and load restrictions. Booking a week or more ahead is less optional than it is on the Front Range.</p>
+
+<p>Grand Junction sits on the Western Slope with more providers than Steamboat or Gunnison, but still runs above Front Range rates due to haul distances. A 10-yard runs $300–$520. A 20-yard runs $415–$700.</p>
+
+<p>One case where you probably don't need a dumpster at all: a rural property with a small amount of debris and an active county landfill nearby. Some Eastern Plains and mountain counties have reasonable tipping fees, and a single truck haul from a small job may cost less than a weekly container rental with the associated delivery logistics. That math depends on your location — worth a call to the county landfill before booking a container for a job under four pickup truck loads.</p>
+
+<h2 id="what-affects-price">What Affects Your Final Quote</h2>
+
+<p>The quoted rate and the final invoice are not always the same number. Five variables determine where yours lands.</p>
+
+<p><strong>Container size.</strong> Booking the right size is the most effective way to control total cost. A second haul — booking a second container after the first fills — costs more than sizing up initially. Use the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a> before calling if you are unsure.</p>
+
+<p><strong>Debris type and weight.</strong> Standard roll-offs include a weight allowance. Light debris — furniture, carpet, drywall — rarely triggers an overage charge. Dense debris — concrete, tile, soil, shingles — can hit weight limits before the bin looks visually full. Overage fees at many Colorado providers run $60–$100 per ton. The <a href="https://www.epa.gov/smm/construction-and-demolition-debris" target="_blank" rel="noopener noreferrer">EPA's construction and demolition debris guidance</a> outlines what is and is not recyclable in a standard mixed load — which sometimes affects how a provider classifies and prices your material.</p>
+
+<p><strong>Rental length.</strong> Standard periods run 7–10 days in most Colorado markets. Extension fees typically run $5–$15 per day. If the project will run long, ask about extended pricing at booking rather than mid-project.</p>
+
+<p><strong>What is included in the base rate.</strong> Some providers include fuel surcharges and disposal fees in the quoted rate. Others list them separately. The base rate is not the final cost if fees are itemized. Ask for the all-in number before comparing quotes.</p>
+
+<p><strong>Permits.</strong> Street placement in Colorado typically requires a right-of-way permit from your city or county. Driveway placement on private property generally does not — but requirements vary by municipality. Your provider usually handles the permit, but confirm before booking. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster permit guide</a> covers requirements across Colorado municipalities.</p>
+
+<h2 id="by-city">Colorado Dumpster Rental by City</h2>
+
+<p>The <a href="/locations/colorado" class="text-orange hover:underline">Colorado dumpster rental hub</a> has city guides for all active Colorado markets, including local pricing data and delivery area notes. Key cities:</p>
+
+<div class="not-prose my-6 grid grid-cols-2 md:grid-cols-3 gap-3">
+  <a href="/locations/denver-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Denver</a>
+  <a href="/locations/colorado-springs-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Colorado Springs</a>
+  <a href="/locations/fort-collins-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Fort Collins</a>
+  <a href="/locations/boulder-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Boulder</a>
+  <a href="/locations/grand-junction-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Grand Junction</a>
+  <a href="/locations/greeley-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Greeley</a>
+  <a href="/locations/pueblo-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Pueblo</a>
+  <a href="/locations/steamboat-springs-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Steamboat Springs</a>
+  <a href="/locations/gunnison-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Gunnison</a>
+</div>
+
+<h2 id="faq">Straight Answers</h2>
+
+<h3>How much does dumpster rental cost in Colorado?</h3>
+<p>Prices range from roughly $260/week for a 10-yard container in Colorado Springs or Pueblo to $545/week or more for the same size in a mountain market like Steamboat Springs. Denver and most Front Range cities fall between $280 and $480 for a 10-yard. The 20-yard — the most commonly rented residential size — runs $350–$750 per week depending on the market.</p>
+
+<h3>Is dumpster rental more expensive in Colorado mountain towns?</h3>
+<p>Yes. Mountain and remote markets typically run 10–25 percent above Front Range rates for the same container size. Fewer providers, longer drives to disposal facilities, and limited seasonal access all contribute. Steamboat Springs, Gunnison, and Crested Butte run consistently higher than Denver or Colorado Springs for an equivalent job.</p>
+
+<h3>How much does a 20-yard dumpster cost in Colorado?</h3>
+<p>A 20-yard container in Colorado typically runs $350–$750 per week depending on the market. Colorado Springs and Pueblo are at the lower end. Grand Junction, Boulder, and mountain markets run toward the higher end. Denver falls in the middle at $380–$650. This is the most common size for residential roofing and whole-home cleanouts.</p>
+
+<h3>Does the quoted price include disposal fees?</h3>
+<p>Not always. Some Colorado providers quote an all-in rate that includes fuel surcharge and disposal. Others list base rate only and add those items to the invoice. Ask for the total before pickup — that is the number that matters. A $40 gap between two base rates can disappear once fees are included.</p>
+
+<h3>Can heavy debris like concrete cost more to dispose of?</h3>
+<p>The mechanism is the weight allowance, not a separate line item at most providers. Standard containers include a tonnage allowance in the quoted rate. Concrete, soil, tile, and shingles hit that allowance before the container looks half-full. The overage fee applies after pickup when the truck crosses the scale. Ask for the specific tonnage allowance before loading dense material.</p>
+
+<h3>How long is a typical rental period in Colorado?</h3>
+<p>Standard rental periods run 7–10 days in most Colorado markets. Extension fees run $5–$15 per day depending on the provider. Mountain markets sometimes have shorter standard periods due to higher per-trip delivery costs. Confirm the included period and extension rate at booking, especially for renovation projects that tend to run long.</p>
+
+<h3>Do I need a permit to place a dumpster in Colorado?</h3>
+<p>Street placement typically requires a right-of-way permit from your city or county. Driveway placement on private property usually does not. Requirements vary — Denver, Boulder, and Colorado Springs each have their own process. Your provider can often pull the permit for a small fee. Confirm placement requirements before scheduling delivery.</p>
+
+<h3>How does Denver pricing compare to the rest of Colorado?</h3>
+<p>Denver is Colorado's most competitive roll-off market. More providers in the same metro keeps pricing at the lower end of the state range. Most Front Range suburbs — Aurora, Lakewood, Fort Collins — price close to Denver. Boulder runs slightly above. Mountain markets and the Western Slope run notably above Front Range rates for equivalent container sizes.</p>
+
+<p>Colorado's lowest elevation is 3,317 feet above sea level. The pricing in mountain markets reflects what it costs to haul debris from somewhere meaningfully higher than that back to a licensed facility. Not a conspiracy. Just elevation and distance working together, as they have been in Colorado since well before anyone needed a roll-off container.</p>
+`,
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Colorado?',
+        answer:
+          'Prices range from roughly $260/week for a 10-yard container in Colorado Springs or Pueblo to $545/week or more for the same size in a mountain market like Steamboat Springs. Denver and most Front Range cities fall between $280 and $480 for a 10-yard. The 20-yard runs $350–$750 per week depending on the market.',
+      },
+      {
+        question: 'Is dumpster rental more expensive in Colorado mountain towns?',
+        answer:
+          'Yes. Mountain and remote markets typically run 10–25 percent above Front Range rates for the same container size. Fewer providers, longer drives to disposal facilities, and limited seasonal access all contribute. Steamboat Springs, Gunnison, and Crested Butte run consistently higher than Denver or Colorado Springs for an equivalent job.',
+      },
+      {
+        question: 'How much does a 20-yard dumpster cost in Colorado?',
+        answer:
+          'A 20-yard container in Colorado typically runs $350–$750 per week depending on the market. Colorado Springs and Pueblo are at the lower end. Grand Junction, Boulder, and mountain markets run toward the higher end. Denver falls in the middle at $380–$650. This is the most common size for residential roofing and whole-home cleanouts.',
+      },
+      {
+        question: 'Does the quoted price include disposal fees?',
+        answer:
+          'Not always. Some Colorado providers quote an all-in rate that includes fuel surcharge and disposal. Others list base rate only and add those items to the invoice. Ask for the total before pickup — that is the number that matters. A $40 gap between two base rates can disappear once fees are included.',
+      },
+      {
+        question: 'Can heavy debris like concrete cost more to dispose of?',
+        answer:
+          'The mechanism is the weight allowance, not a separate line item at most providers. Standard containers include a tonnage allowance in the quoted rate. Concrete, soil, tile, and shingles hit that allowance before the container looks half-full. The overage fee applies after pickup when the truck crosses the scale. Ask for the specific tonnage allowance before loading dense material.',
+      },
+      {
+        question: 'How long is a typical rental period in Colorado?',
+        answer:
+          'Standard rental periods run 7–10 days in most Colorado markets. Extension fees run $5–$15 per day depending on the provider. Mountain markets sometimes have shorter standard periods due to higher per-trip delivery costs. Confirm the included period and extension rate at booking, especially for renovation projects that tend to run long.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Colorado?',
+        answer:
+          'Street placement typically requires a right-of-way permit from your city or county. Driveway placement on private property usually does not. Requirements vary — Denver, Boulder, and Colorado Springs each have their own process. Your provider can often pull the permit for a small fee. Confirm placement requirements before scheduling delivery.',
+      },
+      {
+        question: 'How does Denver pricing compare to the rest of Colorado?',
+        answer:
+          "Denver is Colorado's most competitive roll-off market. More providers in the same metro keeps pricing at the lower end of the state range. Most Front Range suburbs — Aurora, Lakewood, Fort Collins — price close to Denver. Boulder runs slightly above. Mountain markets and the Western Slope run notably above Front Range rates for equivalent container sizes.",
+      },
+    ],
+    toc: [
+      { id: 'colorado-pricing-overview', title: 'How Much Does a Dumpster Rental Cost in Colorado?' },
+      { id: 'pricing-by-size', title: 'Colorado Pricing by Container Size' },
+      { id: 'why-prices-vary', title: 'Why Colorado Prices Vary by Market' },
+      { id: 'front-range', title: 'Denver and Front Range Costs' },
+      { id: 'mountain-rural', title: 'Mountain and Rural Colorado Pricing' },
+      { id: 'what-affects-price', title: 'What Affects Your Final Quote' },
+      { id: 'by-city', title: 'Colorado Dumpster Rental by City' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+  },
+  {
+    slug: 'oklahoma-dumpster-rental-cost',
+    title: 'Oklahoma Dumpster Rental Cost: Prices by Market and Size',
+    excerpt:
+      'Oklahoma dumpster rental runs $250–$420/week for a 10-yard in most markets — Oklahoma City, Tulsa, and Lawton all quote the same rates. Here is what the full state rate sheet looks like by market and container size.',
+    category: 'Geo Guide',
+    coverImage:
+      'https://images.pexels.com/photos/38211756/pexels-photo-38211756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt:
+      'Aerial view of a suburban neighborhood in Oklahoma with residential homes and well-maintained lawns',
+    date: '2026-09-20',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Oklahoma dumpster rental costs $250–$420/week for a 10-yard container in most markets. Oklahoma City, Tulsa, and Lawton all run the same rates. Here is where smaller markets differ — and why.',
+    readingTime: 11,
+    keywords: [
+      'Oklahoma dumpster rental cost',
+      'dumpster rental cost Oklahoma',
+      'Oklahoma dumpster rental prices',
+      'how much does a dumpster cost in Oklahoma',
+      'dumpster prices Oklahoma',
+      'roll off dumpster prices Oklahoma',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Oklahoma?',
+        answer:
+          'Most Oklahoma markets run $250–$420 per week for a 10-yard container and $360–$620 per week for a 20-yard. Oklahoma City, Tulsa, Norman, Edmond, Broken Arrow, and Lawton are all in the same range. Southwest cluster cities like Duncan and Chickasha run slightly lower on 20- and 30-yard sizes. Altus, in western Oklahoma, runs modestly above average across all sizes.',
+      },
+      {
+        question: 'How much does a 20-yard dumpster cost in Oklahoma?',
+        answer:
+          'In Oklahoma City and Tulsa metro markets, a 20-yard typically runs $360–$620 per week. Southwest Oklahoma cluster cities — Duncan, Chickasha, Anadarko, Elgin — run $320–$550. Altus runs $340–$570. This is the most commonly rented size for residential roofing, whole-home cleanouts, and kitchen gut renovations across the state.',
+      },
+      {
+        question: 'Are dumpster rentals cheaper in smaller Oklahoma cities?',
+        answer:
+          'Modestly, on larger container sizes. Southwest Oklahoma cluster cities run $40–$70 less per week on 20- and 30-yard containers compared to Oklahoma City or Tulsa rates. 10-yard pricing is essentially the same statewide. Altus, as a more remote market, runs slightly above the metro norm on all sizes.',
+      },
+      {
+        question: 'Can storm cleanup affect dumpster availability in Oklahoma?',
+        answer:
+          'Yes. After significant tornado or hail events, container availability in affected areas can tighten within 24–48 hours. Pricing may hold, but inventory gets booked fast. If you need a container for storm cleanup, book as soon as you know you need one.',
+      },
+      {
+        question: 'Does dumpster rental pricing include disposal?',
+        answer:
+          'Not always. Some Oklahoma providers quote an all-in rate that includes fuel surcharge and disposal fees. Others list base rate only and add those separately on the invoice. Ask for the total cost before pickup. A $30 difference between two base quotes can disappear once fees are included.',
+      },
+      {
+        question: 'Can heavy debris like roofing shingles cost more?',
+        answer:
+          'The mechanism is the weight allowance, not always a separate surcharge. Standard containers include a tonnage allowance in the quoted rate. A full shingle tear-off from a typical Oklahoma home can be heavier than the standard allowance. The overage fee applies after pickup when the truck crosses the scale. Ask for the specific tonnage allowance before loading any roofing debris.',
+      },
+      {
+        question: 'How long is a typical dumpster rental in Oklahoma?',
+        answer:
+          'Standard rental periods run 7–10 days in most Oklahoma markets. Extension fees typically run $5–$15 per day. During active construction or renovation seasons, providers can book up quickly. Confirm the extension rate at booking if the project will run longer than 10 days.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Oklahoma?',
+        answer:
+          'Street placement in Oklahoma cities requires a right-of-way permit from the city. Driveway placement on private property generally does not. Requirements vary by municipality — Oklahoma City, Tulsa, and Norman each have their own process. Your provider can often pull the permit for a fee. Confirm placement before scheduling delivery.',
+      },
+      {
+        question: 'Does pricing differ between Oklahoma City and Lawton?',
+        answer:
+          'No — both run $250–$420 for a 10-yard and $360–$620 for a 20-yard. Lawton has sufficient provider density to maintain rates equivalent to the OKC metro despite being 90 miles away.',
+      },
+      {
+        question: 'Are rural Oklahoma dumpster rentals more expensive?',
+        answer:
+          'In remote western markets like Altus, modestly yes — roughly $10–$20 more on the lower end across container sizes. Southwest Oklahoma cluster cities are competitive with the major metros. For very small projects in rural Oklahoma, a direct trip to a county transfer station may cost less than a weekly container rental.',
+      },
+    ],
+    toc: [
+      { id: 'oklahoma-pricing-overview', title: 'How Much Does a Dumpster Rental Cost in Oklahoma?' },
+
+      { id: 'pricing-by-size', title: 'Oklahoma Dumpster Prices by Size' },
+      { id: 'why-prices-vary', title: 'Why Oklahoma Prices Are Consistent — and Where They Differ' },
+      { id: 'okc-tulsa', title: 'Oklahoma City Metro and Tulsa Dumpster Rental Costs' },
+      { id: 'southwest-oklahoma', title: 'Southwest Oklahoma and Smaller Market Pricing' },
+      { id: 'what-affects-price', title: 'What Affects Your Final Quote in Oklahoma' },
+      { id: 'by-city', title: 'Oklahoma Dumpster Rental by City' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+    body: `<p>A 10-yard dumpster in Oklahoma City runs $250–$420 per week. The same container in Tulsa runs $250–$420. In Norman, Lawton, and Edmond — same. Oklahoma is one of the more pricing-consistent dumpster markets I have tracked. The state is flat, and so, mostly, is the rate sheet. What does shift is availability, and in a state that sees roughly 60 tornadoes per year, that distinction is worth understanding before storm season arrives.</p>
+
+<p>(If you are trying to book a container in the immediate aftermath of a major storm event and finding limited options: this guide has the other information you need for the next one.)</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">Most Oklahoma dumpster rental prices run $250–$420/week for a 10-yard container across major markets — Oklahoma City, Tulsa, Norman, Edmond, Broken Arrow, and Lawton are all in the same range. Southwest cluster cities like Duncan and Chickasha run slightly lower on 20- and 30-yard sizes. Altus, in western Oklahoma, runs slightly higher across the board. The bigger variable in Oklahoma is availability, particularly after severe weather events. Confirm what is included in the base rate before booking.</p>
+</div>
+
+<nav class="not-prose my-8 rounded-lg bg-[#F5F4F0] border border-[#E8E4DE] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#9CA3AF] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#oklahoma-pricing-overview" class="text-orange font-medium hover:underline text-sm">How Much Does a Dumpster Rental Cost in Oklahoma?</a></li>
+    <li><a href="#pricing-by-size" class="text-orange font-medium hover:underline text-sm">Oklahoma Dumpster Prices by Size</a></li>
+    <li><a href="#why-prices-vary" class="text-orange font-medium hover:underline text-sm">Why Oklahoma Prices Are Consistent — and Where They Differ</a></li>
+    <li><a href="#okc-tulsa" class="text-orange font-medium hover:underline text-sm">Oklahoma City Metro and Tulsa Dumpster Rental Costs</a></li>
+    <li><a href="#southwest-oklahoma" class="text-orange font-medium hover:underline text-sm">Southwest Oklahoma and Smaller Market Pricing</a></li>
+    <li><a href="#what-affects-price" class="text-orange font-medium hover:underline text-sm">What Affects Your Final Quote in Oklahoma</a></li>
+    <li><a href="#by-city" class="text-orange font-medium hover:underline text-sm">Oklahoma Dumpster Rental by City</a></li>
+    <li><a href="#faq" class="text-orange font-medium hover:underline text-sm">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="oklahoma-pricing-overview">How Much Does a Dumpster Rental Cost in Oklahoma?</h2>
+
+<p>Oklahoma's dumpster rental market is more consistent than most. The major metro markets — Oklahoma City, Tulsa, Norman, Broken Arrow, Edmond, Lawton — all run similar rates for the same container sizes. The table below shows typical listed ranges from RDF city guides across the state.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Market</th>
+        <th class="px-4 py-3 text-left font-semibold">10-Yard / week</th>
+        <th class="px-4 py-3 text-left font-semibold">20-Yard / week</th>
+        <th class="px-4 py-3 text-left font-semibold">30-Yard / week</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Oklahoma City</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$420</td>
+        <td class="px-4 py-3">$360–$620</td>
+        <td class="px-4 py-3">$430–$740</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Tulsa</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$420</td>
+        <td class="px-4 py-3">$360–$620</td>
+        <td class="px-4 py-3">$430–$740</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Norman</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$420</td>
+        <td class="px-4 py-3">$360–$620</td>
+        <td class="px-4 py-3">$430–$740</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Broken Arrow</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$420</td>
+        <td class="px-4 py-3">$360–$620</td>
+        <td class="px-4 py-3">$430–$740</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Edmond</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$420</td>
+        <td class="px-4 py-3">$360–$620</td>
+        <td class="px-4 py-3">$430–$740</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Lawton</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$420</td>
+        <td class="px-4 py-3">$360–$620</td>
+        <td class="px-4 py-3">$430–$740</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Duncan</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$420</td>
+        <td class="px-4 py-3">$320–$550</td>
+        <td class="px-4 py-3">$400–$700</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Chickasha</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$420</td>
+        <td class="px-4 py-3">$320–$550</td>
+        <td class="px-4 py-3">$400–$700</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Anadarko</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$420</td>
+        <td class="px-4 py-3">$320–$550</td>
+        <td class="px-4 py-3">$400–$700</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Altus</td>
+        <td class="px-4 py-3 font-medium text-orange">$260–$430</td>
+        <td class="px-4 py-3">$340–$570</td>
+        <td class="px-4 py-3">$420–$720</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>These are typical listed ranges from RDF city guides. Your actual quote depends on the specific provider, debris type, weight, rental period, and delivery details. Always ask for an itemized breakdown — some providers list fuel surcharges and disposal fees separately from the base rate.</p>
+
+<h2 id="pricing-by-size">Oklahoma Dumpster Prices by Size</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/4756489/pexels-photo-4756489.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Interior of a home under renovation with exposed wooden beams and debris"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Container size is the biggest single driver of the quoted price across all Oklahoma markets. Here is what each size runs statewide — consistent across most markets with minor variations in smaller or more remote areas.</p>
+
+<p><strong>10-yard:</strong> $250–$430 per week across Oklahoma markets. Lower end in metro markets ($250–$420), slightly higher floor in remote markets like Altus ($260–$430). Best for single-room cleanouts, small garage purges, and light demo. Dense material — concrete, tile, stone — hits weight limits before the bin looks half full. The <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster guide</a> covers weight limits and dimensions.</p>
+
+<p><strong>15-yard:</strong> $290–$500 per week in Oklahoma. Good for medium cleanouts, bathroom remodels, and roofing on smaller structures. Not every Oklahoma provider carries this size in smaller markets — confirm availability when booking.</p>
+
+<p><strong>20-yard:</strong> The most commonly booked container for Oklahoma residential jobs. Metro range: $360–$620 per week. Southwest Oklahoma cluster cities run $320–$570. The size that handles full roof tear-offs, whole-home cleanouts, and kitchen gut renovations. Weight limits become meaningful when loading shingles, tile, or concrete. See the <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster guide</a> for dimensions and weight allowances.</p>
+
+<p><strong>30-yard:</strong> $400–$740 per week across Oklahoma markets. Southwest cluster runs $400–$700; metro markets run $430–$740; Altus runs $420–$720. Covers large estate cleanouts, gut renovations, and multi-trade construction projects. In smaller Oklahoma markets, confirm availability before booking.</p>
+
+<p><strong>40-yard:</strong> $550–$1,050+ per week. Commercial construction, major demolition, industrial cleanouts. Not all Oklahoma providers carry this size in smaller markets.</p>
+
+<p>If you are unsure which size fits your project, the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a> walks through the decision by project type.</p>
+
+<h2 id="why-prices-vary">Why Oklahoma Prices Are Consistent — and Where They Differ</h2>
+
+<p>Oklahoma's dumpster market doesn't have Colorado's continental divide or California's coastal-vs-inland split. Most major markets quote similar rates because provider competition is reasonably spread across the state's urban centers, and delivery haul distances to disposal facilities don't vary dramatically between Oklahoma City and Tulsa.</p>
+
+<p>That said, two factors create modest variation.</p>
+
+<p><strong>Market size and provider density.</strong> Oklahoma City and Tulsa have the most roll-off providers, which keeps competition and rates stable. Lawton, while 90 miles from OKC, has a sufficient market to maintain rates comparable to the metros. Southwest Oklahoma cluster cities — Duncan, Chickasha, Anadarko, Elgin — are smaller markets that may share regional providers, which appears to keep 20- and 30-yard rates at the lower end of the state range. Altus, in far western Oklahoma, runs slightly higher across sizes — fewer providers, longer haul routes from the nearest disposal options.</p>
+
+<p><strong>Debris type and weight.</strong> This creates more cost variation than geography in Oklahoma. Heavy debris — roofing shingles after a hail event, concrete from a foundation repair, tile from a bathroom gut — can hit weight limits before a container looks half-full. The overage charge arrives after pickup, not before. Ask for the specific tonnage allowance included in any quoted rate before loading anything dense.</p>
+
+<p>The <a href="https://www.deq.ok.gov/land-protection-division/solid-waste/" target="_blank" rel="noopener noreferrer">Oklahoma Department of Environmental Quality</a> maintains regulations and a registry of permitted solid waste facilities statewide. Providers set their disposal costs partly based on the distance to the nearest DEQ-permitted facility — which is why remote western markets like Altus can run modestly higher than metro markets even for the same container size.</p>
+
+<h2 id="okc-tulsa">Oklahoma City Metro and Tulsa Dumpster Rental Costs</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/6796464/pexels-photo-6796464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="White and gray residential homes near trees in an Oklahoma suburban neighborhood"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Oklahoma City is the largest dumpster rental market in the state. Multiple providers operate across the metro, which keeps rates competitive and lead times short — typically 24–48 hours for in-city delivery. A 10-yard runs $250–$420. A 20-yard runs $360–$620. Norman and Edmond run the same rates, both served by OKC-metro providers.</p>
+
+<p>Broken Arrow and Tulsa also run identical ranges — $250–$420 for a 10-yard, $360–$620 for a 20-yard. Tulsa is Oklahoma's second-largest market, and the Tulsa metro's provider density keeps rates stable. Broken Arrow, as one of Tulsa's fastest-growing suburbs, benefits from the same provider access.</p>
+
+<p>Oklahoma City and Tulsa also generate the most storm cleanup demand in the state. Both metros sit in active tornado and severe weather corridors. After a significant event, container availability can tighten across both metros within 24–48 hours. The rates generally hold, but available inventory does not. Booking as early as possible after severe weather is practical advice, not a sales tactic. For roofing-specific container needs after storm damage, the <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster rental guide</a> covers sizing, weight limits, and shingle load considerations.</p>
+
+<p>City pages for these markets: <a href="/locations/oklahoma-city-ok-dumpster-rental" class="text-orange hover:underline">Oklahoma City</a>, <a href="/locations/tulsa-ok-dumpster-rental" class="text-orange hover:underline">Tulsa</a>, <a href="/locations/norman-ok-dumpster-rental" class="text-orange hover:underline">Norman</a>, <a href="/locations/broken-arrow-ok-dumpster-rental" class="text-orange hover:underline">Broken Arrow</a>, <a href="/locations/edmond-ok-dumpster-rental" class="text-orange hover:underline">Edmond</a>.</p>
+
+<h2 id="southwest-oklahoma">Southwest Oklahoma and Smaller Market Pricing</h2>
+
+<p>Southwest Oklahoma is covered by a cluster of city guides that span the area from the Comanche County anchor at Lawton to smaller county seats and communities to the north and east.</p>
+
+<p>Lawton, at roughly 90 miles southwest of Oklahoma City in Comanche County, runs equivalent rates to the metro — $250–$420 for a 10-yard, $360–$620 for a 20-yard. Comanche County has consistent demand from residential cleanouts, home renovation, and construction activity, which keeps providers operating at serviceable capacity.</p>
+
+<p>The cluster cities — Duncan in Stephens County, Chickasha in Grady County, Anadarko in Caddo County, and Elgin in Comanche County — run slightly lower on 20- and 30-yard sizes. A 20-yard in Duncan or Chickasha runs $320–$550 per week versus $360–$620 in Oklahoma City. A 30-yard runs $400–$700 versus $430–$740 in the metro. 10-yard pricing is equivalent across this cluster and the major metros.</p>
+
+<p>Altus, in Jackson County along the Texas border, runs slightly above the state norm across all sizes. A 10-yard runs $260–$430. A 20-yard runs $340–$570. This is modest variation — perhaps $20–$40 more on the lower end for a 20-yard — but worth knowing if you are budgeting for a larger project in that area.</p>
+
+<p>For very small projects in Southwest Oklahoma — a single room's worth of debris, a few appliances, light yard waste — it is worth checking whether a direct trip to the county transfer station or landfill is more cost-effective than a weekly container rental. Some rural Oklahoma counties have accessible facilities with reasonable tipping fees. The math depends on your specific situation and location.</p>
+
+<p>Southwest Oklahoma city pages: <a href="/locations/lawton-ok-dumpster-rental" class="text-orange hover:underline">Lawton</a>, <a href="/locations/duncan-ok-dumpster-rental" class="text-orange hover:underline">Duncan</a>, <a href="/locations/chickasha-ok-dumpster-rental" class="text-orange hover:underline">Chickasha</a>, <a href="/locations/altus-ok-dumpster-rental" class="text-orange hover:underline">Altus</a>, <a href="/locations/anadarko-ok-dumpster-rental" class="text-orange hover:underline">Anadarko</a>, <a href="/locations/elgin-ok-dumpster-rental" class="text-orange hover:underline">Elgin</a>.</p>
+
+<h2 id="what-affects-price">What Affects Your Final Quote in Oklahoma</h2>
+
+<p>The quoted rate and the final invoice can be different numbers. Five variables determine where yours lands.</p>
+
+<p><strong>Container size.</strong> The most common way to overpay is booking a second container because the first one fills. Sizing up front is almost always cheaper than a second haul. If the project involves dense material, size for weight rather than volume. The <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a> has project-type recommendations before you call.</p>
+
+<p><strong>Debris type and weight.</strong> Standard containers include a weight allowance. Post-storm roofing jobs in Oklahoma often surprise people: a full shingle tear-off from a 2,000-square-foot roof can be heavier than the container's standard allowance. Concrete and tile hit limits even faster. The <a href="https://www.epa.gov/smm/construction-and-demolition-debris" target="_blank" rel="noopener noreferrer">EPA's construction and demolition debris guidance</a> is a useful reference for understanding what debris classifications apply to your project. Ask for the specific tonnage allowance before loading anything dense.</p>
+
+<p><strong>Severe weather demand.</strong> Oklahoma is part of Tornado Alley. After significant storm events — hail, wind, tornadoes — container availability in affected metro areas can tighten quickly. Providers may prioritize existing bookings and run shorter lead times. If you are in the middle of a storm cleanup, book as early as possible. Most providers do not guarantee same-day availability during peak storm periods.</p>
+
+<p><strong>Rental length and extensions.</strong> Standard rental periods run 7–10 days in most Oklahoma markets. Extension fees typically run $5–$15 per day. Renovation projects often run longer than expected. Confirm the rental period and extension rate before the container arrives, not after.</p>
+
+<p><strong>Permits.</strong> Street placement in Oklahoma cities requires a right-of-way permit from the city. Private driveway placement generally does not. Requirements vary by municipality — Oklahoma City, Tulsa, and Norman each have their own process. Your provider can usually coordinate the permit. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster rental permit guide</a> covers how this works in Oklahoma and other markets.</p>
+
+<p>For a broader guide to comparing quotes and understanding which line items to ask about, the <a href="/resources/cheap-dumpster-rental" class="text-orange hover:underline">cheap dumpster rental guide</a> covers the specific questions that separate a low-cost rental from a low-invoice rental.</p>
+
+<h2 id="by-city">Oklahoma Dumpster Rental by City</h2>
+
+<p>The <a href="/locations/oklahoma" class="text-orange hover:underline">Oklahoma dumpster rental hub</a> has city guides for all active Oklahoma markets. Key cities:</p>
+
+<div class="not-prose my-6 grid grid-cols-2 md:grid-cols-3 gap-3">
+  <a href="/locations/oklahoma-city-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Oklahoma City</a>
+  <a href="/locations/tulsa-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Tulsa</a>
+  <a href="/locations/norman-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Norman</a>
+  <a href="/locations/broken-arrow-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Broken Arrow</a>
+  <a href="/locations/edmond-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Edmond</a>
+  <a href="/locations/lawton-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Lawton</a>
+  <a href="/locations/duncan-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Duncan</a>
+  <a href="/locations/chickasha-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Chickasha</a>
+  <a href="/locations/altus-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Altus</a>
+  <a href="/locations/anadarko-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Anadarko</a>
+  <a href="/locations/elgin-ok-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Elgin</a>
+</div>
+
+<h2 id="faq">Straight Answers</h2>
+
+<h3>How much does dumpster rental cost in Oklahoma?</h3>
+<p>Most Oklahoma markets run $250–$420 per week for a 10-yard container and $360–$620 per week for a 20-yard. Oklahoma City, Tulsa, Norman, Edmond, Broken Arrow, and Lawton are all in the same range. Southwest cluster cities like Duncan and Chickasha run slightly lower on 20- and 30-yard sizes. Altus, in western Oklahoma, runs modestly above average across all sizes.</p>
+
+<h3>How much does a 20-yard dumpster cost in Oklahoma?</h3>
+<p>In Oklahoma City and Tulsa metro markets, a 20-yard typically runs $360–$620 per week. Southwest Oklahoma cluster cities — Duncan, Chickasha, Anadarko, Elgin — run $320–$550. Altus runs $340–$570. This is the most commonly rented size for residential roofing, whole-home cleanouts, and kitchen gut renovations across the state.</p>
+
+<h3>Are dumpster rentals cheaper in smaller Oklahoma cities?</h3>
+<p>Modestly, on larger container sizes. Southwest Oklahoma cluster cities run $40–$70 less per week on 20- and 30-yard containers compared to Oklahoma City or Tulsa rates. 10-yard pricing is essentially the same statewide. Altus, as a more remote market, runs slightly above the metro norm on all sizes.</p>
+
+<h3>Can storm cleanup affect dumpster availability in Oklahoma?</h3>
+<p>Yes. After significant tornado or hail events, container availability in affected areas can tighten within 24–48 hours. Pricing may hold, but inventory gets booked fast. If you need a container for storm cleanup, book as soon as you know you need one — do not wait until you have finished damage assessment.</p>
+
+<h3>Does dumpster rental pricing include disposal?</h3>
+<p>Not always. Some Oklahoma providers quote an all-in rate that includes fuel surcharge and disposal fees. Others list base rate only and add those separately on the invoice. Ask for the total cost before pickup. A $30 difference between two base quotes can disappear once fees are included.</p>
+
+<h3>Can heavy debris like roofing shingles cost more?</h3>
+<p>The mechanism is the weight allowance, not always a separate surcharge. Standard containers include a tonnage allowance in the quoted rate. A full shingle tear-off from a typical Oklahoma home can be heavier than the standard allowance. The overage fee applies after pickup when the truck crosses the scale. Ask for the specific tonnage allowance before loading any roofing debris.</p>
+
+<h3>How long is a typical dumpster rental in Oklahoma?</h3>
+<p>Standard rental periods run 7–10 days in most Oklahoma markets. Extension fees typically run $5–$15 per day. During active construction or renovation seasons, providers can book up quickly. If the project will run longer than 10 days, confirm the extension rate at booking.</p>
+
+<h3>Do I need a permit for a dumpster in Oklahoma?</h3>
+<p>Street placement in Oklahoma cities requires a right-of-way permit from the city. Driveway placement on private property generally does not. Requirements vary by municipality — Oklahoma City, Tulsa, and Norman each have their own process. Your provider can often pull the permit for a fee. Confirm placement before scheduling delivery.</p>
+
+<h3>Does pricing differ between Oklahoma City and Lawton?</h3>
+<p>No — both run $250–$420 for a 10-yard and $360–$620 for a 20-yard. Lawton has sufficient provider density to maintain rates equivalent to the OKC metro despite being 90 miles away.</p>
+
+<h3>Are rural Oklahoma dumpster rentals more expensive?</h3>
+<p>In remote western markets like Altus, modestly yes — roughly $10–$20 more on the lower end across container sizes. In Southwest Oklahoma cluster cities, rates are competitive with the major metros. For very small projects in rural Oklahoma, a direct trip to a county transfer station may cost less than a weekly container rental.</p>
+
+<p>Oklahoma is flat, which is good for roll-off delivery logistics. It is also in Tornado Alley, which is the part that complicates everything else. The pricing holds steady; it is the calendar that does not.</p>`,
+  },
+  {
+    slug: 'texas-dumpster-rental-cost',
+    title: 'Texas Dumpster Rental Cost: Prices by Size and Metro',
+    excerpt:
+      'Most Texas metros run $250–$430/week for a 10-yard container. Dallas, Fort Worth, and Houston all quote the same rates. San Antonio runs slightly lower; Austin\'s ceiling runs slightly higher. Here is the full state breakdown by market and container size.',
+    category: 'Geo Guide',
+    coverImage:
+      'https://images.pexels.com/photos/8278494/pexels-photo-8278494.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt:
+      'Colorful residential homes in Houston Heights neighborhood, Texas',
+    date: '2026-09-20',
+    author: 'Jake Harlow',
+    metaDescription:
+      'Texas dumpster rental costs $250–$430/week for a 10-yard container in most markets. Dallas, Fort Worth, and Houston all run the same rates. San Antonio runs slightly lower. Here is how pricing compares across DFW, Houston, Austin, and San Antonio.',
+    readingTime: 13,
+    keywords: [
+      'Texas dumpster rental cost',
+      'dumpster rental cost Texas',
+      'Texas dumpster rental prices',
+      'roll off dumpster prices Texas',
+      'dumpster prices in Texas',
+      'how much does a dumpster cost in Texas',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Texas?',
+        answer:
+          'Most major Texas markets run $250–$430/week for a 10-yard container and $360–$620/week for a 20-yard. Dallas, Fort Worth, and all DFW suburbs run the same rates, as does Houston. San Antonio runs slightly lower — $240–$420 for a 10-yard. Austin runs slightly higher at the ceiling — $250–$440 for a 10-yard.',
+      },
+      {
+        question: 'How much does a 20-yard dumpster cost in Texas?',
+        answer:
+          'In DFW and Houston, a 20-yard typically runs $360–$620/week. Austin runs $370–$630. San Antonio runs $350–$600. This is the most commonly rented size for residential roofing jobs, whole-home cleanouts, and kitchen gut renovations across the state.',
+      },
+      {
+        question: 'Are dumpster rentals more expensive in Dallas or Houston?',
+        answer:
+          'Neither — both run the same rates. Dallas, Fort Worth, and all 11 DFW suburbs covered by RDF quote $250–$430 for a 10-yard and $360–$620 for a 20-yard. Houston runs identical ranges. Both metros have deep, competitive provider pools that keep pricing aligned.',
+      },
+      {
+        question: 'Does Texas dumpster pricing vary by metro?',
+        answer:
+          'Yes, at the margins. DFW and Houston are the same. San Antonio runs modestly lower across all sizes — about $10 less at the floor, $20 less at the ceiling for 20- and 30-yard containers. Austin\'s ceiling runs slightly higher. Waco, as a secondary market, has a modestly elevated floor on 10-yard containers ($260 vs $250 in major metros).',
+      },
+      {
+        question: 'Does dumpster rental pricing include disposal?',
+        answer:
+          'Not always. Some Texas providers quote an all-in rate. Others quote a base rate and add fuel surcharges and disposal fees on the invoice. A $30 gap between two quoted prices can disappear once fees are included. Ask each provider for the total cost before pickup, not just the base rate.',
+      },
+      {
+        question: 'Can heavy debris like roofing shingles cost more?',
+        answer:
+          'The mechanism is the weight allowance. Standard containers include a tonnage allowance in the quoted rate. Shingles are heavy — a full roof tear-off can exceed the standard allowance on a 20-yard. Overage fees apply when the truck crosses the scale after pickup, not when you load the bin. Ask for the specific weight allowance before loading any roofing material.',
+      },
+      {
+        question: 'Can storm cleanup affect dumpster availability in Texas?',
+        answer:
+          'Yes. After significant weather events — hail storms, severe wind, hurricanes — container availability can tighten in affected areas within 24–48 hours. Pricing tends to hold, but inventory gets booked fast. Book as early as possible after a weather event rather than waiting until cleanup is underway.',
+      },
+      {
+        question: 'How long is a typical dumpster rental in Texas?',
+        answer:
+          'Standard rental periods run 7–10 days in most Texas markets. Extension fees typically run $5–$15 per day. Renovation projects often run longer than planned. Confirm the rental period and extension rate before the container arrives, not after it fills.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Texas?',
+        answer:
+          'Street placement typically requires a right-of-way permit from the city. Driveway placement on private property usually does not. Requirements vary by municipality — Dallas, Houston, Austin, and San Antonio each have their own process. Your provider can often coordinate the permit.',
+      },
+      {
+        question: 'Are dumpster rentals cheaper in smaller Texas markets?',
+        answer:
+          'Not necessarily. Smaller secondary markets like Waco can have a modestly higher floor than major metros because fewer local providers means less downward price pressure. San Antonio is the exception among RDF\'s Texas markets, running slightly below DFW and Houston pricing across all sizes.',
+      },
+    ],
+    toc: [
+      { id: 'texas-pricing-overview', title: 'How Much Does a Dumpster Rental Cost in Texas?' },
+      { id: 'pricing-by-size', title: 'Texas Dumpster Prices by Size' },
+      { id: 'why-prices-vary', title: 'Why Prices Vary Across Texas' },
+      { id: 'dfw', title: 'Dallas-Fort Worth Dumpster Rental Costs' },
+      { id: 'houston', title: 'Houston Dumpster Rental Costs' },
+      { id: 'austin', title: 'Austin Dumpster Rental Costs' },
+      { id: 'san-antonio', title: 'San Antonio Dumpster Rental Costs' },
+      { id: 'secondary-markets', title: 'Waco and Secondary Texas Markets' },
+      { id: 'roofing-storm', title: 'Roofing, Storm Cleanup, and Demand' },
+      { id: 'what-affects-price', title: 'What Affects Your Final Quote' },
+      { id: 'keep-costs-down', title: 'How to Keep Costs Down' },
+      { id: 'by-city', title: 'Texas Dumpster Rental by City' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+    body: `<p>Texas sprawl is well documented. The dumpster rate sheet, it turns out, is one of the less sprawling things in the state. Most Texas metros run $250–$430 per week for a 10-yard container. San Antonio runs a few dollars lower. Austin's ceiling is a touch higher. Waco, as a secondary market, has a modestly elevated floor. The bigger variable across Texas is not metro location — it is what goes in the bin, how heavy it is, and how long it sits.</p>
+
+<p>(If you are trying to price a roll-off for a specific project and not sure where to start: the <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard guide</a> and the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">size guide</a> are the two fastest reads before calling.)</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">Most major Texas markets — Dallas-Fort Worth, Houston, and the DFW suburbs — run $250–$430/week for a 10-yard container and $360–$620/week for a 20-yard. San Antonio runs modestly lower across all sizes. Austin's ceiling runs slightly higher. Waco and smaller secondary markets have a modestly elevated floor. Container size and debris weight are usually bigger cost drivers than which Texas metro you are in.</p>
+</div>
+
+<nav class="not-prose my-8 rounded-lg bg-[#F5F4F0] border border-[#E8E4DE] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#9CA3AF] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#texas-pricing-overview" class="text-orange font-medium hover:underline text-sm">How Much Does a Dumpster Rental Cost in Texas?</a></li>
+    <li><a href="#pricing-by-size" class="text-orange font-medium hover:underline text-sm">Texas Dumpster Prices by Size</a></li>
+    <li><a href="#why-prices-vary" class="text-orange font-medium hover:underline text-sm">Why Prices Vary Across Texas</a></li>
+    <li><a href="#dfw" class="text-orange font-medium hover:underline text-sm">Dallas-Fort Worth Dumpster Rental Costs</a></li>
+    <li><a href="#houston" class="text-orange font-medium hover:underline text-sm">Houston Dumpster Rental Costs</a></li>
+    <li><a href="#austin" class="text-orange font-medium hover:underline text-sm">Austin Dumpster Rental Costs</a></li>
+    <li><a href="#san-antonio" class="text-orange font-medium hover:underline text-sm">San Antonio Dumpster Rental Costs</a></li>
+    <li><a href="#secondary-markets" class="text-orange font-medium hover:underline text-sm">Waco and Secondary Texas Markets</a></li>
+    <li><a href="#roofing-storm" class="text-orange font-medium hover:underline text-sm">Roofing, Storm Cleanup, and Demand</a></li>
+    <li><a href="#what-affects-price" class="text-orange font-medium hover:underline text-sm">What Affects Your Final Quote</a></li>
+    <li><a href="#keep-costs-down" class="text-orange font-medium hover:underline text-sm">How to Keep Costs Down</a></li>
+    <li><a href="#by-city" class="text-orange font-medium hover:underline text-sm">Texas Dumpster Rental by City</a></li>
+    <li><a href="#faq" class="text-orange font-medium hover:underline text-sm">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="texas-pricing-overview">How Much Does a Dumpster Rental Cost in Texas?</h2>
+
+<p>The table below shows typical listed ranges from RDF city guides across the major Texas markets. Dallas, Fort Worth, Houston, and the DFW suburbs all run equivalent rates. Austin and San Antonio diverge slightly at the margins.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Market</th>
+        <th class="px-4 py-3 text-left font-semibold">10-Yard / week</th>
+        <th class="px-4 py-3 text-left font-semibold">20-Yard / week</th>
+        <th class="px-4 py-3 text-left font-semibold">30-Yard / week</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Dallas / DFW cluster</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$430</td>
+        <td class="px-4 py-3">$360–$620</td>
+        <td class="px-4 py-3">$430–$740</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Houston</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$430</td>
+        <td class="px-4 py-3">$360–$620</td>
+        <td class="px-4 py-3">$430–$740</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Austin</td>
+        <td class="px-4 py-3 font-medium text-orange">$250–$440</td>
+        <td class="px-4 py-3">$370–$630</td>
+        <td class="px-4 py-3">$440–$750</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">San Antonio</td>
+        <td class="px-4 py-3 font-medium text-orange">$240–$420</td>
+        <td class="px-4 py-3">$350–$600</td>
+        <td class="px-4 py-3">$420–$720</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Waco</td>
+        <td class="px-4 py-3 font-medium text-orange">$260–$450</td>
+        <td class="px-4 py-3">$360–$615</td>
+        <td class="px-4 py-3">$430–$745</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>These are typical listed ranges from RDF city guides. Your actual quote depends on the provider, debris type, weight, rental period, and delivery location. Ask for an itemized breakdown — fuel surcharges and disposal fees are sometimes listed separately from the base rate.</p>
+
+<h2 id="pricing-by-size">Texas Dumpster Prices by Size</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/17286412/pexels-photo-17286412.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Aerial view of suburban houses with pools in Houston, Texas"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Container size is the primary driver of price across all Texas markets. Here is what each size typically runs in the major Texas metros.</p>
+
+<p><strong>10-yard:</strong> $240–$450 per week across Texas markets. San Antonio has the lowest floor ($240–$420); Waco has the highest ($260–$450). In most Texas metros, expect $250–$430. Best for single-room cleanouts, small garage purges, and light debris. Dense material — concrete, tile, brick — hits weight limits before the bin fills. See the <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster guide</a> for weight limits and project-fit guidance.</p>
+
+<p><strong>15-yard:</strong> $300–$530 per week across Texas markets. Good for bathroom remodels, medium cleanouts, and yard debris. Available in most Texas markets — confirm with your provider before booking.</p>
+
+<p><strong>20-yard:</strong> The most commonly booked container for Texas residential projects. DFW and Houston run $360–$620. Austin runs $370–$630. San Antonio runs $350–$600. The right size for full roof tear-offs, whole-home cleanouts, and kitchen renovations. The <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster guide</a> covers dimensions, weight allowances, and project fit in detail.</p>
+
+<p><strong>30-yard:</strong> $420–$750 per week. DFW and Houston run $430–$740. Austin runs $440–$750. San Antonio runs $420–$720. The right container for large estate cleanouts, full gut renovations, and contractor jobs with mixed debris. See the <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard dumpster guide</a> for when this size makes sense.</p>
+
+<p><strong>40-yard:</strong> $540–$1,050+ per week. San Antonio runs $540–$1,000+; DFW and Houston run $560–$1,050+; Austin runs $570–$1,050+. Commercial construction, major demolition, large multi-structure projects. See the <a href="/resources/40-yard-dumpster-rental" class="text-orange hover:underline">40-yard dumpster guide</a> for commercial use cases and access requirements.</p>
+
+<p>The <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a> walks through the decision by project type when the right container size isn't obvious.</p>
+
+<h2 id="why-prices-vary">Why Prices Vary Across Texas</h2>
+
+<p>Texas's major metros are all competitive dumpster markets. The similarity in pricing across DFW, Houston, and their suburban rings reflects provider depth — more operators in the same service area keeps rates aligned. San Antonio's modestly lower rates track with a somewhat less dense provider landscape compared to DFW. Austin's higher ceiling likely reflects operating costs and sustained construction demand in a rapidly growing metro.</p>
+
+<p>Beyond metro location, four factors move the number most.</p>
+
+<p><strong>Container size and debris type.</strong> The most predictable cost driver. Heavy debris — shingles, concrete, tile, brick — hits weight limits faster than volume limits. An overage charge applies when the truck crosses the scale at the disposal facility, not when you load the bin. Ask for the specific weight allowance before loading anything dense.</p>
+
+<p><strong>Delivery distance and access.</strong> Properties at the far edge of a metro's service area, down unpaved roads, with restricted access, or in high-density urban zones can affect delivery logistics and quoted pricing. Ask the provider about their service radius if you are at the outer edge of a metro or need placement in a tight urban location.</p>
+
+<p><strong>Rental duration.</strong> Most Texas providers offer a 7–10 day standard rental. Extension fees typically apply daily beyond the included period. Renovation projects often run longer than planned. Confirm the rental period and extension rate before the container arrives.</p>
+
+<p><strong>Provider availability and demand cycles.</strong> Texas construction activity runs year-round, and roofing cleanup demand can spike after severe weather. During high-demand periods, lead times can extend and availability can tighten in affected areas. This is a timing issue — rates typically hold; inventory does not.</p>
+
+<p>The <a href="https://www.tceq.texas.gov/waste/municipal-solid-waste" target="_blank" rel="noopener noreferrer">Texas Commission on Environmental Quality (TCEQ)</a> regulates solid waste disposal statewide, including the permitted facilities providers use for final disposal. Distance to the nearest permitted facility is one factor providers consider when setting rates for outer-metro and secondary markets.</p>
+
+<h2 id="dfw">Dallas-Fort Worth Dumpster Rental Costs</h2>
+
+<p>DFW is RDF's deepest Texas market, with city guides covering 13 communities across the metro. All 13 run identical pricing — $250–$430/week for a 10-yard, $360–$620 for a 20-yard, $430–$740 for a 30-yard — because they draw from the same regional provider pool. Competition across a metro this size keeps rates consistent from central Dallas to the outer suburbs of Frisco and McKinney.</p>
+
+<p>DFW's residential construction activity is among the highest in the country by volume. Frisco, McKinney, Allen, and the northern suburbs see consistent new construction and renovation demand. The established neighborhoods of Dallas proper generate substantial home renovation, estate cleanout, and roofing work. Garland, Carrollton, Grand Prairie, and Irving run the same rates but may have slightly different provider coverage at the margins.</p>
+
+<p>For DFW roofing jobs: the area sits in an active hail corridor. A full residential roofing tear-off typically requires a 20-yard container or larger, depending on roof size and shingle layers. Shingle weight accumulates fast — see the <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster rental guide</a> for weight limits and sizing specifics before you book.</p>
+
+<p>DFW city pages: <a href="/locations/dallas-tx-dumpster-rental" class="text-orange hover:underline">Dallas</a>, <a href="/locations/fort-worth-tx-dumpster-rental" class="text-orange hover:underline">Fort Worth</a>, <a href="/locations/plano-tx-dumpster-rental" class="text-orange hover:underline">Plano</a>, <a href="/locations/arlington-tx-dumpster-rental" class="text-orange hover:underline">Arlington</a>, <a href="/locations/irving-tx-dumpster-rental" class="text-orange hover:underline">Irving</a>, <a href="/locations/frisco-tx-dumpster-rental" class="text-orange hover:underline">Frisco</a>, <a href="/locations/mckinney-tx-dumpster-rental" class="text-orange hover:underline">McKinney</a>, <a href="/locations/garland-tx-dumpster-rental" class="text-orange hover:underline">Garland</a>, <a href="/locations/denton-tx-dumpster-rental" class="text-orange hover:underline">Denton</a>, <a href="/locations/grand-prairie-tx-dumpster-rental" class="text-orange hover:underline">Grand Prairie</a>, <a href="/locations/carrollton-tx-dumpster-rental" class="text-orange hover:underline">Carrollton</a>, <a href="/locations/richardson-tx-dumpster-rental" class="text-orange hover:underline">Richardson</a>, <a href="/locations/allen-tx-dumpster-rental" class="text-orange hover:underline">Allen</a>.</p>
+
+<h2 id="houston">Houston Dumpster Rental Costs</h2>
+
+<p><a href="/locations/houston-tx-dumpster-rental" class="text-orange hover:underline">Houston</a> runs the same pricing as the DFW cluster — $250–$430/week for a 10-yard, $360–$620 for a 20-yard. Houston's metro size and provider depth keep rates competitive. The Houston area generates substantial roll-off demand from residential construction, estate cleanouts, and storm-related debris — particularly in years with significant Gulf Coast weather activity.</p>
+
+<p>For construction contractors or large residential projects in the Houston area, the <a href="/resources/renting-a-construction-dumpster" class="text-orange hover:underline">construction dumpster rental guide</a> covers site logistics, weight limits, and planning multiple pulls on longer jobs.</p>
+
+<h2 id="austin">Austin Dumpster Rental Costs</h2>
+
+<p><a href="/locations/austin-tx-dumpster-rental" class="text-orange hover:underline">Austin</a> runs $250–$440/week for a 10-yard — the ceiling is $10 higher than DFW and Houston. The 20-yard runs $370–$630; the 30-yard runs $440–$750. The modest ceiling difference likely reflects Austin's construction cost environment and provider dynamics in a fast-growing metro with sustained development pressure.</p>
+
+<p>For Central Texas homeowners, Austin's pricing is competitive with the state's major markets. The difference from DFW is minor at the bottom of the range and more noticeable at the ceiling for larger containers. If you are pricing a major project in Austin, getting two quotes before booking is a practical step.</p>
+
+<h2 id="san-antonio">San Antonio Dumpster Rental Costs</h2>
+
+<p><a href="/locations/san-antonio-tx-dumpster-rental" class="text-orange hover:underline">San Antonio</a> runs modestly lower across all sizes — $240–$420/week for a 10-yard, $350–$600 for a 20-yard, $420–$720 for a 30-yard. The floor is $10 below the DFW and Houston standard, and the ceiling is also slightly lower. San Antonio has a large residential base and consistent demand from home renovation, construction, and property cleanout activity across Bexar County.</p>
+
+<p>For larger projects in San Antonio — multiple container pulls or jobs running more than two weeks — the lower rate floor can make a real difference versus DFW pricing on comparable container sizes.</p>
+
+<h2 id="secondary-markets">Waco and Secondary Texas Markets</h2>
+
+<p><a href="/locations/waco-tx-dumpster-rental" class="text-orange hover:underline">Waco</a> sits between Dallas and Austin on I-35, and its pricing reflects a secondary market with fewer competing providers than the major metros. The 10-yard runs $260–$450/week — about $10 above the DFW and Houston floor. The 20-yard runs $360–$615. The ceiling on 30- and 40-yard containers is modestly above the DFW norm as well.</p>
+
+<p>The pattern in secondary Texas markets is a higher floor rather than a lower one — smaller provider pools reduce downward price pressure at the lower end of the range. For small projects in secondary markets where even a weekly container rental may run higher than expected, it is worth comparing the container cost against a direct trip to a county transfer station or licensed disposal facility. That math is most relevant for jobs under two pickup truck loads of light debris.</p>
+
+<h2 id="roofing-storm">Roofing, Storm Cleanup, and Demand</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/37677476/pexels-photo-37677476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Roofers working on a brick home in Allen, Texas, replacing shingles and roofing materials"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Texas roofing jobs are one of the most consistent drivers of roll-off container demand across the state. Most full residential roof tear-offs — a 2,000–2,500 square foot home with one layer of shingles — fit in a 20-yard container. Multiple shingle layers or a larger roof area may require a 30-yard. Shingles are dense: the weight adds up faster than the volume suggests. Ask for the specific weight allowance before booking any roofing container.</p>
+
+<p>The <a href="https://www.epa.gov/smm/construction-and-demolition-debris" target="_blank" rel="noopener noreferrer">EPA's construction and demolition debris guidelines</a> classify roofing materials as C&D waste — the same category as concrete, drywall, and framing lumber. Mixing heavy C&D materials with general household debris in a single load can push a container over the weight allowance faster than either material type alone would suggest.</p>
+
+<p>Severe weather in Texas — hail, high wind, coastal storms — can affect container availability in the immediate aftermath of major events. When a significant event hits a metro, cleanup demand can spike and available inventory can get booked within 24–48 hours. Rates may hold; availability typically does not. If you know you need a container after a weather event, book it as soon as you have the information to do so. The <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster rental guide</a> covers sizing, weight limits, and what to ask the provider before scheduling.</p>
+
+<h2 id="what-affects-price">What Affects Your Final Dumpster Price?</h2>
+
+<p>The quoted rate and the final invoice can be different numbers. Six variables determine where yours lands.</p>
+
+<p><strong>Container size.</strong> The most common overpay is a second container because the first filled up. Sizing the right container up front is almost always cheaper than a second haul. If the job involves heavy debris, size for weight rather than cubic yards.</p>
+
+<p><strong>Debris type and weight.</strong> Standard containers include a tonnage allowance in the quoted rate. Concrete, tile, shingles, and brick hit that allowance faster than drywall or wood. Overage fees apply after the truck weighs at the disposal facility — not when you load the bin. Ask for the specific weight allowance before loading anything dense.</p>
+
+<p><strong>Rental duration.</strong> Standard rentals run 7–10 days. Daily extension fees apply beyond that window. Renovation projects often run longer than expected. Confirm the extension rate before the container arrives.</p>
+
+<p><strong>Delivery location.</strong> Properties with restricted access, long driveways, low overhead obstacles, or placement on a public right-of-way can affect delivery logistics and pricing. Street placement in Texas cities typically requires a permit. Driveway placement on private property usually does not. Requirements vary by municipality — confirm before scheduling delivery.</p>
+
+<p><strong>Prohibited materials.</strong> Items rejected by disposal facilities — tires, paint, batteries, appliances with refrigerants, certain mattresses — can result in additional fees or a load rejected at the gate. The <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">roll-off accepted materials guide</a> covers what typically goes in and what does not.</p>
+
+<p><strong>Quote structure.</strong> Some Texas providers quote an all-in rate that includes disposal fees and fuel surcharges. Others list base rates only. Two quotes with a $30 gap on the base rate can flip once fees are added. Ask for a fully itemized quote from any provider you are comparing.</p>
+
+<h2 id="keep-costs-down">How to Keep Costs Down</h2>
+
+<p>The <a href="/resources/cheap-dumpster-rental" class="text-orange hover:underline">cheap dumpster rental guide</a> covers the six variables you control before booking. The practical version for Texas projects:</p>
+
+<p>Size the container right the first time. For most single-family home jobs in Dallas, Houston, Austin, or San Antonio, a 20-yard handles the work. For a kitchen gut or bathroom remodel without stone counters or tile floor, a 10-yard is usually enough. The <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">size guide</a> walks through this by project type before you call.</p>
+
+<p>Separate heavy from light debris where practical. Keeping concrete or tile out of the main container — doing a separate disposal run for heavy material — can prevent overage charges on the primary container. Not always feasible, but worth considering on mixed-load jobs.</p>
+
+<p>Book the right rental period. If the project is likely to run 14 days, negotiate a two-week rate at booking rather than paying daily extensions. Know the extension rate before the container arrives.</p>
+
+<p>Compare what is actually included. Ask each provider: what is in the base rate, what the weight allowance is, and what the overage fee per ton is. The lowest quoted price and the lowest final invoice often come from different providers.</p>
+
+<p>For the permit picture in your Texas city, the <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster rental permit guide</a> covers when you need one and how to get it. For how Texas pricing compares to the national framework, the <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">national dumpster rental cost guide</a> covers the broader baseline.</p>
+
+<h2 id="by-city">Texas Dumpster Rental by City</h2>
+
+<p>The <a href="/locations/texas" class="text-orange hover:underline">Texas dumpster rental hub</a> has city guides for all active Texas markets:</p>
+
+<div class="not-prose my-6 grid grid-cols-2 md:grid-cols-3 gap-3">
+  <a href="/locations/dallas-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Dallas</a>
+  <a href="/locations/houston-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Houston</a>
+  <a href="/locations/austin-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Austin</a>
+  <a href="/locations/san-antonio-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">San Antonio</a>
+  <a href="/locations/fort-worth-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Fort Worth</a>
+  <a href="/locations/plano-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Plano</a>
+  <a href="/locations/arlington-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Arlington</a>
+  <a href="/locations/irving-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Irving</a>
+  <a href="/locations/frisco-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Frisco</a>
+  <a href="/locations/mckinney-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">McKinney</a>
+  <a href="/locations/garland-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Garland</a>
+  <a href="/locations/denton-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Denton</a>
+  <a href="/locations/grand-prairie-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Grand Prairie</a>
+  <a href="/locations/carrollton-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Carrollton</a>
+  <a href="/locations/richardson-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Richardson</a>
+  <a href="/locations/allen-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Allen</a>
+  <a href="/locations/waco-tx-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Waco</a>
+</div>
+
+<h2 id="faq">Straight Answers</h2>
+
+<h3>How much does a dumpster rental cost in Texas?</h3>
+<p>Most major Texas markets run $250–$430/week for a 10-yard container and $360–$620/week for a 20-yard. Dallas, Fort Worth, and all DFW suburbs run the same rates, as does Houston. San Antonio runs slightly lower — $240–$420 for a 10-yard. Austin runs slightly higher at the ceiling — $250–$440 for a 10-yard, $370–$630 for a 20-yard.</p>
+
+<h3>How much does a 20-yard dumpster cost in Texas?</h3>
+<p>In DFW and Houston, a 20-yard typically runs $360–$620/week. Austin runs $370–$630. San Antonio runs $350–$600. This is the most commonly rented size for residential roofing, whole-home cleanouts, and kitchen gut renovations across the state.</p>
+
+<h3>Are dumpster rentals more expensive in Dallas or Houston?</h3>
+<p>Neither — both run the same rates. Dallas, Fort Worth, and all 11 DFW suburbs covered by RDF quote $250–$430 for a 10-yard and $360–$620 for a 20-yard. Houston runs identical ranges. Both metros have deep, competitive provider pools that keep pricing aligned.</p>
+
+<h3>Does Texas dumpster pricing vary by metro?</h3>
+<p>Yes, at the margins. DFW and Houston are the same. San Antonio runs modestly lower across all sizes — about $10 less at the floor, $20 less at the ceiling for 20- and 30-yard containers. Austin's ceiling runs slightly higher. Waco, as a secondary market, has a modestly elevated floor on 10-yard containers ($260 vs $250 in major metros).</p>
+
+<h3>Does dumpster rental pricing include disposal?</h3>
+<p>Not always. Some Texas providers quote an all-in rate. Others quote a base rate and add fuel surcharges and disposal fees on the invoice. A $30 gap between two quoted prices can disappear once fees are included. Ask each provider for the total cost before pickup, not just the base rate.</p>
+
+<h3>Can heavy debris like roofing shingles cost more?</h3>
+<p>The mechanism is the weight allowance. Standard containers include a tonnage allowance in the quoted rate. Shingles are heavy — a full roof tear-off can exceed the standard allowance on a 20-yard. Overage fees apply when the truck crosses the scale after pickup, not when you load the bin. Ask for the specific weight allowance before loading any roofing material.</p>
+
+<h3>Can storm cleanup affect dumpster availability in Texas?</h3>
+<p>Yes. After significant weather events — hail, severe wind, coastal storms — container availability can tighten in affected areas within 24–48 hours. Pricing tends to hold, but inventory gets booked fast. Book as early as possible after a weather event rather than waiting until cleanup is underway.</p>
+
+<h3>How long is a typical dumpster rental in Texas?</h3>
+<p>Standard rental periods run 7–10 days in most Texas markets. Extension fees typically run $5–$15 per day. Renovation projects often run longer than planned. Confirm the rental period and extension rate before the container arrives, not after it fills.</p>
+
+<h3>Do I need a permit for a dumpster in Texas?</h3>
+<p>Street placement typically requires a right-of-way permit from the city. Driveway placement on private property usually does not. Requirements vary by municipality — Dallas, Houston, Austin, and San Antonio each have their own process. Your provider can often coordinate the permit. The <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">permit guide</a> covers how this works.</p>
+
+<h3>Are dumpster rentals cheaper in smaller Texas markets?</h3>
+<p>Not necessarily. Smaller secondary markets like Waco can have a modestly higher floor than major metros because fewer local providers means less downward price pressure. San Antonio is the exception among RDF's Texas markets, running slightly below DFW and Houston pricing across all sizes.</p>
+
+<p>Texas is big. Most of the dumpster pricing is not. Understanding the margin differences by metro — and what actually drives the final invoice number — is worth the few minutes before you book.</p>`,
+  },
+  {
+    slug: '20-yard-dumpster-rental-colorado',
+    title: '20 Yard Dumpster Rental in Colorado: Cost, Size & Best Uses',
+    excerpt:
+      'A 20-yard dumpster runs $350–$590 in Pueblo, $380–$650 in Denver, and $435–$750 in mountain markets like Steamboat Springs. Here is what it costs across Colorado, what fits, and when to size up or down.',
+    category: 'Geo Guide',
+    coverImage:
+      'https://images.pexels.com/photos/9739348/pexels-photo-9739348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    coverImageAlt:
+      'Countryside homes with a wooden fence under a wide sky near Denver, Colorado',
+    date: '2026-09-20',
+    author: 'Jake Harlow',
+    metaDescription:
+      'A 20-yard dumpster runs $350–$750/week in Colorado depending on your market. Pueblo and Colorado Springs start lower; mountain markets run higher. Here is what it costs, what fits, and why the price varies.',
+    readingTime: 13,
+    keywords: [
+      '20 yard dumpster rental Colorado',
+      '20 yard dumpster Colorado',
+      '20 yard roll off dumpster Colorado',
+      'Colorado 20 yard dumpster rental',
+      '20 yard dumpster cost Colorado',
+      '20 yard dumpster prices Colorado',
+      '20 yard roll off dumpster rental Colorado',
+    ],
+    faq: [
+      {
+        question: 'How much does a 20-yard dumpster cost in Colorado?',
+        answer:
+          'Typical ranges from RDF city guides: $350–$590 in Pueblo, $360–$620 in Colorado Springs, $380–$650 in Denver, $380–$660 in Fort Collins, $390–$670 in Greeley and Windsor, $400–$690 in Boulder, $415–$700 in Grand Junction, $420–$720 in Gunnison, $435–$750 in Steamboat Springs. The floor spans $85 per week from Pueblo to Steamboat Springs — driven by delivery distance and provider availability.',
+      },
+      {
+        question: 'What fits in a 20 yard dumpster?',
+        answer:
+          'Most standard residential projects: full roof tear-offs, whole-home cleanouts, kitchen guts, full bathroom remodels, garage cleanouts, deck removal, and flooring removal across multiple rooms. Roughly 10 standard pickup truck loads of loose, light debris. Dense material — concrete, tile, roofing shingles — fills the weight allowance faster than the volume.',
+      },
+      {
+        question: 'Is a 20 yard dumpster big enough for a home cleanout?',
+        answer:
+          'For most Colorado single-family homes, yes. A 3–4 bedroom home\'s worth of furniture, appliances, and accumulated household contents typically fits a 20-yard. Long-term occupied properties, homes with outbuildings, or estates with workshop tools and garage contents may need a 30-yard. When in doubt, size up — the second haul fee costs more than upgrading the container before delivery.',
+      },
+      {
+        question: 'Is a 20 yard dumpster good for roofing?',
+        answer:
+          'Usually yes, for a standard single-layer residential roof. Multiple layers or a large roof footprint may require a 30-yard. The weight constraint matters here — shingles are heavy, and a full tear-off can exceed the standard weight allowance on a 20-yard. Ask for the specific weight allowance before scheduling a roofing container.',
+      },
+      {
+        question: 'How much space do I need for a 20 yard dumpster?',
+        answer:
+          'The container needs about 22 feet of clear horizontal space. The delivery truck needs roughly 60 feet of straight clearance. In Colorado mountain communities, narrow driveways, hairpin turns, and steep grades can limit access. Confirm delivery requirements with your provider before the truck arrives to avoid a repositioning charge or a failed delivery.',
+      },
+      {
+        question: 'Are 20 yard dumpsters more expensive in Colorado mountain towns?',
+        answer:
+          'Yes, modestly to meaningfully. The floor on a 20-yard in Gunnison is $420 vs $380 in Denver — a $40 difference per week. In Steamboat Springs, the floor is $435. That premium reflects longer haul distances to disposal facilities and fewer competing providers, not a fixed mountain surcharge.',
+      },
+      {
+        question: 'Can I put concrete in a 20 yard dumpster?',
+        answer:
+          'Concrete is usually accepted, but it fills the weight allowance very quickly. A 20-yard is not a practical vehicle for large volumes of concrete — the weight limit would be hit long before the volume is filled. For mixed loads with modest concrete content, ask for the specific weight allowance before loading.',
+      },
+      {
+        question: 'How long can I keep a 20 yard dumpster?',
+        answer:
+          'Standard rental periods in Colorado markets run 7–10 days. Extension fees typically run $5–$15 per day. In mountain communities, lead times for extensions may be longer. Confirm the rental period and extension rate at booking, before the container arrives.',
+      },
+      {
+        question: 'Do I need a permit for a 20 yard dumpster in Colorado?',
+        answer:
+          'For street or right-of-way placement, yes — most Colorado cities require a permit. For driveway placement on private property, usually no. Requirements vary by municipality. Denver, Colorado Springs, Fort Collins, and Boulder each have their own process. Your provider can often pull the permit for a fee.',
+      },
+      {
+        question: 'Should I rent a 20 or 30 yard dumpster?',
+        answer:
+          'The 20-yard handles most residential jobs. Step up to a 30-yard if the project spans multiple rooms with demolition across all of them, the home has been occupied for decades with accumulated contents and outbuildings, or you are doing commercial or contractor cleanup on a larger job site. A second haul from a filled 20-yard costs more than upgrading to a 30-yard up front.',
+      },
+    ],
+    toc: [
+      { id: 'colorado-20-yard-pricing', title: 'How Much Does a 20 Yard Dumpster Cost in Colorado?' },
+      { id: 'what-fits', title: 'What Fits in a 20 Yard Dumpster?' },
+      { id: 'dimensions', title: 'How Big Is a 20 Yard Dumpster?' },
+      { id: 'why-prices-vary', title: 'Why 20 Yard Pricing Varies Across Colorado' },
+      { id: 'denver', title: 'Denver and the Front Range' },
+      { id: 'northern-colorado', title: 'Northern Colorado Markets' },
+      { id: 'western-slope', title: 'Western Slope: Grand Junction' },
+      { id: 'mountain-markets', title: 'Colorado Mountain Markets' },
+      { id: 'right-size', title: 'Is a 20 Yard Dumpster the Right Size?' },
+      { id: 'roofing', title: '20 Yard Dumpsters for Roofing in Colorado' },
+      { id: 'remodeling-cleanouts', title: 'Remodeling and Cleanouts' },
+      { id: 'what-affects-price', title: 'What Can Affect Your Final Price?' },
+      { id: 'by-city', title: 'Colorado 20 Yard Dumpster by City' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+    body: `<p>The 20-yard dumpster handles most Colorado home projects — roofing, full cleanouts, kitchen guts — without a second pull. In Pueblo, that runs about $350 per week to start. In Steamboat Springs, about $435. In Denver, right around $380. The price difference across Colorado markets is real and specific, not a vague "mountain premium" — it tracks to delivery distance, disposal facility location, and provider competition in each market. Understanding which tier your project falls into is worth knowing before you call.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm leading-relaxed">A 20-yard dumpster runs $350–$590 per week in Pueblo, $360–$620 in Colorado Springs, $380–$650 in Denver, and $435–$750 in mountain markets like Steamboat Springs. Most Front Range and Denver metro markets fall between $380–$660. The same container costs more in mountain and Western Slope markets because of longer haul distances, fewer providers, and higher disposal costs. Container size, debris weight, and rental duration are the main variables you control.</p>
+</div>
+
+<nav class="not-prose my-8 rounded-lg bg-[#F5F4F0] border border-[#E8E4DE] p-6">
+  <p class="text-xs font-bold uppercase tracking-widest text-[#9CA3AF] mb-3">In this guide</p>
+  <ol class="space-y-2">
+    <li><a href="#colorado-20-yard-pricing" class="text-orange font-medium hover:underline text-sm">How Much Does a 20 Yard Dumpster Cost in Colorado?</a></li>
+    <li><a href="#what-fits" class="text-orange font-medium hover:underline text-sm">What Fits in a 20 Yard Dumpster?</a></li>
+    <li><a href="#dimensions" class="text-orange font-medium hover:underline text-sm">How Big Is a 20 Yard Dumpster?</a></li>
+    <li><a href="#why-prices-vary" class="text-orange font-medium hover:underline text-sm">Why 20 Yard Pricing Varies Across Colorado</a></li>
+    <li><a href="#denver" class="text-orange font-medium hover:underline text-sm">Denver and the Front Range</a></li>
+    <li><a href="#northern-colorado" class="text-orange font-medium hover:underline text-sm">Northern Colorado Markets</a></li>
+    <li><a href="#western-slope" class="text-orange font-medium hover:underline text-sm">Western Slope: Grand Junction</a></li>
+    <li><a href="#mountain-markets" class="text-orange font-medium hover:underline text-sm">Colorado Mountain Markets</a></li>
+    <li><a href="#right-size" class="text-orange font-medium hover:underline text-sm">Is a 20 Yard Dumpster the Right Size?</a></li>
+    <li><a href="#roofing" class="text-orange font-medium hover:underline text-sm">20 Yard Dumpsters for Roofing in Colorado</a></li>
+    <li><a href="#remodeling-cleanouts" class="text-orange font-medium hover:underline text-sm">Remodeling and Cleanouts</a></li>
+    <li><a href="#what-affects-price" class="text-orange font-medium hover:underline text-sm">What Can Affect Your Final Price?</a></li>
+    <li><a href="#by-city" class="text-orange font-medium hover:underline text-sm">Colorado 20 Yard Dumpster by City</a></li>
+    <li><a href="#faq" class="text-orange font-medium hover:underline text-sm">Straight Answers</a></li>
+  </ol>
+</nav>
+
+<h2 id="colorado-20-yard-pricing">How Much Does a 20 Yard Dumpster Cost in Colorado?</h2>
+
+<p>Typical listed ranges from RDF city guides across Colorado markets. The spread from lowest to highest floor is about $85 per week — all driven by geography.</p>
+
+<div class="not-prose my-6 overflow-x-auto">
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-charcoal text-white">
+        <th class="px-4 py-3 text-left font-semibold">Colorado Market</th>
+        <th class="px-4 py-3 text-left font-semibold">20-Yard / week</th>
+        <th class="px-4 py-3 text-left font-semibold">Market Type</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Pueblo</td>
+        <td class="px-4 py-3 font-medium text-orange">$350–$590</td>
+        <td class="px-4 py-3 text-sm text-[#566070]">Southern I-25</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Colorado Springs</td>
+        <td class="px-4 py-3 font-medium text-orange">$360–$620</td>
+        <td class="px-4 py-3 text-sm text-[#566070]">South Front Range</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Denver / Aurora</td>
+        <td class="px-4 py-3 font-medium text-orange">$380–$650</td>
+        <td class="px-4 py-3 text-sm text-[#566070]">Metro</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Fort Collins</td>
+        <td class="px-4 py-3 font-medium text-orange">$380–$660</td>
+        <td class="px-4 py-3 text-sm text-[#566070]">North Front Range</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Greeley / Windsor</td>
+        <td class="px-4 py-3 font-medium text-orange">$390–$670</td>
+        <td class="px-4 py-3 text-sm text-[#566070]">North I-25 corridor</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Boulder</td>
+        <td class="px-4 py-3 font-medium text-orange">$400–$690</td>
+        <td class="px-4 py-3 text-sm text-[#566070]">Boulder County</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Grand Junction</td>
+        <td class="px-4 py-3 font-medium text-orange">$415–$700</td>
+        <td class="px-4 py-3 text-sm text-[#566070]">Western Slope</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
+        <td class="px-4 py-3 font-semibold">Gunnison</td>
+        <td class="px-4 py-3 font-medium text-orange">$420–$720</td>
+        <td class="px-4 py-3 text-sm text-[#566070]">Mountain</td>
+      </tr>
+      <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
+        <td class="px-4 py-3 font-semibold">Steamboat Springs</td>
+        <td class="px-4 py-3 font-medium text-orange">$435–$750</td>
+        <td class="px-4 py-3 text-sm text-[#566070]">Mountain resort</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p>These are typical listed ranges from RDF city guides. Your actual quote depends on the provider, debris type, weight allowance, rental period, and delivery conditions. For a full breakdown across all container sizes in Colorado, see the <a href="/resources/colorado-dumpster-rental-cost" class="text-orange hover:underline">Colorado dumpster rental cost guide</a>.</p>
+
+<h2 id="what-fits">What Fits in a 20 Yard Dumpster?</h2>
+
+<p>A 20-yard container handles most Colorado residential projects without a second haul. Common use cases:</p>
+
+<ul class="list-disc pl-6 space-y-1 text-[15px] text-charcoal leading-[1.65] my-4">
+  <li>Full roof tear-offs on most residential homes (one layer of shingles)</li>
+  <li>Whole-home or estate cleanouts on most single-family properties</li>
+  <li>Kitchen gut renovations including cabinets, counters, and flooring</li>
+  <li>Full bathroom remodels — tile, cement board, fixtures, drywall</li>
+  <li>Flooring removal across multiple rooms — carpet, LVP, hardwood, tile</li>
+  <li>Basement or garage cleanouts with accumulated furniture and debris</li>
+  <li>Deck removal and outdoor structure teardown</li>
+  <li>Small residential construction and framing debris</li>
+</ul>
+
+<p>Projects that usually outgrow a 20-yard: multi-room gut renovations spanning the entire home, major demolition, new construction, commercial jobs. For those, see the <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard dumpster guide</a>.</p>
+
+<p>Projects where a 20-yard is often too much: single-room cleanouts, minor landscaping, small garage purge, a light bathroom remodel with no tile or cement board. The <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster guide</a> covers those cases.</p>
+
+<p>One important caveat: dense debris fills the weight allowance before it fills the volume. Concrete, roofing shingles, tile, and stone can make a 20-yard dumpster "full" from the scale's perspective when it looks half-empty. If the project involves heavy material, the weight allowance matters more than the cubic-yard number. The <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a> walks through the project-type breakdown before you call.</p>
+
+<h2 id="dimensions">How Big Is a 20 Yard Dumpster?</h2>
+
+<p>A standard 20-yard roll-off container measures approximately <strong>22 feet long, 8 feet wide, and 4.5 feet high</strong>. Exact measurements vary by rental company and container model. In practical terms: roughly 10 standard pickup truck loads of loose, light debris. That comparison holds for household junk, furniture, and yard waste. It breaks down with dense material — concrete and shingles hit weight limits long before filling the container to volume.</p>
+
+<p>For placement: the container itself needs about 22 feet of clear space. The delivery truck needs roughly 60 feet of straight-line clearance to set it down. In Colorado mountain towns with narrower driveways, hairpin access roads, or properties set back from unpaved roads, confirm access with your provider before the driver arrives. Repositioning a misplaced container is not a free service anywhere in Colorado.</p>
+
+<p>The national <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster rental guide</a> covers the full dimensions breakdown, weight-limit explanation, and placement logistics in detail.</p>
+
+<h2 id="why-prices-vary">Why 20 Yard Pricing Varies Across Colorado</h2>
+
+<p>Three factors account for most of the price difference between a Pueblo 20-yard rental and a Steamboat Springs 20-yard rental on the same container.</p>
+
+<p><strong>Distance to disposal facilities.</strong> Every load gets weighed and disposed of at a licensed solid waste facility. In the Denver metro, Pueblo, and Colorado Springs, those facilities are nearby. In mountain communities and the Western Slope, the nearest permitted facility can be significantly farther. That haul distance is built into the provider's cost structure. The <a href="https://cdphe.colorado.gov/section-6-solid-waste-sites-and-facilities" target="_blank" rel="noopener noreferrer">CDPHE solid waste facilities registry</a> shows permitted sites statewide — the geography of those dots relative to mountain communities explains the pricing more directly than any surcharge.</p>
+
+<p><strong>Provider density and competition.</strong> Denver, Fort Collins, and Colorado Springs have multiple roll-off providers competing in the same market. That competition keeps pricing at the lower end of each market's range. Gunnison, Steamboat Springs, and similar mountain communities typically have fewer competing providers, which reduces downward price pressure on the floor rate. This shows up in any service business with meaningful logistics costs — dumpster rentals are not unique in this respect.</p>
+
+<p><strong>Delivery conditions and access.</strong> Mountain properties with steep driveways, narrow access roads, or locations in high-altitude communities require more logistical care than a suburban Denver delivery. Providers factor that into their quoted rates for those markets.</p>
+
+<h2 id="denver">Denver and the Front Range</h2>
+
+<p>Denver and Aurora run $380–$650 per week for a 20-yard container. The Denver metro is Colorado's most competitive roll-off market, which keeps pricing at the lower end of the state range. Placement in older Denver neighborhoods — alley access, tight driveways, street placement near light rail — introduces logistical variables that don't apply on suburban lots. The <a href="/resources/20-yard-dumpster-rental-denver" class="text-orange hover:underline">Denver 20-yard dumpster rental guide</a> covers placement rules, hail and roofing demand, alley-vs-driveway specifics, and Denver suburb pricing in detail. It's the right resource if your project is specifically in Denver or the immediate metro area.</p>
+
+<h2 id="northern-colorado">Northern Colorado Markets</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/17240675/pexels-photo-17240675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Aerial view of Johnstown, Colorado, showing residential neighborhoods and a sports complex"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p><a href="/locations/fort-collins-co-dumpster-rental" class="text-orange hover:underline">Fort Collins</a> runs $380–$660 per week for a 20-yard — essentially the same floor as Denver, with a slightly higher ceiling. Fort Collins is a competitive Northern Colorado market with enough provider depth to keep rates close to Denver metro pricing. <a href="/locations/greeley-co-dumpster-rental" class="text-orange hover:underline">Greeley</a> and Windsor both run $390–$670, a few dollars above Fort Collins at both ends of the range.</p>
+
+<p>Fort Morgan, in the I-76 corridor east of the Front Range, runs $415–$710 — a step above the Front Range norm that reflects lower provider density and longer haul routes east of the metro. For most Northern Colorado homeowners and contractors, 20-yard pricing is close enough to Denver that the same general guidelines apply.</p>
+
+<h2 id="western-slope">Western Slope: Grand Junction</h2>
+
+<p><a href="/locations/grand-junction-co-dumpster-rental" class="text-orange hover:underline">Grand Junction</a> runs $415–$700 per week for a 20-yard — the highest floor among Colorado's major non-mountain markets. Grand Junction is the largest Western Slope market and has a sufficient provider base to keep pricing below mountain-market levels, while still running about $35 above Denver's floor on the same container.</p>
+
+<p>For Western Slope projects: weight limits and debris type matter as much here as anywhere. Distance to disposal facilities is a real factor for Grand Junction providers — most use local or regional facilities, but that regional cost still influences base pricing in a way that doesn't apply to the Denver metro.</p>
+
+<h2 id="mountain-markets">Colorado Mountain Markets</h2>
+
+<figure class="not-prose my-8">
+  <img
+    src="https://images.pexels.com/photos/18213758/pexels-photo-18213758.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    alt="Charming log cabin nestled in the mountainous landscape of Vail, Colorado"
+    width="1260"
+    height="750"
+    loading="lazy"
+    class="w-full rounded-lg object-cover"
+  />
+</figure>
+
+<p>Mountain markets show the clearest pricing premium in Colorado. <a href="/locations/gunnison-co-dumpster-rental" class="text-orange hover:underline">Gunnison</a> runs $420–$720 per week for a 20-yard. <a href="/locations/steamboat-springs-co-dumpster-rental" class="text-orange hover:underline">Steamboat Springs</a> runs $435–$750. Both are roughly $40–$55 per week above the Denver floor on the same container.</p>
+
+<p>The premium is real but not a fixed surcharge — it reflects fewer providers, longer delivery and return haul distances, and the cost of operating a logistics-intensive service in a mountain community. Practical notes for mountain Colorado container rentals: confirm driveway access with your provider before scheduling, particularly for properties set back from the main road or with grade changes. Ask about seasonal restrictions or local regulations that might affect placement. Lead times may be longer than in metro markets, particularly during peak construction or renovation seasons when provider capacity is stretched.</p>
+
+<h2 id="right-size">Is a 20 Yard Dumpster the Right Size?</h2>
+
+<p>The 20-yard is the most commonly rented residential container in Colorado for good reason — it covers most projects without being excessive. The quick check is project type and debris density.</p>
+
+<p><strong>Choose a 20-yard if:</strong> You are doing a full roof tear-off, a whole-home cleanout, a kitchen gut, a full bathroom remodel, or a deck removal on a standard residential property.</p>
+
+<p><strong>Consider a 10-yard if:</strong> The project is a single room, a small bathroom, a garage cleanout without large furniture, or a minor landscaping job. See the <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster guide</a>.</p>
+
+<p><strong>Consider a 30-yard if:</strong> You are doing a whole-home gut renovation across multiple rooms, a large estate cleanout with outbuildings, a commercial tenant improvement, or any project where you expect to fill a 20-yard and still have material left. See the <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard dumpster guide</a>.</p>
+
+<p>The <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a> walks through this by project type with specific examples. The second haul fee is always more expensive than upgrading the container size before delivery.</p>
+
+<h2 id="roofing">20 Yard Dumpsters for Roofing in Colorado</h2>
+
+<p>A 20-yard container handles most residential roofing tear-offs in Colorado. A typical 2,000–2,500 square foot home with one layer of asphalt shingles usually fits. Multiple shingle layers, a complex roof structure, or a larger home may require a 30-yard.</p>
+
+<p>The key variable is weight, not volume. Shingles are dense — heavier per cubic foot than most residential debris. A container that looks half-empty can be overweight at the landfill scale. The weight allowance is included in the quoted rate; overages apply after pickup when the truck crosses the scale. Ask for the specific weight allowance before loading any roofing material. The <a href="https://www.epa.gov/smm/construction-and-demolition-debris" target="_blank" rel="noopener noreferrer">EPA's construction and demolition debris guidelines</a> classify roofing materials as C&D waste, which providers treat differently from light household debris when setting weight limits.</p>
+
+<p>Colorado's active hail seasons across the Front Range and Northern Colorado generate significant roofing demand each year. During active hail periods, lead times can extend and available containers can fill quickly in affected markets. Booking early after a storm event is practical, not a sales tactic. The <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster rental guide</a> covers sizing, weight considerations, and what to ask before booking any roofing container.</p>
+
+<h2 id="remodeling-cleanouts">Remodeling and Cleanouts</h2>
+
+<p>The 20-yard is typically the right size for Colorado kitchen and bathroom remodels and whole-home cleanouts. A few specifics:</p>
+
+<p><strong>Kitchen remodels:</strong> A kitchen gut — cabinets, countertops, flooring — usually fills a 10-yard on volume but can push weight limits if the counters are stone or the floor is tile. A 20-yard gives more margin and works better for mixed-material loads. See the <a href="/resources/home-cleanout-dumpster-rental" class="text-orange hover:underline">home cleanout dumpster guide</a> for more on whole-home projects.</p>
+
+<p><strong>Bathroom remodels:</strong> Tile, cement board, drywall, and a cast-iron tub add up fast. A 20-yard is the safer call for a full bathroom gut, particularly if the floor or walls are tile over cement board.</p>
+
+<p><strong>Whole-home and estate cleanouts:</strong> Most single-family home cleanouts fit a 20-yard. Long-term occupied homes or properties with outbuildings may need a 30-yard. The home cleanout guide walks through estimation by room.</p>
+
+<p><strong>Construction debris:</strong> Framing lumber and drywall fill volume quickly. Concrete, tile, and masonry fill weight limits quickly. For jobs with significant concrete content, a smaller container rated for heavy debris may be more cost-effective. The <a href="/resources/renting-a-construction-dumpster" class="text-orange hover:underline">construction dumpster rental guide</a> covers site logistics and pull planning for longer contractor jobs.</p>
+
+<h2 id="what-affects-price">What Can Affect Your Final Price?</h2>
+
+<p>The listed range and the final invoice can differ. Four variables typically drive the gap.</p>
+
+<p><strong>Debris weight.</strong> The single biggest source of invoice surprise. Heavy debris — shingles, concrete, tile, brick — can exceed the weight allowance before the container looks full. Ask for the specific tonnage allowance when booking, before loading anything dense.</p>
+
+<p><strong>Rental duration.</strong> Standard rentals run 7–10 days. Extension fees typically run $5–$15 per day. Colorado renovation projects — particularly in mountain communities where contractor scheduling can compress timelines — often run longer than planned. Confirm the extension rate before the container arrives.</p>
+
+<p><strong>Delivery access.</strong> Mountain properties, steep driveways, narrow access roads, and urban properties with tight clearances can affect delivery logistics. Street placement in Colorado cities typically requires a permit from the city or county. Driveway placement on private property usually does not. Requirements vary by municipality — confirm placement type before scheduling delivery.</p>
+
+<p><strong>Quote structure.</strong> Some Colorado providers quote all-in. Others quote base rate and add disposal or fuel charges on the invoice. Two quotes with a $30 base-rate gap can flip when fees are added. Ask for a fully itemized total from any provider you are comparing.</p>
+
+<h2 id="by-city">Colorado 20 Yard Dumpster by City</h2>
+
+<p>The <a href="/locations/colorado" class="text-orange hover:underline">Colorado dumpster rental hub</a> links to city guides across the state:</p>
+
+<div class="not-prose my-6 grid grid-cols-2 md:grid-cols-3 gap-3">
+  <a href="/locations/denver-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Denver</a>
+  <a href="/locations/colorado-springs-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Colorado Springs</a>
+  <a href="/locations/fort-collins-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Fort Collins</a>
+  <a href="/locations/boulder-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Boulder</a>
+  <a href="/locations/grand-junction-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Grand Junction</a>
+  <a href="/locations/greeley-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Greeley</a>
+  <a href="/locations/pueblo-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Pueblo</a>
+  <a href="/locations/steamboat-springs-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Steamboat Springs</a>
+  <a href="/locations/gunnison-co-dumpster-rental" class="block rounded-sm border border-[#E8E4DE] bg-white px-4 py-3 text-sm font-semibold text-charcoal hover:border-orange hover:text-orange transition-colors">Gunnison</a>
+</div>
+
+<h2 id="faq">Straight Answers</h2>
+
+<h3>How much does a 20-yard dumpster cost in Colorado?</h3>
+<p>Typical ranges from RDF city guides: $350–$590 in Pueblo, $360–$620 in Colorado Springs, $380–$650 in Denver, $380–$660 in Fort Collins, $390–$670 in Greeley and Windsor, $400–$690 in Boulder, $415–$700 in Grand Junction, $420–$720 in Gunnison, $435–$750 in Steamboat Springs. The floor spans $85 per week from Pueblo to Steamboat Springs — driven by delivery distance and provider availability, not arbitrary pricing.</p>
+
+<h3>What fits in a 20 yard dumpster?</h3>
+<p>Most standard residential projects: full roof tear-offs, whole-home cleanouts, kitchen guts, full bathroom remodels, garage cleanouts, deck removal, and flooring removal across multiple rooms. Roughly 10 standard pickup truck loads of loose, light debris. Dense material — concrete, tile, roofing shingles — fills the weight allowance faster than the volume, so the cubic-yard number is less useful for heavy jobs.</p>
+
+<h3>Is a 20 yard dumpster big enough for a home cleanout?</h3>
+<p>For most Colorado single-family homes, yes. A 3–4 bedroom home's worth of furniture, appliances, and accumulated household contents typically fits a 20-yard. Long-term occupied properties, homes with outbuildings, or estates with workshop tools and garage contents may need a 30-yard. When in doubt, size up — the second haul fee costs more than upgrading the container before delivery.</p>
+
+<h3>Is a 20 yard dumpster good for roofing?</h3>
+<p>Usually yes, for a standard single-layer residential roof. Multiple layers or a large roof footprint may require a 30-yard. The weight constraint matters here — shingles are heavy, and a full tear-off can exceed the standard weight allowance on a 20-yard. Ask for the specific weight allowance before scheduling a roofing container.</p>
+
+<h3>How much space do I need for a 20 yard dumpster?</h3>
+<p>The container needs about 22 feet of clear horizontal space. The delivery truck needs roughly 60 feet of straight clearance. In Colorado mountain communities, narrow driveways, hairpin turns, and steep grades can limit access. Confirm delivery requirements with your provider before the truck arrives — confirming access up front avoids a repositioning charge or a failed delivery.</p>
+
+<h3>Are 20 yard dumpsters more expensive in Colorado mountain towns?</h3>
+<p>Yes, modestly to meaningfully. The floor on a 20-yard in Gunnison is $420 vs $380 in Denver — a $40 difference per week. In Steamboat Springs, the floor is $435. That premium reflects longer haul distances to disposal facilities and fewer competing providers, not a fixed mountain surcharge.</p>
+
+<h3>Can I put concrete in a 20 yard dumpster?</h3>
+<p>Concrete is usually accepted, but it fills the weight allowance very quickly. A 20-yard container is not a practical vehicle for large volumes of concrete — the weight limit would be hit long before the volume fills. For mixed loads with modest concrete content, ask for the specific weight allowance before loading.</p>
+
+<h3>How long can I keep a 20 yard dumpster?</h3>
+<p>Standard rental periods in Colorado markets run 7–10 days. Extension fees typically run $5–$15 per day. In mountain communities, lead times for extensions may be longer. Confirm the rental period and extension rate at booking, before the container arrives.</p>
+
+<h3>Do I need a permit for a 20 yard dumpster in Colorado?</h3>
+<p>For street or right-of-way placement, yes — most Colorado cities require a permit. For driveway placement on private property, usually no. Requirements vary by municipality. Denver, Colorado Springs, Fort Collins, and Boulder each have their own process. Your provider can often pull the permit for a fee.</p>
+
+<h3>Should I rent a 20 or 30 yard dumpster?</h3>
+<p>The 20-yard handles most residential jobs. Step up to a 30-yard if the project spans multiple rooms with demolition across all of them, the home has been occupied for decades with accumulated contents and outbuildings, or you are doing commercial or contractor cleanup on a larger job site. A second haul from a filled 20-yard costs more than upgrading to a 30-yard up front. See the <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard dumpster guide</a> for project comparisons.</p>
+
+<p>Colorado's pricing geography is one of the more honest in the country — the mountain premium is real and traceable to actual logistics costs. Knowing which tier your project falls in before you call puts you in a better position to compare quotes and understand what you are paying for.</p>`,
   },
 ]

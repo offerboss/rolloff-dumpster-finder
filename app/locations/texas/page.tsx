@@ -175,6 +175,11 @@ const cityCards = [
     slug: 'allen-tx-dumpster-rental',
     desc: 'Allen dumpster rental for home remodels, roofing tear-offs, garage cleanouts, and construction debris across the Collin County corridor.',
   },
+  {
+    city: 'Waco',
+    slug: 'waco-tx-dumpster-rental',
+    desc: 'McLennan County seat on the Brazos River, home of Baylor University and the Magnolia renovation market. Fixer Upper-driven remodels, construction debris, and roofing jobs across Central Texas.',
+  },
 ]
 
 const projects = [
@@ -510,6 +515,23 @@ export default function TexasLocationsPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Texas cost guide callout */}
+      <section className="bg-[#F5F4F0] py-10 px-8">
+        <div className="max-w-[860px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4 rounded-sm border border-[#E8E4DE] bg-white p-6">
+          <div className="flex-1">
+            <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Pricing Guide</p>
+            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Texas Dumpster Rental Cost: Prices by Size and Metro</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">Dallas, Fort Worth, and Houston all run $250–$430/week for a 10-yard. San Antonio runs slightly lower. Here is how pricing breaks down across all Texas markets by container size.</p>
+          </div>
+          <Link
+            href="/resources/texas-dumpster-rental-cost"
+            className="shrink-0 inline-block bg-orange text-black font-bold text-[13px] px-5 py-[10px] rounded-full hover:opacity-90 transition-opacity whitespace-nowrap"
+          >
+            See Cost Guide →
+          </Link>
         </div>
       </section>
 
