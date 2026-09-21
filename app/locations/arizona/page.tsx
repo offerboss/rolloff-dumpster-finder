@@ -121,6 +121,11 @@ const cityCards = [
     desc: 'Tempe dumpster rental for home cleanouts, renovation debris, roofing jobs, and construction waste near Arizona State University and the greater Tempe area.',
   },
   {
+    city: 'Gilbert',
+    slug: 'gilbert-az-dumpster-rental',
+    desc: 'Gilbert roll-off dumpster rental for tile roofing tear-offs, home cleanouts, kitchen and bath remodels, and pool demolition across the Southeast Valley.',
+  },
+  {
     city: 'Glendale',
     slug: 'glendale-az-dumpster-rental',
     desc: 'Glendale and West Valley roll-off dumpster rental for home cleanouts, construction debris, roofing tear-offs, and renovation projects across the Phoenix west side.',

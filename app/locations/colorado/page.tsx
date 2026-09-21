@@ -113,12 +113,22 @@ const cityCards = [
   {
     city: 'Fort Collins',
     slug: 'fort-collins-co-dumpster-rental',
-    desc: 'Fort Collins and Larimer County roll-off rentals for residential cleanouts, roofing tear-offs, yard waste, and construction jobs.',
+    desc: 'Larimer County seat on the Northern Front Range. Home cleanouts, roofing tear-offs, construction debris, and landscaping projects across the Fort Collins metro.',
+  },
+  {
+    city: 'Loveland',
+    slug: 'loveland-co-dumpster-rental',
+    desc: 'Larimer County city between Fort Collins and Longmont. Home cleanouts, hail-season roofing tear-offs, Centerra construction debris, and landscaping projects.',
   },
   {
     city: 'Boulder',
     slug: 'boulder-co-dumpster-rental',
     desc: 'Boulder area roll-off dumpster rental for home cleanouts, renovation debris, and construction projects in Boulder County.',
+  },
+  {
+    city: 'Longmont',
+    slug: 'longmont-co-dumpster-rental',
+    desc: 'Boulder County city east of the Flatirons. Home cleanouts, hail-season roofing tear-offs, Old Town renovation debris, and construction jobs across the Northern Front Range.',
   },
   {
     city: 'Grand Junction',

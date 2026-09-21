@@ -121,6 +121,11 @@ const cityCards = [
     desc: 'Fast-growing suburb north of OKC. New construction containers, full-home cleanouts, renovation projects, and storm cleanup.',
   },
   {
+    city: 'Moore',
+    slug: 'moore-ok-dumpster-rental',
+    desc: 'Cleveland County suburb on I-35 between OKC and Norman. Storm and tornado cleanup, home cleanouts, roofing tear-offs, and construction debris.',
+  },
+  {
     city: 'Lawton',
     slug: 'lawton-ok-dumpster-rental',
     desc: 'Southwest Oklahoma adjacent to Fort Sill. Home cleanouts, military housing turnover, construction debris, and storm cleanup in Comanche County.',

@@ -106,6 +106,11 @@ const cityCards = [
     desc: "West Valley City roll-off dumpster rental for residential cleanouts, construction debris, and renovation projects in Utah's second-largest city.",
   },
   {
+    city: 'West Jordan',
+    slug: 'west-jordan-ut-dumpster-rental',
+    desc: 'South Salt Lake Valley city where 1980s–2000s suburban housing is hitting its first renovation cycle. Home cleanouts, roofing tear-offs, basement cleanouts, and construction debris near the Bangerter Highway corridor.',
+  },
+  {
     city: 'Provo',
     slug: 'provo-ut-dumpster-rental',
     desc: 'Provo and Utah Valley dumpster rental for home cleanouts, construction debris, roofing jobs, and renovation projects across the rapidly growing Utah County area.',

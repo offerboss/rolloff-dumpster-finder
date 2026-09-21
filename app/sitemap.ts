@@ -826,5 +826,35 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/gilbert-az-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/moore-ok-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/loveland-co-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/longmont-co-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://rolloffdumpsterfinder.com/locations/west-jordan-ut-dumpster-rental',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
   ]
 }

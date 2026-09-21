@@ -15475,4 +15475,1051 @@ export const cityLocations: CityLocation[] = [
     latitude: 34.7784,
     longitude: -98.2953,
   },
+
+  // ─── GILBERT ──────────────────────────────────────────────────
+  {
+    slug: 'gilbert-az-dumpster-rental',
+    cityName: 'Gilbert',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Dumpster Rental Gilbert, AZ | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Gilbert dumpster rental for home cleanouts, tile roofing tear-offs, remodels, and construction debris. Roll-off pricing across the Southeast Valley.',
+    primaryKeyword: 'gilbert dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental gilbert az',
+      'gilbert construction dumpster rental',
+      'roll off dumpster gilbert',
+      'roll off dumpster gilbert az',
+      'rolloff dumpsters gilbert',
+      'roll offs gilbert az',
+      '10 yard dumpster rental gilbert',
+      '20 yard dumpster rental gilbert',
+      '30 yard dumpster rental gilbert',
+    ],
+    heroH1: 'Dumpster Rental in Gilbert, Arizona',
+    heroSubheadline:
+      'Roll-off containers for home cleanouts, tile roofing tear-offs, kitchen and bath remodels, and construction debris across Gilbert and the Southeast Valley.',
+    introParagraphs: [
+      "Gilbert grew from a farming town of under 30,000 in 1990 to one of the largest cities in Arizona. That growth happened fast and mostly outward. The result is a market split by housing age. The Heritage District and older streets near downtown carry 1970s and 1980s homes that generate consistent flip and estate cleanout volume. Power Ranch, Morrison Ranch, Val Vista Lakes, and the Higley corridor represent a second tier — late-1990s and 2000s builds now hitting the first full renovation cycle. Kitchens, bathrooms, and flooring are the active categories.",
+      "Tile roofing covers virtually every home in Gilbert. Concrete tile is two to four times heavier than asphalt shingles per square, which means roofing containers hit weight limits before they look half full. That distinction matters at the landfill scale. Desert landscaping conversion and oleander removal also generate more debris volume than most homeowners estimate. Gilbert is one of the most HOA-dense cities in the Valley — the majority of neighborhoods require association approval before a container is placed or before any exterior work begins.",
+      'Rolloff Dumpster Finder covers Gilbert and the full Southeast Valley — Chandler, Mesa, Tempe, Queen Creek, and the San Tan corridor. Most Gilbert zip codes have same-day or next-day availability from the Phoenix provider network. We show weight limits and what the base rate includes before you book. If the invoice does not match the quote, give us a call.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanouts, single bathroom remodels, light construction debris, and single-room renovations.',
+        range: '$270–$470 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Kitchen remodels, garage cleanouts, roofing on smaller structures, and yard waste.',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
+        range: '$370–$640 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation projects, construction debris, full tile roofing tear-offs, and pool demolition.',
+        range: '$440–$770 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
+        range: '$560–$1,050 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Gilbert's Heritage District and older streets near downtown carry 1970s and 1980s homes that generate steady flip and cleanout volume. Power Ranch and Morrison Ranch are now hitting the first wave of full-home renovation cleanouts. A full single-family cleanout typically fills a 15- to 20-yard container. Homes with three-car garages and large attics often run heavier than the initial estimate.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Virtually every home in Gilbert has a concrete tile roof, which weighs significantly more than asphalt shingles. A full tile tear-off can exceed standard weight limits before the container is half full. Tell your provider you are hauling tile before booking — weight allowance matters more than container volume on roofing jobs here.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Active residential construction continues east of Higley Road and in the San Tan Ranch corridor. Framing, drywall, and finish debris from new builds typically need a 20- to 30-yard container. The Gilbert market shares the same provider network as Chandler — lead times run 24–48 hours under normal conditions.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Late-1990s and 2000s homes in Power Ranch, Val Vista Lakes, and the Higley corridor are past the 20-year mark and generating consistent remodel volume. Tile flooring, original cabinetry, and dated countertops are the main targets. A 10- to 15-yard container handles most kitchen and bath tear-outs in Gilbert.",
+      },
+      {
+        number: '05',
+        name: 'Garage & Attic Cleanouts',
+        description:
+          'Three-car garages are standard in most Gilbert planned communities, and attics in stucco construction accumulate storage over time. Basements are uncommon in the Valley, so garages and attics absorb everything. A full three-car garage cleanout typically fills a 10- to 15-yard container.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Original owners who moved into Power Ranch, Greenfield Lakes, and Morrison Ranch in the early 2000s are beginning to downsize. Full estate work in Gilbert typically fills a 20-yard container. Properties with separate casitas, RV garages, or multiple storage structures often need a 30-yard.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Desert landscaping conversion, oleander removal, and palm tree clearing produce more volume than most homeowners expect. Green waste and decomposed granite loads are not accepted at all facilities — confirm acceptance with your provider before booking. A 10- to 15-yard is typical for a full front and back conversion.',
+      },
+      {
+        number: '08',
+        name: 'Pool Demo & Concrete',
+        description:
+          'Pool fills and removals are a regular project type across Gilbert. A standard backyard pool generates two to four tons of concrete and rebar. A 10-yard container with a heavy-material allowance is typically the right call for pure concrete — standard weight limits will not hold for pool material.',
+      },
+      {
+        number: '09',
+        name: 'HOA Community Renovations',
+        description:
+          'Power Ranch, Morrison Ranch, Val Vista Lakes, and most other Gilbert communities operate under HOA rules that govern container placement and exterior staging. Get written approval from your association before scheduling delivery. Some require the container be placed inside the garage or screened from the street.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Gilbert depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the standard option in Gilbert — flat terrain and wide driveways in most planned communities make delivery straightforward.',
+      'HOA approval is required in the majority of Gilbert communities, including Power Ranch, Morrison Ranch, Val Vista Lakes, and Agritopia. Get written approval before scheduling. Some associations require the container be placed inside the garage or screened from the street.',
+      'Street placement in Gilbert requires a right-of-way encroachment permit from the Town of Gilbert Development Services. Private driveway placements on your own property typically do not require a permit.',
+      'Place protective boards under the container on asphalt during summer months. Ground temperatures in Gilbert can cause asphalt softening under a loaded container in July and August.',
+      'Gated communities in Power Ranch, Val Vista Lakes, and San Tan Ranch require pre-arranged gate access. Confirm gate codes and delivery windows with your provider before the driver arrives.',
+      'Some Gilbert neighborhoods have overhead utility lines or mature trees that limit container placement options. Identify a clear drop zone before your delivery date.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Heritage District',
+      'Power Ranch',
+      'Morrison Ranch',
+      'Agritopia',
+      'Val Vista Lakes',
+      'Greenfield Lakes',
+      'Higley Park',
+      'San Tan Ranch',
+      'Coronado Ranch',
+      'Spectrum at Val Vista',
+      'Layton Lakes',
+      'Festival Fields',
+      'Trilogy at Power Ranch',
+      'Bel Air Heights',
+    ],
+    nearbyCities: [
+      'Chandler',
+      'Mesa',
+      'Tempe',
+      'Queen Creek',
+      'San Tan Valley',
+      'Scottsdale',
+      'Phoenix',
+      'Ahwatukee',
+      'Maricopa',
+      'Gold Canyon',
+      'Apache Junction',
+      'Sun Lakes',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Gilbert?',
+        answer:
+          'A 10-yard container in Gilbert typically runs $270–$470 per week. A 20-yard is usually $370–$640. A 30-yard — which covers most full-home cleanouts and larger renovation projects — ranges $440–$770. Those are honest base estimates. Ask for the all-in number including fuel and disposal fees before you book.',
+      },
+      {
+        question: 'What size dumpster do I need for a Gilbert home cleanout?',
+        answer:
+          'A 20-yard handles most single-family cleanouts in Gilbert. Homes in Power Ranch, Morrison Ranch, or Val Vista Lakes with three-car garages and separate storage often run heavier. If you are clearing an estate or a home that has been lived in for 20-plus years, size up to a 30-yard.',
+      },
+      {
+        question: 'Can I get a dumpster for tile roofing debris in Gilbert?',
+        answer:
+          'Yes. Concrete tile — the standard roofing material across Gilbert — is significantly heavier than asphalt shingles. A full tile tear-off can exceed standard weight allowances before the container looks half full. Tell your provider you are hauling tile before booking so they set the right weight allowance.',
+      },
+      {
+        question: 'What about pool demolition or concrete debris in Gilbert?',
+        answer:
+          'Pool fills and removals are a common project in Gilbert. A standard backyard pool generates two to four tons of concrete and rebar. Dense material fills weight limits at roughly half the container volume — confirm overage fees before the debris goes in. A 10-yard with a heavy-material allowance is typically the right call for pure concrete loads.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Gilbert?',
+        answer:
+          'Gilbert is well-covered by the greater Phoenix provider network. Same-day or next-day delivery is available from several companies in most Gilbert zip codes. Spring renovation season — February through May — runs busy. Book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Chandler, Mesa, and Queen Creek?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Gilbert and the full Southeast Valley, including Chandler, Mesa, Tempe, Queen Creek, San Tan Valley, and Scottsdale. Service also extends to Maricopa, Gold Canyon, and other Maricopa County communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Gilbert?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Gilbert market. If the project is running longer than planned, call ahead to extend — it is cheaper than a second pull.',
+      },
+      {
+        question: 'Do Gilbert HOAs restrict dumpster rentals?',
+        answer:
+          'Most do. Power Ranch, Morrison Ranch, Agritopia, Val Vista Lakes, and the majority of Gilbert planned communities have HOA rules that apply to container placement. Some require written approval before delivery, others require the container be placed inside the garage or screened from the street. Confirm requirements before scheduling — finding out at delivery creates problems.',
+      },
+      {
+        question: 'Are there items I cannot put in a Gilbert dumpster?',
+        answer:
+          'Paint, solvents, motor oil, propane tanks, batteries, tires, appliances with refrigerants, and hazardous waste are not accepted in standard roll-off containers. Some providers also restrict mattresses and electronics. Green waste and decomposed granite are not accepted at all facilities — confirm acceptance before loading desert landscaping debris.',
+      },
+      {
+        question: 'Can I put oleander and palm debris in a Gilbert dumpster?',
+        answer:
+          'That depends on your provider. Green waste — oleander, palm fronds, tree limbs — is not accepted at all solid waste facilities, and some roll-off providers do not accept it in standard containers. Decomposed granite is heavy and accepted by most, but it counts toward your weight allowance quickly. Confirm your provider accepts the specific debris type before filling the bin.',
+      },
+    ],
+    latitude: 33.3528,
+    longitude: -111.7890,
+  },
+
+  // ─── MOORE ────────────────────────────────────────────────────
+  {
+    slug: 'moore-ok-dumpster-rental',
+    cityName: 'Moore',
+    stateName: 'Oklahoma',
+    stateAbbr: 'OK',
+    metaTitle: 'Dumpster Rental Moore, OK | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Moore dumpster rental for storm cleanup, home cleanouts, roofing tear-offs, and construction debris. Serving Moore and the OKC south metro in Cleveland County.',
+    primaryKeyword: 'moore dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental moore ok',
+      'moore construction dumpster rental',
+      'roll off dumpster moore',
+      'roll off dumpster moore ok',
+      'rolloff dumpsters moore',
+      'roll offs moore ok',
+      '10 yard dumpster rental moore',
+      '20 yard dumpster rental moore',
+      '30 yard dumpster rental moore',
+    ],
+    heroH1: 'Dumpster Rental in Moore, Oklahoma',
+    heroSubheadline:
+      'Roll-off containers for storm cleanup, home cleanouts, roofing tear-offs, and renovation debris across Moore and the OKC south metro in Cleveland County.',
+    introParagraphs: [
+      "Moore sits on I-35 directly south of Oklahoma City, in Cleveland County between OKC and Norman. Most of the city's housing stock is suburban single-family construction from the 1960s through the 1990s — ranch homes and traditional two-stories on flat residential lots. That older housing generates steady renovation demand: kitchens, bathrooms, flooring, and roofing are the active categories. The Sunnylane corridor and Colonial Heights carry a concentration of mid-century homes that produce consistent flip and cleanout volume.",
+      'Moore has been struck by more destructive tornadoes than almost any comparable city in the United States. The 1999 and 2013 events were both EF5 storms. The 2013 tornado destroyed over 1,100 homes and damaged thousands more across the Plaza Towers and Briarwood corridors. Rebuilding following major tornado events generates the most concentrated dumpster demand of any single event type. During severe weather season — April through June — provider capacity across the OKC south metro can tighten quickly after a significant strike.',
+      'Rolloff Dumpster Finder connects Moore customers with the OKC metro provider network that also serves Norman, Midwest City, and south Oklahoma City. Most Moore addresses have same-day or next-day availability under normal conditions. After a tornado or major storm event, booking early is not a sales pitch — it is practical scheduling. We show weight limits and what the base rate includes before you book.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanouts, small bathroom remodels, garage purge, light storm debris.',
+        range: '$250–$420 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium home cleanouts, deck removal, roofing on smaller structures.',
+        range: '$290–$470 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanouts, estate cleanouts, residential roof tear-offs, kitchen gut renovations.',
+        range: '$320–$550 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large estate cleanouts, storm structural debris, new construction waste, commercial roofing.',
+        range: '$400–$700 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major storm debris removal, commercial demolition, large construction projects, multi-home cleanup.',
+        range: '$550–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Moore's established subdivisions — Colonial Heights, Sunnylane, and Country Club Estates — carry a concentration of 1960s through 1990s homes that generate steady cleanout and flip volume. A full single-family cleanout in Moore typically fills a 20-yard container. Properties with storm shelters, detached garages, or outbuildings often run heavier than the initial estimate.",
+      },
+      {
+        number: '02',
+        name: 'Storm & Tornado Cleanup',
+        description:
+          "Moore has been struck by major tornadoes in 1999, 2003, 2010, and 2013 — more significant tornado impacts than almost any other city of comparable size in the country. Post-tornado cleanup involves structural debris, roofing, siding, fencing, and damaged furnishings. The 2013 EF5 event required 30- and 40-yard containers for the heaviest structural loads. A 20- to 30-yard handles most residential storm cleanup.",
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          'The OKC south corridor sees consistent hail activity through the spring severe weather season, and asphalt shingle replacements are a regular project type in Moore. A 20-yard handles most residential tear-offs. After a hail event that covers a neighborhood, provider availability in Moore tightens — book early when damage is widespread.',
+      },
+      {
+        number: '04',
+        name: 'Post-Storm Rebuild Debris',
+        description:
+          'Rebuilding after tornado or major storm damage generates a different debris mix than initial cleanup — framing lumber, drywall, insulation, and construction waste from the reconstruction. That material typically needs a 20- to 30-yard container. The Plaza Towers and Briarwood corridors saw extensive new construction following 2013, and that rebuild cycle continues.',
+      },
+      {
+        number: '05',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Moore's older ranch homes and 1980s subdivisions are generating consistent kitchen and bathroom renovation volume as original finishes reach the end of their useful life. Tile, cabinetry, drywall, and flooring from a full gut typically fill a 10- to 15-yard container. Stone counters and tile floors add weight quickly — confirm weight limits before loading.",
+      },
+      {
+        number: '06',
+        name: 'Garage & Safe Room Cleanouts',
+        description:
+          "Most Moore homes do not have basements, but above-ground safe rooms and detached garages accumulate storage over time. Safe room cleanouts combined with a full garage purge typically fill a 10- to 15-yard container. Properties with storm cellars, detached workshops, or carports add volume that first-time estimates often miss.",
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          "Moore's original subdivisions from the 1960s and 1970s are producing consistent estate cleanout volume as long-term residents downsize or properties transition. A three-bedroom home occupied for decades typically needs a 20-yard container. Homes with detached garages, shops, or storm cellar storage often push into 30-yard territory once everything is counted.",
+      },
+      {
+        number: '08',
+        name: 'Construction Debris',
+        description:
+          'New residential construction continues in south Moore and the Steelman Farms corridor. Framing, drywall, and finish debris from new builds typically need a 20- to 30-yard container. The OKC south metro provider network serves Moore with lead times generally in the 24–48 hour range under normal conditions.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Storm debris cleanup after hail and wind events generates significant yard waste across Moore — tree limbs, broken fencing, damaged landscaping, and wind-driven material. Confirm your provider accepts green waste before loading yard debris. A 10-yard handles most single-property post-storm yard cleanups.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Moore depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      "Driveway placement is the most common setup in Moore. Most suburban lots have flat driveways with adequate clearance for standard roll-off delivery. Confirm your driveway surface and dimensions with your provider at booking.",
+      'Street placement in Moore requires a right-of-way permit from the City of Moore. Contact Moore Community Development for permit requirements before scheduling any street-side delivery.',
+      'After a tornado or major storm event, confirm road access in your area before scheduling delivery or pickup. Storm damage can affect street access in affected neighborhoods.',
+      'Safe room and storm cellar installations in driveways or near the garage can restrict placement options. Measure available clearance before your delivery date — the container needs about 22 feet of horizontal space.',
+      'Moore neighborhoods do not typically have alley infrastructure. Most container placements are driveway or front-yard based.',
+      'If your project is storm insurance-related, confirm with your adjuster whether container costs are covered and what documentation the provider needs before the haul.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Colonial Heights',
+      'Sunnylane',
+      'Country Club Estates',
+      'Westmoore',
+      'Plaza Towers',
+      'Timber Ridge',
+      'Ridgewood',
+      'Steelman Farms',
+      'Indian Creek',
+      'Heatherstone',
+      'Oakridge',
+      'University Heights',
+      'North Moore',
+    ],
+    nearbyCities: [
+      'Oklahoma City',
+      'Norman',
+      'Midwest City',
+      'Del City',
+      'Mustang',
+      'Newcastle',
+      'Blanchard',
+      'Yukon',
+      'Edmond',
+      'Choctaw',
+      'Tuttle',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Moore?',
+        answer:
+          'A 10-yard container in Moore typically runs $250–$420 per week. A 20-yard is usually $320–$550. Moore is served by the OKC metro provider network, so pricing is in line with the broader south metro. Get an itemized quote — fuel surcharges and disposal fees are sometimes listed separately from the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for a Moore home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in Moore. Properties with a detached garage, workshop, or storm shelter storage often push into 30-yard territory once everything is counted. For a single-room cleanout or light garage purge, a 10-yard is usually enough.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Moore?',
+        answer:
+          'Yes. Asphalt shingle roofing is standard across Moore, and hail damage from the OKC severe weather season drives consistent replacement volume. A 20-yard handles most residential tear-offs. After a widespread hail event, provider availability in Moore tightens — book early after storm damage.',
+      },
+      {
+        question: 'What size dumpster do I need for tornado or storm cleanup in Moore?',
+        answer:
+          'For residential storm cleanup — roofing, siding, fencing, and furnishings — a 20-yard is the most common size. Homes with structural damage where framing material is included typically need a 30-yard. For multi-property or large-scale storm events, a 40-yard may be warranted. Provider availability across the OKC south metro compresses quickly after a major event — call early.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Moore?',
+        answer:
+          'Most providers serving Moore accept concrete and soil in a standard roll-off. Weight limits are the constraint — dense material hits the limit before the bin fills. A 10-yard loaded with concrete typically maxes out at one to two tons. Confirm the specific weight allowance before loading anything heavy.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Moore?',
+        answer:
+          "Most providers serving Moore can deliver within 24–48 hours under normal conditions. Moore uses the same OKC metro provider network as Norman and Midwest City. After a significant tornado or storm event, lead times across the south metro can extend — book as early as possible after damage.",
+      },
+      {
+        question: 'Do you serve nearby cities like Norman, Midwest City, and Oklahoma City?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Moore and the full OKC south metro, including Norman, Midwest City, Del City, Mustang, Newcastle, and south Oklahoma City. Service extends to other Cleveland County and Pinal County communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a rental dumpster in Moore?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Extensions are usually available at $5–$15 per day. Storm cleanup and post-tornado rebuild projects often run longer than a standard rental period — confirm extension terms at booking before you start loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Moore?',
+        answer:
+          'Street placement in Moore requires a right-of-way permit from the City of Moore. Private driveway placement on your own property does not typically require a permit. Your provider can usually coordinate the street permit for a fee.',
+      },
+      {
+        question: "What items can't I put in a Moore dumpster?",
+        answer:
+          'Hazardous materials are not accepted in standard roll-offs: paint, solvents, motor oil, batteries, propane tanks, and tires are prohibited at most providers. Appliances with refrigerants and asbestos-containing materials from older homes also require separate handling. Ask for the restricted items list before loading — violations result in additional charges.',
+      },
+    ],
+    latitude: 35.3395,
+    longitude: -97.4867,
+  },
+
+  // ─── LOVELAND ─────────────────────────────────────────────────
+  {
+    slug: 'loveland-co-dumpster-rental',
+    cityName: 'Loveland',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Loveland, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Loveland dumpster rental for home cleanouts, roofing tear-offs, construction debris, and landscaping. Compare container sizes and pricing across Larimer County.',
+    primaryKeyword: 'loveland dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental loveland co',
+      'loveland construction dumpster rental',
+      'roll off dumpster loveland',
+      'roll off dumpster loveland co',
+      'rolloff dumpsters loveland',
+      'roll offs loveland co',
+      '10 yard dumpster rental loveland',
+      '20 yard dumpster rental loveland',
+      '30 yard dumpster rental loveland',
+      'roofing dumpster loveland',
+      'residential dumpster rental loveland',
+    ],
+    heroH1: 'Dumpster Rental in Loveland, Colorado',
+    heroSubheadline:
+      'Find roll-off dumpster rental options for home cleanouts, roofing tear-offs, construction debris, and landscaping projects in Loveland and across Larimer County.',
+    introParagraphs: [
+      "Loveland has a split housing market. Downtown and the Westside carry homes from the 1920s through the 1960s — older craftsman bungalows, ranch homes, and split-levels that have gone decades without major renovation. Those neighborhoods generate steady estate cleanout and remodel volume, particularly as long-term owners age out. The Sunrise and Lake Loveland areas represent a second tier from the 1970s and 1980s, now producing consistent kitchen and bathroom renovation demand as original finishes reach the end of their useful life.",
+      'Larimer County sits in the Front Range hail corridor, and Loveland sees the same roofing replacement cycle that hits Fort Collins every active spring and summer. The Centerra corridor on the east side has grown significantly since 2000 and continues producing new residential and commercial construction debris. The US-34 corridor — Loveland\'s connection west to Rocky Mountain National Park through the Big Thompson Canyon — also connects to rural properties and Estes Park-adjacent vacation homes that generate periodic cleanup and renovation demand.',
+      'Rolloff Dumpster Finder covers Loveland and the broader Larimer County area — Fort Collins, Windsor, Berthoud, and the corridor south toward Johnstown and Longmont. Most Loveland addresses have 24–48 hour delivery availability from the same provider network that serves Fort Collins. We show weight limits and what the base rate includes before you book. If the invoice does not match the quote, give us a call.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small garage or room cleanout, minor bathroom remodel, yard waste, light construction debris.',
+        range: '$280–$490 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and turf debris.',
+        range: '$320–$550 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodel, roofing tear-off, full-home cleanout, basement and garage debris.',
+        range: '$380–$660 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris.',
+        range: '$450–$790 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout.',
+        range: '$590–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Loveland's Downtown and Westside carry a concentration of 1920s through 1960s homes that generate consistent cleanout and flip volume. Long-term ownership in these neighborhoods means a full-home cleanout often runs heavier than the initial estimate. A 20-yard handles most single-family cleanouts; properties with detached garages and full basements often need a 30-yard.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Larimer County sees consistent hail from late spring through early fall, and Loveland gets the same replacement cycle as Fort Collins. A 20-yard handles most residential asphalt shingle tear-offs. Confirm the weight limit with your provider before booking — shingles are dense, and a full residential roof approaches the standard weight allowance quickly.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "The Centerra corridor on Loveland's east side near I-25 has been one of Northern Colorado's most active development areas for two decades. New residential builds, commercial construction, and mixed-use development generate consistent C&D waste. A 20- to 30-yard handles most job-site debris loads in the Centerra and surrounding growth areas.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "The 1970s and 1980s neighborhoods in Sunrise, Lake Loveland, and the Boise-Centennial corridor are past their first renovation wave and generating steady kitchen and bathroom demand. Tile, cabinetry, and drywall from a full kitchen gut typically fill a 10- to 15-yard container. Stone counters and tile floors add weight faster than volume suggests.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Loveland homes commonly have full basements, unlike many Colorado mountain or desert markets. A finished basement combined with a single-car garage cleanout typically fills a 15-yard container. Older homes in the Downtown and Westside neighborhoods often have detached garages with decades of stored material — a 10-yard handles most stand-alone garage cleanouts.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Loveland has a significant long-term resident population. Homes in the Lake Loveland and Westside neighborhoods that have been owner-occupied since the 1960s or 1970s generate above-average estate volume when ownership transitions. A 20-yard handles most full-home estate cleanouts; properties with outbuildings or large garages often need a 30-yard.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Water restrictions and interest in xeriscape have made turf removal a regular project across Front Range Colorado, and Loveland is no exception. A 10- to 15-yard handles most residential grass-to-rock conversions. Mature tree trimming and full shrub removal from older Westside properties add volume quickly.',
+      },
+      {
+        number: '08',
+        name: 'Deck & Fence Removal',
+        description:
+          "Loveland homeowners invest in outdoor living, and older wood decks and privacy fences in the Mariana Butte and Hunters Run neighborhoods are a regular teardown project. A 20-yard handles most deck removals. If concrete footings come out, confirm weight limits — footings push against the standard weight allowance faster than most people expect.",
+      },
+      {
+        number: '09',
+        name: 'Vacation Property Cleanouts',
+        description:
+          "Loveland sits at the eastern end of the US-34 corridor to Estes Park and Rocky Mountain National Park. Property owners with vacation homes in the foothills and canyon communities west of Loveland occasionally stage cleanout or renovation debris in town for container pickup. Confirm delivery logistics with your provider when the project site is up-canyon.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Loveland depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Loveland and avoids permit requirements on private property. Confirm driveway length, surface, and overhead clearance with your provider before scheduling.',
+      'Older Downtown and Westside neighborhoods have mature tree canopy and overhead utility lines. Confirm overhead clearance before delivery — a driver arriving to blocked access creates an avoidable delay.',
+      'Alley access exists in some older Loveland neighborhoods. Confirm alley width and overhead clearance before scheduling an alley delivery.',
+      'Street or right-of-way placement in Loveland requires a Right-of-Way Use Permit from the City of Loveland Engineering department. Private driveway placement does not typically require a permit.',
+      "Centerra-area and newer Loveland subdivisions are commonly HOA-governed. Confirm your association's approval process before scheduling delivery — some require pre-approval and restrict placement to inside the garage.",
+      'Homes in low-lying areas near the Big Thompson River may be in a floodplain designation. Soft or saturated ground can cause a loaded container to sink. Confirm ground conditions with your provider when placement is near drainage areas.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Loveland',
+      'Westside',
+      'Sunrise',
+      'Lake Loveland',
+      'Centerra',
+      'Mariana Butte',
+      'Hunters Run',
+      'Boise-Centennial',
+      'Alford Meadows',
+      'Kings Crossing',
+      'The Preserve at Mariana Butte',
+      'Clydesdale Park',
+      'River Crossing',
+      'Eagle Brook Meadows',
+    ],
+    nearbyCities: [
+      'Fort Collins',
+      'Windsor',
+      'Berthoud',
+      'Johnstown',
+      'Greeley',
+      'Longmont',
+      'Estes Park',
+      'Timnath',
+      'Milliken',
+      'Mead',
+      'Evans',
+      'Wellington',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Loveland?',
+        answer:
+          'A 10-yard container in Loveland typically runs $280–$490 per week. A 20-yard is usually $380–$660. Loveland uses the same Larimer County provider network as Fort Collins, so pricing is generally in line with the northern Front Range market. Get an itemized quote — fuel surcharges and disposal fees are sometimes listed separately from the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for a Loveland home cleanout?',
+        answer:
+          'A 20-yard handles most single-family cleanouts in Loveland. Older Downtown and Westside homes with full basements and detached garages often push into 30-yard territory once everything is counted. For a single-room or garage-only cleanout, a 10-yard is usually enough.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Loveland?',
+        answer:
+          'Yes. Larimer County sees consistent hail from late spring through early fall, and Loveland gets steady roofing replacement demand because of it. A 20-yard handles most residential asphalt shingle tear-offs. Shingles are heavy — confirm the weight allowance before booking.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Loveland?',
+        answer:
+          'Most providers serving Loveland accept concrete and soil in a standard roll-off. Weight limits are the constraint — dense material hits them before the bin fills. A 10-yard loaded with concrete typically maxes out at one to two tons. Confirm the specific weight allowance before loading anything heavy.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Loveland?',
+        answer:
+          'Most Loveland addresses have same-day or next-day delivery available from the Fort Collins-Loveland provider network. Hail season — typically late April through September — runs busy for roofing containers. Book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Fort Collins, Windsor, and Berthoud?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Loveland and the surrounding Larimer County area, including Fort Collins, Windsor, Berthoud, Johnstown, and the corridor south toward Longmont. Service also extends to Estes Park and the US-34 canyon corridor.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Loveland?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates in the Loveland market typically run $5–$15 per day. Estate cleanouts and renovation projects often run longer than the standard period — confirm extension terms before you start loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Loveland?',
+        answer:
+          'Street placement requires a Right-of-Way Use Permit from the City of Loveland Engineering department. Private driveway placement on your own property does not typically require a permit. Your provider can usually coordinate the street permit for a fee.',
+      },
+      {
+        question: 'Are there items I cannot put in a Loveland dumpster?',
+        answer:
+          'Hazardous materials are not accepted in standard roll-offs: paint, solvents, motor oil, batteries, propane tanks, tires, and appliances with refrigerants are prohibited at most providers. Asbestos-containing materials in older Loveland homes also require separate handling. Ask for the restricted items list before loading — violations result in additional charges.',
+      },
+      {
+        question: 'Can I rent a dumpster for a project near the Big Thompson Canyon or Estes Park?',
+        answer:
+          'Yes, with some planning. Loveland-area providers can often deliver to canyon and foothills properties west of the city, but access limitations, road width, and property setbacks vary by location. Confirm delivery conditions and any access restrictions with your provider before scheduling — canyon roads are not always accessible for standard roll-off trucks.',
+      },
+    ],
+    latitude: 40.3978,
+    longitude: -105.0753,
+  },
+
+  // ─── LONGMONT ─────────────────────────────────────────────────
+  {
+    slug: 'longmont-co-dumpster-rental',
+    cityName: 'Longmont',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Dumpster Rental Longmont, CO | Roll-Off Dumpster Finder',
+    metaDescription:
+      'Longmont dumpster rental for home cleanouts, roofing tear-offs, construction debris, and renovation projects. Serving Longmont and Boulder County.',
+    primaryKeyword: 'longmont dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental longmont co',
+      'longmont construction dumpster rental',
+      'roll off dumpster longmont',
+      'roll off dumpster longmont co',
+      'rolloff dumpsters longmont',
+      'roll offs longmont co',
+      '10 yard dumpster rental longmont',
+      '20 yard dumpster rental longmont',
+      '30 yard dumpster rental longmont',
+      'roofing dumpster longmont',
+      'residential dumpster rental longmont',
+    ],
+    heroH1: 'Dumpster Rental in Longmont, Colorado',
+    heroSubheadline:
+      'Find roll-off dumpster rental options for home cleanouts, roofing tear-offs, construction debris, and renovation projects in Longmont and across Boulder County.',
+    introParagraphs: [
+      "Longmont carries more housing history than its east-of-Boulder location suggests. Old Town has homes from the 1880s and 1890s — Victorian cottages, brick bungalows, and Craftsman houses that generate consistent renovation and estate cleanout volume as they change hands. The mid-century neighborhoods west of Main Street — Garden Acres, Sunset, and the flatblock suburban streets from the 1950s and 1960s — are on their second and third renovation cycles. That combination of historic core and aging suburbs keeps dumpster demand in Longmont steady year-round.",
+      'In September 2013, flooding along the St. Vrain Creek caused severe damage across Longmont and Boulder County — one of the costliest flood events in Colorado history. The rebuilding and property improvements that followed changed the character of parts of the city, and some properties are still completing long-term renovation work. Longmont also sits in the Front Range hail corridor, producing consistent asphalt shingle replacement demand each spring and summer. Active new residential construction in the Twin Peaks and northeast Longmont corridors adds a construction debris component on top of the renovation volume.',
+      'Rolloff Dumpster Finder covers Longmont and the surrounding Boulder County area — Boulder, Loveland, Berthoud, Erie, and the Lafayette-Louisville corridor. Most Longmont addresses have 24–48 hour delivery availability from the same provider network serving Boulder and the Northern Front Range. We show weight limits and what the base rate includes before you book. If the invoice does not match the quote, give us a call.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small garage or room cleanout, minor bathroom remodel, yard waste, light construction debris.',
+        range: '$280–$490 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and turf debris.',
+        range: '$320–$550 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanout, roofing tear-off, kitchen remodel, basement and garage debris.',
+        range: '$380–$660 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris.',
+        range: '$450–$790 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout.',
+        range: '$580–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Old Town Longmont carries Victorian and Craftsman housing from the 1880s through the 1920s that generates above-average estate and renovation cleanout volume. A full cleanout of a 3-bedroom Old Town home typically needs a 20-yard container. Properties with detached garages and full basements — common in the older city core — often run heavier than the initial estimate.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Longmont sits in the Front Range hail corridor and sees consistent asphalt shingle replacement demand from late spring through early fall. A 20-yard handles most residential tear-offs. After a widespread hail event across Boulder County, provider availability tightens — book early when damage is across multiple neighborhoods.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'New residential construction in the Twin Peaks and northeast Longmont growth corridors generates consistent C&D waste. Infill development — ADU additions, garage conversions, and lot redevelopments — in the older city core also produces framing and finish debris. A 20- to 30-yard handles most residential new-build waste.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "The Garden Acres and Sunset neighborhoods carry a concentration of 1950s and 1960s homes where kitchens and bathrooms are on their first or second full renovation. Tile, cabinetry, and drywall from a mid-size gut typically fill a 10- to 15-yard container. Stone counters and tile floors add weight quickly — confirm allowances before loading.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'Full basements are common in Longmont homes, unlike many Colorado mountain or Western Slope markets. Older homes in the Old Town and Sunset corridors often have both a finished basement and a detached garage — that combination typically fills a 15- to 20-yard container. Stand-alone garage cleanouts usually fit a 10-yard.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "Longmont's older neighborhoods have a significant long-term resident population, and estate volume is steady as properties from the mid-century era change hands. A 3-bedroom home occupied for several decades typically needs a 20-yard container. Properties with detached workshops or large storage buildings often push the estimate into 30-yard territory.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "Water conservation and xeriscape interest have made turf removal a regular project across Boulder County, and Longmont is no exception. Front-and-back grass-to-rock conversions typically fill a 10- to 15-yard container. Mature trees in Old Town and the older Sunset neighborhoods add significant branch and debris volume after trimming.",
+      },
+      {
+        number: '08',
+        name: 'Flood & Storm Cleanup',
+        description:
+          'The 2013 St. Vrain Creek flooding affected properties across Longmont and Boulder County. Ongoing improvements and insurance-related repairs from that event have generated dumpster demand for years. Standard spring hail and wind events add roofing and yard debris as recurring smaller-scale cleanup projects each season.',
+      },
+      {
+        number: '09',
+        name: 'Deck & Fence Removal',
+        description:
+          'Older homes in Longmont commonly have wood decks and privacy fences that reach the end of their useful life after 20–30 years. A 20-yard handles most deck removal loads. Concrete footings from a deck or fence post removal push against standard weight limits quickly — confirm capacity before loading.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Longmont depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common option in Longmont and avoids permit requirements on private property. Confirm driveway length, surface, and overhead clearance with your provider before scheduling.',
+      'Old Town Longmont has alley access behind many properties. Confirm alley width, surface condition, and overhead clearance before scheduling an alley delivery — some Old Town alleys are narrow.',
+      'Older neighborhoods throughout Longmont have mature tree canopy and overhead utility lines. Confirm vertical clearance before the driver arrives.',
+      'Street or right-of-way placement in Longmont requires a permit from the City of Longmont Public Works department. Private driveway placement on your own property typically does not require a permit.',
+      'Newer subdivisions in northeast Longmont — Twin Peaks, Ute Creek, and surrounding growth areas — are commonly HOA-governed. Confirm your association approval process before scheduling delivery.',
+      'Properties near the St. Vrain Creek corridor or in low-lying areas may have soft or seasonally saturated ground. A loaded container on wet ground can sink and create a retrieval complication — confirm conditions with your provider if placement is near drainage areas.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Old Town',
+      'Garden Acres',
+      'Sunset',
+      'Fox Hill',
+      'Mountain Brook',
+      'Northridge',
+      'Twin Peaks',
+      'Ute Creek',
+      'Prairie Village',
+      'Prospect New Town',
+      'Clover Creek',
+      'Renaissance',
+      'Quail Estates',
+      'East Longmont',
+    ],
+    nearbyCities: [
+      'Boulder',
+      'Loveland',
+      'Erie',
+      'Berthoud',
+      'Lafayette',
+      'Louisville',
+      'Superior',
+      'Niwot',
+      'Lyons',
+      'Mead',
+      'Firestone',
+      'Frederick',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Longmont?',
+        answer:
+          'A 10-yard container in Longmont typically runs $280–$490 per week. A 20-yard is usually $380–$660. Longmont is served by the same Boulder County and Northern Front Range provider network as Boulder and Loveland — pricing generally runs in line with the broader regional market. Get an itemized quote; fuel surcharges and disposal fees are sometimes listed separately.',
+      },
+      {
+        question: 'What size dumpster do I need for a Longmont home cleanout?',
+        answer:
+          'A 20-yard handles most single-family cleanouts in Longmont. Older Old Town homes with full basements and detached garages often push into 30-yard territory. For a single-room or garage-only cleanout, a 10-yard is usually enough.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Longmont?',
+        answer:
+          'Yes. Longmont sits in the Front Range hail corridor and sees consistent shingle replacement demand each spring and summer. A 20-yard handles most residential asphalt tear-offs. Confirm the weight allowance with your provider before booking — shingles are dense and a full residential roof approaches the standard limit quickly.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Longmont?',
+        answer:
+          'Most providers serving Longmont accept concrete and soil in a standard roll-off. Weight limits are the constraint — dense material hits them before the bin fills. A 10-yard loaded with concrete typically maxes out at one to two tons. Confirm the specific weight allowance before loading anything heavy.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in Longmont?',
+        answer:
+          'Most Longmont addresses have same-day or next-day delivery available from the Boulder-Longmont provider network. Hail season — late April through September — keeps roofing containers in demand. Book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Boulder, Erie, and Lafayette?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Longmont and the surrounding Boulder County area, including Boulder, Loveland, Erie, Lafayette, Louisville, and Berthoud. Service also extends to Superior, Niwot, and other Boulder County communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Longmont?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates in the Longmont market typically run $5–$15 per day. Estate cleanouts and renovation projects often run longer than the standard period — confirm extension terms before you start loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in Longmont?',
+        answer:
+          'Street placement requires a permit from the City of Longmont Public Works department. Private driveway placement on your own property does not typically require a permit. Your provider can usually coordinate the street permit for a fee.',
+      },
+      {
+        question: 'Are there items I cannot put in a Longmont dumpster?',
+        answer:
+          'Hazardous materials are not accepted in standard roll-offs: paint, solvents, motor oil, batteries, propane tanks, tires, and appliances with refrigerants are prohibited at most providers. Asbestos-containing materials in older Longmont homes require separate handling. Ask for the restricted items list before loading — violations result in additional charges.',
+      },
+      {
+        question: 'Can I get a dumpster for flood damage cleanup or post-storm debris in Longmont?',
+        answer:
+          'Yes. Longmont has a history of significant flood and storm events, and cleanup projects following water damage or hail are a common container use in the area. For flood-related projects, confirm with your insurer whether container costs are covered before booking. If street access is affected by storm damage, confirm road conditions with your provider before scheduling delivery.',
+      },
+    ],
+    latitude: 40.1672,
+    longitude: -105.1019,
+  },
+
+  // ─── WEST JORDAN ──────────────────────────────────────────────
+  {
+    slug: 'west-jordan-ut-dumpster-rental',
+    cityName: 'West Jordan',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'Dumpster Rental West Jordan, UT | Roll-Off Dumpster Finder',
+    metaDescription:
+      'West Jordan dumpster rental for home cleanouts, roofing tear-offs, construction debris, and basement cleanouts. Serving West Jordan and the south Salt Lake Valley.',
+    primaryKeyword: 'west jordan dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental west jordan ut',
+      'west jordan construction dumpster rental',
+      'roll off dumpster west jordan',
+      'roll off dumpster west jordan ut',
+      'rolloff dumpsters west jordan',
+      'roll offs west jordan ut',
+      '10 yard dumpster rental west jordan',
+      '20 yard dumpster rental west jordan',
+      '30 yard dumpster rental west jordan',
+    ],
+    heroH1: 'Dumpster Rental in West Jordan, Utah',
+    heroSubheadline:
+      'Roll-off containers for home cleanouts, roofing tear-offs, construction debris, and basement cleanouts across West Jordan and the south Salt Lake Valley.',
+    introParagraphs: [
+      "West Jordan is one of Utah's largest cities, and most of it was built between 1980 and 2005 — a suburban expansion wave that filled the Salt Lake Valley south of West Valley City with ranch homes, two-stories, and larger family houses. That housing is now 20 to 40 years old and generating a consistent first renovation cycle. Kitchens from the early 1990s, bathrooms with original tile, and roofs that predate the 2010s are the active categories across the Bingham Creek and Copper Hills areas.",
+      "Utah homes commonly have full basements, and West Jordan is no exception. A 3-bedroom home with a finished basement and a two-car garage here can fill a 20-yard container where the same footprint elsewhere might need a 15. That volume dynamic applies equally to estate cleanouts in the city's older 1980s subdivisions. The Bangerter Highway corridor along West Jordan's western edge also generates steady commercial renovation demand from the warehousing and light industrial operations in that zone.",
+      'Rolloff Dumpster Finder serves West Jordan and the south Salt Lake Valley — Sandy, South Jordan, Riverton, Herriman, Taylorsville, and Midvale. Most West Jordan addresses have same-day or next-day delivery from the Salt Lake Valley provider network. The terrain is flat throughout most of the city and truck access is generally straightforward. We show weight limits and what the base rate includes before you book.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanout, single-room remodel, light roofing debris, yard and landscaping waste.',
+        range: '$255–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and yard waste.',
+        range: '$295–$490 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanout, roofing tear-off, kitchen remodel, basement and garage debris.',
+        range: '$355–$595 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, commercial buildout cleanup, mixed C&D debris.',
+        range: '$425–$730 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial or industrial cleanup, large demolition, major renovation, multi-unit cleanout.',
+        range: '$530–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "West Jordan's 1980s and 1990s housing stock is generating its first full wave of cleanout and estate volume as original owners age out or properties change hands. A full single-family cleanout in the Bingham Creek or Jordan Hills area typically fills a 20-yard container. Homes with finished basements — standard in Utah construction — often push the estimate into 30-yard territory once everything is counted.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Asphalt shingles on homes from the 1980s and 1990s across West Jordan are reaching end of life. A full residential tear-off fills a 20-yard container. Shingles run heavier than most homeowners expect — confirm the weight allowance before loading rather than after the truck comes back from the scale.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          "New residential construction continues in West Jordan's southern growth corridors. Commercial tenant improvements and renovation projects along the Bangerter Highway also generate steady C&D debris. Framing, drywall, and mixed construction waste from new builds typically require a 20- to 30-yard container.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "West Jordan homes from the 1980s and early 1990s are going through first kitchen and bathroom gut jobs as buyers update interiors. Cabinets, tile, countertops, and plumbing fixtures from a single kitchen typically fill a 10- to 15-yard container. Running both kitchen and bath at once usually needs a 20-yard.",
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "Utah homes have some of the largest basement-to-footprint ratios in the country, and West Jordan properties are no exception. A basement-and-garage clearance on a mid-sized West Jordan home regularly fills a 20-yard container. Homes that haven't been cleared in 30 or 40 years, particularly those with attached workshops, can push toward a 30-yard.",
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          "The original homeowners from West Jordan's 1980s and 1990s development wave are producing consistent estate cleanout volume. Larger Utah family households accumulate more material than the national average, and a full estate in the Copperview or Oquirrh Highlands area typically needs a 20-yard container. Properties with RV parking pads or large detached garages often push into 30-yard territory.",
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Water conservation and drought-tolerant landscaping conversions are increasingly common across the Salt Lake Valley, and West Jordan homeowners are making the switch. Front-and-back sod removal typically fills a 10- to 15-yard container. Mature tree trimming and shrub removal after years without maintenance add significant volume.',
+      },
+      {
+        number: '08',
+        name: 'Commercial Renovation',
+        description:
+          'West Jordan carries a meaningful commercial and light industrial footprint along the Bangerter Highway corridor. Facility maintenance, warehouse buildouts, and periodic site cleanups at commercial properties typically require a 30- to 40-yard container. Confirm weight allowances when the load includes concrete, masonry, or heavy commercial materials.',
+      },
+      {
+        number: '09',
+        name: 'Deck & Fence Removal',
+        description:
+          "Older wood decks and privacy fences in West Jordan's established subdivisions are reaching the end of their usable life. A 20-yard handles most standard deck removal loads. Concrete footing removal pushes weight limits quickly — confirm capacity before loading if footings are part of the job.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in West Jordan depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Driveway placement is the most common setup in West Jordan — flat terrain and wide residential driveways make delivery straightforward in most neighborhoods.',
+      'Street placement in West Jordan requires a right-of-way permit from the City of West Jordan Public Works department. Private driveway placement on your own property typically does not require a permit.',
+      'Newer subdivisions in southern West Jordan and the Bangerter corridor area are commonly HOA-governed. Confirm your association approval process before scheduling delivery.',
+      'Homes near the Oquirrh Mountain foothills on the western edge of the city may have sloped driveways or access constraints. Confirm driveway grade with your provider before scheduling.',
+      'RV parking pads and extended driveways are common on larger West Jordan lots. Confirm the placement footprint with your provider — the container needs about 22 feet of clear horizontal space.',
+      'After heavy snowfall, confirm that the delivery area is clear before scheduling. A loaded container on an unsanded frozen driveway can shift.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Bingham Creek',
+      'Copper Hills',
+      'Copperview',
+      'Jordan Hills',
+      'Fox Hollow',
+      'Oquirrh Highlands',
+      'Welby',
+      'Heartland',
+      'West Hills',
+      'South Bingham',
+      'Jordan Crossing',
+      'Hunter Creek',
+      'TRAX Corridor',
+      'Bangerter Corridor',
+    ],
+    nearbyCities: [
+      'West Valley City',
+      'South Jordan',
+      'Sandy',
+      'Taylorsville',
+      'Riverton',
+      'Herriman',
+      'Midvale',
+      'Kearns',
+      'Murray',
+      'Salt Lake City',
+      'Magna',
+      'Draper',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in West Jordan?',
+        answer:
+          'A 10-yard container in West Jordan typically runs $255–$430 per week. A 20-yard is usually $355–$595. West Jordan is served by the Salt Lake Valley provider network, so pricing is in line with the broader south metro. Get an itemized quote — fuel surcharges and disposal fees are sometimes listed separately from the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for a West Jordan home cleanout?',
+        answer:
+          'A 20-yard handles most full-home cleanouts in West Jordan. Utah homes with finished basements and two-car garages run heavier than comparable homes in other markets — if the basement and garage are both part of the cleanout, a 30-yard is the safer call. A 10-yard is usually enough for a garage-only or single-room job.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in West Jordan?',
+        answer:
+          'Yes. Asphalt shingles on homes from the 1980s and 1990s across West Jordan are cycling out, and roofing replacements are a regular project type. A 20-yard handles most residential tear-offs. Confirm the weight allowance before booking — shingles are denser than they look.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in West Jordan?',
+        answer:
+          'Most providers serving West Jordan accept concrete and soil in a standard roll-off. Weight limits are the binding constraint — dense material hits them before the container fills. A 10-yard loaded with concrete typically maxes out at one to two tons. Confirm the specific weight allowance before loading heavy material.',
+      },
+      {
+        question: 'How quickly can I get dumpster delivery in West Jordan?',
+        answer:
+          'West Jordan is well-served by the Salt Lake Valley provider network. Same-day or next-day delivery is available from several companies in most West Jordan zip codes. Spring and summer renovation season runs busy — book a few days ahead when you can.',
+      },
+      {
+        question: 'Do you serve nearby cities like Sandy, South Jordan, and Herriman?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves West Jordan and the full south Salt Lake Valley, including Sandy, South Jordan, Riverton, Herriman, Taylorsville, and Midvale. Service also extends to Draper, Kearns, and other Salt Lake County communities within standard delivery range.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in West Jordan?',
+        answer:
+          'Standard rental periods run 7–10 days. Extension rates in the West Jordan market typically run $5–$15 per day. Estate cleanouts and renovation projects often take longer than the standard period — confirm extension terms at booking before you start loading.',
+      },
+      {
+        question: 'Do I need a permit to place a dumpster in West Jordan?',
+        answer:
+          'Street placement in West Jordan requires a right-of-way permit from the City of West Jordan Public Works department. Private driveway placement on your own property does not typically require a permit. Your provider can usually coordinate the street permit for a fee.',
+      },
+      {
+        question: 'Are there items I cannot put in a West Jordan dumpster?',
+        answer:
+          'Hazardous materials are not accepted in standard roll-offs: paint, solvents, motor oil, batteries, propane tanks, tires, and appliances with refrigerants are prohibited at most providers. Mattresses and electronics may also be restricted. Ask for the full restricted items list before loading — violations result in additional charges.',
+      },
+      {
+        question: 'Do Utah homes really need a larger dumpster than homes elsewhere?',
+        answer:
+          'Often, yes. Utah has one of the highest average household sizes in the country, and full basements are standard construction across the Salt Lake Valley. A cleanout that would fill a 15-yard container in most markets frequently fills a 20-yard in West Jordan. When sizing, account for the basement and the garage before committing to a container size.',
+      },
+    ],
+    latitude: 40.6097,
+    longitude: -111.9391,
+  },
 ]
