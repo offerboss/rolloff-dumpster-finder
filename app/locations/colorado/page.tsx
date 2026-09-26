@@ -255,6 +255,11 @@ const cityCards = [
     slug: 'almont-co-dumpster-rental',
     desc: 'Gunnison County community at the Taylor and Gunnison River confluence. Small-market roll-off rental for seasonal cabin cleanouts and rural renovation projects near Taylor Park reservoir.',
   },
+  {
+    city: 'Parker',
+    slug: 'parker-co-dumpster-rental',
+    desc: 'Douglas County suburb built out largely between 1995 and 2015 along the CO-83 and E-470 corridor. Stonegate, Canterberry Crossing, and Bradbury Ranch are hitting first renovation cycle — kitchen remodels, basement finishing, and roofing are the main drivers.',
+  },
 ]
 
 const projects = [

@@ -251,6 +251,20 @@ const resourceCards = [
       'A 20-yard dumpster runs $350–$590 in Pueblo, $380–$650 in Denver, and $435–$750 in mountain markets like Steamboat Springs. Here is what it costs across Colorado, what fits, and when to size up or down.',
     href: '/resources/20-yard-dumpster-rental-colorado',
   },
+  {
+    badge: 'Geo Guide',
+    title: 'Arizona Dumpster Rental Cost: Prices by Size and City',
+    excerpt:
+      'Phoenix Metro and the East Valley run $270–$470/week for a 10-yard container. Scottsdale, Tucson, Prescott, and Flagstaff each price differently. Here is the full Arizona breakdown by market and container size.',
+    href: '/resources/arizona-dumpster-rental-cost',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'Utah Dumpster Rental Cost: Prices by Size and City',
+    excerpt:
+      'Ogden runs $245–$410/week for a 10-yard — the lowest floor in Utah. Salt Lake City and Sandy run $260–$440. St. George runs $270–$460. Here is the full Utah breakdown by market and container size.',
+    href: '/resources/utah-dumpster-rental-cost',
+  },
 ]
 
 export default function ResourcesPage() {

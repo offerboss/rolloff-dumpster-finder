@@ -155,6 +155,11 @@ const cityCards = [
     slug: 'elgin-ok-dumpster-rental',
     desc: 'Comanche County bedroom community south of Lawton. Residential cleanouts, new construction debris, and renovation projects in a growing Southwest Oklahoma suburb.',
   },
+  {
+    city: 'Owasso',
+    slug: 'owasso-ok-dumpster-rental',
+    desc: 'North Tulsa metro suburb along the US-169 corridor. Most of the housing stock went in between 1990 and 2015 and is now hitting first renovation cycle — kitchens, bathrooms, and roofing across Bailey Ranch, Stone Canyon, and Preston Lakes.',
+  },
 ]
 
 const projects = [

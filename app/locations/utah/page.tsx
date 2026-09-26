@@ -135,6 +135,16 @@ const cityCards = [
     slug: 'st-george-ut-dumpster-rental',
     desc: "Washington County seat in Utah's Dixie. Fast-growing retirement and resort market with active new construction, home cleanouts, and renovation projects across southwestern Utah.",
   },
+  {
+    city: 'Draper',
+    slug: 'draper-ut-dumpster-rental',
+    desc: 'South Salt Lake Valley city at the Point of the Mountain. Mid-1990s to 2010s housing hitting first renovation cycle — basement finishing, roofing, and kitchen remodels across SunCrest, South Mountain, and Corner Canyon.',
+  },
+  {
+    city: 'South Jordan',
+    slug: 'south-jordan-ut-dumpster-rental',
+    desc: 'South Salt Lake Valley suburb anchored by Daybreak, one of Utah\'s largest master-planned communities. Larger homes with full basements and three-car garages — home cleanouts, basement finishing, and roofing are the primary drivers.',
+  },
 ]
 
 const projects = [
@@ -452,6 +462,20 @@ export default function UtahLocationsPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Utah cost guide callout */}
+      <section className="bg-[#F5F4F0] py-10 px-8">
+        <div className="max-w-[860px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4 rounded-sm border border-[#E8E4DE] bg-white p-6">
+          <div className="flex-1">
+            <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Pricing Guide</p>
+            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Utah Dumpster Rental Cost: Prices by Size and City</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">Ogden runs $245–$410/week for a 10-yard — the lowest typical floor in the state. Salt Lake City and Sandy run $260–$440. St. George runs $270–$460. Here is the full Utah breakdown by market and container size.</p>
+          </div>
+          <Link href="/resources/utah-dumpster-rental-cost" className="shrink-0 inline-block bg-orange text-black font-bold text-[13px] px-5 py-[10px] rounded-full hover:opacity-90 transition-opacity whitespace-nowrap">
+            See Pricing Guide →
+          </Link>
         </div>
       </section>
 

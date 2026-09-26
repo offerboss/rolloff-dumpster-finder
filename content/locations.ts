@@ -16522,4 +16522,1035 @@ export const cityLocations: CityLocation[] = [
     latitude: 40.6097,
     longitude: -111.9391,
   },
+
+  // ─── PARKER ───────────────────────────────────────────────
+  {
+    slug: 'parker-co-dumpster-rental',
+    cityName: 'Parker',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Parker CO Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Roll-off dumpster rental in Parker, CO for home cleanouts, roofing, remodeling, and construction debris. Compare sizes and local pricing in Douglas County.',
+    primaryKeyword: 'parker dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Parker CO',
+      'Parker construction dumpster rental',
+      'roll off dumpster Parker',
+      'roll off dumpster rental Parker CO',
+      'Parker roll off dumpster rental',
+      'rolloff dumpsters Parker',
+      'roll offs Parker CO',
+      '10 yard dumpster rental Parker',
+      '20 yard dumpster rental Parker',
+      '30 yard dumpster rental Parker',
+    ],
+    heroH1: 'Dumpster Rental in Parker, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, basement finishing, roofing tear-offs, kitchen and bath remodels, and construction debris across Parker and Douglas County.',
+    introParagraphs: [
+      "Parker built out fast — most of the residential stock came up between 1995 and 2015 during Douglas County's expansion south of the E-470 beltway. Stonegate, Canterberry Crossing, Bradbury Ranch, and Stepping Stone all went in during that window. That puts a large share of Parker's housing at 15 to 25 years old now, which is exactly when kitchen and bath remodels, basement finishing, roofing replacements, and first-generation flooring updates start stacking up. (The appliances from 1999 have a look about them. The tile too.)",
+      "Parker sits along the CO-83 corridor and the E-470 beltway on the eastern edge of the Denver metro. Roll-off delivery is straightforward for most Parker addresses — the road network handles it. Most properties are planned subdivisions with standard suburban driveways, though many neighborhoods have active HOAs with rules on container placement, duration, and visibility from the street. A quick call to your provider before booking avoids the situation where the container arrives and the HOA sends a violation notice the same afternoon.",
+      'Rolloff Dumpster Finder connects Parker homeowners and contractors with roll-off providers serving Douglas County and the south Denver metro. Providers covering Parker typically also serve Centennial, Aurora, and Highlands Ranch. Get a quote that includes the weight allowance and the rental period — both show up on the invoice, and they are the two things most people forget to ask about when they book.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room remodels, garage cleanouts, flooring removal, yard debris',
+        range: '$280–$480 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodels, medium cleanouts, deck removal, landscaping debris',
+        range: '$320–$540 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, full home cleanouts',
+        range: '$380–$650 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovations, estate cleanouts, mixed construction debris, commercial work',
+        range: '$450–$780 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial demolition, large multi-room projects',
+        range: '$580–$1,100+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Parker's mid-2000s housing is starting to turn over at volume. A full-home cleanout in Stonegate or Challenger Park typically fills a 20-yard container. Add a finished basement full of furniture and accumulated storage, and a 30-yard is the more honest size.",
+      },
+      {
+        number: '02',
+        name: 'Basement Finishing',
+        description:
+          'Newer Parker homes commonly have unfinished basements that served as overflow storage for years before the finishing project begins. Clearing the existing contents takes a 10-yard. Construction debris — framing scraps, drywall, insulation, flooring cutoffs — typically fills a 10 or 15-yard during the build phase.',
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Douglas County sits in the south metro hail corridor. Parker's 1990s and 2000s roofs still need eventual replacement, and hail events accelerate the schedule. A 20-yard handles most residential shingle tear-offs. Confirm the weight allowance before the crew starts — a full residential roof commonly produces 2 to 3 tons.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Builder-grade kitchens and tile bathrooms from Parker's 1995 to 2010 build era are hitting full replacement cycle. Cabinets, countertops, tile, and flooring all come out in one load. A 15-yard covers a single kitchen or master bath remodel; a 20-yard if both are being done together.",
+      },
+      {
+        number: '05',
+        name: 'Flooring Removal',
+        description:
+          'Whole-home flooring replacements are among the most common projects in Parker right now. Carpet, tile, and engineered hardwood from early-2000s installs are coming out across the Douglas County market. A 10-yard handles most flooring-only jobs depending on the home size.',
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          'Three-car garages are standard in many Parker subdivisions, which means more storage accumulation than a typical two-car setup. A 10-yard handles a straightforward cleanout. If the garage has doubled as long-term storage for a decade or more, size up to a 15-yard.',
+      },
+      {
+        number: '07',
+        name: 'Construction Debris',
+        description:
+          'Active residential additions and infill construction throughout Douglas County generate framing lumber, drywall, concrete, and mixed C&D waste. A 20-yard is the most commonly used container size for single-home addition work. Confirm weight allowances if the load is heavy in concrete or block.',
+      },
+      {
+        number: '08',
+        name: 'Landscaping & Yard Cleanup',
+        description:
+          'Water-conscious landscaping conversions are common across Parker as drought conditions persist in Douglas County. Sod removals, xeriscape installations, and large tree work fill a 10 or 15-yard. Sod weighs more per cubic yard than most homeowners expect — confirm weight limits before loading.',
+      },
+      {
+        number: '09',
+        name: 'Estate Cleanouts',
+        description:
+          "Parker's earlier subdivisions from the mid-1990s are generating more estate cleanout volume. Homes in The Pinery and Canterberry Crossing that have been in one family since they were built often need a 20 or 30-yard container to fully clear. A second pull is not unusual for larger properties.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Parker depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Private driveway placement is the most common setup in Parker. Most homes in Douglas County subdivisions have a two-car or three-car concrete pad that handles a loaded 10 to 20-yard container without issue.',
+      'Street or right-of-way placement requires a permit from the Town of Parker. Unincorporated Douglas County addresses follow county permit requirements rather than town rules — confirm which jurisdiction governs your address before booking.',
+      'Many Parker subdivisions have active HOAs. Check your HOA rules on container duration and visibility before booking. Common restrictions include limits on how many days the bin can sit and requirements that it not be visible from the street.',
+      'Protect your driveway surface under the container with boards or plywood, particularly for longer rental periods. Providers typically bring these on request — confirm at booking.',
+      'Rural and equestrian properties east of Parker Road on private or county lanes may have road weight restrictions. Confirm access with your provider before scheduling delivery.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Stonegate',
+      'Canterberry Crossing',
+      'The Pinery',
+      'Idyllwilde',
+      'Stepping Stone',
+      'Clarke Farms',
+      'Cottonwood',
+      'Bradbury Ranch',
+      'Challenger Park',
+      'Stroh Ranch',
+      'Newlin Cove',
+      'Meridian Village',
+      'Pradera',
+      'Downtown Parker',
+    ],
+    nearbyCities: [
+      'Centennial',
+      'Aurora',
+      'Littleton',
+      'Englewood',
+      'Greenwood Village',
+      'Denver',
+      'Castle Rock',
+      'Lone Tree',
+      'Highlands Ranch',
+      'Colorado Springs',
+      'Elizabeth',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Parker, CO?',
+        answer:
+          'A 10-yard container in Parker typically runs $280–$480 per week. A 20-yard runs $380–$650. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — overage charges on heavy material can add $75 or more per ton above the allowance.',
+      },
+      {
+        question: 'What size dumpster do I need for a Parker home cleanout?',
+        answer:
+          'Most full-home cleanouts in Parker need a 20-yard container. If there is a full basement involved, size up to a 30-yard before committing. A 10-yard is enough for a single-room cleanout or a light garage job.',
+      },
+      {
+        question: 'What size container works for a Parker basement finishing project?',
+        answer:
+          'A 10-yard handles the pre-construction cleanout of existing stored contents. Finishing debris — framing scraps, drywall, insulation — typically fits in a 10 or 15-yard depending on scope. Keep the two phases separate if timing allows; the material types and weights are different.',
+      },
+      {
+        question: 'Can I place a dumpster in my driveway in Parker?',
+        answer:
+          'Yes, in most cases. Most Parker driveways are designed for two or three-car access and handle roll-off delivery without issue. If your subdivision has active HOA rules, check those before the container arrives — some require notice or approval.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Parker?',
+        answer:
+          'Driveway placement on private property does not typically require a permit. Street or right-of-way placement requires a permit from the Town of Parker. Unincorporated Douglas County addresses follow county permit requirements. Your provider can usually clarify which applies to your address and assist with the process.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Parker?',
+        answer:
+          'Yes. A 20-yard handles most residential shingle tear-offs. Shingles are denser than they look — a full residential roof replacement commonly produces 2 to 3 tons. Confirm the weight allowance before the crew starts loading.',
+      },
+      {
+        question: 'What can I put in a Parker roll-off dumpster?',
+        answer:
+          'Standard construction and demolition debris — drywall, lumber, tile, carpet, cabinets, fixtures, furniture, and yard waste. What does not go in: paint, solvents, batteries, propane tanks, tires, motor oil, appliances with refrigerant, and asbestos-containing material. Ask your provider for the full restricted items list before loading.',
+      },
+      {
+        question: 'How long can I keep a dumpster in Parker?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Most providers offer daily extensions at $5–$15 per day. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
+      },
+      {
+        question: 'How quickly can a dumpster be delivered in Parker?',
+        answer:
+          'Most providers serving Parker and Douglas County can deliver within one to two business days of booking. Same-day delivery is available from some operators. During busy spring and fall renovation seasons, booking a few days ahead gives more flexibility on timing.',
+      },
+      {
+        question: 'Do you serve nearby communities like Highlands Ranch, Lone Tree, and Castle Rock?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Parker and the wider Douglas County and south Denver metro area, including Highlands Ranch, Lone Tree, Centennial, and Castle Rock. Availability depends on which providers cover your specific delivery address.',
+      },
+    ],
+    latitude: 39.5186,
+    longitude: -104.7814,
+  },
+
+  // ─── DRAPER ───────────────────────────────────────────────
+  {
+    slug: 'draper-ut-dumpster-rental',
+    cityName: 'Draper',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'Draper UT Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Roll-off dumpster rental in Draper, UT for home cleanouts, remodeling, roofing, and construction debris. Compare sizes and local pricing along the Wasatch Front.',
+    primaryKeyword: 'draper dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Draper UT',
+      'Draper construction dumpster rental',
+      'roll off dumpster Draper',
+      'roll off dumpster rental Draper UT',
+      'Draper roll off dumpster rental',
+      'rolloff dumpsters Draper',
+      'roll offs Draper UT',
+      '10 yard dumpster rental Draper',
+      '20 yard dumpster rental Draper',
+      '30 yard dumpster rental Draper',
+    ],
+    heroH1: 'Dumpster Rental in Draper, Utah',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, basement finishing, roofing tear-offs, kitchen and bath remodels, and construction debris across Draper and the south Salt Lake Valley.',
+    introParagraphs: [
+      "Draper sits at the Point of the Mountain — where Salt Lake County ends and Utah County begins, though the subdivisions don't much care about county lines. Most of the residential stock came up between the mid-1990s and 2015, which puts a large share of Draper homes in the 10 to 30 year range. That is exactly when original kitchens start looking their age, roofs approach first replacement, and basement finishing projects move from someday to this year. SunCrest, South Mountain, and Corner Canyon neighborhoods on the hillside have larger lots and bigger homes — which usually means more material when it is time to clean out. (More house, more stuff. That is not a law of physics, but it might as well be.)",
+      "The eastern hillside neighborhoods in Draper climb the Wasatch foothills at grades that can limit truck access on some lots. Steep driveways, narrow lanes, and HOA rules on container placement or visibility are worth confirming before delivery day rather than after. Most of the flatter west-side neighborhoods near I-15 have standard suburban driveway configurations and handle roll-off delivery without issue.",
+      'Rolloff Dumpster Finder connects Draper homeowners and contractors with roll-off providers serving the south Salt Lake Valley. Providers covering Draper typically also serve Sandy, South Jordan, and Lehi. Get a quote that includes the weight allowance and the rental period — both show up on the invoice, and they are the two things most people forget to ask about.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
+        range: '$260–$440 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
+        range: '$300–$510 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
+        range: '$360–$610 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
+        range: '$430–$740 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
+        range: '$550–$1,050+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Draper homes from the late 1990s and 2000s are hitting their first serious turnover cycle. A full-home cleanout in SunCrest or South Mountain typically fills a 20-yard container. Factor in the basement and the three-car garage before sizing down — larger Draper homes often need a 30-yard once everything is counted.",
+      },
+      {
+        number: '02',
+        name: 'Basement Finishing',
+        description:
+          'Unfinished basements are standard in Draper construction. Clearing stored contents before finishing work typically takes a 10-yard. Construction debris — framing scraps, drywall, insulation, flooring cutoffs — fits in a 10 or 15-yard during the build phase. Keep the two phases separate if timing allows; the weight profiles are different.',
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Draper's 1990s and 2000s roofs are reaching first replacement age. A 20-yard handles most residential shingle tear-offs. Confirm the weight allowance before the crew starts — a full residential roof commonly produces 2 to 3 tons. On hillside lots, confirm driveway clearance with your provider before scheduling delivery.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Builder-grade kitchens and tile bathrooms from Draper's mid-2000s build era are common gut-and-replace candidates. Cabinets, countertops, tile, and flooring all come out in one load. A 15-yard covers a single kitchen or master bath; a 20-yard for both together.",
+      },
+      {
+        number: '05',
+        name: 'Flooring Removal',
+        description:
+          "Whole-home flooring replacements are one of the most common renovation projects in Draper's newer housing. Carpet, tile, and engineered hardwood from mid-2000s installs are coming out across the south valley market. A 10-yard handles most flooring-only jobs depending on square footage.",
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          'Three-car garages are common in Draper subdivisions, which means more storage accumulation than a standard two-car setup. A 10-yard handles a straightforward cleanout. If the garage has served as overflow storage for a decade or more, a 15-yard is the safer call.',
+      },
+      {
+        number: '07',
+        name: 'Construction Debris',
+        description:
+          'Active residential additions and infill development throughout Draper and the Traverse Ridge area generate framing lumber, drywall, concrete, and mixed C&D waste. A 20-yard is the most commonly used container size for single-home addition work. Confirm weight allowances before loading concrete or masonry.',
+      },
+      {
+        number: '08',
+        name: 'Landscaping & Yard Cleanup',
+        description:
+          'Draper properties on larger hillside lots can generate significant landscaping debris. Sod removals, xeriscape conversions, and boulder or retaining wall work add up. A 10 or 15-yard handles most residential landscaping jobs. Sod and soil weigh more per cubic yard than most homeowners expect — confirm weight limits before loading.',
+      },
+      {
+        number: '09',
+        name: 'Estate Cleanouts',
+        description:
+          "Earlier Draper developments from the mid-1990s are generating more estate cleanout volume. Properties in Hidden Valley and Willow Creek that have been in one family since they were built often need a 20 or 30-yard to fully clear. A second haul is not unusual for larger homes.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Draper depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Private driveway placement is the most common setup in Draper. Most west-side and valley-floor neighborhoods have standard two or three-car concrete pads that handle a loaded 10 to 20-yard container without issue.',
+      'Hillside properties in SunCrest, South Mountain, and Corner Canyon may have steep grades, tight turning radiuses, or narrow access lanes. Confirm truck clearance and driveway dimensions with your provider before scheduling delivery.',
+      'Street or right-of-way placement requires a permit from the City of Draper. Confirm which jurisdiction governs your address — some Draper addresses are in unincorporated Salt Lake County and follow county permit requirements.',
+      'Many Draper planned communities have active HOAs. Check your HOA rules on container duration, placement location, and visibility before booking. Violations and after-the-fact removal requests are far more disruptive than a five-minute CC&R check.',
+      'Protect driveway surfaces under the container with boards or plywood, particularly on steep hillside driveways. Providers typically bring these on request — confirm at booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'SunCrest',
+      'South Mountain',
+      'Corner Canyon',
+      'Hidden Valley',
+      'Draper Historic District',
+      'Willow Creek',
+      'Steeplechase',
+      'Eagle Crest',
+      'Quail Hollow',
+      'Saddlebrook',
+      'Pioneer Crossing',
+      'Hawk Ridge',
+    ],
+    nearbyCities: [
+      'Sandy',
+      'Lehi',
+      'Salt Lake City',
+      'West Jordan',
+      'West Valley City',
+      'Provo',
+      'South Jordan',
+      'Riverton',
+      'Bluffdale',
+      'Cottonwood Heights',
+      'Midvale',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Draper, UT?',
+        answer:
+          'A 10-yard container in Draper typically runs $260–$440 per week. A 20-yard runs $360–$610. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — overage charges on heavy debris can add $75 or more per ton above the allowance.',
+      },
+      {
+        question: 'What size dumpster do I need for a Draper home cleanout?',
+        answer:
+          'Most full-home cleanouts in Draper need a 20-yard container. If there is a full basement and a three-car garage involved, size up to a 30-yard before committing. A 10-yard is enough for a single-room cleanout or a light garage job.',
+      },
+      {
+        question: 'What size container works for basement finishing in Draper?',
+        answer:
+          'A 10-yard handles the pre-construction cleanout of stored contents. Finishing debris — framing scraps, drywall, insulation — typically fits in a 10 or 15-yard depending on scope. Keep the two phases separate if timing allows; the material types and weights are different.',
+      },
+      {
+        question: 'Can I place a dumpster in my driveway in Draper?',
+        answer:
+          'Yes, in most cases. Valley-floor and west-side driveways typically handle roll-off delivery without issue. Hillside properties in SunCrest and South Mountain may have steep grades or tight access — confirm driveway clearance with your provider before booking. If your subdivision has HOA rules on container placement, check those too.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Draper?',
+        answer:
+          'Driveway placement on private property does not typically require a permit. Street or right-of-way placement requires a permit from the City of Draper. Some Draper addresses fall in unincorporated Salt Lake County and follow county requirements instead. Your provider can usually help confirm which applies to your address.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Draper?',
+        answer:
+          "Yes. A 20-yard handles most residential shingle tear-offs. Shingles are denser than they look — a full residential roof replacement commonly produces 2 to 3 tons. Confirm the weight allowance before the crew starts loading. On Draper's steeper hillside lots, also confirm driveway access with your provider.",
+      },
+      {
+        question: 'What can I put in a Draper roll-off dumpster?',
+        answer:
+          'Standard construction and demolition debris — drywall, lumber, tile, carpet, cabinets, fixtures, furniture, and yard waste. What does not go in: paint, solvents, batteries, propane tanks, tires, motor oil, appliances with refrigerant, and asbestos-containing material. Ask your provider for the full restricted items list before loading.',
+      },
+      {
+        question: 'How long can I keep a dumpster in Draper?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Most providers offer daily extensions at $5–$15 per day. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
+      },
+      {
+        question: 'How quickly can a dumpster be delivered in Draper?',
+        answer:
+          'Most providers serving Draper and the south Salt Lake Valley can deliver within one to two business days. Same-day delivery is available from some operators. During busy spring and fall renovation seasons, booking a few days ahead gives more flexibility on timing.',
+      },
+      {
+        question: 'Do you serve South Jordan, Sandy, and the surrounding south valley?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Draper and the wider south Salt Lake Valley, including Sandy, South Jordan, Riverton, Bluffdale, Cottonwood Heights, Lehi, and West Jordan. Availability depends on which providers cover your specific delivery address.',
+      },
+    ],
+    latitude: 40.5246,
+    longitude: -111.8638,
+  },
+
+  // ─── SOUTH JORDAN ─────────────────────────────────────────
+  {
+    slug: 'south-jordan-ut-dumpster-rental',
+    cityName: 'South Jordan',
+    stateName: 'Utah',
+    stateAbbr: 'UT',
+    metaTitle: 'South Jordan Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Roll-off dumpster rental in South Jordan, UT for home cleanouts, remodeling, roofing, and construction debris. Compare sizes and local pricing in Salt Lake County.',
+    primaryKeyword: 'south jordan dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental South Jordan UT',
+      'South Jordan construction dumpster rental',
+      'roll off dumpster South Jordan',
+      'roll off dumpster rental South Jordan UT',
+      'South Jordan roll off dumpster rental',
+      'rolloff dumpsters South Jordan',
+      'roll offs South Jordan UT',
+      '10 yard dumpster rental South Jordan',
+      '20 yard dumpster rental South Jordan',
+      '30 yard dumpster rental South Jordan',
+    ],
+    heroH1: 'Dumpster Rental in South Jordan, Utah',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, basement finishing, roofing tear-offs, kitchen and bath remodels, and construction debris across South Jordan and the south Salt Lake Valley.',
+    introParagraphs: [
+      "South Jordan is one of the Salt Lake Valley's primary growth zones of the last 30 years. Daybreak — a master-planned community on the city's western edge — is one of the largest planned developments in Utah, and newer phases continue to add inventory. Beyond Daybreak, the rest of South Jordan filled in through the 1990s and 2000s with larger suburban homes common to Salt Lake County's southwestern growth: three-car garages, full basements, and lots that run bigger than most areas closer to the city. That housing is now hitting the 15 to 30 year range — when first-generation kitchens get replaced, roofs go out to bid, and basements finally get finished or cleared out.",
+      "Utah homes typically run with full basements, and South Jordan is no exception. A standard South Jordan house with a finished basement and a three-car garage generates noticeably more material during a cleanout than the same footprint in a market without basements. That is the detail most people miss when sizing a container — they book based on the main floor and find out about the basement once the bin is filling up. Size up if the basement has been used as primary storage. It almost always has.",
+      'Rolloff Dumpster Finder connects South Jordan homeowners and contractors with roll-off providers serving the south Salt Lake Valley. Providers covering South Jordan typically also serve West Jordan, Sandy, Draper, Riverton, and Herriman. Get a quote that includes the weight allowance and the rental period — both show up on the invoice, and they are the two variables most people skip when comparing quotes.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanout, single-room remodel, light roofing debris, yard and landscaping waste',
+        range: '$255–$430 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and yard waste',
+        range: '$295–$490 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanout, roofing tear-off, kitchen remodel, basement and garage debris',
+        range: '$355–$595 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
+        range: '$425–$730 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
+        range: '$530–$1,000+ / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "South Jordan's 1990s and 2000s housing is hitting first serious turnover volume. A full-home cleanout in Glenmoor or River Ridge typically fills a 20-yard container. Factor in the basement and the three-car garage before settling on a size — larger South Jordan homes often need a 30-yard once everything is counted.",
+      },
+      {
+        number: '02',
+        name: 'Basement Finishing',
+        description:
+          "Unfinished basements are standard across South Jordan's housing stock. Clearing stored contents before finishing work typically takes a 10-yard. Construction debris — framing scraps, drywall, insulation, flooring cutoffs — fits in a 10 or 15-yard during the build phase. Keep the two phases separate if timing allows; the weight profiles are different.",
+      },
+      {
+        number: '03',
+        name: 'Roofing Tear-Offs',
+        description:
+          "South Jordan's 1995 to 2010 roofs are approaching or past first replacement age. A 20-yard handles most residential shingle tear-offs. Asphalt shingles load heavier than they look — a full residential tear-off commonly produces 2 to 3 tons. Confirm the weight allowance before the crew starts loading.",
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Builder-grade kitchens and tile bathrooms from South Jordan's mid-2000s build era are a common gut-and-replace project. Cabinets, countertops, tile, and flooring all come out in one load. A 15-yard covers a single kitchen or master bath remodel; a 20-yard if both are being done at once.",
+      },
+      {
+        number: '05',
+        name: 'Flooring Removal',
+        description:
+          'Whole-home flooring replacements are among the most common renovation projects in South Jordan. Carpet, tile, and engineered hardwood from mid-2000s installs are coming out at volume across the south valley market. A 10-yard handles most flooring-only jobs depending on the home size.',
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          'Three-car garages are standard in many South Jordan subdivisions, which means more storage accumulation than a standard two-car setup. A 10-yard handles a straightforward cleanout. If the garage has doubled as overflow storage for a decade or more, a 15-yard is the safer call.',
+      },
+      {
+        number: '07',
+        name: 'Construction Debris',
+        description:
+          'Active residential construction and infill development throughout South Jordan and the Mountain View Corridor area generate framing lumber, drywall, concrete, and mixed C&D waste. A 20-yard is the most commonly used container size for single-home addition work.',
+      },
+      {
+        number: '08',
+        name: 'Landscaping & Yard Cleanup',
+        description:
+          "South Jordan's larger suburban lots generate more landscaping debris than a typical city property. Sod removals, xeriscape conversions, and tree and shrub work can fill a 10 or 15-yard quickly. Sod weighs more per cubic yard than most homeowners expect — confirm weight limits before loading.",
+      },
+      {
+        number: '09',
+        name: 'Estate Cleanouts',
+        description:
+          "Earlier South Jordan developments from the mid-1990s are generating estate cleanout volume as original owners transfer properties. Homes in Highland Park and Oquirrh Park that have been in one family since they were built often require a 20 or 30-yard to fully clear.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in South Jordan depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Private driveway placement is the most common setup in South Jordan. Most homes have two or three-car concrete pads that handle a loaded 10 to 20-yard container without issue.',
+      'Street or right-of-way placement requires a permit from the City of South Jordan. Confirm permit requirements before scheduling a street drop — your rental provider can typically assist with the process.',
+      'Daybreak and other master-planned communities in South Jordan have active HOAs with specific rules on container placement, duration, and visibility from the street. Check your CC&Rs before booking — it is faster than dealing with an HOA notice after the bin is already onsite.',
+      'Larger South Jordan lots along the eastern Bangerter Highway and Mountain View Corridor typically have longer driveways and more room for placement. Properties in denser Daybreak phases may have tighter access.',
+      'Protect driveway surfaces under the container with boards or plywood, particularly for longer rental periods. Providers typically bring these on request — confirm at booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Daybreak',
+      'Glenmoor',
+      'Oquirrh Park',
+      'River Ridge',
+      'Highland Park',
+      'Rushton Meadows',
+      'Springhouse Village',
+      'Eastlake Village',
+      'South Village',
+      'River Oaks',
+      'Founders Park',
+      'South Jordan City Center',
+    ],
+    nearbyCities: [
+      'West Jordan',
+      'Draper',
+      'Sandy',
+      'Salt Lake City',
+      'West Valley City',
+      'Lehi',
+      'Riverton',
+      'Herriman',
+      'Bluffdale',
+      'Midvale',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in South Jordan, UT?',
+        answer:
+          'A 10-yard container in South Jordan typically runs $255–$430 per week. A 20-yard runs $355–$595. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — overage charges on heavy material can add $75 or more per ton above the weight allowance.',
+      },
+      {
+        question: 'What size dumpster do I need for a South Jordan home cleanout?',
+        answer:
+          'Most full-home cleanouts in South Jordan need a 20-yard container. If there is a full basement and a three-car garage involved, size up to a 30-yard before committing. A 10-yard is enough for a single-room cleanout or a light garage job.',
+      },
+      {
+        question: 'What size container works for basement finishing in South Jordan?',
+        answer:
+          'A 10-yard handles the pre-construction cleanout of stored contents. Finishing debris — framing scraps, drywall, insulation — typically fits in a 10 or 15-yard depending on scope. Keep the two phases separate if timing allows; the material types and weights are different.',
+      },
+      {
+        question: 'Can I place a dumpster in my driveway in South Jordan?',
+        answer:
+          'Yes, in most cases. Most South Jordan driveways accommodate roll-off delivery without issue. If your subdivision is governed by a Daybreak or other HOA, check their rules on container placement and duration before the bin arrives.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in South Jordan?',
+        answer:
+          'Driveway placement on private property does not typically require a permit. Street or right-of-way placement requires a permit from the City of South Jordan. Your provider can usually clarify requirements and assist with the permit process.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in South Jordan?',
+        answer:
+          'Yes. A 20-yard handles most residential shingle tear-offs. Shingles load denser than they look — a full residential roof commonly produces 2 to 3 tons. Confirm the weight allowance before the crew starts loading.',
+      },
+      {
+        question: 'What can I put in a South Jordan roll-off dumpster?',
+        answer:
+          'Standard construction and demolition debris — drywall, lumber, tile, carpet, cabinets, fixtures, furniture, and yard waste. What does not go in: paint, solvents, batteries, propane tanks, tires, motor oil, appliances with refrigerant, and asbestos-containing material. Ask your provider for the full restricted items list before loading.',
+      },
+      {
+        question: 'How long can I keep a dumpster in South Jordan?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Most providers offer daily extensions at $5–$15 per day. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
+      },
+      {
+        question: 'How quickly can a dumpster be delivered in South Jordan?',
+        answer:
+          'Most providers serving South Jordan and the south Salt Lake Valley can deliver within one to two business days of booking. Same-day delivery is available from some operators. During busy spring and fall renovation seasons, booking a few days ahead gives more scheduling flexibility.',
+      },
+      {
+        question: 'Do you serve Daybreak, Riverton, and other nearby communities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves South Jordan and the wider south Salt Lake Valley, including Riverton, Herriman, Bluffdale, West Jordan, Sandy, and Draper. Service is available throughout Daybreak and other South Jordan communities. Availability depends on which providers cover your specific delivery address.',
+      },
+    ],
+    latitude: 40.5621,
+    longitude: -111.9294,
+  },
+
+  // ─── PEORIA ───────────────────────────────────────────────
+  {
+    slug: 'peoria-az-dumpster-rental',
+    cityName: 'Peoria',
+    stateName: 'Arizona',
+    stateAbbr: 'AZ',
+    metaTitle: 'Peoria AZ Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Roll-off dumpster rental in Peoria, AZ for home cleanouts, roofing, remodeling, and construction. Compare sizes and local pricing in the West Valley.',
+    primaryKeyword: 'peoria dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Peoria AZ',
+      'Peoria construction dumpster rental',
+      'roll off dumpster Peoria',
+      'roll off dumpster rental Peoria AZ',
+      'Peoria roll off dumpster rental',
+      'rolloff dumpsters Peoria',
+      'roll offs Peoria AZ',
+      '10 yard dumpster rental Peoria',
+      '20 yard dumpster rental Peoria',
+      '30 yard dumpster rental Peoria',
+    ],
+    heroH1: 'Dumpster Rental in Peoria, Arizona',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, roofing tear-offs, kitchen and bath remodels, estate cleanouts, and construction debris across Peoria and the West Valley.',
+    introParagraphs: [
+      "Peoria runs from older central neighborhoods along 83rd and 91st Avenues — built out through the 1970s and 1980s — all the way north to Vistancia and the Lake Pleasant Parkway corridor, where subdivisions were still going in through the 2010s. That means two different dumpster markets under one city name. Central Peoria generates steady renovation and estate cleanout volume from housing that is 40 to 50 years old. North Peoria generates first-cycle remodels, kitchen gut jobs, and roofing replacements from homes that are now 15 to 25 years old. The only thing both neighborhoods agree on is that Arizona tile roofs weigh more than expected — confirm the weight allowance before the crew starts.",
+      "Westbrook Village and Trilogy at Vistancia have large populations of active adults and retirees. Estate cleanouts and downsizing projects are a steady part of the Peoria roll-off market. A full downsizing from a larger Vistancia home commonly fills a 20-yard container, sometimes more depending on how long the garage has been used as primary storage. The Loop 101 and Lake Pleasant Parkway access makes logistics straightforward for most north Peoria addresses.",
+      'Rolloff Dumpster Finder connects Peoria homeowners and contractors with roll-off providers serving the West Valley and the broader Phoenix metro. Providers covering Peoria typically also serve Glendale, Surprise, and Avondale. Get a quote that includes the weight allowance — tile roofing debris and concrete run heavy, and overage charges add up fast when the material is denser than it looks.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Small cleanout, single-room remodel, minor roofing job, desert landscaping debris',
+        range: '$270–$470 / week',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and yard waste',
+        range: '$310–$530 / week',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, garage and construction debris',
+        range: '$370–$640 / week',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
+        range: '$440–$770 / week',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
+        range: '$560–$1,050 / week',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Central Peoria's 1970s and 1980s housing generates consistent cleanout volume as properties change hands. A full-home cleanout typically fills a 20-yard container. North Peoria homes are larger — factor in the three-car garage and any workshop or storage areas before sizing down.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          "Arizona tile and flat roofing systems are the dominant styles in Peoria. Tile roofs weigh significantly more than asphalt shingles — a full residential tile tear-off can easily produce 4 to 6 tons. Confirm the weight allowance before the crew starts loading. A 20-yard handles most single-story tear-offs; a 30-yard if the roof is large or the home is two stories.",
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Builder-grade kitchens and tile bathrooms from Peoria's 1990s and 2000s build era are a common gut-and-replace project. Cabinets, countertops, tile, and flooring all come out in one load. A 15-yard covers a single kitchen or master bath; a 20-yard for both together.",
+      },
+      {
+        number: '04',
+        name: 'Estate Cleanouts',
+        description:
+          'Westbrook Village and Trilogy at Vistancia generate regular estate cleanout and downsizing volume. A full downsizing in a larger Vistancia home commonly fills a 20-yard container. Properties where the garage has served as long-term storage typically need a 30-yard.',
+      },
+      {
+        number: '05',
+        name: 'Flooring Removal',
+        description:
+          "Whole-home flooring replacements are one of the most common renovation projects in Peoria's 1990s and 2000s housing. Tile, travertine, and carpet from mid-2000s installs are coming out at volume across the West Valley market. A 10-yard handles most flooring-only jobs depending on the home size.",
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          'Three-car garages are common in north Peoria subdivisions. A straightforward cleanout fits in a 10-yard. If the garage has doubled as long-term storage or a workshop, a 15 or 20-yard is the more honest size.',
+      },
+      {
+        number: '07',
+        name: 'Construction Debris',
+        description:
+          'Active residential construction and infill development throughout north Peoria and the Loop 101 corridor generate framing lumber, drywall, concrete, and mixed C&D waste. A 20-yard is the most commonly used container size for single-home addition work.',
+      },
+      {
+        number: '08',
+        name: 'Landscaping & Desert Yard Cleanup',
+        description:
+          'Saguaro removal, palm tree trimming, desert scrub clearing, and decomposed granite work generate more debris than most homeowners expect. A 10 or 15-yard handles most residential landscaping jobs. Confirm green waste policies with your provider before loading — not all accept mixed loads.',
+      },
+      {
+        number: '09',
+        name: 'Pool & Patio Demolition',
+        description:
+          'Pool demolitions, concrete patio removals, and block wall teardowns are common projects in Peoria. Dense material hits weight limits at a fraction of the container volume. Ask your provider specifically about heavy-debris weight allowances for loads that are mostly concrete or block.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Peoria depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Private driveway placement is the most common setup in Peoria. Most suburban driveways accommodate a roll-off container without issue.',
+      'Street or right-of-way placement requires a permit from the City of Peoria. Confirm permit requirements before scheduling a street drop — your provider can typically assist with the process.',
+      'North Peoria master-planned communities, including Vistancia subdivisions, often have active HOAs with rules on container placement, duration, and street visibility. Check your CC&Rs before booking.',
+      'Active adult communities like Westbrook Village and Trilogy at Vistancia may have more specific placement requirements. Confirm HOA rules before scheduling delivery.',
+      'Decomposed granite driveways common in Peoria neighborhoods can be marked by container weight. Boards or plywood under the container protect the surface — providers typically bring these on request; confirm at booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Vistancia',
+      'Westbrook Village',
+      'Fletcher Heights',
+      'Cibola Vista',
+      'Sonoran Mountain Ranch',
+      'Trilogy at Vistancia',
+      'Dove Valley Ranch',
+      'Peoria Historic District',
+      'Crossings at Lake Pleasant',
+      'Terramar',
+      'Camino a Lago',
+      'North Copper Canyon',
+    ],
+    nearbyCities: [
+      'Glendale',
+      'Phoenix',
+      'Scottsdale',
+      'Mesa',
+      'Chandler',
+      'Tempe',
+      'Gilbert',
+      'Surprise',
+      'Avondale',
+      'Goodyear',
+      'Sun City',
+      'El Mirage',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Peoria, AZ?',
+        answer:
+          'A 10-yard container in Peoria typically runs $270–$470 per week. A 20-yard runs $370–$640. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — tile roofing debris and concrete can push totals well past the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for a Peoria home cleanout?',
+        answer:
+          'Most full-home cleanouts in Peoria need a 20-yard container. North Peoria homes with three-car garages and larger footprints often need a 30-yard once the garage and storage areas are factored in. A 10-yard is enough for a single-room cleanout or a light garage job.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Peoria?',
+        answer:
+          "Yes. Arizona tile roofing is significantly heavier than asphalt shingles — a full residential tile tear-off can produce 4 to 6 tons. A 20-yard handles most single-story tear-offs. Confirm the weight allowance before the crew starts loading. If you're unsure of your roof type or weight, ask your roofer before booking the container.",
+      },
+      {
+        question: 'What about concrete, tile, and heavy debris in Peoria?',
+        answer:
+          'Concrete, travertine, and block wall material can go in a standard roll-off, but they hit weight limits before the container looks full. A 10-yard filled with concrete commonly exceeds the weight cap with room to spare. Ask your provider about heavy-debris containers for loads that are mostly concrete or masonry.',
+      },
+      {
+        question: 'Can I place a dumpster in my driveway in Peoria?',
+        answer:
+          'Yes, in most cases. Most Peoria driveways accommodate roll-off delivery without issue. If your subdivision is governed by an HOA — common in Vistancia and other master-planned communities — check placement rules and duration limits before the container arrives.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Peoria?',
+        answer:
+          'Driveway placement on private property does not typically require a permit. Street or right-of-way placement requires a permit from the City of Peoria. Your provider can usually clarify requirements and assist with the permit process.',
+      },
+      {
+        question: 'What can I put in a Peoria roll-off dumpster?',
+        answer:
+          'Standard construction and demolition debris — drywall, lumber, tile, carpet, cabinets, fixtures, furniture, and yard waste. What does not go in: paint, solvents, batteries, propane tanks, tires, motor oil, appliances with refrigerant, and hazardous materials. Ask your provider for the full restricted items list before loading.',
+      },
+      {
+        question: 'How long can I keep a dumpster in Peoria?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Most providers offer daily extensions at a per-day rate. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
+      },
+      {
+        question: 'How quickly can a dumpster be delivered in Peoria?',
+        answer:
+          'Most providers serving Peoria and the West Valley can deliver within one to two business days of booking. Same-day delivery is available from some operators. During busy seasons, booking a few days ahead gives more flexibility on timing.',
+      },
+      {
+        question: 'Do you serve Vistancia, Westbrook Village, and north Peoria?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves the full Peoria market — central Peoria, Westbrook Village, Vistancia, Trilogy at Vistancia, and north Peoria along the Lake Pleasant Parkway corridor. Availability depends on which providers cover your specific delivery address.',
+      },
+    ],
+    latitude: 33.5806,
+    longitude: -112.2374,
+  },
+
+  // ─── OWASSO ───────────────────────────────────────────────
+  {
+    slug: 'owasso-ok-dumpster-rental',
+    cityName: 'Owasso',
+    stateName: 'Oklahoma',
+    stateAbbr: 'OK',
+    metaTitle: 'Owasso Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaDescription:
+      'Roll-off dumpster rental in Owasso, OK for home cleanouts, roofing, remodeling, and construction. Compare sizes and local pricing north of Tulsa.',
+    primaryKeyword: 'owasso dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental Owasso OK',
+      'Owasso construction dumpster rental',
+      'roll off dumpster Owasso',
+      'roll off dumpster rental Owasso OK',
+      'Owasso roll off dumpster rental',
+      'rolloff dumpsters Owasso',
+      'roll offs Owasso OK',
+      '10 yard dumpster rental Owasso',
+      '20 yard dumpster rental Owasso',
+      '30 yard dumpster rental Owasso',
+    ],
+    heroH1: 'Dumpster Rental in Owasso, Oklahoma',
+    heroSubheadline:
+      'Roll-off dumpster rental for home cleanouts, roofing tear-offs, kitchen and bath remodels, construction debris, and landscaping across Owasso and the north Tulsa metro.',
+    introParagraphs: [
+      "Owasso is one of the north Tulsa metro's primary growth stories of the last 30 years. Most of the residential stock went in between 1990 and 2015 along the US-169 corridor, and that housing is now hitting its first major renovation cycle — kitchens getting updated, bathrooms getting overhauled, and roofs reaching replacement age. Bailey Ranch, Stone Canyon, and Preston Lakes all built out in that window. The carpeting from 1998 has also aged out in most of these homes, which is its own project.",
+      'Owasso sits in the northeast Oklahoma storm belt. Hail and wind events through the Tulsa region drive periodic surges in roofing demand across the city. A 20-yard handles most residential asphalt shingle tear-offs. Confirm the weight allowance before the crew starts — a full residential roof commonly produces 2 to 3 tons, and that number climbs if old shingles were layered over rather than torn off previously.',
+      'Rolloff Dumpster Finder connects Owasso homeowners and contractors with roll-off providers serving the north Tulsa metro. Providers covering Owasso typically also serve Tulsa, Broken Arrow, and Claremore. Get a quote that includes the weight allowance and the rental period before you book — both variables affect the final invoice.',
+    ],
+    pricingGuide: [
+      {
+        size: '10 Yard',
+        uses: 'Single-room cleanout, small demo, garage purge, light roofing debris',
+        range: '$250–$420',
+      },
+      {
+        size: '15 Yard',
+        uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping debris',
+        range: '$300–$500',
+      },
+      {
+        size: '20 Yard',
+        uses: 'Full home cleanout, roofing tear-off, kitchen remodel, construction debris',
+        range: '$360–$620',
+      },
+      {
+        size: '30 Yard',
+        uses: 'Large renovation, estate cleanout, C&D debris, mixed multi-room projects',
+        range: '$430–$740',
+      },
+      {
+        size: '40 Yard',
+        uses: 'Commercial project, major construction, large demo, multi-unit cleanout',
+        range: '$550–$1,000+',
+      },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Home Cleanouts',
+        description:
+          "Owasso's 1990s and 2000s housing is turning over at growing volume. A full-home cleanout in Bailey Ranch or Coffee Creek typically fills a 20-yard container. Factor in the garage and any attic storage before sizing down — larger Owasso homes with finished basements may need a 30-yard.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'Northeast Oklahoma hail and wind events drive steady roofing replacement volume across the Owasso market. A 20-yard handles most residential shingle tear-offs. Confirm the weight allowance before the crew starts loading — layered shingles from older installations add significant weight.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Builder-grade kitchens and tile bathrooms from Owasso's 1990s and 2000s build era are a common gut-and-replace project. Cabinets, countertops, tile, and flooring all come out in one load. A 15-yard covers a single kitchen or bath; a 20-yard for both together.",
+      },
+      {
+        number: '04',
+        name: 'Construction Debris',
+        description:
+          'Active residential construction and infill development throughout Owasso and the north US-169 corridor generate framing lumber, drywall, concrete, and mixed C&D waste. A 20-yard is the most commonly used container size for single-home addition and new build cleanup.',
+      },
+      {
+        number: '05',
+        name: 'Flooring Removal',
+        description:
+          'Whole-home flooring replacements are one of the most common renovation projects in Owasso right now. Carpet, tile, and hardwood from late-1990s and early-2000s installs are coming out across the north Tulsa suburbs. A 10-yard handles most flooring-only jobs depending on square footage.',
+      },
+      {
+        number: '06',
+        name: 'Garage Cleanouts',
+        description:
+          'Three-car garages are common in newer Owasso subdivisions, which means more storage accumulation. A 10-yard handles a straightforward cleanout. If the garage has doubled as a workshop or long-term storage for years, size up to a 15-yard.',
+      },
+      {
+        number: '07',
+        name: 'Landscaping & Yard Cleanup',
+        description:
+          'Tree work, storm debris, sod removals, and general yard cleanups generate more volume than most homeowners expect. A 10-yard handles most residential landscaping projects. Storm debris can include large wood sections that reduce effective fill capacity — confirm green waste policies with your provider.',
+      },
+      {
+        number: '08',
+        name: 'Estate Cleanouts',
+        description:
+          "Earlier Owasso developments from the early 1990s are generating estate cleanout volume. Homes in Elm Creek and Graceland Estates that have been in one family since they were built often need a 20 or 30-yard to fully clear. A second haul is not unusual for larger properties.",
+      },
+      {
+        number: '09',
+        name: 'Pre-Sale Cleanouts',
+        description:
+          'Active real estate turnover in the Owasso market drives regular pre-sale cleanouts. Sellers clearing 20 or more years of accumulated material before listing typically need a 20-yard. Scheduling delivery before the listing is set gives more flexibility on timing.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Owasso depends on your lot, neighborhood, and whether the container goes on private property or a public right-of-way.',
+    placementNotes: [
+      'Private driveway placement is the most common setup in Owasso. Most homes in Owasso subdivisions have concrete pads that handle a loaded 10 to 20-yard container without issue.',
+      'Street or right-of-way placement requires a permit from the City of Owasso. Confirm permit requirements before scheduling a street drop — your provider can usually assist with the process.',
+      'Newer Owasso subdivisions may have HOA rules on container placement, duration, and visibility from the street. Check your rules before booking if your neighborhood has an active association.',
+      'Most Owasso properties are on flat suburban lots with standard driveway configurations. Confirm truck clearance if overhead tree branches or garage eaves limit approach height.',
+      'Protect driveway surfaces under the container with boards or plywood for longer rental periods. Providers typically bring these on request — confirm at booking.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Bailey Ranch',
+      'Stone Canyon',
+      'Coffee Creek',
+      'Preston Lakes',
+      'Elm Creek',
+      'The Fairways',
+      'Lake Valley',
+      'Seven Lakes',
+      'Smith Farm',
+      'Graceland Estates',
+      'Windsor Lake',
+      'Owasso Downtown',
+    ],
+    nearbyCities: [
+      'Tulsa',
+      'Broken Arrow',
+      'Claremore',
+      'Collinsville',
+      'Catoosa',
+      'Skiatook',
+      'Jenks',
+      'Sand Springs',
+      'Bixby',
+      'Sapulpa',
+    ],
+    faq: [
+      {
+        question: 'How much does a dumpster rental cost in Owasso, OK?',
+        answer:
+          'A 10-yard container in Owasso typically runs $250–$420. A 20-yard runs $360–$620. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — overage charges on heavy material like shingles or concrete can add to the base rate.',
+      },
+      {
+        question: 'What size dumpster do I need for an Owasso home cleanout?',
+        answer:
+          'Most full-home cleanouts in Owasso need a 20-yard container. Homes with finished basements or years of garage storage often need a 30-yard once all the material is counted. A 10-yard is enough for a single-room cleanout or a light garage purge.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Owasso?',
+        answer:
+          'Yes. A 20-yard handles most residential shingle tear-offs. Shingles are heavier than they look — a full residential tear-off commonly produces 2 to 3 tons, more if the old shingles were layered rather than removed. Confirm the weight allowance before the crew starts loading.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Owasso?',
+        answer:
+          'Concrete and soil can go in a standard roll-off, but they hit weight limits before the container looks full. Ask your provider specifically about heavy-debris weight allowances for loads that are mostly concrete, block, or dirt.',
+      },
+      {
+        question: 'Can I place a dumpster in my driveway in Owasso?',
+        answer:
+          'Yes, in most cases. Most Owasso driveways handle roll-off delivery without issue. If your subdivision has an active HOA with placement rules, check those before the container arrives.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Owasso?',
+        answer:
+          'Driveway placement on private property does not typically require a permit. Street or right-of-way placement requires a permit from the City of Owasso. Your provider can usually help clarify requirements and assist with the permit process.',
+      },
+      {
+        question: 'What can I put in an Owasso roll-off dumpster?',
+        answer:
+          'Standard construction and demolition debris — drywall, lumber, tile, carpet, cabinets, fixtures, furniture, and yard waste. What does not go in: paint, solvents, batteries, propane tanks, tires, motor oil, appliances with refrigerant, and hazardous materials. Ask your provider for the full restricted items list before loading.',
+      },
+      {
+        question: 'How long can I keep a dumpster in Owasso?',
+        answer:
+          'Standard rental periods run 7 to 14 days. Most providers offer daily extensions at a per-day rate. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
+      },
+      {
+        question: 'How quickly can a dumpster be delivered in Owasso?',
+        answer:
+          'Most providers serving Owasso and the north Tulsa metro can deliver within one to two business days. Same-day delivery is available from some operators. During busy storm-repair seasons, booking a few days ahead gives more flexibility.',
+      },
+      {
+        question: 'Do you serve Claremore, Collinsville, and other north Tulsa cities?',
+        answer:
+          'Yes. Rolloff Dumpster Finder serves Owasso and the wider north Tulsa metro area, including Claremore, Collinsville, Catoosa, Skiatook, and surrounding communities. Availability depends on which providers cover your specific delivery address.',
+      },
+    ],
+    latitude: 36.2695,
+    longitude: -95.8547,
+  },
 ]

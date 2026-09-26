@@ -145,6 +145,11 @@ const cityCards = [
     slug: 'tucson-az-dumpster-rental',
     desc: "Pima County seat and Arizona's second-largest city. Home cleanouts, construction debris, University of Arizona-area renovation, and roofing jobs across the Tucson Basin.",
   },
+  {
+    city: 'Peoria',
+    slug: 'peoria-az-dumpster-rental',
+    desc: 'West Valley city with two distinct markets: older central neighborhoods from the 1970s and 1980s, and newer north Peoria development along Loop 101. Vistancia, Westbrook Village, and tile-roof tear-offs drive most of the roll-off demand.',
+  },
 ]
 
 const projects = [
@@ -465,6 +470,20 @@ export default function ArizonaLocationsPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Arizona cost guide callout */}
+      <section className="bg-[#F5F4F0] py-10 px-8">
+        <div className="max-w-[860px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4 rounded-sm border border-[#E8E4DE] bg-white p-6">
+          <div className="flex-1">
+            <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Pricing Guide</p>
+            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Arizona Dumpster Rental Cost: Prices by Size and City</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">Phoenix Metro runs $270–$470/week for a 10-yard. Scottsdale, Tucson, Prescott, and Flagstaff each price differently. Here is the full Arizona breakdown by market and container size.</p>
+          </div>
+          <Link href="/resources/arizona-dumpster-rental-cost" className="shrink-0 inline-block bg-orange text-black font-bold text-[13px] px-5 py-[10px] rounded-full hover:opacity-90 transition-opacity whitespace-nowrap">
+            See Pricing Guide →
+          </Link>
         </div>
       </section>
 
