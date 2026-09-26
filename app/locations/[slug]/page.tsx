@@ -635,7 +635,33 @@ export default async function CityPage({ params }: Props) {
         </div>
       </section>
 
-      {/* ── 10. FAQ ────────────────────────────────────────── */}
+      {/* ── 10. Video (city-specific, when provided) ───────── */}
+      {city.youtubeVideoId && (
+        <section className="bg-white py-16 px-8 border-y border-[#E8E4DE]">
+          <div className="max-w-[800px] mx-auto">
+            <div className="w-10 h-[3px] bg-orange rounded-sm mb-5" />
+            <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-charcoal tracking-tight mb-3">
+              Roll Off Dumpster Rentals in {city.cityName}, {city.stateAbbr}
+            </h2>
+            <p className="text-[15px] text-[#6B7280] max-w-[640px] leading-[1.65] mb-8">
+              Watch to learn how to choose the right dumpster size for cleanouts, roofing
+              tear-offs, remodeling, and construction projects in the {city.cityName} area.
+            </p>
+            <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+              <iframe
+                src={`https://www.youtube-nocookie.com/embed/${city.youtubeVideoId}`}
+                title={`Roll off dumpster rentals in ${city.cityName}, ${city.stateName} — video guide`}
+                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowFullScreen
+                loading="lazy"
+                className="absolute inset-0 w-full h-full rounded-lg"
+              />
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* ── 11. FAQ ────────────────────────────────────────── */}
       <section className="bg-white py-16 px-8 border-b border-[#E8E4DE]" id="faq">
         <div className="max-w-[800px] mx-auto">
           <div className="w-10 h-[3px] bg-orange rounded-sm mb-5" />
@@ -660,7 +686,7 @@ export default async function CityPage({ params }: Props) {
         </div>
       </section>
 
-      {/* ── 11. Final CTA ──────────────────────────────────── */}
+      {/* ── 12. Final CTA ──────────────────────────────────── */}
       <section className="relative bg-[#1A2530] py-20 px-8 overflow-hidden text-center">
         <div
           aria-hidden="true"

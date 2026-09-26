@@ -44,6 +44,7 @@ export interface CityLocation {
   heroImage?: { src: string; alt: string }
   latitude?: number
   longitude?: number
+  youtubeVideoId?: string
 }
 
 export const cityLocations: CityLocation[] = [
@@ -269,6 +270,7 @@ export const cityLocations: CityLocation[] = [
     },
     latitude: 39.7392,
     longitude: -104.9903,
+    youtubeVideoId: 'd2G46Bdgcwo',
   },
 
   // ─── COLORADO SPRINGS ─────────────────────────────────────
@@ -1533,6 +1535,7 @@ export const cityLocations: CityLocation[] = [
     ],
     latitude: 33.4484,
     longitude: -112.074,
+    youtubeVideoId: 'WsX-Q_UxW94',
   },
 
   // ─── SCOTTSDALE ───────────────────────────────────────────────
@@ -3999,6 +4002,7 @@ export const cityLocations: CityLocation[] = [
     ],
     latitude: 32.7767,
     longitude: -96.7970,
+    youtubeVideoId: '_6xCfOhh7lk',
   },
 
   // ─── HOUSTON ──────────────────────────────────────────────
