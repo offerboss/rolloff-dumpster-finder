@@ -17763,6 +17763,10 @@ export const cityLocations: CityLocation[] = [
           'Yes. Rolloff Dumpster Finder helps customers across the south Denver metro, including Littleton, Centennial, Lone Tree, Parker, and Castle Rock. Availability and pricing depend on which providers cover your delivery address.',
       },
     ],
+    heroImage: {
+      src: '/RDF-Images/highlands-ranch-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Highlands Ranch, Colorado',
+    },
     latitude: 39.5419,
     longitude: -104.9708,
     pricingPlacementNote:
