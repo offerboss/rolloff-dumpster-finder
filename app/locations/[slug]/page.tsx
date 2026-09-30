@@ -317,7 +317,7 @@ export default async function CityPage({ params }: Props) {
           </h2>
           <p className="text-[15px] text-[#6B7280] max-w-[700px] leading-[1.65] mb-8">
             Pricing depends on container size, debris type, weight, rental period, delivery
-            location, and landfill disposal fees. The ranges below are estimates based on typical
+            location, and landfill disposal fees. The ranges below are estimates based on typical{' '}
             {city.cityName}-area pricing. Your actual quote will vary.
           </p>
 
@@ -349,8 +349,9 @@ export default async function CityPage({ params }: Props) {
 
           <p className="text-[12px] text-[#9CA3AF] mb-8 leading-relaxed max-w-[700px]">
             Estimates only. Actual pricing varies based on dumpster size, debris type, weight,
-            rental period, delivery address, and provider availability. Street or right-of-way
-            placement may require a permit which is not included in rental pricing.
+            rental period, delivery address, and provider availability.{' '}
+            {city.pricingPlacementNote ??
+              'Street or right-of-way placement may require a permit which is not included in rental pricing.'}
           </p>
 
           <a

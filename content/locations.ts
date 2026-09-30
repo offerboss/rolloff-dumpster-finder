@@ -45,6 +45,7 @@ export interface CityLocation {
   latitude?: number
   longitude?: number
   youtubeVideoId?: string
+  pricingPlacementNote?: string
 }
 
 export const cityLocations: CityLocation[] = [
@@ -17764,5 +17765,7 @@ export const cityLocations: CityLocation[] = [
     ],
     latitude: 39.5419,
     longitude: -104.9708,
+    pricingPlacementNote:
+      'HRCA covenant guidance says dumpsters must be placed in the driveway and are not allowed on the public right-of-way, so plan for driveway placement. Contact HRCA Community Improvement Services with placement questions.',
   },
 ]
