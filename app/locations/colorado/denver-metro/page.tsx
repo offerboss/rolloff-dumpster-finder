@@ -198,6 +198,16 @@ const cityCards = [
     slug: 'greenwood-village-co-dumpster-rental',
     desc: "Affluent south metro city with executive estates in Cherry Knolls, Hunters Hill, and Vintage Park. The Denver Tech Center sits within city limits, driving commercial roll-off demand alongside high-value residential renovation.",
   },
+  {
+    city: 'Parker',
+    slug: 'parker-co-dumpster-rental',
+    desc: 'Douglas County suburb along the CO-83 and E-470 corridor, built out largely between 1995 and 2015. Stonegate, Canterberry Crossing, and Bradbury Ranch are in their first renovation cycle, with kitchen remodels, basement finishing, and roofing leading demand.',
+  },
+  {
+    city: 'Highlands Ranch',
+    slug: 'highlands-ranch-co-dumpster-rental',
+    desc: 'Master-planned south metro community in unincorporated Douglas County, first settled in 1981 in Northridge. HRCA covenants require driveway placement, so container size is set by the driveway. Roofing, remodels, and basement cleanouts lead the work.',
+  },
 ]
 
 const projects = [

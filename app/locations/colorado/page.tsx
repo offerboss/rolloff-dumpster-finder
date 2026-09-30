@@ -260,6 +260,11 @@ const cityCards = [
     slug: 'parker-co-dumpster-rental',
     desc: 'Douglas County suburb built out largely between 1995 and 2015 along the CO-83 and E-470 corridor. Stonegate, Canterberry Crossing, and Bradbury Ranch are hitting first renovation cycle — kitchen remodels, basement finishing, and roofing are the main drivers.',
   },
+  {
+    city: 'Highlands Ranch',
+    slug: 'highlands-ranch-co-dumpster-rental',
+    desc: "Douglas County's largest community, about 103,000 residents, built out from 1981 through the mid-2000s. HRCA covenants keep dumpsters in the driveway and off the public right-of-way. Aging roofs, kitchens, and basements are the common jobs.",
+  },
 ]
 
 const projects = [
