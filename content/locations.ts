@@ -17587,9 +17587,9 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline:
       'Roll-off dumpster rental for roofing tear-offs, kitchen and bath remodels, basement and garage cleanouts, and construction debris across Highlands Ranch and the south Denver metro.',
     introParagraphs: [
-      "Highlands Ranch was planned, and its houses arrived on a schedule. The first homes went up in 1981 in Northridge: The Groves, Bayfield, and Stoney Point. The HRCA's own history puts the population near 17,000 in 1991 and 86,000 by 2006. So most of the roughly 31,500 homes here are now 20 to 45 years old. Original roofs, builder-grade kitchens, and first-generation carpet tend to come due in the same stretch of years. The bins follow the calendar.",
-      "The rule that shapes every rental here is placement. Highlands Ranch homes fall under the Highlands Ranch Community Association covenants. HRCA guidance is plain: dumpsters go in the driveway. They are not allowed on a public right-of-way, per Douglas County officials. HRCA also asks homeowners to contact its Community Improvement Services department with the address and time frame before delivery. Measure the driveway before you pick a size. The curb is not a backup plan.",
-      'Rolloff Dumpster Finder helps Highlands Ranch homeowners and contractors find roll-off options across the south Denver metro. Availability depends on which providers cover your delivery address. When you request a quote, share the project, the address, and the driveway length. Then ask every quote for three numbers: the weight allowance, the overage rate per ton, and the daily extension fee. Those three decide the invoice more often than the base price does.',
+      "Highlands Ranch is a master-planned community in unincorporated Douglas County. The first homes were built in 1981 in Northridge, in The Groves, Bayfield, and Stoney Point subdivisions. HRCA's history puts the population near 17,000 in 1991 and 86,000 by 2006, so most of the roughly 31,500 homes here are now about 20 to 45 years old. Homes in that age range often need new roofs, kitchen and bath remodels, and flooring replacement. Each of those projects can produce enough debris to justify a roll-off container.",
+      "Placement is the main local rule to plan around. Highlands Ranch homes fall under the Highlands Ranch Community Association (HRCA) covenants. HRCA guidance says dumpsters must be placed in the driveway and are not allowed on a public right-of-way, per Douglas County officials. HRCA asks homeowners to contact its Community Improvement Services department with their address and time frame before delivery. Measure your driveway before choosing a container size, because street placement is not an option.",
+      'Rolloff Dumpster Finder helps Highlands Ranch homeowners and contractors find roll-off options across the south Denver metro. Availability depends on which providers cover your delivery address. When you request a quote, include the project type, the address, and your driveway length. Ask each provider for its included weight allowance, overage rate per ton, rental period, and daily extension fee. These terms vary by provider and can change the final cost.',
     ],
     pricingGuide: [
       {
@@ -17623,66 +17623,66 @@ export const cityLocations: CityLocation[] = [
         number: '01',
         name: 'Roofing Tear-Offs',
         description:
-          'Roofs from the 1980s and 1990s build-out are at or past the age when asphalt shingles usually get replaced. A 20-yard holds most residential tear-offs by volume. Weight is the catch: a full roof commonly produces 3–5 tons, and many 20-yard quotes include 2–4 tons.',
+          'Roofs from the 1980s and 1990s build-out are at or past the age when asphalt shingles are usually replaced. A 20-yard container holds most residential tear-offs by volume. Weight matters more: a full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Confirm the allowance before loading.',
       },
       {
         number: '02',
         name: 'Storm Damage Cleanup',
         description:
-          'On June 22, 2023, the National Weather Service confirmed an EF-1 tornado that tracked from just south of C-470 in Highlands Ranch to near Lone Tree, with hail up to tennis-ball size. Storm debris is mixed: shingles, fence panels, siding, branches. A 20-yard is the usual starting point. Ask whether yard waste mixed with construction debris changes the rate.',
+          'On June 22, 2023, the National Weather Service confirmed an EF-1 tornado that tracked from just south of C-470 in Highlands Ranch to near Lone Tree. The same storm produced hail up to tennis-ball size. Storm cleanup debris is usually mixed, including shingles, fence panels, siding, and branches. A 20-yard is a common starting size. Ask your provider whether mixing yard waste with construction debris changes the price.',
       },
       {
         number: '03',
         name: 'Kitchen & Bath Remodels',
         description:
-          'Kitchens and baths installed during the 1980s and 1990s build-out are common remodel candidates now. Cabinets and drywall are bulky but light. Granite, tile, and mortar beds are the opposite. A 15-yard covers most single-kitchen jobs. Go to a 20-yard if a bathroom comes out in the same window.',
+          'Kitchens and baths installed during the 1980s and 1990s build-out are common remodel candidates now. Cabinets and drywall take up space but weigh relatively little. Granite, tile, and mortar beds are heavy for their size. A 15-yard covers most single-kitchen remodels. A 20-yard is a better fit if a bathroom is remodeled at the same time.',
       },
       {
         number: '04',
         name: 'Basement & Garage Cleanouts',
         description:
-          'A house with the same owners for 25 years stores a lot in the garage and basement. A 10-yard handles a typical garage cleanout. A full basement with furniture, boxes, and old exercise equipment usually needs a 15 or 20-yard.',
+          'Long-term owners often have years of stored items in the garage and basement. A 10-yard handles a typical garage cleanout. A full basement with furniture, boxes, and exercise equipment usually needs a 15 or 20-yard.',
       },
       {
         number: '05',
         name: 'Home Cleanouts',
         description:
-          'Selling after decades in one house produces more debris than people plan for. A full-home cleanout typically fills a 20-yard. If the basement and garage are both full, book a 30-yard. One larger bin usually costs less than a second haul.',
+          'Preparing a long-owned home for sale often produces more debris than expected. A full-home cleanout typically fills a 20-yard. If the basement and garage are also full, consider a 30-yard. One larger container often costs less than a second haul, but compare both prices with your provider.',
       },
       {
         number: '06',
         name: 'Estate Cleanouts',
         description:
-          'The early Northridge subdivisions, The Groves, Bayfield, and Stoney Point, date to 1981 through 1983. An estate cleanout in a house with 40 years of contents commonly needs a 20 or 30-yard. Pull paint, chemicals, and anything with refrigerant before loading. Those do not go in the bin.',
+          'The early Northridge subdivisions, The Groves, Bayfield, and Stoney Point, date to 1981 through 1983. An estate cleanout in a house with 40 years of contents commonly needs a 20 or 30-yard. Remove paint, chemicals, and appliances with refrigerant before loading. Those items are commonly prohibited in standard roll-off containers.',
       },
       {
         number: '07',
         name: 'Construction Debris',
         description:
-          'Additions, basement finishes, and deck rebuilds produce framing lumber, drywall, and mixed C&D debris. A 20-yard is the common choice for a single-home addition. Concrete and block are a weight problem, not a volume problem. If the job includes a patio or footings, ask about a smaller heavy-debris container.',
+          'Additions, basement finishes, and deck rebuilds produce framing lumber, drywall, and mixed C&D debris. A 20-yard is a common choice for a single-home addition. Concrete and block reach weight limits before they fill the container. If the job includes a patio or footings, ask your provider about a smaller heavy-debris container.',
       },
       {
         number: '08',
         name: 'Flooring Removal',
         description:
-          'Whole-house flooring swaps are a single-material job, which makes them easy to size. Carpet and pad for a typical house fit in a 10-yard. Tile set in a mortar bed is heavy enough to hit the weight allowance before the bin looks full.',
+          'Flooring removal is usually a single-material job, so it is easier to size. Carpet and pad from a typical house usually fit in a 10-yard. Tile set in a mortar bed is heavy and can reach the weight allowance before the container looks full.',
       },
       {
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          'Sod removal, shrub replacement, and tree work fill a 10 or 15-yard quickly. Sod and soil weigh far more than branches. Some providers restrict clean yard waste or price it differently from mixed loads, so ask before loading.',
+          'Sod removal, shrub replacement, and tree work can fill a 10 or 15-yard quickly. Sod and soil weigh much more than branches. Some providers restrict clean yard waste or price it differently from mixed loads, so ask before loading.',
       },
     ],
     placementIntro:
-      'Dumpster placement in Highlands Ranch depends on your driveway and the HRCA covenants, because the public right-of-way is off the table.',
+      'Dumpster placement in Highlands Ranch depends on your driveway and HRCA covenant guidance. Street and right-of-way placement is not an option.',
     placementNotes: [
       'Driveway placement is the standard setup. HRCA covenant guidance says dumpsters and storage pods must be placed in the driveway.',
-      'Street and right-of-way placement is not allowed. HRCA states dumpsters are not allowed on a public right-of-way per Douglas County officials, so size the container to your driveway, not the curb.',
-      'Contact HRCA Community Improvement Services at 303-471-8821 or covenant@hrcaonline.org with your address and rental time frame before the container arrives.',
+      'Street and right-of-way placement is not allowed. HRCA states that dumpsters are not allowed on a public right-of-way per Douglas County officials, so a street permit is not a placement option here. Choose a container size that fits your driveway.',
+      'Contact HRCA Community Improvement Services at 303-471-8821 or covenant@hrcaonline.org with your address and rental time frame before the container arrives, and with any questions about placement.',
       'Highlands Ranch is an unincorporated community governed by Douglas County. Many addresses carry a Littleton mailing address (ZIP 80126, 80129, or 80130), but the property is still unincorporated Douglas County, not the City of Littleton.',
-      'Measure driveway length and width before booking. The truck needs room to back in and set the container, plus overhead clearance for the lift. Mention a steep or curved driveway when you book.',
-      'Put boards or plywood under the container rails to protect the concrete, especially on longer rentals. Ask the provider to bring them.',
+      'Measure driveway length and width before booking. The truck needs room to back in and set the container, plus overhead clearance for the lift. Tell the provider about a steep or curved driveway when you book.',
+      'Boards or plywood under the container rails help protect the concrete, especially on longer rentals. Ask whether your provider supplies them.',
       'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
     ],
     neighborhoods: [
@@ -17714,7 +17714,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Highlands Ranch?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650. Your quote depends on size, rental period, weight allowance, and delivery address. Overage charges in the Denver metro commonly run $65–$150 per ton over the included limit, so ask for that number before you book.',
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Overage charges in the Denver metro commonly run $65–$150 per ton over the included limit, but rates vary by provider, so confirm yours before booking. HRCA guidance requires driveway placement, so plan your budget around driveway placement rather than a street permit.',
       },
       {
         question: 'Can I put a dumpster on the street in Highlands Ranch?',
@@ -17724,37 +17724,37 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'Do I need to tell the HRCA before my dumpster arrives?',
         answer:
-          'Yes. HRCA asks homeowners to contact its Community Improvement Services department at 303-471-8821 or covenant@hrcaonline.org with the address and time frame. Do it before delivery day, not after the container is already in the driveway.',
+          'Yes. HRCA asks homeowners to contact its Community Improvement Services department at 303-471-8821 or covenant@hrcaonline.org with the address and time frame. Contact them before delivery day.',
       },
       {
         question: 'What size dumpster do I need for a Highlands Ranch home cleanout?',
         answer:
-          'A 20-yard covers most full-home cleanouts. A single garage or one room usually fits in a 10-yard. If the basement and garage are both full, a 30-yard is the more honest size.',
+          'A 20-yard covers most full-home cleanouts. A single garage or one room usually fits in a 10-yard. If the basement and garage are both full, a 30-yard may be the better fit.',
       },
       {
         question: 'Can I rent a dumpster for roofing debris in Highlands Ranch?',
         answer:
-          'Yes. A 20-yard handles most residential tear-offs by volume. A full roof commonly produces 3–5 tons, and many 20-yard quotes include 2–4 tons. Confirm the weight allowance before the crew starts loading.',
+          'Yes. A 20-yard handles most residential tear-offs by volume. A full roof commonly produces 3–5 tons. The weight included with a 20-yard varies by provider, often 2–4 tons, so confirm the allowance before the crew starts loading.',
       },
       {
         question: 'What about concrete, dirt, or other heavy debris?',
         answer:
-          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They hit the weight limit long before the bin looks full. Tell the provider exactly what is going in. Heavy material mixed into a general load is how most overage charges happen.',
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They can reach the weight limit well before the container looks full. Tell the provider exactly what is going in. Mixing heavy material into a general load is a common cause of overage charges.',
       },
       {
         question: 'How quickly can I get a dumpster delivered in Highlands Ranch?',
         answer:
-          'Front Range providers can typically deliver within 24–48 hours of booking, depending on the provider and the season. After a hail storm, demand jumps. Book a few days ahead and send HRCA your time frame at the same time.',
+          'Delivery timing depends on the provider, your address, and the season. Many Front Range providers can deliver within one to two days of booking, but confirm the date when you book. Demand often rises after hail storms. Booking a few days ahead also gives you time to send HRCA your time frame.',
       },
       {
         question: 'How long can I keep a dumpster in Highlands Ranch?',
         answer:
-          'Standard rental periods usually run 7 to 14 days. Extensions typically cost $5–$15 per day. Give HRCA the full time frame you expect to need.',
+          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking, and give HRCA the full time frame you expect to need.',
       },
       {
         question: 'What can I not put in a Highlands Ranch dumpster?',
         answer:
-          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are prohibited in standard roll-offs. Ask your provider for its full restricted list before loading.',
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
       },
       {
         question: 'Do you serve nearby areas like Littleton, Centennial, Lone Tree, and Parker?',
