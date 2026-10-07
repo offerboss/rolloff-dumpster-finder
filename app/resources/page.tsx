@@ -265,6 +265,20 @@ const resourceCards = [
       'Ogden runs $245–$410/week for a 10-yard — the lowest floor in Utah. Salt Lake City and Sandy run $260–$440. St. George runs $270–$460. Here is the full Utah breakdown by market and container size.',
     href: '/resources/utah-dumpster-rental-cost',
   },
+  {
+    badge: 'Geo Guide',
+    title: 'Denver Dumpster Permit: Who Pulls It and What It Costs',
+    excerpt:
+      'Driveway placement needs no Denver permit. Street placement needs a DOTI Revocable Street Occupancy Permit, pulled by your dumpster company, starting at $125 for five days. Alleys are off limits.',
+    href: '/resources/denver-dumpster-permit',
+  },
+  {
+    badge: 'Geo Guide',
+    title: '10 Yard Dumpster Rental in Denver: When Small Is Enough',
+    excerpt:
+      'A 10-yard runs $280–$480/week at Denver rates, holds about three pickup loads, and fits most driveways. Here is what it handles, when Large Item Pickup is enough, and when to size up.',
+    href: '/resources/10-yard-dumpster-rental-denver',
+  },
 ]
 
 export default function ResourcesPage() {

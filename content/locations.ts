@@ -429,6 +429,7 @@ export const cityLocations: CityLocation[] = [
       'Woodland Park',
       'Pueblo West',
       'Canon City',
+      'Castle Rock',
     ],
     faq: [
       {
@@ -17771,5 +17772,979 @@ export const cityLocations: CityLocation[] = [
     longitude: -104.9708,
     pricingPlacementNote:
       'HRCA covenant guidance says dumpsters must be placed in the driveway and are not allowed on the public right-of-way, so plan for driveway placement. Contact HRCA Community Improvement Services with placement questions.',
+  },
+
+  // ─── CASTLE ROCK ──────────────────────────────────────────
+  {
+    slug: 'castle-rock-co-dumpster-rental',
+    cityName: 'Castle Rock',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Castle Rock Dumpster Rental | Sizes, Costs & Town Rules',
+    metaDescription:
+      'Castle Rock dumpster rental for remodels, roofing, cleanouts, and turf removal. Compare roll-off sizes, Front Range pricing, and Town street-placement rules.',
+    primaryKeyword: 'castle rock dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental castle rock co',
+      'castle rock construction dumpster rental',
+      'roll off dumpster castle rock',
+      'roll off dumpster castle rock co',
+      'rolloff dumpsters castle rock',
+      'roll offs castle rock co',
+      '10 yard dumpster rental castle rock',
+      '20 yard dumpster rental castle rock',
+      '30 yard dumpster rental castle rock',
+      'castle rock dumpster permit',
+      'sod removal dumpster castle rock',
+    ],
+    heroH1: 'Dumpster Rental in Castle Rock, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for turf removal, roofing tear-offs, basement finishes, remodels, and cleanouts across Castle Rock and the Douglas County stretch of I-25.',
+    introParagraphs: [
+      "Castle Rock is growing fast. The U.S. Census counted 48,231 residents in 2010 and 73,158 in 2020, and the Town now puts its population above 87,000. That growth produces two kinds of debris. Large HOA neighborhoods such as The Meadows, Crystal Valley Ranch, and Terrain generate basement finishes, landscaping changes, and garage cleanouts. Downtown, where the Town's first 77 lots were auctioned in 1874, sees remodels and estate cleanouts in older homes. Most of those jobs fit a 10, 15, or 20-yard container.",
+      "Plan on the driveway. The Town's residential property guidelines say construction and landscape materials, debris, dirt, and general solid waste are not allowed on any public right-of-way, street, alley, or easement. A roll-off in the street needs a Town Right-of-Way Permit through the eTRAKiT portal. The Town's 2026 fee schedule lists $250 for the permit plus $75 for obstructions in the public right-of-way. The application also asks for a traffic control plan and a street lane closure application. That is a lot of paperwork for one bin.",
+      "Rolloff Dumpster Finder helps Castle Rock homeowners and contractors compare roll-off options. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and your driveway length. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Most neighborhoods on the Town's neighborhood map list an HOA, so read your covenants before delivery day. A quick look at the CC&Rs costs less than a letter from the board.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Sod and soil removal, garage cleanouts, flooring removal, single-room remodels', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Turf Removal & ColoradoScape',
+        description:
+          "Castle Rock Water's Residential ColoradoScape Renovation rebate paid $3.25 per square foot in 2026 for replacing at least 400 square feet of healthy, high-water-use turf, up to 1,500 square feet. The 2026 program is closed, and 2027 details are due in April 2027. Sod and soil are heavy, so a 10-yard heavy-debris container is often the safer choice. Apply and finish the initial inspection before the sod comes up.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'A 20-yard container holds most residential tear-offs by volume. Weight matters more. A full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Confirm the allowance before the crew starts loading.',
+      },
+      {
+        number: '03',
+        name: 'Construction Debris',
+        description:
+          'Basement finishes, additions, and deck rebuilds produce framing scraps, drywall, and packaging. A 20-yard is a common size for a single-home project. Town guidelines allow construction tool noise from 7 a.m. to 7 p.m. on weekdays and 8 a.m. to 6 p.m. on weekends and holidays, so plan loading inside those hours.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Cabinets and drywall are bulky but light. Tile, stone counters, and mortar beds are heavy for their size. A 15-yard covers most single-kitchen remodels. Step up to a 20-yard if a bathroom is part of the same project.',
+      },
+      {
+        number: '05',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'A typical garage cleanout fits in a 10-yard. A full basement with furniture, boxes, and exercise equipment often needs a 15 or 20-yard. Keep paint, solvents, and chemicals out of the load.',
+      },
+      {
+        number: '06',
+        name: 'Home Cleanouts',
+        description:
+          'Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. One larger container often costs less than a second haul, so price both before booking.',
+      },
+      {
+        number: '07',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-held homes can hold decades of contents. Plan on a 20 or 30-yard for a full estate. Appliances with refrigerant, paint, and chemicals are commonly prohibited in standard roll-offs, so pull them before loading.',
+      },
+      {
+        number: '08',
+        name: 'Downtown Projects',
+        description:
+          'Downtown Castle Rock was laid out in 1874 with lots 50 by 112 feet. Narrow lots leave less room for the truck and the container. Measure the driveway or parking pad before booking, and ask about a 10 or 15-yard if space is tight.',
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Shrub removal, tree trimming, and rock or mulch changes fill a container fast. Branches are light. Rock and soil are not. Some providers price clean yard waste differently from mixed loads, so ask before combining them.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Castle Rock depends on your driveway, your HOA, and whether a Town right-of-way permit is worth the paperwork. For most homeowners, the driveway wins.',
+    placementNotes: [
+      'Driveway placement is the standard setup in Castle Rock. Town guidelines say construction materials, debris, and dirt must stay on your property, not in the street, to keep debris out of the stormwater system.',
+      'Street placement needs a Town Right-of-Way Permit through the Town of Castle Rock eTRAKiT portal. The 2026 fee schedule lists a $250 permit fee and a $75 fee for obstructions in the public right-of-way. Check with the Town of Castle Rock Public Works Department before planning on the street.',
+      'The right-of-way application asks for a traffic control plan and a street lane closure application. After fees are paid, a Public Works inspector schedules a pre-construction meeting, and the permit must stay on site. Permits expire 45 days after issuance if work has not started.',
+      "Most neighborhoods on the Town's neighborhood map list an HOA. Check your covenants for container rules, time limits, or notice requirements before delivery.",
+      'Measure driveway length and width. The truck needs room to back in and set the container, plus overhead clearance for the lift. Tell the provider about a steep or curved driveway when you book.',
+      'Boards or plywood under the container rails help protect the concrete, especially on longer rentals. Ask if your provider supplies them.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown',
+      'Plum Creek',
+      'The Meadows',
+      'Crystal Valley Ranch',
+      'Castlewood Ranch',
+      'Founders Village',
+      'Red Hawk',
+      'Terrain',
+      'Metzler Ranch',
+      'Castle Highlands',
+      'Cobblestone Ranch',
+      'Sapphire Pointe',
+      'The Woodlands',
+      'Timber Ridge',
+      'Montaine',
+    ],
+    nearbyCities: [
+      'Castle Pines',
+      'Parker',
+      'Highlands Ranch',
+      'Lone Tree',
+      'Larkspur',
+      'Franktown',
+      'Sedalia',
+      'Littleton',
+      'Centennial',
+      'Aurora',
+      'Denver',
+      'Colorado Springs',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Castle Rock?',
+        answer:
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement adds a Town right-of-way permit; the 2026 fee schedule lists $250 for the permit plus a $75 obstruction fee. Driveway placement avoids that cost.',
+      },
+      {
+        question: 'Can I put a dumpster on the street in Castle Rock?',
+        answer:
+          'Only with a Town Right-of-Way Permit. Town guidelines say construction and landscape materials, debris, and dirt are not allowed in any public right-of-way, street, alley, or easement, and must stay on your property. The permit application goes through eTRAKiT with a traffic control plan and a lane closure application. Check with the Town of Castle Rock Public Works Department before booking street placement.',
+      },
+      {
+        question: 'What size dumpster do I need for turf removal in Castle Rock?',
+        answer:
+          'Weight sets the size, not volume. Sod and soil are heavy, so a 10-yard heavy-debris container is a common choice for a front-yard conversion. Tell the provider the load is sod and soil so the weight allowance matches. If you plan to use the ColoradoScape rebate, apply and complete the initial inspection before any turf comes out.',
+      },
+      {
+        question: 'What size dumpster do I need for a Castle Rock home cleanout?',
+        answer:
+          'A 20-yard covers most full-home cleanouts. A single garage or one room usually fits in a 10-yard. If the basement and garage are both full, a 30-yard may be the better fit.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Castle Rock?',
+        answer:
+          'Yes. A 20-yard handles most residential tear-offs by volume. A full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Confirm the allowance before the crew starts loading.',
+      },
+      {
+        question: 'What about concrete, dirt, or other heavy debris?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in. Mixing heavy material into a general load is a common cause of overage charges.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Castle Rock?',
+        answer:
+          'Delivery timing depends on the provider, your address, and the season, so confirm the date when you book. Driveway placement is the faster route because it skips the Town permit. Street placement needs a reviewed permit, paid fees, and a pre-construction meeting with a Public Works inspector, so allow extra time.',
+      },
+      {
+        question: 'How long can I keep a dumpster in Castle Rock?',
+        answer:
+          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a street permit, keep the permit dates and the rental dates lined up.',
+      },
+      {
+        question: 'What can I not put in a Castle Rock dumpster?',
+        answer:
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
+      },
+      {
+        question: 'Do you serve nearby areas like Castle Pines, Parker, Highlands Ranch, and Lone Tree?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across Douglas County and the south Denver metro, including Castle Pines, Parker, Highlands Ranch, Lone Tree, and Littleton. Availability and pricing depend on which providers cover your delivery address.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/castle-rock-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Castle Rock, Colorado',
+    },
+    latitude: 39.3762,
+    longitude: -104.8535,
+    pricingPlacementNote:
+      "Street placement in Castle Rock requires a Town Right-of-Way Permit, which is not included in rental pricing. The Town's 2026 fee schedule lists a $250 permit fee plus a $75 right-of-way obstruction fee.",
+  },
+
+  // ─── LONE TREE ────────────────────────────────────────────
+  {
+    slug: 'lone-tree-co-dumpster-rental',
+    cityName: 'Lone Tree',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Lone Tree Dumpster Rental | Sizes, Costs & Permit Rules',
+    metaDescription:
+      'Lone Tree dumpster rental for remodels, re-roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and the City permit rule for driveway dumpsters.',
+    primaryKeyword: 'lone tree dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental lone tree co',
+      'lone tree construction dumpster rental',
+      'roll off dumpster lone tree',
+      'roll off dumpster lone tree co',
+      'rolloff dumpsters lone tree',
+      'roll offs lone tree co',
+      '10 yard dumpster rental lone tree',
+      '20 yard dumpster rental lone tree',
+      '30 yard dumpster rental lone tree',
+      'lone tree dumpster permit',
+    ],
+    heroH1: 'Dumpster Rental in Lone Tree, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for remodels, re-roofing, basement finishes, and cleanouts across Lone Tree, RidgeGate, and the south Denver metro along I-25 and C-470.',
+    introParagraphs: [
+      "Lone Tree started small. The City's history says the first nine households moved in over Memorial Day weekend in 1982. Residents voted to incorporate in 1995. Heritage Hills, Centennial Ridge, and Carriage Club were annexed in 2001, and the first residents moved in east of I-25 in 2023. The Census counted 10,218 people in 2010 and 14,253 in 2020. That spread of ages means remodels and re-roofs in the older neighborhoods and move-in debris in RidgeGate.",
+      "Lone Tree has a rule most metro cities do not. The City's Resident Guide says a temporary permit is required for a dumpster on your own private property, unless there is an active building permit. A dumpster in the street or public right-of-way needs a right-of-way permit from Public Works. The dumpster also cannot stay more than 30 consecutive days in a calendar year unless it is tied to active construction or a building permit. Sort out the paperwork before the truck shows up.",
+      "Rolloff Dumpster Finder helps Lone Tree homeowners and contractors compare roll-off options. Availability depends on which providers cover your address. The City says every single-family and townhome neighborhood has an HOA, so check your covenants along with the City permit. When you request quotes, include the address, project type, driveway length, and how many days you need. Ask about the weight allowance, overage rate per ton, and daily extension fee. With a 30-day cap, the rental period is worth planning.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, single-room remodels, yard debris', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, deck removal, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Re-roofing, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          "The City lists re-roofing among the projects that commonly need a building permit. Because an active building permit can cover dumpster placement on private property, ask the City's Building Division if your roofer's permit covers the container. A 20-yard holds most tear-offs by volume. Shingles are heavy, so confirm the weight allowance.",
+      },
+      {
+        number: '02',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Home alterations and remodels are on the City list of commonly permitted projects. A 15-yard covers most single-kitchen remodels. A 20-yard handles a kitchen and bathroom together. Tile and stone counters weigh more than they look.',
+      },
+      {
+        number: '03',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'A cleanout usually has no building permit behind it, so plan on the temporary dumpster permit. A 10-yard handles most garage cleanouts. A full basement often needs a 15 or 20-yard.',
+      },
+      {
+        number: '04',
+        name: 'Home Cleanouts',
+        description:
+          'Preparing a long-owned home in The Charter, Carriage Club, or Heritage Hills for sale often fills a 20-yard. Schedule the job inside the 30-consecutive-day limit. One larger container usually costs less than a second haul, but price both.',
+      },
+      {
+        number: '05',
+        name: 'Estate Cleanouts',
+        description:
+          "Lone Tree's first homes date to 1982, and some have decades of contents. Plan on a 20 or 30-yard for a full estate. Remove paint, chemicals, and appliances with refrigerant before loading.",
+      },
+      {
+        number: '06',
+        name: 'Construction Debris',
+        description:
+          'Additions, basement finishes, and deck rebuilds produce framing lumber, drywall, and mixed debris. Containers tied to active construction or a building permit are exempt from the 30-day limit. Concrete belongs in a separate heavy-debris container.',
+      },
+      {
+        number: '07',
+        name: 'Deck Replacement',
+        description:
+          'Deck replacement is on the City list of projects that commonly need a permit. Old decking, joists, and railings are bulky. A 15 or 20-yard covers most residential decks.',
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "The City's trash vendor picks up extra yard debris only during designated spring and fall clean-up months. Larger landscaping jobs usually need a 10 or 15-yard. Do not stage dirt, mulch, sand, or grass clippings in the street. The Resident Guide prohibits it.",
+      },
+      {
+        number: '09',
+        name: 'RidgeGate Move-In Debris',
+        description:
+          'Newer homes in RidgeGate produce cardboard, packaging, and finish scraps after move-in. A 10-yard usually covers it. Check the neighborhood HOA rules and the City permit before delivery.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Lone Tree depends on City permits, your HOA, and your driveway. A permit is part of the plan even when the container stays off the street.',
+    placementNotes: [
+      'A temporary City permit is required to place a dumpster on private property in Lone Tree, unless there is an active building permit. Check with the City of Lone Tree before delivery.',
+      'Street or right-of-way placement needs a right-of-way permit from Lone Tree Public Works. The City says permits are generally issued within five working days, and applications are accepted only through its online portal.',
+      'Dirt, mulch, grass clippings, sand, and similar materials cannot be placed in the street.',
+      'A dumpster cannot stay more than 30 consecutive days in a calendar year unless it is associated with active construction or a building permit.',
+      'Every single-family and townhome neighborhood in Lone Tree has an HOA, and some have design review committees with their own rules. Check with your HOA before delivery.',
+      'Measure driveway length and width, and check overhead clearance for the lift. Tell the provider about a steep or curved driveway when you book.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'The Charter',
+      'Carriage Club',
+      'Heritage Hills',
+      'Heritage Estates',
+      'Centennial Ridge',
+      'Club Terrace',
+      'Fairways 39',
+      'Cypress Greens',
+      'Prominence Point',
+      'Montecito at RidgeGate',
+      'The Retreat at RidgeGate',
+      'RidgeGate West Village',
+      'Northsky at RidgeGate',
+      'Lyric',
+      'Belvedere',
+      'Taos',
+    ],
+    nearbyCities: [
+      'Highlands Ranch',
+      'Centennial',
+      'Littleton',
+      'Greenwood Village',
+      'Englewood',
+      'Parker',
+      'Aurora',
+      'Castle Rock',
+      'Castle Pines',
+      'Acres Green',
+      'Denver',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Lone Tree?',
+        answer:
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. City permit costs are separate from the rental price, so ask the City of Lone Tree what applies to your placement.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in my driveway in Lone Tree?',
+        answer:
+          "Usually, yes. The City's Resident Guide says a temporary permit is required for residents to place a dumpster on private property, unless there is an active building permit. Check with the City of Lone Tree for the current application process before delivery.",
+      },
+      {
+        question: 'How long can a dumpster stay at my house in Lone Tree?',
+        answer:
+          'The City limits a dumpster to 30 consecutive days in a calendar year, unless it is associated with active construction or a building permit. Provider rental periods vary. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day.',
+      },
+      {
+        question: 'Can I put a dumpster on the street in Lone Tree?',
+        answer:
+          'Only with a right-of-way permit from Lone Tree Public Works. The City says permits are generally issued within five working days, and projects with significant lane closures should be submitted at least 10 days ahead. Applications are accepted only through the City portal.',
+      },
+      {
+        question: 'What size dumpster do I need for a Lone Tree home cleanout?',
+        answer:
+          'A 20-yard covers most full-home cleanouts. A single garage or one room usually fits in a 10-yard. If the basement and garage are both full, a 30-yard may be the better fit.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Lone Tree?',
+        answer:
+          'Yes. A 20-yard handles most residential tear-offs by volume. A full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Re-roofing commonly needs a building permit in Lone Tree, so ask the Building Division whether that permit covers the container.',
+      },
+      {
+        question: 'What about concrete, dirt, or other heavy debris?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in. Never stage dirt or sand in the street while you load.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Lone Tree?',
+        answer:
+          'Delivery timing depends on the provider, your address, and the season, so confirm the date when you book. Build in time for the City permit. Right-of-way permits are generally issued within five working days.',
+      },
+      {
+        question: 'What can I not put in a Lone Tree dumpster?',
+        answer:
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
+      },
+      {
+        question: 'Do you serve nearby areas like Highlands Ranch, Centennial, Littleton, and Castle Rock?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across the south Denver metro, including Highlands Ranch, Centennial, Littleton, Parker, and Castle Rock. Availability and pricing depend on which providers cover your delivery address.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/lone-tree-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Lone Tree, Colorado',
+    },
+    latitude: 39.5309,
+    longitude: -104.871,
+    pricingPlacementNote:
+      'Lone Tree requires a temporary permit for dumpsters on private property unless an active building permit covers the work, and a right-of-way permit for street placement. Permit costs are not included in rental pricing.',
+  },
+
+  // ─── GOLDEN ───────────────────────────────────────────────
+  {
+    slug: 'golden-co-dumpster-rental',
+    cityName: 'Golden',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Golden Dumpster Rental | Sizes, Costs & ROW Permit Rules',
+    metaDescription:
+      'Golden dumpster rental for historic-home remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and City right-of-way permit rules.',
+    primaryKeyword: 'golden dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental golden co',
+      'golden construction dumpster rental',
+      'roll off dumpster golden',
+      'roll off dumpster golden co',
+      'rolloff dumpsters golden',
+      'roll offs golden co',
+      '10 yard dumpster rental golden',
+      '20 yard dumpster rental golden',
+      '30 yard dumpster rental golden',
+      'golden co dumpster permit',
+    ],
+    heroH1: 'Dumpster Rental in Golden, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for historic-home remodels, roofing tear-offs, cleanouts, and construction debris across Golden, the Clear Creek corridor, and west Jefferson County.',
+    introParagraphs: [
+      "Golden is one of the oldest towns on the Front Range. The City says it was founded in 1859 as a mining supply town, and its West Downtown neighborhoods, including 12th Street and College Hill, sit in the original 1859 town plat. Golden has three locally designated historic districts, and the 12th Street Historic District was listed on the National Register in 1983. Older homes there, in Goosetown, and in the 8th and 9th Street area produce plaster, lath, old flooring, and the occasional surprise inside a wall.",
+      'Street placement takes planning in Golden. The City requires a Right-of-Way Permit for dumpsters and storage pods in the public right-of-way, which includes streets, sidewalks, parking lanes, and alleys. Applications are due three working days before placement. Every right-of-way occupancy needs a traffic control plan that follows the MUTCD, and "NO PARK" signs go up 24 hours ahead. No right-of-way occupancy is allowed on City-recognized holidays, so a holiday-weekend street delivery is off the table.',
+      "Rolloff Dumpster Finder helps Golden homeowners and contractors compare roll-off options. Availability depends on which providers cover your address. Households in the City's Pay-As-You-Throw program get one free large-item pickup per calendar year, which handles a sofa or a few doors. It does not take cement, dirt, rocks, bricks, or steel, so remodel and demolition debris still needs a container. When you request quotes, include the address, project type, and placement plan. Ask about the weight allowance, overage rate, and extension fee.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Brick, rock, and concrete loads, garage cleanouts, single-room remodels', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, plaster and lath removal, basement cleanouts, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, historic-home guts, full home cleanouts', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Historic Home Remodels',
+        description:
+          'Plaster and lath from older homes in the 12th Street and East Street historic districts weigh more than drywall. A 15 or 20-yard is common for a room-by-room gut. If the property is designated, check with the City of Golden Planning Department about exterior work before demolition starts.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'A 20-yard container holds most residential tear-offs by volume. A full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Confirm the allowance before loading.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "Porcelain sinks, toilets, and tubs are on the City's large-item pickup list, but a full kitchen or bath gut produces far more than one pickup covers. Cast iron is excluded from that pickup. A 15-yard fits most single-kitchen remodels. A 20-yard handles a kitchen and bathroom together.",
+      },
+      {
+        number: '04',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'A typical garage cleanout fits in a 10-yard. A full basement with furniture and storage usually needs a 15 or 20-yard. Keep paint, chemicals, and batteries out of the load.',
+      },
+      {
+        number: '05',
+        name: 'Home Cleanouts',
+        description:
+          'If the job is a few large items, use the free annual Pay-As-You-Throw pickup first. A full-house cleanout is a different job and typically fills a 20-yard.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-held homes near downtown and in the older neighborhoods can hold decades of contents. Plan on a 20 or 30-yard. Appliances with refrigerant, paint, and chemicals are commonly prohibited, so pull them before loading.',
+      },
+      {
+        number: '07',
+        name: 'Construction Debris',
+        description:
+          'Additions, deck rebuilds, and basement finishes produce framing lumber, drywall, and mixed debris. A 20 or 30-yard is common. Contractors working in the Golden right-of-way must be registered with the City and carry general liability insurance.',
+      },
+      {
+        number: '08',
+        name: 'Concrete, Brick & Rock',
+        description:
+          "The City's large-item pickup excludes cement, dirt, rocks, and bricks. Those go in a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full.",
+      },
+      {
+        number: '09',
+        name: 'Yard Waste & Landscaping',
+        description:
+          "Branches and shrubs fill a container fast. The City's right-of-way guidelines prohibit depositing loose landscaping material, such as topsoil or mulch, in a city street. Keep deliveries and debris piles on your property.",
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Golden depends on your lot and whether the container needs any part of the public right-of-way, including alleys and parking lanes.',
+    placementNotes: [
+      'Driveway or other private-property placement is the simplest setup in Golden.',
+      "Dumpsters in the public right-of-way need a City of Golden Right-of-Way Permit. That includes streets, sidewalks, parking lanes, alleys, trails, and bike lanes. Apply through the City's permitting portal at least three working days before placement.",
+      'Every right-of-way occupancy needs a traffic control plan that follows the MUTCD. "NO PARK" signs must be posted 24 hours before the container occupies parking.',
+      "No right-of-way occupancy is allowed on City of Golden recognized holidays. Permits are date-specific, so contact the City's permit coordinator to extend one.",
+      'Parking permits are required in some areas near the Colorado School of Mines and on certain streets near downtown. Check the block before planning street placement.',
+      'Older lots in the West Downtown and North Clear Creek neighborhoods can be tight. Measure driveway length, width, and overhead clearance, and tell the provider about any slope.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Golden',
+      '12th Street Historic District',
+      'East Street Historic District',
+      'College Hill',
+      'Goosetown',
+      '8th and 9th Street',
+      'Golden Heights',
+      'Golden Hills',
+      'Overlook',
+      'Tripp Ranch',
+      'Eagle Ridge',
+      'Golden Terrace',
+      'Golden Ridge',
+    ],
+    nearbyCities: [
+      'Lakewood',
+      'Arvada',
+      'Wheat Ridge',
+      'Denver',
+      'Westminster',
+      'Edgewater',
+      'Morrison',
+      'Applewood',
+      'Pleasant View',
+      'Broomfield',
+      'Boulder',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Golden?',
+        answer:
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street, alley, or parking-lane placement adds a City right-of-way permit, which is not part of the rental price.',
+      },
+      {
+        question: 'Can I put a dumpster on the street in Golden?',
+        answer:
+          'Yes, with a City of Golden Right-of-Way Permit. The City requires the application three working days before placement, a traffic control plan that follows the MUTCD, and "NO PARK" signs posted 24 hours ahead. No right-of-way occupancy is allowed on City holidays.',
+      },
+      {
+        question: 'Can a dumpster go in an alley in Golden?',
+        answer:
+          'Only with a permit. Golden counts alleys as public right-of-way, along with streets, sidewalks, parking lanes, trails, and bike lanes. If your lot has room off the alley on private property, that avoids the permit.',
+      },
+      {
+        question: "Will Golden's large-item pickup handle my cleanout?",
+        answer:
+          'Sometimes. Pay-As-You-Throw households get one free large-item pickup per calendar year through 5280 Waste Solutions at 303-277-8727. It takes furniture, porcelain fixtures, bundled carpet, and doors. It does not take cement, dirt, rocks, bricks, steel, cast iron, tires, or electronics.',
+      },
+      {
+        question: 'What size dumpster do I need for an older Golden home remodel?',
+        answer:
+          'Plaster and lath are heavier than drywall, so one gutted room can fill a 10-yard by weight. A 15 or 20-yard is common for a multi-room remodel. Tell the provider about plaster, tile, or brick so the weight allowance fits the job.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Golden?',
+        answer:
+          'Yes. A 20-yard handles most residential tear-offs by volume. A full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Confirm the allowance before the crew starts loading.',
+      },
+      {
+        question: 'What about concrete, dirt, or other heavy debris?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Golden?',
+        answer:
+          'Delivery timing depends on the provider, your address, and the season, so confirm the date when you book. Driveway delivery has no City lead time. Street placement needs the right-of-way application three working days ahead and signs posted 24 hours before.',
+      },
+      {
+        question: 'What can I not put in a Golden dumpster?',
+        answer:
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
+      },
+      {
+        question: 'Do you serve nearby areas like Lakewood, Arvada, Wheat Ridge, and Denver?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across Jefferson County and the west Denver metro, including Lakewood, Arvada, Wheat Ridge, and Denver. Availability and pricing depend on which providers cover your delivery address.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/golden-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Golden, Colorado',
+    },
+    latitude: 39.7425,
+    longitude: -105.2106,
+    pricingPlacementNote:
+      'Street, alley, or parking-lane placement in Golden requires a City Right-of-Way Permit and a traffic control plan, which are not included in rental pricing. Apply at least three working days ahead.',
+  },
+
+  // ─── NORTHGLENN ───────────────────────────────────────────
+  {
+    slug: 'northglenn-co-dumpster-rental',
+    cityName: 'Northglenn',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Northglenn Dumpster Rental | City Roll-Offs vs. Private',
+    metaDescription:
+      "Northglenn dumpster rental compared: the City's $257 three-day roll-off, private rentals, Front Range pricing by size, and when a street permit applies.",
+    primaryKeyword: 'northglenn dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental northglenn co',
+      'northglenn construction dumpster rental',
+      'roll off dumpster northglenn',
+      'roll off dumpster northglenn co',
+      'rolloff dumpsters northglenn',
+      'roll offs northglenn co',
+      '10 yard dumpster rental northglenn',
+      '20 yard dumpster rental northglenn',
+      '30 yard dumpster rental northglenn',
+      'northglenn roll off rental',
+    ],
+    heroH1: 'Dumpster Rental in Northglenn, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for 1960s home remodels, roofing tear-offs, cleanouts, and construction debris across Northglenn and the north Denver metro.',
+    introParagraphs: [
+      "Northglenn was planned all at once. The City's history says Perl-Mack finalized plans in 1959 for a pre-planned community north of Denver. More than 15,000 people toured the first five show homes near I-25 and 104th Avenue on June 30, 1959. By October 1962 there were 10,000 residents and 3,000 homes, and the city incorporated on April 19, 1969. Many of those early houses are now more than 60 years old, which is why kitchens, baths, basements, and roofs keep the roll-offs busy.",
+      "Northglenn residents have an option most metro cities do not offer. The City's Sanitation Division rents 20 or 30-yard roll-offs for $257, including delivery, pickup, and disposal. The rental period is three days, with pickup on the fourth. The City currently lists weekday rentals as unavailable and runs weekend rentals with Friday delivery and Monday pickup. The container goes in the street next to your property unless you sign a liability waiver for the driveway. If that fits your job, book it. It is hard to beat.",
+      "A private rental makes more sense when the job needs more than three days, a 10 or 15-yard size, a weekday delivery, or a date the City has sold out. The City program is for residents, so contractors running a job usually need a private container. Rolloff Dumpster Finder helps Northglenn customers compare those private options, and availability depends on which providers cover your address. A private container in the street needs a City right-of-way permit. Ask about the weight allowance, overage rate, and extension fee too.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, single-room remodels, concrete and dirt', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, full home cleanouts, multi-week projects', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          "At more than 60 years old, many early Northglenn homes are on their second or third kitchen. Cabinets and drywall are light. Tile and mortar beds are heavy. A 15-yard fits most single-kitchen jobs. A remodel rarely finishes inside the City roll-off's three-day window, so most go private.",
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'A 20-yard container holds most residential tear-offs by volume. A full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Confirm the allowance before loading.',
+      },
+      {
+        number: '03',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "A weekend garage or basement purge is where the City's $257 roll-off works best. It arrives Friday and leaves Monday. Mattresses, box springs, electronics, tires, and refrigerators are not allowed in it, so plan another route for those.",
+      },
+      {
+        number: '04',
+        name: 'Home Cleanouts',
+        description:
+          'A full-home cleanout typically fills a 20-yard. If it takes longer than a weekend, a private rental with a 7 to 14-day period is usually the better fit. One larger container often costs less than a second haul.',
+      },
+      {
+        number: '05',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-held homes from the original Perl-Mack filings can hold decades of contents. Plan on a 20 or 30-yard. Remove paint, chemicals, and appliances with refrigerant before loading.',
+      },
+      {
+        number: '06',
+        name: 'Construction Debris',
+        description:
+          'Additions, deck rebuilds, and basement finishes produce framing lumber, drywall, and mixed debris. These jobs usually run longer than three days, so a private 20 or 30-yard is the normal fit. Concrete goes in a separate heavy-debris container.',
+      },
+      {
+        number: '07',
+        name: 'Group Neighborhood Cleanups',
+        description:
+          'Any group of five residences in the same immediate area can apply for free use of a City roll-off, as long as the City provides their trash service. Each residence can participate once per calendar year, and one neighbor serves as the point of contact.',
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Shrub removal, tree work, and sod replacement fill a container quickly. Branches are light. Sod and soil are heavy. A 10 or 15-yard private container handles most residential landscaping jobs.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Northglenn depends on whose container it is. City roll-offs go in the street by default. Private rentals usually go in the driveway.',
+    placementNotes: [
+      'Driveway placement on private property is the simplest setup for a private rental.',
+      "A private roll-off in the street needs a City right-of-way permit. Northglenn's online permit system includes a Roll-Off or Storage Pod Permit through the City's GovOutreach portal. Check with the City of Northglenn Public Works right-of-way division for timing and fees.",
+      "The City Sanitation Division's own roll-offs are placed in the street next to the requesting property. Driveway placement requires signing a liability waiver.",
+      'City roll-off loads cannot go above the top of the container or weigh more than 12 tons.',
+      'Alleys, sidewalks, medians, and easements are public right-of-way in Northglenn. Do not plan on them without a permit.',
+      'Measure driveway length and width, and check overhead clearance for the lift. Tell the provider about a steep or curved driveway when you book.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Original Perl-Mack Northglenn',
+      'Heftler Homes Hillcrest',
+      'Washington Point',
+      'Victoria Heights West',
+      'Northglenn Greens',
+      'Colony Park',
+      'Webster Lake',
+      'Webster Lake Terrace',
+      'Park Vistas',
+      'Huron Crossing',
+      "Karl's Farm",
+      'Civic Center',
+    ],
+    nearbyCities: [
+      'Thornton',
+      'Westminster',
+      'Federal Heights',
+      'Broomfield',
+      'Commerce City',
+      'Arvada',
+      'Brighton',
+      'Denver',
+      'Wheat Ridge',
+      'Erie',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Northglenn?',
+        answer:
+          "Typical Front Range ranges put a private 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. The City of Northglenn's resident roll-off is $257 for a 20 or 30-yard, including delivery, pickup, and disposal, for a three-day rental. A private container in the street adds a City right-of-way permit.",
+      },
+      {
+        question: 'Should I use the City of Northglenn roll-off or a private rental?',
+        answer:
+          'Use the City roll-off if you are a resident, the job fits a weekend, and a 20 or 30-yard is the right size. Go private if you need more than three days, a smaller container, a weekday delivery, or a date the City has sold out. Contractors running a job usually need a private rental.',
+      },
+      {
+        question: 'What cannot go in a City of Northglenn roll-off?',
+        answer:
+          'The City lists electronics, tires, medical waste, mattresses and box springs, flammable materials, refrigerators, freezers, air conditioners, and anything not allowed in trash carts. Loads cannot go above the top of the container or weigh more than 12 tons.',
+      },
+      {
+        question: 'Do I need a permit for a private dumpster on the street in Northglenn?',
+        answer:
+          'Yes. A private container in a street, alley, or other public right-of-way needs a City right-of-way permit. Northglenn offers a Roll-Off or Storage Pod Permit through its GovOutreach portal. Check with the City of Northglenn for current timing and fees.',
+      },
+      {
+        question: 'What size dumpster do I need for a Northglenn home cleanout?',
+        answer:
+          'A 20-yard covers most full-home cleanouts. A single garage or one room usually fits in a 10-yard. If the basement and garage are both full, a 30-yard may be the better fit.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Northglenn?',
+        answer:
+          'Yes. A 20-yard handles most residential tear-offs by volume. A full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Confirm the allowance before the crew starts loading.',
+      },
+      {
+        question: 'What about concrete, dirt, or other heavy debris?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Northglenn?',
+        answer:
+          'City roll-offs are first-come, first-served and must be paid at least one week before the rental date. Private delivery timing depends on the provider, your address, and the season. Confirm the date when you book.',
+      },
+      {
+        question: 'How long can I keep a dumpster in Northglenn?',
+        answer:
+          'The City roll-off rental period is three days, with pickup on the fourth. Private rental periods vary. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day.',
+      },
+      {
+        question: 'Do you serve nearby areas like Thornton, Westminster, Federal Heights, and Broomfield?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across the north Denver metro, including Thornton, Westminster, Federal Heights, Broomfield, and Brighton. Availability and pricing depend on which providers cover your delivery address.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/northglenn-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Northglenn, Colorado',
+    },
+    latitude: 39.9117,
+    longitude: -104.9821,
+    pricingPlacementNote:
+      "Street placement for a private roll-off in Northglenn requires a City right-of-way permit, which is not included in rental pricing. The City's own resident roll-off is $257 for a three-day rental.",
+  },
+
+  // ─── BRIGHTON ─────────────────────────────────────────────
+  {
+    slug: 'brighton-co-dumpster-rental',
+    cityName: 'Brighton',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Brighton CO Dumpster Rental | Sizes, Costs & Local Rules',
+    metaDescription:
+      'Brighton dumpster rental for remodels, roofing, cleanouts, and landscaping. Compare roll-off sizes, Front Range pricing, Trash Bash limits, and street rules.',
+    primaryKeyword: 'brighton dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental brighton co',
+      'brighton construction dumpster rental',
+      'roll off dumpster brighton',
+      'roll off dumpster brighton co',
+      'rolloff dumpsters brighton',
+      'roll offs brighton co',
+      '10 yard dumpster rental brighton',
+      '20 yard dumpster rental brighton',
+      '30 yard dumpster rental brighton',
+      'brighton co dumpster permit',
+    ],
+    heroH1: 'Dumpster Rental in Brighton, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for remodels, roofing tear-offs, cleanouts, and construction debris across Brighton, the South Platte valley, and northeast Adams County.',
+    introParagraphs: [
+      "Brighton grew out of farmland. The City's historic preservation page says five men staked out ranches along the Platte River near present-day Brighton in 1859, and truck farms later grew vegetables for Denver. Adams County records say Brighton was chosen as the permanent county seat in 1904, and the 1906 courthouse at 4th Avenue and Bridge Street still stands as City Hall. The blocks around Downtown Brighton and the City Core hold the oldest homes and the remodel work that comes with them.",
+      "Growth has added a lot of newer houses. The City credits part of its growth since the 1990s to Denver International Airport. The Census counted 33,352 residents in 2010 and 40,083 in 2020, and estimates 45,395 for 2025. Large neighborhoods such as Brighton Crossing, Bromley Park, and Prairie Center add basement finishes, landscaping, and garage cleanouts to the mix. The City's twice-a-year Trash Bash takes furniture and cabinets, but not concrete or home improvement project debris. That part is roll-off territory.",
+      'Rolloff Dumpster Finder helps Brighton homeowners and contractors compare roll-off options. Availability depends on which providers cover your address, and delivery distance can affect the quote on the edge of the metro. Give each provider the exact address, project type, and placement plan. Ask about the weight allowance, overage rate per ton, rental period, and extension fee. If the container needs to go in the street, check with the City of Brighton One-Stop office before booking. A five-minute call beats a parking ticket.',
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, single-room remodels, concrete and dirt', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Downtown & City Core Remodels',
+        description:
+          'Older homes near Downtown Brighton produce plaster, old flooring, and original fixtures. A 15 or 20-yard handles a room-by-room gut. The City keeps a register of designated historic properties, so check with the City of Brighton before exterior demolition on a listed home.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'A 20-yard container holds most residential tear-offs by volume. A full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Confirm the allowance before loading.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Cabinets and drywall are bulky but light. Tile, stone counters, and mortar beds are heavy. A 15-yard covers most single-kitchen remodels. A 20-yard handles a kitchen and bathroom together.',
+      },
+      {
+        number: '04',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          "The City's Trash Bash takes furniture, cabinets, cut-up carpet, doors, and nail-free lumber under 8 feet at the Brighton Wastewater Treatment Facility in spring and fall. For a full basement or garage, a 10 or 15-yard is usually easier than hauling loads to a two-day event.",
+      },
+      {
+        number: '05',
+        name: 'Home Cleanouts',
+        description:
+          'A full-home cleanout typically fills a 20-yard. If the basement and garage are also full, consider a 30-yard. One larger container often costs less than a second haul, so price both.',
+      },
+      {
+        number: '06',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-held homes in the older parts of town can hold decades of contents. Plan on a 20 or 30-yard. Remove paint, chemicals, and appliances with refrigerant before loading.',
+      },
+      {
+        number: '07',
+        name: 'Construction Debris',
+        description:
+          'Additions, basement finishes, and deck rebuilds produce framing lumber, drywall, and mixed debris. A 20-yard is a common choice for a single-home project. Concrete and block belong in a separate heavy-debris container.',
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Trash Bash takes branches but not grass clippings. Sod, soil, and rock are heavy, so a 10 or 15-yard is common for landscaping jobs. Ask if your provider prices clean yard waste differently.',
+      },
+      {
+        number: '09',
+        name: 'Junk Piles & Code Compliance',
+        description:
+          'City code says junk, trash, debris, brush piles, and appliances cannot be left outside on residential property. A container gives the pile somewhere to go while the project runs.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Brighton depends on your lot, your neighborhood rules, and whether the container needs the public right-of-way.',
+    placementNotes: [
+      'Driveway placement on private property is the standard setup in Brighton.',
+      'Street, alley, and sidewalk placement puts the container in the public right-of-way. The City handles right-of-way permits through its One-Stop office at City Hall, 500 S. 4th Avenue, or 1stop@brightonco.gov. Check with the City of Brighton before planning street placement.',
+      'The City generally authorizes right-of-way work from 8 a.m. to 5 p.m., or 9 a.m. to 3:30 p.m. on certain roads for major activities. If a street permit is involved, ask how those hours apply to delivery and pickup.',
+      'City code does not allow junk, trash, debris, brush piles, or appliances to be left outside on residential property. Load debris into the container as you go.',
+      'If your neighborhood has an HOA or metro district, check its rules for containers before delivery.',
+      'Measure driveway length and width, and check overhead clearance for the lift. Tell the provider about a steep or curved driveway when you book.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Downtown Brighton',
+      'City Core',
+      'Bromley Park',
+      'Brighton Crossing',
+      'Prairie Center',
+      'Brighton East Farms',
+      'Platte River Ranch',
+      'Pheasant Ridge',
+      'Mountain View',
+      'Village at Southgate',
+      'Northgate',
+      'Homestead',
+      'Sugar Creek',
+      'Bromley Farms',
+      'Adams Crossing',
+      'Farmlore',
+      'Indigo Trails',
+      'Brighton Ridge',
+    ],
+    nearbyCities: [
+      'Thornton',
+      'Commerce City',
+      'Northglenn',
+      'Henderson',
+      'Lochbuie',
+      'Fort Lupton',
+      'Aurora',
+      'Westminster',
+      'Broomfield',
+      'Denver',
+      'Erie',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Brighton?',
+        answer:
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Any City permit for street placement is separate from the rental price.',
+      },
+      {
+        question: 'Can I put a dumpster on the street in Brighton?',
+        answer:
+          'Check with the City of Brighton first. Streets, alleys, and sidewalks are public right-of-way, and the City handles right-of-way permits through its One-Stop office at City Hall, 500 S. 4th Avenue. Driveway placement on private property avoids that step.',
+      },
+      {
+        question: 'Can I use Trash Bash instead of renting a dumpster?',
+        answer:
+          'For furniture and large items, often yes. Trash Bash runs twice a year at the Brighton Wastewater Treatment Facility, 325 North Kuner Road, for City residents with proof of residence. In 2026 the dates were April 24–25 and September 18–19. It does not accept concrete, home improvement project debris, grass clippings, or refrigerators, freezers, and air conditioners, so remodel debris still needs a container.',
+      },
+      {
+        question: 'What size dumpster do I need for a Brighton home cleanout?',
+        answer:
+          'A 20-yard covers most full-home cleanouts. A single garage or one room usually fits in a 10-yard. If the basement and garage are both full, a 30-yard may be the better fit.',
+      },
+      {
+        question: 'Can I rent a dumpster for roofing debris in Brighton?',
+        answer:
+          'Yes. A 20-yard handles most residential tear-offs by volume. A full roof commonly produces 3–5 tons, and the weight included with a 20-yard varies by provider, often 2–4 tons. Confirm the allowance before the crew starts loading.',
+      },
+      {
+        question: 'What about concrete, dirt, or other heavy debris?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in.',
+      },
+      {
+        question: 'How quickly can I get a dumpster delivered in Brighton?',
+        answer:
+          'Delivery timing depends on the provider, your address, and the season, so confirm the date when you book. Driveway placement is the faster route. If the container needs the street, allow time to sort out the City right-of-way process first.',
+      },
+      {
+        question: 'How long can I keep a dumpster in Brighton?',
+        answer:
+          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking.',
+      },
+      {
+        question: 'What can I not put in a Brighton dumpster?',
+        answer:
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
+      },
+      {
+        question: 'Do you serve nearby areas like Thornton, Commerce City, Northglenn, and Henderson?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across northeast Adams County and the north Denver metro, including Thornton, Commerce City, Northglenn, and Henderson. Availability and pricing depend on which providers cover your delivery address.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/brighton-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Brighton, Colorado',
+    },
+    latitude: 39.9657,
+    longitude: -104.7942,
+    pricingPlacementNote:
+      'Street or right-of-way placement in Brighton may require a City right-of-way permit through the One-Stop office, which is not included in rental pricing.',
   },
 ]

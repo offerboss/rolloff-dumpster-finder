@@ -208,6 +208,31 @@ const cityCards = [
     slug: 'highlands-ranch-co-dumpster-rental',
     desc: 'Master-planned south metro community in unincorporated Douglas County, first settled in 1981 in Northridge. HRCA covenants require driveway placement, so container size is set by the driveway. Roofing, remodels, and basement cleanouts lead the work.',
   },
+  {
+    city: 'Castle Rock',
+    slug: 'castle-rock-co-dumpster-rental',
+    desc: 'Douglas County seat on I-25, grown from 48,231 residents in 2010 to 73,158 in 2020. Town guidelines keep debris off the street, and a right-of-way permit lists $250 plus a $75 obstruction fee. Turf removal, basements, and remodels lead the work.',
+  },
+  {
+    city: 'Lone Tree',
+    slug: 'lone-tree-co-dumpster-rental',
+    desc: 'South metro city at I-25 and C-470, first settled in 1982 and incorporated in 1995. The City requires a temporary permit even for a driveway dumpster unless a building permit covers it, with a 30-day cap. Re-roofs, remodels, and RidgeGate move-ins lead demand.',
+  },
+  {
+    city: 'Golden',
+    slug: 'golden-co-dumpster-rental',
+    desc: 'Jefferson County city founded in 1859, with three locally designated historic districts. Dumpsters in streets, alleys, or parking lanes need a City right-of-way permit three working days ahead. Historic-home remodels and cleanouts lead the work.',
+  },
+  {
+    city: 'Northglenn',
+    slug: 'northglenn-co-dumpster-rental',
+    desc: 'Perl-Mack planned community opened in 1959 and incorporated in 1969. The City rents residents 20 or 30-yard roll-offs for $257 for a weekend, so private rentals cover longer and smaller jobs. Kitchens, baths, and roofs on early homes lead demand.',
+  },
+  {
+    city: 'Brighton',
+    slug: 'brighton-co-dumpster-rental',
+    desc: 'Adams County seat since 1904, with farm roots along the South Platte and growth since the 1990s tied in part to DIA. Trash Bash takes furniture but not remodel debris. Remodels, cleanouts, and newer-subdivision projects lead the work.',
+  },
 ]
 
 const projects = [
@@ -423,7 +448,7 @@ export default function DenverMetroPage() {
         </div>
         <div className="max-w-[1200px] mx-auto mt-6">
           <p className="text-[13px] text-[#9CA3AF] leading-[1.65]">
-            Smaller metro communities — including Edgewater, Golden, Northglenn, and unincorporated
+            Smaller metro communities — including Edgewater, Federal Heights, Castle Pines, and unincorporated
             Jefferson and Adams County — are served by providers in the guides above. The{' '}
             <Link
               href="/providers/colorado"
