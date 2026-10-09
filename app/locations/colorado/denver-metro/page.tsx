@@ -924,10 +924,10 @@ export default function DenverMetroPage() {
             <p className="text-[15px] font-semibold text-charcoal leading-[1.5]">
               Operating a roll-off company in the Denver metro area?{' '}
               <Link
-                href="/providers/colorado"
+                href="/for-rental-companies"
                 className="text-orange hover:opacity-80 transition-opacity underline underline-offset-2"
               >
-                List your business in the Colorado provider directory.
+                Get featured on Rolloff Dumpster Finder.
               </Link>
             </p>
           </div>

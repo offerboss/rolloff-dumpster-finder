@@ -237,12 +237,12 @@ export default function ColoradoProvidersPage() {
                     {slot.areas}
                   </p>
                 </div>
-                <a
-                  href="mailto:adam@meetadamchandler.com?subject=Featured Listing Request — Colorado"
+                <Link
+                  href="/for-rental-companies"
                   className="inline-block bg-orange text-black font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-90 transition-opacity self-start"
                 >
-                  Request This Position
-                </a>
+                  Get Featured on Rolloff Dumpster Finder
+                </Link>
               </div>
             ))}
           </div>
@@ -391,12 +391,12 @@ export default function ColoradoProvidersPage() {
                           We are adding providers to this region. Standard listings are free for local
                           roll-off dumpster rental companies.
                         </p>
-                        <a
-                          href={`mailto:adam@meetadamchandler.com?subject=Listing Request — Colorado, ${region.label}`}
+                        <Link
+                          href="/for-rental-companies"
                           className="inline-block bg-charcoal text-white font-bold text-[12px] px-[18px] py-[9px] rounded-full hover:opacity-80 transition-opacity"
                         >
-                          Submit a Listing
-                        </a>
+                          Get Featured on Rolloff Dumpster Finder
+                        </Link>
                       </div>
                     )}
                   </div>
@@ -426,18 +426,12 @@ export default function ColoradoProvidersPage() {
             </p>
           </div>
           <div className="shrink-0 flex flex-col gap-4">
-            <a
-              href="mailto:adam@meetadamchandler.com?subject=Provider Listing Request — Colorado"
+            <Link
+              href="/for-rental-companies"
               className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity text-center"
             >
-              Submit or Update a Listing
-            </a>
-            <a
-              href="mailto:adam@meetadamchandler.com?subject=Featured Listing Request — Colorado"
-              className="inline-block bg-charcoal text-white font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-80 transition-opacity text-center"
-            >
-              Ask About Featured Placement
-            </a>
+              Get Featured on Rolloff Dumpster Finder
+            </Link>
           </div>
         </div>
       </section>
@@ -446,19 +440,19 @@ export default function ColoradoProvidersPage() {
       <section className="bg-[#1A2530] py-[72px] px-8 text-center">
         <div className="w-11 h-1 bg-orange rounded-sm mx-auto mb-6" />
         <h2 className="text-[clamp(26px,4vw,38px)] font-extrabold text-white tracking-tight mb-[14px]">
-          List Your Colorado Company
+          Get Featured on Rolloff Dumpster Finder
         </h2>
         <p className="text-[16px] text-white/[.52] max-w-[500px] mx-auto mb-8 leading-[1.65]">
-          Standard listings are free. Contact us with your company name, service area, and the cities
-          you cover.
+          Apply for featured placement and put your Colorado company in front of customers
+          actively searching for dumpster rentals in the markets you serve.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <a
-            href="mailto:adam@meetadamchandler.com?subject=Provider Listing Request — Colorado"
+          <Link
+            href="/for-rental-companies"
             className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
           >
-            Submit a Listing Request
-          </a>
+            Get Featured on Rolloff Dumpster Finder
+          </Link>
           <Link
             href="/providers"
             className="inline-block text-white/60 font-semibold text-[14px] px-[28px] py-[13px] rounded-full border border-white/[.18] hover:border-white/40 hover:text-white transition-all"

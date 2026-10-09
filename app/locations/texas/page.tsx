@@ -571,10 +571,10 @@ export default function TexasLocationsPage() {
             <p className="text-[15px] font-semibold text-charcoal leading-[1.5]">
               Operating a roll-off company in Texas?{' '}
               <Link
-                href="/providers/texas"
+                href="/for-rental-companies"
                 className="text-orange hover:opacity-80 transition-opacity underline underline-offset-2"
               >
-                Browse the Texas provider directory.
+                Get featured on Rolloff Dumpster Finder.
               </Link>
             </p>
           </div>

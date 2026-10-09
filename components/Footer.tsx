@@ -44,6 +44,11 @@ export default function Footer() {
                 Contact
               </Link>
             </li>
+            <li>
+              <Link href="/for-rental-companies" className="text-[13px] text-charcoal hover:text-orange transition-colors">
+                For Rental Companies
+              </Link>
+            </li>
           </ul>
         </div>
 

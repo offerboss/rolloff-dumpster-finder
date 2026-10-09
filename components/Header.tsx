@@ -56,6 +56,7 @@ export default function Header() {
           <NavLink href="/resources">Resources</NavLink>
           <NavLink href="/locations">Locations</NavLink>
           <NavLink href="/#contact">Contact</NavLink>
+          <NavLink href="/for-rental-companies">For Rental Companies</NavLink>
         </nav>
 
         <a
@@ -75,6 +76,10 @@ export default function Header() {
           Book Now
         </a>
 
+      </div>
+      {/* Mobile-only secondary nav */}
+      <div className="sm:hidden border-t border-[#E8E6E1] px-5 py-2 flex items-center">
+        <NavLink href="/for-rental-companies">For Rental Companies</NavLink>
       </div>
     </header>
   )

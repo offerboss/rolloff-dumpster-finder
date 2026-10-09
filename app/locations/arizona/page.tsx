@@ -523,10 +523,10 @@ export default function ArizonaLocationsPage() {
             <p className="text-[15px] font-semibold text-charcoal leading-[1.5]">
               Operating a roll-off company in Arizona?{' '}
               <Link
-                href="/providers/arizona"
+                href="/for-rental-companies"
                 className="text-orange hover:opacity-80 transition-opacity underline underline-offset-2"
               >
-                List your business in the Arizona provider directory.
+                Get featured on Rolloff Dumpster Finder.
               </Link>
             </p>
           </div>

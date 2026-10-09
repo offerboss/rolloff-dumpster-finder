@@ -515,10 +515,10 @@ export default function UtahLocationsPage() {
             <p className="text-[15px] font-semibold text-charcoal leading-[1.5]">
               Operating a roll-off company in Utah?{' '}
               <Link
-                href="/providers/utah"
+                href="/for-rental-companies"
                 className="text-orange hover:opacity-80 transition-opacity underline underline-offset-2"
               >
-                Browse the provider directory.
+                Get featured on Rolloff Dumpster Finder.
               </Link>
             </p>
           </div>

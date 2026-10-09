@@ -296,19 +296,19 @@ export default function ProvidersPage() {
       <section className="bg-[#1A2530] py-[72px] px-8 text-center">
         <div className="w-11 h-1 bg-orange rounded-sm mx-auto mb-6" />
         <h2 className="text-[clamp(26px,4vw,38px)] font-extrabold text-white tracking-tight mb-[14px]">
-          List Your Company
+          Get Featured on Rolloff Dumpster Finder
         </h2>
         <p className="text-[16px] text-white/[.52] max-w-[500px] mx-auto mb-8 leading-[1.65]">
-          Standard listings are free for verified local operators. Contact us with your company
-          name, service area, and the cities you cover.
+          Apply for featured placement and put your company in front of customers actively
+          searching for dumpster rentals in the markets you serve.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <a
-            href="mailto:adam@meetadamchandler.com?subject=Provider Listing Request"
+          <Link
+            href="/for-rental-companies"
             className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
           >
-            Submit a Listing Request
-          </a>
+            Get Featured on Rolloff Dumpster Finder
+          </Link>
           <Link
             href="/providers/colorado"
             className="inline-block text-white/60 font-semibold text-[14px] px-[28px] py-[13px] rounded-full border border-white/[.18] hover:border-white/40 hover:text-white transition-all"
