@@ -72,7 +72,7 @@ const faqs = [
   {
     question: 'Can I rent a dumpster for a residential cleanout or home renovation?',
     answer:
-      'Yes. Residential cleanouts and home renovation debris are the most common roll-off rental use cases. Whether you are clearing a garage, renovating a kitchen, or handling a full estate cleanout, a properly sized container is far faster than hauling material yourself.',
+      'Yes. Residential cleanouts and home renovation debris are the most common roll-off rental use cases. For clearing a garage, renovating a kitchen, or handling a full estate cleanout, a properly sized container is far faster than hauling material yourself.',
   },
   {
     question: 'Do roll-off dumpster rentals work for construction sites and commercial projects?',
@@ -260,8 +260,8 @@ export default function HomePage() {
               Find the Right Dumpster Size for Your Project
             </h2>
             <p className="text-[15px] sm:text-[16px] text-[#4A5568] leading-[1.75]">
-              Whether you&apos;re cleaning out a garage, remodeling a home, replacing a roof, or
-              managing a job site, Rolloff Dumpster Finder helps you compare local rental options and
+              Cleaning out a garage, remodeling a home, replacing a roof, or
+              managing a job site? Rolloff Dumpster Finder helps you compare local rental options and
               request quotes from providers near you.
             </p>
             <div>

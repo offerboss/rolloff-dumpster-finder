@@ -410,7 +410,7 @@ const bodyHtml = `
 
 <p><strong>1. What is the weight limit in tons?</strong> Not "is there a limit" &#8212; get the specific number in tons, written into the quote. The 30-yard's capacity is not a guarantee you can fill it with whatever you have. The weight limit is the actual constraint on most concrete-mixed loads.</p>
 
-<p><strong>2. What is the overage charge per ton?</strong> Rates range from $40 to $200 per extra ton depending on the market and provider. Knowing this before loading changes whether you separate concrete and mixed debris into different containers.</p>
+<p><strong>2. What is the overage charge per ton?</strong> Rates range from $40 to $200 per extra ton depending on the market and provider. Knowing this before loading tells you if it pays to separate concrete and mixed debris into different containers.</p>
 
 <p><strong>3. What is the pull fee if I need a second haul?</strong> Ask this before you book. On a 30-yard, second pulls run $200&#8211;$350. Knowing that number upfront lets you plan the project budget accurately &#8212; and decide whether to book the 30-yard or upgrade to a planned two-pull arrangement.</p>
 

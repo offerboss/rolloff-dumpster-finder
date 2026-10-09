@@ -78,7 +78,7 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline:
       'Find roll off dumpster rental options for home cleanouts, remodels, roofing debris, construction jobs, yard waste, and demolition projects in Denver and the surrounding metro.',
     introParagraphs: [
-      "Denver is a city of active renovation and older housing stock. Many neighborhoods have homes built from the early 1900s through the mid-century, and full gut renovations are a regular part of life in Capitol Hill, Baker, Wash Park, Five Points, Highlands, Sunnyside, Berkeley, and Park Hill. Whether you are updating a century-old craftsman, clearing an estate, or gutting a duplex kitchen, a roll off dumpster rental is one of the most practical ways to manage the volume of debris that comes out of an older Denver home without making thirty trips to the landfill.",
+      "Denver is a city of active renovation and older housing stock. Many neighborhoods have homes built from the early 1900s through the mid-century, and full gut renovations are a regular part of life in Capitol Hill, Baker, Wash Park, Five Points, Highlands, Sunnyside, Berkeley, and Park Hill. For updating a century-old craftsman, clearing an estate, or gutting a duplex kitchen, a roll off dumpster rental is one of the most practical ways to manage the volume of debris that comes out of an older Denver home without making thirty trips to the landfill.",
       'Infill development and active construction around RiNo, LoDo, Cherry Creek, and downtown Denver continue to drive demand for construction-grade containers. Smaller lot sizes and urban density in many Denver neighborhoods mean dumpsters often need to go in a driveway, down an alley, or in a designated area — not the wide open suburban front yard that a lot of rental guides assume. Planning where the container lands before it arrives makes the whole rental go smoother.',
       'The broader Denver metro — Lakewood, Aurora, Arvada, Wheat Ridge, Englewood, Littleton, Westminster, Thornton, and Commerce City — sees steady dumpster rental demand from suburban cleanouts, residential remodels, roofing jobs, and rental property turnovers. Rolloff Dumpster Finder helps connect Denver-area customers with roll off dumpster rental options sized for the project at hand, not just the next size up.',
     ],
@@ -175,10 +175,10 @@ export const cityLocations: CityLocation[] = [
       'Dumpster placement in Denver depends on your property layout, the neighborhood, and what the City and County of Denver permits for your specific situation.',
     placementNotes: [
       'Private driveway placement is the most common option and typically the simplest. If your driveway has enough length and clearance for the delivery truck, this avoids permit requirements in most cases.',
-      'Alley access is common in older Denver neighborhoods and can work well when the alley is wide enough for the truck and free of overhead obstructions.',
-      'Street or right-of-way placement may require a permit from the City and County of Denver. Check with your rental provider or the Denver Department of Public Works before placing a container on a public street.',
+      'Alleys are off limits in Denver. DOTI does not allow a container to occupy or obstruct a public alley, so if your garage sits off the alley, plan for the driveway, a parking pad on your own lot, or a permitted spot in the street parking lane.',
+      'Street placement requires a Revocable Street Occupancy Permit from the Denver Department of Transportation and Infrastructure (DOTI). DOTI says the dumpster company placing the container must pull it, and the container must sit in the parking lane at least 20 feet from any corner, alley, or entrance.',
       'Avoid blocking sidewalks, bike lanes, fire hydrants, ADA curb ramps, or active traffic lanes regardless of placement location.',
-      'Denser neighborhoods like Capitol Hill, Congress Park, LoHi, and Baker often have limited driveway and alley space. Smaller containers or careful coordination with the provider may be needed.',
+      'Denser neighborhoods like Capitol Hill, Congress Park, LoHi, and Baker often have limited driveway space. Smaller containers or careful coordination with the provider may be needed.',
       'When in doubt, confirm placement requirements with your rental provider before scheduling delivery — not after the truck arrives.',
     ],
     neighborhoods: [
@@ -227,7 +227,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'Can I put a dumpster on the street in Denver?',
         answer:
-          'Street placement in Denver may require a permit from the City and County of Denver. If your driveway or alley can accommodate the container, that is typically the simpler option. Check with your rental provider and the Denver Department of Public Works before placing a container in a public right-of-way.',
+          'Yes, with a permit. Street placement in Denver requires a Revocable Street Occupancy Permit from the Department of Transportation and Infrastructure (DOTI), and the dumpster company placing the container must pull it. The container goes in the parking lane at least 20 feet from any corner, alley, or entrance. Alleys are not allowed. If your driveway can fit the container, that avoids the permit entirely.',
       },
       {
         question: 'What dumpster size is best for a roofing project in Denver?',
@@ -1438,7 +1438,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Desert Landscaping Debris',
         description:
-          'Saguaro removal, palm tree trimming, oleander clearing, and desert scrub conversion produce more debris than most homeowners expect. Confirm whether your provider accepts green waste or requires a separate haul for organic material.',
+          'Saguaro removal, palm tree trimming, oleander clearing, and desert scrub conversion produce more debris than most homeowners expect. Ask if your provider accepts green waste or requires a separate haul for organic material.',
       },
     ],
     placementIntro:
@@ -1637,7 +1637,7 @@ export const cityLocations: CityLocation[] = [
         number: '07',
         name: 'Yard Waste & Landscaping',
         description:
-          'Desert landscaping conversion, palm tree trimming, and pool surround removal produce more debris than expected. Confirm whether your provider accepts mixed green waste and decomposed granite in the same load — not all facilities do.',
+          'Desert landscaping conversion, palm tree trimming, and pool surround removal produce more debris than expected. Ask if your provider accepts mixed green waste and decomposed granite in the same load — not all facilities do.',
       },
       {
         number: '08',
@@ -3904,7 +3904,7 @@ export const cityLocations: CityLocation[] = [
         number: '08',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, brush clearing, old sod, and landscaping overhaul debris. Large lots in Preston Hollow and Lake Highlands generate significant yard waste during seasonal cleanup. Check whether your provider accepts organics before loading the container.',
+          'Tree trimming, brush clearing, old sod, and landscaping overhaul debris. Large lots in Preston Hollow and Lake Highlands generate significant yard waste during seasonal cleanup. Ask if your provider accepts organics before loading the container.',
       },
       {
         number: '09',
@@ -4034,7 +4034,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Houston's Inner Loop neighborhoods have some of the most active renovation markets in Texas. The Heights has Victorian and Craftsman homes from the 1890s through the 1920s — many have been bought, gutted, and rebuilt in the past decade. Montrose, Midtown, and Timbergrove have mid-century bungalows hitting renovation age. Meyerland, Bellaire, and Spring Branch have 1950s and 1960s ranch houses turning over steadily as original owners downsize. And because Houston has no zoning law, teardowns and infill new builds happen constantly throughout established neighborhoods — no variance required.",
       'Hurricane Harvey dropped over 50 inches of rain on parts of Houston in 2017 — the highest rainfall total ever recorded from a U.S. tropical cyclone. Tens of thousands of homes were gutted and rebuilt. But Harvey was not a once-in-a-generation event here. Tropical Storm Allison in 2001, Imelda in 2019, and repeated Tax Day and Memorial Day flood events have inundated homes in Meyerland, Kashmere Gardens, and low-lying areas across the city. Post-flood gut-outs are a recurring demand driver in Houston that does not exist at the same scale anywhere else in Texas.',
-      'Rolloff Dumpster Finder connects Houston customers with roll-off containers sized for the job. We serve Houston neighborhoods and the wider Greater Houston area — Sugar Land, Pearland, Pasadena, Baytown, Missouri City, Katy, Spring, League City, and beyond. Houston site access varies a lot depending on whether you are in a dense Inner Loop neighborhood or a suburban master-planned community. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects Houston customers with roll-off containers sized for the job. We serve Houston neighborhoods and the wider Greater Houston area — Sugar Land, Pearland, Pasadena, Baytown, Missouri City, Katy, Spring, League City, and beyond. Houston site access varies a lot between dense Inner Loop neighborhoods and suburban master-planned communities. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -4116,7 +4116,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          "Houston's humid subtropical climate means vegetation grows fast and clears heavily. Tree trimming, palm removal, overgrown lot clearing, and landscaping overhauls generate significant organic debris. Confirm whether your provider accepts yard waste before loading — some facilities restrict organics in roll-off containers.",
+          "Houston's humid subtropical climate means vegetation grows fast and clears heavily. Tree trimming, palm removal, overgrown lot clearing, and landscaping overhauls generate significant organic debris. Ask if your provider accepts yard waste before loading — some facilities restrict organics in roll-off containers.",
       },
     ],
     placementIntro:
@@ -4525,7 +4525,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          "San Antonio's South Texas brush and mesquite can overtake a property fast. Large lot clearing, mesquite removal, and xeriscape conversions generate significant yard waste. Check whether your provider accepts organics — brush and tree material policies vary by facility. A 20-yard covers most full-yard clearing jobs.",
+          "San Antonio's South Texas brush and mesquite can overtake a property fast. Large lot clearing, mesquite removal, and xeriscape conversions generate significant yard waste. Ask if your provider accepts organics — brush and tree material policies vary by facility. A 20-yard covers most full-yard clearing jobs.",
       },
     ],
     placementIntro:
@@ -4723,7 +4723,7 @@ export const cityLocations: CityLocation[] = [
         number: '08',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Fort Worth neighborhoods. Large lots in the Hulen corridor and north Fort Worth generate significant yard waste during seasonal cleanup. Confirm whether your provider accepts organics before loading — brush and tree material policies vary by disposal facility.',
+          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Fort Worth neighborhoods. Large lots in the Hulen corridor and north Fort Worth generate significant yard waste during seasonal cleanup. Ask if your provider accepts organics before loading — brush and tree material policies vary by disposal facility.',
       },
       {
         number: '09',
@@ -4921,7 +4921,7 @@ export const cityLocations: CityLocation[] = [
         number: '07',
         name: 'Pool & Patio Renovation',
         description:
-          "Plano's affluent homeowner base drives significant backyard renovation activity — pool resurfacing, deck removal, patio demolition, and pergola teardown all generate debris that needs a container. Concrete pool decks and flagstone patios hit weight limits fast. Confirm with your provider whether you need a standard or heavy-material container before loading.",
+          "Plano's affluent homeowner base drives significant backyard renovation activity — pool resurfacing, deck removal, patio demolition, and pergola teardown all generate debris that needs a container. Concrete pool decks and flagstone patios hit weight limits fast. Ask your provider if you need a standard or heavy-material container before loading.",
       },
       {
         number: '08',
@@ -4933,7 +4933,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, old sod removal, brush clearing, and landscaping overhauls across Plano neighborhoods. Mature tree canopies in east Plano generate significant debris during seasonal maintenance. Confirm whether your provider accepts organics before loading — brush and tree material policies vary by disposal facility.',
+          'Tree trimming, old sod removal, brush clearing, and landscaping overhauls across Plano neighborhoods. Mature tree canopies in east Plano generate significant debris during seasonal maintenance. Ask if your provider accepts organics before loading — brush and tree material policies vary by disposal facility.',
       },
     ],
     placementIntro:
@@ -6960,7 +6960,7 @@ export const cityLocations: CityLocation[] = [
         number: '07',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Arlington neighborhoods. Large lots near Lake Arlington and the River Legacy greenway corridor generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics before loading.',
+          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Arlington neighborhoods. Large lots near Lake Arlington and the River Legacy greenway corridor generate significant yard debris during seasonal cleanup. Ask if your provider accepts organics before loading.',
       },
       {
         number: '08',
@@ -7165,7 +7165,7 @@ export const cityLocations: CityLocation[] = [
         number: '07',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Irving neighborhoods. Large lots along the Las Colinas golf corridors and in Valley Ranch generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics before loading.',
+          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Irving neighborhoods. Large lots along the Las Colinas golf corridors and in Valley Ranch generate significant yard debris during seasonal cleanup. Ask if your provider accepts organics before loading.',
       },
       {
         number: '08',
@@ -7368,7 +7368,7 @@ export const cityLocations: CityLocation[] = [
         number: '07',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, old sod, brush clearing, and full landscaping overhauls across Frisco neighborhoods. Larger lots in Starwood, Phillips Creek Ranch, and the master-planned communities in west Frisco generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics before loading.',
+          'Tree trimming, old sod, brush clearing, and full landscaping overhauls across Frisco neighborhoods. Larger lots in Starwood, Phillips Creek Ranch, and the master-planned communities in west Frisco generate significant yard debris during seasonal cleanup. Ask if your provider accepts organics before loading.',
       },
       {
         number: '08',
@@ -7581,7 +7581,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, old sod, brush clearing, and landscaping overhauls across McKinney neighborhoods. Trinity Falls properties along the river corridor and larger Stonebridge Ranch lots generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics and tree limbs before loading.',
+          'Tree trimming, old sod, brush clearing, and landscaping overhauls across McKinney neighborhoods. Trinity Falls properties along the river corridor and larger Stonebridge Ranch lots generate significant yard debris during seasonal cleanup. Ask if your provider accepts organics and tree limbs before loading.',
       },
     ],
     placementIntro:
@@ -7784,7 +7784,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, old sod, brush clearing, and landscaping overhauls across Garland neighborhoods. Mature trees across the older Duck Creek and South Garland lots generate significant trimming debris during storm recovery and seasonal cleanup. Confirm whether your provider accepts organics and large limbs before loading.',
+          'Tree trimming, old sod, brush clearing, and landscaping overhauls across Garland neighborhoods. Mature trees across the older Duck Creek and South Garland lots generate significant trimming debris during storm recovery and seasonal cleanup. Ask if your provider accepts organics and large limbs before loading.',
       },
     ],
     placementIntro:
@@ -7991,7 +7991,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, old sod, brush clearing, and landscaping overhauls across Denton neighborhoods. Larger lots in the historic Denton neighborhoods and the Pecan Creek area generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics and large limbs before loading.',
+          'Tree trimming, old sod, brush clearing, and landscaping overhauls across Denton neighborhoods. Larger lots in the historic Denton neighborhoods and the Pecan Creek area generate significant yard debris during seasonal cleanup. Ask if your provider accepts organics and large limbs before loading.',
       },
     ],
     placementIntro:
@@ -8193,7 +8193,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Grand Prairie neighborhoods. Larger lots near Joe Pool Lake and in the Mountain Creek area generate significant yard debris during seasonal cleanup and storm recovery. Confirm whether your provider accepts organics before loading.',
+          'Tree trimming, brush clearing, old sod, and landscaping overhauls across Grand Prairie neighborhoods. Larger lots near Joe Pool Lake and in the Mountain Creek area generate significant yard debris during seasonal cleanup and storm recovery. Ask if your provider accepts organics before loading.',
       },
     ],
     placementIntro:
@@ -8392,7 +8392,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, sod removal, brush clearing, and landscaping overhauls across Carrollton neighborhoods. Mature trees on established south Carrollton lots generate significant trimming debris during storm recovery. Confirm whether your provider accepts organics and large limbs before loading.',
+          'Tree trimming, sod removal, brush clearing, and landscaping overhauls across Carrollton neighborhoods. Mature trees on established south Carrollton lots generate significant trimming debris during storm recovery. Ask if your provider accepts organics and large limbs before loading.',
       },
     ],
     placementIntro:
@@ -8591,7 +8591,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, sod removal, and landscaping overhauls across Richardson\'s established neighborhoods. Mature trees on 50-year-old lots in Canyon Creek, Sherrill Park, and Heights Park generate significant trimming debris during storm recovery. Confirm whether your provider accepts organics before loading.',
+          'Tree trimming, sod removal, and landscaping overhauls across Richardson\'s established neighborhoods. Mature trees on 50-year-old lots in Canyon Creek, Sherrill Park, and Heights Park generate significant trimming debris during storm recovery. Ask if your provider accepts organics before loading.',
       },
     ],
     placementIntro:
@@ -8790,7 +8790,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Yard Waste & Landscaping',
         description:
-          'Tree trimming, sod removal, brush clearing, and landscaping overhauls across Allen neighborhoods. Larger lots in Twin Creeks, Arbor Hills, and Allen Station generate significant yard debris during seasonal cleanup. Confirm whether your provider accepts organics and tree limbs before loading.',
+          'Tree trimming, sod removal, brush clearing, and landscaping overhauls across Allen neighborhoods. Larger lots in Twin Creeks, Arbor Hills, and Allen Station generate significant yard debris during seasonal cleanup. Ask if your provider accepts organics and tree limbs before loading.',
       },
     ],
     placementIntro:
@@ -9990,7 +9990,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Aurora's older neighborhoods tell you a lot about what drives dumpster demand here. Hoffman Heights, Fletcher, and Aurora Hills carry substantial 1950s and 1960s housing stock — ranch homes and split-levels well into their second or third wave of renovation. Original kitchens, tile bathrooms, and long-untouched basements are common. That kind of debris volume makes a roll-off container the obvious choice over a trailer or a haul-it-yourself approach.",
       "Buckley Space Force Base sits in eastern Aurora, and the turnover it drives is the most city-specific demand factor here. Military families rotate every two to three years. Landlords near the base deal with regular cleanouts — furniture left behind, full interior refreshes, and accumulated junk from short tenancies. Hail is the other constant. Aurora sits in Colorado's Front Range hail corridor, and roofing tear-offs after major storms are a reliable part of the local demand cycle.",
-      'Aurora covers 154 square miles — larger than Denver proper by area. Providers serving the city typically work from depots spread across the metro, so delivery windows and available container sizes can vary depending on whether your address is in northeast Aurora near Buckley, central Aurora along the I-225 corridor, or southeast Aurora near Southlands. Rolloff Dumpster Finder helps compare options by your actual delivery address, not just the city name.',
+      'Aurora covers 154 square miles — larger than Denver proper by area. Providers serving the city typically work from depots spread across the metro, so delivery windows and available container sizes can vary by address, from northeast Aurora near Buckley to central Aurora along the I-225 corridor and southeast Aurora near Southlands. Rolloff Dumpster Finder helps compare options by your actual delivery address, not just the city name.',
     ],
     pricingGuide: [
       {
@@ -17684,7 +17684,7 @@ export const cityLocations: CityLocation[] = [
       'Contact HRCA Community Improvement Services at 303-471-8821 or covenant@hrcaonline.org with your address and rental time frame before the container arrives, and with any questions about placement.',
       'Highlands Ranch is an unincorporated community governed by Douglas County. Many addresses carry a Littleton mailing address (ZIP 80126, 80129, or 80130), but the property is still unincorporated Douglas County, not the City of Littleton.',
       'Measure driveway length and width before booking. The truck needs room to back in and set the container, plus overhead clearance for the lift. Tell the provider about a steep or curved driveway when you book.',
-      'Boards or plywood under the container rails help protect the concrete, especially on longer rentals. Ask whether your provider supplies them.',
+      'Boards or plywood under the container rails help protect the concrete, especially on longer rentals. Ask if your provider supplies them.',
       'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
     ],
     neighborhoods: [

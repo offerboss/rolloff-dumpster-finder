@@ -94,7 +94,7 @@ const faqSchema = {
       name: 'Can a dumpster be placed on a public street in the Denver metro?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Street placement is allowed in most Denver metro cities but requires a right-of-way permit. Each city administers its own process: Denver through the Department of Public Works, Aurora through Aurora Public Works, Lakewood through the City of Lakewood Engineering Division, and Arvada through the City of Arvada. Driveway placement on private property typically does not require a permit.',
+        text: 'Street placement is allowed in most Denver metro cities but requires a right-of-way permit. Each city administers its own process: Denver through the Department of Transportation and Infrastructure (DOTI), Aurora through Aurora Public Works, Lakewood through the City of Lakewood Engineering Division, and Arvada through the City of Arvada. Driveway placement on private property typically does not require a permit.',
       },
     },
     {
@@ -293,7 +293,7 @@ const faq = [
   },
   {
     q: 'Can a dumpster be placed on a public street in the Denver metro?',
-    a: 'Street placement is allowed in most Denver metro cities but requires a right-of-way permit. Each city runs its own process: Denver through the Department of Public Works, Aurora through Aurora Public Works, Lakewood through the Engineering Division, and Arvada through the City of Arvada. Driveway placement typically does not require a permit.',
+    a: 'Street placement is allowed in most Denver metro cities but requires a right-of-way permit. Each city runs its own process: Denver through the Department of Transportation and Infrastructure (DOTI), Aurora through Aurora Public Works, Lakewood through the Engineering Division, and Arvada through the City of Arvada. Driveway placement typically does not require a permit.',
   },
   {
     q: 'Do I need a permit to place a dumpster in the Denver metro?',

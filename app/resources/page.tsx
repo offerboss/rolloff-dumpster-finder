@@ -213,7 +213,7 @@ const resourceCards = [
     badge: 'Geo Guide',
     title: '20 Yard Dumpster Rental in Denver: When This Size Makes Sense',
     excerpt:
-      'A 20-yard dumpster runs $380–$650 per week in Denver. Here is when it fits your project, when a 10 or 30 makes more sense, and what alley access, driveway dimensions, and weight limits mean for Denver specifically.',
+      'A 20-yard dumpster runs $380–$650 per week in Denver. Here is when it fits your project, when a 10 or 30 makes more sense, and what the Denver no-alley rule, driveway dimensions, and weight limits mean for your project.',
     href: '/resources/20-yard-dumpster-rental-denver',
   },
   {

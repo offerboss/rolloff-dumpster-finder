@@ -210,7 +210,7 @@ export const blogPosts: BlogPost[] = [
   <figcaption class="mt-2 text-sm text-gray-500 text-center">Dense debris reaches weight limits before it fills the container. The bin still looks half-empty. The scale at the landfill does not share that perspective.</figcaption>
 </figure>
 
-<p>This is the section that determines whether you get a clean invoice or a surprise charge three days after the project ends.</p>
+<p>This is the section that decides if you get a clean invoice or a surprise charge three days after the project ends.</p>
 
 <p>Every roll-off container has a weight limit. A standard 20-yard typically allows 2–4 tons of debris. Exceed that and you pay an overweight charge — usually $40–$200 per extra ton. Nearly every overweight charge involves the same handful of materials: concrete, roofing shingles, tile, dirt, and brick.</p>
 
@@ -2052,7 +2052,7 @@ export const blogPosts: BlogPost[] = [
       'dumpster placement rules',
     ],
     body: `
-<p>Whether you need a <strong>dumpster rental permit</strong> depends on one thing: where the container lands. I will note that "it depends" is technically one thing. Drop it on your driveway or any private property — no permit required in most cities. Set it on a public street, sidewalk, or public alley, and the city will want paperwork. The permit exists because the city owns the right-of-way and has strong feelings about who leaves 10-ton steel boxes on their roads. Fair enough.</p>
+<p>The answer to the <strong>dumpster rental permit</strong> question depends on one thing: where the container lands. I will note that "it depends" is technically one thing. Drop it on your driveway or any private property — no permit required in most cities. Set it on a public street, sidewalk, or public alley, and the city will want paperwork. The permit exists because the city owns the right-of-way and has strong feelings about who leaves 10-ton steel boxes on their roads. Fair enough.</p>
 
 <div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
   <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">The short version</p>
@@ -2105,7 +2105,7 @@ export const blogPosts: BlogPost[] = [
   <li>Active renovation requiring multiple swaps, and the crew needs easy street access</li>
 </ul>
 
-<p>Some cities handle this quickly — online applications, 24-hour processing, reasonable fees. Others are slower. Dallas runs permits through the Transportation Department. Denver through Public Works. Houston through Public Works and Engineering. The name varies; the paperwork does not. Good local companies know the permit process in their <a href="/locations" class="text-orange hover:underline">service area</a> and can often pull approvals faster than a homeowner calling in cold.</p>
+<p>Some cities handle this quickly — online applications, 24-hour processing, reasonable fees. Others are slower. Dallas runs permits through the Transportation Department. Denver through the Department of Transportation and Infrastructure (DOTI). Houston through Public Works and Engineering. The name varies; the paperwork does not. Good local companies know the permit process in their <a href="/locations" class="text-orange hover:underline">service area</a> and can often pull approvals faster than a homeowner calling in cold.</p>
 
 <h2 id="how-to-get-a-permit">How to Get a Dumpster Permit</h2>
 
@@ -3077,7 +3077,7 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>Not confirming access.</strong> The driver cannot set a container in a blocked driveway. A locked gate, a parked car, or an overhead obstruction discovered at the address results in a failed delivery and a trip charge — not a free retry. Confirm the placement details before hanging up.</p>
 
-<p><strong>Requesting an unusual size.</strong> Same day for a 15-yard in a market where most operators stock 10s and 20s may not be available on short notice. Ask whether your specific size is on the lot before assuming the company can send it today.</p>
+<p><strong>Requesting an unusual size.</strong> Same day for a 15-yard in a market where most operators stock 10s and 20s may not be available on short notice. Ask if your specific size is on the lot before assuming the company can send it today.</p>
 
 <p><strong>Changing the details after dispatch.</strong> "Actually, can we move it to the backyard?" after the truck is already on the road turns a same day delivery into a rescheduled one. Confirm placement on the first call and leave it there.</p>
 
@@ -3567,7 +3567,7 @@ export const blogPosts: BlogPost[] = [
 <h2 id="straight-answers">Straight Answers</h2>
 
 <h3>Which is cheaper — junk removal or dumpster rental?</h3>
-<p>For small loads, junk removal is cheaper. A quarter-truck haul runs $150–$300; a 10-yard container rents for $280–$400 minimum, whether you fill it or not. For loads above 4–5 cubic yards, the dumpster wins. A full-house cleanout costs $700–$1,200 with a junk removal crew and $400–$600 with a 20-yard container you load yourself.</p>
+<p>For small loads, junk removal is cheaper. A quarter-truck haul runs $150–$300; a 10-yard container rents for $280–$400 minimum, full or not. For loads above 4–5 cubic yards, the dumpster wins. A full-house cleanout costs $700–$1,200 with a junk removal crew and $400–$600 with a 20-yard container you load yourself.</p>
 
 <h3>Can junk removal companies handle construction debris?</h3>
 <p>Some do, some do not. Mixed construction debris — drywall, lumber, concrete, shingles — often carries a heavy-debris surcharge or is declined outright. Call and describe exactly what you have before booking. For anything that is primarily construction waste, a roll-off dumpster is the safer default. See the <a href="/resources/renting-a-construction-dumpster">construction dumpster rental guide</a> for specifics on debris types.</p>
@@ -5475,7 +5475,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Yard waste rental has more variables than most debris types. These six questions take two minutes and save a lot of post-delivery friction:</p>
 
-<p><strong>1. Does your disposal facility accept green waste, or will this go in as a mixed-debris load?</strong> This determines whether your material can be composted or must go to a landfill. Mixed loads often cost more to dispose of.</p>
+<p><strong>1. Does your disposal facility accept green waste, or will this go in as a mixed-debris load?</strong> This decides if your material can be composted or must go to a landfill. Mixed loads often cost more to dispose of.</p>
 
 <p><strong>2. What is the weight limit, and what do you charge per ton over?</strong> Standard overage fees run $50–$100 per ton above the included weight. For heavy material like sod and dirt, this number matters a lot more than the base rental rate.</p>
 
@@ -5492,7 +5492,7 @@ export const blogPosts: BlogPost[] = [
 <h2 id="straight-answers">Straight Answers</h2>
 
 <h3>Can you put yard waste in a roll-off dumpster?</h3>
-<p>Yes. Clean green waste — branches, leaves, grass, shrubs — is accepted by most roll-off providers. The caveat is that not every facility handles green waste the same way. Some route it to composting or chipping; others send it to a landfill. Ask upfront whether your load will be treated as green waste or mixed debris, since it affects both the disposal fee and what you can include in the container.</p>
+<p>Yes. Clean green waste — branches, leaves, grass, shrubs — is accepted by most roll-off providers. The caveat is that not every facility handles green waste the same way. Some route it to composting or chipping; others send it to a landfill. Ask upfront if your load will be treated as green waste or mixed debris, since it affects both the disposal fee and what you can include in the container.</p>
 
 <h3>How much does a yard waste dumpster rental cost?</h3>
 <p>A 10-yard yard waste rental typically runs $250–$450 per week. A 20-yard is generally $350–$600. The price depends on your location, the disposal facility's rates for green waste, and what is in the load. Always ask for a quote that includes the weight limit and overage rate — not just the rental fee. Those numbers together are the real price.</p>
@@ -5521,7 +5521,7 @@ export const blogPosts: BlogPost[] = [
       {
         question: 'Can you put yard waste in a roll-off dumpster?',
         answer:
-          'Yes. Clean green waste — branches, leaves, grass, shrubs — is accepted by most roll-off providers. The caveat is that not every facility handles green waste the same way. Some route it to composting or chipping; others send it to a landfill. Ask upfront whether your load will be treated as green waste or mixed debris, since it affects both the disposal fee and what you can include.',
+          'Yes. Clean green waste — branches, leaves, grass, shrubs — is accepted by most roll-off providers. The caveat is that not every facility handles green waste the same way. Some route it to composting or chipping; others send it to a landfill. Ask upfront if your load will be treated as green waste or mixed debris, since it affects both the disposal fee and what you can include.',
       },
       {
         question: 'How much does a yard waste dumpster rental cost?',
@@ -6200,11 +6200,11 @@ export const blogPosts: BlogPost[] = [
 
 <p>The part that trips people up is not the size. It is the weight limit. And in Denver — where a lot of the renovation work involves older tile, hail-damaged roofing, and the kind of kitchen that has a mortar-bed floor under the linoleum — that distinction matters. (The mortar bed always finds a way to make itself known.)</p>
 
-<p>Here is when to book a 20-yard, when to downsize to a 10, when to go up to a 30, and what Denver-specific factors — alley access, older driveway dimensions, street permits — change the calculation.</p>
+<p>Here is when to book a 20-yard, when to downsize to a 10, when to go up to a 30, and what Denver-specific factors — the no-alley rule, older driveway dimensions, street permits — change the calculation.</p>
 
 <div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
   <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
-  <p class="text-charcoal text-sm leading-relaxed">A 20-yard dumpster runs $380–$650 per week in the Denver metro. It fits most roofing jobs, kitchen remodels, and home cleanouts. Heavy debris — concrete, tile, roofing shingles — can hit the weight limit before the bin looks full. Driveway or alley placement avoids the street permit process. Confirm the weight limit and delivery access before booking.</p>
+  <p class="text-charcoal text-sm leading-relaxed">A 20-yard dumpster runs $380–$650 per week in the Denver metro. It fits most roofing jobs, kitchen remodels, and home cleanouts. Heavy debris — concrete, tile, roofing shingles — can hit the weight limit before the bin looks full. Driveway placement avoids the street permit process, and Denver does not allow containers in public alleys. Confirm the weight limit and delivery access before booking.</p>
 </div>
 
 <nav class="not-prose my-8 rounded-lg bg-[#F5F4F0] border border-[#E8E4DE] p-6">
@@ -6340,9 +6340,9 @@ export const blogPosts: BlogPost[] = [
 
 <p><strong>Driveway placement</strong> is the simplest option in most cases. It does not usually require a permit, it keeps the container off the street, and it is what the driver prefers. Most standard single-car driveways in the Denver metro can accommodate a 22-foot container. Shorter or sloped driveways in Highlands, Baker, Five Points, and Capitol Hill may be tighter than they look from the street. Measure the usable driveway length and confirm access with the provider before booking.</p>
 
-<p><strong>Alley placement</strong> is common in older Denver neighborhoods. Homes in Park Hill, Montclair, Cole, Sloan's Lake, and many inner-city blocks have detached garages off the alley — exactly where the container should go during a renovation. Alleys work well when overhead clearance is clear (tree branches and utility lines are the main obstacles) and when the surface can take the weight of a loaded roll-off truck. Some Denver alleys are gravel or packed dirt and can soften after rain. Ask the driver before assuming alley access is ready on delivery day.</p>
+<p><strong>Alley placement</strong> is not an option in Denver. Homes in Park Hill, Montclair, Cole, Sloan's Lake, and many inner-city blocks have detached garages off the alley, and the alley looks like the obvious spot. DOTI's dumpster information sheet says a container may not occupy or obstruct an alley, sidewalk, tree lawn, or travel lane. If you have a parking pad on your own lot, ask the provider whether a smaller container fits there without any part of it sitting in the alley.</p>
 
-<p><strong>Street or right-of-way placement</strong> may require a permit from the City and County of Denver. Denver's Department of Transportation and Infrastructure handles temporary right-of-way use for residential projects. The process and cost can vary depending on the street and the situation. Your rental provider can often advise, and some will handle the permit application as part of the service. Do not place a container in a public right-of-way without confirming permit requirements first. For more on the permit question across Colorado municipalities, see the guide on <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster rental permits</a>. For the City and County of Denver specifically, the <a href="/resources/denver-dumpster-permit" class="text-orange hover:underline">Denver dumpster permit guide</a> covers who pulls the permit, where the container can sit, and the current fee schedule.</p>
+<p><strong>Street placement</strong> requires a Revocable Street Occupancy Permit from Denver's Department of Transportation and Infrastructure (DOTI). DOTI says the dumpster company placing the container must obtain it, and the container has to sit in the parking lane at least 20 feet from any corner, alley, or entrance. Do not place a container in the public right-of-way without a permit. For more on the permit question across Colorado municipalities, see the guide on <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">dumpster rental permits</a>. For the City and County of Denver specifically, the <a href="/resources/denver-dumpster-permit" class="text-orange hover:underline">Denver dumpster permit guide</a> covers who pulls the permit, where the container can sit, and the current fee schedule.</p>
 
 <p>In suburban Denver — Aurora, Lakewood, Littleton, Thornton, Westminster, Englewood, Commerce City — residential driveways tend to be wider and longer. Street placement is often less constrained. HOA rules in planned communities can add their own layer of restrictions on container placement, duration, and visibility. Check your CC&Rs before booking if the neighborhood has an active HOA.</p>
 
@@ -6375,10 +6375,10 @@ export const blogPosts: BlogPost[] = [
 <p>Not usually. A standard 20-yard container is roughly 22 feet long — that fits most residential driveways in the Denver metro. Older, shorter driveways in Capitol Hill, Highlands, Baker, and similar neighborhoods can be tighter. Measure the usable driveway length and confirm with the provider before delivery day if access looks close.</p>
 
 <h3>Can a 20-yard dumpster go in a Denver alley?</h3>
-<p>Often yes. Alley placement works well in Park Hill, Sloan's Lake, Montclair, and other older Denver neighborhoods with detached garages. The main variables are overhead clearance — utility lines and tree branches are the common obstacles — and surface condition. Some Denver alleys are gravel or compacted dirt and can soften after rain. Ask the driver before assuming alley access is ready on delivery day.</p>
+<p>No. DOTI's dumpster information sheet says a container may not occupy or obstruct an alley, sidewalk, tree lawn, travel lane, or no-parking zone. Permitted street placements go in the parking lane at least 20 feet from any corner, alley, or entrance. If your garage sits off the alley, look at the driveway, a parking pad on your own lot, or a permitted spot at the curb.</p>
 
 <h3>Do I need a permit for a 20-yard dumpster in Denver?</h3>
-<p>Driveway or alley placement on private property does not usually require a permit. Street or right-of-way placement in Denver may require a permit from the City and County of Denver's Department of Transportation and Infrastructure. Check with your rental provider before scheduling street placement — some providers handle the permit application as part of the service.</p>
+<p>Not on your own driveway or private property. Street placement requires a Revocable Street Occupancy Permit from Denver's Department of Transportation and Infrastructure (DOTI), and DOTI says the dumpster company placing the container must pull it. Ask your provider to confirm the permit is in place before delivery.</p>
 
 <h3>What should not go in a 20-yard dumpster?</h3>
 <p>Hazardous materials are not accepted: liquid paint, solvents, motor oil, propane tanks, batteries, tires, and appliances with refrigerants. The specific prohibited list varies by provider and the landfill they use. Ask for the restricted items list before loading — not while standing next to a full bin on pickup day.</p>
@@ -6410,12 +6410,12 @@ export const blogPosts: BlogPost[] = [
       {
         question: 'Can a 20-yard dumpster go in a Denver alley?',
         answer:
-          'Often yes. Alley placement works well in Park Hill, Sloan\'s Lake, Montclair, and other older Denver neighborhoods with detached garages. The main variables are overhead clearance (utility lines, tree branches) and surface condition. Some Denver alleys are gravel or compacted dirt and can soften after rain. Ask the driver before assuming alley access is ready.',
+          'No. DOTI\'s dumpster information sheet says a container may not occupy or obstruct an alley, sidewalk, tree lawn, travel lane, or no-parking zone. Permitted street placements go in the parking lane at least 20 feet from any corner, alley, or entrance. If your garage sits off the alley, look at the driveway, a parking pad on your own lot, or a permitted spot at the curb.',
       },
       {
         question: 'Do I need a permit for a 20-yard dumpster in Denver?',
         answer:
-          'Driveway or alley placement on private property does not usually require a permit. Street or right-of-way placement in Denver may require a permit from the City and County of Denver\'s Department of Transportation and Infrastructure. Check with your rental provider before scheduling street placement.',
+          'Not on your own driveway or private property. Street placement requires a Revocable Street Occupancy Permit from Denver\'s Department of Transportation and Infrastructure (DOTI), and DOTI says the dumpster company placing the container must pull it. Ask your provider to confirm the permit is in place before delivery.',
       },
       {
         question: 'What should not go in a 20-yard dumpster?',
@@ -6606,7 +6606,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Placement does not usually add a direct dollar amount to the base rate — but it affects cost indirectly in ways worth understanding before delivery day.</p>
 
-<p>In older Denver neighborhoods — Park Hill, Highlands, Capitol Hill, Baker, Washington Park — driveways are often shorter and narrower than in suburban markets. Detached garages off back alleys are common, and alley access often works well when the clearance is clear. Some alleys in these neighborhoods are gravel or packed dirt and can soften after rain. If alley delivery fails on arrival, a street placement becomes the next option — and street placement in Denver may require a permit from the City and County of Denver's Department of Transportation and Infrastructure.</p>
+<p>In older Denver neighborhoods — Park Hill, Highlands, Capitol Hill, Baker, Washington Park — driveways are often shorter and narrower than in suburban markets. Detached garages off back alleys are common, but Denver does not allow a container to sit in a public alley. When the driveway is too short, the usual fallback is the street parking lane, which requires a Revocable Street Occupancy Permit from Denver's Department of Transportation and Infrastructure (DOTI), pulled by the dumpster company.</p>
 
 <p>In suburban Denver — Aurora, Lakewood, Littleton, Thornton, Englewood, Westminster, Centennial — driveways are typically longer and wider. Placement on private property is usually straightforward. HOA rules in planned communities may restrict container duration, placement location, and visibility. Check your CC&Rs before booking if the neighborhood has an active HOA — a container in violation of HOA rules can result in fees that dwarf the rental cost.</p>
 
@@ -6659,7 +6659,7 @@ export const blogPosts: BlogPost[] = [
 <p>Not if the weight limit is low or the debris type carries surcharges. A cheaper quoted price can cost more on the final invoice if the weight allowance does not match the project. Compare the total cost — base rate, weight limit, overage rate, delivery, and rental period — not just the headline number.</p>
 
 <h3>Do street placement or permits affect dumpster rental cost in Denver?</h3>
-<p>Street placement in Denver may require a permit from the City and County of Denver, which carries its own cost. Some rental providers handle the permit application for a fee; others leave it to the renter. Driveway or alley placement on private property typically avoids the permit requirement. Confirm placement requirements with your provider before scheduling delivery.</p>
+<p>Street placement in Denver requires a DOTI Revocable Street Occupancy Permit, which carries its own fee. DOTI says the dumpster company must obtain it, so some providers bill it as a line item and others build it into the price. Driveway placement on private property avoids the permit, and public alleys are not an option in Denver. Confirm placement with your provider before scheduling delivery.</p>
 
 <h3>How do I compare Denver dumpster rental quotes?</h3>
 <p>Ask each provider for the weight limit and overage rate per ton, whether delivery and fuel are included, and the exact rental period. Then compare total cost based on your actual project — not the cheapest base rate. A quote that answers all those questions directly is the one to work with. A quote that is vague about weight limits is the one to press further before booking.</p>
@@ -6700,7 +6700,7 @@ export const blogPosts: BlogPost[] = [
       {
         question: 'Do street placement or permits affect dumpster rental cost in Denver?',
         answer:
-          'Street placement in Denver may require a permit from the City and County of Denver, which carries its own cost. Some rental providers handle the permit application for a fee. Driveway or alley placement on private property typically avoids the permit requirement. Confirm placement requirements with your provider before scheduling delivery.',
+          'Street placement in Denver requires a DOTI Revocable Street Occupancy Permit, which carries its own fee. DOTI says the dumpster company must obtain it, so some providers bill it as a line item and others build it into the price. Driveway placement on private property avoids the permit, and public alleys are not an option in Denver. Confirm placement with your provider before scheduling delivery.',
       },
       {
         question: 'How do I compare Denver dumpster rental quotes?',
@@ -7939,7 +7939,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2 id="denver">Denver and the Front Range</h2>
 
-<p>Denver and Aurora run $380–$650 per week for a 20-yard container. The Denver metro is Colorado's most competitive roll-off market, which keeps pricing at the lower end of the state range. Placement in older Denver neighborhoods — alley access, tight driveways, street placement near light rail — introduces logistical variables that don't apply on suburban lots. The <a href="/resources/20-yard-dumpster-rental-denver" class="text-orange hover:underline">Denver 20-yard dumpster rental guide</a> covers placement rules, hail and roofing demand, alley-vs-driveway specifics, and Denver suburb pricing in detail. It's the right resource if your project is specifically in Denver or the immediate metro area.</p>
+<p>Denver and Aurora run $380–$650 per week for a 20-yard container. The Denver metro is Colorado's most competitive roll-off market, which keeps pricing at the lower end of the state range. Placement in older Denver neighborhoods — no alley placement, tight driveways, street placement near light rail — introduces logistical variables that don't apply on suburban lots. The <a href="/resources/20-yard-dumpster-rental-denver" class="text-orange hover:underline">Denver 20-yard dumpster rental guide</a> covers placement rules, hail and roofing demand, why alleys are off limits, and Denver suburb pricing in detail. It's the right resource if your project is specifically in Denver or the immediate metro area.</p>
 
 <h2 id="northern-colorado">Northern Colorado Markets</h2>
 
@@ -8929,7 +8929,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2 id="what-it-costs">The Fee Starts at $125 for Five Days</h2>
 
-<p>DOTI's 2024 Consolidated Fee Schedule, effective January 1, 2024, lists these dumpster and container fees:</p>
+<p>DOTI's 2024 Consolidated Fee Schedule, effective January 1, 2024, is still the schedule DOTI links from its right-of-way permits page as of October 2026. It lists these dumpster and container fees:</p>
 
 <div class="not-prose my-6 overflow-x-auto">
   <table class="w-full text-sm border-collapse">

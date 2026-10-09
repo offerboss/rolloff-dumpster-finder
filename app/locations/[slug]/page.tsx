@@ -703,8 +703,8 @@ export default async function CityPage({ params }: Props) {
             Need a Roll Off Dumpster in {city.cityName}?
           </h2>
           <p className="text-[16px] text-white/[.58] leading-[1.7] mb-8">
-            Whether you are cleaning out a home, remodeling a kitchen, tearing off a roof, or
-            managing construction debris, Rolloff Dumpster Finder can help you find roll off
+            Cleaning out a home, remodeling a kitchen, tearing off a roof, or
+            managing construction debris? Rolloff Dumpster Finder can help you find roll off
             dumpster options in the {city.cityName} area.{' '}
             <Link href="/resources/how-to-choose-a-dumpster-rental-company" className="text-orange/80 underline underline-offset-2 hover:text-orange hover:no-underline transition-colors">
               Tips on choosing the right rental company
