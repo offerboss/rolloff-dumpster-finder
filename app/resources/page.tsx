@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     'Practical guides on roll-off dumpster sizes, pricing, cleanouts, construction debris, roofing jobs, permits, and what to expect before you book.',
   alternates: {
-    canonical: 'https://rolloffdumpsterfinder.com/resources',
+    canonical: 'https://www.rolloffdumpsterfinder.com/resources',
   },
   openGraph: {
     title: 'Dumpster Rental Resources | Rolloff Dumpster Finder',
     description:
       'Practical guides on roll-off dumpster sizes, pricing, cleanouts, construction debris, roofing jobs, permits, and what to expect before you book.',
-    url: 'https://rolloffdumpsterfinder.com/resources',
+    url: 'https://www.rolloffdumpsterfinder.com/resources',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
   },
@@ -28,8 +28,8 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://rolloffdumpsterfinder.com' },
-    { '@type': 'ListItem', position: 2, name: 'Resources', item: 'https://rolloffdumpsterfinder.com/resources' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.rolloffdumpsterfinder.com' },
+    { '@type': 'ListItem', position: 2, name: 'Resources', item: 'https://www.rolloffdumpsterfinder.com/resources' },
   ],
 }
 
@@ -365,7 +365,7 @@ export default function ResourcesPage() {
           Find available roll-off dumpster rentals near you. No oversized containers, no hidden fees.
         </p>
         <a
-          href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
+          href="https://www.rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
           className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
         >
           Get a Quote

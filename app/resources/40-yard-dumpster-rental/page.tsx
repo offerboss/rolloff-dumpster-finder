@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 const TITLE = '40 Yard Dumpster Rental: When the Biggest Bin Makes Sense'
-const CANONICAL = 'https://rolloffdumpsterfinder.com/resources/40-yard-dumpster-rental'
+const CANONICAL = 'https://www.rolloffdumpsterfinder.com/resources/40-yard-dumpster-rental'
 const COVER_SRC =
   'https://images.pexels.com/photos/5511065/pexels-photo-5511065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
 const DATE = '2026-06-27'
@@ -117,12 +117,12 @@ const articleSchema = {
   author: {
     '@type': 'Person',
     name: AUTHOR,
-    url: 'https://rolloffdumpsterfinder.com/about',
+    url: 'https://www.rolloffdumpsterfinder.com/about',
   },
   publisher: {
     '@type': 'Organization',
     name: 'Rolloff Dumpster Finder',
-    url: 'https://rolloffdumpsterfinder.com',
+    url: 'https://www.rolloffdumpsterfinder.com',
   },
   mainEntityOfPage: {
     '@type': 'WebPage',
@@ -134,12 +134,12 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://rolloffdumpsterfinder.com' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.rolloffdumpsterfinder.com' },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'Resources',
-      item: 'https://rolloffdumpsterfinder.com/resources',
+      item: 'https://www.rolloffdumpsterfinder.com/resources',
     },
     { '@type': 'ListItem', position: 3, name: '40 Yard Dumpster Rental', item: CANONICAL },
   ],
@@ -149,7 +149,7 @@ const personSchema = {
   '@context': 'https://schema.org',
   '@type': 'Person',
   name: AUTHOR,
-  url: 'https://rolloffdumpsterfinder.com/about',
+  url: 'https://www.rolloffdumpsterfinder.com/about',
   worksFor: { '@type': 'Organization', name: 'Rolloff Dumpster Finder' },
 }
 
@@ -546,7 +546,7 @@ export default function FortyYardDumpsterRentalPage() {
             Compare quotes from vetted local companies. No hidden fees, no oversized containers.
           </p>
           <a
-            href="https://rolloffdumpsterfinder.com/#get-quote"
+            href="https://www.rolloffdumpsterfinder.com/#get-quote"
             className="inline-block bg-orange text-black font-semibold px-8 py-3 rounded-full hover:opacity-90 transition-opacity"
           >
             Get a Free Quote

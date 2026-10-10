@@ -7,18 +7,18 @@ export const metadata: Metadata = {
   description:
     'Browse roll-off dumpster rental companies serving Texas by region. Listings cover Dallas–Fort Worth, Houston, Austin, San Antonio, El Paso, and communities statewide.',
   alternates: {
-    canonical: 'https://rolloffdumpsterfinder.com/providers/texas',
+    canonical: 'https://www.rolloffdumpsterfinder.com/providers/texas',
   },
   openGraph: {
     title: 'Texas Roll-Off Dumpster Rental Companies | Provider Directory',
     description:
       'Browse roll-off dumpster rental companies serving Texas by region. Listings cover Dallas–Fort Worth, Houston, Austin, San Antonio, El Paso, and communities statewide.',
-    url: 'https://rolloffdumpsterfinder.com/providers/texas',
+    url: 'https://www.rolloffdumpsterfinder.com/providers/texas',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
     images: [
       {
-        url: 'https://rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
+        url: 'https://www.rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
         width: 1448,
         height: 1086,
         alt: 'Roll-off dumpster rental companies in Texas',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     description:
       'Browse roll-off dumpster rental companies serving Texas by region.',
     images: [
-      'https://rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
+      'https://www.rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
     ],
   },
 }
@@ -40,18 +40,18 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://rolloffdumpsterfinder.com' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.rolloffdumpsterfinder.com' },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'Provider Directory',
-      item: 'https://rolloffdumpsterfinder.com/providers',
+      item: 'https://www.rolloffdumpsterfinder.com/providers',
     },
     {
       '@type': 'ListItem',
       position: 3,
       name: 'Texas',
-      item: 'https://rolloffdumpsterfinder.com/providers/texas',
+      item: 'https://www.rolloffdumpsterfinder.com/providers/texas',
     },
   ],
 }

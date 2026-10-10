@@ -18,17 +18,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: city.metaDescription,
     keywords: [city.primaryKeyword, ...city.secondaryKeywords],
     alternates: {
-      canonical: `https://rolloffdumpsterfinder.com/locations/${city.slug}`,
+      canonical: `https://www.rolloffdumpsterfinder.com/locations/${city.slug}`,
     },
     openGraph: {
       title: city.metaTitle,
       description: city.metaDescription,
-      url: `https://rolloffdumpsterfinder.com/locations/${city.slug}`,
+      url: `https://www.rolloffdumpsterfinder.com/locations/${city.slug}`,
       siteName: 'Rolloff Dumpster Finder',
       type: 'website',
       images: [
         {
-          url: 'https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
+          url: 'https://www.rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
           width: 1672,
           height: 941,
           alt: 'Roll-off dumpster rental',
@@ -39,7 +39,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: 'summary_large_image',
       title: city.metaTitle,
       description: city.metaDescription,
-      images: ['https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png'],
+      images: ['https://www.rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png'],
     },
   }
 }
@@ -169,13 +169,13 @@ export default async function CityPage({ params }: Props) {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://rolloffdumpsterfinder.com' },
-      { '@type': 'ListItem', position: 2, name: 'Locations', item: 'https://rolloffdumpsterfinder.com/locations' },
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.rolloffdumpsterfinder.com' },
+      { '@type': 'ListItem', position: 2, name: 'Locations', item: 'https://www.rolloffdumpsterfinder.com/locations' },
       {
         '@type': 'ListItem',
         position: 3,
         name: `${city.cityName}, ${city.stateAbbr}`,
-        item: `https://rolloffdumpsterfinder.com/locations/${city.slug}`,
+        item: `https://www.rolloffdumpsterfinder.com/locations/${city.slug}`,
       },
     ],
   }
@@ -200,14 +200,14 @@ export default async function CityPage({ params }: Props) {
     provider: {
       '@type': 'Organization',
       name: 'Rolloff Dumpster Finder',
-      url: 'https://rolloffdumpsterfinder.com',
+      url: 'https://www.rolloffdumpsterfinder.com',
     },
     areaServed: {
       '@type': 'City',
       name: city.cityName,
       containedInPlace: { '@type': 'State', name: city.stateName },
     },
-    url: `https://rolloffdumpsterfinder.com/locations/${city.slug}`,
+    url: `https://www.rolloffdumpsterfinder.com/locations/${city.slug}`,
     description: city.metaDescription,
   }
 
@@ -221,7 +221,7 @@ export default async function CityPage({ params }: Props) {
       <div className="bg-gray-50 border-b border-gray-200 px-6 py-3">
         <nav aria-label="Breadcrumb" className="max-w-[1200px] mx-auto">
           <ol className="flex flex-wrap items-center gap-2 text-sm text-gray-500">
-            <li><a href="https://rolloffdumpsterfinder.com/" className="hover:text-charcoal transition-colors">Home</a></li>
+            <li><a href="https://www.rolloffdumpsterfinder.com/" className="hover:text-charcoal transition-colors">Home</a></li>
             <li aria-hidden="true">/</li>
             <li><Link href="/locations" className="hover:text-charcoal transition-colors">Locations</Link></li>
             <li aria-hidden="true">/</li>

@@ -6,18 +6,18 @@ export const metadata: Metadata = {
   description:
     'Compare roll-off dumpster rental options across Denver, Aurora, Lakewood, Arvada, Westminster, Thornton, Littleton, and surrounding Colorado communities.',
   alternates: {
-    canonical: 'https://rolloffdumpsterfinder.com/locations/colorado/denver-metro',
+    canonical: 'https://www.rolloffdumpsterfinder.com/locations/colorado/denver-metro',
   },
   openGraph: {
     title: 'Roll-Off Dumpster Rentals in the Denver Metro Area',
     description:
       'Compare roll-off dumpster rental options across Denver, Aurora, Lakewood, Arvada, Westminster, Thornton, Littleton, and surrounding Colorado communities.',
-    url: 'https://rolloffdumpsterfinder.com/locations/colorado/denver-metro',
+    url: 'https://www.rolloffdumpsterfinder.com/locations/colorado/denver-metro',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
     images: [
       {
-        url: 'https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
+        url: 'https://www.rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
         width: 1672,
         height: 941,
         alt: 'Roll-off dumpster rental in the Denver metro area',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     description:
       'Compare roll-off dumpster rental options across Denver, Aurora, Lakewood, Arvada, Westminster, Thornton, Littleton, and surrounding Colorado communities.',
     images: [
-      'https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
+      'https://www.rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
     ],
   },
 }
@@ -39,24 +39,24 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://rolloffdumpsterfinder.com' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.rolloffdumpsterfinder.com' },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'Locations',
-      item: 'https://rolloffdumpsterfinder.com/locations',
+      item: 'https://www.rolloffdumpsterfinder.com/locations',
     },
     {
       '@type': 'ListItem',
       position: 3,
       name: 'Colorado',
-      item: 'https://rolloffdumpsterfinder.com/locations/colorado',
+      item: 'https://www.rolloffdumpsterfinder.com/locations/colorado',
     },
     {
       '@type': 'ListItem',
       position: 4,
       name: 'Denver Metro Area',
-      item: 'https://rolloffdumpsterfinder.com/locations/colorado/denver-metro',
+      item: 'https://www.rolloffdumpsterfinder.com/locations/colorado/denver-metro',
     },
   ],
 }
@@ -900,7 +900,7 @@ export default function DenverMetroPage() {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
-            href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
+            href="https://www.rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
             className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
           >
             Get a Quote

@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, Utah, Texas, Wyoming, and Oklahoma with local pricing, city guides, and roll-off rental options.',
   alternates: {
-    canonical: 'https://rolloffdumpsterfinder.com/locations',
+    canonical: 'https://www.rolloffdumpsterfinder.com/locations',
   },
   openGraph: {
     title: 'Dumpster Rental Locations | Rolloff Dumpster Finder',
     description:
       'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, Utah, Texas, Wyoming, and Oklahoma with local pricing, city guides, and roll-off rental options.',
-    url: 'https://rolloffdumpsterfinder.com/locations',
+    url: 'https://www.rolloffdumpsterfinder.com/locations',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
   },
@@ -28,12 +28,12 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://rolloffdumpsterfinder.com' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.rolloffdumpsterfinder.com' },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'Locations',
-      item: 'https://rolloffdumpsterfinder.com/locations',
+      item: 'https://www.rolloffdumpsterfinder.com/locations',
     },
   ],
 }
@@ -211,7 +211,7 @@ export default function LocationsPage() {
           the right container and schedule a drop.
         </p>
         <a
-          href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
+          href="https://www.rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
           className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
         >
           Book Now / Get Quote

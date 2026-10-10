@@ -7,18 +7,18 @@ export const metadata: Metadata = {
   description:
     'Put your dumpster rental company in front of customers actively searching in the markets you serve. Apply for featured placement on Rolloff Dumpster Finder.',
   alternates: {
-    canonical: 'https://rolloffdumpsterfinder.com/for-rental-companies',
+    canonical: 'https://www.rolloffdumpsterfinder.com/for-rental-companies',
   },
   openGraph: {
     title: 'Apply to Be Featured on Rolloff Dumpster Finder',
     description:
       'Put your dumpster rental company in front of customers actively searching in the markets you serve. Apply for featured placement on Rolloff Dumpster Finder.',
-    url: 'https://rolloffdumpsterfinder.com/for-rental-companies',
+    url: 'https://www.rolloffdumpsterfinder.com/for-rental-companies',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
     images: [
       {
-        url: 'https://rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
+        url: 'https://www.rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
         width: 1448,
         height: 1086,
         alt: 'Apply to be featured on Rolloff Dumpster Finder',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     description:
       'Put your dumpster rental company in front of customers actively searching in the markets you serve. Apply for featured placement on Rolloff Dumpster Finder.',
     images: [
-      'https://rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
+      'https://www.rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
     ],
   },
 }
@@ -40,12 +40,12 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://rolloffdumpsterfinder.com' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.rolloffdumpsterfinder.com' },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'For Rental Companies',
-      item: 'https://rolloffdumpsterfinder.com/for-rental-companies',
+      item: 'https://www.rolloffdumpsterfinder.com/for-rental-companies',
     },
   ],
 }
@@ -56,11 +56,11 @@ const webPageSchema = {
   name: 'Apply to Be Featured on Rolloff Dumpster Finder',
   description:
     'Put your dumpster rental company in front of customers actively searching in the markets you serve. Apply for featured placement on Rolloff Dumpster Finder.',
-  url: 'https://rolloffdumpsterfinder.com/for-rental-companies',
+  url: 'https://www.rolloffdumpsterfinder.com/for-rental-companies',
   isPartOf: {
     '@type': 'WebSite',
     name: 'Rolloff Dumpster Finder',
-    url: 'https://rolloffdumpsterfinder.com',
+    url: 'https://www.rolloffdumpsterfinder.com',
   },
 }
 

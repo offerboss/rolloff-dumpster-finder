@@ -8,13 +8,13 @@ export const metadata: Metadata = {
   description:
     'Roll-off dumpster rental services for residential cleanouts, construction debris, roofing tear-offs, yard waste, and commercial projects.',
   alternates: {
-    canonical: 'https://rolloffdumpsterfinder.com/services',
+    canonical: 'https://www.rolloffdumpsterfinder.com/services',
   },
   openGraph: {
     title: 'Dumpster Rental Services | Rolloff Dumpster Finder',
     description:
       'Roll-off dumpster rental services for residential cleanouts, construction debris, roofing tear-offs, yard waste, and commercial projects.',
-    url: 'https://rolloffdumpsterfinder.com/services',
+    url: 'https://www.rolloffdumpsterfinder.com/services',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
   },
@@ -34,13 +34,13 @@ const breadcrumbSchema = {
       '@type': 'ListItem',
       position: 1,
       name: 'Home',
-      item: 'https://rolloffdumpsterfinder.com',
+      item: 'https://www.rolloffdumpsterfinder.com',
     },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'Services',
-      item: 'https://rolloffdumpsterfinder.com/services',
+      item: 'https://www.rolloffdumpsterfinder.com/services',
     },
   ],
 }

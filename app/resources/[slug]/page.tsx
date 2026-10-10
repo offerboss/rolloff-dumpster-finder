@@ -23,12 +23,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     keywords: post.keywords,
     authors: [{ name: post.author }],
     alternates: {
-      canonical: `https://rolloffdumpsterfinder.com/resources/${post.slug}`,
+      canonical: `https://www.rolloffdumpsterfinder.com/resources/${post.slug}`,
     },
     openGraph: {
       title: `${post.title} | Rolloff Dumpster Finder`,
       description: post.metaDescription,
-      url: `https://rolloffdumpsterfinder.com/resources/${post.slug}`,
+      url: `https://www.rolloffdumpsterfinder.com/resources/${post.slug}`,
       siteName: 'Rolloff Dumpster Finder',
       type: 'article',
       publishedTime: post.date,
@@ -67,16 +67,16 @@ export default async function ResourcePostPage({ params }: Props) {
     author: {
       '@type': 'Person',
       name: post.author,
-      url: 'https://rolloffdumpsterfinder.com/about',
+      url: 'https://www.rolloffdumpsterfinder.com/about',
     },
     publisher: {
       '@type': 'Organization',
       name: 'Rolloff Dumpster Finder',
-      url: 'https://rolloffdumpsterfinder.com',
+      url: 'https://www.rolloffdumpsterfinder.com',
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://rolloffdumpsterfinder.com/resources/${post.slug}`,
+      '@id': `https://www.rolloffdumpsterfinder.com/resources/${post.slug}`,
     },
   }
 
@@ -88,19 +88,19 @@ export default async function ResourcePostPage({ params }: Props) {
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://rolloffdumpsterfinder.com',
+        item: 'https://www.rolloffdumpsterfinder.com',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Resources',
-        item: 'https://rolloffdumpsterfinder.com/resources',
+        item: 'https://www.rolloffdumpsterfinder.com/resources',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: post.title,
-        item: `https://rolloffdumpsterfinder.com/resources/${post.slug}`,
+        item: `https://www.rolloffdumpsterfinder.com/resources/${post.slug}`,
       },
     ],
   }
@@ -109,7 +109,7 @@ export default async function ResourcePostPage({ params }: Props) {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name: post.author,
-    url: 'https://rolloffdumpsterfinder.com/about',
+    url: 'https://www.rolloffdumpsterfinder.com/about',
     worksFor: {
       '@type': 'Organization',
       name: 'Rolloff Dumpster Finder',
@@ -296,7 +296,7 @@ export default async function ResourcePostPage({ params }: Props) {
             Compare quotes from vetted local companies. No hidden fees, no oversized containers.
           </p>
           <a
-            href="https://rolloffdumpsterfinder.com/#get-quote"
+            href="https://www.rolloffdumpsterfinder.com/#get-quote"
             className="inline-block bg-orange text-black font-semibold px-8 py-3 rounded-full hover:opacity-90 transition-opacity"
           >
             Get a Free Quote

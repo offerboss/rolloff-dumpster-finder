@@ -7,18 +7,18 @@ export const metadata: Metadata = {
   description:
     'Browse roll-off dumpster rental companies serving Wyoming by region. Listings are compiled from public business information and have not yet been confirmed by providers.',
   alternates: {
-    canonical: 'https://rolloffdumpsterfinder.com/providers/wyoming',
+    canonical: 'https://www.rolloffdumpsterfinder.com/providers/wyoming',
   },
   openGraph: {
     title: 'Wyoming Roll-Off Dumpster Rental Companies | Provider Directory',
     description:
       'Browse roll-off dumpster rental companies serving Wyoming by region. Listings are compiled from public business information and have not yet been confirmed by providers.',
-    url: 'https://rolloffdumpsterfinder.com/providers/wyoming',
+    url: 'https://www.rolloffdumpsterfinder.com/providers/wyoming',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
     images: [
       {
-        url: 'https://rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
+        url: 'https://www.rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
         width: 1448,
         height: 1086,
         alt: 'Roll-off dumpster rental companies in Wyoming',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     description:
       'Browse roll-off dumpster rental companies serving Wyoming by region.',
     images: [
-      'https://rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
+      'https://www.rolloffdumpsterfinder.com/home-page-images/commercial-construction-roll-off-dumpster-rental.png',
     ],
   },
 }
@@ -40,18 +40,18 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://rolloffdumpsterfinder.com' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.rolloffdumpsterfinder.com' },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'Provider Directory',
-      item: 'https://rolloffdumpsterfinder.com/providers',
+      item: 'https://www.rolloffdumpsterfinder.com/providers',
     },
     {
       '@type': 'ListItem',
       position: 3,
       name: 'Wyoming',
-      item: 'https://rolloffdumpsterfinder.com/providers/wyoming',
+      item: 'https://www.rolloffdumpsterfinder.com/providers/wyoming',
     },
   ],
 }

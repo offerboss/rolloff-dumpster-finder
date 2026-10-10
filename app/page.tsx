@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Rolloff Dumpster Finder | Roll-Off Dumpster Rental in Colorado',
   description:
     'Find and book roll-off dumpster rentals in Colorado for home cleanouts, roofing, construction, and demolition. Right-sized containers, no hidden fees.',
-  alternates: { canonical: 'https://rolloffdumpsterfinder.com' },
+  alternates: { canonical: 'https://www.rolloffdumpsterfinder.com' },
   openGraph: {
     title: 'Rolloff Dumpster Finder | Roll-Off Dumpster Rental in Colorado',
     description:
       'Find and book roll-off dumpster rentals in Colorado for home cleanouts, roofing, construction, and demolition. Right-sized containers, no hidden fees.',
-    url: 'https://rolloffdumpsterfinder.com',
+    url: 'https://www.rolloffdumpsterfinder.com',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
   },
@@ -29,14 +29,14 @@ const websiteSchema = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
   name: 'Rolloff Dumpster Finder',
-  url: 'https://rolloffdumpsterfinder.com',
+  url: 'https://www.rolloffdumpsterfinder.com',
 }
 
 const orgSchema = {
   '@context': 'https://schema.org',
   '@type': ['LocalBusiness', 'HomeAndConstructionBusiness'],
   name: 'Rolloff Dumpster Finder',
-  url: 'https://rolloffdumpsterfinder.com',
+  url: 'https://www.rolloffdumpsterfinder.com',
   telephone: '+19705686136',
   email: 'adam@meetadamchandler.com',
   areaServed: { '@type': 'State', name: 'Colorado' },

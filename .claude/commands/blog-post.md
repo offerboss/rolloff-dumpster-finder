@@ -141,7 +141,7 @@ Every item below must be satisfied before this post is done.
 **Head & Metadata (already handled by the blog template — verify the data you supply is correct):**
 - Title: 50–60 chars, primary keyword near the start.
 - Meta description: 150–160 chars, keyword + benefit + soft CTA.
-- Canonical URL: `https://rolloffdumpsterfinder.com/resources/{slug}`.
+- Canonical URL: `https://www.rolloffdumpsterfinder.com/resources/{slug}`.
 - Open Graph: title, description, image (1200×630), URL, type.
 - Twitter Card: summary_large_image, title, description.
 
@@ -210,7 +210,7 @@ Add a new entry to the sitemap array:
 
 ```typescript
 {
-  url: 'https://rolloffdumpsterfinder.com/resources/{slug}',
+  url: 'https://www.rolloffdumpsterfinder.com/resources/{slug}',
   lastModified: new Date(),
   changeFrequency: 'monthly',
   priority: 0.8,

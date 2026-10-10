@@ -6,18 +6,18 @@ export const metadata: Metadata = {
   description:
     'Find roll-off dumpster rental options across Oklahoma for tornado and storm cleanup, home cleanouts, roofing tear-offs, and construction debris.',
   alternates: {
-    canonical: 'https://rolloffdumpsterfinder.com/locations/oklahoma',
+    canonical: 'https://www.rolloffdumpsterfinder.com/locations/oklahoma',
   },
   openGraph: {
     title: 'Oklahoma Dumpster Rental Locations | Rolloff Dumpster Finder',
     description:
       'Find roll-off dumpster rental options across Oklahoma for tornado and storm cleanup, home cleanouts, roofing tear-offs, and construction debris.',
-    url: 'https://rolloffdumpsterfinder.com/locations/oklahoma',
+    url: 'https://www.rolloffdumpsterfinder.com/locations/oklahoma',
     siteName: 'Rolloff Dumpster Finder',
     type: 'website',
     images: [
       {
-        url: 'https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
+        url: 'https://www.rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
         width: 1672,
         height: 941,
         alt: 'Roll-off dumpster rental in Oklahoma',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     description:
       'Find roll-off dumpster rental options across Oklahoma for tornado and storm cleanup, home cleanouts, roofing tear-offs, and construction debris.',
     images: [
-      'https://rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
+      'https://www.rolloffdumpsterfinder.com/home-page-images/hero-dumpster-construction.png',
     ],
   },
 }
@@ -39,18 +39,18 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://rolloffdumpsterfinder.com' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.rolloffdumpsterfinder.com' },
     {
       '@type': 'ListItem',
       position: 2,
       name: 'Locations',
-      item: 'https://rolloffdumpsterfinder.com/locations',
+      item: 'https://www.rolloffdumpsterfinder.com/locations',
     },
     {
       '@type': 'ListItem',
       position: 3,
       name: 'Oklahoma',
-      item: 'https://rolloffdumpsterfinder.com/locations/oklahoma',
+      item: 'https://www.rolloffdumpsterfinder.com/locations/oklahoma',
     },
   ],
 }
@@ -503,7 +503,7 @@ export default function OklahomaLocationsPage() {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
-            href="https://rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
+            href="https://www.rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
             className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
           >
             Book Now / Get Quote

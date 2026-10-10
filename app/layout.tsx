@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   },
   description:
     'Find and book roll-off dumpster rentals for residential cleanouts, construction projects, and commercial waste removal.',
-  metadataBase: new URL('https://rolloffdumpsterfinder.com'),
+  metadataBase: new URL('https://www.rolloffdumpsterfinder.com'),
 }
 
 export default function RootLayout({

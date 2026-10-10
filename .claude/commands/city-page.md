@@ -203,7 +203,7 @@ Add a new entry to the sitemap array:
 
 ```typescript
 {
-  url: 'https://rolloffdumpsterfinder.com/locations/{slug}',
+  url: 'https://www.rolloffdumpsterfinder.com/locations/{slug}',
   lastModified: new Date(),
   changeFrequency: 'monthly',
   priority: 0.8,
