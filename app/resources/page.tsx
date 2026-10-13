@@ -279,6 +279,20 @@ const resourceCards = [
       'A 10-yard runs $280–$480/week at Denver rates, holds about three pickup loads, and fits most driveways. Here is what it handles, when Large Item Pickup is enough, and when to size up.',
     href: '/resources/10-yard-dumpster-rental-denver',
   },
+  {
+    badge: 'Geo Guide',
+    title: 'Douglas County Dumpster Rental Cost',
+    excerpt:
+      'Denver-metro size ranges plus Castle Rock and Castle Pines permit math. Planning guidance that links to each south-metro city page without inventing tip sheets.',
+    href: '/resources/douglas-county-dumpster-rental-cost',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'South Denver Roofing Dumpster Rental',
+    excerpt:
+      'Hail-season tear-offs across Englewood, Littleton, Centennial, Sheridan, and Cherry Hills Village. Size for weight, keep the bin on the driveway, book early after storms.',
+    href: '/resources/south-denver-roofing-dumpster-rental',
+  },
 ]
 
 export default function ResourcesPage() {

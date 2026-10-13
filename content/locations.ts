@@ -212,7 +212,8 @@ export const cityLocations: CityLocation[] = [
       'Commerce City',
       'Edgewater',
       'Golden',
-    ],
+      'Sheridan',
+      'Cherry Hills Village',],
     faq: [
       {
         question: 'How much does a dumpster rental cost in Denver?',
@@ -10778,7 +10779,7 @@ export const cityLocations: CityLocation[] = [
       'Commerce City',
       'Golden',
       'Erie',
-    ],
+      'Edgewater',],
     faq: [
       {
         question: 'How much does dumpster rental cost in Westminster?',
@@ -12230,7 +12231,7 @@ export const cityLocations: CityLocation[] = [
       'Aurora',
       'Lone Tree',
       'Highlands Ranch',
-    ],
+      'Sheridan',],
     faq: [
       {
         question: 'How much does dumpster rental cost in Englewood?',
@@ -16682,7 +16683,7 @@ export const cityLocations: CityLocation[] = [
       'Highlands Ranch',
       'Colorado Springs',
       'Elizabeth',
-    ],
+      'Castle Pines',],
     faq: [
       {
         question: 'How much does dumpster rental cost in Parker, CO?',
@@ -17711,7 +17712,7 @@ export const cityLocations: CityLocation[] = [
       'Denver',
       'Lakewood',
       'Castle Rock',
-    ],
+      'Castle Pines',],
     faq: [
       {
         question: 'How much does dumpster rental cost in Highlands Ranch?',
@@ -18746,5 +18747,953 @@ export const cityLocations: CityLocation[] = [
     longitude: -104.7942,
     pricingPlacementNote:
       'Street or right-of-way placement in Brighton may require a City right-of-way permit through the One-Stop office, which is not included in rental pricing.',
+  },
+  // ─── CASTLE PINES ─────────────────────────────────────────
+  {
+    slug: 'castle-pines-co-dumpster-rental',
+    cityName: 'Castle Pines',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Castle Pines Dumpster Rental | Sizes, Costs & City Rules',
+    metaDescription:
+      'Castle Pines dumpster rental for remodels, roofing, cleanouts, and landscaping. Compare roll-off sizes, Front Range pricing, and City temporary dumpster ROW fees.',
+    primaryKeyword: 'castle pines dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental castle pines co',
+      'castle pines construction dumpster rental',
+      'roll off dumpster castle pines',
+      'roll off dumpster castle pines co',
+      'rolloff dumpsters castle pines',
+      'roll offs castle pines co',
+      '10 yard dumpster rental castle pines',
+      '20 yard dumpster rental castle pines',
+      '30 yard dumpster rental castle pines',
+      'castle pines dumpster permit',
+    ],
+    heroH1: 'Dumpster Rental in Castle Pines, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for roofing tear-offs, remodels, cleanouts, and landscaping across Castle Pines and the Douglas County hills north of Castle Rock.',
+    introParagraphs: [
+      "Castle Pines sits on the ridge between Castle Rock and Lone Tree in Douglas County. The U.S. Census counted 11,036 residents in 2020, and the City's July 2025 estimate puts the population near 15,600. Growth means debris. Established custom-home neighborhoods such as Buffalo Ridge, The Retreat, and Daniels Gate generate roofing, kitchen remodels, and estate cleanouts. Newer planned areas around Lagae Ranch / Castle Valley add construction scraps and move-in cleanouts. Most of those jobs fit a 10, 15, or 20-yard container.",
+      "Plan on the driveway. City Code Section 11-1-30 prohibits dumpsters of five cubic yards or more in the public right-of-way unless you hold a City permit. The City's 2026 fee schedule lists Temporary Dumpster Placement at $375 for the initial 90 days and $190 for each 30-day extension. The City Manager can also require a bond, insurance, or indemnification. That is real money for one bin that could have sat on private pavement.",
+      "Rolloff Dumpster Finder helps Castle Pines homeowners and contractors compare roll-off options across Douglas County. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and driveway length. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Many neighborhoods have HOA covenants, so check container rules before delivery day.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'South Douglas County sits in the Front Range hail corridor. A 20-yard holds most residential tear-offs by volume, but weight matters more. A full roof commonly produces 3–5 tons. Confirm the included weight before the crew starts loading.',
+      },
+      {
+        number: '02',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Custom homes in Buffalo Ridge and Daniels Gate often mean stone counters, tile, and thick mortar beds. Cabinets are bulky. Tile is heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project.',
+      },
+      {
+        number: '03',
+        name: 'Home Cleanouts',
+        description:
+          'Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. One larger container often costs less than a second haul, so price both before booking.',
+      },
+      {
+        number: '04',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-held homes on larger Castle Pines lots can hold decades of contents. Plan on a 20 or 30-yard for a full estate. Appliances with refrigerant, paint, and chemicals are commonly prohibited in standard roll-offs, so pull them before loading.',
+      },
+      {
+        number: '05',
+        name: 'Construction Debris',
+        description:
+          'Lagae Ranch / Castle Valley and other build areas produce framing scraps, drywall, and packaging. A 20-yard is a common size for a single-home project. Tell the provider about steep or curved driveways on ridge lots.',
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'A typical garage cleanout fits in a 10-yard. A finished basement with furniture and boxes often needs a 15 or 20-yard. Keep paint, solvents, and chemicals out of the load.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Shrub removal, tree trimming, and rock or mulch changes fill a container fast. Branches are light. Rock and soil are not. Some providers price clean yard waste differently from mixed loads, so ask before combining them.',
+      },
+      {
+        number: '08',
+        name: 'Deck & Outdoor Projects',
+        description:
+          'Deck rebuilds and patio tear-outs produce lumber, composite boards, and sometimes concrete footings. Lumber is bulky. Concrete footings need a heavy-debris plan. Describe both before you book.',
+      },
+      {
+        number: '09',
+        name: 'Flooring Removal',
+        description:
+          'Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Tile across a main floor often needs a 15-yard with a clear weight allowance.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Castle Pines depends on your driveway, your HOA, and the cost of a City right-of-way dumpster permit. For most homeowners, the driveway wins.',
+    placementNotes: [
+      'Driveway placement on private property is the standard setup in Castle Pines and avoids the City temporary dumpster right-of-way fee.',
+      'City Code Section 11-1-30 prohibits dumpsters of five cubic yards or more in the public right-of-way without a City permit. Check with the City of Castle Pines before planning street placement.',
+      "The City's 2026 fee schedule lists Temporary Dumpster Placement at $375 for the initial 90 days and $190 for each 30-day extension. The City Manager may require a bond, insurance, or indemnification.",
+      'Most neighborhoods list an HOA. Check covenants for container rules, time limits, or notice requirements before delivery.',
+      'Ridge lots can have steep or curved driveways. Measure length and width, check overhead clearance for the truck lift, and tell the provider about the grade when you book.',
+      'Boards or plywood under the container rails help protect the concrete, especially on longer rentals. Ask if your provider supplies them.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Lagae Ranch',
+      'Castle Valley',
+      'Buffalo Ridge',
+      'The Retreat',
+      'Daniels Gate',
+      'Castle Ridge',
+      'Forest Park',
+      'Castle Pines Town Center',
+      'Pine Ridge',
+      'Happy Canyon',
+      'Surrey Ridge',
+      'The Canyons area',
+      'Castle Pines Village edge',
+      'Monarch Boulevard corridor',
+    ],
+    nearbyCities: [
+      'Castle Rock',
+      'Lone Tree',
+      'Parker',
+      'Highlands Ranch',
+      'Littleton',
+      'Centennial',
+      'Franktown',
+      'Sedalia',
+      'Larkspur',
+      'Greenwood Village',
+      'Aurora',
+      'Denver',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Castle Pines?',
+        answer:
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement adds a City temporary dumpster permit; the 2026 fee schedule lists $375 for the first 90 days. Driveway placement avoids that cost.',
+      },
+      {
+        question: 'Can I put a dumpster on the street in Castle Pines?',
+        answer:
+          'Only with a City right-of-way permit. City Code Section 11-1-30 prohibits dumpsters of five cubic yards or more in the public right-of-way without a valid permit. The 2026 fee schedule lists $375 for the initial 90 days and $190 for each 30-day extension. Check with the City of Castle Pines before planning on the street.',
+      },
+      {
+        question: 'What size dumpster for a Castle Pines home cleanout?',
+        answer:
+          'A garage or single-room cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs on larger lots can run to a 30-yard. Price a second haul against one larger container before you book.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Castle Pines?',
+        answer:
+          'Yes. A 20-yard is the common size for a residential tear-off by volume. Weight is the limiter. Confirm the included tonnage and overage rate before the roof comes off.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Castle Pines?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in.',
+      },
+      {
+        question: 'How quickly can I get delivery in Castle Pines?',
+        answer:
+          'Delivery timing depends on the provider, your address, and the season, so confirm the date when you book. Driveway placement is the faster route because it skips the City dumpster permit. Street placement needs a reviewed permit and paid fees, so allow extra time.',
+      },
+      {
+        question: 'Do you serve nearby cities like Castle Rock, Lone Tree, and Highlands Ranch?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across Douglas County and the south Denver metro, including Castle Rock, Lone Tree, Highlands Ranch, Parker, and Littleton. Availability and pricing depend on which providers cover your delivery address.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Castle Pines?',
+        answer:
+          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a City street permit, keep the permit dates and the rental dates lined up — the City lists a 90-day initial dumpster placement window with paid extensions.',
+      },
+      {
+        question: 'Are there items I cannot put in a Castle Pines dumpster?',
+        answer:
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/castle-pines-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Castle Pines, Colorado',
+    },
+    latitude: 39.4700,
+    longitude: -104.8867,
+    pricingPlacementNote:
+      "Street placement in Castle Pines requires a City temporary dumpster right-of-way permit, which is not included in rental pricing. The City's 2026 fee schedule lists $375 for the initial 90 days and $190 for each 30-day extension.",
+  },
+
+  // ─── EDGEWATER ────────────────────────────────────────────
+  {
+    slug: 'edgewater-co-dumpster-rental',
+    cityName: 'Edgewater',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Edgewater Dumpster Rental | Sizes, Costs & City Rules',
+    metaDescription:
+      'Edgewater dumpster rental for bungalow remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and City roll-off permit steps via CommunityCore.',
+    primaryKeyword: 'edgewater dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental edgewater co',
+      'edgewater construction dumpster rental',
+      'roll off dumpster edgewater',
+      'roll off dumpster edgewater co',
+      'rolloff dumpsters edgewater',
+      'roll offs edgewater co',
+      '10 yard dumpster rental edgewater',
+      '20 yard dumpster rental edgewater',
+      '30 yard dumpster rental edgewater',
+      'edgewater dumpster permit',
+    ],
+    heroH1: 'Dumpster Rental in Edgewater, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for bungalow remodels, roofing tear-offs, cleanouts, and landscaping across Edgewater and the west Denver lakefront edge.',
+    introParagraphs: [
+      "Edgewater is a small Jefferson County city tucked between Lakewood, Wheat Ridge, and Denver, with Sloan's Lake on its eastern edge. The U.S. Census counted 5,005 residents in 2020. Most of the housing stock is early- to mid-century: brick bungalows and small ranches on tight lots. That age drives steady remodel, roofing, and estate-cleanout volume. Buyers coming from Denver renovate in volume. Most of those jobs fit a 10, 15, or 20-yard container.",
+      "The City treats roll-offs as a regulated property improvement. Edgewater's Building & Planning documents list a Dumpster Guide, and the Property Improvements page groups roll-offs and storage pods with a permit path through the CommunityCore portal. Right-of-way work also runs through Public Works and CommunityCore. Tight lots mean the driveway is often short, so measure before you book and ask about a 10 or 15-yard if truck access is tight.",
+      "Rolloff Dumpster Finder helps Edgewater homeowners and contractors compare roll-off options across the west Denver metro. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and driveway length. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Older plaster walls and tile baths hit weight limits faster than drywall jobs.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Bungalow Remodels',
+        description:
+          'Edgewater bungalows from the early 1900s through mid-century often have plaster and lath. Plaster weighs more than drywall. A single-room gut can use more of a 10-yard weight allowance than you expect. Tell the provider what the walls are made of.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'West metro roofs take Front Range hail. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Original tile baths and small kitchens are common. Tile and cast-iron fixtures are heavy for their size. A 15-yard covers most single-kitchen or single-bath jobs. Step up to a 20-yard if both rooms are gutted together.',
+      },
+      {
+        number: '04',
+        name: 'Home Cleanouts',
+        description:
+          'Getting a bungalow ready to list usually fills a 15 or 20-yard. Basements and detached garages add volume fast. Price one larger container against a second haul before booking.',
+      },
+      {
+        number: '05',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-held Edgewater homes can hold decades of contents in small footprints. Plan on a 20-yard for a full estate. Pull paint, solvents, and refrigerant appliances before loading.',
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'A typical single-car garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15-yard. Keep chemicals out of the load.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Small lots still produce shrub, fence, and sod debris. Branches are light. Soil and rock are not. Ask whether clean yard waste prices differently from mixed loads.',
+      },
+      {
+        number: '08',
+        name: 'Flooring Removal',
+        description:
+          'Carpet and pad are light. Old tile and hardwood with underlayment add weight. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance.',
+      },
+      {
+        number: '09',
+        name: 'Construction Debris',
+        description:
+          'Additions and ADU-style projects on small lots produce framing scraps, drywall, and packaging. A 20-yard is a common size. Flag narrow driveway access when you book.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Edgewater depends on your lot, driveway length, and City roll-off permit rules for your setup. For most homeowners, private driveway placement is the plan.',
+    placementNotes: [
+      'Driveway placement on private property is the default on Edgewater lots. Measure length and width — many bungalow driveways are short.',
+      'The City lists roll-offs and storage pods under Property Improvements and publishes a Dumpster Guide. Apply through the CommunityCore portal. Check with the City of Edgewater Building & Planning before delivery.',
+      'Right-of-way work also routes through Public Works and CommunityCore. Street placement is not the easy path on this tight grid.',
+      'City code requires construction materials to be covered or screened when a building permit is in effect, so keep debris contained and out of the wind.',
+      'HOA rules are less common than in master-planned suburbs, but check any covenant that applies to your block.',
+      'Boards or plywood under the container rails help protect older concrete. Ask if your provider supplies them.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      "Sloan's Lake edge",
+      'Edgewater Town Center',
+      '20th Avenue corridor',
+      'Depew Street corridor',
+      'Eaton Street area',
+      'Hooker Street area',
+      'Gray Street area',
+      'Pierce Street corridor',
+      'West 25th Avenue',
+      'West 17th Avenue',
+      'North Edgewater',
+      'South Edgewater',
+      'Lakefront blocks',
+      'Harlan Street area',
+    ],
+    nearbyCities: [
+      'Lakewood',
+      'Wheat Ridge',
+      'Denver',
+      'Arvada',
+      'Golden',
+      'Lakeside',
+      'Mountain View',
+      'Westminster',
+      'Englewood',
+      'Littleton',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Edgewater?',
+        answer:
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Ask whether a City roll-off permit is required for your placement before comparing final numbers.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Edgewater?',
+        answer:
+          'Edgewater lists roll-offs under Property Improvements and publishes a Dumpster Guide. Applications run through the CommunityCore portal. Private driveway placement is still the practical starting point, but check with Building & Planning for your specific setup before delivery day.',
+      },
+      {
+        question: 'What size dumpster for an Edgewater bungalow cleanout?',
+        answer:
+          'A garage cleanout often fits a 10-yard. A full bungalow cleanout usually needs a 15 or 20-yard. Plaster and tile make weight matter more than volume, so describe the materials when you book.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Edgewater?',
+        answer:
+          'Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Edgewater?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in.',
+      },
+      {
+        question: 'How quickly can I get delivery in Edgewater?',
+        answer:
+          'Delivery timing depends on the provider, your address, and the season. Confirm the date when you book. If a City permit is required for your placement, allow time for CommunityCore processing before the truck rolls.',
+      },
+      {
+        question: 'Do you serve nearby cities like Lakewood, Wheat Ridge, and Denver?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across the west Denver metro, including Lakewood, Wheat Ridge, Denver, Arvada, and Golden. Availability and pricing depend on which providers cover your delivery address.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Edgewater?',
+        answer:
+          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking, and keep any City permit dates lined up with the rental window.',
+      },
+      {
+        question: 'Are there items I cannot put in an Edgewater dumpster?',
+        answer:
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/edgewater-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Edgewater, Colorado',
+    },
+    latitude: 39.7494,
+    longitude: -105.0622,
+    pricingPlacementNote:
+      'Edgewater regulates roll-offs through Building & Planning and the CommunityCore portal. Any City permit fee is not included in rental pricing — confirm requirements before booking street or special placements.',
+  },
+
+  // ─── FEDERAL HEIGHTS ──────────────────────────────────────
+  {
+    slug: 'federal-heights-co-dumpster-rental',
+    cityName: 'Federal Heights',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Federal Heights Dumpster Rental | Sizes, Costs & Rules',
+    metaDescription:
+      'Federal Heights dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and City right-of-way permit rules for street placement.',
+    primaryKeyword: 'federal heights dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental federal heights co',
+      'federal heights construction dumpster rental',
+      'roll off dumpster federal heights',
+      'roll off dumpster federal heights co',
+      'rolloff dumpsters federal heights',
+      'roll offs federal heights co',
+      '10 yard dumpster rental federal heights',
+      '20 yard dumpster rental federal heights',
+      '30 yard dumpster rental federal heights',
+      'federal heights dumpster permit',
+    ],
+    heroH1: 'Dumpster Rental in Federal Heights, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for remodels, roofing tear-offs, cleanouts, and landscaping across Federal Heights and the north Denver Federal Boulevard corridor.',
+    introParagraphs: [
+      "Federal Heights is a compact Adams County city along Federal Boulevard between Westminster, Thornton, and Northglenn. The U.S. Census counted 14,382 residents in 2020. City demographics show mobile homes as a large share of local housing — roughly half of housing units sit in manufactured-home communities — with the rest a mix of 1960s–1980s apartments and modest single-family stock. Remodels, roofing, and unit turnovers drive most dumpster demand. Most of those jobs fit a 10, 15, or 20-yard container.",
+      "Public Works is clear on one point: streets and utilities inside mobile home parks are private. For those addresses, work with park management on placement rules. Outside the parks, work in a public right-of-way needs a City right-of-way permit before it starts. Applications go to Public Works/Engineering at least 48 hours ahead, and a traffic-control plan can be required. Driveway or private-pad placement keeps you out of that process.",
+      "Rolloff Dumpster Finder helps Federal Heights homeowners, landlords, and contractors compare roll-off options across the north Denver metro. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and access notes — especially if the delivery is inside a mobile home park. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Mobile Home Park Turnovers',
+        description:
+          'Unit cleanouts and remodel scraps are common in Federal Heights manufactured-home communities. A 10 or 15-yard often fits the job and the tighter access. Confirm park management rules and truck clearance before booking.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'North metro roofs take Front Range hail. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading.',
+      },
+      {
+        number: '03',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Apartment and single-family remodels produce cabinets, drywall, and tile. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if multiple units or rooms share one haul.',
+      },
+      {
+        number: '04',
+        name: 'Home Cleanouts',
+        description:
+          'A full-home or unit cleanout typically fills a 15 or 20-yard. Price one larger container against a second haul before booking.',
+      },
+      {
+        number: '05',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-held homes and park units can hold decades of contents. Plan on a 20-yard for a full estate. Pull paint, solvents, and refrigerant appliances before loading.',
+      },
+      {
+        number: '06',
+        name: 'Construction Debris',
+        description:
+          'Small additions and commercial work along Federal Boulevard produce framing scraps, drywall, and packaging. A 20-yard is a common size for a single site. Flag access limits when you book.',
+      },
+      {
+        number: '07',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15-yard. Keep chemicals out of the load.',
+      },
+      {
+        number: '08',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Shrub removal and fence rebuilds fill a container fast. Branches are light. Soil and rock are not. Ask whether clean yard waste prices differently from mixed loads.',
+      },
+      {
+        number: '09',
+        name: 'Flooring Removal',
+        description:
+          'Carpet and pad are light. Tile and underlayment add weight. A 10-yard handles a few rooms of carpet. Whole-unit tile often needs a 15-yard with a clear weight allowance.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Federal Heights depends on the address type — public street versus mobile home park — and on private property versus right-of-way placement.',
+    placementNotes: [
+      'Driveway or private-pad placement is the standard setup and avoids a City right-of-way permit.',
+      'Public Works notes that streets and utilities within mobile home parks are private. Contact park management for placement rules before scheduling delivery.',
+      'Work in a public right-of-way requires a City right-of-way permit from Public Works/Engineering. Apply at least 48 hours before work starts. A traffic-control plan may be required.',
+      'Check with the City of Federal Heights Public Works Department before planning street placement. The Public Works shop is at 2955 W. 90th Avenue.',
+      'Measure access length and overhead clearance. Tell the provider about tight turns, low wires, or park gate limits when you book.',
+      'Boards or plywood under the container rails help protect pavement. Ask if your provider supplies them.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Holiday Hills',
+      'Denver Cascade',
+      'Kimberly Hills',
+      'Federal Boulevard corridor',
+      '90th Avenue corridor',
+      '84th Avenue area',
+      'North Federal Heights',
+      'South Federal Heights',
+      'Huron Street area',
+      'Pecos Street corridor',
+      'Elm Street area',
+      'Zuni Street area',
+      'Niver Creek area',
+      'East side apartments',
+    ],
+    nearbyCities: [
+      'Westminster',
+      'Thornton',
+      'Northglenn',
+      'Broomfield',
+      'Commerce City',
+      'Arvada',
+      'Denver',
+      'Wheat Ridge',
+      'Brighton',
+      'Erie',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Federal Heights?',
+        answer:
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement may add a City right-of-way permit. Driveway placement avoids that cost.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Federal Heights?',
+        answer:
+          'Private property placement typically does not need a City right-of-way permit. Work in a public right-of-way does. Apply through Public Works/Engineering at least 48 hours ahead. Inside mobile home parks, streets are private — follow park management rules.',
+      },
+      {
+        question: 'What size dumpster for a Federal Heights home or unit cleanout?',
+        answer:
+          'A garage or single-unit cleanout often fits a 10-yard. A full-home cleanout usually needs a 15 or 20-yard. Confirm truck access inside parks before booking a larger container.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Federal Heights?',
+        answer:
+          'Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Federal Heights?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in.',
+      },
+      {
+        question: 'How quickly can I get delivery in Federal Heights?',
+        answer:
+          'Delivery timing depends on the provider, your address, and the season. Confirm the date when you book. Street right-of-way permits need at least 48 hours of City review, so driveway placement is the faster route.',
+      },
+      {
+        question: 'Do you serve nearby cities like Westminster, Thornton, and Northglenn?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across the north Denver metro, including Westminster, Thornton, Northglenn, Broomfield, and Commerce City. Availability and pricing depend on which providers cover your delivery address.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Federal Heights?',
+        answer:
+          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a street permit, keep the permit dates and the rental dates lined up.',
+      },
+      {
+        question: 'Are there items I cannot put in a Federal Heights dumpster?',
+        answer:
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/federal-heights-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Federal Heights, Colorado',
+    },
+    latitude: 39.8650,
+    longitude: -105.0156,
+    pricingPlacementNote:
+      'Street or right-of-way placement in Federal Heights requires a City right-of-way permit through Public Works/Engineering, which is not included in rental pricing. Apply at least 48 hours before work starts.',
+  },
+
+  // ─── SHERIDAN (CO) ────────────────────────────────────────
+  {
+    slug: 'sheridan-co-dumpster-rental',
+    cityName: 'Sheridan',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Sheridan CO Dumpster Rental | Sizes, Costs & City Rules',
+    metaDescription:
+      'Sheridan, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and City ROW fees for street placement.',
+    primaryKeyword: 'sheridan co dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental sheridan co',
+      'sheridan colorado dumpster rental',
+      'sheridan construction dumpster rental',
+      'roll off dumpster sheridan co',
+      'rolloff dumpsters sheridan colorado',
+      'roll offs sheridan co',
+      '10 yard dumpster rental sheridan co',
+      '20 yard dumpster rental sheridan co',
+      '30 yard dumpster rental sheridan co',
+      'sheridan co dumpster permit',
+    ],
+    heroH1: 'Dumpster Rental in Sheridan, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for remodels, roofing tear-offs, cleanouts, and landscaping across Sheridan and the south metro gap between Englewood and Littleton.',
+    introParagraphs: [
+      "Sheridan is a small Arapahoe County city on the south Denver metro grid between Englewood, Littleton, and Denver. The U.S. Census counted 6,105 residents in 2020. The housing stock is mostly mid-century ranch and small two-story homes on a tight street grid, with commercial corridors along Federal Boulevard and Santa Fe Drive. That mix produces remodel debris, roofing tear-offs after hail, and steady cleanout work. Most of those jobs fit a 10, 15, or 20-yard container.",
+      "The City lists dumpsters among over-the-counter permit types, alongside roofs, windows, and siding. A roll-off parked on a street or public right-of-way needs a right-of-way permit. The City's 2026 fee schedule lists a $140 Right-of-Way fee and notes that roll-off dumpsters parked on street or ROW follow the Public Works fee schedule. Driveway placement on private property stays out of that paperwork.",
+      "Rolloff Dumpster Finder helps Sheridan homeowners and contractors compare roll-off options across the south Denver metro. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and driveway length. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Older tile baths and plaster walls hit weight limits faster than drywall-only jobs.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Roofing Tear-Offs',
+        description:
+          'South metro Sheridan sits in the Front Range hail corridor. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading.',
+      },
+      {
+        number: '02',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Mid-century kitchens and tile baths are common. Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project.',
+      },
+      {
+        number: '03',
+        name: 'Home Cleanouts',
+        description:
+          'Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking.',
+      },
+      {
+        number: '04',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-held Sheridan homes can hold decades of contents. Plan on a 20 or 30-yard for a full estate. Pull paint, solvents, and refrigerant appliances before loading.',
+      },
+      {
+        number: '05',
+        name: 'Construction Debris',
+        description:
+          'Additions and commercial work along Federal and Santa Fe produce framing scraps, drywall, and packaging. A 20-yard is a common size for a single-home project.',
+      },
+      {
+        number: '06',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load.',
+      },
+      {
+        number: '07',
+        name: 'Yard Waste & Landscaping',
+        description:
+          'Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask whether clean yard waste prices differently from mixed loads.',
+      },
+      {
+        number: '08',
+        name: 'Flooring Removal',
+        description:
+          'Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance.',
+      },
+      {
+        number: '09',
+        name: 'Commercial Tenant Improvements',
+        description:
+          'Small retail and light industrial spaces along the main corridors produce mixed C&D debris. A 20 or 30-yard is common. Confirm loading hours and street-permit needs if the container sits in the ROW.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Sheridan, Colorado depends on your driveway, lot access, and City right-of-way permit rules for street placement.',
+    placementNotes: [
+      'Driveway placement on private property is the standard setup and avoids a City right-of-way permit.',
+      'The City lists dumpsters among over-the-counter permit types. A roll-off parked on a street or public right-of-way needs a right-of-way permit through Public Works.',
+      "The City's 2026 fee schedule lists a $140 Right-of-Way fee. Roll-off dumpsters parked on street or ROW follow the Public Works fee schedule. Check with the City of Sheridan before planning street placement.",
+      'ROW applications may ask for a traffic-control plan (MHT) and notice to adjacent properties. That is more process than most driveway jobs need.',
+      'Measure driveway length and width. Tell the provider about alley access or tight street parking when you book.',
+      'Boards or plywood under the container rails help protect the concrete. Ask if your provider supplies them.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Federal Boulevard corridor',
+      'Santa Fe Drive corridor',
+      'Oxford Avenue area',
+      'Hampden Avenue edge',
+      'Clay Street area',
+      'Zuni Street corridor',
+      'North Sheridan',
+      'South Sheridan',
+      'West Belleview area',
+      'East Oxford',
+      'River Point edge',
+      'Bear Creek area',
+      'Logan Street area',
+      'Bryant Street area',
+    ],
+    nearbyCities: [
+      'Englewood',
+      'Littleton',
+      'Denver',
+      'Cherry Hills Village',
+      'Greenwood Village',
+      'Centennial',
+      'Lakewood',
+      'Lone Tree',
+      'Highlands Ranch',
+      'Bow Mar',
+      'Columbine Valley',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Sheridan, CO?',
+        answer:
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement adds a City right-of-way permit; the 2026 fee schedule lists a $140 ROW fee. Driveway placement avoids that cost.',
+      },
+      {
+        question: 'Do I need a permit for a dumpster in Sheridan, Colorado?',
+        answer:
+          'Private driveway placement typically does not need a right-of-way permit. A roll-off parked on a street or public right-of-way does. The City lists dumpsters among over-the-counter permit types and publishes ROW fees in the 2026 fee schedule. Check with the City of Sheridan before planning street placement.',
+      },
+      {
+        question: 'What size dumpster for a Sheridan home cleanout?',
+        answer:
+          'A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Sheridan?',
+        answer:
+          'Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Sheridan?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in.',
+      },
+      {
+        question: 'How quickly can I get delivery in Sheridan, CO?',
+        answer:
+          'Delivery timing depends on the provider, your address, and the season. Confirm the date when you book. Driveway placement is the faster route because it skips the City ROW permit.',
+      },
+      {
+        question: 'Do you serve nearby cities like Englewood, Littleton, and Cherry Hills Village?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across the south Denver metro, including Englewood, Littleton, Cherry Hills Village, Greenwood Village, and Centennial. Availability and pricing depend on which providers cover your delivery address.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Sheridan?',
+        answer:
+          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a street permit, keep the permit dates and the rental dates lined up.',
+      },
+      {
+        question: 'Are there items I cannot put in a Sheridan CO dumpster?',
+        answer:
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/sheridan-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Sheridan, Colorado',
+    },
+    latitude: 39.6467,
+    longitude: -105.0181,
+    pricingPlacementNote:
+      "Street or right-of-way placement in Sheridan requires a City right-of-way permit, which is not included in rental pricing. The City's 2026 fee schedule lists a $140 Right-of-Way fee.",
+  },
+
+  // ─── CHERRY HILLS VILLAGE ─────────────────────────────────
+  {
+    slug: 'cherry-hills-village-co-dumpster-rental',
+    cityName: 'Cherry Hills Village',
+    stateName: 'Colorado',
+    stateAbbr: 'CO',
+    metaTitle: 'Cherry Hills Village Dumpster Rental | Sizes & Rules',
+    metaDescription:
+      'Cherry Hills Village dumpster rental for estate remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and Village ROW permit rules.',
+    primaryKeyword: 'cherry hills village dumpster rental',
+    secondaryKeywords: [
+      'dumpster rental cherry hills village co',
+      'cherry hills village construction dumpster rental',
+      'roll off dumpster cherry hills village',
+      'roll off dumpster cherry hills village co',
+      'rolloff dumpsters cherry hills village',
+      'roll offs cherry hills village co',
+      '10 yard dumpster rental cherry hills village',
+      '20 yard dumpster rental cherry hills village',
+      '30 yard dumpster rental cherry hills village',
+      'cherry hills village dumpster permit',
+    ],
+    heroH1: 'Dumpster Rental in Cherry Hills Village, Colorado',
+    heroSubheadline:
+      'Roll-off dumpster rental for estate remodels, roofing tear-offs, cleanouts, and landscaping across Cherry Hills Village and the south metro Quincy corridor.',
+    introParagraphs: [
+      "Cherry Hills Village is an affluent Arapahoe County city of large lots and mature trees between Denver, Englewood, Greenwood Village, and Centennial. The U.S. Census counted 6,442 residents in 2020. Housing runs from mid-century ranches to custom estates in areas such as Charlou Park and along the Quincy Avenue corridor. Remodel, roofing, estate-cleanout, and landscaping jobs produce most of the dumpster demand. Most residential jobs still fit a 10, 15, or 20-yard container — access and HOA rules matter as much as size.",
+      "The Village is strict about the public right-of-way. Public Works processes ROW permits through the online Building Permit portal, and first-time registrants need City approval that can take up to one business day. Village Construction and Excavation Standards say trash dumpsters and storage or construction trailers are not to be placed in the street without specific approval of the Director. Driveway placement on private property is the practical path for almost every homeowner job.",
+      "Rolloff Dumpster Finder helps Cherry Hills Village homeowners and contractors compare roll-off options across the south Denver metro. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any gate or private-road notes. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Large-lot deliveries still fail when the truck cannot make the turn.",
+    ],
+    pricingGuide: [
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+    ],
+    projects: [
+      {
+        number: '01',
+        name: 'Estate Remodels',
+        description:
+          'Kitchen, bath, and whole-wing renovations on larger Cherry Hills lots produce cabinets, stone, tile, and drywall. A 20-yard is a common size. Stone and tile hit weight limits faster than the container looks full.',
+      },
+      {
+        number: '02',
+        name: 'Roofing Tear-Offs',
+        description:
+          'South metro roofs take Front Range hail. A 20-yard holds most residential tear-offs by volume. Larger or multi-layer roofs can need a second pull. Confirm the included tonnage before the crew starts loading.',
+      },
+      {
+        number: '03',
+        name: 'Estate Cleanouts',
+        description:
+          'Long-held homes on large lots can hold decades of contents. Plan on a 20 or 30-yard for a full estate. Pull paint, solvents, and refrigerant appliances before loading.',
+      },
+      {
+        number: '04',
+        name: 'Kitchen & Bath Remodels',
+        description:
+          'Stone counters, tile, and custom cabinetry are common. A 15-yard covers many single-kitchen jobs. Step up to a 20-yard if multiple baths share the same haul.',
+      },
+      {
+        number: '05',
+        name: 'Landscaping & Hardscape',
+        description:
+          'Tree work, xeriscape conversions, and patio rebuilds produce branches, sod, and sometimes concrete. Branches are light. Concrete and rock are not. Split heavy debris from green waste when the provider prices them differently.',
+      },
+      {
+        number: '06',
+        name: 'Home Cleanouts',
+        description:
+          'Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking.',
+      },
+      {
+        number: '07',
+        name: 'Basement & Garage Cleanouts',
+        description:
+          'A typical garage cleanout fits in a 10-yard. A finished basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load.',
+      },
+      {
+        number: '08',
+        name: 'Construction Debris',
+        description:
+          'Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common. Flag gated entries and long private drives when you book.',
+      },
+      {
+        number: '09',
+        name: 'Flooring Removal',
+        description:
+          'Carpet and pad are light. Stone, tile, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-wing stone floors often need a 15 or 20-yard with a clear weight allowance.',
+      },
+    ],
+    placementIntro:
+      'Dumpster placement in Cherry Hills Village depends on your driveway, private-road access, and the Village rule that street dumpsters need Director approval. For most homeowners, the driveway wins.',
+    placementNotes: [
+      'Driveway placement on private property is the standard setup and avoids a Village right-of-way occupancy fight.',
+      'Village Construction and Excavation Standards state that trash dumpsters and storage or construction trailers are not to be placed in the street without specific approval of the Director.',
+      'ROW permits are processed through the Village Building Permit Online Portal. First-time users need registration approval that can take up to one business day. Check with Cherry Hills Village Public Works before planning street placement.',
+      'ROW regulations are in Chapter 11, Article 2 of the Cherry Hills Village Municipal Code. Management and inspection fees apply under the 2026 ROW fee schedule.',
+      'Large lots often have long or curved drives and gated entries. Measure length, check overhead clearance, and tell the provider about gates or private roads when you book.',
+      'Boards or plywood under the container rails help protect the concrete, especially on longer rentals. Ask if your provider supplies them.',
+      'When in doubt, confirm placement requirements with your rental provider before scheduling delivery.',
+    ],
+    neighborhoods: [
+      'Charlou Park',
+      'Charlou Valley',
+      'Quincy Avenue corridor',
+      'University Boulevard corridor',
+      'Belleview Avenue edge',
+      'Hampden Avenue edge',
+      'Colorado Boulevard corridor',
+      'South University area',
+      'Cherry Hills Farm edge',
+      'Three Pond Park area',
+      'John L. Force Park area',
+      'Meade Lane area',
+      'Mansfield Avenue area',
+      'Franklin Street corridor',
+    ],
+    nearbyCities: [
+      'Greenwood Village',
+      'Englewood',
+      'Centennial',
+      'Denver',
+      'Littleton',
+      'Sheridan',
+      'Lone Tree',
+      'Highlands Ranch',
+      'Aurora',
+      'Glendale',
+      'Bow Mar',
+    ],
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Cherry Hills Village?',
+        answer:
+          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement needs Director approval and a Village ROW permit path. Driveway placement avoids that cost.',
+      },
+      {
+        question: 'Can I put a dumpster on the street in Cherry Hills Village?',
+        answer:
+          'Only with specific approval of the Director. Village Construction and Excavation Standards say trash dumpsters are not to be placed in the street without that approval. ROW permits run through the online Building Permit portal. Check with Cherry Hills Village Public Works before planning street placement.',
+      },
+      {
+        question: 'What size dumpster for a Cherry Hills Village home cleanout?',
+        answer:
+          'A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs on larger lots can run to a 30-yard. Price a second haul against one larger container before you book.',
+      },
+      {
+        question: 'Can I get a dumpster for roofing debris in Cherry Hills Village?',
+        answer:
+          'Yes. A 20-yard is the common size for a residential tear-off by volume. Larger or multi-layer roofs can need a second pull. Confirm the included tonnage and overage rate before the roof comes off.',
+      },
+      {
+        question: 'What about concrete, dirt, or heavy debris in Cherry Hills Village?',
+        answer:
+          'Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in.',
+      },
+      {
+        question: 'How quickly can I get delivery in Cherry Hills Village?',
+        answer:
+          'Delivery timing depends on the provider, your address, and the season. Confirm the date when you book. Driveway placement is the faster route. Street placement needs portal registration, Director approval, and Village review time.',
+      },
+      {
+        question: 'Do you serve nearby cities like Greenwood Village, Englewood, and Centennial?',
+        answer:
+          'Yes. Rolloff Dumpster Finder helps customers across the south Denver metro, including Greenwood Village, Englewood, Centennial, Littleton, and Sheridan. Availability and pricing depend on which providers cover your delivery address.',
+      },
+      {
+        question: 'How long can I keep a dumpster rental in Cherry Hills Village?',
+        answer:
+          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a Village ROW permit, keep the permit dates and the rental dates lined up.',
+      },
+      {
+        question: 'Are there items I cannot put in a Cherry Hills Village dumpster?',
+        answer:
+          'Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading.',
+      },
+    ],
+    heroImage: {
+      src: '/RDF-Images/cherry-hills-village-co-dumpster-rental-hero.webp',
+      alt: 'Roll-off dumpster rental in Cherry Hills Village, Colorado',
+    },
+    latitude: 39.6311,
+    longitude: -104.9464,
+    pricingPlacementNote:
+      'Street placement in Cherry Hills Village requires specific Director approval and a Village right-of-way permit path, which is not included in rental pricing. Driveway placement is the practical default.',
   },
 ]

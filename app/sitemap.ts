@@ -952,5 +952,48 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
-  ]
+
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/castle-pines-co-dumpster-rental',
+      lastModified: new Date('2026-10-13'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/edgewater-co-dumpster-rental',
+      lastModified: new Date('2026-10-13'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/federal-heights-co-dumpster-rental',
+      lastModified: new Date('2026-10-13'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/sheridan-co-dumpster-rental',
+      lastModified: new Date('2026-10-13'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/cherry-hills-village-co-dumpster-rental',
+      lastModified: new Date('2026-10-13'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/douglas-county-dumpster-rental-cost',
+      lastModified: new Date('2026-10-13'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/south-denver-roofing-dumpster-rental',
+      lastModified: new Date('2026-10-13'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+]
 }

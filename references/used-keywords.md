@@ -66,3 +66,11 @@ Scan the CSV for same-intent secondaries — use them first (mark ✓ CSV)
 Fill remaining cluster slots with invented secondaries (mark (invented))
 Add the new section to this file before writing the post
 Ship the post, update "Used on page"
+
+| 2026-10-13 | castle pines dumpster rental | castle-pines-co-dumpster-rental | dumpster rental castle pines co, castle pines construction dumpster rental, roll off dumpster castle pines, 10/20/30 yard variants, castle pines dumpster permit (invented) | city-page |
+| 2026-10-13 | edgewater dumpster rental | edgewater-co-dumpster-rental | dumpster rental edgewater co, edgewater construction dumpster rental, roll off dumpster edgewater, 10/20/30 yard variants, edgewater dumpster permit (invented) | city-page |
+| 2026-10-13 | federal heights dumpster rental | federal-heights-co-dumpster-rental | dumpster rental federal heights co, federal heights construction dumpster rental, roll off dumpster federal heights, 10/20/30 yard variants, federal heights dumpster permit (invented) | city-page |
+| 2026-10-13 | sheridan co dumpster rental | sheridan-co-dumpster-rental | dumpster rental sheridan co, sheridan colorado dumpster rental, roll off dumpster sheridan co, 10/20/30 yard variants, sheridan co dumpster permit (invented) | city-page |
+| 2026-10-13 | cherry hills village dumpster rental | cherry-hills-village-co-dumpster-rental | dumpster rental cherry hills village co, roll off dumpster cherry hills village, 10/20/30 yard variants, cherry hills village dumpster permit (invented) | city-page |
+| 2026-10-13 | douglas county dumpster rental cost | douglas-county-dumpster-rental-cost | douglas county dumpster rental, dumpster rental cost douglas county co, castle rock/castle pines/highlands ranch cost variants (invented) | blog-post |
+| 2026-10-13 | south denver roofing dumpster rental | south-denver-roofing-dumpster-rental | roofing dumpster rental denver south, hail roof dumpster rental denver, shingle tear off dumpster denver, 20 yard dumpster roofing denver (invented) | blog-post |

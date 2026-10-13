@@ -9294,4 +9294,309 @@ export const blogPosts: BlogPost[] = [
       { id: 'faq', title: 'Straight Answers' },
     ],
   },
+
+  {
+    slug: 'douglas-county-dumpster-rental-cost',
+    title: 'Douglas County Dumpster Rental Cost: What Changes the Quote',
+    excerpt:
+      'Douglas County dumpster rental follows Denver-metro size ranges, but Castle Rock, Castle Pines, Lone Tree, and Highlands Ranch each add their own permit math. Here is how to read the quote before it becomes the invoice.',
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/castle-rock-co-dumpster-rental-hero.webp',
+    coverImageAlt: 'Roll-off dumpster on a Douglas County suburban driveway',
+    date: '2026-10-13',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Douglas County dumpster rental cost guide: Denver-metro size ranges, Castle Rock and Castle Pines permit fees, sizing tips, and links to local city pages — without invented price tables.',
+    readingTime: 9,
+    keywords: [
+      'douglas county dumpster rental cost',
+      'douglas county dumpster rental',
+      'dumpster rental cost douglas county co',
+      'castle rock dumpster rental cost',
+      'castle pines dumpster rental cost',
+      'highlands ranch dumpster rental cost',
+    ],
+    body: `
+<p>I once watched a Douglas County quote look "cheap" until the street permit fee showed up as a separate line item the homeowner had never heard of. (The bin was innocent. The paperwork was not.)</p>
+
+<p>The short answer on douglas county dumpster rental cost: container rental usually tracks Denver-metro Front Range ranges — about $280–$480 per week for a 10-yard and $380–$650 for a 20-yard — but the final number moves with weight limits, haul distance, and city permit rules in Castle Rock, Castle Pines, Lone Tree, Parker, and Highlands Ranch. This page is planning guidance. For verified Denver size ranges, see our <a href="/resources/denver-dumpster-rental-cost">Denver dumpster rental cost guide</a>.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Use Denver-metro size ranges as your planning baseline. Confirm included weight and overage rate in writing. Keep the container on a private driveway whenever you can — Castle Rock and Castle Pines publish real right-of-way dumpster fees that are not part of the rental quote. Size for weight on roofing and tile jobs. Link out to each city page before you book.</p>
+</div>
+
+<h2 id="baseline-ranges">Start With Denver-Metro Size Ranges</h2>
+
+<p>Douglas County sits on the south edge of the Denver metro. Providers quoting Castle Rock, Castle Pines, Lone Tree, Parker, and Highlands Ranch generally price off the same Front Range sheet we publish for Denver:</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+<table class="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
+  <thead class="bg-gray-50">
+    <tr>
+      <th class="px-4 py-3 text-left font-semibold">Size</th>
+      <th class="px-4 py-3 text-left font-semibold">Typical Front Range planning range</th>
+      <th class="px-4 py-3 text-left font-semibold">Common Douglas County jobs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="border-t"><td class="px-4 py-3">10-yard</td><td class="px-4 py-3 font-medium text-orange">$280–$480 / week</td><td class="px-4 py-3">Garage cleanouts, sod, flooring, heavy debris</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">15-yard</td><td class="px-4 py-3 font-medium text-orange">$320–$540 / week</td><td class="px-4 py-3">Bath remodels, basement cleanouts</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">20-yard</td><td class="px-4 py-3 font-medium text-orange">$380–$650 / week</td><td class="px-4 py-3">Roofing, kitchens, full-home cleanouts</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">30-yard</td><td class="px-4 py-3 font-medium text-orange">$450–$780 / week</td><td class="px-4 py-3">Estates, large renovations</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">40-yard</td><td class="px-4 py-3 font-medium text-orange">$580–$1,100+ / week</td><td class="px-4 py-3">Major construction, commercial</td></tr>
+  </tbody>
+</table>
+</div>
+
+<p>Those ranges are planning numbers reused from our published Denver-metro guides — not a promise that every Douglas County ZIP quotes the same. Ask for the included weight, overage per ton, rental days, and delivery fee as separate lines.</p>
+
+<figure class="not-prose my-8">
+  <img src="/RDF-Images/highlands-ranch-co-dumpster-rental-hero.webp" alt="Roll-off dumpster rental driveway placement in south Denver metro" width="1920" height="1080" loading="lazy" class="w-full rounded-lg object-cover" />
+</figure>
+
+<h2 id="permit-math">Permit Math Is Where Douglas County Gets Specific</h2>
+
+<p>The rental rate is only half the story. Several Douglas County cities publish dumpster or right-of-way fees that sit outside the provider quote:</p>
+
+<ul>
+  <li><a href="/locations/castle-rock-co-dumpster-rental">Castle Rock</a> — Town guidelines keep construction debris off the street. A right-of-way permit through eTRAKiT lists $250 plus a $75 obstruction fee on the Town's 2026 fee schedule.</li>
+  <li><a href="/locations/castle-pines-co-dumpster-rental">Castle Pines</a> — City Code Section 11-1-30 requires a permit for dumpsters of five cubic yards or more in the ROW. The 2026 fee schedule lists Temporary Dumpster Placement at $375 for the first 90 days and $190 per 30-day extension (<a href="https://www.castlepinesco.gov/wp-content/uploads/2026/01/fee-schedule-updated-2026.pdf" target="_blank" rel="noopener noreferrer">City fee schedule PDF</a>).</li>
+  <li><a href="/locations/lone-tree-co-dumpster-rental">Lone Tree</a> — Temporary permit rules can apply even for driveway placement unless a building permit covers the container. Read the city page before you assume "private property means no paperwork."</li>
+  <li><a href="/locations/highlands-ranch-co-dumpster-rental">Highlands Ranch</a> — Unincorporated Douglas County with HRCA covenants that push driveway placement. Size is often set by the driveway, not by wishful thinking.</li>
+  <li><a href="/locations/parker-co-dumpster-rental">Parker</a> — Another Douglas County suburb on the CO-83 / E-470 corridor; confirm town placement rules when the driveway is short.</li>
+</ul>
+
+<p>Official fees beat invented market tables. If a city publishes a dumpster ROW fee, cite it. If it does not, keep the container on the driveway and skip the guesswork.</p>
+
+<h2 id="weight">Weight Limits Move the Invoice More Than Cubic Yards</h2>
+
+<p>Roofing shingles, tile, mortar, dirt, and concrete are density problems. A 20-yard that "looks half empty" can already be over the included tons. Rule of thumb: ask for the tonnage in writing, then describe every dense material before the crew loads.</p>
+
+<p>For south-metro roofing specifically, see our <a href="/resources/south-denver-roofing-dumpster-rental">south Denver roofing dumpster guide</a> and the national <a href="/resources/roofing-dumpster-rental">roofing dumpster rental</a> page. For Denver 20-yard sizing, use <a href="/resources/20-yard-dumpster-rental-denver">20 yard dumpster rental Denver</a>.</p>
+
+<h2 id="skip-it">When Not to Rent the Bigger Bin</h2>
+
+<p>Do not rent a 30-yard because it feels safer. If the limiter is weight, a larger container just gives you more empty air to pay for. Heavy debris often belongs in a smaller heavy-debris load. A garage cleanout that fits a 10-yard does not need a 20-yard "just in case" unless you have already measured the pile.</p>
+
+<p>Also skip a roll-off when the job is five large items and some bags. Junk removal or a municipal large-item program can be cheaper — when it actually accepts your debris type.</p>
+
+<h2 id="compare">How to Compare Douglas County Quotes</h2>
+
+<p>Line up four numbers side by side:</p>
+
+<ul>
+  <li>Base rental for the size and days you need</li>
+  <li>Included weight and overage per ton</li>
+  <li>Delivery / mileage / fuel line items</li>
+  <li>City permit fees if the bin leaves private property</li>
+</ul>
+
+<p>Then read the city page for your address — <a href="/locations/castle-rock-co-dumpster-rental">Castle Rock</a>, <a href="/locations/castle-pines-co-dumpster-rental">Castle Pines</a>, <a href="/locations/lone-tree-co-dumpster-rental">Lone Tree</a>, <a href="/locations/highlands-ranch-co-dumpster-rental">Highlands Ranch</a>, or <a href="/locations/parker-co-dumpster-rental">Parker</a> — before you sign. Colorado statewide context lives on <a href="/resources/colorado-dumpster-rental-cost">Colorado dumpster rental cost</a>.</p>
+
+<figure class="not-prose my-8">
+  <img src="/RDF-Images/lone-tree-co-dumpster-rental-hero.webp" alt="Roll-off dumpster in a south metro HOA driveway" width="1920" height="1080" loading="lazy" class="w-full rounded-lg object-cover" />
+</figure>
+
+<h2 id="disposal">Disposal Context Without Inventing Tip Sheets</h2>
+
+<p>Douglas County residents and contractors dispose of C&D through private haulers and regional facilities. Colorado also assesses a solid-waste user fee on the Front Range (CDPHE publishes the current per-ton / per-cubic-yard rates). Those state fees are usually baked into the provider's disposal line — you still want to see weight and overage called out on the quote.</p>
+
+<p>I am not printing an unofficial landfill tip menu here. If you need facility-specific tip fees, call the facility or ask your hauler for the disposal line in writing. Invented tip tables help nobody when the scale ticket arrives.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+        question: 'How much does dumpster rental cost in Douglas County, CO?',
+        answer:
+          'Plan on Denver-metro Front Range ranges: about $280–$480 per week for a 10-yard and $380–$650 for a 20-yard. Your quote still depends on weight limits, rental days, delivery address, and any city permit fees. Confirm each line before you book.',
+      },
+      {
+        question: 'Are Castle Rock and Castle Pines priced the same?',
+        answer:
+          'Base rental ranges are similar across the south metro. Permit math is not. Castle Rock lists a $250 ROW permit plus a $75 obstruction fee. Castle Pines lists $375 for temporary dumpster placement for the first 90 days. Driveway placement avoids both.',
+      },
+      {
+        question: 'Does Highlands Ranch need a street permit?',
+        answer:
+          'Highlands Ranch is unincorporated Douglas County with HRCA covenants that generally require driveway placement. Size is often limited by the driveway. Read the Highlands Ranch city page before assuming street placement is an option.',
+      },
+      {
+        question: 'What size dumpster for a Douglas County roof?',
+        answer:
+          'A 20-yard is the common residential tear-off size by volume. Weight is the real limiter. Confirm included tons and overage before the shingles come off.',
+      },
+      {
+        question: 'Should I trust the lowest online price?',
+        answer:
+          'Not until you see included weight, overage, rental days, delivery fees, and permit responsibility in writing. The cheapest base rate is often the most expensive invoice.',
+      },
+      {
+        question: 'Where do I read city-specific rules?',
+        answer:
+          'Start with our Castle Rock, Castle Pines, Lone Tree, Highlands Ranch, and Parker location pages, then confirm fees on the official city fee schedule or portal before delivery day.',
+      },
+    ],
+    toc: [
+      { id: 'baseline-ranges', title: 'Start With Denver-Metro Size Ranges' },
+      { id: 'permit-math', title: 'Permit Math Is Where Douglas County Gets Specific' },
+      { id: 'weight', title: 'Weight Limits Move the Invoice More Than Cubic Yards' },
+      { id: 'skip-it', title: 'When Not to Rent the Bigger Bin' },
+      { id: 'compare', title: 'How to Compare Douglas County Quotes' },
+      { id: 'disposal', title: 'Disposal Context Without Inventing Tip Sheets' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+  },
+
+
+  {
+    slug: 'south-denver-roofing-dumpster-rental',
+    title: 'South Denver Roofing Dumpster Rental After Hail Season',
+    excerpt:
+      'South Denver metro roofing dumpsters are a weight problem first and a volume problem second. Here is how to size the bin for a tear-off across Englewood, Littleton, Centennial, Sheridan, and Cherry Hills Village.',
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/roofing-job-site-dumpster-rental.png',
+    coverImageAlt: 'Roofing job site with roll-off dumpster for shingle tear-off debris',
+    date: '2026-10-13',
+    author: 'Adam Chandler',
+    metaDescription:
+      'South Denver roofing dumpster rental guide: 20-yard sizing, weight limits, hail-season timing, and city placement notes for Englewood, Littleton, Centennial, Sheridan, and Cherry Hills Village.',
+    readingTime: 8,
+    keywords: [
+      'south denver roofing dumpster rental',
+      'roofing dumpster rental denver south',
+      'hail roof dumpster rental denver',
+      'shingle tear off dumpster denver',
+      '20 yard dumpster roofing denver',
+      'englewood roofing dumpster rental',
+    ],
+    body: `
+<p>Hail does not check your calendar first. (It also does not care that your gutters were "fine yesterday.")</p>
+
+<p>The short answer on south denver roofing dumpster rental: a 20-yard roll-off is the usual residential tear-off size by volume, but weight — often 3–5 tons on a full roof — decides whether the quote stays honest. Book early after a major Front Range storm, keep the bin on the driveway, and read the city rules for Englewood, Littleton, Centennial, Sheridan, Cherry Hills Village, and Greenwood Village before the first shingle hits the container.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Use a 20-yard for most south-metro residential tear-offs. Confirm included tons and overage before loading. Do not invent a shingle price-per-ton — ask the provider. Keep the container on private pavement when you can. After hail, book before every crew in the metro wants the same Friday delivery.</p>
+</div>
+
+<h2 id="why-south-metro">Why the South Metro Books Roofing Bins Hard</h2>
+
+<p>The south Denver metro — Englewood, Littleton, Centennial, Sheridan, Cherry Hills Village, Greenwood Village, Lone Tree, and Highlands Ranch — sits in the same Front Range hail corridor as the rest of the metro. NWS storm reports regularly log hail events across Arapahoe and Douglas County suburbs. After a damaging storm, roofing crews and dumpster demand spike together.</p>
+
+<p>That is not a reason to panic-rent a 40-yard. It is a reason to size correctly and lock a delivery date before the calendar fills.</p>
+
+<figure class="not-prose my-8">
+  <img src="/RDF-Images/construction-site-roll-off-dumpster.png" alt="Construction site roll-off dumpster ready for debris loading" width="1260" height="750" loading="lazy" class="w-full rounded-lg object-cover" />
+</figure>
+
+<h2 id="size-weight">Size Is Volume. The Invoice Is Weight.</h2>
+
+<p>A full residential tear-off commonly produces 3–5 tons of shingles, underlayment, and nails. A 20-yard often includes somewhere around 2–4 tons depending on the company. If your roof runs heavy, the overage line matters more than the base rental.</p>
+
+<p>Planning table (volume guidance — not a price list for shingles):</p>
+
+<div class="not-prose my-8 overflow-x-auto">
+<table class="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
+  <thead class="bg-gray-50">
+    <tr>
+      <th class="px-4 py-3 text-left font-semibold">Job</th>
+      <th class="px-4 py-3 text-left font-semibold">Usual container</th>
+      <th class="px-4 py-3 text-left font-semibold">What to confirm</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="border-t"><td class="px-4 py-3">Single-slope shed or small porch roof</td><td class="px-4 py-3">10 or 15-yard</td><td class="px-4 py-3">Weight allowance; may still be dense</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Typical south-metro house tear-off</td><td class="px-4 py-3">20-yard</td><td class="px-4 py-3">Included tons + overage per ton</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Large / multi-layer / steep complex roof</td><td class="px-4 py-3">20-yard + possible second pull, or 30-yard</td><td class="px-4 py-3">Layer count, plywood replacement debris</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Tile roof</td><td class="px-4 py-3">Often smaller heavy-debris plan</td><td class="px-4 py-3">Tile weight; do not mix with light scrap casually</td></tr>
+  </tbody>
+</table>
+</div>
+
+<p>For Denver 20-yard context, read <a href="/resources/20-yard-dumpster-rental-denver">20 yard dumpster rental Denver</a>. For general roofing mechanics, see <a href="/resources/roofing-dumpster-rental">roofing dumpster rental</a>. I am not publishing an unsourced "shingles cost $X per ton" table — ask the hauler for disposal and overage numbers that apply to your load.</p>
+
+<h2 id="placement">Driveway Placement Beats Street Drama</h2>
+
+<p>South-metro cities do not share one permit script:</p>
+
+<ul>
+  <li><a href="/locations/englewood-co-dumpster-rental">Englewood</a> — older bungalow grid; measure short driveways.</li>
+  <li><a href="/locations/littleton-co-dumpster-rental">Littleton</a> — mix of Old Town tightness and suburban lots.</li>
+  <li><a href="/locations/centennial-co-dumpster-rental">Centennial</a> — hail-corridor suburb; book early after storms.</li>
+  <li><a href="/locations/sheridan-co-dumpster-rental">Sheridan</a> — dumpsters on street/ROW need a City right-of-way permit; 2026 schedule lists a $140 ROW fee.</li>
+  <li><a href="/locations/cherry-hills-village-co-dumpster-rental">Cherry Hills Village</a> — street dumpsters need Director approval; driveway is the default.</li>
+  <li><a href="/locations/greenwood-village-co-dumpster-rental">Greenwood Village</a> — affluent lots and DTC-edge commercial work.</li>
+  <li><a href="/locations/lone-tree-co-dumpster-rental">Lone Tree</a> and <a href="/locations/highlands-ranch-co-dumpster-rental">Highlands Ranch</a> — driveway and HOA rules dominate.</li>
+</ul>
+
+<p>Denver street rules are their own animal — see <a href="/resources/denver-dumpster-permit">Denver dumpster permit</a> if the job sits inside the City and County of Denver.</p>
+
+<h2 id="skip-it">When Not to Use a Roofing Dumpster Alone</h2>
+
+<p>Skip a solo roll-off when the insurance scope is still unsettled and the crew date keeps sliding — you will pay extension days for an empty bin. Skip it when the "roof job" is actually three drywall rooms and a kitchen too; that is a remodel load, and mixing can confuse weight assumptions.</p>
+
+<p>Also skip loading wet shingles into a container that is already near its tonnage. Water weight is real, and mother nature does not offer refunds.</p>
+
+<h2 id="booking">Book Like Hail Is Coming (Because It Is)</h2>
+
+<p>After a widespread storm, south-metro delivery slots tighten. Give the provider the address, roof squares or layer count if you know them, driveway length, and HOA notes. Ask for:</p>
+
+<ul>
+  <li>Container size and included tons</li>
+  <li>Overage per ton</li>
+  <li>Rental days and extension fee</li>
+  <li>Who pulls any street permit if you cannot use the driveway</li>
+</ul>
+
+<p>For cost context without a new invented shingle table, use <a href="/resources/denver-dumpster-rental-cost">Denver dumpster rental cost</a> and <a href="/resources/douglas-county-dumpster-rental-cost">Douglas County dumpster rental cost</a> for the southern county edge.</p>
+
+<figure class="not-prose my-8">
+  <img src="/RDF-Images/storm-cleanup-dumpster-rental.png" alt="Storm cleanup debris and roll-off dumpster after severe weather" width="1260" height="750" loading="lazy" class="w-full rounded-lg object-cover" />
+</figure>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+        question: 'What size dumpster for a south Denver roof tear-off?',
+        answer:
+          'A 20-yard is the usual residential choice by volume. Confirm included weight. Large, multi-layer, or tile roofs may need a second pull or a different heavy-debris plan.',
+      },
+      {
+        question: 'How much does a roofing dumpster cost in south Denver?',
+        answer:
+          'Plan with Denver-metro 20-yard ranges of about $380–$650 per week, then confirm weight overages and delivery fees. I do not publish unsourced shingle-per-ton prices — ask the provider for the disposal math on your load.',
+      },
+      {
+        question: 'Do I need a permit for a roofing dumpster?',
+        answer:
+          'Private driveway placement is usually the simplest path. Sheridan requires a ROW permit for street placement. Cherry Hills Village requires Director approval for street dumpsters. Always check the city page for your address.',
+      },
+      {
+        question: 'When should I book after a hailstorm?',
+        answer:
+          'As soon as the crew date is real. South-metro slots fill when every block files claims at once. An empty bin on extension fees is expensive patience.',
+      },
+      {
+        question: 'Can I mix remodel debris with shingles?',
+        answer:
+          'Ask first. Mixed loads can change disposal pricing and weight assumptions. When in doubt, keep roofing debris in its own container.',
+      },
+      {
+        question: 'Is a 10-yard ever enough for a roof?',
+        answer:
+          'Sometimes for a small porch or shed roof. A full house tear-off usually exceeds a 10-yard weight allowance. See our Denver 10-yard guide if you are sizing a small job.',
+      },
+    ],
+    toc: [
+      { id: 'why-south-metro', title: 'Why the South Metro Books Roofing Bins Hard' },
+      { id: 'size-weight', title: 'Size Is Volume. The Invoice Is Weight.' },
+      { id: 'placement', title: 'Driveway Placement Beats Street Drama' },
+      { id: 'skip-it', title: 'When Not to Use a Roofing Dumpster Alone' },
+      { id: 'booking', title: 'Book Like Hail Is Coming (Because It Is)' },
+      { id: 'faq', title: 'Straight Answers' },
+    ],
+  },
 ]

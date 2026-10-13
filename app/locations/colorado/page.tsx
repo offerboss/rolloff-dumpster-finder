@@ -290,6 +290,31 @@ const cityCards = [
     slug: 'brighton-co-dumpster-rental',
     desc: 'Adams County seat since 1904, with farm roots along the South Platte and growth since the 1990s tied in part to DIA. Trash Bash takes furniture but not remodel debris. Remodels, cleanouts, and newer-subdivision projects lead the work.',
   },
+  {
+    city: 'Castle Pines',
+    slug: 'castle-pines-co-dumpster-rental',
+    desc: 'Douglas County ridge city with a $375 temporary dumpster ROW fee on the 2026 schedule. Roofing, remodels, and estate cleanouts lead demand.',
+  },
+  {
+    city: 'Edgewater',
+    slug: 'edgewater-co-dumpster-rental',
+    desc: "Jefferson County lakefront city of bungalows. Roll-offs go through CommunityCore. Tight driveways set the container size.",
+  },
+  {
+    city: 'Federal Heights',
+    slug: 'federal-heights-co-dumpster-rental',
+    desc: 'Adams County city where mobile-home parks are a large share of housing. Public ROW work needs a City permit; park streets are private.',
+  },
+  {
+    city: 'Sheridan',
+    slug: 'sheridan-co-dumpster-rental',
+    desc: 'South metro Arapahoe County city between Englewood and Littleton. Street dumpsters need a $140 ROW permit on the 2026 fee schedule.',
+  },
+  {
+    city: 'Cherry Hills Village',
+    slug: 'cherry-hills-village-co-dumpster-rental',
+    desc: 'Affluent south metro city. Street dumpsters need Director approval. Estate remodels and hail-season roofing lead the work.',
+  },
 ]
 
 const projects = [

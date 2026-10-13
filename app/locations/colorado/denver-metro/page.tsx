@@ -233,6 +233,31 @@ const cityCards = [
     slug: 'brighton-co-dumpster-rental',
     desc: 'Adams County seat since 1904, with farm roots along the South Platte and growth since the 1990s tied in part to DIA. Trash Bash takes furniture but not remodel debris. Remodels, cleanouts, and newer-subdivision projects lead the work.',
   },
+  {
+    city: 'Castle Pines',
+    slug: 'castle-pines-co-dumpster-rental',
+    desc: 'Douglas County ridge city north of Castle Rock. City Code bans ROW dumpsters of five yards or more without a permit; the 2026 fee schedule lists $375 for temporary dumpster placement. Roofing, remodels, and estate cleanouts lead demand.',
+  },
+  {
+    city: 'Edgewater',
+    slug: 'edgewater-co-dumpster-rental',
+    desc: "Compact Jefferson County city on Sloan's Lake with early- to mid-century bungalows. Roll-offs run through Building & Planning and CommunityCore. Tight lots make driveway length the sizing constraint.",
+  },
+  {
+    city: 'Federal Heights',
+    slug: 'federal-heights-co-dumpster-rental',
+    desc: 'Adams County city on Federal Boulevard where mobile homes are a large share of housing. Park streets are private; public ROW work needs a City permit with 48-hour notice. Unit turnovers and roofing lead demand.',
+  },
+  {
+    city: 'Sheridan',
+    slug: 'sheridan-co-dumpster-rental',
+    desc: 'Small Arapahoe County city between Englewood and Littleton. Dumpsters on street or ROW need a City right-of-way permit; the 2026 schedule lists a $140 ROW fee. Remodels and hail-season roofing lead the work.',
+  },
+  {
+    city: 'Cherry Hills Village',
+    slug: 'cherry-hills-village-co-dumpster-rental',
+    desc: 'Affluent south metro city of large lots along Quincy. Village standards require Director approval before a dumpster sits in the street. Estate remodels, roofing, and landscaping lead demand.',
+  },
 ]
 
 const projects = [
@@ -448,8 +473,8 @@ export default function DenverMetroPage() {
         </div>
         <div className="max-w-[1200px] mx-auto mt-6">
           <p className="text-[13px] text-[#9CA3AF] leading-[1.65]">
-            Smaller metro communities — including Edgewater, Federal Heights, Castle Pines, and unincorporated
-            Jefferson and Adams County — are served by providers in the guides above. The{' '}
+            Smaller metro communities — including unincorporated Jefferson, Adams, and Douglas County pockets
+            still between city pages — are served by providers in the guides above. The{' '}
             <Link
               href="/providers/colorado"
               className="text-orange hover:opacity-80 transition-opacity underline underline-offset-2"
