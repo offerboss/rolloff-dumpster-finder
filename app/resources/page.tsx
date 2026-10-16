@@ -115,7 +115,7 @@ const resourceCards = [
     badge: 'Pricing',
     title: 'Cheap Dumpster Rental: What Actually Moves the Price',
     excerpt:
-      'A 10-yard container starts around $220 per week. Six variables move the price — and three of them you control before booking. Here is what to ask before the quote becomes the invoice.',
+      'Six variables move a dumpster quote, and three of them you control before booking. Here is what to ask before the quote becomes the invoice.',
     href: '/resources/cheap-dumpster-rental',
   },
   {
@@ -136,7 +136,7 @@ const resourceCards = [
     badge: 'Tips',
     title: 'Same Day Dumpster Rental: What to Know Before You Call',
     excerpt:
-      'Same day delivery is available in most markets from local operators if you call before noon. Here is what it costs, which companies can do it, and when to skip the $50–$100 rush fee.',
+      'Same day delivery is often possible from local operators if you call early. Here is how rush pricing works, what to ask, and when to skip the rush fee.',
     href: '/resources/same-day-dumpster-rental',
   },
   {
@@ -213,56 +213,56 @@ const resourceCards = [
     badge: 'Geo Guide',
     title: '20 Yard Dumpster Rental in Denver: When This Size Makes Sense',
     excerpt:
-      'A 20-yard dumpster runs $380–$650 per week in Denver. Here is when it fits your project, when a 10 or 30 makes more sense, and what the Denver no-alley rule, driveway dimensions, and weight limits mean for your project.',
+      'Here is when a 20-yard fits your Denver project, when a 10 or 30 makes more sense, and what the Denver no-alley rule, driveway dimensions, and weight limits mean for your project.',
     href: '/resources/20-yard-dumpster-rental-denver',
   },
   {
     badge: 'Geo Guide',
     title: 'Denver Dumpster Rental Cost: What Affects Local Pricing',
     excerpt:
-      'Denver dumpster rental runs $280–$480/week for a 10-yard, $380–$650 for a 20-yard. Here is what drives the range — weight limits, debris type, delivery distance, urban access, and how to compare quotes before the price becomes the invoice.',
+      'How Denver dumpster quotes are built: weight limits, debris type, delivery distance, urban access, and how to compare quotes before the price becomes the invoice.',
     href: '/resources/denver-dumpster-rental-cost',
   },
   {
     badge: 'Geo Guide',
     title: 'Colorado Dumpster Rental Cost: Prices by Market and Size',
     excerpt:
-      'Dumpster rental in Colorado ranges from $260/week for a 10-yard in a competitive Front Range market to over $545/week in a mountain town. Here is what drives the gap across Denver, the I-25 corridor, and the Western Slope.',
+      'How dumpster pricing differs across Colorado, from competitive Front Range markets to mountain towns, and what drives the gap across Denver, the I-25 corridor, and the Western Slope.',
     href: '/resources/colorado-dumpster-rental-cost',
   },
   {
     badge: 'Geo Guide',
     title: 'Oklahoma Dumpster Rental Cost: Prices by Market and Size',
     excerpt:
-      'Most Oklahoma markets run $250–$420/week for a 10-yard container — Oklahoma City, Tulsa, and Lawton all quote the same rates. Southwest cluster cities like Duncan and Chickasha run slightly lower on larger sizes. Here is what the state rate sheet actually looks like.',
+      'How dumpster rentals are priced across Oklahoma City, Tulsa, Lawton, and the southwest cluster, and what to ask for in a written quote.',
     href: '/resources/oklahoma-dumpster-rental-cost',
   },
   {
     badge: 'Geo Guide',
     title: 'Texas Dumpster Rental Cost: Prices by Size and Metro',
     excerpt:
-      'Most Texas metros run $250–$430/week for a 10-yard container. Dallas, Fort Worth, and Houston all quote the same rates. San Antonio runs slightly lower. Austin\'s ceiling runs slightly higher. Here is the full breakdown by metro and container size.',
+      'How dumpster rentals are priced across Dallas, Fort Worth, Houston, San Antonio, and Austin, by container size, rental period, and weight allowance.',
     href: '/resources/texas-dumpster-rental-cost',
   },
   {
     badge: 'Geo Guide',
     title: '20 Yard Dumpster Rental in Colorado: Cost, Size & Best Uses',
     excerpt:
-      'A 20-yard dumpster runs $350–$590 in Pueblo, $380–$650 in Denver, and $435–$750 in mountain markets like Steamboat Springs. Here is what it costs across Colorado, what fits, and when to size up or down.',
+      'What a 20-yard holds, how it is priced across Colorado markets from Pueblo to Denver to the mountains, and when to size up or down.',
     href: '/resources/20-yard-dumpster-rental-colorado',
   },
   {
     badge: 'Geo Guide',
     title: 'Arizona Dumpster Rental Cost: Prices by Size and City',
     excerpt:
-      'Phoenix Metro and the East Valley run $270–$470/week for a 10-yard container. Scottsdale, Tucson, Prescott, and Flagstaff each price differently. Here is the full Arizona breakdown by market and container size.',
+      'How dumpster rentals are priced across Phoenix Metro, the East Valley, Scottsdale, Tucson, Prescott, and Flagstaff, by container size and rental terms.',
     href: '/resources/arizona-dumpster-rental-cost',
   },
   {
     badge: 'Geo Guide',
     title: 'Utah Dumpster Rental Cost: Prices by Size and City',
     excerpt:
-      'Ogden runs $245–$410/week for a 10-yard — the lowest floor in Utah. Salt Lake City and Sandy run $260–$440. St. George runs $270–$460. Here is the full Utah breakdown by market and container size.',
+      'How dumpster rentals are priced across Salt Lake City, Sandy, Ogden, and St. George, by container size and rental terms.',
     href: '/resources/utah-dumpster-rental-cost',
   },
   {
@@ -276,7 +276,7 @@ const resourceCards = [
     badge: 'Geo Guide',
     title: '10 Yard Dumpster Rental in Denver: When Small Is Enough',
     excerpt:
-      'A 10-yard runs $280–$480/week at Denver rates, holds about three pickup loads, and fits most driveways. Here is what it handles, when Large Item Pickup is enough, and when to size up.',
+      'A 10-yard holds about three pickup loads and fits most driveways. Here is what it handles, how it is priced, when Large Item Pickup is enough, and when to size up.',
     href: '/resources/10-yard-dumpster-rental-denver',
   },
   {
@@ -292,6 +292,41 @@ const resourceCards = [
     excerpt:
       'Hail-season tear-offs across Englewood, Littleton, Centennial, Sheridan, and Cherry Hills Village. Size for weight, keep the bin on the driveway, book early after storms.',
     href: '/resources/south-denver-roofing-dumpster-rental',
+  },
+  {
+    badge: 'Tips',
+    title: '5 Things to Ask Before Booking a Dumpster Rental',
+    excerpt:
+      'Not all rental agreements are the same. Knowing what to ask about weight limits, prohibited materials, and extension fees saves you money and avoids surprises on pickup day.',
+    href: '/resources/5-things-to-ask-before-booking',
+  },
+  {
+    badge: 'FAQ',
+    title: 'How Long Can You Keep a Rental Dumpster on Your Property?',
+    excerpt:
+      'Most rentals include a 7 or 14-day window. Here is what happens when the project runs long, when it makes sense to extend, and when a second pull is the smarter call.',
+    href: '/resources/how-long-can-you-keep-a-rental-dumpster',
+  },
+  {
+    badge: 'Education',
+    title: 'Residential vs. Commercial Dumpster Rentals: What Changes',
+    excerpt:
+      'The container looks the same. The agreement, weight allowances, and pickup windows are often different. Here is what to know before you order the wrong type.',
+    href: '/resources/residential-vs-commercial-dumpster-rental',
+  },
+  {
+    badge: 'Buyers Guide',
+    title: 'Trash Dumpster Rental: What Your Cleanout Actually Needs',
+    excerpt:
+      'Most home cleanouts need a 10- to 20-yard container. Here is how to size the bin, what you can put in it, and when junk removal beats a roll-off.',
+    href: '/resources/trash-dumpster-rental',
+  },
+  {
+    badge: 'Rules',
+    title: 'What Can and Cannot Go in a Roll-Off Dumpster',
+    excerpt:
+      'Tires, paint, and mattresses are prohibited at most companies. Here is what is typically accepted, what gets rejected at the landfill, and what triggers an extra disposal fee.',
+    href: '/resources/what-can-and-cannot-go-in-a-dumpster',
   },
 ]
 
