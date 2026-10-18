@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import Image from 'next/image'
+import RDFLeadSurvey from '@/components/RDFLeadSurvey'
 
 const TITLE = '20 Yard Dumpster Rental: What Fits, What It Costs, and When to Use One'
 const CANONICAL = 'https://www.rolloffdumpsterfinder.com/resources/20-yard-dumpster-rental'
@@ -500,9 +501,10 @@ export default function TwentyYardDumpsterRentalPage() {
           </ol>
         </nav>
 
-        {/* Body */}
-        <div
-          className="prose prose-lg max-w-none
+        {/* Body — split at cost section to insert mid-article survey (~28% through) */}
+        {(() => {
+          const SPLIT_MARKER = '<h2 id="cost">'
+          const proseClasses = `prose prose-lg max-w-none
             prose-headings:text-charcoal prose-headings:font-bold
             prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-4
             prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
@@ -510,9 +512,29 @@ export default function TwentyYardDumpsterRentalPage() {
             prose-a:text-orange prose-a:no-underline hover:prose-a:underline
             prose-strong:text-charcoal
             prose-ul:text-gray-700 prose-li:my-1
-            prose-table:text-sm"
-          dangerouslySetInnerHTML={{ __html: bodyHtml }}
-        />
+            prose-table:text-sm`
+          const splitIdx = bodyHtml.indexOf(SPLIT_MARKER)
+          const body1 = splitIdx > -1 ? bodyHtml.slice(0, splitIdx) : bodyHtml
+          const body2 = splitIdx > -1 ? bodyHtml.slice(splitIdx) : ''
+          return (
+            <>
+              <div className={proseClasses} dangerouslySetInnerHTML={{ __html: body1 }} />
+              {body2 && (
+                <>
+                  <RDFLeadSurvey
+                    headline="Need a 20-Yard Roll-Off Dumpster?"
+                    description="Tell us about your project and we'll help connect you with a local dumpster rental provider."
+                    placement="mid_article"
+                    sourcePage="/resources/20-yard-dumpster-rental"
+                    sourceTitle="20 Yard Dumpster Rental"
+                    className="my-12"
+                  />
+                  <div className={proseClasses} dangerouslySetInnerHTML={{ __html: body2 }} />
+                </>
+              )}
+            </>
+          )
+        })()}
 
         {/* FAQ section */}
         <section className="mt-16" aria-labelledby="faq-heading" id="faq">
@@ -531,6 +553,16 @@ export default function TwentyYardDumpsterRentalPage() {
             ))}
           </dl>
         </section>
+
+        {/* Bottom survey — after FAQ, before CTA */}
+        <RDFLeadSurvey
+          headline="Ready to Get a Dumpster Rental Quote?"
+          description="Answer a few quick questions and we'll help you find a rental provider serving your area."
+          placement="bottom_article"
+          sourcePage="/resources/20-yard-dumpster-rental"
+          sourceTitle="20 Yard Dumpster Rental"
+          className="mt-12"
+        />
 
         {/* CTA */}
         <div className="mt-16 rounded-xl bg-charcoal text-white p-8 text-center">

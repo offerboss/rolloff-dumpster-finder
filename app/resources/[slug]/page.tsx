@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import Image from 'next/image'
 import { blogPosts } from '@/content/blog-posts'
+import RDFLeadSurvey from '@/components/RDFLeadSurvey'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -249,10 +250,12 @@ export default async function ResourcePostPage({ params }: Props) {
           </nav>
         )}
 
-        {/* Body */}
+        {/* Body — split around <!--survey-mid--> if a mid-article survey is configured */}
         {post.body ? (
-          <div
-            className="prose prose-lg max-w-none
+          (() => {
+            const SPLIT_MARKER = '<!--survey-mid-->'
+            const hasSplit = post.midSurvey && post.body.includes(SPLIT_MARKER)
+            const proseClasses = `prose prose-lg max-w-none
               prose-headings:text-charcoal prose-headings:font-bold
               prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-4
               prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
@@ -260,9 +263,28 @@ export default async function ResourcePostPage({ params }: Props) {
               prose-a:text-orange prose-a:no-underline hover:prose-a:underline
               prose-strong:text-charcoal
               prose-ul:text-gray-700 prose-li:my-1
-              prose-table:text-sm"
-            dangerouslySetInnerHTML={{ __html: post.body }}
-          />
+              prose-table:text-sm`
+            if (hasSplit && post.midSurvey) {
+              const [part1, part2] = post.body.split(SPLIT_MARKER)
+              return (
+                <>
+                  <div className={proseClasses} dangerouslySetInnerHTML={{ __html: part1 }} />
+                  <RDFLeadSurvey
+                    headline={post.midSurvey.headline}
+                    description={post.midSurvey.description}
+                    placement="mid_article"
+                    sourcePage={`/resources/${post.slug}`}
+                    sourceTitle={post.title}
+                    className="my-12"
+                  />
+                  <div className={proseClasses} dangerouslySetInnerHTML={{ __html: part2 }} />
+                </>
+              )
+            }
+            return (
+              <div className={proseClasses} dangerouslySetInnerHTML={{ __html: post.body }} />
+            )
+          })()
         ) : (
           <div className="rounded-lg border border-dashed border-gray-300 p-12 text-center">
             <p className="text-gray-400">Full post coming soon.</p>
@@ -287,6 +309,18 @@ export default async function ResourcePostPage({ params }: Props) {
               ))}
             </dl>
           </section>
+        )}
+
+        {/* Bottom survey — after FAQ, before CTA */}
+        {post.bottomSurvey && (
+          <RDFLeadSurvey
+            headline={post.bottomSurvey.headline}
+            description={post.bottomSurvey.description}
+            placement="bottom_article"
+            sourcePage={`/resources/${post.slug}`}
+            sourceTitle={post.title}
+            className="mt-12"
+          />
         )}
 
         {/* CTA */}

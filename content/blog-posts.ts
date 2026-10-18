@@ -8,6 +8,11 @@ export interface TocItem {
   title: string
 }
 
+export interface SurveyConfig {
+  headline: string
+  description: string
+}
+
 export interface BlogPost {
   slug: string
   title: string
@@ -23,6 +28,10 @@ export interface BlogPost {
   body: string
   faq: FaqItem[]
   toc: TocItem[]
+  /** Mid-article survey. Place <!--survey-mid--> in body HTML at the desired split point. */
+  midSurvey?: SurveyConfig
+  /** Bottom-article survey. Rendered after the FAQ section, before the page CTA. */
+  bottomSurvey?: SurveyConfig
 }
 
 export const blogPosts: BlogPost[] = [
@@ -6871,6 +6880,8 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you are unsure which size fits your project, the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a> walks through the decision by project type before you book.</p>
 
+<!--survey-mid-->
+
 <h2 id="why-prices-vary">Why Colorado Prices Vary by Market</h2>
 
 <p>The same container costs more in Gunnison than in Colorado Springs. The equipment is identical. What changes is everything that happens between the provider's yard and your driveway.</p>
@@ -7028,6 +7039,16 @@ export const blogPosts: BlogPost[] = [
       { id: 'by-city', title: 'Colorado Dumpster Rental by City' },
       { id: 'faq', title: 'Straight Answers' },
     ],
+    midSurvey: {
+      headline: 'Need an Exact Dumpster Rental Price in Colorado?',
+      description:
+        'Tell us what size dumpster you need, where you need it, and when. We\'ll help connect you with a local provider.',
+    },
+    bottomSurvey: {
+      headline: 'Compare Dumpster Rental Options in Colorado',
+      description:
+        'Answer a few quick questions and we\'ll help connect you with a provider serving your area.',
+    },
   },
   {
     slug: 'oklahoma-dumpster-rental-cost',
