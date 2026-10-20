@@ -19851,6 +19851,10 @@ export const cityLocations: CityLocation[] = [
             "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
       }
     ],
+    heroImage: {
+      src: '/RDF-Images/louisville-co-dumpster-rental-hero.webp',
+      alt: 'Blue roll-off dumpster on the driveway of a red-brick bungalow under mature trees in Louisville, Colorado',
+    },
     latitude: 39.9778,
     longitude: -105.1319,
     pricingPlacementNote: "Louisville requires a City Temporary Use Permit for dumpsters on private property. Street placement needs a Public Works right-of-way permit, which lists a $75 base fee and $75 per week for a roll-off. Neither is included in rental pricing.",
@@ -20010,6 +20014,10 @@ export const cityLocations: CityLocation[] = [
             "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
       }
     ],
+    heroImage: {
+      src: '/RDF-Images/lafayette-co-dumpster-rental-hero.webp',
+      alt: 'Green roll-off dumpster on the driveway of a 1960s brick ranch home on a tree-lined street in Lafayette, Colorado',
+    },
     latitude: 39.9936,
     longitude: -105.0897,
     pricingPlacementNote: "Street or right-of-way placement in Lafayette requires a City ROW permit with a licensed contractor and a $5,000 street-cut bond, which is not included in rental pricing.",
@@ -20165,6 +20173,10 @@ export const cityLocations: CityLocation[] = [
             "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
       }
     ],
+    heroImage: {
+      src: '/RDF-Images/superior-co-dumpster-rental-hero.webp',
+      alt: 'Gray roll-off dumpster on the driveway of a new two-story home with young landscaping in Superior, Colorado',
+    },
     latitude: 39.9528,
     longitude: -105.1686,
     pricingPlacementNote: "Street or right-of-way placement in Superior needs Town permission through Public Works, which is not included in rental pricing. Driveway placement is the practical default.",
@@ -20324,6 +20336,10 @@ export const cityLocations: CityLocation[] = [
             "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
       }
     ],
+    heroImage: {
+      src: '/RDF-Images/erie-co-dumpster-rental-hero.webp',
+      alt: 'Blue roll-off dumpster at the end of a subdivision street beside open plains in Erie, Colorado',
+    },
     latitude: 40.0503,
     longitude: -105.05,
     pricingPlacementNote: "Street or right-of-way placement in Erie needs a free Town permit filed at least 5 days ahead. HOA rules may be stricter. Driveway placement needs no permit.",
@@ -20481,6 +20497,10 @@ export const cityLocations: CityLocation[] = [
             "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
       }
     ],
+    heroImage: {
+      src: '/RDF-Images/firestone-co-dumpster-rental-hero.webp',
+      alt: 'Dark green roll-off dumpster on a driveway with snowy Front Range peaks behind in Firestone, Colorado',
+    },
     latitude: 40.1125,
     longitude: -104.9367,
     pricingPlacementNote: "Street or right-of-way placement in Firestone requires a Town permit with a traffic control plan, which is not included in rental pricing. Driveway placement is the practical default.",
