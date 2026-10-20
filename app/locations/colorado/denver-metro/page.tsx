@@ -258,6 +258,31 @@ const cityCards = [
     slug: 'cherry-hills-village-co-dumpster-rental',
     desc: 'Affluent south metro city of large lots along Quincy. Village standards require Director approval before a dumpster sits in the street. Estate remodels, roofing, and landscaping lead demand.',
   },
+  {
+    city: 'Louisville',
+    slug: 'louisville-co-dumpster-rental',
+    desc: "East Boulder County US-36 city. A City Temporary Use Permit is required even for driveway dumpsters; street placement lists a $75 base fee plus $75/week. Remodels and Marshall Fire rebuilds lead demand.",
+  },
+  {
+    city: 'Lafayette',
+    slug: 'lafayette-co-dumpster-rental',
+    desc: "East Boulder County city around Old Town and Public Road. Street dumpsters need a ROW permit with a licensed contractor and $5,000 street-cut bond. Remodels, roofing, and cleanouts lead demand.",
+  },
+  {
+    city: 'Superior',
+    slug: 'superior-co-dumpster-rental',
+    desc: "Small US-36 town of Rock Creek and Sagamore. Town code treats unpermitted street dumpsters as a nuisance, so the driveway wins. Remodels, roofing, and Marshall Fire rebuilds lead demand.",
+  },
+  {
+    city: 'Erie',
+    slug: 'erie-co-dumpster-rental',
+    desc: "Boulder\u2013Weld line town of newer subdivisions. Street dumpsters need a free Town permit filed 5 days ahead, up to 60 days. Basement finishes, landscaping, and roofing lead demand.",
+  },
+  {
+    city: 'Firestone',
+    slug: 'firestone-co-dumpster-rental',
+    desc: "Carbon Valley town on I-25 in Weld County. Street dumpsters need a Town obstruction permit with a traffic control plan. Basement finishes and landscaping lead demand.",
+  },
 ]
 
 const projects = [

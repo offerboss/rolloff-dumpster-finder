@@ -315,6 +315,31 @@ const cityCards = [
     slug: 'cherry-hills-village-co-dumpster-rental',
     desc: 'Affluent south metro city. Street dumpsters need Director approval. Estate remodels and hail-season roofing lead the work.',
   },
+  {
+    city: 'Louisville',
+    slug: 'louisville-co-dumpster-rental',
+    desc: "Boulder County city that requires a Temporary Use Permit even for driveway dumpsters. Remodels and rebuilds lead the work.",
+  },
+  {
+    city: 'Lafayette',
+    slug: 'lafayette-co-dumpster-rental',
+    desc: "Boulder County city where street dumpsters need a ROW permit and a bonded, licensed contractor.",
+  },
+  {
+    city: 'Superior',
+    slug: 'superior-co-dumpster-rental',
+    desc: "US-36 town where unpermitted street dumpsters are a nuisance under Town code. Driveway placement is the default.",
+  },
+  {
+    city: 'Erie',
+    slug: 'erie-co-dumpster-rental',
+    desc: "Boulder\u2013Weld town with a free street dumpster permit filed 5 days ahead. HOA rules can be stricter.",
+  },
+  {
+    city: 'Firestone',
+    slug: 'firestone-co-dumpster-rental',
+    desc: "Weld County Carbon Valley town where street dumpsters need a Town permit and traffic control plan.",
+  },
 ]
 
 const projects = [

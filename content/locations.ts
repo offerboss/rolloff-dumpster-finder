@@ -19696,4 +19696,793 @@ export const cityLocations: CityLocation[] = [
     pricingPlacementNote:
       'Street placement in Cherry Hills Village requires specific Director approval and a Village right-of-way permit path, which is not included in rental pricing. Driveway placement is the practical default.',
   },
+
+  // ─── LOUISVILLE (CO) ────────────────────────────────────────
+  {
+    slug: "louisville-co-dumpster-rental",
+    cityName: "Louisville",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Louisville CO Dumpster Rental | Sizes, Permits & Rules",
+    metaDescription: "Louisville, Colorado dumpster rental for remodels, roofing, and Marshall Fire rebuild cleanup. Compare roll-off sizes and City permit rules before you book.",
+    primaryKeyword: "louisville co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental louisville co",
+      "louisville construction dumpster rental",
+      "roll off dumpster louisville",
+      "roll off dumpster louisville co",
+      "rolloff dumpsters louisville",
+      "roll offs louisville co",
+      "10 yard dumpster rental louisville",
+      "20 yard dumpster rental louisville",
+      "30 yard dumpster rental louisville",
+      "louisville dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Louisville, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for remodels, roofing tear-offs, rebuild cleanup, and cleanouts across Louisville and the east Boulder County US-36 corridor.",
+    introParagraphs: [
+      "Louisville is a Boulder County city on the US-36 corridor between Boulder, Superior, Lafayette, and Broomfield. Old Town and the Main Street grid hold older homes on smaller lots. Newer subdivisions spread out along McCaslin Boulevard and South Boulder Road. That mix produces remodel debris, hail-season roofing tear-offs, and steady cleanout work. Most of those jobs fit a 10, 15, or 20-yard container.",
+      "Louisville is stricter than most metro cities about dumpsters on private property. The City requires a Temporary Use Permit for a dumpster, roll-off, or portable storage unit on private property, submitted through the online portal with a site plan. The permit runs no more than 30 days in any 12-month period. Roll-off and dumpster permits can be renewed in 30-day extensions when the work is tied to an active building permit. Containers cannot sit in a vision clearance area. The City also still runs its Louisville Rebuilds site for Marshall Fire recovery.",
+      "Rolloff Dumpster Finder helps Louisville homeowners and contractors compare roll-off options across east Boulder County. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Line up the City permit dates with the rental dates before delivery day."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Marshall Fire Rebuild Cleanup",
+            "description": "Louisville still runs a Louisville Rebuilds site for Marshall Fire recovery. Rebuild and repair jobs produce framing scraps, drywall, and landscaping debris. Line the dumpster permit up with the building permit so renewals stay available."
+      },
+      {
+            "number": "02",
+            "name": "Old Town Remodels",
+            "description": "Older Old Town homes on smaller lots produce plaster, lath, and tile. Weight climbs fast. A 15 or 20-yard is common. Measure the driveway before you pick a size."
+      },
+      {
+            "number": "03",
+            "name": "Roofing Tear-Offs",
+            "description": "Louisville sits in the Front Range hail belt. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "04",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "05",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "06",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "07",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "08",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "09",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Louisville depends on the City Temporary Use Permit for private property, your driveway, and Public Works rules for street placement.",
+    placementNotes: [
+      "Louisville requires a Temporary Use Permit for a dumpster, roll-off, or portable storage unit even on private property. Apply through the City online portal and include a site plan showing the container, streets, and alleys.",
+      "Temporary Use Permits for dumpsters run no more than 30 days in any 12-month period. Roll-off and dumpster permits can be renewed in 30-day extensions if the use is tied to an active building permit for the property.",
+      "No dumpster, roll-off, or portable storage unit may sit in a vision clearance area or sign-restriction area that has to stay open for visibility.",
+      "Street or right-of-way placement is handled by Public Works, not the Temporary Use Permit. The Public Works right-of-way permit lists a $75 base fee and $75 per week for storage of materials such as a roll-off dumpster. Work started before the permit is issued doubles the fees.",
+      "Measure driveway length and width. Tell the provider about alley access, Old Town lot sizes, or HOA rules when you book.",
+      "Boards or plywood under the container rails help protect the concrete. Ask if your provider supplies them.",
+      "When in doubt, confirm placement requirements with the City of Louisville and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Old Town Louisville",
+      "Main Street corridor",
+      "McCaslin Boulevard corridor",
+      "South Boulder Road corridor",
+      "Steel Ranch",
+      "Coal Creek Ranch",
+      "Harper Lake area",
+      "Davidson Mesa edge",
+      "Centennial Parkway area",
+      "Dillon Road corridor"
+    ],
+    nearbyCities: [
+      "Superior",
+      "Lafayette",
+      "Boulder",
+      "Broomfield",
+      "Erie",
+      "Westminster",
+      "Longmont",
+      "Arvada",
+      "Golden",
+      "Northglenn"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Louisville, CO?",
+            "answer": "Quotes in Louisville are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare. Driveway placement keeps a street permit off the bill."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Louisville, Colorado?",
+            "answer": "Yes, even on private property. Louisville requires a Temporary Use Permit for a dumpster or roll-off on private property, filed through the City online portal with a site plan. It runs up to 30 days in a 12-month period, with 30-day renewals when the job has an active building permit. Street placement goes through Public Works, whose right-of-way permit lists a $75 base fee and $75 per week for a roll-off."
+      },
+      {
+            "question": "What size dumpster for a Louisville home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Louisville?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Louisville?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "How quickly can I get delivery in Louisville?",
+            "answer": "Delivery timing depends on the provider, your address, and the season. The City permit is the slower piece. Get the Temporary Use Permit approved before you lock the delivery date."
+      },
+      {
+            "question": "Do you serve nearby cities like Superior, Lafayette, and Boulder?",
+            "answer": "Yes. Rolloff Dumpster Finder helps customers across east Boulder County and the US-36 corridor, including Superior, Lafayette, Boulder, Broomfield, and Erie. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Louisville?",
+            "answer": "Rental periods vary by provider. The City side is fixed: a private-property Temporary Use Permit runs up to 30 days in any 12-month period unless the job has an active building permit for renewals. Keep the permit dates and the rental dates lined up."
+      },
+      {
+            "question": "Are there items I cannot put in a Louisville dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    latitude: 39.9778,
+    longitude: -105.1319,
+    pricingPlacementNote: "Louisville requires a City Temporary Use Permit for dumpsters on private property. Street placement needs a Public Works right-of-way permit, which lists a $75 base fee and $75 per week for a roll-off. Neither is included in rental pricing.",
+  },
+
+  // ─── LAFAYETTE (CO) ────────────────────────────────────────
+  {
+    slug: "lafayette-co-dumpster-rental",
+    cityName: "Lafayette",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Lafayette CO Dumpster Rental | Sizes, Permits & Rules",
+    metaDescription: "Lafayette, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and City right-of-way permit rules for street placement.",
+    primaryKeyword: "lafayette co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental lafayette co",
+      "lafayette construction dumpster rental",
+      "roll off dumpster lafayette",
+      "roll off dumpster lafayette co",
+      "rolloff dumpsters lafayette",
+      "roll offs lafayette co",
+      "10 yard dumpster rental lafayette",
+      "20 yard dumpster rental lafayette",
+      "30 yard dumpster rental lafayette",
+      "lafayette dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Lafayette, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for remodels, roofing tear-offs, cleanouts, and landscaping across Lafayette and the east Boulder County corridor.",
+    introParagraphs: [
+      "Lafayette is an east Boulder County city between Louisville, Erie, Broomfield, and Boulder. Old Town Lafayette sits along Public Road with older homes on a tight grid. Newer subdivisions run out toward Baseline Road and US-287. That mix produces remodel debris, hail-season roofing tear-offs, and steady cleanout work. Most of those jobs fit a 10, 15, or 20-yard container.",
+      "Lafayette puts dumpsters in the street squarely inside its right-of-way rules. City Code Chapter 105 requires a ROW permit for any storage or staging of equipment and materials in the right-of-way, and the City names roll-offs, dumpsters, and storage containers on its list. The right-of-way covers streets, alleys, and sidewalks. Every contractor on the permit, including the dumpster company, needs a valid City of Lafayette contractor license and a $5,000 street-cut bond. City Council approved an updated ROW fee schedule on July 9, 2026.",
+      "Rolloff Dumpster Finder helps Lafayette homeowners and contractors compare roll-off options across east Boulder County. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. For street placement, ask the provider up front if it holds a Lafayette contractor license and bond."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Old Town Remodels",
+            "description": "Older homes near Public Road produce plaster, lath, and tile. Weight climbs fast. A 15 or 20-yard is common. Alley and street access matters on the tighter blocks."
+      },
+      {
+            "number": "02",
+            "name": "Estate Cleanouts",
+            "description": "Long-held Lafayette homes can hold decades of contents. Plan on a 20 or 30-yard for a full estate. Pull paint, solvents, and refrigerant appliances before loading."
+      },
+      {
+            "number": "03",
+            "name": "Roofing Tear-Offs",
+            "description": "Lafayette sits in the Front Range hail belt. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "04",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "05",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "06",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "07",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "08",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "09",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Lafayette depends on your driveway and the City right-of-way permit, which requires a licensed and bonded contractor for street placement.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup and keeps the job out of the City right-of-way permit process.",
+      "City Code Chapter 105 requires a right-of-way permit for storage or staging of equipment and materials in the ROW. The City lists roll-offs, dumpsters, and storage containers among items that need a permit.",
+      "The ROW includes any public street, alley, sidewalk, park, or City-owned right-of-way dedicated to public use.",
+      "Every contractor on a ROW permit, including roll-off and dumpster companies, must hold a valid City of Lafayette contractor license and provide a $5,000 street-cut bond. Unlicensed contractors are not approved.",
+      "City Council approved an updated ROW fee schedule on July 9, 2026. Questions go to the ROW Permit Team at rowpermits@lafayetteco.gov.",
+      "Measure driveway length and width. Tell the provider about Old Town alleys, tight streets, or HOA rules when you book.",
+      "When in doubt, confirm placement requirements with the City of Lafayette and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Old Town Lafayette",
+      "Public Road corridor",
+      "South Boulder Road corridor",
+      "Baseline Road corridor",
+      "US-287 corridor",
+      "Waneka Lake area",
+      "Indian Peaks",
+      "Coal Creek Trail edge",
+      "Emma Street area",
+      "Exempla Circle area"
+    ],
+    nearbyCities: [
+      "Louisville",
+      "Erie",
+      "Superior",
+      "Boulder",
+      "Broomfield",
+      "Longmont",
+      "Westminster",
+      "Thornton",
+      "Northglenn",
+      "Firestone"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Lafayette, CO?",
+            "answer": "Quotes in Lafayette are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare. Driveway placement keeps a street permit off the bill."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Lafayette, Colorado?",
+            "answer": "For the street, yes. Lafayette requires a right-of-way permit for roll-offs, dumpsters, and storage containers in any street, alley, or sidewalk. The dumpster company has to be listed with a valid City contractor license and a $5,000 street-cut bond. Driveway placement on private property stays out of that process."
+      },
+      {
+            "question": "What size dumpster for a Lafayette home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Lafayette?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Lafayette?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "How quickly can I get delivery in Lafayette?",
+            "answer": "Delivery timing depends on the provider, your address, and the season. Driveway placement is the faster route. A street placement waits on the City ROW permit and a licensed, bonded contractor."
+      },
+      {
+            "question": "Do you serve nearby cities like Louisville, Erie, and Superior?",
+            "answer": "Yes. Rolloff Dumpster Finder helps customers across east Boulder County, including Louisville, Erie, Superior, Boulder, and Broomfield. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Lafayette?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking. If you have a ROW permit, keep the permit dates and the rental dates lined up."
+      },
+      {
+            "question": "Are there items I cannot put in a Lafayette dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    latitude: 39.9936,
+    longitude: -105.0897,
+    pricingPlacementNote: "Street or right-of-way placement in Lafayette requires a City ROW permit with a licensed contractor and a $5,000 street-cut bond, which is not included in rental pricing.",
+  },
+
+  // ─── SUPERIOR (CO) ────────────────────────────────────────
+  {
+    slug: "superior-co-dumpster-rental",
+    cityName: "Superior",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Superior CO Dumpster Rental | Sizes, Permits & Rules",
+    metaDescription: "Superior, Colorado dumpster rental for remodels, roofing, and rebuild cleanup. Compare roll-off sizes and Town dumpster permit rules before street placement.",
+    primaryKeyword: "superior co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental superior co",
+      "superior construction dumpster rental",
+      "roll off dumpster superior",
+      "roll off dumpster superior co",
+      "rolloff dumpsters superior",
+      "roll offs superior co",
+      "10 yard dumpster rental superior",
+      "20 yard dumpster rental superior",
+      "30 yard dumpster rental superior",
+      "superior dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Superior, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for remodels, roofing tear-offs, rebuild cleanup, and cleanouts across Superior and the US-36 corridor.",
+    introParagraphs: [
+      "Superior is a small Boulder County town on US-36 between Louisville, Boulder, and Broomfield. Original Town Superior holds the older homes. Rock Creek and Sagamore make up much of the newer housing, with Downtown Superior filling in along McCaslin Boulevard. Remodels and hail-season roofing drive steady dumpster demand. Marshall Fire rebuilds add to it; the Town still runs a Marshall Fire Community Planning and Rebuilding Effort for those projects. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "The Town is direct about the street. Municipal Code Sec. 7-1-90 lists trash bins, dumpsters, and roll-offs on public rights-of-way or public property as a nuisance unless the Town expressly permits them. Town code enforcement has reminded contractors and residents to move roll-offs and dumpsters onto private driveways. Public Works publishes a separate Dumpster Permit application alongside its Street Obstruction and Right-of-Way permits.",
+      "Rolloff Dumpster Finder helps Superior homeowners and contractors compare roll-off options across the US-36 corridor. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. HOA rules in the larger subdivisions can be stricter than Town rules, so check both."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Marshall Fire Rebuild Cleanup",
+            "description": "Rebuild and repair work produces framing scraps, drywall, packaging, and landscaping debris. A 20 or 30-yard is common. Keep the container on the lot, not the street."
+      },
+      {
+            "number": "02",
+            "name": "Estate Cleanouts",
+            "description": "Long-held homes can hold decades of contents. Plan on a 20 or 30-yard for a full estate. Pull paint, solvents, and refrigerant appliances before loading."
+      },
+      {
+            "number": "03",
+            "name": "Roofing Tear-Offs",
+            "description": "Superior sits in the Front Range hail belt. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "04",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "05",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "06",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "07",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "08",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "09",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Superior depends on your driveway and Town rules that treat unpermitted street dumpsters as a nuisance. For most homeowners, the driveway wins.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup. Town code enforcement has asked contractors and residents to keep roll-offs and dumpsters on privately owned driveways or property.",
+      "Superior Municipal Code Sec. 7-1-90(15) treats trash bins, dumpsters, and roll-offs on public rights-of-way or public property as a nuisance unless expressly permitted by the Town.",
+      "Public Works lists a Dumpster Permit application with its Street Obstruction and Right-of-Way permits. Call Public Works at 303-499-3675 for current requirements before planning street placement.",
+      "Right-of-way work in Superior generally requires a certificate of insurance naming the Town and an MUTCD traffic and pedestrian control plan. Expect more process than a driveway job.",
+      "Measure driveway length and width. Tell the provider about HOA rules, shared drives, or tight townhome lots when you book.",
+      "Boards or plywood under the container rails help protect the concrete. Ask if your provider supplies them.",
+      "When in doubt, confirm placement requirements with the Town of Superior and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Original Town Superior",
+      "Rock Creek",
+      "Sagamore",
+      "Downtown Superior",
+      "McCaslin Boulevard corridor",
+      "Coal Creek edge",
+      "Superior Marketplace area",
+      "Rock Creek Parkway corridor"
+    ],
+    nearbyCities: [
+      "Louisville",
+      "Boulder",
+      "Broomfield",
+      "Lafayette",
+      "Westminster",
+      "Erie",
+      "Arvada",
+      "Golden"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Superior, CO?",
+            "answer": "Quotes in Superior are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare. Driveway placement keeps a street permit off the bill."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Superior, Colorado?",
+            "answer": "For the street, yes. Superior code treats dumpsters and roll-offs on public rights-of-way as a nuisance unless the Town expressly permits them, and Public Works publishes a Dumpster Permit application. Call Public Works at 303-499-3675 for current requirements. A container on your own driveway stays out of that process."
+      },
+      {
+            "question": "What size dumpster for a Superior home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Superior?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Superior?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "How quickly can I get delivery in Superior?",
+            "answer": "Delivery timing depends on the provider, your address, and the season. Driveway placement is the faster route because it skips the Town permit."
+      },
+      {
+            "question": "Do you serve nearby cities like Louisville, Boulder, and Broomfield?",
+            "answer": "Yes. Rolloff Dumpster Finder helps customers along the US-36 corridor, including Louisville, Boulder, Broomfield, Lafayette, and Westminster. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Superior?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking. Check HOA removal deadlines too, which can be shorter than the rental."
+      },
+      {
+            "question": "Are there items I cannot put in a Superior dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    latitude: 39.9528,
+    longitude: -105.1686,
+    pricingPlacementNote: "Street or right-of-way placement in Superior needs Town permission through Public Works, which is not included in rental pricing. Driveway placement is the practical default.",
+  },
+
+  // ─── ERIE (CO) ────────────────────────────────────────
+  {
+    slug: "erie-co-dumpster-rental",
+    cityName: "Erie",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Erie CO Dumpster Rental | Sizes, Free Permit & Rules",
+    metaDescription: "Erie, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and the free Town permit for street dumpsters before you book.",
+    primaryKeyword: "erie co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental erie co",
+      "erie construction dumpster rental",
+      "roll off dumpster erie",
+      "roll off dumpster erie co",
+      "rolloff dumpsters erie",
+      "roll offs erie co",
+      "10 yard dumpster rental erie",
+      "20 yard dumpster rental erie",
+      "30 yard dumpster rental erie",
+      "erie dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Erie, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for remodels, roofing tear-offs, cleanouts, and new-home landscaping across Erie and the Boulder-Weld county line.",
+    introParagraphs: [
+      "Erie straddles the Boulder and Weld County line north of Lafayette and east of Boulder. Old Town Erie sits along Briggs Street with older homes. Most of the town is newer subdivisions such as Vista Ridge, Erie Village, Colliers Hill, and Erie Highlands. That mix produces basement finishes, landscaping jobs, hail-season roofing, and move-in and move-out cleanouts. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Erie keeps street dumpsters simple. A free Town permit covers the temporary placement of a dumpster, storage container, landscape material, or roll-off on a street, alley, or other public right-of-way. Submit it to the Town Clerk at least 5 days ahead. Permits run up to 60 days and can be extended another 60 days if approved before the first one expires. Municipal Code 6-12-7 bars containers on sidewalks or anywhere that blocks traffic or pedestrians. No permit is needed on a private driveway.",
+      "Rolloff Dumpster Finder helps Erie homeowners and contractors compare roll-off options across east Boulder County and southwest Weld County. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Erie warns that HOA rules can be stricter than the Town permit, so check the HOA timeline too."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Basement Finishes",
+            "description": "Many Erie homes are newer builds with unfinished basements. Finishing one produces drywall scraps, framing offcuts, and packaging. A 15 or 20-yard covers most single-basement jobs."
+      },
+      {
+            "number": "02",
+            "name": "New-Home Landscaping",
+            "description": "Sod removal, rock, and soil from yard projects are heavy. Use a 10-yard or a heavy-debris container for dirt and rock. Keep green waste separate if the provider prices it differently."
+      },
+      {
+            "number": "03",
+            "name": "Roofing Tear-Offs",
+            "description": "Erie sits in the Front Range hail belt. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "04",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "05",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "06",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "07",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "08",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "09",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Erie depends on your driveway, HOA rules, and a free Town permit for street placement filed at least 5 days ahead.",
+    placementNotes: [
+      "Driveway placement on private property does not need a Town permit.",
+      "A free Dumpster, Storage Container, Landscape Material, or Roll-Off Permit covers temporary placement on a street, alley, or other public right-of-way. Submit it to the Town Clerk at least 5 days before placement. Applications are evaluated case by case.",
+      "Permits run up to 60 days and can be extended an additional 60 days if requested and approved before the earlier permit expires.",
+      "Municipal Code 6-12-7 bars any dumpster or similar container on a sidewalk or placed so it blocks traffic or pedestrians or creates a safety hazard.",
+      "An HOA may set stricter rules and removal deadlines than the Town permit. The Town says HOA timelines still apply even when they differ from permit dates.",
+      "Measure driveway length and width. Newer subdivisions often have shorter driveways and tighter cul-de-sacs than they look on a map.",
+      "When in doubt, confirm placement requirements with the Town of Erie and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Old Town Erie",
+      "Briggs Street corridor",
+      "Vista Ridge",
+      "Erie Village",
+      "Colliers Hill",
+      "Erie Highlands",
+      "Canyon Creek",
+      "Compass",
+      "Erie Parkway corridor",
+      "County Line Road corridor"
+    ],
+    nearbyCities: [
+      "Lafayette",
+      "Louisville",
+      "Longmont",
+      "Broomfield",
+      "Firestone",
+      "Boulder",
+      "Thornton",
+      "Superior",
+      "Northglenn",
+      "Westminster"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Erie, CO?",
+            "answer": "Quotes in Erie are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare. Driveway placement keeps a street permit off the bill."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Erie, Colorado?",
+            "answer": "Only for the street. Erie requires a free Town permit for a dumpster or roll-off on a street, alley, or other public right-of-way, filed with the Town Clerk at least 5 days ahead. It runs up to 60 days with one 60-day extension. No permit is needed on a private driveway."
+      },
+      {
+            "question": "What size dumpster for a Erie home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Erie?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Erie?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "How quickly can I get delivery in Erie?",
+            "answer": "Delivery timing depends on the provider, your address, and the season. Driveway placement is the fastest route. Street placement needs the free Town permit filed at least 5 days ahead."
+      },
+      {
+            "question": "Do you serve nearby cities like Lafayette, Longmont, and Broomfield?",
+            "answer": "Yes. Rolloff Dumpster Finder helps customers across east Boulder County and southwest Weld County, including Lafayette, Louisville, Longmont, Broomfield, and Firestone. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Erie?",
+            "answer": "Rental periods vary by provider. A Town street permit runs up to 60 days with one 60-day extension, but HOA removal deadlines can be shorter. Keep the permit, HOA, and rental dates lined up."
+      },
+      {
+            "question": "Are there items I cannot put in a Erie dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    latitude: 40.0503,
+    longitude: -105.05,
+    pricingPlacementNote: "Street or right-of-way placement in Erie needs a free Town permit filed at least 5 days ahead. HOA rules may be stricter. Driveway placement needs no permit.",
+  },
+
+  // ─── FIRESTONE (CO) ────────────────────────────────────────
+  {
+    slug: "firestone-co-dumpster-rental",
+    cityName: "Firestone",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Firestone CO Dumpster Rental | Sizes, Permits & Rules",
+    metaDescription: "Firestone, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and Town street obstruction rules before placing a bin.",
+    primaryKeyword: "firestone co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental firestone co",
+      "firestone construction dumpster rental",
+      "roll off dumpster firestone",
+      "roll off dumpster firestone co",
+      "rolloff dumpsters firestone",
+      "roll offs firestone co",
+      "10 yard dumpster rental firestone",
+      "20 yard dumpster rental firestone",
+      "30 yard dumpster rental firestone",
+      "firestone dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Firestone, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for basement finishes, roofing tear-offs, cleanouts, and landscaping across Firestone and the Carbon Valley along I-25.",
+    introParagraphs: [
+      "Firestone is a Weld County town in the Carbon Valley along I-25, next to Frederick and east of Longmont. Historic Firestone holds the older homes. Most of the town is newer subdivisions built out from Firestone Boulevard toward Colorado Boulevard and Highway 119. Those homes produce basement finishes, landscaping jobs, hail-season roofing, and cleanouts. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Firestone code treats a dumpster in the street as an obstruction. Municipal Code 12.12.010 makes it unlawful to obstruct any street, alley, sidewalk, or other public right-of-way with debris or other material without a Town permit. The application goes to the Town Clerk with a traffic control plan, the dates and hours, and a map of the obstructed area. The Town Engineering Division also runs right-of-way permits for any street occupancy or traffic control. Every contractor working in Firestone needs a Town contractor license.",
+      "Rolloff Dumpster Finder helps Firestone homeowners and contractors compare roll-off options across the Carbon Valley and the I-25 corridor. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Driveway placement is the simple path in most Firestone subdivisions."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Basement Finishes",
+            "description": "Many Firestone homes are newer builds with unfinished basements. Finishing one produces drywall scraps, framing offcuts, and packaging. A 15 or 20-yard covers most single-basement jobs."
+      },
+      {
+            "number": "02",
+            "name": "New-Home Landscaping",
+            "description": "Sod removal, rock, and soil from yard projects are heavy. Use a 10-yard or a heavy-debris container for dirt and rock. Keep green waste separate if the provider prices it differently."
+      },
+      {
+            "number": "03",
+            "name": "Roofing Tear-Offs",
+            "description": "Firestone sits in the Front Range hail belt. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "04",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "05",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "06",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "07",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "08",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "09",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Firestone depends on your driveway, HOA rules, and Town permits for anything that obstructs a street, alley, or sidewalk.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup and keeps the job out of Town street permits.",
+      "Municipal Code 12.12.010 makes it unlawful to obstruct a street, alley, sidewalk, or other public right-of-way with debris or other material without a Town permit.",
+      "A street obstruction application goes to the Town Clerk with a traffic control plan, dates and hours, the closure method, and a map of the obstructed area. Permits are limited to the least intrusive option for as short a time as possible.",
+      "The Engineering Division requires a Right of Way Permit for street occupancy or temporary traffic control in Town right-of-way. Check with the Town before planning street placement; fees and lead times depend on which permit applies.",
+      "Any contractor working in Firestone needs a Town contractor license, which is verified before a permit is issued.",
+      "Measure driveway length and width. Tell the provider about HOA rules and tight cul-de-sacs when you book.",
+      "When in doubt, confirm placement requirements with the Town of Firestone and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Historic Firestone",
+      "Firestone Boulevard corridor",
+      "Colorado Boulevard corridor",
+      "Highway 119 corridor",
+      "I-25 Frontage Road corridor",
+      "St. Vrain Ranch",
+      "Saddleback",
+      "Firestone Trail edge"
+    ],
+    nearbyCities: [
+      "Frederick",
+      "Longmont",
+      "Erie",
+      "Dacono",
+      "Mead",
+      "Lafayette",
+      "Broomfield",
+      "Johnstown",
+      "Greeley",
+      "Thornton"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Firestone, CO?",
+            "answer": "Quotes in Firestone are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare. Driveway placement keeps a street permit off the bill."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Firestone, Colorado?",
+            "answer": "For the street, yes. Firestone code makes it unlawful to obstruct a street, alley, or sidewalk with material without a Town permit, and the application needs a traffic control plan and a map. The Engineering Division also runs right-of-way permits. Check with the Town before planning street placement. A container on your own driveway stays out of that process."
+      },
+      {
+            "question": "What size dumpster for a Firestone home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Firestone?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Firestone?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "How quickly can I get delivery in Firestone?",
+            "answer": "Delivery timing depends on the provider, your address, and the season. Driveway placement is the faster route. A street placement waits on Town review of the traffic control plan."
+      },
+      {
+            "question": "Do you serve nearby cities like Frederick, Longmont, and Erie?",
+            "answer": "Rolloff Dumpster Finder helps customers across the Carbon Valley and north metro, including Longmont, Erie, Lafayette, and Broomfield. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Firestone?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking. If you have a Town street permit, keep the permit dates and the rental dates lined up."
+      },
+      {
+            "question": "Are there items I cannot put in a Firestone dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    latitude: 40.1125,
+    longitude: -104.9367,
+    pricingPlacementNote: "Street or right-of-way placement in Firestone requires a Town permit with a traffic control plan, which is not included in rental pricing. Driveway placement is the practical default.",
+  },
 ]

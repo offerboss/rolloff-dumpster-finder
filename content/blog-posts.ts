@@ -9620,4 +9620,275 @@ export const blogPosts: BlogPost[] = [
       { id: 'faq', title: 'Straight Answers' },
     ],
   },
+
+  {
+    slug: 'boulder-county-dumpster-permits',
+    title: 'Boulder County Dumpster Permits: Louisville, Lafayette, Superior, Erie & Firestone',
+    excerpt:
+      'Five northwest metro cities, five different street rules. Louisville wants a permit even on the driveway, Erie is free with 5 days notice, and Lafayette wants a bonded contractor.',
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/urban-street-dumpster-rental.png',
+    coverImageAlt: 'Roll-off dumpster placed along a residential street',
+    date: '2026-10-20',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Boulder County dumpster permit guide for Louisville, Lafayette, Superior, Erie, and Firestone: driveway vs. street rules, published fees, lead times, and HOA notes.',
+    readingTime: 7,
+    keywords: [
+      "boulder county dumpster permits",
+      "louisville co dumpster permit",
+      "lafayette co dumpster permit",
+      "erie co dumpster permit",
+      "superior co dumpster permit",
+      "firestone co dumpster permit"
+    ],
+    body: `
+<p>Five cities on the same stretch of the northwest metro, five different answers to one question: can the dumpster go in the street?</p>
+
+<p>The short answer on Boulder County dumpster permits: put the container on your own driveway whenever you can. Louisville is the exception, because it wants a City permit even on private property. Erie offers a free street permit. Lafayette wants a licensed, bonded contractor on any right-of-way permit. Superior treats an unpermitted street dumpster as a nuisance. Firestone, just over the line in Weld County, treats it as a street obstruction that needs a traffic control plan.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Driveway first. In Louisville, get the Temporary Use Permit before delivery even on a driveway. In Erie, a street bin needs a free Town permit filed 5 days ahead. In Lafayette, Superior, and Firestone, a street bin means a real right-of-way process. Check the city page for your address before the truck is booked.</p>
+</div>
+
+<h2 id="compare">The Five Cities Side by Side</h2>
+
+<div class="not-prose my-8 overflow-x-auto">
+<table class="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
+  <thead class="bg-gray-50">
+    <tr>
+      <th class="px-4 py-3 text-left font-semibold">City</th>
+      <th class="px-4 py-3 text-left font-semibold">Private driveway</th>
+      <th class="px-4 py-3 text-left font-semibold">Street or right-of-way</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="border-t"><td class="px-4 py-3">Louisville</td><td class="px-4 py-3">Temporary Use Permit required; up to 30 days in 12 months</td><td class="px-4 py-3">Public Works ROW permit: $75 base fee + $75/week for a roll-off</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Lafayette</td><td class="px-4 py-3">No ROW permit</td><td class="px-4 py-3">ROW permit; licensed contractor + $5,000 street-cut bond</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Superior</td><td class="px-4 py-3">Town asks for driveway placement</td><td class="px-4 py-3">Nuisance unless expressly permitted; Public Works Dumpster Permit</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Erie</td><td class="px-4 py-3">No permit</td><td class="px-4 py-3">Free Town permit, 5 days ahead, up to 60 days + 60</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Firestone</td><td class="px-4 py-3">No street permit</td><td class="px-4 py-3">Town permit with traffic control plan and map</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="louisville">Louisville: A Permit Even on the Driveway</h2>
+
+<p>Louisville requires a <a href="https://www.louisvilleco.gov/media/5u4cwlit/temporary-use-dumpsters-roll-offs-portable-storage-units.pdf" target="_blank" rel="noopener noreferrer">Temporary Use Permit</a> for a dumpster, roll-off, or portable storage unit on private property. You submit it through the City portal with a site plan that shows the container, the streets, and the alleys. It runs no more than 30 days in any 12-month period. Roll-off and dumpster permits can be renewed in 30-day extensions when the job has an active building permit. Containers cannot sit in a vision clearance area.</p>
+
+<p>Street placement is a separate Public Works job. The City <a href="https://www.louisvilleco.gov/departments/public-works/get-a-right-of-way-or-easement-permit/" target="_blank" rel="noopener noreferrer">right-of-way permit page</a> lists a $75 base fee and $75 per week for storage of materials such as a roll-off dumpster. Start before the permit is issued and the fees double. Details: <a href="/locations/louisville-co-dumpster-rental">Louisville</a>.</p>
+
+<!--survey-mid-->
+
+<h2 id="lafayette">Lafayette: The Contractor Carries the Permit</h2>
+
+<p>Lafayette's <a href="https://www.lafayetteco.gov/208/Right-Of-Way-Permit" target="_blank" rel="noopener noreferrer">right-of-way permit page</a> names roll-offs, dumpsters, and storage containers among the items that need a permit under City Code Chapter 105. Every contractor on the permit, including the dumpster company, needs a City of Lafayette contractor license and a $5,000 street-cut bond. Council approved an updated ROW fee schedule on July 9, 2026. Ask your provider if it is licensed in Lafayette before you plan on the street. Details: <a href="/locations/lafayette-co-dumpster-rental">Lafayette</a>.</p>
+
+<h2 id="superior">Superior: Keep It Off the Street</h2>
+
+<p>Superior Municipal Code Sec. 7-1-90 lists dumpsters, roll-offs, and trash bins on public rights-of-way as a nuisance unless the Town expressly permits them. Town code enforcement has asked contractors and residents to move them onto private driveways. Public Works publishes a Dumpster Permit application; call 303-499-3675 for current requirements. Details: <a href="/locations/superior-co-dumpster-rental">Superior</a>.</p>
+
+<h2 id="erie">Erie: Free, but File Early</h2>
+
+<p>Erie's <a href="https://erieco.gov/1828/Dumpster-Storage-Roll-Off-Permit" target="_blank" rel="noopener noreferrer">Dumpster, Storage, Landscape, Roll-Off Permit</a> is free. File it with the Town Clerk at least 5 days before placement on a street, alley, or other right-of-way. It runs up to 60 days and can be extended once for another 60 if approved before it expires. No permit is needed on a private driveway. The Town also warns that an HOA can set stricter removal deadlines, and those still apply. Details: <a href="/locations/erie-co-dumpster-rental">Erie</a>.</p>
+
+<h2 id="firestone">Firestone: A Street Obstruction Permit</h2>
+
+<p>Firestone Municipal Code 12.12.010 makes it unlawful to obstruct a street, alley, sidewalk, or other right-of-way with material without a Town permit. The application goes to the Town Clerk with a traffic control plan, dates and hours, and a map. The Engineering Division also runs <a href="https://firestoneco.gov/637/Right-of-Way-Permits" target="_blank" rel="noopener noreferrer">right-of-way permits</a> for street occupancy and traffic control. Call the Town to confirm which one your placement needs. Details: <a href="/locations/firestone-co-dumpster-rental">Firestone</a>.</p>
+
+<h2 id="skip-street">When Not to Bother With the Street</h2>
+
+<p>Skip street placement when the driveway fits the container. On most single-home jobs in these five cities the driveway is faster, cheaper, and keeps the HOA quiet. The street makes sense when there is no driveway, the driveway is too short, or the crew needs the bin within reach of a tear-off and the Town agrees.</p>
+
+<p>For quote mechanics in the same five cities, read <a href="/resources/boulder-county-dumpster-rental-cost">Boulder County dumpster rental cost</a>. Neighbors to the east and south have their own rules: see <a href="/locations/broomfield-co-dumpster-rental">Broomfield</a>, <a href="/locations/boulder-co-dumpster-rental">Boulder</a>, and <a href="/locations/longmont-co-dumpster-rental">Longmont</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "Do I need a permit for a dumpster on my driveway in Boulder County?",
+            "answer": "In Louisville, yes: the City requires a Temporary Use Permit even on private property. In Lafayette, Superior, Erie, and Firestone, the published street permits do not apply to a container on your own driveway. HOA rules can still apply."
+      },
+      {
+            "question": "Which city has the easiest street permit?",
+            "answer": "Erie. The Town permit is free and needs to be filed with the Town Clerk at least 5 days ahead. It runs up to 60 days with one 60-day extension."
+      },
+      {
+            "question": "Who pulls the permit in Lafayette?",
+            "answer": "The permit lists the contractor, and every contractor including the dumpster company needs a City of Lafayette contractor license and a $5,000 street-cut bond. Ask your provider before you plan on the street."
+      },
+      {
+            "question": "How long can a dumpster stay in Louisville?",
+            "answer": "A private-property Temporary Use Permit runs up to 30 days in any 12-month period. Roll-off permits can be renewed in 30-day extensions when the job has an active building permit."
+      },
+      {
+            "question": "Can I put a dumpster in the street in Superior?",
+            "answer": "Only with Town permission. Superior code treats unpermitted dumpsters and roll-offs on public rights-of-way as a nuisance. Call Public Works at 303-499-3675 about the Dumpster Permit."
+      }
+    ],
+    toc: [
+      {
+            "id": "compare",
+            "title": "The Five Cities Side by Side"
+      },
+      {
+            "id": "louisville",
+            "title": "Louisville: A Permit Even on the Driveway"
+      },
+      {
+            "id": "lafayette",
+            "title": "Lafayette: The Contractor Carries the Permit"
+      },
+      {
+            "id": "superior",
+            "title": "Superior: Keep It Off the Street"
+      },
+      {
+            "id": "erie",
+            "title": "Erie: Free, but File Early"
+      },
+      {
+            "id": "firestone",
+            "title": "Firestone: A Street Obstruction Permit"
+      },
+      {
+            "id": "skip-street",
+            "title": "When Not to Bother With the Street"
+      },
+      {
+            "id": "faq",
+            "title": "Straight Answers"
+      }
+    ],
+  },
+
+  {
+    slug: 'boulder-county-dumpster-rental-cost',
+    title: 'Boulder County Dumpster Rental Cost: How Quotes Are Built',
+    excerpt:
+      'How east Boulder County roll-off quotes are built: size, included tons, overage, rental days, and the city permits you can actually look up in Louisville, Lafayette, Superior, Erie, and Firestone.',
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/denver-metro-roll-off-dumpster-rentals.png',
+    coverImageAlt: 'Roll-off dumpster at a Front Range residential project',
+    date: '2026-10-20',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Boulder County dumpster rental cost guide: how roll-off quotes are priced, what to ask every provider, and verified city permit costs for Louisville, Lafayette, and Erie.',
+    readingTime: 6,
+    keywords: [
+      "boulder county dumpster rental cost",
+      "boulder county dumpster rental",
+      "dumpster rental cost louisville co",
+      "dumpster rental cost erie co",
+      "lafayette co dumpster rental cost",
+      "how much is a dumpster in boulder county"
+    ],
+    body: `
+<p>A dumpster quote in east Boulder County is four or five numbers stacked together. Read each one and the invoice will not surprise you.</p>
+
+<p>The short answer on Boulder County dumpster rental cost: the price is built from the container size, the weight it includes, the per-ton overage, the rental days, and delivery to your address. City permits sit on top. I am not publishing a price table for Louisville, Lafayette, Superior, Erie, or Firestone, because I do not have a sourced one. Here is how to read the quote instead.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Get at least two quotes for the same size and the same rental days. Compare included tons, overage per ton, extension fee, and who pulls the permit. In Louisville, add the City Temporary Use Permit even on a driveway. Street placement adds a city process everywhere.</p>
+</div>
+
+<h2 id="how-priced">How a Roll-Off Quote Is Built</h2>
+
+<ul>
+  <li><strong>Container size.</strong> 10, 15, 20, 30, or 40 yards. Bigger costs more, but one larger container can beat two hauls.</li>
+  <li><strong>Included weight.</strong> Every quote includes a tonnage allowance. Shingles, tile, concrete, and soil hit it fast.</li>
+  <li><strong>Overage per ton.</strong> The line that turns a fair quote into an ugly invoice. Get it in writing.</li>
+  <li><strong>Rental period and extensions.</strong> Ask how many days are included and what each extra day costs.</li>
+  <li><strong>Delivery address.</strong> Distance from the yard and site access both matter.</li>
+  <li><strong>Debris type.</strong> Clean yard waste, clean concrete, and mixed construction debris can be priced differently.</li>
+</ul>
+
+<p>For the national version of this breakdown, read <a href="/resources/what-does-a-dumpster-rental-cost">what does a dumpster rental cost</a>.</p>
+
+<!--survey-mid-->
+
+<h2 id="permits">Permits Are the Line Items You Can Look Up</h2>
+
+<p>These are the published city numbers I could verify:</p>
+
+<ul>
+  <li><a href="/locations/louisville-co-dumpster-rental">Louisville</a>: a Temporary Use Permit is required even on private property. Street placement uses the Public Works right-of-way permit, which lists a $75 base fee and $75 per week for a roll-off (<a href="https://www.louisvilleco.gov/departments/public-works/get-a-right-of-way-or-easement-permit/" target="_blank" rel="noopener noreferrer">City of Louisville</a>).</li>
+  <li><a href="/locations/lafayette-co-dumpster-rental">Lafayette</a>: street placement needs a ROW permit, and the contractor needs a City license and a $5,000 street-cut bond (<a href="https://www.lafayetteco.gov/208/Right-Of-Way-Permit" target="_blank" rel="noopener noreferrer">City of Lafayette</a>).</li>
+  <li><a href="/locations/erie-co-dumpster-rental">Erie</a>: the street permit is free (<a href="https://erieco.gov/1828/Dumpster-Storage-Roll-Off-Permit" target="_blank" rel="noopener noreferrer">Town of Erie</a>).</li>
+  <li><a href="/locations/superior-co-dumpster-rental">Superior</a> and <a href="/locations/firestone-co-dumpster-rental">Firestone</a>: street placement needs Town permission. Call the Town for the current fee.</li>
+</ul>
+
+<p>The full rules are in the <a href="/resources/boulder-county-dumpster-permits">Boulder County dumpster permit guide</a>.</p>
+
+<h2 id="sizing">Size the Job Before You Price It</h2>
+
+<p>Most single-home jobs in these cities land in a 10, 15, or 20-yard. A garage cleanout fits a 10. A kitchen remodel fits a 15. A roof tear-off or full-home cleanout fits a 20 by volume, with weight as the catch. Basement finishes in newer Erie and Firestone homes usually land in a 15 or 20. For heavy loads, read <a href="/resources/roofing-dumpster-rental">roofing dumpster rental</a> before the crew starts.</p>
+
+<h2 id="skip-it">When Not to Rent a Dumpster</h2>
+
+<p>Skip the roll-off when the load is a few pieces of furniture and a pile of boxes. A junk removal crew or your hauler's bulk pickup can cost less than any container. Skip it in Louisville when the job will run past 30 days without an active building permit, because the City permit will not stretch to cover it.</p>
+
+<h2 id="quote-checklist">What to Ask Every Provider</h2>
+
+<ul>
+  <li>Container size and included tons</li>
+  <li>Overage per ton</li>
+  <li>Included rental days and the daily extension charge</li>
+  <li>Delivery and any trip fee for your address</li>
+  <li>Who pulls the city permit if the bin cannot go on the driveway</li>
+</ul>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "How much does a dumpster cost in Boulder County?",
+            "answer": "It depends on size, included tons, overage per ton, rental days, delivery, and debris type. Get two quotes for the same size and the same days and compare every line. I do not publish an unsourced price table for these cities."
+      },
+      {
+            "question": "What permit costs can I plan for?",
+            "answer": "Louisville lists a $75 base fee plus $75 per week for a roll-off in the right-of-way, and requires a Temporary Use Permit even on private property. Erie street permits are free. Lafayette requires a licensed contractor with a $5,000 street-cut bond. Superior and Firestone: call the Town."
+      },
+      {
+            "question": "What makes a quote jump after the job?",
+            "answer": "Weight. Shingles, tile, concrete, and soil push past the included tons fast. Get the overage per ton in writing before loading."
+      },
+      {
+            "question": "Is a bigger dumpster cheaper per yard?",
+            "answer": "Often, but not always. Compare one larger container against two hauls of a smaller one using the same provider quote."
+      },
+      {
+            "question": "When should I skip the dumpster?",
+            "answer": "When the load is a few pieces of furniture or a handful of boxes. Junk removal or a bulk pickup can cost less than any container."
+      }
+    ],
+    toc: [
+      {
+            "id": "how-priced",
+            "title": "How a Roll-Off Quote Is Built"
+      },
+      {
+            "id": "permits",
+            "title": "Permits Are the Line Items You Can Look Up"
+      },
+      {
+            "id": "sizing",
+            "title": "Size the Job Before You Price It"
+      },
+      {
+            "id": "skip-it",
+            "title": "When Not to Rent a Dumpster"
+      },
+      {
+            "id": "quote-checklist",
+            "title": "What to Ask Every Provider"
+      },
+      {
+            "id": "faq",
+            "title": "Straight Answers"
+      }
+    ],
+  },
 ]

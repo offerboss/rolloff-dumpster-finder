@@ -995,5 +995,47 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/louisville-co-dumpster-rental',
+      lastModified: new Date('2026-10-20'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/lafayette-co-dumpster-rental',
+      lastModified: new Date('2026-10-20'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/superior-co-dumpster-rental',
+      lastModified: new Date('2026-10-20'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/erie-co-dumpster-rental',
+      lastModified: new Date('2026-10-20'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/firestone-co-dumpster-rental',
+      lastModified: new Date('2026-10-20'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/boulder-county-dumpster-permits',
+      lastModified: new Date('2026-10-20'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/boulder-county-dumpster-rental-cost',
+      lastModified: new Date('2026-10-20'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
 ]
 }

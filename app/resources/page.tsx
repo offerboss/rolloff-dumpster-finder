@@ -328,6 +328,20 @@ const resourceCards = [
       'Tires, paint, and mattresses are prohibited at most companies. Here is what is typically accepted, what gets rejected at the landfill, and what triggers an extra disposal fee.',
     href: '/resources/what-can-and-cannot-go-in-a-dumpster',
   },
+  {
+    badge: 'Geo Guide',
+    title: 'Boulder County Dumpster Permits',
+    excerpt:
+      'Louisville, Lafayette, Superior, Erie, and Firestone side by side: which cities want a permit on the driveway, which street permits are free, and who has to be licensed and bonded.',
+    href: '/resources/boulder-county-dumpster-permits',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'Boulder County Dumpster Rental Cost',
+    excerpt:
+      'How east Boulder County roll-off quotes are built: size, included tons, overage, rental days, and the city permit costs you can actually look up.',
+    href: '/resources/boulder-county-dumpster-rental-cost',
+  },
 ]
 
 export default function ResourcesPage() {
