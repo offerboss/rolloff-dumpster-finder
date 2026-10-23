@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Utah Dumpster Rental Locations | Rolloff Dumpster Finder',
+  title: 'Utah Dumpster Rental Locations',
   description:
     'Find roll-off dumpster rental options across Utah for home cleanouts, roofing jobs, construction debris, estate cleanouts, and renovation projects.',
   alternates: {
@@ -64,7 +64,7 @@ const faqSchema = {
       name: 'How much does dumpster rental cost in Utah?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Pricing varies by city and container size. In the Salt Lake Valley, a 10-yard container typically runs $260–$440 per week. A 20-yard runs $360–$610. Mountain and rural markets may add for transport distance. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
+        text: 'Pricing varies by city and container size. Mountain and rural markets may add for transport distance. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
       },
     },
     {
@@ -178,7 +178,7 @@ const projects = [
 const faq = [
   {
     q: 'How much does dumpster rental cost in Utah?',
-    a: 'Pricing varies by city and container size. In the Salt Lake Valley, a 10-yard container typically runs $260–$440 per week. A 20-yard runs $360–$610. Mountain and rural markets may add for transport distance. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
+    a: 'Pricing varies by city and container size. Mountain and rural markets may add for transport distance. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
   },
   {
     q: 'What size dumpster do I need for a Utah home cleanout?',
@@ -470,8 +470,8 @@ export default function UtahLocationsPage() {
         <div className="max-w-[860px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4 rounded-sm border border-[#E8E4DE] bg-white p-6">
           <div className="flex-1">
             <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Pricing Guide</p>
-            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Utah Dumpster Rental Cost: Prices by Size and City</p>
-            <p className="text-[13px] text-[#566070] leading-[1.6]">Ogden runs $245–$410/week for a 10-yard — the lowest typical floor in the state. Salt Lake City and Sandy run $260–$440. St. George runs $270–$460. Here is the full Utah breakdown by market and container size.</p>
+            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Utah Dumpster Rental Cost: How Pricing Works</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">See how pricing works and what to ask before booking.</p>
           </div>
           <Link href="/resources/utah-dumpster-rental-cost" className="shrink-0 inline-block bg-orange text-black font-bold text-[13px] px-5 py-[10px] rounded-full hover:opacity-90 transition-opacity whitespace-nowrap">
             See Pricing Guide →

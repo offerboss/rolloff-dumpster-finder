@@ -10,10 +10,10 @@ const COVER_SRC =
 const DATE = '2026-06-13'
 const AUTHOR = 'Jake Harlow'
 const META_DESC =
-  'A 20-yard dumpster rental costs $350–$650 for a standard 7-day rental. Here is what fits, what the weight limits actually mean, and when to rent a different size.'
+  'A 20-yard dumpster is the most commonly rented roll-off size. Here is what fits, what the weight limits actually mean, and when to rent a different size.'
 
 export const metadata: Metadata = {
-  title: TITLE,
+  title: '20 Yard Dumpster Rental: Fits & Pricing',
   description: META_DESC,
   keywords: [
     '20 yard dumpster rental',
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
 const toc = [
   { id: 'what-it-looks-like', title: 'What a 20-Yard Container Actually Looks Like' },
   { id: 'what-fits', title: 'What Fits—and What to Reconsider' },
-  { id: 'cost', title: 'What a 20-Yard Dumpster Rental Costs' },
+  { id: 'cost', title: 'How a 20-Yard Dumpster Rental Is Priced' },
   { id: 'weight-limits', title: 'Weight Limits: The Number That Changes the Bill' },
   { id: 'placement', title: 'Driveway Placement and Site Access' },
   { id: 'rental-period', title: 'Rental Periods, Extensions, and Second Pulls' },
@@ -65,7 +65,7 @@ const faq = [
   {
     question: 'How much does a 20-yard dumpster rental cost?',
     answer:
-      'A 20-yard dumpster rental runs $350–$650 for a standard 7-day rental. The national average sits around $450 per week. Mountain states including Colorado typically run 10–20% above national averages due to longer haul distances to licensed landfills. Your final bill depends on how long you keep the container and what you load into it — weight overages are the most common surprise on the invoice.',
+      'Your final bill depends on how long you keep the container and what you load into it — weight overages are the most common surprise on the invoice.',
   },
   {
     question: 'What are the dimensions of a 20-yard roll-off container?',
@@ -80,7 +80,7 @@ const faq = [
   {
     question: 'What is the weight limit on a 20-yard dumpster?',
     answer:
-      'Most 20-yard roll-off containers include a weight allowance of 2–4 tons in the base rental rate. The exact number varies by provider and market — some price lean and allow 2 tons, others include 4 tons at a higher base rate. Ask specifically before booking: "How many tons are included in the weight limit?" Loads over that allowance incur overage charges of $40–$200 per extra ton.',
+      'Most 20-yard roll-off containers include a weight allowance of 2–4 tons in the base rental rate. The exact number varies by provider and market — some price lean and allow 2 tons, others include 4 tons at a higher base rate.',
   },
   {
     question: 'Can I put roofing shingles in a 20-yard dumpster?',
@@ -95,12 +95,12 @@ const faq = [
   {
     question: 'How long can I keep a 20-yard dumpster rental?',
     answer:
-      'Standard rental periods run 7–10 days. Extensions cost $5–$10 per day. If your project is likely to run longer, ask about extended rental pricing when you book — some companies offer a better all-in rate for a longer window upfront than if you call mid-rental to extend. A second pull, where the driver swaps a full container for an empty one, typically runs $150–$250 on top of the base rental rate.',
+      'Standard rental periods run 7–10 days. If your project is likely to run longer, ask about extended rental pricing when you book — some companies offer a better all-in rate for a longer window upfront than if you call mid-rental to extend.',
   },
   {
     question: 'When should I rent a 30-yard dumpster instead of a 20-yard?',
     answer:
-      'Rent a 30-yard when the project involves full home renovation across multiple rooms, a large basement cleanout, an estate clear-out from a large property, or commercial work. The cost gap between a 20-yard and a 30-yard is typically $50–$100 per week — less than the cost of a second haul if a 20-yard runs short. If you are genuinely uncertain, the 30-yard is the lower-risk choice.',
+      'Rent a 30-yard when the project involves full home renovation across multiple rooms, a large basement cleanout, an estate clear-out from a large property, or commercial work. If you are genuinely uncertain, the 30-yard is the lower-risk choice.',
   },
 ]
 
@@ -162,11 +162,11 @@ const faqSchema = {
 }
 
 const bodyHtml = `
-<p>The 20-yard dumpster is the most commonly rented roll-off container in the US. It handles a full roof tear-off, a whole-home cleanout, a kitchen remodel, or a deck removal &#8212; and at $350&#8211;$650 for a standard 7-day rental, it fits most residential project budgets. If you have never rented a container before and do not know which size to pick, the 20-yard is where most homeowners start. It is also where most overweight charges start. Those two facts are related, and I will get to that.</p>
+<p>The 20-yard dumpster is the most commonly rented roll-off container in the US. If you have never rented a container before and do not know which size to pick, the 20-yard is where most homeowners start. It is also where most overweight charges start. Those two facts are related, and I will get to that.</p>
 
 <div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
   <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
-  <p class="text-charcoal">A 20-yard rental runs <strong>$350&#8211;$650</strong> for 7 days. The container measures roughly 22 feet long by 8 feet wide by 4.5 feet high. Weight limit is typically 2&#8211;4 tons &#8212; that number matters more than the cubic-yard capacity when you are hauling shingles, tile, or concrete.</p>
+  <p class="text-charcoal">The container measures roughly 22 feet long by 8 feet wide by 4.5 feet high. Weight limit is typically 2&#8211;4 tons &#8212; that number matters more than the cubic-yard capacity when you are hauling shingles, tile, or concrete.</p>
 </div>
 
 <h2 id="what-it-looks-like">What a 20-Yard Container Actually Looks Like</h2>
@@ -257,7 +257,7 @@ const bodyHtml = `
 
 <p>For the full breakdown across all container sizes and project types, see the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a>.</p>
 
-<h2 id="cost">What a 20-Yard Dumpster Rental Costs</h2>
+<h2 id="cost">How a 20-Yard Dumpster Rental Is Priced</h2>
 
 <figure class="not-prose my-8">
   <img
@@ -270,48 +270,40 @@ const bodyHtml = `
   />
 </figure>
 
-<p>A 20-yard dumpster rental costs <strong>$350&#8211;$650</strong> for a standard 7-day rental. The national average is around $450 per week. Colorado and other mountain states typically run 10&#8211;20% above national averages because haul distances to licensed landfills are longer.</p>
 
-<p>Here is what moves the number within that range:</p>
+<p>The final bill is built from several line items, and each one varies by provider and market. Here is what moves the number:</p>
 
 <div class="not-prose my-6 overflow-x-auto">
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-charcoal text-white">
         <th class="px-4 py-3 text-left font-semibold">Line Item</th>
-        <th class="px-4 py-3 text-left font-semibold">Typical Range</th>
         <th class="px-4 py-3 text-left font-semibold">Notes</th>
       </tr>
     </thead>
     <tbody>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Base rental (7 days)</td>
-        <td class="px-4 py-3">$350&#8211;$650</td>
         <td class="px-4 py-3">Varies by market and provider</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Rental extension</td>
-        <td class="px-4 py-3">$5&#8211;$10/day</td>
         <td class="px-4 py-3">Ask upfront if the project may run long</td>
       </tr>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Overweight charge</td>
-        <td class="px-4 py-3">$40&#8211;$200/ton</td>
         <td class="px-4 py-3">Per ton above the included weight limit</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Fuel surcharge</td>
-        <td class="px-4 py-3">$15&#8211;$35</td>
         <td class="px-4 py-3">Most companies include this in the quote</td>
       </tr>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Second pull (swap-out)</td>
-        <td class="px-4 py-3">$150&#8211;$250</td>
         <td class="px-4 py-3">Full container picked up, empty returned</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Prohibited material fee</td>
-        <td class="px-4 py-3">$25&#8211;$100+</td>
         <td class="px-4 py-3">Tires, paint, appliances, hazmat</td>
       </tr>
     </tbody>
@@ -374,9 +366,9 @@ const bodyHtml = `
 
 <p>Standard 20-yard rentals run <strong>7&#8211;10 days</strong>. Most homeowners finish their project inside that window. Most contractors do not.</p>
 
-<p>Extensions cost $5&#8211;$10 per day. If you know the project will run longer than 10 days, ask about extended rental pricing when you book &#8212; some operators offer a better flat rate for a longer window upfront than if you call midway through to extend. The company would rather know early. The driver would rather not make an unexpected trip.</p>
+<p>If you know the project will run longer than 10 days, ask about extended rental pricing when you book &#8212; some operators offer a better flat rate for a longer window upfront than if you call midway through to extend. The company would rather know early. The driver would rather not make an unexpected trip.</p>
 
-<p>A <strong>second pull</strong> is when the driver picks up a full container and drops an empty one in its place. This runs $150&#8211;$250 on top of the original rental and is the right move when the project generates more debris than expected. Ordering a second pull is not a failure of planning &#8212; it is cheaper than renting a larger container that spends three days sitting mostly empty before work picks up.</p>
+<p>A <strong>second pull</strong> is when the driver picks up a full container and drops an empty one in its place. Ordering a second pull is not a failure of planning &#8212; it is cheaper than renting a larger container that spends three days sitting mostly empty before work picks up.</p>
 
 <p>Contractors and property managers running multi-phase projects sometimes do better with a standing rental arrangement &#8212; where the container stays onsite and gets pulled on a scheduled cycle &#8212; rather than booking individual hauls. Ask the operator if they offer that structure for your market. Not all do, but it is worth the question if you have ongoing work at a site.</p>
 
@@ -386,13 +378,13 @@ const bodyHtml = `
 
 <p><strong>Step down to a 10 or 15-yard</strong> when the project is a single-room remodel, a garage cleanout without heavy accumulation, a small yard cleanup, or a light landlord turnover. You will pay less and fill the container properly rather than paying for capacity you do not use. For the full details on the 10-yard &#8212; what it holds, how the weight limit works for concrete and tile, and when it fits in driveways that a 20-yard cannot reach &#8212; see the <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster rental guide</a>.</p>
 
-<p><strong>Step up to a 30-yard</strong> when the project involves full home renovation across multiple rooms, a large basement cleanout, a complete estate clear-out, or commercial work. The price gap between a 20-yard and a 30-yard is roughly $50&#8211;$100 per week &#8212; less than the cost of a second haul if the 20-yard runs short. When genuinely uncertain between two sizes, take the larger one. For dimensions, weight limits, and the full breakdown on what the 30-yard handles, see the <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard dumpster rental guide</a>.</p>
+<p><strong>Step up to a 30-yard</strong> when the project involves full home renovation across multiple rooms, a large basement cleanout, a complete estate clear-out, or commercial work. When genuinely uncertain between two sizes, take the larger one. For dimensions, weight limits, and the full breakdown on what the 30-yard handles, see the <a href="/resources/30-yard-dumpster-rental" class="text-orange hover:underline">30-yard dumpster rental guide</a>.</p>
 
 <p><strong>Do not rent a 20-yard for concrete-heavy work.</strong> This is the one situation where more volume does not help you. A concrete driveway removal, a foundation section, or significant masonry demolition will push a 20-yard past its weight limit at less than half capacity. Ask the rental company about heavy-debris containers or concrete-specific options. Some markets have them. If yours doesn't, plan for multiple smaller pulls with a lower-capacity container that has a stronger weight allowance.</p>
 
 <p>For construction job sites with ongoing debris &#8212; framing, drywall, fixtures, and mixed materials &#8212; the logistics change beyond just the container size. The <a href="/resources/renting-a-construction-dumpster" class="text-orange hover:underline">construction dumpster rental guide</a> covers permit timing, pull scheduling, and what changes when a container lives on a job site instead of a driveway.</p>
 
-<p>One honest piece of advice: the overweight charge is the one that surprises people. Not the rental price, not the extension fee &#8212; the overweight charge. Call the company, ask for the weight limit in tons, write it down. The call takes 60 seconds. The charge typically runs $80&#8211;$400 and arrives three days after you thought the project was finished. Your choice.</p>
+<p>One honest piece of advice: the overweight charge is the one that surprises people. Not the rental price, not the extension fee &#8212; the overweight charge. Call the company, ask for the weight limit in tons, write it down. The call takes 60 seconds.</p>
 `
 
 export default function TwentyYardDumpsterRentalPage() {

@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Texas Dumpster Rental Locations | Rolloff Dumpster Finder',
+  title: 'Texas Dumpster Rental Locations',
   description:
     'Find roll-off dumpster rental options across Texas for home cleanouts, roofing tear-offs, storm cleanup, construction debris, and renovation projects.',
   alternates: {
@@ -64,7 +64,7 @@ const faqSchema = {
       name: 'How much does dumpster rental cost in Texas?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Pricing varies by city and container size. Texas markets differ significantly — Dallas-Fort Worth and Houston tend to run similar ranges to other large metros. A 10-yard container typically runs $250–$450 per week depending on market. A 20-yard runs $350–$650. Get an itemized quote specific to your city — fuel surcharges and disposal fees vary by provider.',
+        text: 'Pricing varies by city and container size. Texas markets differ significantly — Dallas-Fort Worth and Houston tend to run similar ranges to other large metros. Get an itemized quote specific to your city — fuel surcharges and disposal fees vary by provider.',
       },
     },
     {
@@ -213,7 +213,7 @@ const projects = [
 const faq = [
   {
     q: 'How much does dumpster rental cost in Texas?',
-    a: 'Pricing varies by city and container size. Texas markets differ significantly — Dallas-Fort Worth and Houston tend to run similar ranges to other large metros. A 10-yard container typically runs $250–$450 per week. A 20-yard runs $350–$650. Get an itemized quote specific to your city — fuel surcharges and disposal fees vary by provider and market.',
+    a: 'Pricing varies by city and container size. Texas markets differ significantly — Dallas-Fort Worth and Houston tend to run similar ranges to other large metros. Get an itemized quote specific to your city — fuel surcharges and disposal fees vary by provider and market.',
   },
   {
     q: 'Can I get a dumpster for hail damage or storm cleanup in Texas?',
@@ -237,7 +237,7 @@ const faq = [
   },
   {
     q: 'How long can I keep a dumpster rental in Texas?',
-    a: 'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day depending on the provider and market. If the project will run long, ask about extended pricing when you book.',
+    a: 'Standard rental periods run 7–10 days. If the project will run long, ask about extended pricing when you book.',
   },
   {
     q: 'Are there items I cannot put in a Texas dumpster?',
@@ -523,8 +523,8 @@ export default function TexasLocationsPage() {
         <div className="max-w-[860px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4 rounded-sm border border-[#E8E4DE] bg-white p-6">
           <div className="flex-1">
             <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Pricing Guide</p>
-            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Texas Dumpster Rental Cost: Prices by Size and Metro</p>
-            <p className="text-[13px] text-[#566070] leading-[1.6]">Dallas, Fort Worth, and Houston all run $250–$430/week for a 10-yard. San Antonio runs slightly lower. Here is how pricing breaks down across all Texas markets by container size.</p>
+            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Texas Dumpster Rental Cost: How Pricing Works</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">See how pricing works and what to ask before booking.</p>
           </div>
           <Link
             href="/resources/texas-dumpster-rental-cost"

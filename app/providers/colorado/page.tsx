@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { coloradoProviders } from '@/content/providers'
 
 export const metadata: Metadata = {
-  title: 'Colorado Dumpster Rental Companies | Provider Directory',
+  title: 'Colorado Dumpster Rental Companies',
   description:
     'Browse roll-off dumpster rental companies serving Colorado by region. Listings are compiled from public business information and have not yet been confirmed by providers.',
   alternates: {

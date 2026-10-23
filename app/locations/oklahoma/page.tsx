@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Oklahoma Dumpster Rental Locations | Rolloff Dumpster Finder',
+  title: 'Oklahoma Dumpster Rental Locations',
   description:
     'Find roll-off dumpster rental options across Oklahoma for tornado and storm cleanup, home cleanouts, roofing tear-offs, and construction debris.',
   alternates: {
@@ -64,7 +64,7 @@ const faqSchema = {
       name: 'How much does dumpster rental cost in Oklahoma?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'A 10-yard container runs $250–$420 in Oklahoma City and Tulsa metro markets. Smaller markets like Lawton may run slightly higher due to fewer providers. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
+        text: 'Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
       },
     },
     {
@@ -193,7 +193,7 @@ const projects = [
 const faq = [
   {
     q: 'How much does dumpster rental cost in Oklahoma?',
-    a: 'A 10-yard container runs $250–$420 in Oklahoma City and Tulsa metro markets. Smaller markets like Lawton may run slightly higher due to fewer providers. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
+    a: 'Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
   },
   {
     q: 'Can I get a dumpster for tornado or storm cleanup?',
@@ -479,8 +479,8 @@ export default function OklahomaLocationsPage() {
         <div className="max-w-[860px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4 rounded-sm border border-[#E8E4DE] bg-white p-6">
           <div className="flex-1">
             <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Pricing Guide</p>
-            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Oklahoma Dumpster Rental Cost: Prices by Market and Size</p>
-            <p className="text-[13px] text-[#566070] leading-[1.6]">Oklahoma City, Tulsa, and most markets run $250–$420/week for a 10-yard. Here is how pricing breaks down across all ten Oklahoma markets by container size.</p>
+            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Oklahoma Dumpster Rental Cost: How Pricing Works</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">See how pricing works and what to ask before booking.</p>
           </div>
           <Link
             href="/resources/oklahoma-dumpster-rental-cost"

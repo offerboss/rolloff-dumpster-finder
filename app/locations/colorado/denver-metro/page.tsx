@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Roll-Off Dumpster Rentals in the Denver Metro Area',
+  title: 'Denver Metro Roll-Off Dumpster Rentals',
   description:
     'Compare roll-off dumpster rental options across Denver, Aurora, Lakewood, Arvada, Westminster, Thornton, Littleton, and surrounding Colorado communities.',
   alternates: {
@@ -70,7 +70,7 @@ const faqSchema = {
       name: 'How much does a dumpster rental cost in the Denver metro area?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'A 10-yard container in Denver metro markets commonly runs $280–$480 per week. A 20-yard is typically $380–$650. The final cost depends on container size, the weight of what goes in, rental duration, and the specific provider and delivery location. Always ask for a quote that includes the weight allowance — not just the base rental rate.',
+        text: 'The final cost depends on container size, the weight of what goes in, rental duration, and the specific provider and delivery location. Always ask for a quote that includes the weight allowance — not just the base rental rate.',
       },
     },
     {
@@ -110,7 +110,7 @@ const faqSchema = {
       name: 'How long can I keep a dumpster rental in the Denver metro?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Standard rental periods typically run 7 to 14 days. Extension rates are usually $5–$15 per day depending on the container size. Call your provider before the rental period ends — extending is almost always cheaper than paying for a second haul.',
+        text: 'Standard rental periods typically run 7 to 14 days. Call your provider before the rental period ends — extending is almost always cheaper than paying for a second haul.',
       },
     },
     {
@@ -331,7 +331,7 @@ const projects = [
 const faq = [
   {
     q: 'How much does a dumpster rental cost in the Denver metro area?',
-    a: 'A 10-yard container in Denver metro markets commonly runs $280–$480 per week. A 20-yard is typically $380–$650. The final cost depends on container size, the weight of what goes in, rental duration, and the specific provider and delivery location. Always ask for a quote that includes the weight allowance — not just the base rental rate.',
+    a: 'The final cost depends on container size, the weight of what goes in, rental duration, and the specific provider and delivery location. Always ask for a quote that includes the weight allowance — not just the base rental rate.',
   },
   {
     q: 'What dumpster size is best for a home cleanout in the Denver metro?',
@@ -355,7 +355,7 @@ const faq = [
   },
   {
     q: 'How long can I keep a rental dumpster in the Denver metro?',
-    a: 'Standard rental periods typically run 7 to 14 days. Extension rates are usually $5–$15 per day depending on the container size. Call your provider before the rental period ends — extending is almost always cheaper than paying for a second haul.',
+    a: 'Standard rental periods typically run 7 to 14 days. Call your provider before the rental period ends — extending is almost always cheaper than paying for a second haul.',
   },
   {
     q: 'How far in advance should I reserve a dumpster in the Denver metro?',

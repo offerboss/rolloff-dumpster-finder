@@ -12,7 +12,7 @@ const META_DESC =
   'A 40-yard dumpster rental is right for new construction and large demolitions. Here is when it fits, what it costs, and when the 30-yard is the smarter call.'
 
 export const metadata: Metadata = {
-  title: TITLE,
+  title: '40 Yard Dumpster Rental: When It Fits',
   description: META_DESC,
   keywords: [
     '40 yard dumpster rental',
@@ -55,7 +55,7 @@ const toc = [
   { id: 'what-it-looks-like', title: 'What a 40-Yard Container Actually Looks Like' },
   { id: 'what-fits', title: 'What the 40-Yard Is Built For — and What It Is Not' },
   { id: 'weight-limits', title: 'Why the Biggest Container Can Still Hit Weight Limits First' },
-  { id: 'cost', title: 'What a 40-Yard Dumpster Rental Costs' },
+  { id: 'cost', title: 'How a 40-Yard Dumpster Rental Is Priced' },
   { id: 'placement', title: 'Placement, Site Access, and Overhead Clearance' },
   { id: 'rental-period', title: 'Rental Period and Multi-Pull Scheduling' },
   { id: 'sizing-down', title: 'When a 30-Yard Is the Right Call' },
@@ -67,7 +67,7 @@ const faq = [
   {
     question: 'How much does a 40-yard dumpster rental cost?',
     answer:
-      'A 40-yard dumpster rental typically runs $600–$900 or more per week for a standard 7-day rental. Exact pricing depends on your market, the weight limit included in the base rate, and your distance from the nearest licensed landfill. Mountain states and rural markets often run higher. Your final bill reflects base rental, any weight overages, and the cost of additional pulls if needed.',
+      'Exact pricing depends on your market, the weight limit included in the base rate, and your distance from the nearest licensed landfill. Your final bill reflects base rental, any weight overages, and the cost of additional pulls if needed.',
   },
   {
     question: 'What are the dimensions of a 40-yard roll-off container?',
@@ -97,12 +97,12 @@ const faq = [
   {
     question: 'How long can I keep a 40-yard dumpster?',
     answer:
-      'Standard rental periods run 7–10 days. Extensions typically cost $10–$20 per day. Large construction projects usually plan multiple pulls from the start rather than holding a single container for weeks — a pull schedule set before the project begins usually gets better per-haul pricing than booking each pull separately. Ask about multi-pull pricing when you place the first order.',
+      'Standard rental periods run 7–10 days. Large construction projects usually plan multiple pulls from the start rather than holding a single container for weeks — a pull schedule set before the project begins usually gets better per-haul pricing than booking each pull separately. Ask about multi-pull pricing when you place the first order.',
   },
   {
     question: 'When should I use a 30-yard instead of a 40-yard?',
     answer:
-      'Use the 30-yard for most residential renovations, estate cleanouts, large home cleanouts, and standard commercial tenant improvements. The 30-yard handles these jobs at $100–$200 less per week. The 40-yard is right when a 30-yard has consistently run short on the same type of project, or when the job is new construction rather than renovation. If you are unsure, book the 30 and confirm the second-pull rate before loading.',
+      'Use the 30-yard for most residential renovations, estate cleanouts, large home cleanouts, and standard commercial tenant improvements. The 40-yard is right when a 30-yard has consistently run short on the same type of project, or when the job is new construction rather than renovation. If you are unsure, book the 30 and confirm the second-pull rate before loading.',
   },
 ]
 
@@ -166,11 +166,11 @@ const faqSchema = {
 const bodyHtml = `
 <p>A 40-yard dumpster rental is the biggest standard container in residential and commercial markets. It is also, historically, the one most often rented by people who needed a 30. Nobody books a 40-yard thinking they over-ordered. Every invoice tells a different story.</p>
 
-<p>The 40-yard is the correct call for new home construction, large commercial demolitions, industrial warehouse cleanouts, and full-structure gut renovations. Outside those categories, a 30-yard covers the work at $100&#8211;$200 less per week. That gap matters on projects that run several weeks.</p>
+<p>The 40-yard is the correct call for new home construction, large commercial demolitions, industrial warehouse cleanouts, and full-structure gut renovations.</p>
 
 <div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
   <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
-  <p class="text-charcoal">A 40-yard dumpster rental runs roughly <strong>$600&#8211;$900+ per week</strong> for a standard 7-day rental. The container measures approximately 22 feet long, 8 feet wide, and 8 feet tall &#8212; holding about 27 pickup truck loads of loose debris. Right for new construction and large commercial projects. Usually oversized for everything else.</p>
+  <p class="text-charcoal">The container measures approximately 22 feet long, 8 feet wide, and 8 feet tall &#8212; holding about 27 pickup truck loads of loose debris. Right for new construction and large commercial projects. Usually oversized for everything else.</p>
 </div>
 
 <h2 id="what-it-looks-like">What a 40-Yard Container Actually Looks Like</h2>
@@ -283,7 +283,7 @@ const bodyHtml = `
 
 <p>For the specific logistics of managing construction debris across phases, the <a href="/resources/renting-a-construction-dumpster" class="text-orange hover:underline">construction dumpster rental guide</a> covers pull scheduling and what changes when a container stays onsite for weeks. For what is accepted and rejected across all standard containers, see <a href="/resources/what-can-you-put-in-a-roll-off-dumpster" class="text-orange hover:underline">what can you put in a roll-off dumpster</a>.</p>
 
-<h2 id="cost">What a 40-Yard Dumpster Rental Costs</h2>
+<h2 id="cost">How a 40-Yard Dumpster Rental Is Priced</h2>
 
 <figure class="not-prose my-8">
   <img
@@ -296,53 +296,46 @@ const bodyHtml = `
   />
 </figure>
 
-<p>A 40-yard dumpster rental costs <strong>$600&#8211;$900 or more</strong> for a standard 7-day rental. Markets with longer haul distances to licensed landfills &#8212; mountain states, rural areas, and some metro markets with limited disposal infrastructure &#8212; run at the high end of that range or above it.</p>
+<p>The final bill is built from several line items, and each one varies by provider and market. Markets with longer haul distances to licensed landfills &#8212; mountain states, rural areas, and some metro markets with limited disposal infrastructure &#8212; tend to price higher. Here is what moves the number:</p>
 
 <div class="not-prose my-6 overflow-x-auto">
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-charcoal text-white">
         <th class="px-4 py-3 text-left font-semibold">Line Item</th>
-        <th class="px-4 py-3 text-left font-semibold">Typical Range</th>
         <th class="px-4 py-3 text-left font-semibold">Notes</th>
       </tr>
     </thead>
     <tbody>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Base rental (7 days)</td>
-        <td class="px-4 py-3">$600&#8211;$900+</td>
         <td class="px-4 py-3">Varies significantly by market and included weight limit</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Rental extension</td>
-        <td class="px-4 py-3">$10&#8211;$20/day</td>
         <td class="px-4 py-3">Ask upfront; longer extension windows sometimes available at flat rates</td>
       </tr>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Overweight charge</td>
-        <td class="px-4 py-3">$40&#8211;$200/ton</td>
         <td class="px-4 py-3">Per ton above the included weight limit; get the rate in writing before booking</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Fuel surcharge</td>
-        <td class="px-4 py-3">$25&#8211;$50</td>
         <td class="px-4 py-3">Usually included in the quote; confirm before signing</td>
       </tr>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Second pull (swap-out)</td>
-        <td class="px-4 py-3">$300&#8211;$500</td>
         <td class="px-4 py-3">Driver picks up full container, returns an empty one</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Prohibited material fee</td>
-        <td class="px-4 py-3">$25&#8211;$100+</td>
         <td class="px-4 py-3">Tires, paint, refrigerant appliances, hazardous materials</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<p>The cost gap between a 30-yard and a 40-yard is typically $100&#8211;$200 per week. On a four-week construction project, that gap becomes $400&#8211;$800 in extra cost to hold capacity the project may not use. If the job is borderline between the two sizes, book the 30-yard, confirm the second-pull rate, and call for the swap-out if needed. The math on that approach is almost always better.</p>
+<p>If the job is borderline between a 30-yard and a 40-yard, book the 30-yard, confirm the second-pull rate, and call for the swap-out if needed.</p>
 
 <p>For a full breakdown of every line item and what you can negotiate before booking, see the <a href="/resources/what-does-a-dumpster-rental-cost" class="text-orange hover:underline">dumpster rental cost guide</a>. For ways to reduce the total before the invoice arrives, the <a href="/resources/cheap-dumpster-rental" class="text-orange hover:underline">cheap dumpster rental guide</a> covers the six variables that move the price.</p>
 
@@ -360,11 +353,11 @@ const bodyHtml = `
   <li>On commercial sites, designate a flat, unobstructed drop zone away from active work areas and confirm the location with the driver before delivery day</li>
 </ul>
 
-<p>For placements on public streets or in right-of-way areas, a permit is usually required &#8212; typically $25&#8211;$75, taking one to three business days. Many rental companies handle this during booking. See the <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">permit guide</a> for what to check by jurisdiction before the delivery date. Browse <a href="/locations">local providers</a> for operators familiar with placement requirements in your market.</p>
+<p>Many rental companies handle this during booking. See the <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental" class="text-orange hover:underline">permit guide</a> for what to check by jurisdiction before the delivery date. Browse <a href="/locations">local providers</a> for operators familiar with placement requirements in your market.</p>
 
 <h2 id="rental-period">Rental Period and Multi-Pull Scheduling</h2>
 
-<p>Standard 40-yard rentals run <strong>7&#8211;10 days</strong>. Extensions cost $10&#8211;$20 per day. Large construction projects rarely use a single extended rental &#8212; they plan a pull schedule from the start, where the driver hauls a full container and drops an empty one on a set cadence. A swap-out on a 40-yard runs $300&#8211;$500 per pull on top of the original rental.</p>
+<p>Standard 40-yard rentals run <strong>7&#8211;10 days</strong>. Large construction projects rarely use a single extended rental &#8212; they plan a pull schedule from the start, where the driver hauls a full container and drops an empty one on a set cadence.</p>
 
 <p>For multi-pull jobs, ask about contracted per-haul pricing before placing the first order. Some operators discount the per-pull rate when the haul count is confirmed upfront. Booking each pull separately &#8212; calling after each one fills &#8212; is the more expensive way to run a long project. The discount is not advertised; you have to ask.</p>
 
@@ -390,15 +383,15 @@ const bodyHtml = `
 
 <p><strong>1. What is the weight limit in tons?</strong> Get the specific number, not a general answer. The 40-yard is a volume container &#8212; the weight limit is the binding constraint the moment concrete, masonry, or tile enters the mix. Know it before you load.</p>
 
-<p><strong>2. What is the overage charge per ton?</strong> Rates range from $40 to $200 per extra ton depending on market and provider. At $200 per ton, a two-ton overage is $400. That figure changes the project budget in a way that knowing it beforehand does not.</p>
+<p><strong>2. What is the overage charge per ton?</strong></p>
 
 <p><strong>3. What are the overhead clearance requirements along the delivery path?</strong> The 8-foot height of the 40-yard catches obstacles the truck itself clears. Walk the path and look up before confirming placement with the driver. A container that cannot be set down safely is not a free repositioning &#8212; the driver returns the container and schedules a new delivery.</p>
 
-<p><strong>4. What is the pull fee for a second haul?</strong> On a 40-yard, second pulls run $300&#8211;$500. Know this number before loading so you can decide whether to slow down, separate phases, or call for the swap-out.</p>
+<p><strong>4. What is the pull fee for a second haul?</strong> Know this number before loading so you can decide whether to slow down, separate phases, or call for the swap-out.</p>
 
 <p><strong>5. Do you offer contracted per-haul pricing for multi-pull projects?</strong> If the job requires more than two pulls, ask before the first one. Some operators offer better per-haul rates when the volume is confirmed upfront. Most do not advertise this. Ask directly.</p>
 
-<p>The 40-yard makes sense when the project genuinely needs it. Book the 30-yard when you are not sure &#8212; a second pull at $300&#8211;$500 is almost always less expensive than a week of paying for 40-yard capacity on a 30-yard job. Give us a call before booking if the project could go either way.</p>
+<p>The 40-yard makes sense when the project genuinely needs it. Give us a call before booking if the project could go either way.</p>
 `
 
 export default function FortyYardDumpsterRentalPage() {

@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Wyoming Dumpster Rental Locations | Rolloff Dumpster Finder',
+  title: 'Wyoming Dumpster Rental Locations',
   description:
     'Find roll-off dumpster rental options across Wyoming for home cleanouts, ranch property debris, construction projects, and wind and hail storm cleanup.',
   alternates: {
@@ -64,7 +64,7 @@ const faqSchema = {
       name: 'How much does dumpster rental cost in Wyoming?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'A 10-yard container runs $260–$440 in most Wyoming markets. Wyoming has a smaller provider pool than neighboring Colorado, which keeps pricing slightly higher. Mountain and rural markets may add a mileage surcharge on top of the base rental rate.',
+        text: 'Mountain and rural markets may add a mileage surcharge on top of the base rental rate.',
       },
     },
     {
@@ -178,7 +178,7 @@ const projects = [
 const faq = [
   {
     q: 'How much does dumpster rental cost in Wyoming?',
-    a: 'A 10-yard container runs $260–$440 in most Wyoming markets. Wyoming has a smaller provider pool than neighboring Colorado, which keeps pricing slightly higher. Mountain and rural markets may add a mileage surcharge on top of the base rental rate.',
+    a: 'Mountain and rural markets may add a mileage surcharge on top of the base rental rate.',
   },
   {
     q: 'What size dumpster do I need for a Wyoming home cleanout?',

@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Colorado Dumpster Rental Locations | Rolloff Dumpster Finder',
+  title: 'Colorado Dumpster Rental Locations',
   description:
     'Find roll-off dumpster rental options across Colorado for home cleanouts, hail-season roofing jobs, construction debris, and renovation projects.',
   alternates: {
@@ -64,7 +64,7 @@ const faqSchema = {
       name: 'How much does dumpster rental cost in Colorado?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Pricing varies by city and container size. A 10-yard container runs $220–$380 in Denver-area markets. Mountain markets like Steamboat Springs typically add 15–25% for transport costs. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
+        text: 'Pricing varies by city and container size. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
       },
     },
     {
@@ -373,7 +373,7 @@ const projects = [
 const faq = [
   {
     q: 'How much does dumpster rental cost in Colorado?',
-    a: 'Pricing varies by city and container size. A 10-yard container runs $220–$380 in Denver-area markets. Mountain markets like Steamboat Springs typically add 15–25% for transport costs. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
+    a: 'Pricing varies by city and container size. Get an itemized quote — fuel surcharges and disposal fees are often listed separately.',
   },
   {
     q: 'What size dumpster do I need for a Colorado home cleanout?',
@@ -660,7 +660,7 @@ export default function ColoradoLocationsPage() {
           <div className="flex-1">
             <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Size Guide</p>
             <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">20 Yard Dumpster Rental in Colorado: Cost, Size &amp; Best Uses</p>
-            <p className="text-[13px] text-[#566070] leading-[1.6]">Pueblo starts at $350/week. Denver runs $380. Mountain markets like Steamboat Springs reach $435. Here is the full Colorado breakdown by market for the most commonly rented container.</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">See how pricing works and what to ask before booking.</p>
           </div>
           <Link href="/resources/20-yard-dumpster-rental-colorado" className="shrink-0 inline-block bg-orange text-black font-bold text-[13px] px-5 py-[10px] rounded-full hover:opacity-90 transition-opacity whitespace-nowrap">
             See Size Guide →

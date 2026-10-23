@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Arizona Dumpster Rental Locations | Rolloff Dumpster Finder',
+  title: 'Arizona Dumpster Rental Locations',
   description:
     'Find roll-off dumpster rental options across Arizona for home cleanouts, roofing jobs, construction debris, desert landscaping, and renovation projects.',
   alternates: {
@@ -64,7 +64,7 @@ const faqSchema = {
       name: 'How much does dumpster rental cost in Arizona?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Arizona dumpster rental pricing varies by city and provider. A 10-yard container typically runs $280–$480 in metro Phoenix markets. A 20-yard runs $380–$650. Get a written itemized quote — base rates often exclude fuel surcharges and disposal fees.',
+        text: 'Arizona dumpster rental pricing varies by city and provider. Get a written itemized quote — base rates often exclude fuel surcharges and disposal fees.',
       },
     },
     {
@@ -183,7 +183,7 @@ const projects = [
 const faq = [
   {
     q: 'How much does dumpster rental cost in Arizona?',
-    a: 'Arizona dumpster rental pricing varies by city and provider. A 10-yard container typically runs $280–$480 in metro Phoenix markets. A 20-yard runs $380–$650. Get a written itemized quote — base rates often exclude fuel surcharges and disposal fees.',
+    a: 'Arizona dumpster rental pricing varies by city and provider. Get a written itemized quote — base rates often exclude fuel surcharges and disposal fees.',
   },
   {
     q: 'What size dumpster do I need for an Arizona home cleanout?',
@@ -478,8 +478,8 @@ export default function ArizonaLocationsPage() {
         <div className="max-w-[860px] mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4 rounded-sm border border-[#E8E4DE] bg-white p-6">
           <div className="flex-1">
             <p className="text-[13px] font-bold uppercase tracking-wide text-[#9CA3AF] mb-1">Pricing Guide</p>
-            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Arizona Dumpster Rental Cost: Prices by Size and City</p>
-            <p className="text-[13px] text-[#566070] leading-[1.6]">Phoenix Metro runs $270–$470/week for a 10-yard. Scottsdale, Tucson, Prescott, and Flagstaff each price differently. Here is the full Arizona breakdown by market and container size.</p>
+            <p className="text-[15px] font-bold text-charcoal leading-[1.35] mb-1">Arizona Dumpster Rental Cost: How Pricing Works</p>
+            <p className="text-[13px] text-[#566070] leading-[1.6]">Scottsdale, Tucson, Prescott, and Flagstaff each price differently. See how pricing works and what to ask before booking.</p>
           </div>
           <Link href="/resources/arizona-dumpster-rental-cost" className="shrink-0 inline-block bg-orange text-black font-bold text-[13px] px-5 py-[10px] rounded-full hover:opacity-90 transition-opacity whitespace-nowrap">
             See Pricing Guide →

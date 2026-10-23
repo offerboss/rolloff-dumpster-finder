@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Dumpster Rental Locations | Rolloff Dumpster Finder',
+  title: 'Dumpster Rental Locations',
   description:
     'Browse dumpster rental guides by state. We currently serve Colorado, Arizona, Utah, Texas, Wyoming, and Oklahoma with local pricing, city guides, and roll-off rental options.',
   alternates: {

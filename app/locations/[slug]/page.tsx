@@ -313,12 +313,12 @@ export default async function CityPage({ params }: Props) {
         <div className="max-w-[1200px] mx-auto">
           <div className="w-10 h-[3px] bg-orange rounded-sm mb-5" />
           <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-charcoal tracking-tight mb-3">
-            How Much Does a Dumpster Rental Cost in {city.cityName}?
+            How Is a Dumpster Rental Priced in {city.cityName}?
           </h2>
           <p className="text-[15px] text-[#6B7280] max-w-[700px] leading-[1.65] mb-8">
             Pricing depends on container size, debris type, weight, rental period, delivery
-            location, and landfill disposal fees. The ranges below are estimates based on typical{' '}
-            {city.cityName}-area pricing. Your actual quote will vary.
+            location, and landfill disposal fees. When you compare {city.cityName} quotes, check the
+            included days and tons, not just the headline number.
           </p>
 
           <div className="overflow-x-auto mb-6">
@@ -328,7 +328,7 @@ export default async function CityPage({ params }: Props) {
                   <th className="px-5 py-3 text-left font-semibold whitespace-nowrap">Dumpster Size</th>
                   <th className="px-5 py-3 text-left font-semibold">Common Uses</th>
                   <th className="px-5 py-3 text-left font-semibold whitespace-nowrap">
-                    Est. {city.cityName} Range
+                    How It&apos;s Priced
                   </th>
                 </tr>
               </thead>
@@ -340,7 +340,7 @@ export default async function CityPage({ params }: Props) {
                   >
                     <td className="px-5 py-4 font-semibold text-charcoal whitespace-nowrap">{row.size}</td>
                     <td className="px-5 py-4 text-[#556070]">{row.uses}</td>
-                    <td className="px-5 py-4 font-semibold text-orange whitespace-nowrap">{row.range}</td>
+                    <td className="px-5 py-4 font-semibold text-orange">{row.range}</td>
                   </tr>
                 ))}
               </tbody>
@@ -348,7 +348,7 @@ export default async function CityPage({ params }: Props) {
           </div>
 
           <p className="text-[12px] text-[#9CA3AF] mb-8 leading-relaxed max-w-[700px]">
-            Estimates only. Actual pricing varies based on dumpster size, debris type, weight,
+            Actual pricing varies based on dumpster size, debris type, weight,
             rental period, delivery address, and provider availability.{' '}
             {city.pricingPlacementNote ??
               'Street or right-of-way placement may require a permit which is not included in rental pricing.'}

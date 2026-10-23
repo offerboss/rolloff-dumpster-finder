@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { utahProviders } from '@/content/providers'
 
 export const metadata: Metadata = {
-  title: 'Utah Roll-Off Dumpster Rental Companies | Provider Directory',
+  title: 'Utah Dumpster Rental Companies',
   description:
     'Browse roll-off dumpster rental companies serving Utah by region. Listings are compiled from public business information and have not yet been confirmed by providers.',
   alternates: {

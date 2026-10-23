@@ -9,10 +9,10 @@ const COVER_SRC =
 const DATE = '2026-06-16'
 const AUTHOR = 'Jake Harlow'
 const META_DESC =
-  'A 30-yard dumpster rental costs $311–$718 for a standard 7-day rental. Here is what it holds, which projects actually need one, and when a 20-yard would have done the job.'
+  'A 30-yard dumpster handles large renovations and estate cleanouts. Here is what it holds, which projects actually need one, and when a 20-yard would have done the job.'
 
 export const metadata: Metadata = {
-  title: TITLE,
+  title: '30 Yard Dumpster Rental: When Bigger Fits',
   description: META_DESC,
   keywords: [
     '30 yard dumpster rental',
@@ -57,7 +57,7 @@ const toc = [
   { id: 'what-it-looks-like', title: 'What a 30-Yard Container Actually Looks Like' },
   { id: 'what-fits', title: 'What Fits — and What to Reconsider' },
   { id: 'weight-limits', title: 'Why Bulky Beats Heavy in a 30-Yard' },
-  { id: 'cost', title: 'What a 30-Yard Dumpster Rental Costs' },
+  { id: 'cost', title: 'How a 30-Yard Dumpster Rental Is Priced' },
   { id: 'placement', title: 'Placement, Clearance, and Site Access' },
   { id: 'rental-period', title: 'Rental Period and Pull Scheduling' },
   { id: 'sizing-down', title: 'When a 20-Yard Is the Right Call' },
@@ -70,7 +70,7 @@ const faq = [
   {
     question: 'How much does a 30-yard dumpster rental cost?',
     answer:
-      'A 30-yard dumpster rental runs $311–$718 for a standard 7-day rental. The national average sits around $500 per week. Colorado and other mountain states typically run 10–20% above national averages due to longer haul distances to licensed landfills. Your final bill depends on rental length, weight loaded, and whether prohibited materials end up in the container — weight overages are the most common surprise on the invoice.',
+      'Your final bill depends on rental length, weight loaded, and whether prohibited materials end up in the container — weight overages are the most common surprise on the invoice.',
   },
   {
     question: 'What are the dimensions of a 30-yard roll-off container?',
@@ -80,7 +80,7 @@ const faq = [
   {
     question: 'What is the weight limit on a 30-yard dumpster?',
     answer:
-      'Most 30-yard containers include a weight allowance of 3–5 tons in the base rental rate. The exact figure varies by provider and market — some price lean and allow 3 tons, others include 5 at a higher rate. Ask specifically: "What is the weight limit in tons for the 30-yard?" Overages run $40–$200 per extra ton. The 30-yard is best suited for bulky, mixed-debris loads. For concrete-heavy work, weight limits hit regardless of container size.',
+      'Most 30-yard containers include a weight allowance of 3–5 tons in the base rental rate. The exact figure varies by provider and market — some price lean and allow 3 tons, others include 5 at a higher rate. The 30-yard is best suited for bulky, mixed-debris loads. For concrete-heavy work, weight limits hit regardless of container size.',
   },
   {
     question: 'What projects need a 30-yard dumpster?',
@@ -100,12 +100,12 @@ const faq = [
   {
     question: 'How long can I keep a 30-yard dumpster?',
     answer:
-      'Standard rental periods run 7–10 days. Extensions cost $5–$10 per day. Larger renovation and construction projects often need multiple pulls — where the driver swaps a full container for an empty one — rather than a single long rental. A second pull on a 30-yard typically runs $200–$350 on top of the original rental. If the project timeline is uncertain, ask about multi-pull pricing upfront; some operators offer better per-haul rates for planned sequences.',
+      'Standard rental periods run 7–10 days. Larger renovation and construction projects often need multiple pulls — where the driver swaps a full container for an empty one — rather than a single long rental. If the project timeline is uncertain, ask about multi-pull pricing upfront; some operators offer better per-haul rates for planned sequences.',
   },
   {
     question: 'When should I rent a 40-yard dumpster instead of a 30-yard?',
     answer:
-      'Rent a 40-yard for new home or commercial construction, full-floor demolitions, large industrial cleanouts, or any project where volume consistently exceeds 30 cubic yards per haul. The 40-yard is less common in residential markets and costs significantly more — typically $600–$900+ per week. For most large home renovations, a 30-yard handles the job with a pull or two. The 40-yard is the right call when the 30-yard runs out on the same job type repeatedly.',
+      'Rent a 40-yard for new home or commercial construction, full-floor demolitions, large industrial cleanouts, or any project where volume consistently exceeds 30 cubic yards per haul. For most large home renovations, a 30-yard handles the job with a pull or two. The 40-yard is the right call when the 30-yard runs out on the same job type repeatedly.',
   },
 ]
 
@@ -167,13 +167,13 @@ const faqSchema = {
 }
 
 const bodyHtml = `
-<p>A 30-yard dumpster rental costs <strong>$311&#8211;$718 for a standard 7-day rental</strong>. The national average sits around $500 per week. It stands 6 feet tall &#8212; which means loading involves throwing debris in rather than carrying it over the side. This works fine for framing lumber and bulky furniture. Less fine for anything fragile. The physics are consistent.</p>
+<p>A 30-yard container stands 6 feet tall &#8212; which means loading involves throwing debris in rather than carrying it over the side. This works fine for framing lumber and bulky furniture. Less fine for anything fragile. The physics are consistent.</p>
 
-<p>The 30-yard is the right container for large whole-home renovations, estate cleanouts with decades of accumulated goods, commercial tenant improvements, and any project where a 20-yard has run short before. It is also the container people over-book when a 20-yard would have covered the job. That distinction matters. The 30-yard costs $50&#8211;$100 more per week than a 20-yard, and sizing up when you don't need to pays for nothing.</p>
+<p>The 30-yard is the right container for large whole-home renovations, estate cleanouts with decades of accumulated goods, commercial tenant improvements, and any project where a 20-yard has run short before. It is also the container people over-book when a 20-yard would have covered the job. That distinction matters.</p>
 
 <div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
   <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
-  <p class="text-charcoal">A 30-yard rental runs <strong>$311&#8211;$718</strong> for 7 days, averaging $500. The container measures roughly 22 feet long, 8 feet wide, and 6 feet tall. Weight limit is typically 3&#8211;5 tons &#8212; right for bulky mixed-debris loads, but still a hard limit when the job involves significant concrete.</p>
+  <p class="text-charcoal">The container measures roughly 22 feet long, 8 feet wide, and 6 feet tall. Weight limit is typically 3&#8211;5 tons &#8212; right for bulky mixed-debris loads, but still a hard limit when the job involves significant concrete.</p>
 </div>
 
 <h2 id="what-it-looks-like">What a 30-Yard Container Actually Looks Like</h2>
@@ -182,7 +182,7 @@ const bodyHtml = `
 
 <p>What 30 cubic yards translates to: about nine standard pickup truck loads of loose debris. That comparison works for general household goods, framing lumber, drywall, and mixed renovation material. It stops working when the load is concrete, tile, or dense masonry &#8212; those hit the weight limit before filling the container to capacity, regardless of how many cubic yards the spec sheet says.</p>
 
-<p>I have watched contractors load 30-yards by standing on a flatbed rail and throwing framing lumber. It works until it doesn't. A pair of plywood sheets as a ramp up to the container's open end works better and costs about $12 at any lumber yard. Worth mentioning before the crew starts and not after the second near-miss.</p>
+<p>I have watched contractors load 30-yards by standing on a flatbed rail and throwing framing lumber. It works until it doesn't. Worth mentioning before the crew starts and not after the second near-miss.</p>
 
 <p>Because the footprint matches a 20-yard, the delivery clearance requirement is the same &#8212; plan for about <strong>60 feet of clear, straight-line access</strong> for the truck. The taller walls mean the driver also needs clear overhead along the entire delivery path. Utility lines, garage fascia, and low-hanging tree branches are the three surprises drivers most often find when they arrive.</p>
 
@@ -287,11 +287,11 @@ const bodyHtml = `
 
 <p>This is why most experienced contractors separate concrete phases from framing and finish phases. They book a smaller container with a better weight-per-dollar rate for the concrete work, and the 30-yard for everything else. The total cost of running two container types is almost always less than overweight fees on a 30-yard loaded partially with concrete.</p>
 
-<p>Before booking, ask the rental company: "What is the weight limit in tons for the 30-yard, and what is the overage rate per ton?" The overage rate matters. At $40 per ton, two extra tons is $80. At $200 per ton, the same overage is $400. Both rates exist in real markets.</p>
+<p>Before booking, ask the rental company: "What is the weight limit in tons for the 30-yard, and what is the overage rate per ton?" The overage rate matters.</p>
 
 <p>The <a href="https://www.epa.gov/smm/construction-and-demolition-materials" target="_blank" rel="noopener noreferrer">EPA&#8217;s C&amp;D materials data</a> consistently identifies concrete as the largest component by weight at licensed disposal facilities. It is not close. Every rental company that has been operating for more than a year knows this, which is why weight limits are set per container regardless of size.</p>
 
-<h2 id="cost">What a 30-Yard Dumpster Rental Costs</h2>
+<h2 id="cost">How a 30-Yard Dumpster Rental Is Priced</h2>
 
 <figure class="not-prose my-8">
   <img
@@ -304,47 +304,40 @@ const bodyHtml = `
   />
 </figure>
 
-<p>A 30-yard dumpster rental costs <strong>$311&#8211;$718</strong> for a standard 7-day rental. The national average runs around $500 per week. Colorado and other mountain states typically run 10&#8211;20% above national averages due to longer haul distances.</p>
+<p>The final bill is built from several line items, and each one varies by provider and market. Here is what moves the number:</p>
 
 <div class="not-prose my-6 overflow-x-auto">
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-charcoal text-white">
         <th class="px-4 py-3 text-left font-semibold">Line Item</th>
-        <th class="px-4 py-3 text-left font-semibold">Typical Range</th>
         <th class="px-4 py-3 text-left font-semibold">Notes</th>
       </tr>
     </thead>
     <tbody>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Base rental (7 days)</td>
-        <td class="px-4 py-3">$311&#8211;$718</td>
-        <td class="px-4 py-3">Avg $500; mountain markets run 10&#8211;20% higher</td>
+        <td class="px-4 py-3">Varies by market, provider, and included weight</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Rental extension</td>
-        <td class="px-4 py-3">$5&#8211;$10/day</td>
-        <td class="px-4 py-3">Ask upfront; some operators offer better flat rates for longer windows</td>
+        <td class="px-4 py-3">Ask upfront if the project may run long</td>
       </tr>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Overweight charge</td>
-        <td class="px-4 py-3">$40&#8211;$200/ton</td>
-        <td class="px-4 py-3">Per ton above the included weight limit</td>
+        <td class="px-4 py-3">Per ton above the included weight limit; get the rate in writing before booking</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Fuel surcharge</td>
-        <td class="px-4 py-3">$15&#8211;$35</td>
-        <td class="px-4 py-3">Usually included in the quote; confirm before signing</td>
+        <td class="px-4 py-3">Most companies include this in the quote; confirm before signing</td>
       </tr>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Second pull (swap-out)</td>
-        <td class="px-4 py-3">$200&#8211;$350</td>
-        <td class="px-4 py-3">Driver picks up full container, returns empty one</td>
+        <td class="px-4 py-3">Full container picked up, empty returned</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Prohibited material fee</td>
-        <td class="px-4 py-3">$25&#8211;$100+</td>
-        <td class="px-4 py-3">Tires, paint, appliances, hazmat materials</td>
+        <td class="px-4 py-3">Tires, paint, appliances, hazmat</td>
       </tr>
     </tbody>
   </table>
@@ -373,13 +366,13 @@ const bodyHtml = `
 
 <h2 id="rental-period">Rental Period and Pull Scheduling</h2>
 
-<p>Standard 30-yard rentals run <strong>7&#8211;10 days</strong>. Many large renovation and construction projects run longer or require more than one container. Extensions cost $5&#8211;$10 per day. A second pull &#8212; where the driver hauls out a full container and drops an empty one &#8212; runs $200&#8211;$350 on top of the original rental.</p>
+<p>Standard 30-yard rentals run <strong>7&#8211;10 days</strong>. Many large renovation and construction projects run longer or require more than one container.</p>
 
 <p>For multi-phase work, plan the pull schedule before the project starts. A 2,000 square foot residential renovation typically runs 3&#8211;5 pulls over the project life. Contractors who have done similar jobs before can usually estimate this within one pull; those estimates are more reliable than anything I can put in a general guide.</p>
 
 <p>Multi-pull projects may qualify for a contracted per-haul rate &#8212; lower than booking each pull separately. Ask the operator directly if the job involves more than two pulls. Not all companies offer this structure, but those that do make it available when the volume is confirmed upfront.</p>
 
-<p>If the project requires a container on short notice, local operators can often deliver same-day if the call comes before noon. Rush fees run $50&#8211;$100 in most markets. For more on timing and what to say when you call, see the <a href="/resources/same-day-dumpster-rental" class="text-orange hover:underline">same-day dumpster rental guide</a>.</p>
+<p>If the project requires a container on short notice, local operators can often deliver same-day if the call comes before noon. For more on timing and what to say when you call, see the <a href="/resources/same-day-dumpster-rental" class="text-orange hover:underline">same-day dumpster rental guide</a>.</p>
 
 <h2 id="sizing-down">When a 20-Yard Is the Right Call</h2>
 
@@ -394,13 +387,13 @@ const bodyHtml = `
   <li>The project timeline is uncertain &#8212; a 20-yard with a second pull if needed is often cheaper than a 30-yard that sits mostly empty</li>
 </ul>
 
-<p>The cost gap between a 20-yard and a 30-yard is typically $50&#8211;$100 per week. A second haul on a 20-yard that runs short costs $150&#8211;$250. Rule of thumb: if the project is genuinely borderline between sizes, take the 30-yard. But if the project is clearly a 20-yard job with one uncertain room, book the 20 and confirm the second-pull rate before loading.</p>
+<p>Rule of thumb: if the project is genuinely borderline between sizes, take the 30-yard. But if the project is clearly a 20-yard job with one uncertain room, book the 20 and confirm the second-pull rate before loading.</p>
 
 <p>For the full breakdown on what the 20-yard handles and when it is the right call, see the <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster rental guide</a>. For smaller jobs &#8212; single rooms, garage cleanouts, and tight-access situations &#8212; the <a href="/resources/10-yard-dumpster-rental" class="text-orange hover:underline">10-yard dumpster rental guide</a> covers where that container fits.</p>
 
 <h2 id="sizing-up">When to Go to a 40-Yard</h2>
 
-<p>The 40-yard is the right container for new home or commercial construction, full-floor demolitions, large industrial cleanouts, and any project where a 30-yard runs short consistently on the same job type. It costs $600&#8211;$900+ per week and is not common in residential markets &#8212; most residential renovations, even large ones, stay in the 30-yard range.</p>
+<p>The 40-yard is the right container for new home or commercial construction, full-floor demolitions, large industrial cleanouts, and any project where a 30-yard runs short consistently on the same job type.</p>
 
 <p>Book the 40-yard when the 30-yard has run out on a prior similar project, when the job is commercial construction rather than tenant improvement, or when the project involves demolishing an entire structure rather than renovating it. Outside those cases, the 30-yard covers the job.</p>
 
@@ -410,9 +403,9 @@ const bodyHtml = `
 
 <p><strong>1. What is the weight limit in tons?</strong> Not "is there a limit" &#8212; get the specific number in tons, written into the quote. The 30-yard's capacity is not a guarantee you can fill it with whatever you have. The weight limit is the actual constraint on most concrete-mixed loads.</p>
 
-<p><strong>2. What is the overage charge per ton?</strong> Rates range from $40 to $200 per extra ton depending on the market and provider. Knowing this before loading tells you if it pays to separate concrete and mixed debris into different containers.</p>
+<p><strong>2. What is the overage charge per ton?</strong> Knowing this before loading tells you if it pays to separate concrete and mixed debris into different containers.</p>
 
-<p><strong>3. What is the pull fee if I need a second haul?</strong> Ask this before you book. On a 30-yard, second pulls run $200&#8211;$350. Knowing that number upfront lets you plan the project budget accurately &#8212; and decide whether to book the 30-yard or upgrade to a planned two-pull arrangement.</p>
+<p><strong>3. What is the pull fee if I need a second haul?</strong> Ask this before you book. Knowing that number upfront lets you plan the project budget accurately &#8212; and decide whether to book the 30-yard or upgrade to a planned two-pull arrangement.</p>
 
 <p><strong>4. What are the overhead clearance requirements along the delivery path?</strong> The 6-foot height of the 30-yard catches overhead obstacles that a 20-yard would clear. Walk the delivery path and look for low utility lines, garage fascia, and tree branches before confirming the placement spot with the driver.</p>
 

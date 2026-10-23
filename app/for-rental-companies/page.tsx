@@ -3,7 +3,7 @@ import Link from 'next/link'
 import GhlFormEmbed from '@/components/GhlFormEmbed'
 
 export const metadata: Metadata = {
-  title: 'Apply to Be Featured on Rolloff Dumpster Finder',
+  title: 'Apply to Be a Featured Provider',
   description:
     'Put your dumpster rental company in front of customers actively searching in the markets you serve. Apply for featured placement on Rolloff Dumpster Finder.',
   alternates: {

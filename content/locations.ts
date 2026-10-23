@@ -55,7 +55,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Denver',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Denver Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Denver, CO Dumpster Rental',
     metaDescription:
       'Denver dumpster rental for home cleanouts, roofing tear-offs, remodels, and construction debris. Compare sizes and get local pricing across the Denver metro.',
     primaryKeyword: 'denver dumpster rental',
@@ -86,27 +86,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, deck removal',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, estate cleanouts, mixed construction debris',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -218,7 +218,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Denver?',
         answer:
-          'Dumpster rental prices in Denver vary based on container size, debris type, weight, rental period, and delivery location. A 10-yard container typically runs $280–$480 per week. A 20-yard runs $380–$650. A 30-yard ranges from $450–$780. These are general estimates — your actual quote will depend on your project specifics and provider availability.',
+          'Dumpster rental prices in Denver vary based on container size, debris type, weight, rental period, and delivery location. Your actual quote will depend on your project specifics and provider availability.',
       },
       {
         question: 'What size dumpster do I need for a home cleanout in Denver?',
@@ -248,7 +248,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'Do dumpster rental prices in Denver include disposal fees?',
         answer:
-          'Most flat-rate dumpster rental quotes include delivery, the rental period, pickup, and disposal up to the stated weight limit. If your load exceeds the weight limit, you may be charged an overweight fee — typically $40–$200 per extra ton. Always confirm what is included before you confirm the booking.',
+          'Most flat-rate dumpster rental quotes include delivery, the rental period, pickup, and disposal up to the stated weight limit. Always confirm what is included before you confirm the booking.',
       },
       {
         question: 'Are there items I cannot throw in a Denver dumpster?',
@@ -281,7 +281,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Colorado Springs',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Colorado Springs CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Colorado Springs CO',
     metaDescription:
       'Roll-off dumpster rental in Colorado Springs, CO. Local pricing for home cleanouts, roofing, construction, and renovation projects in El Paso County.',
     primaryKeyword: 'dumpster rental Colorado Springs',
@@ -308,27 +308,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small garage or room cleanout, minor roofing job, single-bathroom remodel, yard debris',
-        range: '$260–$460 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and turf waste',
-        range: '$300–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodel, roofing tear-off, full-home cleanout, basement and garage debris',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -436,7 +436,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Colorado Springs?',
         answer:
-          'Dumpster rental prices in Colorado Springs vary based on container size, debris type, weight, rental period, and delivery location. A 10-yard container typically runs $260–$460 per week. A 20-yard runs $360–$620. A 30-yard ranges from $430–$740. These are general estimates — your actual quote will depend on project specifics and provider availability.',
+          'Dumpster rental prices in Colorado Springs vary based on container size, debris type, weight, rental period, and delivery location. Your actual quote will depend on project specifics and provider availability.',
       },
       {
         question: 'What size dumpster do I need for a Colorado Springs home cleanout?',
@@ -494,7 +494,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Fort Collins',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Fort Collins Dumpster Rental | Roll-Off Dumpster Finder CO',
+    metaTitle: 'Fort Collins, CO Dumpster Rental',
     metaDescription:
       'Fort Collins dumpster rental for cleanouts, roofing, construction, and landscaping. Compare container sizes and pricing for projects across Larimer County.',
     primaryKeyword: 'Fort Collins dumpster rental',
@@ -523,27 +523,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small garage or room cleanout, minor bathroom remodel, single-room debris, yard waste',
-        range: '$280–$490 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and turf waste',
-        range: '$320–$550 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodel, roofing tear-off, full-home cleanout, basement and garage debris',
-        range: '$380–$660 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
-        range: '$450–$790 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$590–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -654,7 +654,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Fort Collins?',
         answer:
-          'Dumpster rental prices in Fort Collins vary based on container size, debris type, weight, rental period, and delivery location. A 10-yard typically runs $280–$490 per week. A 20-yard runs $380–$660. A 30-yard ranges from $450–$790. These are general estimates — your actual quote will depend on your project specifics and provider availability.',
+          'Dumpster rental prices in Fort Collins vary based on container size, debris type, weight, rental period, and delivery location. Your actual quote will depend on your project specifics and provider availability.',
       },
       {
         question: 'What size dumpster do I need for a Fort Collins home cleanout?',
@@ -689,7 +689,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Fort Collins?',
         answer:
-          'Standard rental periods run 7–10 days. Extensions are available at a daily rate, typically $5–$10 per day. If the project will run long, ask about extended rental pricing upfront — it is usually more cost-effective than adding days mid-rental.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended rental pricing upfront — it is usually more cost-effective than adding days mid-rental.',
       },
       {
         question: 'Are there items I cannot throw in a Fort Collins dumpster?',
@@ -712,7 +712,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Boulder',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Boulder, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Boulder, CO',
     metaDescription:
       'Boulder dumpster rental for home cleanouts, roofing tear-offs, renovation debris, and construction jobs. Serving Boulder County and nearby communities.',
     primaryKeyword: 'boulder dumpster rental',
@@ -733,33 +733,33 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Boulder's older neighborhoods generate steady dumpster demand year-round. Whittier and Mapleton Hill have Victorian and early-20th-century homes that see full gut renovations as ownership changes hands. University Hill is dense with student rental properties — turnover after the school year regularly fills 10 and 20-yard containers. Table Mesa and Martin Acres are packed with 1960s and 1970s ranches where kitchens, baths, and basements are being updated. The renovation rate here is high because the housing stock is old and the land value makes improvement worth it.",
       'The Marshall Fire in December 2021 burned more than 1,000 homes in Louisville and Superior, directly east of Boulder. Demolition, debris removal, and new construction in those communities has driven container demand throughout Boulder County for years. Boulder itself sees consistent infill development — tear-downs, ADU additions, and commercial build-outs along corridors like Broadway produce construction debris hauling needs on a near-constant basis. Projects near Pearl Street and the Hill area often require permit coordination for street-side container placement.',
-      'Rolloff Dumpster Finder connects Boulder customers to container providers serving the city and surrounding Boulder County communities. Boulder is a premium market — pricing runs roughly 5 to 10 percent above Denver rates, and street placement typically requires a City of Boulder Right-of-Way permit. We help you find the right container size for your job so you are not booking too large or calling for a second pull.',
+      'Rolloff Dumpster Finder connects Boulder customers to container providers serving the city and surrounding Boulder County communities. We help you find the right container size for your job so you are not booking too large or calling for a second pull.',
     ],
     pricingGuide: [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, garage clear-outs, small landscaping debris, minor renovation waste.',
-        range: '$290–$510 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, deck tear-downs, light roofing debris.',
-        range: '$330–$570 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, roofing tear-offs, mid-size renovation debris, estate cleanouts.',
-        range: '$400–$690 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Full gut renovations, large roofing jobs, construction framing debris, large estate cleanouts.',
-        range: '$470–$820 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction projects, commercial demolition, multi-unit property cleanouts.',
-        range: '$610–$1,150+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -864,7 +864,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Boulder?',
         answer:
-          'Boulder dumpster rental runs $290–$510 for a 10-yard container and $400–$690 for a 20-yard, with pricing roughly 5 to 10 percent above Denver market rates. A 30-yard lands in the $470–$820 range. Street placement requires a City of Boulder Right-of-Way permit, which is a separate cost.',
+          'Street placement requires a City of Boulder Right-of-Way permit, which is a separate cost.',
       },
       {
         question: 'What size dumpster do I need for a Boulder home cleanout?',
@@ -899,7 +899,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Boulder?',
         answer:
-          'Standard rental periods run 7–10 days. Extensions are available at a daily rate, typically $5–$10 per day. If your project timeline is uncertain, ask about extended rental pricing when you book.',
+          'Standard rental periods run 7–10 days. If your project timeline is uncertain, ask about extended rental pricing when you book.',
       },
       {
         question: 'Are there items I cannot throw in a Boulder dumpster?',
@@ -922,7 +922,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Grand Junction',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Grand Junction, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Grand Junction, CO',
     metaDescription:
       'Grand Junction dumpster rental for home cleanouts, roofing jobs, construction debris, and estate cleanouts. Serving Mesa County and the Grand Valley.',
     primaryKeyword: 'grand junction dumpster rental',
@@ -949,27 +949,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, garage clear-outs, small landscaping debris, minor renovation waste.',
-        range: '$300–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, deck tear-downs, light roofing debris.',
-        range: '$340–$580 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, roofing tear-offs, mid-size renovation debris, estate cleanouts.',
-        range: '$415–$700 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Full gut renovations, large roofing jobs, construction framing debris, industrial cleanouts.',
-        range: '$490–$840 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction projects, commercial demolition, oil field equipment yards, multi-unit cleanouts.',
-        range: '$625–$1,200+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -1072,7 +1072,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Grand Junction?',
         answer:
-          'Grand Junction dumpster rental runs $300–$520 for a 10-yard container and $415–$700 for a 20-yard. The Western Slope market typically prices 5 to 10 percent above Denver rates due to fewer providers and longer haul distances. A 30-yard lands in the $490–$840 range. Book in advance — inventory can be limited.',
+          'Book in advance — inventory can be limited.',
       },
       {
         question: 'What size dumpster do I need for a Grand Junction home cleanout?',
@@ -1107,7 +1107,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Grand Junction?',
         answer:
-          'Standard rental periods run 7–10 days. Extensions are available at a daily rate, typically $5–$10 per day. If your project timeline is uncertain, ask about extended rental pricing when you book — it is usually more cost-effective than adding days mid-rental.',
+          'Standard rental periods run 7–10 days. If your project timeline is uncertain, ask about extended rental pricing when you book — it is usually more cost-effective than adding days mid-rental.',
       },
       {
         question: 'Are there items I cannot throw in a Grand Junction dumpster?',
@@ -1130,7 +1130,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Steamboat Springs',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Steamboat Springs, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Steamboat Springs, CO',
     metaDescription:
       'Steamboat Springs dumpster rental for condo remodels, roofing tear-offs, seasonal cleanouts, and construction debris in Routt County and the Yampa Valley.',
     primaryKeyword: 'steamboat springs dumpster rental',
@@ -1157,27 +1157,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, condo clear-outs, small landscaping debris, minor renovation waste.',
-        range: '$315–$545 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, condo gut jobs, deck tear-downs, light roofing debris.',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full condo or home cleanouts, roofing tear-offs, mid-size renovation debris, estate cleanouts.',
-        range: '$435–$750 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Full gut renovations, large roofing jobs, construction framing debris, multi-unit cleanouts.',
-        range: '$520–$900 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction projects, commercial demolition, large-scale resort-area builds.',
-        range: '$670–$1,280+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -1278,7 +1278,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Steamboat Springs?',
         answer:
-          'Steamboat Springs dumpster rental runs $315–$545 for a 10-yard container and $435–$750 for a 20-yard. The Routt County market prices roughly 10 to 15 percent above Denver rates — fewer providers and longer haul distances drive that gap. A 30-yard lands in the $520–$900 range.',
+          'It depends on the container size, the debris type and weight, the rental period, and the delivery address. Ask each provider for a written, itemized quote that lists the included days, the weight allowance, the per-ton overage rate, and any fuel, disposal, or permit fees.',
       },
       {
         question: 'What size dumpster do I need for a Steamboat Springs condo or home cleanout?',
@@ -1313,7 +1313,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Steamboat Springs?',
         answer:
-          'Standard rental periods run 7–10 days. Extensions are available at a daily rate, typically $5–$10 per day. Mountain projects can run long due to weather delays — ask about extended rental terms when you book rather than adding days after the fact.',
+          'Standard rental periods run 7–10 days. Mountain projects can run long due to weather delays — ask about extended rental terms when you book rather than adding days after the fact.',
       },
       {
         question: 'Are there items I cannot throw in a Steamboat Springs dumpster?',
@@ -1336,7 +1336,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Phoenix',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Dumpster Rental Phoenix, AZ | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Phoenix, AZ',
     metaDescription:
       'Phoenix dumpster rental for home cleanouts, roofing debris, construction waste, and desert landscaping. Serving greater Phoenix and the Valley of the Sun.',
     primaryKeyword: 'phoenix dumpster rental',
@@ -1363,27 +1363,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
-        range: '$270–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
-        range: '$370–$640 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and pool demolition.',
-        range: '$440–$770 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
-        range: '$560–$1,050 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -1493,7 +1493,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Phoenix?',
         answer:
-          'Phoenix dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard — which covers most full-home cleanouts and mid-size roofing jobs — ranges $440–$770. Those are honest base estimates. Fuel surcharges and disposal fees are separate at some providers, so ask for the all-in number before you book.',
+          'Fuel surcharges and disposal fees are separate at some providers, so ask for the all-in number before you book.',
       },
       {
         question: 'What size dumpster do I need for a Phoenix home cleanout?',
@@ -1523,7 +1523,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Phoenix?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Phoenix market. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your schedule.',
+          'Standard rental periods run 7–10 days. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your schedule.',
       },
       {
         question: 'Are there items I cannot put in a Phoenix dumpster?',
@@ -1547,7 +1547,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Scottsdale',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Dumpster Rental Scottsdale, AZ | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Scottsdale, AZ',
     metaDescription:
       'Scottsdale dumpster rental for luxury renovations, home cleanouts, roofing debris, and pool demolition. Serving Scottsdale and the greater East Valley.',
     primaryKeyword: 'scottsdale dumpster rental',
@@ -1574,27 +1574,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
-        range: '$280–$490 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
-        range: '$330–$560 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
-        range: '$390–$660 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and luxury remodel waste.',
-        range: '$460–$790 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
-        range: '$580–$1,080 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -1698,7 +1698,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Scottsdale?',
         answer:
-          'Scottsdale dumpster rental runs $280–$490 for a 10-yard and $390–$660 for a 20-yard, per week. A 30-yard — which covers most full-home cleanouts and large renovation projects — runs $460–$790. Those are honest base estimates. Some Scottsdale providers charge fuel and disposal fees separately, so ask for the all-in number before you book.',
+          'Some Scottsdale providers charge fuel and disposal fees separately, so ask for the all-in number before you book.',
       },
       {
         question: 'What size dumpster do I need for a Scottsdale home cleanout?',
@@ -1728,7 +1728,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Scottsdale?',
         answer:
-          'Standard rental periods run 7–10 days. Extensions typically run $5–$15 per day in the Scottsdale market. If a renovation is running long — which happens often on luxury projects — call ahead to extend rather than letting the container sit past its scheduled pickup date.',
+          'Standard rental periods run 7–10 days. If a renovation is running long — which happens often on luxury projects — call ahead to extend rather than letting the container sit past its scheduled pickup date.',
       },
       {
         question: 'Are there items I cannot put in a Scottsdale dumpster?',
@@ -1751,7 +1751,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Chandler',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Dumpster Rental Chandler, AZ | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Chandler, AZ',
     metaDescription:
       'Chandler dumpster rental for home cleanouts, roofing debris, construction waste, and pool demolition. Serving Chandler and the greater Southeast Valley.',
     primaryKeyword: 'chandler dumpster rental',
@@ -1771,34 +1771,34 @@ export const cityLocations: CityLocation[] = [
       'Roll-off containers for home cleanouts, roofing tear-offs, construction debris, and renovation projects across Chandler and the greater Southeast Valley.',
     introParagraphs: [
       'Chandler runs two renovation markets at once. Dobson Ranch and the Kyrene corridor have 1970s and early \'80s housing stock that generates consistent flip and remodel volume. The eastern half of the city — Fulton Ranch, Ocotillo, and Sun Groves — is hitting the first full renovation cycle, with kitchens and baths as the most active category. Both ends of the age spectrum produce debris; they just look different when they land in the container.',
-      'Chandler\'s Price Road Corridor is home to one of the highest concentrations of semiconductor and advanced manufacturing campuses in the country. Intel has been building and expanding there for two decades, and the surrounding commercial construction generates consistent job-site debris. That same economic pull has kept residential construction elevated in Arden, Layton Lakes, and the southeast corridor — new-build waste on top of renovation volume in an already active market.',
+      'Intel has been building and expanding along Chandler\'s Price Road Corridor for two decades, and the surrounding commercial construction generates consistent job-site debris. That same economic pull has kept residential construction elevated in Arden, Layton Lakes, and the southeast corridor — new-build waste on top of renovation volume in an already active market.',
       'Rolloff Dumpster Finder serves Chandler and the full Southeast Valley — Gilbert, Mesa, Tempe, Queen Creek, and Ahwatukee. Chandler is an HOA-heavy market. The majority of neighborhoods require association approval before a container is placed. We can walk you through typical permit and placement requirements before you book. If the invoice does not match the quote, give us a call.',
     ],
     pricingGuide: [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
-        range: '$270–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
-        range: '$370–$640 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and pool demolition.',
-        range: '$440–$770 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
-        range: '$560–$1,050 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -1899,7 +1899,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Chandler?',
         answer:
-          'Chandler dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard — which covers most full-home cleanouts and larger renovation projects — ranges $440–$770. Those are honest base estimates. Ask for the all-in number including fuel and disposal fees before you book.',
+          'Ask for the all-in number including fuel and disposal fees before you book.',
       },
       {
         question: 'What size dumpster do I need for a Chandler home cleanout?',
@@ -1929,7 +1929,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Chandler?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Chandler market. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your project schedule.',
+          'Standard rental periods run 7–10 days. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your project schedule.',
       },
       {
         question: 'Are there items I cannot put in a Chandler dumpster?',
@@ -1952,7 +1952,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Mesa',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Dumpster Rental Mesa, AZ | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Mesa, AZ',
     metaDescription:
       'Mesa dumpster rental for home cleanouts, roofing debris, construction waste, and estate cleanouts. Serving Mesa and the greater East Valley of Maricopa County.',
     primaryKeyword: 'mesa dumpster rental',
@@ -1979,27 +1979,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
-        range: '$270–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
-        range: '$370–$640 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and pool demolition.',
-        range: '$440–$770 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
-        range: '$560–$1,050 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -2102,7 +2102,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Mesa?',
         answer:
-          'Mesa dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard covers most full-home cleanouts and large renovation projects and runs $440–$770. Those are honest base estimates. Fuel surcharges and disposal fees are separate at some providers — ask for the all-in number before you book.',
+          'Fuel surcharges and disposal fees are separate at some providers — ask for the all-in number before you book.',
       },
       {
         question: 'What size dumpster do I need for a Mesa home cleanout?',
@@ -2132,7 +2132,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Mesa?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Mesa market. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your schedule.',
+          'Standard rental periods run 7–10 days. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your schedule.',
       },
       {
         question: 'Are there items I cannot put in a Mesa dumpster?',
@@ -2155,7 +2155,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Tempe',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Dumpster Rental Tempe, AZ | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Tempe, AZ',
     metaDescription:
       'Tempe dumpster rental for home cleanouts, rental property turnovers, roofing debris, and construction waste. Serving Tempe and the central Phoenix Valley.',
     primaryKeyword: 'tempe dumpster rental',
@@ -2182,27 +2182,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, bathroom remodels, rental property turnovers, and light construction debris.',
-        range: '$270–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
-        range: '$370–$640 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and commercial site waste.',
-        range: '$440–$770 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
-        range: '$560–$1,050 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -2300,7 +2300,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Tempe?',
         answer:
-          'Tempe dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard covers most full-home cleanouts and larger renovation projects and runs $440–$770. Those are honest base estimates. Ask for the all-in number including fuel and disposal fees before booking.',
+          'Ask for the all-in number including fuel and disposal fees before booking.',
       },
       {
         question: 'What size dumpster do I need for a Tempe home cleanout?',
@@ -2335,7 +2335,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Tempe?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Tempe market. If your project is running long, call ahead to extend rather than letting the container sit past its scheduled pickup.',
+          'Standard rental periods run 7–10 days. If your project is running long, call ahead to extend rather than letting the container sit past its scheduled pickup.',
       },
       {
         question: 'Are there items I cannot put in a Tempe dumpster?',
@@ -2353,7 +2353,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Glendale',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Dumpster Rental Glendale, AZ | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Glendale, AZ',
     metaDescription:
       'Glendale dumpster rental for home cleanouts, roofing debris, renovation waste, and construction projects. Serving Glendale and the greater West Valley.',
     primaryKeyword: 'glendale dumpster rental',
@@ -2374,33 +2374,33 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Glendale is one of the oldest suburban cities in the Phoenix metro, and the housing stock shows it. Central and east Glendale have 1960s and \'70s ranch homes generating consistent renovation, flip, and cleanout volume — some of the oldest residential stock in the West Valley. The historic areas near downtown and the Catlin Court district add a layer of older properties that require careful debris handling. West Glendale and Arrowhead Ranch bring newer \'80s and \'90s construction into the mix.',
       'The Westgate Entertainment District and State Farm Stadium in northwest Glendale have driven a decade of commercial and hospitality construction in that corridor. Hotel builds, restaurant expansions, and mixed-use development produce job-site debris at commercial scale. Glendale also sits adjacent to Luke Air Force Base in Litchfield Park — the military household market drives a consistent stream of move-out cleanouts and property turnovers throughout the surrounding West Valley.',
-      'Rolloff Dumpster Finder serves Glendale and the full West Valley — Peoria, Surprise, Avondale, Goodyear, and Litchfield Park. Glendale pricing runs in the same range as the broader Phoenix metro. Older central neighborhoods can affect delivery logistics — narrow streets require a quick access check before booking. We show what is included in the base rate before you commit. If the invoice does not match the quote, give us a call.',
+      'Rolloff Dumpster Finder serves Glendale and the full West Valley — Peoria, Surprise, Avondale, Goodyear, and Litchfield Park. Older central neighborhoods can affect delivery logistics — narrow streets require a quick access check before booking. We show what is included in the base rate before you commit. If the invoice does not match the quote, give us a call.',
     ],
     pricingGuide: [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, bathroom remodels, light construction debris, and single-room renovations.',
-        range: '$270–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen remodels, garage cleanouts, roofing tear-offs on smaller homes, and yard waste.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
-        range: '$370–$640 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation projects, construction debris, multi-square roofing tear-offs, and pool demolition.',
-        range: '$440–$770 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
-        range: '$560–$1,050 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -2500,7 +2500,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Glendale?',
         answer:
-          'Glendale dumpster rental runs $270–$470 for a 10-yard and $370–$640 for a 20-yard, per week. A 30-yard — which covers most full-home cleanouts and larger renovation projects — runs $440–$770. Those are honest base estimates. Ask for the all-in number including fuel and disposal fees before you book.',
+          'Ask for the all-in number including fuel and disposal fees before you book.',
       },
       {
         question: 'What size dumpster do I need for a Glendale home cleanout?',
@@ -2530,7 +2530,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Glendale?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Glendale market. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your schedule.',
+          'Standard rental periods run 7–10 days. If your project is running long, call ahead to extend — it is cheaper than a second pull and less disruptive to your schedule.',
       },
       {
         question: 'Are there items I cannot put in a Glendale dumpster?',
@@ -2553,7 +2553,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Salt Lake City',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'Dumpster Rental Salt Lake City, UT | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Salt Lake City, UT',
     metaDescription:
       'Salt Lake City dumpster rental for home cleanouts, roofing, construction debris, and renovation. Compare sizes and request pricing across the Salt Lake Valley.',
     primaryKeyword: 'salt lake city dumpster rental',
@@ -2580,27 +2580,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small garage or room cleanout, single-bathroom remodel, minor roofing job, yard debris',
-        range: '$260–$440 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
-        range: '$300–$510 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodel, full roofing tear-off, full-home cleanout, basement and garage debris',
-        range: '$360–$610 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$550–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -2709,7 +2709,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Salt Lake City?',
         answer:
-          'Dumpster rental prices in Salt Lake City vary by container size, debris type, weight, rental period, and delivery location. A 10-yard container typically runs $260–$440 per week. A 20-yard runs $360–$610. A 30-yard ranges from $430–$740. These are general estimates — your actual quote depends on your project specifics and the provider serving your area.',
+          'Dumpster rental prices in Salt Lake City vary by container size, debris type, weight, rental period, and delivery location. Your actual quote depends on your project specifics and the provider serving your area.',
       },
       {
         question: 'What size dumpster do I need for a Salt Lake City home cleanout?',
@@ -2744,7 +2744,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Salt Lake City?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the SLC market. If you know the project will take longer, ask about extended pricing when you book — it is usually cheaper than extending mid-rental or needing a second pull.',
+          'Standard rental periods run 7–10 days. If you know the project will take longer, ask about extended pricing when you book — it is usually cheaper than extending mid-rental or needing a second pull.',
       },
       {
         question: 'Are there items I cannot put in a Salt Lake City dumpster?',
@@ -2762,7 +2762,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Provo',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'Dumpster Rental in Provo, UT | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Provo, UT',
     metaDescription:
       'Provo dumpster rental for home cleanouts, BYU rental turnovers, roofing debris, and construction jobs. Compare sizes and request pricing across Utah County.',
     primaryKeyword: 'provo dumpster rental',
@@ -2789,27 +2789,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
-        range: '$250–$420 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, deck removal, rental property turnover, medium cleanout',
-        range: '$290–$490 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
-        range: '$350–$590 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
-        range: '$420–$720 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$530–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -2914,7 +2914,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Provo?',
         answer:
-          'Provo dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $250–$420 per week. A 20-yard runs $350–$590. A 30-yard ranges from $420–$720. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+          'Provo dumpster rental prices vary by container size, debris type, weight, and rental period. Your actual quote depends on the project specifics and the provider covering your area.',
       },
       {
         question: 'What size dumpster do I need for a Provo home cleanout?',
@@ -2949,7 +2949,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Provo?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If you know the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or needing a second pull.',
+          'Standard rental periods run 7–10 days. If you know the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or needing a second pull.',
       },
       {
         question: 'Are there items I cannot put in a Provo dumpster?',
@@ -2972,7 +2972,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Ogden',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'Dumpster Rental in Ogden, UT | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Ogden, UT',
     metaDescription:
       'Ogden dumpster rental for home cleanouts, historic home renovations, roofing debris, and construction jobs. Compare sizes and request pricing across Weber County.',
     primaryKeyword: 'ogden dumpster rental',
@@ -2999,27 +2999,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
-        range: '$245–$410 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
-        range: '$285–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
-        range: '$345–$580 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
-        range: '$410–$710 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$525–$990+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -3127,7 +3127,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Ogden?',
         answer:
-          'Ogden dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $245–$410 per week. A 20-yard runs $345–$580. A 30-yard ranges from $410–$710. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+          'Ogden dumpster rental prices vary by container size, debris type, weight, and rental period. Your actual quote depends on the project specifics and the provider covering your area.',
       },
       {
         question: 'What size dumpster do I need for an Ogden home cleanout?',
@@ -3162,7 +3162,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Ogden?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or scheduling a second pull.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or scheduling a second pull.',
       },
       {
         question: 'Are there items I cannot put in an Ogden dumpster?',
@@ -3185,7 +3185,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Sandy',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'Dumpster Rental in Sandy, Utah | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Sandy, Utah',
     metaDescription:
       'Sandy dumpster rental for home cleanouts, roofing tear-offs, and construction debris across the South Salt Lake Valley. Compare sizes and request pricing.',
     primaryKeyword: 'sandy dumpster rental',
@@ -3212,27 +3212,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
-        range: '$260–$440 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
-        range: '$300–$510 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
-        range: '$360–$610 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$550–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -3336,7 +3336,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Sandy?',
         answer:
-          'Sandy dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $260–$440 per week. A 20-yard runs $360–$610. A 30-yard ranges from $430–$740. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+          'Sandy dumpster rental prices vary by container size, debris type, weight, and rental period. Your actual quote depends on the project specifics and the provider covering your area.',
       },
       {
         question: 'What size dumpster do I need for a Sandy home cleanout?',
@@ -3371,7 +3371,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Sandy?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If you know the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or needing a second pull.',
+          'Standard rental periods run 7–10 days. If you know the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or needing a second pull.',
       },
       {
         question: 'Are there items I cannot put in a Sandy dumpster?',
@@ -3394,7 +3394,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Lehi',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'Dumpster Rental in Lehi, Utah | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Lehi, Utah',
     metaDescription:
       'Lehi dumpster rental for new construction cleanup, home renovations, and commercial jobs across northern Utah County. Compare sizes and request pricing.',
     primaryKeyword: 'lehi dumpster rental',
@@ -3421,27 +3421,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
-        range: '$255–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, deck removal, medium residential cleanout, landscaping debris',
-        range: '$295–$495 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, new construction cleanup',
-        range: '$355–$595 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, commercial buildout cleanup, new construction site, mixed C&D debris',
-        range: '$425–$730 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major commercial construction, large demolition, campus buildout, multi-unit cleanout',
-        range: '$535–$1,010+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -3546,7 +3546,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Lehi?',
         answer:
-          'Lehi dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $255–$430 per week. A 20-yard runs $355–$595. A 30-yard ranges from $425–$730. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+          'Lehi dumpster rental prices vary by container size, debris type, weight, and rental period. Your actual quote depends on the project specifics and the provider covering your area.',
       },
       {
         question: 'What size dumpster do I need for a Lehi home cleanout?',
@@ -3581,7 +3581,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Lehi?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or scheduling a second pull.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or scheduling a second pull.',
       },
       {
         question: 'Are there items I cannot put in a Lehi dumpster?',
@@ -3604,7 +3604,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'West Valley City',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'Dumpster Rental in West Valley City, UT | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in West Valley City, UT',
     metaDescription:
       'West Valley City dumpster rental for home cleanouts, roofing tear-offs, and commercial jobs in Utah\'s second-largest city. Compare sizes and request pricing.',
     primaryKeyword: 'west valley city dumpster rental',
@@ -3631,27 +3631,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
-        range: '$255–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
-        range: '$295–$490 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
-        range: '$355–$595 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, commercial buildout cleanup, mixed C&D debris',
-        range: '$425–$730 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial or industrial cleanup, large demolition, major renovation, multi-unit cleanout',
-        range: '$530–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -3755,7 +3755,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in West Valley City?',
         answer:
-          'West Valley City dumpster rental prices vary by container size, debris type, weight, and rental period. A 10-yard container typically runs $255–$430 per week. A 20-yard runs $355–$595. A 30-yard ranges from $425–$730. These are general estimates — your actual quote depends on the project specifics and the provider covering your area.',
+          'West Valley City dumpster rental prices vary by container size, debris type, weight, and rental period. Your actual quote depends on the project specifics and the provider covering your area.',
       },
       {
         question: 'What size dumpster do I need for a West Valley City home cleanout?',
@@ -3785,7 +3785,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in West Valley City?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or needing a second pull.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended pricing when you book — it is almost always cheaper than extending mid-rental or needing a second pull.',
       },
       {
         question: 'Are there items I cannot put in a West Valley City dumpster?',
@@ -3808,7 +3808,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Dallas',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Dallas, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Dallas, TX',
     metaDescription:
       'Dallas dumpster rental for roofing tear-offs, home cleanouts, hail damage, and construction debris. Compare sizes and get pricing across Dallas neighborhoods.',
     primaryKeyword: 'dallas dumpster rental',
@@ -3835,27 +3835,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -3960,7 +3960,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Dallas?',
         answer:
-          'A 10-yard container in Dallas runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote will vary by provider, delivery distance, and debris type.',
+          'Your quote will vary by provider, delivery distance, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Dallas home cleanout?',
@@ -3995,7 +3995,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Dallas?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or needing a second pull.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or needing a second pull.',
       },
       {
         question: 'Are there items I cannot put in a Dallas dumpster?',
@@ -4014,7 +4014,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Houston',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Houston, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Houston, TX',
     metaDescription:
       'Houston dumpster rental for post-flood gut-outs, roofing tear-offs, home cleanouts, and construction debris in the Greater Houston area. Get a quote.',
     primaryKeyword: 'houston dumpster rental',
@@ -4041,27 +4041,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, kitchen remodels, post-flood gut-outs, estate cleanouts',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, teardown debris, mixed construction waste, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -4166,7 +4166,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Houston?',
         answer:
-          'A 10-yard container in Houston runs $250–$430 per week. A 20-yard — the most common size for flood gut-outs and home cleanouts — runs $360–$620. A 30-yard for large renovations or teardown debris runs $430–$740. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+          'Your quote will vary by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Houston home cleanout?',
@@ -4201,7 +4201,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Houston?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Post-flood gut-outs often take longer than planned — ask about extended rental pricing when you book rather than extending mid-rental.',
+          'Standard rental periods run 7–10 days. Post-flood gut-outs often take longer than planned — ask about extended rental pricing when you book rather than extending mid-rental.',
       },
       {
         question: 'Are there items I cannot put in a Houston dumpster?',
@@ -4219,7 +4219,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Austin',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Austin, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Austin, TX',
     metaDescription:
       'Austin dumpster rental for home cleanouts, renovation debris, ADU construction, and yard waste across Austin neighborhoods. Compare sizes and get a quote.',
     primaryKeyword: 'austin dumpster rental',
@@ -4246,27 +4246,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$250–$440 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and cedar clearing',
-        range: '$320–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, kitchen remodels, ADU demo, estate cleanouts',
-        range: '$370–$630 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$440–$750 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$570–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -4370,7 +4370,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Austin?',
         answer:
-          'A 10-yard container in Austin runs $250–$440 per week. A 20-yard — the most common size for home cleanouts and renovation projects — runs $370–$630. A 30-yard for large renovations or full property cleanouts runs $440–$750. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+          'Your quote will vary by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for an Austin home cleanout?',
@@ -4405,7 +4405,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Austin?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or scheduling a second pull.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or scheduling a second pull.',
       },
       {
         question: 'Are there items I cannot put in an Austin dumpster?',
@@ -4423,7 +4423,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'San Antonio',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in San Antonio, TX | Sizes & Local Guide',
+    metaTitle: 'Dumpster Rental in San Antonio, TX',
     metaDescription:
       'San Antonio dumpster rental for home cleanouts, roofing tear-offs, military housing turnover, and renovation debris across Bexar County. Get a quote.',
     primaryKeyword: 'san antonio dumpster rental',
@@ -4450,27 +4450,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$240–$420 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$300–$510 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, military housing turnover',
-        range: '$350–$600 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$420–$720 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$540–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -4574,7 +4574,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in San Antonio?',
         answer:
-          'A 10-yard container in San Antonio runs $240–$420 per week. A 20-yard — the most common size for home cleanouts and roofing tear-offs — runs $350–$600. A 30-yard for large renovations or full property cleanouts runs $420–$720. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+          'Your quote will vary by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a San Antonio home cleanout?',
@@ -4609,7 +4609,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in San Antonio?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended rental pricing when you book — it is cheaper than extending mid-rental or scheduling a second pull.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended rental pricing when you book — it is cheaper than extending mid-rental or scheduling a second pull.',
       },
       {
         question: 'Are there items I cannot put in a San Antonio dumpster?',
@@ -4627,7 +4627,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Fort Worth',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Fort Worth, TX | Sizes, Costs & Guide',
+    metaTitle: 'Dumpster Rental in Fort Worth, TX',
     metaDescription:
       'Fort Worth dumpster rental for roofing tear-offs, home cleanouts, construction debris, and Fairmount renovation projects across Tarrant County. Get a quote.',
     primaryKeyword: 'fort worth dumpster rental',
@@ -4654,27 +4654,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -4778,7 +4778,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Fort Worth?',
         answer:
-          'A 10-yard container in Fort Worth runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+          'Your quote will vary by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Fort Worth home cleanout?',
@@ -4813,7 +4813,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Fort Worth?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or needing a second pull.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or needing a second pull.',
       },
       {
         question: 'Are there items I cannot put in a Fort Worth dumpster?',
@@ -4831,7 +4831,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Plano',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Plano, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Plano, TX',
     metaDescription:
       'Plano dumpster rental for home cleanouts, roofing tear-offs, kitchen remodels, and estate cleanouts across Plano neighborhoods. Compare sizes and get a quote.',
     primaryKeyword: 'plano dumpster rental',
@@ -4858,27 +4858,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -4980,7 +4980,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Plano?',
         answer:
-          'A 10-yard container in Plano runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs, kitchen remodels, and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote will vary by provider, delivery location, and debris type.',
+          'Your quote will vary by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Plano home cleanout?',
@@ -5015,7 +5015,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Plano?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Many Plano HOAs limit how long a container can sit on the property — factor that into your rental period when you book.',
+          'Standard rental periods run 7–10 days. Many Plano HOAs limit how long a container can sit on the property — factor that into your rental period when you book.',
       },
       {
         question: 'Are there items I cannot put in a Plano dumpster?',
@@ -5033,7 +5033,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Cheyenne',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Cheyenne, WY | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Cheyenne, WY',
     metaDescription: 'Roll-off dumpster rental in Cheyenne, Wyoming. Local pricing, container sizes, and delivery for home cleanouts, construction debris, and renovation projects.',
     primaryKeyword: 'dumpster rental Cheyenne WY',
     secondaryKeywords: [
@@ -5047,15 +5047,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Cheyenne for home cleanouts, construction debris, and renovation projects across Laramie County.',
     introParagraphs: [
       'Cheyenne is Wyoming\'s largest city and state capital, with a mix of older residential neighborhoods, active construction, and working ranches on the urban fringe. Most home cleanouts and remodels in Cheyenne work with a 10- or 20-yard container.',
-      'Pricing in Cheyenne runs slightly higher than Front Range Colorado markets due to a smaller provider pool. A 10-yard container starts around $260–$440 per week. Delivery windows of 48–72 hours are standard for most Cheyenne-area providers.',
+      'Delivery windows of 48–72 hours are standard for most Cheyenne-area providers.',
       'Wind events in southeast Wyoming can accelerate exterior project timelines. If you are replacing a fence, cleaning out storm-damaged outbuildings, or clearing land on a rural property, confirm weight limits before loading — dirt and rock hit limits fast.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$260–$440' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$310–$520' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$370–$640' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$440–$760' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$560–$1,050+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home Cleanouts', description: 'Full-house, garage, and estate cleanouts in older Cheyenne neighborhoods. Mid-century homes on the south side often generate significant volume.' },
@@ -5085,7 +5085,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Cheyenne, WY?',
-        answer: 'A 10-yard container in Cheyenne runs $260–$440 per week. Prices vary by provider, container size, debris type, and delivery distance. Cheyenne has a smaller provider pool than Front Range Colorado markets, which keeps pricing slightly higher.',
+        answer: 'Prices vary by provider, container size, debris type, and delivery distance.',
       },
       {
         question: 'Do I need a permit to place a dumpster in Cheyenne?',
@@ -5108,7 +5108,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Casper',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Casper, WY | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Casper, WY',
     metaDescription: 'Roll-off dumpster rental in Casper, Wyoming. Local pricing, container sizes, and delivery for home cleanouts, construction debris, and renovation projects in Natrona County.',
     primaryKeyword: 'dumpster rental Casper WY',
     secondaryKeywords: [
@@ -5122,15 +5122,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Casper for home cleanouts, construction projects, and renovation work across Natrona County.',
     introParagraphs: [
       'Casper is Wyoming\'s second-largest city, sitting along the North Platte River in Natrona County. The city has a strong residential base, active oil and energy industry, and growing construction activity. Most home cleanouts run 10–20 yards. Larger commercial and industrial cleanouts on the east side of town can reach 30–40 yards.',
-      'Dumpster pricing in Casper is comparable to Cheyenne. A 10-yard runs $260–$440 per week. The provider pool in Casper is small — availability for specific container sizes can tighten quickly during peak construction months.',
+      'The provider pool in Casper is small — availability for specific container sizes can tighten quickly during peak construction months.',
       'Casper\'s energy sector history means some older industrial properties and rural parcels around Natrona County may have equipment, scrap, and mixed debris that requires sorting before loading. Confirm prohibited items with your provider before booking.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$260–$440' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$310–$520' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$370–$640' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$440–$760' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$560–$1,050+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home Cleanouts', description: 'Full-house, garage, and estate cleanouts across Casper\'s older residential neighborhoods and Paradise Valley.' },
@@ -5159,7 +5159,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Casper, WY?',
-        answer: 'A 10-yard container in Casper typically runs $260–$440 per week. The final price depends on container size, debris type, weight, and delivery distance. The provider pool in Casper is smaller than larger markets, so book early during peak months.',
+        answer: 'The final price depends on container size, debris type, weight, and delivery distance. The provider pool in Casper is smaller than larger markets, so book early during peak months.',
       },
       {
         question: 'Do I need a permit to place a dumpster in Casper?',
@@ -5182,7 +5182,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Gillette',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Gillette, WY | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Gillette, WY',
     metaDescription: 'Roll-off dumpster rental in Gillette, Wyoming. Container sizes, local pricing, and delivery for home cleanouts, construction, and renovation projects in Campbell County.',
     primaryKeyword: 'dumpster rental Gillette WY',
     secondaryKeywords: [
@@ -5196,15 +5196,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Roll-off dumpster rental in Gillette and Campbell County for home cleanouts, construction debris, and renovation projects.',
     introParagraphs: [
       'Gillette is the commercial hub of northeast Wyoming and the seat of Campbell County. The city\'s economy is tied to coal and energy, but residential growth and home renovation activity create steady demand for roll-off containers. Most home cleanouts use 10–20 yard containers.',
-      'Pricing in Gillette is comparable to other Wyoming markets. A 10-yard container starts around $260–$440 per week. With fewer providers than urban markets, availability for specific sizes can be limited on short notice — especially during peak summer months.',
+      'With fewer providers than urban markets, availability for specific sizes can be limited on short notice — especially during peak summer months.',
       'Gillette\'s large rural fringe means many rental requests involve ranch parcels, rural outbuildings, and properties with mixed debris. Confirm what your provider accepts before loading, particularly for metal scraps or equipment parts common in an energy-sector market.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$260–$440' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$310–$520' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$370–$640' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$440–$760' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$560–$1,050+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home Cleanouts', description: 'Residential cleanouts in Gillette\'s established neighborhoods and newer developments on the city\'s expanding edges.' },
@@ -5232,7 +5232,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Gillette, WY?',
-        answer: 'A 10-yard container in Gillette runs roughly $260–$440 per week. Price depends on container size, debris type, weight, and delivery location. Providers in Gillette are fewer than in larger metros — book early for summer projects.',
+        answer: 'Price depends on container size, debris type, weight, and delivery location. Providers in Gillette are fewer than in larger metros — book early for summer projects.',
       },
       {
         question: 'Can I get a dumpster for a rural property near Gillette?',
@@ -5255,7 +5255,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Laramie',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Laramie, WY | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Laramie, WY',
     metaDescription: 'Roll-off dumpster rental in Laramie, Wyoming. Local pricing, container sizes, and delivery for home cleanouts, university-area moves, and construction projects.',
     primaryKeyword: 'dumpster rental Laramie WY',
     secondaryKeywords: [
@@ -5269,15 +5269,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Roll-off dumpster rental in Laramie for home cleanouts, renovation projects, and construction debris across Albany County.',
     introParagraphs: [
       'Laramie sits at 7,165 feet in southeast Wyoming and is home to the University of Wyoming. The city\'s rental market sees consistent cleanout demand around lease turnover, and its residential core has a mix of older homes and newer construction near campus. Most cleanouts use 10–15 yard containers.',
-      'Pricing in Laramie is in line with other Wyoming markets: a 10-yard starts around $260–$440. Laramie\'s smaller provider pool means less flexibility on same-day or next-day requests. Book 48–72 hours ahead for standard service.',
+      'Laramie\'s smaller provider pool means less flexibility on same-day or next-day requests. Book 48–72 hours ahead for standard service.',
       'Laramie\'s high-altitude location and proximity to I-80 keep construction activity consistent. Winter weather can complicate delivery scheduling from November through March — plan ahead if your project falls in that window.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$260–$440' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$310–$520' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$370–$640' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$440–$760' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$560–$1,050+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home & Rental Cleanouts', description: 'Laramie\'s university population drives consistent rental property turnover and cleanout demand, particularly in spring and late summer.' },
@@ -5305,7 +5305,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Laramie, WY?',
-        answer: 'A 10-yard container in Laramie runs $260–$440 per week. Pricing depends on container size, debris type, weight, and delivery location. Laramie\'s smaller market means fewer providers — book ahead for peak summer months.',
+        answer: 'Pricing depends on container size, debris type, weight, and delivery location. Laramie\'s smaller market means fewer providers — book ahead for peak summer months.',
       },
       {
         question: 'Can I get a dumpster near the University of Wyoming campus?',
@@ -5328,7 +5328,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Rock Springs',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Rock Springs, WY | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Rock Springs, WY',
     metaDescription: 'Roll-off dumpster rental in Rock Springs, Wyoming. Container sizes, local pricing, and delivery for home cleanouts and construction projects in Sweetwater County.',
     primaryKeyword: 'dumpster rental Rock Springs WY',
     secondaryKeywords: [
@@ -5342,15 +5342,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Rock Springs for home cleanouts, construction debris, and renovation projects in Sweetwater County.',
     introParagraphs: [
       'Rock Springs is a Sweetwater County city in southwest Wyoming, connected to the regional economy through energy, transportation, and service industries. The city has a stable residential base and consistent demand for cleanout and construction containers.',
-      'A 10-yard container in Rock Springs runs $260–$440 per week. The provider pool is limited — advance booking of 48–72 hours is standard, and specialty sizes may require more lead time. Nearby Green River is also served by most Rock Springs providers.',
+      'The provider pool is limited — advance booking of 48–72 hours is standard, and specialty sizes may require more lead time. Nearby Green River is also served by most Rock Springs providers.',
       'Rock Springs sits along I-80 with access to a broad surrounding area. Rural Sweetwater County parcels — particularly properties used for ranching or energy-related work — often need larger containers and may carry a delivery mileage charge.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$260–$440' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$310–$520' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$370–$640' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$440–$760' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$560–$1,050+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home Cleanouts', description: 'Residential cleanouts across Rock Springs neighborhoods. Full-house and garage cleanouts are the most common residential request.' },
@@ -5378,7 +5378,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Rock Springs, WY?',
-        answer: 'A 10-yard container in Rock Springs runs $260–$440 per week. Pricing varies by container size, debris type, weight, and delivery distance. The limited provider pool means availability can be tight — book 48–72 hours ahead.',
+        answer: 'Pricing varies by container size, debris type, weight, and delivery distance. The limited provider pool means availability can be tight — book 48–72 hours ahead.',
       },
       {
         question: 'Do Rock Springs providers also serve Green River?',
@@ -5401,7 +5401,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Sheridan',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Sheridan, WY | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Sheridan, WY',
     metaDescription: 'Roll-off dumpster rental in Sheridan, Wyoming. Container sizes, local pricing, and delivery for home cleanouts, ranch cleanouts, and renovation projects.',
     primaryKeyword: 'dumpster rental Sheridan WY',
     secondaryKeywords: [
@@ -5415,15 +5415,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Roll-off dumpster rental in Sheridan for home cleanouts, ranch property debris, and renovation projects across Sheridan County.',
     introParagraphs: [
       'Sheridan is a northern Wyoming city at the base of the Bighorn Mountains in Sheridan County. The city has a well-preserved historic downtown, a strong agriculture and ranching economy, and consistent residential construction activity. Most cleanout and renovation jobs use 10–20 yard containers.',
-      'Pricing in Sheridan is similar to other Wyoming markets: a 10-yard starts around $260–$440. The provider pool is limited, and advance booking of 48–72 hours is typical. During peak summer months, availability can tighten — book ahead for time-sensitive jobs.',
+      'The provider pool is limited, and advance booking of 48–72 hours is typical. During peak summer months, availability can tighten — book ahead for time-sensitive jobs.',
       'Sheridan County\'s large ranch and agricultural properties are a common source of rural cleanout requests. Outbuildings, equipment sheds, and decades-old accumulations on ranch parcels often need 30–40 yard containers and may require multiple pulls.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$260–$440' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$310–$520' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$370–$640' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$440–$760' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$560–$1,050+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home & Estate Cleanouts', description: 'Sheridan\'s older residential neighborhoods and historic properties generate significant volume on estate cleanouts and ownership changes.' },
@@ -5451,7 +5451,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Sheridan, WY?',
-        answer: 'A 10-yard container in Sheridan runs $260–$440 per week. Price varies by container size, debris type, weight, and delivery location. Book early — the provider pool in Sheridan is small and summer availability tightens.',
+        answer: 'Price varies by container size, debris type, weight, and delivery location. Book early — the provider pool in Sheridan is small and summer availability tightens.',
       },
       {
         question: 'Can I rent a dumpster for a ranch property near Sheridan?',
@@ -5476,7 +5476,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Oklahoma City',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental in Oklahoma City, OK | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Oklahoma City, OK',
     metaDescription: 'Roll-off dumpster rental in Oklahoma City. Local pricing, container sizes, and delivery for home cleanouts, tornado cleanup, construction debris, and renovation projects.',
     primaryKeyword: 'dumpster rental Oklahoma City OK',
     secondaryKeywords: [
@@ -5493,15 +5493,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Oklahoma City for home cleanouts, tornado cleanup, construction debris, and renovation projects across the OKC metro.',
     introParagraphs: [
       'Oklahoma City is one of the fastest-growing metros in the South-Central US, with active residential construction, commercial development, and consistent storm cleanup demand. The city sits in Tornado Alley — post-storm cleanups are a recurring driver of container demand, particularly in south and southwest OKC neighborhoods.',
-      'Pricing in Oklahoma City is competitive. A 10-yard container starts around $250–$420 per week. The metro has multiple providers, which keeps lead times short — 24–48 hours is typical for in-city delivery. During and after major storm events, availability can tighten fast.',
+      'Pricing in Oklahoma City is competitive. The metro has multiple providers, which keeps lead times short — 24–48 hours is typical for in-city delivery. During and after major storm events, availability can tighten fast.',
       'Oklahoma City\'s spread-out geography means delivery zones vary significantly by provider. Confirm your address is in-network before booking, especially for addresses in far northwest OKC, Moore, Edmond, or Yukon.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$250–$420' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$300–$500' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$360–$620' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$430–$740' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$550–$1,000+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Tornado & Storm Cleanup', description: 'Oklahoma City sits in Tornado Alley. Post-storm debris — wood framing, insulation, roofing, fence material — is a major recurring container use in the OKC metro.' },
@@ -5531,7 +5531,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Oklahoma City?',
-        answer: 'A 10-yard container in OKC runs $250–$420 per week. Final price depends on container size, debris type, weight, and delivery address. The OKC metro has more providers than smaller markets, which helps keep pricing competitive.',
+        answer: 'Final price depends on container size, debris type, weight, and delivery address. The OKC metro has more providers than smaller markets, which helps keep pricing competitive.',
       },
       {
         question: 'Can I get a dumpster for tornado or storm cleanup in OKC?',
@@ -5554,7 +5554,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Tulsa',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental in Tulsa, OK | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Tulsa, OK',
     metaDescription: 'Roll-off dumpster rental in Tulsa, Oklahoma. Local pricing, container sizes, and delivery for home cleanouts, storm cleanup, construction, and renovation projects.',
     primaryKeyword: 'dumpster rental Tulsa OK',
     secondaryKeywords: [
@@ -5571,15 +5571,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Tulsa for home cleanouts, storm debris, construction projects, and renovation work across the Tulsa metro.',
     introParagraphs: [
       'Tulsa is Oklahoma\'s second-largest city, with a strong mix of residential neighborhoods, active construction, and commercial development in Tulsa County. The Tulsa metro includes Broken Arrow, Owasso, Jenks, and Sand Springs — all served by providers based in or near the city.',
-      'Pricing in Tulsa is competitive. A 10-yard container starts around $250–$420 per week. The city has a solid provider network, and 24–48 hour delivery is standard for most in-city addresses. During storm season, call early — demand spikes fast after significant weather events.',
+      'Pricing in Tulsa is competitive. The city has a solid provider network, and 24–48 hour delivery is standard for most in-city addresses. During storm season, call early — demand spikes fast after significant weather events.',
       'Tulsa\'s older neighborhoods — Midtown, Brookside, Cherry Street — have historic homes where renovation debris can include dense materials like plaster, brick, and old-growth lumber. These hit weight limits fast — size up or confirm weight allowances before loading.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$250–$420' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$300–$500' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$360–$620' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$430–$740' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$550–$1,000+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home Cleanouts', description: 'Full-house, estate, and garage cleanouts in Tulsa\'s established neighborhoods. Midtown and Cherry Street areas have older homes that generate significant cleanout volume.' },
@@ -5610,7 +5610,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Tulsa, OK?',
-        answer: 'A 10-yard container in Tulsa runs $250–$420 per week. Price varies by container size, debris type, weight, and delivery location. Tulsa has a solid provider network, which helps keep pricing competitive.',
+        answer: 'Price varies by container size, debris type, weight, and delivery location. Tulsa has a solid provider network, which helps keep pricing competitive.',
       },
       {
         question: 'Can I get a dumpster for storm cleanup in Tulsa?',
@@ -5633,7 +5633,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Norman',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental in Norman, OK | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Norman, OK',
     metaDescription: 'Roll-off dumpster rental in Norman, Oklahoma. Local pricing, container sizes, and delivery for home cleanouts, construction debris, and renovation projects.',
     primaryKeyword: 'dumpster rental Norman OK',
     secondaryKeywords: [
@@ -5650,15 +5650,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Norman for home cleanouts, construction debris, and renovation projects across Cleveland County.',
     introParagraphs: [
       'Norman is home to the University of Oklahoma and is one of Oklahoma\'s fastest-growing cities. Located just south of Oklahoma City in Cleveland County, Norman has active residential construction, strong rental property turnover, and consistent home renovation activity.',
-      'Pricing in Norman is in line with the OKC metro. A 10-yard container starts around $250–$420 per week. Most OKC-area providers serve Norman, giving you reasonable selection. Book 24–48 hours ahead for standard delivery.',
+      'Most OKC-area providers serve Norman, giving you reasonable selection. Book 24–48 hours ahead for standard delivery.',
       'Norman\'s growth has pushed residential construction into the city\'s northwest and east sides. New build debris, subdivision development, and renovation of older University North Park and Brookhaven-area homes all create container demand.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$250–$420' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$300–$500' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$360–$620' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$430–$740' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$550–$1,000+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home Cleanouts', description: 'Full-house, garage, and estate cleanouts across Norman\'s established and growing residential neighborhoods.' },
@@ -5687,7 +5687,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Norman, OK?',
-        answer: 'A 10-yard container in Norman typically runs $250–$420 per week. Pricing varies by size, debris type, weight, and delivery location. Most OKC-area providers serve Norman, giving you solid options.',
+        answer: 'Pricing varies by size, debris type, weight, and delivery location. Most OKC-area providers serve Norman, giving you solid options.',
       },
       {
         question: 'Do Norman providers also serve Moore and Midwest City?',
@@ -5710,7 +5710,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Broken Arrow',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental in Broken Arrow, OK | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Broken Arrow, OK',
     metaDescription: 'Roll-off dumpster rental in Broken Arrow, Oklahoma. Container sizes, local pricing, and delivery for home cleanouts, construction debris, and renovation projects.',
     primaryKeyword: 'dumpster rental Broken Arrow OK',
     secondaryKeywords: [
@@ -5727,15 +5727,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Roll-off dumpster rental in Broken Arrow for home cleanouts, construction debris, and renovation projects across the Tulsa metro.',
     introParagraphs: [
       'Broken Arrow is Tulsa\'s largest suburb and one of the fastest-growing cities in Oklahoma. Located in both Tulsa and Wagoner Counties, the city has extensive new residential construction, established neighborhoods under renovation, and a large commercial base.',
-      'Pricing in Broken Arrow is in line with the Tulsa metro: a 10-yard container starts around $250–$420 per week. Most Tulsa-area providers cover Broken Arrow, and 24–48 hour delivery is standard for most addresses.',
+      'Most Tulsa-area providers cover Broken Arrow, and 24–48 hour delivery is standard for most addresses.',
       'Broken Arrow\'s residential construction activity — particularly in its Rose District and east-side growth areas — generates consistent demand for 20 and 30-yard construction containers. Home renovation in the city\'s established 1970s and 1980s-era neighborhoods is also a steady driver.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$250–$420' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$300–$500' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$360–$620' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$430–$740' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$550–$1,000+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home Cleanouts', description: 'Residential cleanouts across Broken Arrow\'s established 1970s–1990s neighborhoods and newer subdivisions on the city\'s east side.' },
@@ -5763,7 +5763,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Broken Arrow, OK?',
-        answer: 'A 10-yard container in Broken Arrow runs $250–$420 per week. Price varies by container size, debris type, weight, and delivery location. Most Tulsa-area providers serve Broken Arrow.',
+        answer: 'Price varies by container size, debris type, weight, and delivery location. Most Tulsa-area providers serve Broken Arrow.',
       },
       {
         question: 'Do I need a permit to place a dumpster in Broken Arrow?',
@@ -5786,7 +5786,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Edmond',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental in Edmond, OK | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Edmond, OK',
     metaDescription: 'Roll-off dumpster rental in Edmond, Oklahoma. Local pricing, container sizes, and delivery for home cleanouts, construction debris, and renovation projects north of Oklahoma City.',
     primaryKeyword: 'dumpster rental Edmond OK',
     secondaryKeywords: [
@@ -5800,15 +5800,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Edmond for home cleanouts, construction debris, and renovation projects north of Oklahoma City.',
     introParagraphs: [
       'Edmond is one of the fastest-growing cities in Oklahoma, located just north of Oklahoma City in Oklahoma County. Strong residential growth, active renovation, and a consistent new construction pipeline make Edmond one of the more active container rental markets in the OKC metro.',
-      'Pricing in Edmond runs in line with OKC: a 10-yard starts around $250–$420 per week. Most OKC-area providers serve Edmond, and 24–48 hour delivery is standard. For larger containers during peak construction season, book 3–4 days ahead.',
+      'Most OKC-area providers serve Edmond, and 24–48 hour delivery is standard. For larger containers during peak construction season, book 3–4 days ahead.',
       'Edmond\'s newer construction — particularly in Deer Creek, Coffee Creek, and Waterloo Road corridors — generates steady new-build debris demand. Renovation of older homes near downtown also drives cleanout and remodel container requests.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$250–$420' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$300–$500' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$360–$620' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$430–$740' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$550–$1,000+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home Cleanouts', description: 'Full-house, garage, and estate cleanouts across Edmond\'s established neighborhoods and newer developments north of the city.' },
@@ -5836,7 +5836,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Edmond, OK?',
-        answer: 'A 10-yard container in Edmond runs $250–$420 per week. Price varies by container size, debris type, weight, and delivery location. Most OKC-area providers serve Edmond with 24–48 hour delivery.',
+        answer: 'Price varies by container size, debris type, weight, and delivery location. Most OKC-area providers serve Edmond with 24–48 hour delivery.',
       },
       {
         question: 'Do I need a permit to place a dumpster in Edmond?',
@@ -5859,7 +5859,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Lawton',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental in Lawton, OK | Rolloff Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Lawton, OK',
     metaDescription: 'Roll-off dumpster rental in Lawton, Oklahoma. Container sizes, local pricing, and delivery for home cleanouts, construction debris, and renovation projects in Comanche County.',
     primaryKeyword: 'dumpster rental Lawton OK',
     secondaryKeywords: [
@@ -5873,15 +5873,15 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Lawton for home cleanouts, construction debris, and renovation projects in Comanche County.',
     introParagraphs: [
       'Lawton is southwest Oklahoma\'s largest city, located in Comanche County adjacent to Fort Sill. The city has a diverse economy anchored by Fort Sill and regional services, with steady residential construction and home renovation activity across its urban and suburban areas.',
-      'Pricing in Lawton runs in line with smaller Oklahoma metros: a 10-yard container starts around $250–$420 per week. Lawton has fewer providers than OKC or Tulsa, which can tighten availability. Book 48–72 hours ahead for standard delivery.',
+      'Lawton has fewer providers than OKC or Tulsa, which can tighten availability. Book 48–72 hours ahead for standard delivery.',
       'Lawton\'s proximity to Fort Sill means the local housing market has high turnover — military families moving in and out generate consistent cleanout demand. Most residential cleanouts use 10–20 yard containers.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: '$250–$420' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: '$300–$500' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: '$360–$620' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: '$430–$740' },
-      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: '$550–$1,000+' },
+      { size: '10 Yard', uses: 'Single room cleanout, small demo, garage purge', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, deck removal', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial project, major construction, large demo', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       { number: '01', name: 'Home Cleanouts', description: 'High housing turnover from Fort Sill makes residential cleanouts one of the most consistent container requests in Lawton.' },
@@ -5909,7 +5909,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Lawton, OK?',
-        answer: 'A 10-yard container in Lawton runs $250–$420 per week. Pricing varies by container size, debris type, weight, and delivery location. Lawton has fewer providers than larger Oklahoma metros — book 48–72 hours ahead.',
+        answer: 'Pricing varies by container size, debris type, weight, and delivery location. Lawton has fewer providers than larger Oklahoma metros — book 48–72 hours ahead.',
       },
       {
         question: 'Can I place a dumpster on Fort Sill housing property in Lawton?',
@@ -5934,7 +5934,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Tucson',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Dumpster Rental in Tucson, AZ | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Tucson, AZ',
     metaDescription:
       'Tucson dumpster rental for home cleanouts, roofing debris, estate cleanouts, and construction waste. Serving Tucson, Marana, Oro Valley, and southern Arizona.',
     primaryKeyword: 'tucson dumpster rental',
@@ -5961,27 +5961,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, bathroom remodels, garage cleanouts, and single-room renovations.',
-        range: '$290–$490 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen remodels, yard waste, medium cleanouts, and roofing on smaller homes.',
-        range: '$330–$560 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, estate cleanouts, roofing tear-offs, and general renovation debris.',
-        range: '$390–$670 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovations, construction debris, multi-square roofing jobs, and adobe demo.',
-        range: '$460–$800 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project sites.',
-        range: '$580–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -6086,7 +6086,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Tucson, AZ?',
         answer:
-          'A 10-yard container in Tucson runs $290–$490 per week. A 20-yard — the most common size for home cleanouts and roofing jobs — runs $390–$670. Tucson has fewer providers than Phoenix, so rates vary more between companies. Get at least two quotes before booking.',
+          'Tucson has fewer providers than Phoenix, so rates vary more between companies. Get at least two quotes before booking.',
       },
       {
         question: 'What size dumpster do I need for a Tucson home cleanout?',
@@ -6101,7 +6101,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'What about concrete, tile, or heavy debris in Tucson?',
         answer:
-          'Dense debris like concrete, Saltillo tile, and adobe fills weight limits at roughly half the container volume. Most Tucson providers include 2–3 tons in a standard rental. Confirm the per-ton overage rate before you load — it typically runs $50–$100 per ton over the limit.',
+          'Dense debris like concrete, Saltillo tile, and adobe fills weight limits at roughly half the container volume. Most Tucson providers include 2–3 tons in a standard rental.',
       },
       {
         question: 'How quickly can I get a dumpster delivered in Tucson?',
@@ -6143,7 +6143,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Jackson',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Jackson, WY | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Jackson, WY',
     metaDescription:
       'Roll-off dumpster rental in Jackson, WY. Container sizes, pricing, and local tips for home cleanouts, renovation, and construction in Teton County, Wyoming.',
     primaryKeyword: 'Jackson dumpster rental',
@@ -6166,15 +6166,15 @@ export const cityLocations: CityLocation[] = [
       'Find roll-off dumpster rental options in Jackson for construction debris, home cleanouts, vacation property maintenance, and renovation work in Teton County.',
     introParagraphs: [
       "Jackson's housing stock splits into two categories. The older working-town properties — modest wood-frame homes built from the 1950s through the 1970s in East Jackson and along the Budge Drive corridor — and the post-1990s luxury cabins and custom builds that now dominate most of the surrounding terrain. Tear-downs of older properties to make way for high-end rebuilds generate serious debris volume. Layer on year-round vacation rental maintenance — carpet-out, appliance swap, deck replacement — and the container demand in Jackson runs well above what the town's population alone would suggest.",
-      "The construction season in Teton County is short. Snow can close job sites by October, sometimes earlier. From late May through September, contractors stack projects and timelines compress. That means higher container demand in a smaller window from a limited provider pool. Pricing reflects this — expect to pay 30–50% more than Front Range Colorado rates. A 20-yard container that costs $370–$640 in Denver typically runs $550–$850 in Jackson. A last-minute request during peak summer construction often means waiting for a container to free up. Book with a few days' lead time at minimum.",
+      "The construction season in Teton County is short. Snow can close job sites by October, sometimes earlier. From late May through September, contractors stack projects and timelines compress. That means higher container demand in a smaller window from a limited provider pool. A last-minute request during peak summer construction often means waiting for a container to free up. Book with a few days' lead time at minimum.",
       'Rolloff Dumpster Finder lists providers serving Jackson and Teton County, including coverage into Wilson, Teton Village, Hoback Junction, and Driggs, Idaho. Container sizes locally range from 10-yard bins for single-room projects up to 40-yard roll-offs for larger construction sites. One thing worth asking your provider: if your property is near a wildlife corridor or you are renting for multiple weeks, closed-top containers or scheduled mid-rental pickups reduce the risk of bears getting into an open bin. It is not hypothetical — Teton County has active bear management programs for a reason.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single-room cleanout, small deck removal, garage purge, attic clear-out', range: '$380–$620 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, exterior siding removal, cabin renovation', range: '$460–$740 / week' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen gut, vacation property turnover', range: '$550–$850 / week' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, construction debris, tear-down debris', range: '$680–$1,050 / week' },
-      { size: '40 Yard', uses: 'Commercial construction, major demolition, large custom home build-out', range: '$850–$1,400 / week' },
+      { size: '10 Yard', uses: 'Single-room cleanout, small deck removal, garage purge, attic clear-out', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, medium cleanout, exterior siding removal, cabin renovation', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen gut, vacation property turnover', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, construction debris, tear-down debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial construction, major demolition, large custom home build-out', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -6275,7 +6275,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Jackson, WY?',
         answer:
-          'A 10-yard container in Jackson typically runs $380–$620 per week. A 20-yard — the most common size for home cleanouts and roofing jobs — runs $550–$850. Jackson prices run 30–50% higher than Front Range Colorado markets. The provider pool is small, availability is tighter, and operating costs in Teton County are significantly higher.',
+          'The provider pool is small, availability is tighter, and operating costs in Teton County are significantly higher.',
       },
       {
         question: 'What size dumpster do I need for a Jackson home cleanout?',
@@ -6332,7 +6332,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Evanston',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Evanston, WY | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Evanston, WY',
     metaDescription:
       'Roll-off dumpster rental in Evanston, WY. Container sizes, honest pricing, and delivery for home cleanouts, ranch properties, and construction in Uinta County.',
     primaryKeyword: 'Evanston dumpster rental',
@@ -6359,11 +6359,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder connects Evanston customers with roll-off providers serving southwestern Wyoming and the Utah border corridor. The city sits near the I-80 Wyoming-Utah line — some providers come from the Rock Springs and Green River direction, others out of the Salt Lake City metro, about 80 miles west. That gives Evanston more options than a town this size typically gets. Container sizes range from 10-yard bins for single-room jobs up to 40-yard roll-offs for larger commercial or rural cleanouts.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single-room cleanout, small demolition, garage purge, attic clear-out', range: '$270–$460 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodel, deck removal, medium home cleanout, shed demolition', range: '$320–$545 / week' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel, rental property turnover', range: '$385–$665 / week' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, ranch property debris, C&D debris', range: '$465–$800 / week' },
-      { size: '40 Yard', uses: 'Commercial construction, major demo, large industrial or rural site cleanout', range: '$585–$1,090 / week' },
+      { size: '10 Yard', uses: 'Single-room cleanout, small demolition, garage purge, attic clear-out', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, deck removal, medium home cleanout, shed demolition', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel, rental property turnover', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, ranch property debris, C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial construction, major demo, large industrial or rural site cleanout', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -6455,7 +6455,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Evanston, WY?',
         answer:
-          'A 10-yard container in Evanston typically runs $270–$460 per week. A 20-yard — the most common size for full home cleanouts and roofing jobs — runs $385–$665. Evanston has a small provider pool, so pricing can vary more between companies than in larger markets. Get at least two quotes before booking.',
+          'Evanston has a small provider pool, so pricing can vary more between companies than in larger markets. Get at least two quotes before booking.',
       },
       {
         question: 'What size dumpster do I need for an Evanston home cleanout?',
@@ -6470,7 +6470,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'What about concrete, dirt, or heavy debris in Evanston?',
         answer:
-          'Most providers accept concrete, dirt, and rock in designated heavy-debris containers. These materials hit weight limits at roughly half the container volume. Confirm the per-ton overage rate before you load — it typically runs $50–$100 per ton over the included limit.',
+          'Most providers accept concrete, dirt, and rock in designated heavy-debris containers. These materials hit weight limits at roughly half the container volume.',
       },
       {
         question: 'How quickly can I get a dumpster delivered in Evanston?',
@@ -6512,7 +6512,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Green River',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Green River, WY | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Green River, WY',
     metaDescription:
       'Roll-off dumpster rental in Green River, WY. Container sizes, pricing, and delivery for home cleanouts, renovation, and commercial projects in Sweetwater County.',
     primaryKeyword: 'Green River dumpster rental',
@@ -6539,11 +6539,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder lists roll-off providers serving Green River and the broader Sweetwater County market, including Rock Springs and communities along the I-80 corridor. Most providers covering Rock Springs also service Green River, so availability and lead times are reasonably predictable. Container sizes run from 10-yard bins for single-room jobs to 40-yard roll-offs for commercial and industrial work. If your project is south of town toward Flaming Gorge, confirm the delivery surcharge with your provider — distance pricing varies.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single-room cleanout, garage purge, small demolition, attic clear-out', range: '$260–$450 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodel, deck removal, medium home cleanout, shed demolition', range: '$315–$535 / week' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel, rental property turnover', range: '$375–$655 / week' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, ranch property debris, mixed C&D debris', range: '$455–$785 / week' },
-      { size: '40 Yard', uses: 'Commercial construction, major demolition, large industrial or rural site cleanup', range: '$570–$1,075 / week' },
+      { size: '10 Yard', uses: 'Single-room cleanout, garage purge, small demolition, attic clear-out', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, deck removal, medium home cleanout, shed demolition', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel, rental property turnover', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, ranch property debris, mixed C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial construction, major demolition, large industrial or rural site cleanup', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -6634,7 +6634,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Green River, WY?',
         answer:
-          'A 10-yard container in Green River typically runs $260–$450 per week. A 20-yard — the most common size for full home cleanouts and roofing jobs — runs $375–$655. Green River and Rock Springs share most of the same providers, so pricing is similar across both cities. Get at least two quotes — the small provider pool means rates can vary.',
+          'Green River and Rock Springs share most of the same providers, so pricing is similar across both cities. Get at least two quotes — the small provider pool means rates can vary.',
       },
       {
         question: 'What size dumpster do I need for a Green River home cleanout?',
@@ -6644,7 +6644,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'Can I get a dumpster for roofing debris in Green River?',
         answer:
-          'Yes. Roofing tear-offs are one of the most common container uses in the area. A 20-yard handles most residential asphalt shingle jobs. If you have multiple layers or heavier material coming off, confirm the weight limit upfront — overage fees typically run $50–$100 per ton.',
+          'Yes. Roofing tear-offs are one of the most common container uses in the area. A 20-yard handles most residential asphalt shingle jobs.',
       },
       {
         question: 'What about concrete, dirt, or heavy debris in Green River?',
@@ -6691,7 +6691,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Riverton',
     stateName: 'Wyoming',
     stateAbbr: 'WY',
-    metaTitle: 'Dumpster Rental in Riverton, WY | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Riverton, WY',
     metaDescription:
       'Roll-off dumpster rental in Riverton, WY. Container sizes, pricing, and delivery for home cleanouts, ranch property cleanup, and construction in Fremont County.',
     primaryKeyword: 'Riverton dumpster rental',
@@ -6718,11 +6718,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder lists providers operating in Riverton and serving the broader Fremont County market, including Lander, Shoshoni, Hudson, and Pavillion. Providers based here tend to cover a large geographic footprint by Wyoming standards. Container sizes run from 10-yard bins for single-room residential jobs up to 40-yard roll-offs for large ranch or commercial projects. If your property is on a gravel or unpaved road, mention it when booking — access conditions affect which truck and equipment the provider can send.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Single-room cleanout, attic clear-out, small garage purge, minor demolition', range: '$270–$460 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodel, deck removal, medium home cleanout, shed demolition', range: '$325–$550 / week' },
-      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel, rental property turnover', range: '$390–$670 / week' },
-      { size: '30 Yard', uses: 'Large renovation, estate cleanout, ranch property debris, mixed C&D debris', range: '$470–$800 / week' },
-      { size: '40 Yard', uses: 'Commercial construction, large demo, agricultural site cleanup, major ranch cleanout', range: '$590–$1,090 / week' },
+      { size: '10 Yard', uses: 'Single-room cleanout, attic clear-out, small garage purge, minor demolition', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodel, deck removal, medium home cleanout, shed demolition', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Full home cleanout, roof tear-off, kitchen remodel, rental property turnover', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Large renovation, estate cleanout, ranch property debris, mixed C&D debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Commercial construction, large demo, agricultural site cleanup, major ranch cleanout', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -6812,7 +6812,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Riverton, WY?',
         answer:
-          'A 10-yard container in Riverton typically runs $270–$460 per week. A 20-yard — the most common size for full home cleanouts and roofing jobs — runs $390–$670. Riverton has a small provider pool serving a large geographic area, so rates can vary between companies. Get at least two quotes before booking.',
+          'Riverton has a small provider pool serving a large geographic area, so rates can vary between companies. Get at least two quotes before booking.',
       },
       {
         question: 'What size dumpster do I need for a Riverton home cleanout?',
@@ -6822,7 +6822,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'Can I get a dumpster for roofing debris in Riverton?',
         answer:
-          "Yes. Roofing replacements are common in Riverton's climate. A 20-yard handles most residential shingle tear-offs. Confirm the per-ton weight limit before loading — overage fees typically run $50–$100 per ton, and multiple roofing layers add up fast.",
+          "Yes. Roofing replacements are common in Riverton's climate. A 20-yard handles most residential shingle tear-offs.",
       },
       {
         question: 'What about concrete, dirt, or heavy debris in Riverton?',
@@ -6870,7 +6870,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Arlington',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Arlington, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Arlington, TX',
     metaDescription:
       'Arlington dumpster rental for roofing tear-offs, home cleanouts, and hail damage cleanup. Compare sizes across southeast and north Arlington neighborhoods.',
     primaryKeyword: 'arlington dumpster rental',
@@ -6897,27 +6897,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -7022,7 +7022,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Arlington?',
         answer:
-          'A 10-yard container in Arlington runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for an Arlington home cleanout?',
@@ -7057,7 +7057,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Arlington?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run longer, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or calling for a second pull.',
+          'Standard rental periods run 7–10 days. If the project will run longer, ask about extended pricing at the time of booking — it is cheaper than extending mid-rental or calling for a second pull.',
       },
       {
         question: 'Are there items I cannot put in an Arlington dumpster?',
@@ -7075,7 +7075,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Irving',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Irving, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Irving, TX',
     metaDescription:
       'Irving dumpster rental for roofing tear-offs, home cleanouts, and commercial renovation near Las Colinas and DFW Airport. Compare sizes and get a quote.',
     primaryKeyword: 'irving dumpster rental',
@@ -7102,27 +7102,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, kitchen remodels, estate cleanouts, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -7225,7 +7225,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Irving?',
         answer:
-          'A 10-yard container in Irving runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and home cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for an Irving home cleanout?',
@@ -7260,7 +7260,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Irving?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Ask about extended pricing at the time of booking if the project will run long — it is cheaper than extending mid-rental or calling for a second pull.',
+          'Standard rental periods run 7–10 days. Ask about extended pricing at the time of booking if the project will run long — it is cheaper than extending mid-rental or calling for a second pull.',
       },
       {
         question: 'Are there items I cannot put in an Irving dumpster?',
@@ -7278,7 +7278,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Frisco',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Frisco, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Frisco, TX',
     metaDescription:
       'Frisco dumpster rental for new construction, kitchen remodels, hail damage cleanup, and home cleanouts across Collin County. Compare sizes and get a quote.',
     primaryKeyword: 'frisco dumpster rental',
@@ -7305,27 +7305,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, kitchen teardowns, garage cleanouts, minor roofing jobs',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, multi-room remodels, estate cleanouts, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'New home construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -7426,7 +7426,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Frisco?',
         answer:
-          'A 10-yard container in Frisco runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and multi-room remodels — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Frisco home cleanout?',
@@ -7461,7 +7461,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Frisco?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at the time of booking rather than extending mid-rental. Active construction projects often benefit from a planned pull schedule rather than a single long rental.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended pricing at the time of booking rather than extending mid-rental. Active construction projects often benefit from a planned pull schedule rather than a single long rental.',
       },
       {
         question: 'Are there items I cannot put in a Frisco dumpster?',
@@ -7479,7 +7479,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'McKinney',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in McKinney, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in McKinney, TX',
     metaDescription:
       'McKinney dumpster rental for historic home renovations, Stonebridge Ranch remodels, roofing tear-offs, and estate cleanouts across Collin County.',
     primaryKeyword: 'mckinney dumpster rental',
@@ -7506,27 +7506,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, kitchen teardowns, garage cleanouts, small historic home projects',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, estate cleanouts, multi-room remodels, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, whole-property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'New home construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -7629,7 +7629,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in McKinney?',
         answer:
-          'A 10-yard container in McKinney runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and estate cleanouts — runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a McKinney home cleanout?',
@@ -7664,7 +7664,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in McKinney?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Ask about extended pricing at booking if the project will run long. Estate cleanouts in larger historic McKinney properties sometimes require multiple pulls — plan for that at the start rather than extending mid-rental.',
+          'Standard rental periods run 7–10 days. Ask about extended pricing at booking if the project will run long. Estate cleanouts in larger historic McKinney properties sometimes require multiple pulls — plan for that at the start rather than extending mid-rental.',
       },
       {
         question: 'Are there items I cannot put in a McKinney dumpster?',
@@ -7682,7 +7682,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Garland',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Garland, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Garland, TX',
     metaDescription:
       'Garland dumpster rental for estate cleanouts, 1960s home renovations, roofing tear-offs, and construction debris across Dallas County. Get a quote today.',
     primaryKeyword: 'garland dumpster rental',
@@ -7709,27 +7709,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, garage cleanouts, small concrete jobs, minor roofing work',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, estate cleanouts, kitchen gut jobs, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, full gut remodels, whole-property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Full demolitions, large construction projects, commercial renovation',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -7831,7 +7831,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Garland?',
         answer:
-          'A 10-yard container in Garland runs $250–$430 per week. A 20-yard — the most common size for roofing tear-offs and estate cleanouts — runs $360–$620. A 30-yard for large gut renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Garland home cleanout?',
@@ -7871,7 +7871,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Garland?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Estate cleanouts and full gut renovations in older Garland properties often take longer than expected — ask about extended pricing at booking rather than mid-rental.',
+          'Standard rental periods run 7–10 days. Estate cleanouts and full gut renovations in older Garland properties often take longer than expected — ask about extended pricing at booking rather than mid-rental.',
       },
       {
         question: 'Are there items I cannot put in a Garland dumpster?',
@@ -7889,7 +7889,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Denton',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Denton, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Denton, TX',
     metaDescription:
       'Denton dumpster rental for college rental turnover, home cleanouts, roofing tear-offs, and construction debris across Denton County. Get a quote today.',
     primaryKeyword: 'denton dumpster rental',
@@ -7916,27 +7916,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single rental unit turnover, single-room remodels, garage cleanouts, minor roofing jobs',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, multi-unit rental cleanouts, estate cleanouts, multi-room remodels',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'New home construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -8038,7 +8038,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Denton?',
         answer:
-          'A 10-yard container in Denton runs $250–$430 per week. A 20-yard for roofing tear-offs or estate cleanouts runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Denton rental property cleanout?',
@@ -8073,7 +8073,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Denton?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. For rental property cleanouts with multiple units, ask about extended pricing at booking — it is cheaper than multiple last-minute extensions.',
+          'Standard rental periods run 7–10 days. For rental property cleanouts with multiple units, ask about extended pricing at booking — it is cheaper than multiple last-minute extensions.',
       },
       {
         question: 'Are there items I cannot put in a Denton dumpster?',
@@ -8091,7 +8091,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Grand Prairie',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Grand Prairie, TX | Sizes & Local Guide',
+    metaTitle: 'Dumpster Rental in Grand Prairie, TX',
     metaDescription:
       'Grand Prairie dumpster rental for home cleanouts, roofing tear-offs, commercial debris, and renovation projects between Dallas, Fort Worth, and Arlington.',
     primaryKeyword: 'grand prairie dumpster rental',
@@ -8118,27 +8118,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Garage cleanouts, single-room remodels, small roofing jobs, minor commercial cleanouts',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium home cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, estate cleanouts, kitchen remodels, commercial tenant cleanouts',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, commercial buildout debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'New construction, warehouse renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -8237,7 +8237,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Grand Prairie?',
         answer:
-          'A 10-yard container in Grand Prairie runs $250–$430 per week. A 20-yard for roofing tear-offs and estate cleanouts runs $360–$620. A 30-yard for large renovations or commercial work runs $430–$740. These are market estimates — your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Grand Prairie home cleanout?',
@@ -8272,7 +8272,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Grand Prairie?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. For commercial projects with multiple phases, ask about extended pricing at booking rather than extending mid-rental.',
+          'Standard rental periods run 7–10 days. For commercial projects with multiple phases, ask about extended pricing at booking rather than extending mid-rental.',
       },
       {
         question: 'Are there items I cannot put in a Grand Prairie dumpster?',
@@ -8290,7 +8290,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Carrollton',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Carrollton, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Carrollton, TX',
     metaDescription:
       'Carrollton dumpster rental for home cleanouts, kitchen remodels, roofing tear-offs, and construction debris across Dallas, Denton, and Collin Counties.',
     primaryKeyword: 'carrollton dumpster rental',
@@ -8317,27 +8317,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, garage cleanouts, small roofing jobs, kitchen teardowns',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, estate cleanouts, multi-room remodels, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'New construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -8436,7 +8436,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Carrollton?',
         answer:
-          'A 10-yard container in Carrollton runs $250–$430 per week. A 20-yard for roofing tear-offs and estate cleanouts runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Carrollton home cleanout?',
@@ -8471,7 +8471,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Carrollton?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Ask about extended pricing at booking if the project will run long — it is cheaper than extending mid-rental.',
+          'Standard rental periods run 7–10 days. Ask about extended pricing at booking if the project will run long — it is cheaper than extending mid-rental.',
       },
       {
         question: 'Are there items I cannot put in a Carrollton dumpster?',
@@ -8489,7 +8489,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Richardson',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Richardson, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Richardson, TX',
     metaDescription:
       'Richardson dumpster rental for older home renovations, Telecom Corridor office cleanouts, roofing tear-offs, and estate cleanouts across Dallas County.',
     primaryKeyword: 'richardson dumpster rental',
@@ -8516,27 +8516,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Garage cleanouts, single-room remodels, kitchen teardowns, minor roofing jobs',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, estate cleanouts, multi-room remodels, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home gut renovations, commercial tenant improvements, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial gut jobs, large demolition, full structure removal',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -8635,7 +8635,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Richardson?',
         answer:
-          'A 10-yard container in Richardson runs $250–$430 per week. A 20-yard for roofing tear-offs and estate cleanouts runs $360–$620. A 30-yard for large gut renovations or commercial work runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for a Richardson home cleanout?',
@@ -8670,7 +8670,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Richardson?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. Full gut renovation projects in older Richardson homes sometimes require multiple pulls — plan for that at the start rather than extending mid-rental.',
+          'Standard rental periods run 7–10 days. Full gut renovation projects in older Richardson homes sometimes require multiple pulls — plan for that at the start rather than extending mid-rental.',
       },
       {
         question: 'Are there items I cannot put in a Richardson dumpster?',
@@ -8688,7 +8688,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Allen',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Dumpster Rental in Allen, TX | Sizes, Costs & Local Guide',
+    metaTitle: 'Dumpster Rental in Allen, TX',
     metaDescription:
       'Allen dumpster rental for home remodels, roofing tear-offs, garage cleanouts, and construction debris across Collin County. Get a quote today.',
     primaryKeyword: 'allen dumpster rental',
@@ -8715,27 +8715,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Garage cleanouts, single-room remodels, kitchen teardowns, small roofing jobs',
-        range: '$250–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$310–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full roofing tear-offs, multi-room remodels, estate cleanouts, deck removal',
-        range: '$360–$620 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, mixed construction debris, full property cleanouts',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'New construction, commercial renovation, large demolition jobs',
-        range: '$560–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -8834,7 +8834,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Allen?',
         answer:
-          'A 10-yard container in Allen runs $250–$430 per week. A 20-yard for roofing tear-offs and multi-room remodels runs $360–$620. A 30-yard for large renovations runs $430–$740. These are market estimates; your quote varies by provider, delivery location, and debris type.',
+          'Your quote varies by provider, delivery location, and debris type.',
       },
       {
         question: 'What size dumpster do I need for an Allen home cleanout?',
@@ -8869,7 +8869,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Allen?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day. If the project will run long, ask about extended pricing at booking. HOA-governed communities may also have limits on how long a container can sit visible — confirm this when you check placement rules.',
+          'Standard rental periods run 7–10 days. If the project will run long, ask about extended pricing at booking. HOA-governed communities may also have limits on how long a container can sit visible — confirm this when you check placement rules.',
       },
       {
         question: 'Are there items I cannot put in an Allen dumpster?',
@@ -8886,7 +8886,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Pueblo',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Pueblo Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Pueblo, CO Dumpster Rental',
     metaDescription:
       'Pueblo dumpster rental for home cleanouts, roofing tear-offs, remodels, and construction debris. Compare container sizes and local pricing across Pueblo County.',
     primaryKeyword: 'pueblo dumpster rental',
@@ -8916,27 +8916,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$260–$450 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$295–$505 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Roofing tear-offs, kitchen remodels, basement cleanouts, deck removal',
-        range: '$350–$590 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, estate cleanouts, mixed construction debris',
-        range: '$420–$720 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition projects',
-        range: '$530–$960+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -9047,7 +9047,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Pueblo?',
         answer:
-          'Most Pueblo roll-off rentals run $260–$450 per week for a 10-yard and $350–$590 for a 20-yard. Pricing depends on container size, rental length, and debris type. Heavy debris like concrete or tile can trigger overweight charges — get the full rate schedule in writing before you book.',
+          'Pricing depends on container size, rental length, and debris type. Heavy debris like concrete or tile can trigger overweight charges — get the full rate schedule in writing before you book.',
       },
       {
         question: 'What size dumpster do I need for a Pueblo home cleanout?',
@@ -9077,7 +9077,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Pueblo?',
         answer:
-          'Standard rental periods run 7–10 days. Extensions typically cost $5–$15 per day. If your project might run long, ask about extended rental rates at booking — it is almost always cheaper to negotiate upfront than to pay daily overages after the fact.',
+          'Standard rental periods run 7–10 days. If your project might run long, ask about extended rental rates at booking — it is almost always cheaper to negotiate upfront than to pay daily overages after the fact.',
       },
       {
         question: 'Are there items I cannot put in a Pueblo dumpster?',
@@ -9104,7 +9104,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'St. George',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'St. George Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'St. George, UT Dumpster Rental',
     metaDescription:
       'St. George dumpster rental for home cleanouts, new construction, roofing jobs, and landscaping. Compare container sizes and local pricing in Washington County.',
     primaryKeyword: 'st. george dumpster rental',
@@ -9134,27 +9134,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, yard debris',
-        range: '$270–$460 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, deck removal, medium cleanouts, landscaping waste',
-        range: '$310–$525 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Roofing tear-offs, kitchen remodels, full-home cleanouts, vacation rental refurbs',
-        range: '$370–$625 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovations, estate cleanouts, new construction cleanup, commercial debris',
-        range: '$440–$760 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial buildouts, large demolition, multi-unit cleanout',
-        range: '$555–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -9264,7 +9264,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in St. George?',
         answer:
-          'Most St. George roll-off rentals run $270–$460 per week for a 10-yard and $370–$625 for a 20-yard. Pricing varies by container size, debris type, and rental length. Desert landscaping with heavy rock or gravel can trigger overweight charges. Get the full rate schedule in writing before you book.',
+          'Pricing varies by container size, debris type, and rental length. Desert landscaping with heavy rock or gravel can trigger overweight charges. Get the full rate schedule in writing before you book.',
       },
       {
         question: 'What size dumpster do I need for a St. George home cleanout?',
@@ -9294,7 +9294,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in St. George?',
         answer:
-          'Standard rental periods run 7–10 days. Daily extension rates typically run $5–$15 per day. HOA rules in many St. George communities may limit how long a container can sit visible in a driveway — confirm those rules before scheduling.',
+          'Standard rental periods run 7–10 days. HOA rules in many St. George communities may limit how long a container can sit visible in a driveway — confirm those rules before scheduling.',
       },
       {
         question: 'Are there items I cannot put in a St. George dumpster?',
@@ -9321,7 +9321,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Flagstaff',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Flagstaff Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Flagstaff, AZ Dumpster Rental',
     metaDescription:
       'Flagstaff dumpster rental for home cleanouts, roofing, wildfire debris, and construction. Compare container sizes and local pricing in Coconino County, AZ.',
     primaryKeyword: 'flagstaff dumpster rental',
@@ -9351,27 +9351,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, yard debris, minor roofing jobs',
-        range: '$290–$500 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, deck removal, medium cleanouts, forest and yard waste',
-        range: '$330–$560 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Roofing tear-offs, kitchen remodels, full-home cleanouts, defensible space debris',
-        range: '$395–$670 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovations, estate cleanouts, new construction cleanup, mixed C&D debris',
-        range: '$470–$820 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$590–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -9479,7 +9479,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Flagstaff?',
         answer:
-          'Flagstaff roll-off rentals typically run $290–$500 per week for a 10-yard and $395–$670 for a 20-yard. Flagstaff is a smaller market than Phoenix with fewer providers, so pricing varies more widely. Heavy debris like concrete or landscaping rock will trigger overweight charges. Get a quote with the full rate card before you book.',
+          'Flagstaff is a smaller market than Phoenix with fewer providers, so pricing varies more widely. Heavy debris like concrete or landscaping rock will trigger overweight charges. Get a quote with the full rate card before you book.',
       },
       {
         question: 'What size dumpster do I need for a Flagstaff home cleanout?',
@@ -9509,7 +9509,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Flagstaff?',
         answer:
-          'Standard rental periods run 7–10 days. Extensions typically cost $5–$15 per day. In winter, ask your provider upfront about weather flexibility — some carriers accommodate delays if a storm hits mid-rental. Ask at booking, not after the container is under two feet of snow.',
+          'Standard rental periods run 7–10 days. In winter, ask your provider upfront about weather flexibility — some carriers accommodate delays if a storm hits mid-rental. Ask at booking, not after the container is under two feet of snow.',
       },
       {
         question: 'Are there items I cannot put in a Flagstaff dumpster?',
@@ -9536,7 +9536,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Prescott',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Prescott Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Prescott, AZ Dumpster Rental',
     metaDescription:
       'Prescott dumpster rental for home cleanouts, estate work, roofing jobs, and defensible space clearing. Compare sizes and local pricing in Yavapai County.',
     primaryKeyword: 'prescott dumpster rental',
@@ -9566,27 +9566,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small garage cleanouts, bathroom remodels, single-room renovation debris, and light yard waste.',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room cleanouts, kitchen gut jobs, roofing tear-offs on smaller homes, and moderate estate work.',
-        range: '$320–$545 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, roofing on most single-family homes, basement and garage cleanouts, and estate clearances.',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, major renovation projects, new construction framing debris, and commercial work.',
-        range: '$455–$790 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'New construction, large commercial projects, whole-house renovation debris, and multi-unit property cleanouts.',
-        range: '$570–$1,060+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -9694,7 +9694,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Prescott?',
         answer:
-          'Most Prescott roll-off rentals run $280–$480 per week for a 10-yard and $380–$650 for a 20-yard. Pricing varies by container size, debris type, and rental length. Prescott is a mid-size market — more providers than Flagstaff, fewer than Phoenix — and rates fall between the two. Get a full quote including weight limits and overage fees before booking.',
+          'Pricing varies by container size, debris type, and rental length. Prescott is a mid-size market — more providers than Flagstaff, fewer than Phoenix — and rates fall between the two. Get a full quote including weight limits and overage fees before booking.',
       },
       {
         question: 'What size dumpster do I need for a Prescott home cleanout?',
@@ -9724,7 +9724,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Prescott?',
         answer:
-          'Standard rental periods run 7–10 days. Extensions run $5–$15 per day depending on the provider. If you are doing winter work, ask about weather-related flexibility when you book — some Prescott providers accommodate delays caused by snow or ice.',
+          'Standard rental periods run 7–10 days. If you are doing winter work, ask about weather-related flexibility when you book — some Prescott providers accommodate delays caused by snow or ice.',
       },
       {
         question: 'Are there items I cannot put in a Prescott dumpster?',
@@ -9751,7 +9751,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Waco',
     stateName: 'Texas',
     stateAbbr: 'TX',
-    metaTitle: 'Waco Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Waco, TX Dumpster Rental',
     metaDescription:
       'Waco dumpster rental for home cleanouts, roofing jobs, hail cleanup, and renovation projects. Compare roll-off sizes and local pricing across McLennan County.',
     primaryKeyword: 'waco dumpster rental',
@@ -9781,27 +9781,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small garage cleanouts, single-room remodels, bathroom gut jobs, and light yard waste.',
-        range: '$260–$450 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room cleanouts, kitchen renovations, roofing on smaller homes, and estate work.',
-        range: '$300–$510 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, roofing on most single-family homes, fixer-upper demo debris, and estate clearances.',
-        range: '$360–$615 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, major renovation projects, new construction framing debris, and commercial work.',
-        range: '$430–$745 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'New construction, large commercial projects, whole-house renovation debris, and multi-unit property cleanouts.',
-        range: '$540–$1,010+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -9910,7 +9910,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Waco?',
         answer:
-          'Most Waco roll-off rentals run $260–$450 per week for a 10-yard and $360–$615 for a 20-yard. Pricing depends on container size, debris type, and how long you need it. Waco has multiple local carriers, which keeps rates more competitive than you might expect for a city this size. Get a quote with the weight limit and overage rate included.',
+          'Pricing depends on container size, debris type, and how long you need it. Waco has multiple local carriers, which keeps rates more competitive than you might expect for a city this size. Get a quote with the weight limit and overage rate included.',
       },
       {
         question: 'What size dumpster do I need for a Waco home cleanout?',
@@ -9940,7 +9940,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Waco?',
         answer:
-          'Standard rental periods run 7–10 days. Extensions run $5–$15 per day depending on the provider. For multi-week renovation projects in Sanger Heights or South Waco, ask about longer rental terms upfront — some providers offer flat rates for projects that will run two to three weeks.',
+          'Standard rental periods run 7–10 days. For multi-week renovation projects in Sanger Heights or South Waco, ask about longer rental terms upfront — some providers offer flat rates for projects that will run two to three weeks.',
       },
       {
         question: 'Are there items I cannot put in a Waco dumpster?',
@@ -9967,7 +9967,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Aurora',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Aurora Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Aurora, CO Dumpster Rental',
     metaDescription:
       'Aurora dumpster rental for home cleanouts, roofing jobs, kitchen remodels, and construction debris. Local container sizes and pricing for the Aurora, CO area.',
     primaryKeyword: 'aurora dumpster rental',
@@ -9997,27 +9997,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, deck removal',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, estate cleanouts, mixed construction debris',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -10129,7 +10129,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Aurora?',
         answer:
-          'A 10-yard container runs $280–$480 per week in the Aurora market. A 20-yard is typically $380–$650. The main variables are container size, what you put in it (heavy debris can trigger overage fees), and rental duration. Always ask for a quote that includes the weight allowance, not just the base rate.',
+          'The main variables are container size, what you put in it (heavy debris can trigger overage fees), and rental duration. Always ask for a quote that includes the weight allowance, not just the base rate.',
       },
       {
         question: 'What size dumpster do I need for an Aurora home cleanout?',
@@ -10159,7 +10159,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Aurora?',
         answer:
-          'Standard rental periods run 7 to 14 days. Most providers charge a daily rate after that — typically $5–$15 per day depending on the container size. If your project is running long, call your provider before the rental period ends. Extending is usually cheaper than a second pull.',
+          'Standard rental periods run 7 to 14 days. If your project is running long, call your provider before the rental period ends. Extending is usually cheaper than a second pull.',
       },
       {
         question: "What can't I put in an Aurora roll-off dumpster?",
@@ -10190,7 +10190,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Lakewood',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Lakewood Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Lakewood, CO Dumpster Rental',
     metaDescription:
       'Lakewood dumpster rental for home cleanouts, roofing tear-offs, remodels, and construction debris. Local container sizes and honest pricing for Lakewood, CO.',
     primaryKeyword: 'lakewood dumpster rental',
@@ -10220,27 +10220,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, deck removal',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, estate cleanouts, mixed construction debris',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -10350,7 +10350,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Lakewood?',
         answer:
-          'A 10-yard container typically runs $280–$480 per week in the Lakewood market. A 20-yard is usually $380–$650. The final cost depends on container size, what you put in it, and how long you keep it. Always ask for a quote that includes the weight allowance — not just the base rental rate.',
+          'The final cost depends on container size, what you put in it, and how long you keep it. Always ask for a quote that includes the weight allowance — not just the base rental rate.',
       },
       {
         question: 'What size dumpster do I need for a Lakewood home cleanout?',
@@ -10380,7 +10380,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Lakewood?',
         answer:
-          'Standard rental periods run 7 to 14 days. Most providers charge a daily extension rate — typically $5–$15 per day depending on the container size. If the project is running long, call before the rental period ends. Extending is almost always cheaper than paying for a second pull.',
+          'Standard rental periods run 7 to 14 days. If the project is running long, call before the rental period ends. Extending is almost always cheaper than paying for a second pull.',
       },
       {
         question: "What can't I put in a Lakewood roll-off dumpster?",
@@ -10411,7 +10411,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Arvada',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Arvada Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Arvada, CO Dumpster Rental',
     metaDescription:
       'Arvada dumpster rental for home cleanouts, roofing jobs, remodels, and construction debris from Olde Town to Candelas. Local pricing and sizing for Arvada, CO.',
     primaryKeyword: 'arvada dumpster rental',
@@ -10441,27 +10441,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, minor roofing jobs, garage cleanouts',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, yard debris and landscaping waste',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, deck removal',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large home renovations, estate cleanouts, mixed construction debris',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition jobs',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -10569,7 +10569,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Arvada?',
         answer:
-          'A 10-yard container runs $280–$480 per week in the Arvada market. A 20-yard is typically $380–$650. The final cost depends on container size, the weight of what goes in, and how long you keep it. Get a quote that includes the weight allowance — not just the base rental rate.',
+          'The final cost depends on container size, the weight of what goes in, and how long you keep it. Get a quote that includes the weight allowance — not just the base rental rate.',
       },
       {
         question: 'What size dumpster do I need for an Arvada home cleanout?',
@@ -10599,7 +10599,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Arvada?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call your provider before the rental period ends to extend. It is almost always cheaper than ordering a second haul.',
+          'Standard rental periods run 7 to 14 days. Call your provider before the rental period ends to extend. It is almost always cheaper than ordering a second haul.',
       },
       {
         question: "What can't I put in an Arvada roll-off dumpster?",
@@ -10626,7 +10626,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Westminster',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Westminster CO Dumpster Rental | Roll-Off Sizes & Local Guide',
+    metaTitle: 'Westminster, CO Dumpster Rental',
     metaDescription:
       'Westminster dumpster rental for home cleanouts, roofing jobs, and remodels across the northern Denver metro. Compare container sizes and local pricing.',
     primaryKeyword: 'westminster dumpster rental',
@@ -10653,27 +10653,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, garage cleanouts, minor roofing jobs, yard debris',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, deck removal, landscaping debris',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, full home cleanouts',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovations, estate cleanouts, mixed construction debris, commercial work',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial demolition, large multi-room projects',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -10784,7 +10784,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Westminster?',
         answer:
-          'A 10-yard container in Westminster runs $280–$480 per week. A 20-yard is typically $380–$650. The final cost depends on container size, rental duration, and the weight of what goes in. Get a quote that includes the weight allowance — heavy debris like shingles, tile, and concrete can push the total well past the base rate.',
+          'The final cost depends on container size, rental duration, and the weight of what goes in. Get a quote that includes the weight allowance — heavy debris like shingles, tile, and concrete can push the total well past the base rate.',
       },
       {
         question: 'What size dumpster do I need for a Westminster home cleanout?',
@@ -10814,7 +10814,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Westminster?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at a daily rate — usually $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+          'Standard rental periods run 7 to 14 days. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
       },
       {
         question: "What can't I put in a Westminster roll-off dumpster?",
@@ -10841,7 +10841,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Thornton',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Thornton CO Dumpster Rental | Roll-Off Sizes & Local Guide',
+    metaTitle: 'Thornton, CO Dumpster Rental',
     metaDescription:
       'Thornton dumpster rental for home cleanouts, roofing tear-offs, and remodels across the northern Denver metro. Compare container sizes and local pricing.',
     primaryKeyword: 'thornton dumpster rental',
@@ -10868,27 +10868,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, garage cleanouts, minor roofing jobs, yard debris',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, deck removal, landscaping debris',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, full home cleanouts',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovations, estate cleanouts, mixed construction debris, commercial work',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial demolition, large multi-room projects',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -10998,7 +10998,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Thornton?',
         answer:
-          'A 10-yard container in Thornton runs $280–$480 per week. A 20-yard is typically $380–$650. The final cost depends on container size, rental duration, and the weight of what goes in. Always ask for a quote that includes the weight allowance — roofing shingles and concrete push totals past the base rate fast.',
+          'The final cost depends on container size, rental duration, and the weight of what goes in. Always ask for a quote that includes the weight allowance — roofing shingles and concrete push totals past the base rate fast.',
       },
       {
         question: 'What size dumpster do I need for a Thornton home cleanout?',
@@ -11028,7 +11028,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Thornton?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at a daily rate — usually $5–$15 per day depending on container size. Call before the rental period closes. Extending is almost always cheaper than a second haul.',
+          'Standard rental periods run 7 to 14 days. Call before the rental period closes. Extending is almost always cheaper than a second haul.',
       },
       {
         question: "What can't I put in a Thornton roll-off dumpster?",
@@ -11055,7 +11055,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Centennial',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Centennial CO Dumpster Rental | Roll-Off Sizes & Local Guide',
+    metaTitle: 'Centennial, CO Dumpster Rental',
     metaDescription:
       'Centennial dumpster rental for home cleanouts, roofing jobs, and kitchen remodels in the south Denver metro. Compare container sizes and local pricing.',
     primaryKeyword: 'centennial dumpster rental',
@@ -11082,27 +11082,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, garage cleanouts, minor roofing jobs, yard debris',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, deck removal, landscaping debris',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, full home cleanouts',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovations, estate cleanouts, mixed construction debris, commercial work',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial demolition, large multi-room projects',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -11211,7 +11211,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Centennial?',
         answer:
-          'A 10-yard container in Centennial runs $280–$480 per week. A 20-yard is typically $380–$650. The final cost depends on container size, rental duration, and the weight of what goes in. Get a quote that includes the weight allowance — heavy debris like shingles, tile, and concrete push totals well past the base rate.',
+          'The final cost depends on container size, rental duration, and the weight of what goes in. Get a quote that includes the weight allowance — heavy debris like shingles, tile, and concrete push totals well past the base rate.',
       },
       {
         question: 'What size dumpster do I need for a Centennial home cleanout?',
@@ -11241,7 +11241,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Centennial?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at a daily rate — usually $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+          'Standard rental periods run 7 to 14 days. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
       },
       {
         question: "What can't I put in a Centennial roll-off dumpster?",
@@ -11269,7 +11269,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Littleton',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Littleton, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Littleton, CO',
     metaDescription:
       'Roll-off dumpster rental in Littleton, CO for ranch home renovations, roofing tear-offs, estate cleanouts, and construction debris. Compare sizes and local pricing.',
     primaryKeyword: 'littleton dumpster rental',
@@ -11290,33 +11290,33 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Littleton's housing stock runs older than most of its neighbors. The neighborhoods around Old Town — Bemis Park, Governors Ranch, Columbine Hills, Columbine Knolls — have heavy concentrations of 1960s and 1970s ranch homes, many untouched since they were built. That volume of original kitchens, single-pane windows, and unfinished basements drives steady demand for roll-off containers during whole-home renovations and estate cleanouts. Some of the older ranches near the Highline Canal haven't had a thorough cleanout in decades.",
       "Littleton sits in the Front Range hail corridor. The south metro gets hit most years between April and September, and a residential roofing tear-off on a typical Littleton ranch generates 2,000 to 3,000 pounds of shingle material. Most providers prefer roofing debris in a dedicated container rather than mixed with general remodel material. Book the bin when the roofer books the job — south metro availability tightens fast after a major hail event.",
-      'Rolloff Dumpster Finder connects Littleton homeowners and contractors with roll-off providers serving the south Denver metro. Providers who cover Littleton typically also serve Englewood, Centennial, Highlands Ranch, and Morrison. Get a quote that includes the weight allowance, not just the base rate. A 20-yard container at $400 with a 2-ton limit and a $75-per-ton overage charge can look different on the final invoice after a heavy cleanout.',
+      'Rolloff Dumpster Finder connects Littleton homeowners and contractors with roll-off providers serving the south Denver metro. Providers who cover Littleton typically also serve Englewood, Centennial, Highlands Ranch, and Morrison. Get a quote that includes the weight allowance, not just the base rate.',
     ],
     pricingGuide: [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, small bathroom remodels, minor yard waste, and light garage purges.',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Basement cleanouts, kitchen tear-outs, mid-size landscaping jobs, and partial garage cleanouts.',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, residential roofing tear-offs, bathroom and kitchen remodels, and estate cleanouts.',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Whole-house renovation debris, large construction projects, multi-room demo, and commercial cleanouts.',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction jobs, full gut renovations, large-volume commercial or multi-unit cleanouts.',
-        range: '$580–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -11420,7 +11420,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Littleton?',
         answer:
-          'A 10-yard container in Littleton runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Dense debris like shingles, tile, or concrete pushes totals well past the base rate — get a quote that includes the weight allowance.',
+          'Final cost depends on container size, rental length, and what goes in. Dense debris like shingles, tile, or concrete pushes totals well past the base rate — get a quote that includes the weight allowance.',
       },
       {
         question: 'What size dumpster do I need for a Littleton home cleanout?',
@@ -11450,7 +11450,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Littleton?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+          'Standard rental periods run 7 to 14 days. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
       },
       {
         question: "What can't I put in a Littleton roll-off dumpster?",
@@ -11478,7 +11478,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Commerce City',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Commerce City, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Commerce City, CO',
     metaDescription:
       'Roll-off dumpster rental in Commerce City, CO for home cleanouts, construction debris, roofing tear-offs, and renovation projects. Compare sizes and pricing.',
     primaryKeyword: 'commerce city dumpster rental',
@@ -11499,33 +11499,33 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Commerce City splits into two distinct rental markets. The south side — Derby, Adams City, and Irondale — has older working-class housing from the 1940s and 1950s, and that stock drives steady estate cleanout and rental property turnover demand. A 15- or 20-yard container handles most of what comes out of those older homes. The north side in Reunion, Buffalo Mesa, and Prairie Farm is newer suburban construction, with larger lots and active landscaping and new-build debris demand.",
       "The industrial corridor along Quebec Street and I-76 generates consistent construction and demolition debris year-round. Commerce City also sits in the Front Range hail corridor, and the newer roofs in Reunion and Fronterra Village are just as likely to need a tear-off after a summer storm as older roofs in the south. Roofing jobs in both zones fill a 20-yard container. Confirm the weight allowance before the tear-off starts.",
-      'Rolloff Dumpster Finder connects Commerce City customers with roll-off providers serving the north Denver metro. Providers covering Commerce City typically also serve Thornton, Brighton, Aurora, and Federal Heights. Get a quote that includes the weight limit, not just the rental rate. A container priced at $400 with a 2-ton cap and $75-per-ton overages can surprise you after a mixed renovation load.',
+      'Rolloff Dumpster Finder connects Commerce City customers with roll-off providers serving the north Denver metro. Providers covering Commerce City typically also serve Thornton, Brighton, Aurora, and Federal Heights. Get a quote that includes the weight limit, not just the rental rate.',
     ],
     pricingGuide: [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, light garage purges, small landscaping projects, and minor bathroom remodels.',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen tear-outs, basement cleanouts, mid-size landscaping jobs, and rental property turnovers.',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and estate cleanouts.',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Whole-house renovation debris, large construction jobs, multi-room demo, and commercial cleanouts.',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction sites, full gut renovations, large-volume commercial demolition, and multi-unit cleanouts.',
-        range: '$580–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -11624,7 +11624,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Commerce City?',
         answer:
-          'A 10-yard container in Commerce City runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Dense debris — shingles, concrete, tile — pushes totals well past the base rate. Get a quote that includes the weight allowance.',
+          'Final cost depends on container size, rental length, and what goes in. Dense debris — shingles, concrete, tile — pushes totals well past the base rate. Get a quote that includes the weight allowance.',
       },
       {
         question: 'What size dumpster do I need for a Commerce City home cleanout?',
@@ -11654,7 +11654,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Commerce City?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+          'Standard rental periods run 7 to 14 days. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
       },
       {
         question: "What can't I put in a Commerce City roll-off dumpster?",
@@ -11682,7 +11682,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Wheat Ridge',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Wheat Ridge, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Wheat Ridge, CO',
     metaDescription:
       'Roll-off dumpster rental in Wheat Ridge, CO for home renovations, roofing tear-offs, and estate cleanouts. Compare sizes and pricing for the west Denver metro.',
     primaryKeyword: 'wheat ridge dumpster rental',
@@ -11709,27 +11709,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, light garage purges, minor landscaping jobs, and small bathroom remodels.',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen tear-outs, basement cleanouts, mid-size landscaping projects, and partial home cleanouts.',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and estate cleanouts.',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Whole-house renovation debris, large construction projects, multi-room demo, and heavy estate cleanouts.',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major gut renovations, large-volume construction debris, commercial cleanouts, and multi-unit projects.',
-        range: '$580–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -11828,7 +11828,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Wheat Ridge?',
         answer:
-          'A 10-yard container in Wheat Ridge runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Dense debris — shingles, old concrete driveways, and tile — pushes totals well past the base rate. Get a quote that includes the weight allowance.',
+          'Final cost depends on container size, rental length, and what goes in. Dense debris — shingles, old concrete driveways, and tile — pushes totals well past the base rate. Get a quote that includes the weight allowance.',
       },
       {
         question: 'What size dumpster do I need for a Wheat Ridge home cleanout?',
@@ -11858,7 +11858,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Wheat Ridge?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+          'Standard rental periods run 7 to 14 days. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
       },
       {
         question: "What can't I put in a Wheat Ridge roll-off dumpster?",
@@ -11886,7 +11886,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Greenwood Village',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Greenwood Village, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Greenwood Village, CO',
     metaDescription:
       'Greenwood Village dumpster rental for home renovations, estate cleanouts, roofing tear-offs, and construction near the DTC. Compare sizes and pricing.',
     primaryKeyword: 'greenwood village dumpster rental',
@@ -11913,27 +11913,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, minor landscaping jobs, small bathroom remodels, and light garage purges.',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen tear-outs, partial home cleanouts, mid-size landscaping projects, and office suite cleanouts.',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and estate cleanouts.',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Whole-house renovation debris, large custom home remodels, multi-room demo, and commercial fit-outs.',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Full home teardowns, large commercial demolitions, major renovation projects, and multi-unit cleanouts.',
-        range: '$580–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -12033,7 +12033,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Greenwood Village?',
         answer:
-          'A 10-yard container in Greenwood Village runs $280–$480 per week. A 20-yard is typically $380–$650. Larger estate homes and high-end renovation jobs often need a 30-yard, which runs $450–$780. Get a quote that includes the weight allowance — stone countertops, tile, and heavy materials push totals past the base rate.',
+          'Get a quote that includes the weight allowance — stone countertops, tile, and heavy materials push totals past the base rate.',
       },
       {
         question: 'What size dumpster do I need for a Greenwood Village home cleanout?',
@@ -12063,7 +12063,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Greenwood Village?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+          'Standard rental periods run 7 to 14 days. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
       },
       {
         question: "What can't I put in a Greenwood Village roll-off dumpster?",
@@ -12091,7 +12091,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Englewood',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Englewood, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Englewood, CO',
     metaDescription:
       'Roll-off dumpster rental in Englewood, CO for home cleanouts, roofing tear-offs, estate cleanouts, and renovation projects. Compare sizes and local pricing.',
     primaryKeyword: 'englewood dumpster rental',
@@ -12118,27 +12118,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, light garage purges, minor landscaping jobs, and small bathroom remodels.',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen tear-outs, basement cleanouts, mid-size landscaping projects, and rental property turnovers.',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and estate cleanouts.',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Whole-house renovation debris, large construction projects, multi-room demo, and heavy estate cleanouts.',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major gut renovations, large-volume commercial cleanouts, full demolitions, and multi-unit projects.',
-        range: '$580–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -12236,7 +12236,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Englewood?',
         answer:
-          'A 10-yard container in Englewood runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Older 1950s renovation material — tile, plaster, cast iron — runs heavier than it looks. Get a quote that includes the weight allowance.',
+          'Final cost depends on container size, rental length, and what goes in. Older 1950s renovation material — tile, plaster, cast iron — runs heavier than it looks. Get a quote that includes the weight allowance.',
       },
       {
         question: 'What size dumpster do I need for an Englewood home cleanout?',
@@ -12266,7 +12266,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Englewood?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+          'Standard rental periods run 7 to 14 days. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
       },
       {
         question: "What can't I put in an Englewood roll-off dumpster?",
@@ -12294,7 +12294,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Broomfield',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Broomfield, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Broomfield, CO',
     metaDescription:
       'Roll-off dumpster rental in Broomfield, CO for home renovations, roofing tear-offs, construction debris, and landscaping projects near Denver and Boulder.',
     primaryKeyword: 'broomfield dumpster rental',
@@ -12321,27 +12321,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, light garage purges, minor landscaping jobs, and small bathroom remodels.',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen tear-outs, partial home cleanouts, mid-size landscaping projects, and garage cleanouts.',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, residential roofing tear-offs, kitchen and bath remodels, and construction debris.',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Whole-house renovation debris, large new construction jobs, multi-room demo, and commercial cleanouts.',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction sites, full gut renovations, large commercial demolitions, and multi-unit cleanouts.',
-        range: '$580–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -12440,7 +12440,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Broomfield?',
         answer:
-          'A 10-yard container in Broomfield runs $280–$480 per week. A 20-yard is typically $380–$650. Final cost depends on container size, rental length, and what goes in. Dense debris — concrete, shingles, tile — pushes totals well past the base rate. Get a quote that includes the weight allowance.',
+          'Final cost depends on container size, rental length, and what goes in. Dense debris — concrete, shingles, tile — pushes totals well past the base rate. Get a quote that includes the weight allowance.',
       },
       {
         question: 'What size dumpster do I need for a Broomfield home cleanout?',
@@ -12470,7 +12470,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Broomfield?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
+          'Standard rental periods run 7 to 14 days. Call before your rental window closes. Extending is almost always cheaper than paying for a second haul.',
       },
       {
         question: "What can't I put in a Broomfield roll-off dumpster?",
@@ -12497,7 +12497,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Greeley',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental in Greeley, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Greeley, CO',
     metaDescription:
       'Roll-off dumpster rental in Greeley, CO for home cleanouts, hail-season roofing, and construction projects in Weld County. Compare sizes and local pricing.',
     primaryKeyword: 'greeley dumpster rental',
@@ -12518,33 +12518,33 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Greeley's housing market spans nearly 150 years of construction. Victorian and Craftsman-era homes in the Old Town and Downtown areas, mid-century ranches in Westgate and Bittersweet from the 1950s and 1960s, and active new development on the west side are all in the mix. The mid-century stock is now at the age where ownership changes drive full gut renovations — kitchens stripped to studs, carpet pulled through the whole house — and estate cleanouts that fill a 20-yard container before the garage is touched.",
       "Weld County is one of the most oil-productive counties in the country, and the commercial construction tied to that industry generates consistent roll-off demand in and around Greeley year-round. Pad-site buildouts, oilfield service facilities, and light industrial construction along the US-85 and Highway 34 corridors regularly need 30 and 40-yard containers. The University of Northern Colorado adds a separate demand layer: landlords and property managers near campus clear rental units between academic terms, and the turnover is predictable and steady. The eastern plains location also puts Greeley directly in the hail corridor — sometimes more exposed than the Denver metro — and roofing container demand spikes fast after major storms.",
-      "Rolloff Dumpster Finder connects Greeley homeowners, landlords, and contractors with local roll-off providers covering Greeley, Evans, Windsor, Milliken, and the surrounding Weld County area. Compare sizes, weight limits, and pricing before booking. The comparison takes a few minutes and the overweight fee it can prevent is typically $75–$150 or more.",
+      "Rolloff Dumpster Finder connects Greeley homeowners, landlords, and contractors with local roll-off providers covering Greeley, Evans, Windsor, Milliken, and the surrounding Weld County area. Compare sizes, weight limits, and pricing before booking.",
     ],
     pricingGuide: [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, garage cleanouts, and light yard debris.',
-        range: '$290–$500 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room cleanouts, mid-size remodels, roofing on smaller homes, and basement debris.',
-        range: '$330–$560 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Whole-home cleanouts, standard roof tear-offs, kitchen and bath renovations, and construction debris.',
-        range: '$390–$670 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, major gut renovations, commercial tenant improvements, and heavy mixed demo.',
-        range: '$460–$800 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, large demolition jobs, industrial cleanouts, and high-volume C&D debris.',
-        range: '$590–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -12649,7 +12649,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Greeley?',
         answer:
-          'A 10-yard container in Greeley typically runs $290–$500 per week. A 20-yard is usually $390–$670. Prices depend on container size, what goes in it, rental duration, and which providers serve your delivery address. Confirm the weight allowance in the quote — that is where most invoicing surprises happen.',
+          'Prices depend on container size, what goes in it, rental duration, and which providers serve your delivery address. Confirm the weight allowance in the quote — that is where most invoicing surprises happen.',
       },
       {
         question: 'What size dumpster do I need for a Greeley home cleanout?',
@@ -12679,7 +12679,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Greeley?',
         answer:
-          'Standard rental periods run 7 to 14 days with most providers. Extensions are usually available at a daily rate — typically $5–$15 per day depending on container size. Confirm the extension terms when you book so the timeline does not run short mid-project.',
+          'Standard rental periods run 7 to 14 days with most providers. Confirm the extension terms when you book so the timeline does not run short mid-project.',
       },
       {
         question: "What can't I put in a Greeley roll-off dumpster?",
@@ -12706,7 +12706,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Windsor',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental in Windsor, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Windsor, CO',
     metaDescription:
       'Roll-off dumpster rental in Windsor, CO for home renovations, roofing tear-offs, and construction debris in Water Valley, Raindance, and Weld County.',
     primaryKeyword: 'windsor dumpster rental',
@@ -12733,27 +12733,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single-room remodels, garage cleanouts, and light yard debris.',
-        range: '$290–$500 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room cleanouts, mid-size remodels, roofing on smaller homes, and basement debris.',
-        range: '$330–$560 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen and bath renovations, and construction debris.',
-        range: '$390–$670 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, major gut renovations, commercial tenant improvements, and heavy mixed demo.',
-        range: '$460–$800 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, large demolition jobs, new development site cleanup, and high-volume C&D debris.',
-        range: '$590–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -12852,7 +12852,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Windsor?',
         answer:
-          'A 10-yard container in Windsor typically runs $290–$500 per week. A 20-yard is usually $390–$670. Prices depend on container size, what goes in, rental duration, and which providers serve your delivery address. Confirm the weight allowance in the quote — overages are where most invoicing surprises happen.',
+          'Prices depend on container size, what goes in, rental duration, and which providers serve your delivery address. Confirm the weight allowance in the quote — overages are where most invoicing surprises happen.',
       },
       {
         question: 'What size dumpster do I need for a Windsor home cleanout?',
@@ -12882,7 +12882,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Windsor?',
         answer:
-          'Standard rental periods run 7 to 14 days with most providers. Extensions are usually available at a daily rate — typically $5–$15 per day. HOA communities in Windsor often require the container to be removed within a specified number of days — confirm those rules before booking the rental term.',
+          'Standard rental periods run 7 to 14 days with most providers. HOA communities in Windsor often require the container to be removed within a specified number of days — confirm those rules before booking the rental term.',
       },
       {
         question: "What can't I put in a Windsor roll-off dumpster?",
@@ -12909,7 +12909,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Evans',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental in Evans, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Evans, CO',
     metaDescription:
       'Roll-off dumpster rental in Evans, CO for home renovations, roofing tear-offs, and cleanouts in south Greeley and northern Weld County. Compare sizes and pricing.',
     primaryKeyword: 'evans dumpster rental',
@@ -12936,27 +12936,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, garage cleanouts, bathroom debris, and light yard waste.',
-        range: '$290–$500 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Mid-size cleanouts, flooring removal, multi-room remodels, and roofing on smaller homes.',
-        range: '$330–$560 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen renovations, and mixed construction debris.',
-        range: '$390–$670 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, major gut renovations, commercial tenant improvements, and heavy mixed demolition.',
-        range: '$460–$800 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, large demolition jobs, new development site cleanup, and high-volume C&D debris.',
-        range: '$590–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -13057,7 +13057,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Evans?',
         answer:
-          'A 10-yard container in Evans typically runs $290–$500 per week. A 20-yard is usually $390–$670. Prices shift based on container size, rental duration, weight, and which providers serve your address. Confirm the weight allowance in the quote before signing off.',
+          'Prices shift based on container size, rental duration, weight, and which providers serve your address. Confirm the weight allowance in the quote before signing off.',
       },
       {
         question: 'What size dumpster do I need for an Evans home cleanout?',
@@ -13087,7 +13087,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Evans?',
         answer:
-          'Standard rental periods run 7 to 14 days with most providers. Extensions are usually available at a daily rate of $5–$15. If your project timeline is uncertain, book the shorter term and extend — it is easier than shortening a long rental.',
+          'Standard rental periods run 7 to 14 days with most providers. If your project timeline is uncertain, book the shorter term and extend — it is easier than shortening a long rental.',
       },
       {
         question: "What can't I put in an Evans roll-off dumpster?",
@@ -13109,7 +13109,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Johnstown',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental in Johnstown, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Johnstown, CO',
     metaDescription:
       'Roll-off dumpster rental in Johnstown, CO for home renovations, new construction, and roofing debris in Thompson River Ranch and Weld County. Compare sizes and pricing.',
     primaryKeyword: 'johnstown dumpster rental',
@@ -13136,27 +13136,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, garage cleanouts, light yard debris, and small bathroom jobs.',
-        range: '$290–$500 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room remodels, flooring removal, mid-size cleanouts, and roofing on smaller homes.',
-        range: '$330–$560 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen renovations, and mixed construction debris.',
-        range: '$390–$670 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, major gut renovations, commercial tenant improvements, and heavy mixed demolition.',
-        range: '$460–$800 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, large demolition jobs, new development site cleanup, and high-volume C&D debris.',
-        range: '$590–$1,100 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -13256,7 +13256,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Johnstown?',
         answer:
-          'A 10-yard container in Johnstown typically runs $290–$500 per week. A 20-yard is usually $390–$670. Prices shift based on container size, rental duration, and what goes in. Confirm the weight allowance in the quote — overages are billed after pickup, not before.',
+          'Prices shift based on container size, rental duration, and what goes in. Confirm the weight allowance in the quote — overages are billed after pickup, not before.',
       },
       {
         question: 'What size dumpster for a Johnstown home cleanout?',
@@ -13286,7 +13286,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Johnstown?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. HOA communities in Johnstown often limit how long a container can remain on a driveway or in the street — confirm those rules before booking the rental term.',
+          'Standard rental periods run 7 to 14 days. HOA communities in Johnstown often limit how long a container can remain on a driveway or in the street — confirm those rules before booking the rental term.',
       },
       {
         question: "What can't I put in a Johnstown roll-off dumpster?",
@@ -13308,7 +13308,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Fort Morgan',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental in Fort Morgan, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Fort Morgan, CO',
     metaDescription:
       'Roll-off dumpster rental in Fort Morgan, CO for home cleanouts, farm property cleanup, roofing tear-offs, and renovation debris in Morgan County. Compare sizes.',
     primaryKeyword: 'fort morgan dumpster rental',
@@ -13335,27 +13335,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, bathroom debris, small garage cleanouts, and light yard waste.',
-        range: '$300–$520 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room cleanouts, flooring removal, roofing on smaller homes, and kitchen debris.',
-        range: '$345–$570 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen and bath renovations, and mixed construction debris.',
-        range: '$415–$710 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, farm property cleanups, commercial tenant improvements, and heavy mixed demolition.',
-        range: '$475–$820 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Agricultural property cleanups, large demolition projects, commercial construction, and high-volume C&D debris.',
-        range: '$600–$1,150 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -13453,7 +13453,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Fort Morgan?',
         answer:
-          'A 10-yard container in Fort Morgan typically runs $300–$520 per week. A 20-yard is usually $415–$710. Pricing in eastern plains markets runs slightly above Front Range rates due to fewer haulers serving the area. Confirm the weight allowance in the quote before booking.',
+          'Confirm the weight allowance in the quote before booking.',
       },
       {
         question: 'What size dumpster for a Fort Morgan home cleanout?',
@@ -13488,7 +13488,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Fort Morgan?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Farm and rural property cleanouts often take longer than a standard residential job — confirm the extension terms before starting.',
+          'Standard rental periods run 7 to 14 days. Farm and rural property cleanouts often take longer than a standard residential job — confirm the extension terms before starting.',
       },
       {
         question: "What can't I put in a Fort Morgan roll-off dumpster?",
@@ -13505,7 +13505,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Gunnison',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental in Gunnison, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Gunnison, CO',
     metaDescription:
       'Roll-off dumpster rental in Gunnison, CO for home renovations, ranch property cleanouts, and construction debris in Gunnison County. Compare sizes and pricing.',
     primaryKeyword: 'gunnison dumpster rental',
@@ -13532,27 +13532,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, bathroom debris, small cleanouts, and light yard or brush waste.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room cleanouts, flooring removal, roofing on smaller homes, and kitchen debris.',
-        range: '$350–$590 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen renovations, and mixed construction debris.',
-        range: '$420–$720 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, ranch property cleanups, commercial jobs, and heavy mixed demolition.',
-        range: '$495–$860 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Agricultural property cleanups, large demolition projects, major construction sites, and high-volume C&D debris.',
-        range: '$640–$1,200 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -13650,7 +13650,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Gunnison?',
         answer:
-          'A 10-yard container in Gunnison typically runs $310–$530 per week. A 20-yard is usually $420–$720. Mountain and remote market pricing runs above Front Range rates due to fewer haulers and longer haul distances. Confirm the weight allowance in the quote before booking.',
+          'Confirm the weight allowance in the quote before booking.',
       },
       {
         question: 'What size dumpster for a Gunnison home cleanout?',
@@ -13685,7 +13685,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Gunnison?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Ranch property cleanouts and mountain construction projects often take longer than planned — confirm the extension terms upfront.',
+          'Standard rental periods run 7 to 14 days. Ranch property cleanouts and mountain construction projects often take longer than planned — confirm the extension terms upfront.',
       },
       {
         question: "What can't I put in a Gunnison roll-off dumpster?",
@@ -13707,7 +13707,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Crested Butte',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental in Crested Butte, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Crested Butte, CO',
     metaDescription:
       'Roll-off dumpster rental in Crested Butte, CO for Old Town historic renovations, resort construction, and mountain property cleanouts in Gunnison County.',
     primaryKeyword: 'crested butte dumpster rental',
@@ -13734,27 +13734,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, small cleanouts, light brush debris, and bathroom jobs in vacation properties.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room cleanouts, flooring removal, kitchen debris, and roofing on smaller mountain homes.',
-        range: '$350–$590 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Whole-home cleanouts, standard roofing tear-offs, kitchen and bath renovations, and mixed construction debris.',
-        range: '$420–$720 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large vacation home renovations, estate cleanouts, commercial tenant improvements, and heavy mixed demolition.',
-        range: '$495–$860 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major resort construction, large demolition projects, new development site cleanup, and high-volume C&D debris.',
-        range: '$640–$1,200 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -13851,7 +13851,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Crested Butte?',
         answer:
-          'A 10-yard container in Crested Butte typically runs $310–$530 per week. A 20-yard is usually $420–$720. Remote mountain market pricing runs above Front Range rates. Confirm the weight allowance in the quote before booking — high-density renovation debris from historic properties hits limits faster than typical residential waste.',
+          'Confirm the weight allowance in the quote before booking — high-density renovation debris from historic properties hits limits faster than typical residential waste.',
       },
       {
         question: 'What size dumpster for a Crested Butte home cleanout?',
@@ -13881,7 +13881,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Crested Butte?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Mountain renovation projects often run longer than planned — confirm extension terms before you start. Second home owners coordinating remotely should build extra buffer into their rental term.',
+          'Standard rental periods run 7 to 14 days. Mountain renovation projects often run longer than planned — confirm extension terms before you start. Second home owners coordinating remotely should build extra buffer into their rental term.',
       },
       {
         question: "What can't I put in a Crested Butte roll-off dumpster?",
@@ -13903,7 +13903,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Mt. Crested Butte',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Mt. Crested Butte, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Mt. Crested Butte, CO',
     metaDescription:
       'Roll-off dumpster rental in Mt. Crested Butte, CO for condo renovations, resort construction, and ski season transition cleanouts. Compare sizes and pricing.',
     primaryKeyword: 'mt crested butte dumpster rental',
@@ -13930,27 +13930,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-unit condo cleanouts, small bathroom renovations, light brush debris, and single-room remodels.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room condo renovations, flooring removal, kitchen debris, and roofing on smaller structures.',
-        range: '$350–$590 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full condo gut renovations, whole-unit cleanouts, roofing tear-offs, and mixed construction debris.',
-        range: '$420–$720 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large lodge renovations, multi-unit cleanouts, commercial tenant improvements, and heavy mixed demolition.',
-        range: '$495–$860 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major resort construction, large commercial demolition, new development site cleanup, and high-volume C&D debris.',
-        range: '$640–$1,200 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -14046,7 +14046,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Mt. Crested Butte?',
         answer:
-          'A 10-yard container in Mt. Crested Butte typically runs $310–$530 per week. A 20-yard is usually $420–$720. Mountain market pricing runs above Front Range rates. Confirm the weight allowance before booking — dense renovation debris from condo gut jobs can hit weight limits at lower volume than expected.',
+          'Confirm the weight allowance before booking — dense renovation debris from condo gut jobs can hit weight limits at lower volume than expected.',
       },
       {
         question: 'What size dumpster for a Mt. Crested Butte condo renovation?',
@@ -14076,7 +14076,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Mt. Crested Butte?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Mountain construction timelines are compressed and weather-dependent — confirm extension terms before starting. The summer shoulder season is short; do not assume an extension will be available at peak season.',
+          'Standard rental periods run 7 to 14 days. Mountain construction timelines are compressed and weather-dependent — confirm extension terms before starting. The summer shoulder season is short; do not assume an extension will be available at peak season.',
       },
       {
         question: "What can't I put in a Mt. Crested Butte roll-off dumpster?",
@@ -14098,7 +14098,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Lake City',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental in Lake City, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Lake City, CO',
     metaDescription:
       'Roll-off dumpster rental in Lake City, CO for Victorian property renovations, vacation cabin cleanouts, and remote Hinsdale County projects. Compare sizes and pricing.',
     primaryKeyword: 'lake city dumpster rental',
@@ -14125,27 +14125,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, small cabin cleanouts, bathroom debris, and light yard waste.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Multi-room cleanouts, vacation property turnovers, flooring removal, and kitchen debris.',
-        range: '$350–$590 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Whole-home cleanouts, standard roofing tear-offs, full kitchen renovations, and mixed construction debris.',
-        range: '$420–$720 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate and property cleanouts, ranch or outfitter property cleanup, commercial projects, and heavy mixed demolition.',
-        range: '$495–$860 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction sites, large property cleanups, significant demolition, and high-volume C&D debris.',
-        range: '$640–$1,200 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -14241,7 +14241,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Lake City?',
         answer:
-          'A 10-yard container in Lake City typically runs $310–$530 per week. A 20-yard is usually $420–$720. Pricing in remote mountain markets runs above Front Range rates, and delivery charges may apply given the distance from the nearest hauler hub. Confirm the full quote before booking.',
+          'Confirm the full quote before booking.',
       },
       {
         question: 'What size dumpster for a Lake City home cleanout?',
@@ -14271,7 +14271,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Lake City?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Remote project cleanouts and ranch or cabin projects often take longer than planned — confirm extension terms upfront rather than assuming availability.',
+          'Standard rental periods run 7 to 14 days. Remote project cleanouts and ranch or cabin projects often take longer than planned — confirm extension terms upfront rather than assuming availability.',
       },
       {
         question: "What can't I put in a Lake City roll-off dumpster?",
@@ -14293,7 +14293,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Almont',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental in Almont, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental in Almont, CO',
     metaDescription:
       'Roll-off dumpster rental in Almont, CO for fishing cabin cleanouts, Taylor Canyon property work, and outfitter operations in Gunnison County. Compare sizes and pricing.',
     primaryKeyword: 'almont dumpster rental',
@@ -14320,27 +14320,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cabin cleanouts, single-room remodels, bathroom debris, and light yard waste.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Mid-size cabin cleanouts, multi-room remodels, flooring removal, and kitchen debris.',
-        range: '$350–$590 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full property cleanouts, standard roofing tear-offs, kitchen renovations, and mixed construction debris.',
-        range: '$420–$720 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, outfitter property cleanups, ranch renovation debris, and heavy mixed demolition.',
-        range: '$495–$860 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction sites, large property cleanups, significant demolition, and high-volume C&D debris.',
-        range: '$640–$1,200 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -14436,7 +14436,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Almont?',
         answer:
-          'A 10-yard container in the Almont area typically runs $310–$530 per week. A 20-yard is usually $420–$720. Remote mountain market pricing runs above Front Range rates. Some delivery addresses in Taylor Canyon may carry additional charges — confirm the full quote before booking.',
+          'Some delivery addresses in Taylor Canyon may carry additional charges — confirm the full quote before booking.',
       },
       {
         question: 'What size dumpster for an Almont property cleanout?',
@@ -14466,7 +14466,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Almont?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are typically available at $5–$15 per day. Remote property cleanouts and outfitter renovation projects often take longer than planned — confirm extension terms upfront and factor in seasonal access windows when setting your project timeline.',
+          'Standard rental periods run 7 to 14 days. Remote property cleanouts and outfitter renovation projects often take longer than planned — confirm extension terms upfront and factor in seasonal access windows when setting your project timeline.',
       },
       {
         question: "What can't I put in an Almont roll-off dumpster?",
@@ -14489,7 +14489,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Duncan',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Roll Off Dumpster Rental in Duncan, OK | Sizes & Pricing',
+    metaTitle: 'Roll Off Dumpster Rental in Duncan, OK',
     metaDescription:
       'Duncan dumpster rental for home cleanouts, roofing tear-offs, and construction debris in Stephens County. Get local roll-off pricing and book delivery.',
     primaryKeyword: 'duncan dumpster rental',
@@ -14516,27 +14516,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
-        range: '$250–$420 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction.',
-        range: '$290–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
-        range: '$320–$550 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, commercial roofing, construction debris, storm cleanup with structural material.',
-        range: '$400–$700 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction projects, large commercial demolition, industrial cleanup and site clearing.',
-        range: '$550–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -14637,7 +14637,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Duncan?',
         answer:
-          'A 10-yard container in Duncan typically runs $250–$420 per week. A 20-yard is usually $320–$550. Pricing reflects the Stephens County market — generally in line with Lawton area rates. Get an itemized quote; fuel surcharges and disposal fees are often listed separately from the base rental rate.',
+          'Get an itemized quote; fuel surcharges and disposal fees are often listed separately from the base rental rate.',
       },
       {
         question: 'What size dumpster do I need for a Duncan home cleanout?',
@@ -14667,7 +14667,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Duncan?',
         answer:
-          'Standard rental periods in the Duncan area run 7 to 14 days. Extensions are usually available at $5–$15 per day. Estate cleanouts and renovation projects often take longer than expected — confirm extension terms before you start loading so you are not caught by an early pickup.',
+          'Standard rental periods in the Duncan area run 7 to 14 days. Estate cleanouts and renovation projects often take longer than expected — confirm extension terms before you start loading so you are not caught by an early pickup.',
       },
       {
         question: "What items can't I put in a Duncan dumpster?",
@@ -14690,7 +14690,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Chickasha',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Roll Off Dumpster Rental in Chickasha, OK | Sizes & Pricing',
+    metaTitle: 'Dumpster Rental in Chickasha, OK',
     metaDescription:
       'Chickasha dumpster rental for home cleanouts, roofing tear-offs, and estate cleanouts in Grady County. Get local roll-off pricing and book delivery.',
     primaryKeyword: 'chickasha dumpster rental',
@@ -14717,27 +14717,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
-        range: '$250–$420 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction debris.',
-        range: '$290–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
-        range: '$320–$550 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, commercial roofing, construction debris, storm cleanup with structural material.',
-        range: '$400–$700 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction projects, large commercial demolition, agricultural site clearing, industrial cleanup.',
-        range: '$550–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -14838,7 +14838,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Chickasha?',
         answer:
-          'A 10-yard container in Chickasha typically runs $250–$420 per week. A 20-yard is usually $320–$550. Chickasha sits between the OKC metro and the Southwest Oklahoma market, and providers from both directions serve the area — pricing is generally in line with the Grady County market. Get an itemized quote; fuel surcharges and disposal fees are often listed separately.',
+          'Get an itemized quote; fuel surcharges and disposal fees are often listed separately.',
       },
       {
         question: 'What size dumpster do I need for a Chickasha home cleanout?',
@@ -14868,7 +14868,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Chickasha?',
         answer:
-          'Standard rental periods in the Chickasha area run 7 to 14 days. Extensions are usually available at $5–$15 per day. Estate cleanouts and farm property projects often take longer than a standard week — confirm extension terms before you start loading.',
+          'Standard rental periods in the Chickasha area run 7 to 14 days. Estate cleanouts and farm property projects often take longer than a standard week — confirm extension terms before you start loading.',
       },
       {
         question: "What items can't I put in a Chickasha dumpster?",
@@ -14891,7 +14891,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Altus',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental Altus, OK | Roll-Off Sizes & Local Pricing',
+    metaTitle: 'Dumpster Rental Altus, OK',
     metaDescription:
       'Altus dumpster rental for home cleanouts, roofing tear-offs, and estate cleanouts in Jackson County. Get local roll-off container pricing and book delivery.',
     primaryKeyword: 'altus dumpster rental',
@@ -14918,27 +14918,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
-        range: '$260–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction debris.',
-        range: '$300–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
-        range: '$340–$570 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, commercial roofing, construction debris, storm cleanup with structural material.',
-        range: '$420–$720 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction projects, large commercial demolition, agricultural site clearing, industrial cleanup.',
-        range: '$570–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -15038,7 +15038,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Altus?',
         answer:
-          'A 10-yard container in Altus typically runs $260–$430 per week. A 20-yard is usually $340–$570. Altus is a remote market with fewer providers than Lawton or OKC — pricing reflects that. Get an itemized quote; fuel surcharges for longer delivery distances are common and often listed separately.',
+          'Altus is a remote market with fewer providers than Lawton or OKC — pricing reflects that. Get an itemized quote; fuel surcharges for longer delivery distances are common and often listed separately.',
       },
       {
         question: 'What size dumpster do I need for an Altus home cleanout?',
@@ -15068,7 +15068,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Altus?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at $5–$15 per day. Estate cleanouts and farm property projects in the Altus area often take longer than a standard week — confirm extension terms upfront so you are not caught by an early pickup.',
+          'Standard rental periods run 7 to 14 days. Estate cleanouts and farm property projects in the Altus area often take longer than a standard week — confirm extension terms upfront so you are not caught by an early pickup.',
       },
       {
         question: "What items can't I put in an Altus dumpster?",
@@ -15091,7 +15091,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Anadarko',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental Anadarko, OK | Roll-Off Sizes & Pricing',
+    metaTitle: 'Dumpster Rental Anadarko, OK',
     metaDescription:
       'Anadarko dumpster rental for home cleanouts, roofing tear-offs, and estate cleanouts in Caddo County. Get local roll-off container pricing and book delivery.',
     primaryKeyword: 'anadarko dumpster rental',
@@ -15118,27 +15118,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
-        range: '$250–$420 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction debris.',
-        range: '$290–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
-        range: '$320–$550 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, commercial roofing, construction debris, storm cleanup with structural material.',
-        range: '$400–$700 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction projects, large commercial demolition, agricultural site clearing, industrial cleanup.',
-        range: '$550–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -15238,7 +15238,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Anadarko?',
         answer:
-          'A 10-yard container in Anadarko typically runs $250–$420 per week. A 20-yard is usually $320–$550. Anadarko is a smaller market served by providers from both the OKC metro and the Southwest Oklahoma cluster. Get an itemized quote — fuel surcharges are common in smaller markets and often listed separately from the base rate.',
+          'Anadarko is a smaller market served by providers from both the OKC metro and the Southwest Oklahoma cluster. Get an itemized quote — fuel surcharges are common in smaller markets and often listed separately from the base rate.',
       },
       {
         question: 'What size dumpster do I need for an Anadarko home cleanout?',
@@ -15268,7 +15268,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Anadarko?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at $5–$15 per day. Estate cleanouts and rural property projects often take longer than the initial estimate — confirm extension terms before you start loading so you are not caught by an early pickup.',
+          'Standard rental periods run 7 to 14 days. Estate cleanouts and rural property projects often take longer than the initial estimate — confirm extension terms before you start loading so you are not caught by an early pickup.',
       },
       {
         question: "What items can't I put in an Anadarko dumpster?",
@@ -15291,7 +15291,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Elgin',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental Elgin, OK | Roll-Off Sizes & Local Pricing',
+    metaTitle: 'Dumpster Rental Elgin, OK',
     metaDescription:
       'Elgin dumpster rental for home cleanouts, roofing tear-offs, and construction debris in Comanche County. Get local roll-off pricing and book delivery.',
     primaryKeyword: 'elgin dumpster rental',
@@ -15318,27 +15318,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, small bathroom remodels, garage and shed cleanouts, light yard debris.',
-        range: '$250–$420 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Mid-size home cleanouts, partial kitchen renovations, roofing on smaller structures, light construction debris.',
-        range: '$290–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanouts, estate cleanouts, residential roofing tear-offs, kitchen and bath gut renovations.',
-        range: '$320–$550 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, new construction debris, storm cleanup with structural material, commercial roofing.',
-        range: '$400–$700 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction projects, large commercial demolition, agricultural site clearing, industrial cleanup.',
-        range: '$550–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -15438,7 +15438,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Elgin?',
         answer:
-          'A 10-yard container in Elgin typically runs $250–$420 per week. A 20-yard is usually $320–$550. Elgin is covered by the same Comanche County provider network as Lawton — pricing is generally in line with the Lawton market. Get an itemized quote; fuel surcharges and disposal fees are often listed separately.',
+          'Get an itemized quote; fuel surcharges and disposal fees are often listed separately.',
       },
       {
         question: 'What size dumpster do I need for an Elgin home cleanout?',
@@ -15468,7 +15468,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Elgin?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at $5–$15 per day. Housing turnover projects and estate cleanouts often run longer than a standard week — confirm extension terms before you start loading.',
+          'Standard rental periods run 7 to 14 days. Housing turnover projects and estate cleanouts often run longer than a standard week — confirm extension terms before you start loading.',
       },
       {
         question: "What items can't I put in an Elgin dumpster?",
@@ -15491,7 +15491,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Gilbert',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Dumpster Rental Gilbert, AZ | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Gilbert, AZ',
     metaDescription:
       'Gilbert dumpster rental for home cleanouts, tile roofing tear-offs, remodels, and construction debris. Roll-off pricing across the Southeast Valley.',
     primaryKeyword: 'gilbert dumpster rental',
@@ -15518,27 +15518,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanouts, single bathroom remodels, light construction debris, and single-room renovations.',
-        range: '$270–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Kitchen remodels, garage cleanouts, roofing on smaller structures, and yard waste.',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, estate cleanouts, mid-size roofing jobs, and general renovation debris.',
-        range: '$370–$640 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation projects, construction debris, full tile roofing tear-offs, and pool demolition.',
-        range: '$440–$770 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial construction, full gut renovations, large-scale demolition, and multi-project job sites.',
-        range: '$560–$1,050 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -15642,7 +15642,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Gilbert?',
         answer:
-          'A 10-yard container in Gilbert typically runs $270–$470 per week. A 20-yard is usually $370–$640. A 30-yard — which covers most full-home cleanouts and larger renovation projects — ranges $440–$770. Those are honest base estimates. Ask for the all-in number including fuel and disposal fees before you book.',
+          'Ask for the all-in number including fuel and disposal fees before you book.',
       },
       {
         question: 'What size dumpster do I need for a Gilbert home cleanout?',
@@ -15672,7 +15672,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Gilbert?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates typically run $5–$15 per day in the Gilbert market. If the project is running longer than planned, call ahead to extend — it is cheaper than a second pull.',
+          'Standard rental periods run 7–10 days. If the project is running longer than planned, call ahead to extend — it is cheaper than a second pull.',
       },
       {
         question: 'Do Gilbert HOAs restrict dumpster rentals?',
@@ -15700,7 +15700,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Moore',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Dumpster Rental Moore, OK | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Moore, OK',
     metaDescription:
       'Moore dumpster rental for storm cleanup, home cleanouts, roofing tear-offs, and construction debris. Serving Moore and the OKC south metro in Cleveland County.',
     primaryKeyword: 'moore dumpster rental',
@@ -15727,27 +15727,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanouts, small bathroom remodels, garage purge, light storm debris.',
-        range: '$250–$420 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium home cleanouts, deck removal, roofing on smaller structures.',
-        range: '$290–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanouts, estate cleanouts, residential roof tear-offs, kitchen gut renovations.',
-        range: '$320–$550 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large estate cleanouts, storm structural debris, new construction waste, commercial roofing.',
-        range: '$400–$700 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major storm debris removal, commercial demolition, large construction projects, multi-home cleanup.',
-        range: '$550–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -15849,7 +15849,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Moore?',
         answer:
-          'A 10-yard container in Moore typically runs $250–$420 per week. A 20-yard is usually $320–$550. Moore is served by the OKC metro provider network, so pricing is in line with the broader south metro. Get an itemized quote — fuel surcharges and disposal fees are sometimes listed separately from the base rate.',
+          'Get an itemized quote — fuel surcharges and disposal fees are sometimes listed separately from the base rate.',
       },
       {
         question: 'What size dumpster do I need for a Moore home cleanout?',
@@ -15884,7 +15884,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a rental dumpster in Moore?',
         answer:
-          'Standard rental periods run 7 to 14 days. Extensions are usually available at $5–$15 per day. Storm cleanup and post-tornado rebuild projects often run longer than a standard rental period — confirm extension terms at booking before you start loading.',
+          'Standard rental periods run 7 to 14 days. Storm cleanup and post-tornado rebuild projects often run longer than a standard rental period — confirm extension terms at booking before you start loading.',
       },
       {
         question: 'Do I need a permit to place a dumpster in Moore?',
@@ -15907,7 +15907,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Loveland',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Loveland, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Loveland, CO',
     metaDescription:
       'Loveland dumpster rental for home cleanouts, roofing tear-offs, construction debris, and landscaping. Compare container sizes and pricing across Larimer County.',
     primaryKeyword: 'loveland dumpster rental',
@@ -15936,27 +15936,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small garage or room cleanout, minor bathroom remodel, yard waste, light construction debris.',
-        range: '$280–$490 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and turf debris.',
-        range: '$320–$550 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodel, roofing tear-off, full-home cleanout, basement and garage debris.',
-        range: '$380–$660 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris.',
-        range: '$450–$790 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout.',
-        range: '$590–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -16060,7 +16060,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Loveland?',
         answer:
-          'A 10-yard container in Loveland typically runs $280–$490 per week. A 20-yard is usually $380–$660. Loveland uses the same Larimer County provider network as Fort Collins, so pricing is generally in line with the northern Front Range market. Get an itemized quote — fuel surcharges and disposal fees are sometimes listed separately from the base rate.',
+          'Get an itemized quote — fuel surcharges and disposal fees are sometimes listed separately from the base rate.',
       },
       {
         question: 'What size dumpster do I need for a Loveland home cleanout?',
@@ -16090,7 +16090,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Loveland?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates in the Loveland market typically run $5–$15 per day. Estate cleanouts and renovation projects often run longer than the standard period — confirm extension terms before you start loading.',
+          'Standard rental periods run 7–10 days. Estate cleanouts and renovation projects often run longer than the standard period — confirm extension terms before you start loading.',
       },
       {
         question: 'Do I need a permit to place a dumpster in Loveland?',
@@ -16118,7 +16118,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Longmont',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Dumpster Rental Longmont, CO | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental Longmont, CO',
     metaDescription:
       'Longmont dumpster rental for home cleanouts, roofing tear-offs, construction debris, and renovation projects. Serving Longmont and Boulder County.',
     primaryKeyword: 'longmont dumpster rental',
@@ -16147,27 +16147,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small garage or room cleanout, minor bathroom remodel, yard waste, light construction debris.',
-        range: '$280–$490 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and turf debris.',
-        range: '$320–$550 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanout, roofing tear-off, kitchen remodel, basement and garage debris.',
-        range: '$380–$660 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris.',
-        range: '$450–$790 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout.',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -16271,7 +16271,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Longmont?',
         answer:
-          'A 10-yard container in Longmont typically runs $280–$490 per week. A 20-yard is usually $380–$660. Longmont is served by the same Boulder County and Northern Front Range provider network as Boulder and Loveland — pricing generally runs in line with the broader regional market. Get an itemized quote; fuel surcharges and disposal fees are sometimes listed separately.',
+          'Get an itemized quote; fuel surcharges and disposal fees are sometimes listed separately.',
       },
       {
         question: 'What size dumpster do I need for a Longmont home cleanout?',
@@ -16301,7 +16301,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Longmont?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates in the Longmont market typically run $5–$15 per day. Estate cleanouts and renovation projects often run longer than the standard period — confirm extension terms before you start loading.',
+          'Standard rental periods run 7–10 days. Estate cleanouts and renovation projects often run longer than the standard period — confirm extension terms before you start loading.',
       },
       {
         question: 'Do I need a permit to place a dumpster in Longmont?',
@@ -16329,7 +16329,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'West Jordan',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'Dumpster Rental West Jordan, UT | Roll-Off Dumpster Finder',
+    metaTitle: 'Dumpster Rental West Jordan, UT',
     metaDescription:
       'West Jordan dumpster rental for home cleanouts, roofing tear-offs, construction debris, and basement cleanouts. Serving West Jordan and the south Salt Lake Valley.',
     primaryKeyword: 'west jordan dumpster rental',
@@ -16356,27 +16356,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanout, single-room remodel, light roofing debris, yard and landscaping waste.',
-        range: '$255–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and yard waste.',
-        range: '$295–$490 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanout, roofing tear-off, kitchen remodel, basement and garage debris.',
-        range: '$355–$595 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, commercial buildout cleanup, mixed C&D debris.',
-        range: '$425–$730 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial or industrial cleanup, large demolition, major renovation, multi-unit cleanout.',
-        range: '$530–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -16480,7 +16480,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in West Jordan?',
         answer:
-          'A 10-yard container in West Jordan typically runs $255–$430 per week. A 20-yard is usually $355–$595. West Jordan is served by the Salt Lake Valley provider network, so pricing is in line with the broader south metro. Get an itemized quote — fuel surcharges and disposal fees are sometimes listed separately from the base rate.',
+          'Get an itemized quote — fuel surcharges and disposal fees are sometimes listed separately from the base rate.',
       },
       {
         question: 'What size dumpster do I need for a West Jordan home cleanout?',
@@ -16510,7 +16510,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in West Jordan?',
         answer:
-          'Standard rental periods run 7–10 days. Extension rates in the West Jordan market typically run $5–$15 per day. Estate cleanouts and renovation projects often take longer than the standard period — confirm extension terms at booking before you start loading.',
+          'Standard rental periods run 7–10 days. Estate cleanouts and renovation projects often take longer than the standard period — confirm extension terms at booking before you start loading.',
       },
       {
         question: 'Do I need a permit to place a dumpster in West Jordan?',
@@ -16538,7 +16538,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Parker',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Parker CO Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Parker, CO Dumpster Rental',
     metaDescription:
       'Roll-off dumpster rental in Parker, CO for home cleanouts, roofing, remodeling, and construction debris. Compare sizes and local pricing in Douglas County.',
     primaryKeyword: 'parker dumpster rental',
@@ -16566,27 +16566,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room remodels, garage cleanouts, flooring removal, yard debris',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, medium cleanouts, deck removal, landscaping debris',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Kitchen remodels, roofing tear-offs, basement cleanouts, full home cleanouts',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovations, estate cleanouts, mixed construction debris, commercial work',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial demolition, large multi-room projects',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -16688,7 +16688,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Parker, CO?',
         answer:
-          'A 10-yard container in Parker typically runs $280–$480 per week. A 20-yard runs $380–$650. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — overage charges on heavy material can add $75 or more per ton above the allowance.',
+          'The final number depends on container size, rental period, and the weight of what goes in.',
       },
       {
         question: 'What size dumpster do I need for a Parker home cleanout?',
@@ -16723,7 +16723,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster in Parker?',
         answer:
-          'Standard rental periods run 7 to 14 days. Most providers offer daily extensions at $5–$15 per day. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
+          'Standard rental periods run 7 to 14 days. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
       },
       {
         question: 'How quickly can a dumpster be delivered in Parker?',
@@ -16746,7 +16746,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Draper',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'Draper UT Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Draper, UT Dumpster Rental',
     metaDescription:
       'Roll-off dumpster rental in Draper, UT for home cleanouts, remodeling, roofing, and construction debris. Compare sizes and local pricing along the Wasatch Front.',
     primaryKeyword: 'draper dumpster rental',
@@ -16774,27 +16774,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanout, single-room remodel, minor roofing job, yard and landscaping debris',
-        range: '$260–$440 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, deck removal, medium cleanout, landscaping and yard waste',
-        range: '$300–$510 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, basement and garage debris',
-        range: '$360–$610 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
-        range: '$430–$740 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$550–$1,050+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -16894,7 +16894,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Draper, UT?',
         answer:
-          'A 10-yard container in Draper typically runs $260–$440 per week. A 20-yard runs $360–$610. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — overage charges on heavy debris can add $75 or more per ton above the allowance.',
+          'The final number depends on container size, rental period, and the weight of what goes in.',
       },
       {
         question: 'What size dumpster do I need for a Draper home cleanout?',
@@ -16929,7 +16929,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster in Draper?',
         answer:
-          'Standard rental periods run 7 to 14 days. Most providers offer daily extensions at $5–$15 per day. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
+          'Standard rental periods run 7 to 14 days. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
       },
       {
         question: 'How quickly can a dumpster be delivered in Draper?',
@@ -16952,7 +16952,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'South Jordan',
     stateName: 'Utah',
     stateAbbr: 'UT',
-    metaTitle: 'South Jordan Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'South Jordan, UT Dumpster Rental',
     metaDescription:
       'Roll-off dumpster rental in South Jordan, UT for home cleanouts, remodeling, roofing, and construction debris. Compare sizes and local pricing in Salt Lake County.',
     primaryKeyword: 'south jordan dumpster rental',
@@ -16980,27 +16980,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanout, single-room remodel, light roofing debris, yard and landscaping waste',
-        range: '$255–$430 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and yard waste',
-        range: '$295–$490 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanout, roofing tear-off, kitchen remodel, basement and garage debris',
-        range: '$355–$595 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
-        range: '$425–$730 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$530–$1,000+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -17099,7 +17099,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in South Jordan, UT?',
         answer:
-          'A 10-yard container in South Jordan typically runs $255–$430 per week. A 20-yard runs $355–$595. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — overage charges on heavy material can add $75 or more per ton above the weight allowance.',
+          'The final number depends on container size, rental period, and the weight of what goes in.',
       },
       {
         question: 'What size dumpster do I need for a South Jordan home cleanout?',
@@ -17134,7 +17134,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster in South Jordan?',
         answer:
-          'Standard rental periods run 7 to 14 days. Most providers offer daily extensions at $5–$15 per day. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
+          'Standard rental periods run 7 to 14 days. Confirm the extension rate at booking — extending is almost always cheaper than scheduling a second haul.',
       },
       {
         question: 'How quickly can a dumpster be delivered in South Jordan?',
@@ -17157,7 +17157,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Peoria',
     stateName: 'Arizona',
     stateAbbr: 'AZ',
-    metaTitle: 'Peoria AZ Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Peoria, AZ Dumpster Rental',
     metaDescription:
       'Roll-off dumpster rental in Peoria, AZ for home cleanouts, roofing, remodeling, and construction. Compare sizes and local pricing in the West Valley.',
     primaryKeyword: 'peoria dumpster rental',
@@ -17185,27 +17185,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Small cleanout, single-room remodel, minor roofing job, desert landscaping debris',
-        range: '$270–$470 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping and yard waste',
-        range: '$310–$530 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full-home cleanout, kitchen remodel, roofing tear-off, garage and construction debris',
-        range: '$370–$640 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, new construction cleanup, mixed C&D debris',
-        range: '$440–$770 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial renovation, large demolition, multi-unit cleanout',
-        range: '$560–$1,050 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -17306,7 +17306,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Peoria, AZ?',
         answer:
-          'A 10-yard container in Peoria typically runs $270–$470 per week. A 20-yard runs $370–$640. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — tile roofing debris and concrete can push totals well past the base rate.',
+          'The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — tile roofing debris and concrete can push totals well past the base rate.',
       },
       {
         question: 'What size dumpster do I need for a Peoria home cleanout?',
@@ -17364,7 +17364,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Owasso',
     stateName: 'Oklahoma',
     stateAbbr: 'OK',
-    metaTitle: 'Owasso Dumpster Rental | Roll-Off Sizes, Costs & Local Guide',
+    metaTitle: 'Owasso, OK Dumpster Rental',
     metaDescription:
       'Roll-off dumpster rental in Owasso, OK for home cleanouts, roofing, remodeling, and construction. Compare sizes and local pricing north of Tulsa.',
     primaryKeyword: 'owasso dumpster rental',
@@ -17392,27 +17392,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Single-room cleanout, small demo, garage purge, light roofing debris',
-        range: '$250–$420',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodel, medium cleanout, deck removal, landscaping debris',
-        range: '$300–$500',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Full home cleanout, roofing tear-off, kitchen remodel, construction debris',
-        range: '$360–$620',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Large renovation, estate cleanout, C&D debris, mixed multi-room projects',
-        range: '$430–$740',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Commercial project, major construction, large demo, multi-unit cleanout',
-        range: '$550–$1,000+',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -17511,7 +17511,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does a dumpster rental cost in Owasso, OK?',
         answer:
-          'A 10-yard container in Owasso typically runs $250–$420. A 20-yard runs $360–$620. The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — overage charges on heavy material like shingles or concrete can add to the base rate.',
+          'The final number depends on container size, rental period, and the weight of what goes in. Ask for an itemized quote — overage charges on heavy material like shingles or concrete can add to the base rate.',
       },
       {
         question: 'What size dumpster do I need for an Owasso home cleanout?',
@@ -17569,7 +17569,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Highlands Ranch',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Highlands Ranch Dumpster Rental | Sizes, Costs & HOA Rules',
+    metaTitle: 'Highlands Ranch, CO Dumpster Rental',
     metaDescription:
       'Highlands Ranch dumpster rental for roofing, remodels, and cleanouts. Compare roll-off sizes, typical Front Range pricing, and the HRCA driveway-only rule.',
     primaryKeyword: 'highlands ranch dumpster rental',
@@ -17598,27 +17598,27 @@ export const cityLocations: CityLocation[] = [
       {
         size: '10 Yard',
         uses: 'Garage cleanouts, flooring removal, single-room remodels, yard debris',
-        range: '$280–$480 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '15 Yard',
         uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris',
-        range: '$320–$540 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '20 Yard',
         uses: 'Roofing tear-offs, kitchen remodels, full home cleanouts, storm debris',
-        range: '$380–$650 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '30 Yard',
         uses: 'Estate cleanouts, large renovations, additions, mixed construction debris',
-        range: '$450–$780 / week',
+        range: 'Flat-rate quote; ask included tons',
       },
       {
         size: '40 Yard',
         uses: 'Major construction, commercial projects, large multi-room demolition',
-        range: '$580–$1,100+ / week',
+        range: 'Flat-rate quote; ask included tons',
       },
     ],
     projects: [
@@ -17717,7 +17717,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Highlands Ranch?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Overage charges in the Denver metro commonly run $65–$150 per ton over the included limit, but rates vary by provider, so confirm yours before booking. HRCA guidance requires driveway placement, so plan your budget around driveway placement rather than a street permit.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. HRCA guidance requires driveway placement, so plan your budget around driveway placement rather than a street permit.',
       },
       {
         question: 'Can I put a dumpster on the street in Highlands Ranch?',
@@ -17752,7 +17752,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster in Highlands Ranch?',
         answer:
-          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking, and give HRCA the full time frame you expect to need.',
+          'Rental periods vary by provider. Confirm both before booking, and give HRCA the full time frame you expect to need.',
       },
       {
         question: 'What can I not put in a Highlands Ranch dumpster?',
@@ -17781,7 +17781,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Castle Rock',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Castle Rock Dumpster Rental | Sizes, Costs & Town Rules',
+    metaTitle: 'Castle Rock, CO Dumpster Rental',
     metaDescription:
       'Castle Rock dumpster rental for remodels, roofing, cleanouts, and turf removal. Compare roll-off sizes, Front Range pricing, and Town street-placement rules.',
     primaryKeyword: 'castle rock dumpster rental',
@@ -17807,11 +17807,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder helps Castle Rock homeowners and contractors compare roll-off options. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and your driveway length. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Most neighborhoods on the Town's neighborhood map list an HOA, so read your covenants before delivery day. A quick look at the CC&Rs costs less than a letter from the board.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Sod and soil removal, garage cleanouts, flooring removal, single-room remodels', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Sod and soil removal, garage cleanouts, flooring removal, single-room remodels', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -17915,7 +17915,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Castle Rock?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement adds a Town right-of-way permit; the 2026 fee schedule lists $250 for the permit plus a $75 obstruction fee. Driveway placement avoids that cost.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement adds a Town right-of-way permit; the 2026 fee schedule lists $250 for the permit plus a $75 obstruction fee. Driveway placement avoids that cost.',
       },
       {
         question: 'Can I put a dumpster on the street in Castle Rock?',
@@ -17950,7 +17950,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster in Castle Rock?',
         answer:
-          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a street permit, keep the permit dates and the rental dates lined up.',
+          'Rental periods vary by provider. Confirm both before booking. If you have a street permit, keep the permit dates and the rental dates lined up.',
       },
       {
         question: 'What can I not put in a Castle Rock dumpster?',
@@ -17979,7 +17979,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Lone Tree',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Lone Tree Dumpster Rental | Sizes, Costs & Permit Rules',
+    metaTitle: 'Lone Tree, CO Dumpster Rental',
     metaDescription:
       'Lone Tree dumpster rental for remodels, re-roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and the City permit rule for driveway dumpsters.',
     primaryKeyword: 'lone tree dumpster rental',
@@ -18004,11 +18004,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder helps Lone Tree homeowners and contractors compare roll-off options. Availability depends on which providers cover your address. The City says every single-family and townhome neighborhood has an HOA, so check your covenants along with the City permit. When you request quotes, include the address, project type, driveway length, and how many days you need. Ask about the weight allowance, overage rate per ton, and daily extension fee. With a 30-day cap, the rental period is worth planning.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, single-room remodels, yard debris', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, deck removal, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Re-roofing, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, single-room remodels, yard debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, deck removal, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Re-roofing, kitchen remodels, basement finishes, full home cleanouts', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -18112,7 +18112,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Lone Tree?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. City permit costs are separate from the rental price, so ask the City of Lone Tree what applies to your placement.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. City permit costs are separate from the rental price, so ask the City of Lone Tree what applies to your placement.',
       },
       {
         question: 'Do I need a permit for a dumpster in my driveway in Lone Tree?',
@@ -18122,7 +18122,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can a dumpster stay at my house in Lone Tree?',
         answer:
-          'The City limits a dumpster to 30 consecutive days in a calendar year, unless it is associated with active construction or a building permit. Provider rental periods vary. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day.',
+          'The City limits a dumpster to 30 consecutive days in a calendar year, unless it is associated with active construction or a building permit. Provider rental periods vary.',
       },
       {
         question: 'Can I put a dumpster on the street in Lone Tree?',
@@ -18176,7 +18176,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Golden',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Golden Dumpster Rental | Sizes, Costs & ROW Permit Rules',
+    metaTitle: 'Golden, CO Dumpster Rental',
     metaDescription:
       'Golden dumpster rental for historic-home remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and City right-of-way permit rules.',
     primaryKeyword: 'golden dumpster rental',
@@ -18201,11 +18201,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder helps Golden homeowners and contractors compare roll-off options. Availability depends on which providers cover your address. Households in the City's Pay-As-You-Throw program get one free large-item pickup per calendar year, which handles a sofa or a few doors. It does not take cement, dirt, rocks, bricks, or steel, so remodel and demolition debris still needs a container. When you request quotes, include the address, project type, and placement plan. Ask about the weight allowance, overage rate, and extension fee.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Brick, rock, and concrete loads, garage cleanouts, single-room remodels', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, plaster and lath removal, basement cleanouts, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, historic-home guts, full home cleanouts', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Brick, rock, and concrete loads, garage cleanouts, single-room remodels', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, plaster and lath removal, basement cleanouts, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, historic-home guts, full home cleanouts', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -18306,7 +18306,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Golden?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street, alley, or parking-lane placement adds a City right-of-way permit, which is not part of the rental price.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street, alley, or parking-lane placement adds a City right-of-way permit, which is not part of the rental price.',
       },
       {
         question: 'Can I put a dumpster on the street in Golden?',
@@ -18370,7 +18370,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Northglenn',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Northglenn Dumpster Rental | City Roll-Offs vs. Private',
+    metaTitle: 'Northglenn, CO Dumpster Rental',
     metaDescription:
       "Northglenn dumpster rental compared: the City's $257 three-day roll-off, private rentals, Front Range pricing by size, and when a street permit applies.",
     primaryKeyword: 'northglenn dumpster rental',
@@ -18395,11 +18395,11 @@ export const cityLocations: CityLocation[] = [
       "A private rental makes more sense when the job needs more than three days, a 10 or 15-yard size, a weekday delivery, or a date the City has sold out. The City program is for residents, so contractors running a job usually need a private container. Rolloff Dumpster Finder helps Northglenn customers compare those private options, and availability depends on which providers cover your address. A private container in the street needs a City right-of-way permit. Ask about the weight allowance, overage rate, and extension fee too.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, single-room remodels, concrete and dirt', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, full home cleanouts, multi-week projects', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, single-room remodels, concrete and dirt', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, full home cleanouts, multi-week projects', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -18492,7 +18492,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Northglenn?',
         answer:
-          "Typical Front Range ranges put a private 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. The City of Northglenn's resident roll-off is $257 for a 20 or 30-yard, including delivery, pickup, and disposal, for a three-day rental. A private container in the street adds a City right-of-way permit.",
+          "The City of Northglenn's resident roll-off is $257 for a 20 or 30-yard, including delivery, pickup, and disposal, for a three-day rental. A private container in the street adds a City right-of-way permit.",
       },
       {
         question: 'Should I use the City of Northglenn roll-off or a private rental?',
@@ -18532,7 +18532,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster in Northglenn?',
         answer:
-          'The City roll-off rental period is three days, with pickup on the fourth. Private rental periods vary. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day.',
+          'The City roll-off rental period is three days, with pickup on the fourth. Private rental periods vary.',
       },
       {
         question: 'Do you serve nearby areas like Thornton, Westminster, Federal Heights, and Broomfield?',
@@ -18556,7 +18556,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Brighton',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Brighton CO Dumpster Rental | Sizes, Costs & Local Rules',
+    metaTitle: 'Brighton, CO Dumpster Rental',
     metaDescription:
       'Brighton dumpster rental for remodels, roofing, cleanouts, and landscaping. Compare roll-off sizes, Front Range pricing, Trash Bash limits, and street rules.',
     primaryKeyword: 'brighton dumpster rental',
@@ -18581,11 +18581,11 @@ export const cityLocations: CityLocation[] = [
       'Rolloff Dumpster Finder helps Brighton homeowners and contractors compare roll-off options. Availability depends on which providers cover your address, and delivery distance can affect the quote on the edge of the metro. Give each provider the exact address, project type, and placement plan. Ask about the weight allowance, overage rate per ton, rental period, and extension fee. If the container needs to go in the street, check with the City of Brighton One-Stop office before booking. A five-minute call beats a parking ticket.',
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, single-room remodels, concrete and dirt', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, single-room remodels, concrete and dirt', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -18691,7 +18691,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Brighton?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Any City permit for street placement is separate from the rental price.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. Any City permit for street placement is separate from the rental price.',
       },
       {
         question: 'Can I put a dumpster on the street in Brighton?',
@@ -18726,7 +18726,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster in Brighton?',
         answer:
-          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking.',
+          'Rental periods vary by provider. Confirm both before booking.',
       },
       {
         question: 'What can I not put in a Brighton dumpster?',
@@ -18754,7 +18754,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Castle Pines',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Castle Pines Dumpster Rental | Sizes, Costs & City Rules',
+    metaTitle: 'Castle Pines, CO Dumpster Rental',
     metaDescription:
       'Castle Pines dumpster rental for remodels, roofing, cleanouts, and landscaping. Compare roll-off sizes, Front Range pricing, and City temporary dumpster ROW fees.',
     primaryKeyword: 'castle pines dumpster rental',
@@ -18779,11 +18779,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder helps Castle Pines homeowners and contractors compare roll-off options across Douglas County. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and driveway length. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Many neighborhoods have HOA covenants, so check container rules before delivery day.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -18886,7 +18886,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Castle Pines?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement adds a City temporary dumpster permit; the 2026 fee schedule lists $375 for the first 90 days. Driveway placement avoids that cost.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement adds a City temporary dumpster permit; the 2026 fee schedule lists $375 for the first 90 days. Driveway placement avoids that cost.',
       },
       {
         question: 'Can I put a dumpster on the street in Castle Pines?',
@@ -18921,7 +18921,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Castle Pines?',
         answer:
-          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a City street permit, keep the permit dates and the rental dates lined up — the City lists a 90-day initial dumpster placement window with paid extensions.',
+          'Rental periods vary by provider. Confirm both before booking. If you have a City street permit, keep the permit dates and the rental dates lined up — the City lists a 90-day initial dumpster placement window with paid extensions.',
       },
       {
         question: 'Are there items I cannot put in a Castle Pines dumpster?',
@@ -18945,7 +18945,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Edgewater',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Edgewater Dumpster Rental | Sizes, Costs & City Rules',
+    metaTitle: 'Edgewater, CO Dumpster Rental',
     metaDescription:
       'Edgewater dumpster rental for bungalow remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and City roll-off permit steps via CommunityCore.',
     primaryKeyword: 'edgewater dumpster rental',
@@ -18970,11 +18970,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder helps Edgewater homeowners and contractors compare roll-off options across the west Denver metro. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and driveway length. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Older plaster walls and tile baths hit weight limits faster than drywall jobs.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -19075,7 +19075,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Edgewater?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Ask whether a City roll-off permit is required for your placement before comparing final numbers.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. Ask whether a City roll-off permit is required for your placement before comparing final numbers.',
       },
       {
         question: 'Do I need a permit for a dumpster in Edgewater?',
@@ -19110,7 +19110,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Edgewater?',
         answer:
-          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking, and keep any City permit dates lined up with the rental window.',
+          'Rental periods vary by provider. Confirm both before booking, and keep any City permit dates lined up with the rental window.',
       },
       {
         question: 'Are there items I cannot put in an Edgewater dumpster?',
@@ -19134,7 +19134,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Federal Heights',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Federal Heights Dumpster Rental | Sizes, Costs & Rules',
+    metaTitle: 'Federal Heights, CO Dumpster Rental',
     metaDescription:
       'Federal Heights dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and City right-of-way permit rules for street placement.',
     primaryKeyword: 'federal heights dumpster rental',
@@ -19159,11 +19159,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder helps Federal Heights homeowners, landlords, and contractors compare roll-off options across the north Denver metro. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and access notes — especially if the delivery is inside a mobile home park. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -19264,7 +19264,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Federal Heights?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement may add a City right-of-way permit. Driveway placement avoids that cost.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement may add a City right-of-way permit. Driveway placement avoids that cost.',
       },
       {
         question: 'Do I need a permit for a dumpster in Federal Heights?',
@@ -19299,7 +19299,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Federal Heights?',
         answer:
-          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a street permit, keep the permit dates and the rental dates lined up.',
+          'Rental periods vary by provider. Confirm both before booking. If you have a street permit, keep the permit dates and the rental dates lined up.',
       },
       {
         question: 'Are there items I cannot put in a Federal Heights dumpster?',
@@ -19323,7 +19323,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Sheridan',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Sheridan CO Dumpster Rental | Sizes, Costs & City Rules',
+    metaTitle: 'Sheridan, CO Dumpster Rental',
     metaDescription:
       'Sheridan, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and City ROW fees for street placement.',
     primaryKeyword: 'sheridan co dumpster rental',
@@ -19348,11 +19348,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder helps Sheridan homeowners and contractors compare roll-off options across the south Denver metro. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and driveway length. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Older tile baths and plaster walls hit weight limits faster than drywall-only jobs.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -19454,7 +19454,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Sheridan, CO?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement adds a City right-of-way permit; the 2026 fee schedule lists a $140 ROW fee. Driveway placement avoids that cost.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement adds a City right-of-way permit; the 2026 fee schedule lists a $140 ROW fee. Driveway placement avoids that cost.',
       },
       {
         question: 'Do I need a permit for a dumpster in Sheridan, Colorado?',
@@ -19489,7 +19489,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Sheridan?',
         answer:
-          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a street permit, keep the permit dates and the rental dates lined up.',
+          'Rental periods vary by provider. Confirm both before booking. If you have a street permit, keep the permit dates and the rental dates lined up.',
       },
       {
         question: 'Are there items I cannot put in a Sheridan CO dumpster?',
@@ -19513,7 +19513,7 @@ export const cityLocations: CityLocation[] = [
     cityName: 'Cherry Hills Village',
     stateName: 'Colorado',
     stateAbbr: 'CO',
-    metaTitle: 'Cherry Hills Village Dumpster Rental | Sizes & Rules',
+    metaTitle: 'Cherry Hills Village, CO Dumpster Rental',
     metaDescription:
       'Cherry Hills Village dumpster rental for estate remodels, roofing, and cleanouts. Compare roll-off sizes, Front Range pricing, and Village ROW permit rules.',
     primaryKeyword: 'cherry hills village dumpster rental',
@@ -19538,11 +19538,11 @@ export const cityLocations: CityLocation[] = [
       "Rolloff Dumpster Finder helps Cherry Hills Village homeowners and contractors compare roll-off options across the south Denver metro. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any gate or private-road notes. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Large-lot deliveries still fail when the truck cannot make the turn.",
     ],
     pricingGuide: [
-      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: '$280–$480 / week' },
-      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: '$320–$540 / week' },
-      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: '$380–$650 / week' },
-      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: '$450–$780 / week' },
-      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: '$580–$1,100+ / week' },
+      { size: '10 Yard', uses: 'Garage cleanouts, flooring removal, sod and soil, single-room remodels', range: 'Flat-rate quote; ask included tons' },
+      { size: '15 Yard', uses: 'Bathroom remodels, basement cleanouts, small deck removal, landscaping debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '20 Yard', uses: 'Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts', range: 'Flat-rate quote; ask included tons' },
+      { size: '30 Yard', uses: 'Estate cleanouts, large renovations, additions, mixed construction debris', range: 'Flat-rate quote; ask included tons' },
+      { size: '40 Yard', uses: 'Major construction, commercial projects, large multi-room demolition', range: 'Flat-rate quote; ask included tons' },
     ],
     projects: [
       {
@@ -19644,7 +19644,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How much does dumpster rental cost in Cherry Hills Village?',
         answer:
-          'Typical Front Range ranges put a 10-yard at about $280–$480 per week and a 20-yard at about $380–$650 per week. Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement needs Director approval and a Village ROW permit path. Driveway placement avoids that cost.',
+          'Your quote depends on the provider, container size, rental period, included weight, and delivery address. Street placement needs Director approval and a Village ROW permit path. Driveway placement avoids that cost.',
       },
       {
         question: 'Can I put a dumpster on the street in Cherry Hills Village?',
@@ -19679,7 +19679,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How long can I keep a dumpster rental in Cherry Hills Village?',
         answer:
-          'Rental periods vary by provider. Many quotes include 7 to 14 days, and extension fees often run $5–$15 per day. Confirm both before booking. If you have a Village ROW permit, keep the permit dates and the rental dates lined up.',
+          'Rental periods vary by provider. Confirm both before booking. If you have a Village ROW permit, keep the permit dates and the rental dates lined up.',
       },
       {
         question: 'Are there items I cannot put in a Cherry Hills Village dumpster?',
@@ -19703,7 +19703,7 @@ export const cityLocations: CityLocation[] = [
     cityName: "Louisville",
     stateName: "Colorado",
     stateAbbr: "CO",
-    metaTitle: "Louisville CO Dumpster Rental | Sizes, Permits & Rules",
+    metaTitle: "Louisville, CO Dumpster Rental",
     metaDescription: "Louisville, Colorado dumpster rental for remodels, roofing, and Marshall Fire rebuild cleanup. Compare roll-off sizes and City permit rules before you book.",
     primaryKeyword: "louisville co dumpster rental",
     secondaryKeywords: [
@@ -19866,7 +19866,7 @@ export const cityLocations: CityLocation[] = [
     cityName: "Lafayette",
     stateName: "Colorado",
     stateAbbr: "CO",
-    metaTitle: "Lafayette CO Dumpster Rental | Sizes, Permits & Rules",
+    metaTitle: "Lafayette, CO Dumpster Rental",
     metaDescription: "Lafayette, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and City right-of-way permit rules for street placement.",
     primaryKeyword: "lafayette co dumpster rental",
     secondaryKeywords: [
@@ -20029,7 +20029,7 @@ export const cityLocations: CityLocation[] = [
     cityName: "Superior",
     stateName: "Colorado",
     stateAbbr: "CO",
-    metaTitle: "Superior CO Dumpster Rental | Sizes, Permits & Rules",
+    metaTitle: "Superior, CO Dumpster Rental",
     metaDescription: "Superior, Colorado dumpster rental for remodels, roofing, and rebuild cleanup. Compare roll-off sizes and Town dumpster permit rules before street placement.",
     primaryKeyword: "superior co dumpster rental",
     secondaryKeywords: [
@@ -20188,7 +20188,7 @@ export const cityLocations: CityLocation[] = [
     cityName: "Erie",
     stateName: "Colorado",
     stateAbbr: "CO",
-    metaTitle: "Erie CO Dumpster Rental | Sizes, Free Permit & Rules",
+    metaTitle: "Erie, CO Dumpster Rental | Free Permit",
     metaDescription: "Erie, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and the free Town permit for street dumpsters before you book.",
     primaryKeyword: "erie co dumpster rental",
     secondaryKeywords: [
@@ -20351,7 +20351,7 @@ export const cityLocations: CityLocation[] = [
     cityName: "Firestone",
     stateName: "Colorado",
     stateAbbr: "CO",
-    metaTitle: "Firestone CO Dumpster Rental | Sizes, Permits & Rules",
+    metaTitle: "Firestone, CO Dumpster Rental",
     metaDescription: "Firestone, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and Town street obstruction rules before placing a bin.",
     primaryKeyword: "firestone co dumpster rental",
     secondaryKeywords: [

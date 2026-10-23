@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { texasProviders } from '@/content/providers'
 
 export const metadata: Metadata = {
-  title: 'Texas Roll-Off Dumpster Rental Companies | Provider Directory',
+  title: 'Texas Dumpster Rental Companies',
   description:
     'Browse roll-off dumpster rental companies serving Texas by region. Listings cover Dallas–Fort Worth, Houston, Austin, San Antonio, El Paso, and communities statewide.',
   alternates: {

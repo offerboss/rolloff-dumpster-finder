@@ -9,10 +9,10 @@ const COVER_SRC =
 const DATE = '2026-06-16'
 const AUTHOR = 'Jake Harlow'
 const META_DESC =
-  'A 10-yard dumpster rental costs $220–$580 for a standard 7-day rental. Here is what it holds, why it handles small concrete and tile jobs well, and when to step up to a 20-yard.'
+  'A 10-yard dumpster is the smallest standard roll-off. Here is what it holds, why it handles small concrete and tile jobs well, and when to step up to a 20-yard.'
 
 export const metadata: Metadata = {
-  title: TITLE,
+  title: '10 Yard Dumpster Rental: Uses & Weight',
   description: META_DESC,
   keywords: [
     '10 yard dumpster rental',
@@ -57,7 +57,7 @@ const toc = [
   { id: 'what-it-looks-like', title: 'What a 10-Yard Container Actually Looks Like' },
   { id: 'what-fits', title: 'What Fits — and What Runs Out Early' },
   { id: 'weight-limits', title: 'Weight Limits and the Heavy-Debris Math' },
-  { id: 'cost', title: 'What a 10-Yard Dumpster Rental Costs' },
+  { id: 'cost', title: 'How a 10-Yard Dumpster Rental Is Priced' },
   { id: 'placement', title: 'Driveway Placement and Tight Access' },
   { id: 'rental-period', title: 'Rental Period and Extensions' },
   { id: 'sizing-up', title: 'When to Step Up to a 20-Yard' },
@@ -69,7 +69,7 @@ const faq = [
   {
     question: 'How much does a 10-yard dumpster rental cost?',
     answer:
-      'A 10-yard dumpster rental runs $220–$580 for a standard 7-day rental. The national average is around $350 per week. Colorado and other mountain states typically run 10–20% above national averages due to longer haul distances to licensed landfills. Your final bill depends on how long you keep the container and what you load into it — weight overages on concrete and tile are the most common line item that surprises people after pickup.',
+      'Your final bill depends on how long you keep the container and what you load into it — weight overages on concrete and tile are the most common line item that surprises people after pickup.',
   },
   {
     question: 'What are the dimensions of a 10-yard roll-off container?',
@@ -79,7 +79,7 @@ const faq = [
   {
     question: 'What is the weight limit on a 10-yard dumpster?',
     answer:
-      'Most 10-yard roll-off containers include a weight allowance of 1–2 tons in the base rental rate. The exact number varies by provider and market. Before booking, ask specifically: "What is the weight limit in tons for the 10-yard?" Loads over that allowance incur overage charges of $40–$200 per extra ton. Concrete and tile are the two materials that most commonly trigger overage charges on 10-yard rentals — they hit the weight limit before the container looks anywhere near full.',
+      'Most 10-yard roll-off containers include a weight allowance of 1–2 tons in the base rental rate. The exact number varies by provider and market. Concrete and tile are the two materials that most commonly trigger overage charges on 10-yard rentals — they hit the weight limit before the container looks anywhere near full.',
   },
   {
     question: 'Can I put concrete in a 10-yard dumpster?',
@@ -99,12 +99,12 @@ const faq = [
   {
     question: 'When should I rent a 20-yard dumpster instead of a 10-yard?',
     answer:
-      'Rent a 20-yard when the project involves more than one room, a full roof tear-off, a whole-home cleanout, or any significant amount of concrete beyond a partial pad or walkway. The cost gap between a 10-yard and a 20-yard is typically $80–$120 per week — less than the cost of a second haul if the 10-yard runs short. When genuinely uncertain between two sizes, the larger one is almost always the lower-risk choice.',
+      'Rent a 20-yard when the project involves more than one room, a full roof tear-off, a whole-home cleanout, or any significant amount of concrete beyond a partial pad or walkway. When genuinely uncertain between two sizes, the larger one is almost always the lower-risk choice.',
   },
   {
     question: 'Can I get same-day delivery on a 10-yard dumpster?',
     answer:
-      'Same-day delivery is available from most local roll-off operators if you call before noon. Expect a rush fee of $50–$100 in most markets. Larger national providers are less likely to offer same-day service than smaller local operators. For more on how same-day delivery works and what to say when you call, see the same-day dumpster rental guide.',
+      'Same-day delivery is available from most local roll-off operators if you call before noon. Larger national providers are less likely to offer same-day service than smaller local operators. For more on how same-day delivery works and what to say when you call, see the same-day dumpster rental guide.',
   },
 ]
 
@@ -166,13 +166,13 @@ const faqSchema = {
 }
 
 const bodyHtml = `
-<p>A 10-yard dumpster rental costs <strong>$220&#8211;$580 for a standard 7-day rental</strong>. My rescue dog Bruiser once climbed into an empty 10-yard container and had to be retrieved with a step ladder. He fit. A garage cleanout does too &#8212; the step ladder, thankfully, is not required for the debris.</p>
+<p>My rescue dog Bruiser once climbed into an empty 10-yard container and had to be retrieved with a step ladder. He fit. A garage cleanout does too &#8212; the step ladder, thankfully, is not required for the debris.</p>
 
 <p>The 10-yard is the smallest standard roll-off container. It handles single-room remodels, garage cleanouts, small landscaping jobs, and moderate amounts of heavy debris like concrete, tile, and brick. Used on the right project, it is the correct container and nobody thinks twice. Used on a project that outgrows it, the overweight charge arrives on the invoice three days after pickup and costs more than the size difference would have.</p>
 
 <div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
   <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">Quick answer</p>
-  <p class="text-charcoal">A 10-yard rental runs <strong>$220&#8211;$580</strong> for 7 days, averaging around $350. The container measures roughly 10&#8211;12 feet long, 8 feet wide, and 3 feet high. Weight limit is typically 1&#8211;2 tons &#8212; that limit, not the cubic-yard capacity, is the number to watch when loading tile, concrete, or asphalt.</p>
+  <p class="text-charcoal">The container measures roughly 10&#8211;12 feet long, 8 feet wide, and 3 feet high. Weight limit is typically 1&#8211;2 tons &#8212; that limit, not the cubic-yard capacity, is the number to watch when loading tile, concrete, or asphalt.</p>
 </div>
 
 <h2 id="what-it-looks-like">What a 10-Yard Container Actually Looks Like</h2>
@@ -293,7 +293,7 @@ const bodyHtml = `
 
 <p>Roofers doing a small section repair: confirm the weight limit before loading the first bundle of shingles. A patch job on a small roof section often fits a 10-yard by weight. A full tear-off on even a modest residential roof does not. For the full breakdown on roofing weight and container sizing, see the <a href="/resources/roofing-dumpster-rental" class="text-orange hover:underline">roofing dumpster rental guide</a>.</p>
 
-<h2 id="cost">What a 10-Yard Dumpster Rental Costs</h2>
+<h2 id="cost">How a 10-Yard Dumpster Rental Is Priced</h2>
 
 <figure class="not-prose my-8">
   <img
@@ -306,48 +306,40 @@ const bodyHtml = `
   />
 </figure>
 
-<p>A 10-yard dumpster rental costs <strong>$220&#8211;$580</strong> for a standard 7-day rental. The national average runs around $350 per week. Colorado and mountain states typically run 10&#8211;20% above national averages due to longer haul distances to licensed landfills.</p>
 
-<p>Here is what moves the number within that range:</p>
+<p>The final bill is built from several line items, and each one varies by provider and market. Here is what moves the number:</p>
 
 <div class="not-prose my-6 overflow-x-auto">
   <table class="w-full text-sm border-collapse">
     <thead>
       <tr class="bg-charcoal text-white">
         <th class="px-4 py-3 text-left font-semibold">Line Item</th>
-        <th class="px-4 py-3 text-left font-semibold">Typical Range</th>
         <th class="px-4 py-3 text-left font-semibold">Notes</th>
       </tr>
     </thead>
     <tbody>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Base rental (7 days)</td>
-        <td class="px-4 py-3">$220&#8211;$580</td>
-        <td class="px-4 py-3">Avg $350; mountain markets run 10&#8211;20% higher</td>
+        <td class="px-4 py-3">Varies by market, provider, and included weight</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Rental extension</td>
-        <td class="px-4 py-3">$5&#8211;$10/day</td>
-        <td class="px-4 py-3">Ask upfront if the project may run past 10 days</td>
+        <td class="px-4 py-3">Ask upfront if the project may run long</td>
       </tr>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Overweight charge</td>
-        <td class="px-4 py-3">$40&#8211;$200/ton</td>
-        <td class="px-4 py-3">Per ton above the included weight limit</td>
+        <td class="px-4 py-3">Per ton above the included weight limit; get the rate in writing before booking</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Fuel surcharge</td>
-        <td class="px-4 py-3">$15&#8211;$35</td>
-        <td class="px-4 py-3">Most companies include this in the quote</td>
+        <td class="px-4 py-3">Most companies include this in the quote; confirm before signing</td>
       </tr>
       <tr class="border-b border-gray-200 bg-white hover:bg-gray-50">
         <td class="px-4 py-3 font-medium">Second pull (swap-out)</td>
-        <td class="px-4 py-3">$150&#8211;$250</td>
-        <td class="px-4 py-3">Driver picks up full container, drops empty one</td>
+        <td class="px-4 py-3">Full container picked up, empty returned</td>
       </tr>
       <tr class="border-b border-gray-200 bg-gray-50 hover:bg-gray-100">
         <td class="px-4 py-3 font-medium">Prohibited material fee</td>
-        <td class="px-4 py-3">$25&#8211;$100+</td>
         <td class="px-4 py-3">Tires, paint, appliances, hazmat</td>
       </tr>
     </tbody>
@@ -379,9 +371,9 @@ const bodyHtml = `
 
 <p>Standard 10-yard rentals run <strong>7&#8211;10 days</strong>. The jobs that need a 10-yard &#8212; a bathroom remodel, a garage cleanout, a small concrete pad removal &#8212; tend to finish inside that window. This is not a container that sits idle for five days while framing work continues on another floor.</p>
 
-<p>Extensions cost $5&#8211;$10 per day. If the project might run longer than 10 days, mention it when you book. Some operators offer a better flat rate for a longer window upfront than if you call mid-rental to extend. The company would rather know early. The driver would rather not make an unscheduled trip.</p>
+<p>If the project might run longer than 10 days, mention it when you book. Some operators offer a better flat rate for a longer window upfront than if you call mid-rental to extend. The company would rather know early. The driver would rather not make an unscheduled trip.</p>
 
-<p>A <strong>second pull</strong> &#8212; where the driver picks up a full container and drops an empty one &#8212; runs $150&#8211;$250 on top of the original rental. If the container fills mid-project, a second pull is usually cheaper than having booked a 20-yard at the start. The exception is if the project scope clearly called for more capacity from the beginning, in which case sizing correctly on the first booking saves both money and a scheduling call.</p>
+<p>If the container fills mid-project, a second pull is usually cheaper than having booked a 20-yard at the start. The exception is if the project scope clearly called for more capacity from the beginning, in which case sizing correctly on the first booking saves both money and a scheduling call.</p>
 
 <p>Same-day delivery is available from most local operators if you call before noon. For how to find operators who can move that fast and what a rush fee typically runs, see the <a href="/resources/same-day-dumpster-rental" class="text-orange hover:underline">same-day dumpster rental guide</a>.</p>
 
@@ -399,7 +391,7 @@ const bodyHtml = `
   <li>Multi-phase contractor work where the container will sit onsite for days of active demolition</li>
 </ul>
 
-<p>The cost gap between a 10-yard and a 20-yard is typically <strong>$80&#8211;$120 per week</strong>. A second haul after an undersized container runs $150&#8211;$250. Rule of thumb: if you are genuinely uncertain which size is right, take the 20-yard. The extra cost is almost always less than the second pull.</p>
+<p>Rule of thumb: if you are genuinely uncertain which size is right, take the 20-yard. The extra cost is almost always less than the second pull.</p>
 
 <p>For the full breakdown on what a 20-yard handles and when to go bigger still, see the <a href="/resources/20-yard-dumpster-rental" class="text-orange hover:underline">20-yard dumpster rental guide</a>. For the full range of sizes matched against project types, the <a href="/resources/how-to-choose-the-right-dumpster-size" class="text-orange hover:underline">dumpster size guide</a> has the comparison.</p>
 
@@ -409,7 +401,7 @@ const bodyHtml = `
 
 <p><strong>1. What is the weight limit in tons?</strong> Not "is there a standard weight limit" &#8212; get the specific number in tons, in writing, in the quote. This is the question most people skip and the one that generates the most surprise charges.</p>
 
-<p><strong>2. What is the overage charge per ton?</strong> Rates run $40&#8211;$200 per ton above the limit depending on the market and the provider. Knowing this number changes how you load the container. A $200-per-ton overage rate on two tons of concrete adds $400 to a $350 rental.</p>
+<p><strong>2. What is the overage charge per ton?</strong> Knowing this number changes how you load the container.</p>
 
 <p><strong>3. Do you have a heavy-debris or concrete-specific container?</strong> Some markets have 10-yard containers rated for 3&#8211;5 tons at a per-ton pricing model. Ask about this before booking if the load is primarily concrete, brick, or tile. It is not a guaranteed option in every market, but it is worth asking.</p>
 

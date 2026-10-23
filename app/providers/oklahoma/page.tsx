@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { oklahomaProviders } from '@/content/providers'
 
 export const metadata: Metadata = {
-  title: 'Oklahoma Roll-Off Dumpster Rental Companies | Provider Directory',
+  title: 'Oklahoma Dumpster Rental Companies',
   description:
     'Browse roll-off dumpster rental companies serving Oklahoma by region. Listings are compiled from public business information and have not yet been confirmed by providers.',
   alternates: {

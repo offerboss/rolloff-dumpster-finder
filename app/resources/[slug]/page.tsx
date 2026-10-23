@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!post) return {}
 
   return {
-    title: post.title,
+    title: post.metaTitle ?? post.title,
     description: post.metaDescription,
     keywords: post.keywords,
     authors: [{ name: post.author }],

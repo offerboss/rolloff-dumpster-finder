@@ -57,7 +57,7 @@ const faqs = [
   {
     question: 'How much does roll-off dumpster rental cost?',
     answer:
-      'Most homeowners pay $350–$500 for a standard 7-day rental. A 10-yard container typically runs $300–$450 per week. A 20-yard averages $400–$550. Pricing depends on container size, rental duration, location, and debris type. Dense materials like concrete or roofing shingles may carry a weight surcharge.',
+      'Pricing depends on container size, rental duration, location, and debris type. Dense materials like concrete or roofing shingles may carry a weight surcharge.',
   },
   {
     question: 'What can I put in a roll-off dumpster?',
@@ -82,7 +82,7 @@ const faqs = [
   {
     question: 'How long can I keep a rental dumpster?',
     answer:
-      'Standard rentals run 7–10 days. Extensions are available at a daily rate, typically $5–$10 per day. If you know your project will run long, ask about extended rental pricing at booking — it is often more cost-effective than adding days mid-rental.',
+      'Standard rentals run 7–10 days. If you know your project will run long, ask about extended rental pricing at booking — it is often more cost-effective than adding days mid-rental.',
   },
   {
     question: 'What items are not allowed in a dumpster rental?',

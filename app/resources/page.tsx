@@ -225,21 +225,21 @@ const resourceCards = [
   },
   {
     badge: 'Geo Guide',
-    title: 'Colorado Dumpster Rental Cost: Prices by Market and Size',
+    title: 'Colorado Dumpster Rental Cost: How Pricing Works',
     excerpt:
       'How dumpster pricing differs across Colorado, from competitive Front Range markets to mountain towns, and what drives the gap across Denver, the I-25 corridor, and the Western Slope.',
     href: '/resources/colorado-dumpster-rental-cost',
   },
   {
     badge: 'Geo Guide',
-    title: 'Oklahoma Dumpster Rental Cost: Prices by Market and Size',
+    title: 'Oklahoma Dumpster Rental Cost: How Pricing Works',
     excerpt:
       'How dumpster rentals are priced across Oklahoma City, Tulsa, Lawton, and the southwest cluster, and what to ask for in a written quote.',
     href: '/resources/oklahoma-dumpster-rental-cost',
   },
   {
     badge: 'Geo Guide',
-    title: 'Texas Dumpster Rental Cost: Prices by Size and Metro',
+    title: 'Texas Dumpster Rental Cost: How Pricing Works',
     excerpt:
       'How dumpster rentals are priced across Dallas, Fort Worth, Houston, San Antonio, and Austin, by container size, rental period, and weight allowance.',
     href: '/resources/texas-dumpster-rental-cost',
@@ -253,14 +253,14 @@ const resourceCards = [
   },
   {
     badge: 'Geo Guide',
-    title: 'Arizona Dumpster Rental Cost: Prices by Size and City',
+    title: 'Arizona Dumpster Rental Cost: How Pricing Works',
     excerpt:
       'How dumpster rentals are priced across Phoenix Metro, the East Valley, Scottsdale, Tucson, Prescott, and Flagstaff, by container size and rental terms.',
     href: '/resources/arizona-dumpster-rental-cost',
   },
   {
     badge: 'Geo Guide',
-    title: 'Utah Dumpster Rental Cost: Prices by Size and City',
+    title: 'Utah Dumpster Rental Cost: How Pricing Works',
     excerpt:
       'How dumpster rentals are priced across Salt Lake City, Sandy, Ogden, and St. George, by container size and rental terms.',
     href: '/resources/utah-dumpster-rental-cost',
