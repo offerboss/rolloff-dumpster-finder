@@ -9387,4 +9387,237 @@ export const blogPosts: BlogPost[] = [
       }
     ],
   },
+
+  {
+    slug: 'northern-colorado-dumpster-permits',
+    title: 'Northern Colorado Dumpster Permits: Frederick, Dacono, Platteville, Milliken & Berthoud',
+    metaTitle: 'Northern Colorado Dumpster Permits by Town',
+    excerpt:
+      'Five towns north of the metro, five different answers. Dacono and Platteville want a permit even on the driveway, Frederick keeps bins out of the street, and Milliken and Berthoud run street permits through CommunityCore.',
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/construction-site-roll-off-dumpster.png',
+    coverImageAlt: 'Roll-off dumpster at a residential construction site',
+    date: '2026-10-27',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Dumpster permit rules for Frederick, Dacono, Platteville, Milliken, and Berthoud, CO: driveway vs. street, published fees, hauler licenses, and who to call.',
+    readingTime: 6,
+    keywords: [
+      "northern colorado dumpster permits",
+      "frederick co dumpster permit",
+      "dacono dumpster permit",
+      "platteville dumpster permit",
+      "milliken co dumpster permit",
+      "berthoud dumpster permit"
+    ],
+    body: `
+<p>Drive 20 minutes up I-25 from Firestone and you cross five sets of dumpster rules. Two of them apply even when the bin sits on your own driveway.</p>
+
+<p>The short answer on northern Colorado dumpster permits: Dacono and Platteville want a Town or City permit before any roll-off lands, driveway included. Frederick does not sell you a street option at all; the bin goes on your property. Milliken and Berthoud leave the driveway alone and require a permit for anything in the street, alley, or other right-of-way.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Driveway first, everywhere. In Dacono, pull the $10 City permit and use a City-licensed hauler. In Platteville, pull the $20 Town permit even on private property. In Frederick, keep the bin out of the street. In Milliken and Berthoud, a street bin means a CommunityCore permit.</p>
+</div>
+
+<h2 id="compare">The Five Towns Side by Side</h2>
+
+<div class="not-prose my-8 overflow-x-auto">
+<table class="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
+  <thead class="bg-gray-50">
+    <tr>
+      <th class="px-4 py-3 text-left font-semibold">Town</th>
+      <th class="px-4 py-3 text-left font-semibold">Private driveway</th>
+      <th class="px-4 py-3 text-left font-semibold">Street or right-of-way</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="border-t"><td class="px-4 py-3">Frederick</td><td class="px-4 py-3">Where the Town wants it</td><td class="px-4 py-3">Out of roads and alleys; subject to ticketing</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Dacono</td><td class="px-4 py-3">City permit required: $10, generally 2 weeks</td><td class="px-4 py-3">Not permitted on City streets</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Platteville</td><td class="px-4 py-3">Temporary use permit required: $20, 30 days</td><td class="px-4 py-3">Must follow Town right-of-way rules on safety and emergency access</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Milliken</td><td class="px-4 py-3">No right-of-way permit</td><td class="px-4 py-3">Counter Residential Street Obstruction Permit via CommunityCore</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Berthoud</td><td class="px-4 py-3">No right-of-way permit</td><td class="px-4 py-3">ROW or Roll-Off Dumpster/Storage permit via CommunityCore</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="frederick">Frederick: The Driveway Is the Plan</h2>
+
+<p>The Town of Frederick <a href="https://www.frederickco.gov/Faq.aspx?QID=210" target="_blank" rel="noopener noreferrer">building FAQ</a> says a remodeling dumpster must be in your driveway or on your property, and out of alleys and roads for emergency access. One left in the road is subject to ticketing and sits there at your own risk. The Town's <a href="https://www.frederickco.gov/330/Right-of-Way-Permits" target="_blank" rel="noopener noreferrer">right-of-way permit</a> ($150 license fee plus a refundable deposit) covers work in the right-of-way; it is not presented as a dumpster option, so talk to Engineering before counting on it. Roofers: Frederick requires a mid-roof inspection after the full tear-off, so the bin stays until it passes. Details: <a href="/locations/frederick-co-dumpster-rental">Frederick</a>.</p>
+
+<h2 id="dacono">Dacono: Permit First, Even on the Driveway</h2>
+
+<p>Dacono's <a href="https://www.daconoco.gov/1125/Dumpster-Permits" target="_blank" rel="noopener noreferrer">Dumpster Permits page</a> is short and firm. A City permit is required before delivery. Dumpsters are not permitted on City streets and must sit entirely on the property. Approved permits are $10 and generally valid for two weeks. Every refuse hauler must be licensed by the City, and the page lists the licensed companies. Check the list before you book. Details: <a href="/locations/dacono-co-dumpster-rental">Dacono</a>.</p>
+
+<!--survey-mid-->
+
+<h2 id="platteville">Platteville: $20 for 30 Days on Private Property</h2>
+
+<p>Platteville's <a href="https://platteville.colorado.gov/licenses-and-permits" target="_blank" rel="noopener noreferrer">licenses and permits page</a> defines a roll-off dumpster as a truck-hauled container of 10 cubic yards or larger. A temporary use permit is required before one is placed on private property. The fee is $20 and it is valid for 30 days. A roll-off in the right-of-way has to follow the Town code on right-of-way use, including safety and emergency vehicle access. Call Town Hall before you plan on the street. Details: <a href="/locations/platteville-co-dumpster-rental">Platteville</a>.</p>
+
+<h2 id="milliken">Milliken: A Street Permit With Phone-Only Payment</h2>
+
+<p>Milliken's <a href="https://www.millikenco.gov/269/Right-of-Way-Permits" target="_blank" rel="noopener noreferrer">right-of-way permit page</a> requires a permit to store a dumpster or moving container in an alley or on the side of a road. The Counter Residential Street Obstruction Permit covers roll-offs in the right-of-way that may block traffic or sight lines. Apply on CommunityCore after registering. The Town assesses fees after review and emails an invoice. Payment is by phone or in person at Town Hall; online payment is not accepted. Details: <a href="/locations/milliken-co-dumpster-rental">Milliken</a>.</p>
+
+<h2 id="berthoud">Berthoud: Insurance and a Licensed Hauler</h2>
+
+<p>Berthoud requires a <a href="https://www.berthoud.org/1435/Right-of-way-Permits" target="_blank" rel="noopener noreferrer">right-of-way or Roll-Off Dumpster/Storage permit</a> before a container goes in Town right-of-way. Apply through CommunityCore. The Town can ask for a certificate of insurance naming Berthoud as additional insured, a scope of work and vicinity map, and a traffic control plan if the bin impedes traffic or a sidewalk. Companies providing waste disposal in Berthoud need a <a href="https://www.berthoud.org/1567/Business-License" target="_blank" rel="noopener noreferrer">Waste Management License</a>. Details: <a href="/locations/berthoud-co-dumpster-rental">Berthoud</a>.</p>
+
+<h2 id="skip-street">When Not to Bother With the Street</h2>
+
+<p>Skip the street whenever the driveway fits the container. In Frederick and Dacono the street is not on the menu anyway. In Milliken and Berthoud, a street permit adds paperwork, review time, and possibly insurance documents for a job that fits on the driveway. If the driveway is too short, size down or plan two smaller hauls before you file anything.</p>
+
+<p>For the towns just south, read the <a href="/resources/boulder-county-dumpster-permits">Boulder County dumpster permit guide</a> (Louisville, Lafayette, Superior, Erie, and Firestone). For quote mechanics in these five towns, read <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/longmont-co-dumpster-rental">Longmont</a>, <a href="/locations/loveland-co-dumpster-rental">Loveland</a>, and <a href="/locations/johnstown-co-dumpster-rental">Johnstown</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "Which northern Colorado towns require a dumpster permit on my driveway?",
+            "answer": "Dacono and Platteville. Dacono requires a City permit before delivery ($10, generally valid two weeks) and does not allow dumpsters on City streets. Platteville requires a $20 temporary use permit, valid 30 days, before a roll-off is placed on private property."
+      },
+      {
+            "question": "Can I put a dumpster in the street in Frederick?",
+            "answer": "The Town says remodeling dumpsters must be in the driveway or on your property, out of alleys and roads. One left in the road is subject to ticketing and sits there at your own risk."
+      },
+      {
+            "question": "How do I get a street dumpster permit in Milliken or Berthoud?",
+            "answer": "Both towns take applications through CommunityCore. Milliken uses the Counter Residential Street Obstruction Permit and takes payment by phone or in person. Berthoud uses a right-of-way or Roll-Off Dumpster/Storage permit and may ask for insurance, a vicinity map, and a traffic control plan."
+      },
+      {
+            "question": "Does my dumpster company need a local license?",
+            "answer": "In Dacono, yes: every refuse hauler must be licensed by the City, and the City posts the list. In Berthoud, companies providing waste disposal need a Town Waste Management License. Ask your provider before you book."
+      },
+      {
+            "question": "Is the permit included in the rental price?",
+            "answer": "Usually not. Ask each provider who files the permit and whether the fee is passed through. In Dacono and Platteville the permit applies even on the driveway, so budget for it either way."
+      }
+    ],
+    toc: [
+      { "id": "compare", "title": "The Five Towns Side by Side" },
+      { "id": "frederick", "title": "Frederick: The Driveway Is the Plan" },
+      { "id": "dacono", "title": "Dacono: Permit First, Even on the Driveway" },
+      { "id": "platteville", "title": "Platteville: $20 for 30 Days on Private Property" },
+      { "id": "milliken", "title": "Milliken: A Street Permit With Phone-Only Payment" },
+      { "id": "berthoud", "title": "Berthoud: Insurance and a Licensed Hauler" },
+      { "id": "skip-street", "title": "When Not to Bother With the Street" },
+      { "id": "faq", "title": "Straight Answers" }
+    ],
+  },
+
+  {
+    slug: 'northern-colorado-dumpster-rental-cost',
+    title: 'Northern Colorado Dumpster Rental Cost: How Quotes Are Built North of the Metro',
+    metaTitle: 'Northern Colorado Dumpster Rental Cost',
+    excerpt:
+      'How roll-off quotes are built in Frederick, Dacono, Platteville, Milliken, and Berthoud: size, included tons, overage, rental days, rural delivery, and the local permit fees you can actually look up.',
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/firestone-co-dumpster-rental-hero.webp',
+    coverImageAlt: 'Roll-off dumpster on a driveway with Front Range peaks behind in northern Colorado',
+    date: '2026-10-27',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Northern Colorado dumpster rental cost guide for Frederick, Dacono, Platteville, Milliken, and Berthoud: how quotes are priced and the published local permit fees.',
+    readingTime: 5,
+    keywords: [
+      "northern colorado dumpster rental cost",
+      "dumpster rental cost frederick co",
+      "dacono dumpster rental cost",
+      "platteville dumpster rental cost",
+      "berthoud dumpster rental cost",
+      "how much is a dumpster in northern colorado"
+    ],
+    body: `
+<p>A roll-off quote north of the metro is the same handful of numbers as anywhere else, plus one that grows with every mile of county road between the yard and your driveway.</p>
+
+<p>The short answer on northern Colorado dumpster rental cost: the price is built from the container size, the weight it includes, the per-ton overage, the rental days, and delivery to your address. Local permits sit on top, and two towns charge one even on the driveway. I am not publishing a price table for Frederick, Dacono, Platteville, Milliken, or Berthoud, because I do not have a sourced one. Here is how to read the quote instead.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Get two quotes for the same size and the same rental days. Compare included tons, overage per ton, extension fee, and delivery. Add $10 for a Dacono permit or $20 for a Platteville permit, even on the driveway. In Milliken and Berthoud, street placement adds a permit with fees set at review.</p>
+</div>
+
+<h2 id="how-priced">How a Roll-Off Quote Is Built</h2>
+
+<ul>
+  <li><strong>Container size.</strong> 10, 15, 20, 30, or 40 yards. Bigger costs more, but one larger container can beat two hauls.</li>
+  <li><strong>Included weight.</strong> Every quote includes a tonnage allowance. Shingles, tile, concrete, and soil hit it fast.</li>
+  <li><strong>Overage per ton.</strong> The line that turns a fair quote into an ugly invoice. Get it in writing.</li>
+  <li><strong>Rental period and extensions.</strong> Ask how many days are included and what each extra day costs.</li>
+  <li><strong>Delivery distance.</strong> Platteville acreage and Berthoud's valley edges can sit a long way from the nearest yard. Ask for any trip or fuel charge up front.</li>
+  <li><strong>Debris type.</strong> Clean yard waste, clean concrete, and mixed construction debris can be priced differently.</li>
+</ul>
+
+<p>For the national version of this breakdown, read <a href="/resources/what-does-a-dumpster-rental-cost">what does a dumpster rental cost</a>.</p>
+
+<!--survey-mid-->
+
+<h2 id="permits">Permit Fees Are the Numbers You Can Look Up</h2>
+
+<p>These are the published local numbers I could verify:</p>
+
+<ul>
+  <li><a href="/locations/dacono-co-dumpster-rental">Dacono</a>: a City dumpster permit is required before delivery, even on the driveway. Approved permits are $10 and generally valid for two weeks (<a href="https://www.daconoco.gov/1125/Dumpster-Permits" target="_blank" rel="noopener noreferrer">City of Dacono</a>).</li>
+  <li><a href="/locations/platteville-co-dumpster-rental">Platteville</a>: a temporary use permit is required before a roll-off goes on private property. $20, valid for 30 days (<a href="https://platteville.colorado.gov/licenses-and-permits" target="_blank" rel="noopener noreferrer">Town of Platteville</a>).</li>
+  <li><a href="/locations/frederick-co-dumpster-rental">Frederick</a>: the Town FAQ lists no dumpster permit fee; it expects the bin on your property, and a bin in the road is subject to ticketing (<a href="https://www.frederickco.gov/Faq.aspx?QID=210" target="_blank" rel="noopener noreferrer">Town of Frederick</a>).</li>
+  <li><a href="/locations/milliken-co-dumpster-rental">Milliken</a>: street placement needs a Counter Residential Street Obstruction Permit. The Town assesses fees after review (<a href="https://www.millikenco.gov/269/Right-of-Way-Permits" target="_blank" rel="noopener noreferrer">Town of Milliken</a>).</li>
+  <li><a href="/locations/berthoud-co-dumpster-rental">Berthoud</a>: street placement needs a right-of-way or Roll-Off Dumpster/Storage permit. The Town does not publish the fee on that page. Haulers need a Town Waste Management License, a $250 application fee on the provider's side (<a href="https://www.berthoud.org/1567/Business-License" target="_blank" rel="noopener noreferrer">Town of Berthoud</a>).</li>
+</ul>
+
+<p>The full rules are in the <a href="/resources/northern-colorado-dumpster-permits">northern Colorado dumpster permit guide</a>.</p>
+
+<h2 id="sizing">Size the Job Before You Price It</h2>
+
+<p>Most single-home jobs in these towns land in a 10, 15, or 20-yard. A garage cleanout fits a 10. A kitchen remodel fits a 15. A roof tear-off or full-home cleanout fits a 20 by volume, with weight as the catch. Farmhouse estate cleanouts and outbuilding teardowns around Platteville and Berthoud often run to a 30. In Dacono, size to what fits fully on the driveway, because the street is not an option. For heavy loads, read <a href="/resources/roofing-dumpster-rental">roofing dumpster rental</a> before the crew starts.</p>
+
+<h2 id="skip-it">When Not to Rent a Dumpster</h2>
+
+<p>Skip the roll-off when the load is a few pieces of furniture and a pile of boxes. A junk removal crew or your hauler's bulk pickup can cost less than any container. Skip the long rental in Dacono if the job will drag well past two weeks; ask the City about the permit before you book, not after.</p>
+
+<h2 id="quote-checklist">What to Ask Every Provider</h2>
+
+<ul>
+  <li>Container size and included tons</li>
+  <li>Overage per ton</li>
+  <li>Included rental days and the daily extension charge</li>
+  <li>Delivery and any trip fee for your address</li>
+  <li>Local license status (Dacono hauler license, Berthoud Waste Management License)</li>
+  <li>Who files the permit, and whether the fee is passed through</li>
+</ul>
+
+<p>Towns just south have their own guide: <a href="/resources/boulder-county-dumpster-rental-cost">Boulder County dumpster rental cost</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "How much does a dumpster cost in northern Colorado?",
+            "answer": "It depends on size, included tons, overage per ton, rental days, delivery distance, and debris type. Get two quotes for the same size and the same days and compare every line. I do not publish an unsourced price table for these towns."
+      },
+      {
+            "question": "What permit costs can I plan for?",
+            "answer": "Dacono charges $10 for a dumpster permit that is generally valid two weeks, required even on the driveway. Platteville charges $20 for a 30-day permit on private property. Milliken assesses street permit fees at review. Frederick's FAQ lists no dumpster permit fee and expects the bin on your property."
+      },
+      {
+            "question": "Why do rural addresses cost more to serve?",
+            "answer": "Delivery distance and site access. Acreage around Platteville or the edges of Berthoud can sit far from the nearest yard, and gravel drives or soft ground can complicate drop-off. Ask for any trip or fuel charge in the quote."
+      },
+      {
+            "question": "What makes a quote jump after the job?",
+            "answer": "Weight. Shingles, tile, concrete, and soil push past the included tons fast. Get the overage per ton in writing before loading."
+      },
+      {
+            "question": "When should I skip the dumpster?",
+            "answer": "When the load is a few pieces of furniture or a handful of boxes. Junk removal or a bulk pickup can cost less than any container."
+      }
+    ],
+    toc: [
+      { "id": "how-priced", "title": "How a Roll-Off Quote Is Built" },
+      { "id": "permits", "title": "Permit Fees Are the Numbers You Can Look Up" },
+      { "id": "sizing", "title": "Size the Job Before You Price It" },
+      { "id": "skip-it", "title": "When Not to Rent a Dumpster" },
+      { "id": "quote-checklist", "title": "What to Ask Every Provider" },
+      { "id": "faq", "title": "Straight Answers" }
+    ],
+  },
 ]

@@ -190,7 +190,13 @@ export default async function CityPage({ params }: Props) {
     })),
   }
 
-  const citySlugMap = Object.fromEntries(cityLocations.map((c) => [c.cityName, c.slug]))
+  // Nearby-city chips link only to a page in the same state, or to the state named
+  // in a "City, ST" entry, so shared names (Sheridan, Riverton, Frederick) never cross states.
+  const findCitySlug = (nearby: string) => {
+    const [name, st] = nearby.split(',').map((part) => part.trim())
+    const wantState = st || city.stateAbbr
+    return cityLocations.find((c) => c.cityName === name && c.stateAbbr === wantState)?.slug
+  }
 
   const serviceSchema = {
     '@context': 'https://schema.org',
@@ -563,7 +569,7 @@ export default async function CityPage({ params }: Props) {
               </p>
               <div className="flex flex-wrap gap-2">
                 {city.nearbyCities.map((nearby) => {
-                  const matchedSlug = citySlugMap[nearby] ?? citySlugMap[nearby.split(',')[0]?.trim()]
+                  const matchedSlug = findCitySlug(nearby)
                   return matchedSlug ? (
                     <Link
                       key={nearby}

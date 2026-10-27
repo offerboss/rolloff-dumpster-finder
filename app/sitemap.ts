@@ -1037,5 +1037,47 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/frederick-co-dumpster-rental',
+      lastModified: new Date('2026-10-27'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/dacono-co-dumpster-rental',
+      lastModified: new Date('2026-10-27'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/platteville-co-dumpster-rental',
+      lastModified: new Date('2026-10-27'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/milliken-co-dumpster-rental',
+      lastModified: new Date('2026-10-27'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/berthoud-co-dumpster-rental',
+      lastModified: new Date('2026-10-27'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/northern-colorado-dumpster-permits',
+      lastModified: new Date('2026-10-27'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/northern-colorado-dumpster-rental-cost',
+      lastModified: new Date('2026-10-27'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
 ]
 }

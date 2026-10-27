@@ -20505,4 +20505,787 @@ export const cityLocations: CityLocation[] = [
     longitude: -104.9367,
     pricingPlacementNote: "Street or right-of-way placement in Firestone requires a Town permit with a traffic control plan, which is not included in rental pricing. Driveway placement is the practical default.",
   },
+
+  // ─── FREDERICK (CO) ────────────────────────────────────────
+  {
+    slug: "frederick-co-dumpster-rental",
+    cityName: "Frederick",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Frederick, CO Dumpster Rental",
+    metaDescription: "Frederick, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and why the Town wants the bin on your driveway, not the street.",
+    primaryKeyword: "frederick co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental frederick co",
+      "frederick construction dumpster rental",
+      "roll off dumpster frederick",
+      "roll off dumpster frederick co",
+      "rolloff dumpsters frederick",
+      "roll offs frederick co",
+      "10 yard dumpster rental frederick",
+      "20 yard dumpster rental frederick",
+      "30 yard dumpster rental frederick",
+      "frederick dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Frederick, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for basement finishes, roofing tear-offs, cleanouts, and new-home landscaping across Frederick and the Carbon Valley.",
+    introParagraphs: [
+      "Frederick is a Weld County town on both sides of I-25, south of Highway 119 and along Highway 52. It started in 1907 as a coal-mining town, and the old downtown grid still holds the oldest homes. Most of Frederick is newer subdivisions, and the Town says it adds hundreds of homes a year. That stock produces basement finishes, landscaping jobs, hail-season roofing, and cleanouts. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Frederick keeps dumpsters out of the street. The Town's building FAQ says a remodeling dumpster must sit in your driveway or on your property, out of alleys and roads, so emergency vehicles can get through. A dumpster left in the road is subject to ticketing and sits there at your own risk. Roofers have a second Frederick rule to plan around: the Town requires a mid-roof inspection after the full tear-off, with underlayment and flashing on and no shingles installed. The bin stays until that inspection passes.",
+      "Rolloff Dumpster Finder helps Frederick homeowners and contractors compare roll-off options across the Carbon Valley and the I-25 corridor. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Measure the driveway first, because in Frederick the driveway is the plan."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Roofing Tear-Offs",
+            "description": "Frederick requires a mid-roof inspection after a complete tear-off, before any shingles go on. Keep the container onsite through that inspection. A 20-yard holds most residential tear-offs by volume, so confirm the included tonnage before loading."
+      },
+      {
+            "number": "02",
+            "name": "Basement Finishes",
+            "description": "Many newer Frederick homes were built with unfinished basements. Finishing one produces drywall scraps, framing offcuts, and packaging. A 15 or 20-yard covers most single-basement jobs."
+      },
+      {
+            "number": "03",
+            "name": "Old Town Remodels",
+            "description": "The original 1907 town grid holds Frederick's oldest homes. Plaster, old flooring, and tile get heavy fast. Smaller lots can mean a shorter driveway, so measure before you pick a size."
+      },
+      {
+            "number": "04",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "05",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "06",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "07",
+            "name": "New-Home Landscaping",
+            "description": "Sod removal, rock, and soil from new-yard projects are heavy. Use a 10-yard or a heavy-debris container for dirt and rock. Keep green waste separate if the provider prices it differently."
+      },
+      {
+            "number": "08",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "09",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Frederick comes down to one rule: the Town wants the container on your driveway or property, not in the street or alley.",
+    placementNotes: [
+      "The Town building FAQ says remodeling dumpsters must be in your driveway or on your property, and out of alleys and roads for emergency access.",
+      "A dumpster placed in the road is subject to ticketing and sits there at your own risk.",
+      "Any other work in Town right-of-way runs through an Engineering right-of-way permit: a $150 non-refundable license fee plus a refundable deposit, with a drawing, an ATSSA-certified traffic control plan, and a work schedule. Talk to Engineering before you assume a dumpster can use it.",
+      "A moving POD or similar container can stay up to 30 days for a private residential move without a permit, but the same rule applies: on your property and out of the street.",
+      "Measure driveway length and width before choosing a size. Tell the provider about HOA rules, tight cul-de-sacs, and soft landscaping near the drive.",
+      "When in doubt, confirm placement requirements with the Town of Frederick and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Old Town Frederick",
+      "Wyndham Hill",
+      "Highway 52 corridor",
+      "Silver Birch Boulevard corridor",
+      "Frederick Recreation Area and Milavec Lake area",
+      "I-25 east side",
+      "Highway 119 edge"
+    ],
+    nearbyCities: [
+      "Firestone",
+      "Dacono",
+      "Erie",
+      "Longmont",
+      "Platteville",
+      "Lafayette",
+      "Broomfield",
+      "Thornton",
+      "Johnstown",
+      "Berthoud"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Frederick, CO?",
+            "answer": "Quotes in Frederick are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare. Driveway placement is the Town's expectation, so plan the quote around it."
+      },
+      {
+            "question": "Can I put a dumpster in the street in Frederick, Colorado?",
+            "answer": "The Town says no for remodeling dumpsters. Its building FAQ says dumpsters must be in your driveway or on your property, out of alleys and roads for emergency access. One left in the road is subject to ticketing and sits there at your own risk."
+      },
+      {
+            "question": "What size dumpster for a Frederick home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Frederick?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Frederick requires a mid-roof inspection after the full tear-off and before shingles go on, so keep the container until that inspection passes. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "How quickly can I get delivery in Frederick?",
+            "answer": "Delivery timing depends on the provider, your address, and the season. Hail season tightens inventory across the Carbon Valley. Book as early as the job allows."
+      },
+      {
+            "question": "Do you serve nearby cities like Firestone, Dacono, and Erie?",
+            "answer": "Rolloff Dumpster Finder helps customers across the Carbon Valley and north metro, including Firestone, Dacono, Erie, Longmont, and Broomfield. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Frederick?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking. On a roofing job, count the days to the mid-roof inspection."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Frederick?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Frederick dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/frederick-co-dumpster-rental-hero.webp',
+      alt: 'Navy roll-off dumpster on the driveway of a new two-story home with Front Range foothills behind in Frederick, Colorado',
+    },
+    latitude: 40.0997,
+    longitude: -104.9372,
+    pricingPlacementNote: "Frederick expects dumpsters on the driveway or private property. A bin left in the street or alley is subject to ticketing, so plan the rental around driveway placement.",
+  },
+
+  // ─── DACONO (CO) ────────────────────────────────────────
+  {
+    slug: "dacono-co-dumpster-rental",
+    cityName: "Dacono",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Dacono, CO Dumpster Rental",
+    metaDescription: "Dacono, Colorado dumpster rental for remodels, roofing, and cleanouts. The City requires a permit before delivery and a licensed hauler. Here is how it works.",
+    primaryKeyword: "dacono co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental dacono co",
+      "dacono construction dumpster rental",
+      "roll off dumpster dacono",
+      "roll off dumpster dacono co",
+      "rolloff dumpsters dacono",
+      "roll offs dacono co",
+      "10 yard dumpster rental dacono",
+      "20 yard dumpster rental dacono",
+      "30 yard dumpster rental dacono",
+      "dacono dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Dacono, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for remodels, roofing tear-offs, cleanouts, and yard projects across Dacono and the Carbon Valley along I-25.",
+    introParagraphs: [
+      "Dacono is a Weld County city in the Carbon Valley, beside Frederick and Firestone on I-25 and Highway 52. It was settled in 1901 and incorporated in 1908, and the name comes from the first two letters of Daisy, Cora, and Nora. Coal mining ran from 1900 to the late 1970s. Today the older townsite sits next to newer subdivisions, which produce remodels, roofing tear-offs, and cleanouts. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Dacono has the clearest dumpster rules in the Carbon Valley, and the strictest. The City requires a dumpster permit before delivery, even on a driveway. Dumpsters are not allowed on City streets and must sit entirely on the property. The permit is $10 once approved and is generally valid for two weeks. The roll-off company must also hold a City refuse hauler license, and the City publishes the list of licensed haulers on its Dumpster Permits page.",
+      "Rolloff Dumpster Finder helps Dacono homeowners and contractors compare roll-off options across the Carbon Valley. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and the rental days. Ask each provider for the included weight allowance, overage rate per ton, and daily extension fee. Then ask the one question that matters most in Dacono: are you on the City's licensed hauler list?"
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Two-Week Remodels",
+            "description": "Dacono's permit is generally valid for two weeks. Plan demolition so the heavy debris goes in early. A 15 or 20-yard covers most single-room remodels. Ask the City before the permit runs out if the job slips."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "Dacono sits in the Front Range hail belt. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Dacono has two fixed rules: a City permit before delivery, and the whole container on your property.",
+    placementNotes: [
+      "A City of Dacono dumpster permit is required before delivery. Apply with the City's dumpster permit application form.",
+      "Dumpsters are not permitted on City streets. The container must sit entirely on the property, such as the driveway.",
+      "Approved permits are $10 and are generally valid for two weeks.",
+      "Every refuse hauler must be licensed through the City. Check the licensed hauler list on the City's Dumpster Permits page before you book.",
+      "Measure driveway length and width before choosing a size. If the container will not fit fully on the property, size down or plan two smaller hauls.",
+      "When in doubt, confirm placement requirements with the City of Dacono Public Works office and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Original Dacono townsite",
+      "Highway 52 corridor",
+      "I-25 Frontage Road corridor",
+      "Colorado Boulevard corridor",
+      "Carbon Valley edge"
+    ],
+    nearbyCities: [
+      "Frederick",
+      "Firestone",
+      "Erie",
+      "Thornton",
+      "Brighton",
+      "Longmont",
+      "Platteville",
+      "Northglenn",
+      "Broomfield",
+      "Lafayette"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Dacono, CO?",
+            "answer": "Quotes in Dacono are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Add the City dumpster permit, which is $10 once approved. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Dacono, Colorado?",
+            "answer": "Yes, before delivery, even on your driveway. The City requires a dumpster permit, the container must sit entirely on the property, and dumpsters are not allowed on City streets. Approved permits are $10 and generally valid for two weeks."
+      },
+      {
+            "question": "What size dumpster for a Dacono home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Does my dumpster company need a Dacono license?",
+            "answer": "Yes. All refuse haulers must be licensed through the City of Dacono. The City posts the current licensed hauler list on its Dumpster Permits page. Check it before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Dacono?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off, and make sure it fits fully on the driveway."
+      },
+      {
+            "question": "Do you serve nearby cities like Frederick, Firestone, and Erie?",
+            "answer": "Rolloff Dumpster Finder helps customers across the Carbon Valley and north metro, including Frederick, Firestone, Erie, Thornton, and Brighton. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Dacono?",
+            "answer": "The City permit is generally valid for two weeks, and provider rental periods vary. Line the rental days up with the permit. Ask the City before the permit expires if the job runs long."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Dacono?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Dacono dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/dacono-co-dumpster-rental-hero.webp',
+      alt: 'Gray roll-off dumpster on a ranch home driveway with open plains and snowy Rocky Mountain peaks in Dacono, Colorado',
+    },
+    latitude: 40.0847,
+    longitude: -104.9394,
+    pricingPlacementNote: "Dacono requires a $10 City dumpster permit before delivery, generally valid for two weeks, and the container must sit entirely on your property. It is not included in provider rental pricing.",
+  },
+
+  // ─── PLATTEVILLE (CO) ────────────────────────────────────────
+  {
+    slug: "platteville-co-dumpster-rental",
+    cityName: "Platteville",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Platteville, CO Dumpster Rental",
+    metaDescription: "Platteville, Colorado dumpster rental for cleanouts, remodels, and farm-edge projects. Compare roll-off sizes and the $20 Town permit for private property.",
+    primaryKeyword: "platteville co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental platteville co",
+      "platteville construction dumpster rental",
+      "roll off dumpster platteville",
+      "roll off dumpster platteville co",
+      "rolloff dumpsters platteville",
+      "roll offs platteville co",
+      "10 yard dumpster rental platteville",
+      "20 yard dumpster rental platteville",
+      "30 yard dumpster rental platteville",
+      "platteville dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Platteville, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for home and estate cleanouts, remodels, roofing tear-offs, and outbuilding projects across Platteville and the South Platte valley on US-85.",
+    introParagraphs: [
+      "Platteville is one of the oldest towns in Weld County, on the South Platte River along US-85. The town plat was filed in 1871 after the Denver Pacific Railroad arrived, and Fort Vasquez, an 1835 fur trading post, stands about a mile south. The town is surrounded by farms. Older homes near the center and acreage on the edges produce estate cleanouts, remodels, outbuilding teardowns, and roofing work. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Platteville wants a permit even when the dumpster sits on private property. Town rules define a roll-off dumpster as a container of 10 cubic yards or larger hauled in by truck. A temporary use permit is required before one is placed on private property. The fee is $20 and the permit is valid for 30 days. A roll-off in a public right-of-way must follow the Town code on right-of-way use, including safety and emergency vehicle access.",
+      "Rolloff Dumpster Finder helps Platteville homeowners, farm owners, and contractors compare roll-off options along the US-85 corridor. Availability depends on which providers cover your address, and rural addresses can sit farther from the yard. When you request quotes, give the address, the project type, and where the truck can turn around. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. File the Town permit before the truck shows up."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Estate & Farmhouse Cleanouts",
+            "description": "Older homes and farm properties hold decades of furniture, tools, and boxes. An estate cleanout often runs to a 20 or 30-yard. Sort out donations and scrap metal first so you are not paying to haul them."
+      },
+      {
+            "number": "02",
+            "name": "Outbuilding Teardowns",
+            "description": "Sheds, old garages, and small outbuildings produce lumber, roofing, and metal siding. A 20 or 30-yard is common. Ask about scrap metal before it goes in the container."
+      },
+      {
+            "number": "03",
+            "name": "Roofing Tear-Offs",
+            "description": "Platteville sits in the northern Front Range hail corridor. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "04",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "05",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "06",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "07",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "08",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "09",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Platteville starts with a Town permit, even on private property, and then comes down to truck access on your lot.",
+    placementNotes: [
+      "A temporary use permit is required before a roll-off dumpster is placed on private property. The fee is $20 and the permit is valid for 30 days.",
+      "Town rules define a roll-off dumpster as a stand-alone container of 10 cubic yards or larger hauled to the site by truck.",
+      "A roll-off in a public right-of-way must follow the Town code on right-of-way use, including safety and emergency vehicle access. Call Town Hall before planning street placement.",
+      "Rural and acreage lots: tell the provider about gravel drives, soft ground, gates, and where the truck can turn around. Mark irrigation lines and septic areas.",
+      "Measure driveway length and width before choosing a size, and keep the container clear of overhead lines.",
+      "When in doubt, confirm placement requirements with the Town of Platteville and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Platteville and Main Street",
+      "Grand Avenue area",
+      "US-85 corridor",
+      "Highway 66 corridor",
+      "South Platte River edge",
+      "Fort Vasquez area"
+    ],
+    nearbyCities: [
+      "Milliken",
+      "Johnstown",
+      "Greeley",
+      "Evans",
+      "Firestone",
+      "Frederick",
+      "Dacono",
+      "Brighton",
+      "Longmont",
+      "Windsor"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Platteville, CO?",
+            "answer": "Quotes in Platteville are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Rural addresses can add delivery distance. Add the Town's $20 temporary use permit. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Platteville, Colorado?",
+            "answer": "Yes, even on private property. Platteville requires a temporary use permit before a roll-off of 10 cubic yards or larger is placed on private property. The fee is $20 and the permit is valid for 30 days. A roll-off in the right-of-way must also follow the Town code on safety and emergency vehicle access."
+      },
+      {
+            "question": "What size dumpster for a Platteville home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Platteville?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Can a dumpster go on a gravel drive or acreage in Platteville?",
+            "answer": "Usually, if the ground is firm and the truck has room to back in and lift. Tell the provider about gravel, soft ground, gates, and overhead lines when you book. The Town permit still applies on private property."
+      },
+      {
+            "question": "Do you serve nearby towns like Milliken, Johnstown, and Greeley?",
+            "answer": "Rolloff Dumpster Finder helps customers across southern Weld County, including Milliken, Johnstown, Greeley, Evans, and the Carbon Valley. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Platteville?",
+            "answer": "Rental periods vary by provider. The Town permit is valid for 30 days. Confirm the included rental days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Platteville?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Platteville dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/platteville-co-dumpster-rental-hero.webp',
+      alt: 'Green roll-off dumpster on the gravel drive of a farmhouse beside a red barn and fields in Platteville, Colorado',
+    },
+    latitude: 40.215,
+    longitude: -104.8228,
+    pricingPlacementNote: "Platteville requires a $20 temporary use permit, valid for 30 days, before a roll-off is placed on private property. It is not included in provider rental pricing.",
+  },
+
+  // ─── MILLIKEN (CO) ────────────────────────────────────────
+  {
+    slug: "milliken-co-dumpster-rental",
+    cityName: "Milliken",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Milliken, CO Dumpster Rental",
+    metaDescription: "Milliken, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and the Town street obstruction permit before you book.",
+    primaryKeyword: "milliken co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental milliken co",
+      "milliken construction dumpster rental",
+      "roll off dumpster milliken",
+      "roll off dumpster milliken co",
+      "rolloff dumpsters milliken",
+      "roll offs milliken co",
+      "10 yard dumpster rental milliken",
+      "20 yard dumpster rental milliken",
+      "30 yard dumpster rental milliken",
+      "milliken dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Milliken, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for remodels, roofing tear-offs, cleanouts, and landscaping across Milliken and the Johnstown and Greeley corridor.",
+    introParagraphs: [
+      "Milliken is a Weld County town between Johnstown, Platteville, and Greeley. It grew from the Hillsboro trading post and was recognized as the Town of Milliken in 1910, named for Judge John D. Milliken of the railroad venture that built it. Sugar beets, potatoes, and cattle feeding carried the economy for decades. Today older homes near Broad Street sit beside newer subdivisions. That mix produces remodels, roofing tear-offs, cleanouts, and landscaping. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Milliken names roll-offs in its permit rules. A right-of-way permit is required to temporarily store a dumpster or moving container in an alley or on the side of a road in Town right-of-way. The specific permit is the Counter Residential Street Obstruction Permit. Applications go through CommunityCore, and you register as a contractor or community user first. The Town reviews it, assesses the fees, and emails an invoice. Payment is by phone or in person at Town Hall, not online.",
+      "Rolloff Dumpster Finder helps Milliken homeowners and contractors compare roll-off options across the Johnstown, Milliken, and Greeley area. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Driveway placement keeps the Town permit out of the job."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Roofing Tear-Offs",
+            "description": "Milliken sits in the northern Front Range hail corridor with Johnstown and Windsor. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "02",
+            "name": "Older Home Remodels",
+            "description": "Homes near Broad Street and the older parts of town produce plaster, old flooring, and tile. Weight climbs fast. A 15 or 20-yard is common."
+      },
+      {
+            "number": "03",
+            "name": "Basement Finishes",
+            "description": "Newer Milliken subdivisions include homes with unfinished basements. Finishing one produces drywall scraps, framing offcuts, and packaging. A 15 or 20-yard covers most single-basement jobs."
+      },
+      {
+            "number": "04",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "05",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "06",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "07",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "08",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "09",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Milliken depends on your driveway, HOA rules, and a Town permit for anything stored in the street, alley, or other right-of-way.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup and keeps the job out of Town right-of-way permits.",
+      "A right-of-way permit is required to temporarily store a dumpster or moving container in an alley or on the side of a road in Town right-of-way or easements.",
+      "The Counter Residential Street Obstruction Permit covers a roll-off or shipping container in a public right-of-way that may obstruct traffic or block sight lines for drivers or pedestrians.",
+      "Apply through CommunityCore after registering as a contractor or community user. The Town assesses fees after review and emails an invoice. Pay by phone at 970-587-4331 or in person at 1101 Broad Street; online payment is not accepted.",
+      "Measure driveway length and width. Tell the provider about HOA rules and tight cul-de-sacs when you book.",
+      "When in doubt, confirm placement requirements with the Town of Milliken and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Broad Street area",
+      "Hillsboro",
+      "Highway 60 corridor",
+      "Highway 257 corridor",
+      "Ehrlich Lake area"
+    ],
+    nearbyCities: [
+      "Johnstown",
+      "Platteville",
+      "Greeley",
+      "Evans",
+      "Windsor",
+      "Loveland",
+      "Berthoud",
+      "Firestone",
+      "Frederick",
+      "Fort Collins"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Milliken, CO?",
+            "answer": "Quotes in Milliken are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare. Driveway placement keeps a Town permit off the bill."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Milliken, Colorado?",
+            "answer": "For the street or alley, yes. Milliken requires a right-of-way permit to store a dumpster in an alley or on the side of a road, and the Counter Residential Street Obstruction Permit covers roll-offs. Apply through CommunityCore. A container on your own driveway stays out of that process."
+      },
+      {
+            "question": "What size dumpster for a Milliken home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Milliken?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "How quickly can I get delivery in Milliken?",
+            "answer": "Delivery timing depends on the provider, your address, and the season. After a big hail event, inventory across the Johnstown, Milliken, and Windsor area tightens together. A street placement also waits on Town review."
+      },
+      {
+            "question": "Do you serve nearby towns like Johnstown, Platteville, and Greeley?",
+            "answer": "Rolloff Dumpster Finder helps customers across southern Weld and Larimer counties, including Johnstown, Platteville, Greeley, Evans, and Windsor. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Milliken?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking. If you have a Town street permit, keep the permit dates and the rental dates lined up."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Milliken?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Milliken dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/milliken-co-dumpster-rental-hero.webp',
+      alt: 'Blue roll-off dumpster in front of a row of new subdivision homes with snowy peaks to the west in Milliken, Colorado',
+    },
+    latitude: 40.3294,
+    longitude: -104.8553,
+    pricingPlacementNote: "Street, alley, or right-of-way placement in Milliken needs a Town Counter Residential Street Obstruction Permit, with fees assessed after review. Driveway placement needs no right-of-way permit.",
+  },
+
+  // ─── BERTHOUD (CO) ────────────────────────────────────────
+  {
+    slug: "berthoud-co-dumpster-rental",
+    cityName: "Berthoud",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Berthoud, CO Dumpster Rental",
+    metaDescription: "Berthoud, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and the Town right-of-way roll-off permit before you book.",
+    primaryKeyword: "berthoud co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental berthoud co",
+      "berthoud construction dumpster rental",
+      "roll off dumpster berthoud",
+      "roll off dumpster berthoud co",
+      "rolloff dumpsters berthoud",
+      "roll offs berthoud co",
+      "10 yard dumpster rental berthoud",
+      "20 yard dumpster rental berthoud",
+      "30 yard dumpster rental berthoud",
+      "berthoud dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Berthoud, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for remodels, roofing tear-offs, cleanouts, and landscaping across Berthoud and the Little Thompson Valley between Loveland and Longmont.",
+    introParagraphs: [
+      "Berthoud is a southern Larimer County town in the Little Thompson Valley, between Loveland and Longmont near US-287. It moved a short distance north to its current site in the winter of 1883-84, because the railroad asked it to leave the river bottom. The original site is still called Old Berthoud. The Mountain Avenue downtown holds the oldest homes, and newer subdivisions surround it. That mix produces remodels, roofing tear-offs, cleanouts, and landscaping. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Berthoud runs roll-offs in the right-of-way through a named permit. The Town requires a right-of-way permit or Roll-Off Dumpster/Storage permit before a dumpster or storage container is placed in Town right-of-way, which includes streets, alleys, and easements. Applications go through CommunityCore. The Town can ask for a certificate of insurance naming Berthoud as additional insured, a scope of work with a vicinity map, and a traffic control plan if the bin blocks traffic or a sidewalk. Haulers also need a Town Waste Management License.",
+      "Rolloff Dumpster Finder helps Berthoud homeowners and contractors compare roll-off options between Loveland, Longmont, and Johnstown. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. If the bin has to go in the street, ask whether the provider holds a Berthoud Waste Management License and who files the permit."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Downtown Remodels",
+            "description": "Older homes near the Mountain Avenue downtown produce plaster, old flooring, and tile. Weight climbs fast. A 15 or 20-yard is common. Check alley and driveway access before booking."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "Berthoud sits in the northern Front Range hail corridor. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      },
+      {
+            "number": "09",
+            "name": "Acreage & Outbuilding Cleanups",
+            "description": "Properties on the edges of the valley produce shed teardowns, fencing, and old farm debris. A 20 or 30-yard is common. Tell the provider about gravel drives and soft ground."
+      }
+    ],
+    placementIntro: "Dumpster placement in Berthoud depends on your driveway, HOA rules, and a Town permit for anything placed in the street, alley, or other right-of-way.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup and keeps the job out of Town right-of-way permits.",
+      "A right-of-way permit or Roll-Off Dumpster/Storage permit is required before a dumpster or storage container is placed in Town right-of-way, including streets, alleys, and easements.",
+      "Apply through the Town's CommunityCore portal. Homeowners who are not contractors can register as a Community Member.",
+      "The Town may require a certificate of insurance naming Berthoud as additional insured, a scope of work with a vicinity map, and a traffic control plan if the container impedes traffic or a sidewalk. State highway frontage may also need a CDOT permit.",
+      "Companies providing waste disposal in Berthoud need a Town Waste Management License. Ask your provider before booking.",
+      "When in doubt, confirm placement requirements with the Town of Berthoud right-of-way staff (970-344-5829) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Berthoud and Mountain Avenue",
+      "Old Berthoud",
+      "Little Thompson River valley",
+      "US-287 corridor",
+      "Berthoud Town Park area"
+    ],
+    nearbyCities: [
+      "Loveland",
+      "Longmont",
+      "Johnstown",
+      "Milliken",
+      "Mead",
+      "Fort Collins",
+      "Windsor",
+      "Firestone",
+      "Frederick",
+      "Estes Park"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Berthoud, CO?",
+            "answer": "Quotes in Berthoud are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare. Driveway placement keeps a Town permit off the bill."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Berthoud, Colorado?",
+            "answer": "For the street, alley, or other right-of-way, yes. Berthoud requires a right-of-way or Roll-Off Dumpster/Storage permit before placement, filed through CommunityCore, and may ask for insurance, a vicinity map, and a traffic control plan. A container on your own driveway stays out of that process."
+      },
+      {
+            "question": "What size dumpster for a Berthoud home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Does my dumpster company need a Berthoud license?",
+            "answer": "The Town requires a Waste Management License for any company providing waste disposal in Berthoud. Ask the provider if it holds one before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Berthoud?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby cities like Loveland, Longmont, and Johnstown?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Loveland, Longmont, Johnstown, Milliken, and Fort Collins. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Berthoud?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking. If you have a Town right-of-way permit, keep the permit dates and the rental dates lined up."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Berthoud?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Berthoud dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/berthoud-co-dumpster-rental-hero.webp',
+      alt: 'Dark green roll-off dumpster on the driveway of a brick bungalow under autumn trees in Berthoud, Colorado',
+    },
+    latitude: 40.3083,
+    longitude: -105.0811,
+    pricingPlacementNote: "Street, alley, or right-of-way placement in Berthoud needs a Town Roll-Off Dumpster/Storage or right-of-way permit through CommunityCore. Driveway placement needs no right-of-way permit.",
+  },
 ]

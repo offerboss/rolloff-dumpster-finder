@@ -283,6 +283,16 @@ const cityCards = [
     slug: 'firestone-co-dumpster-rental',
     desc: "Carbon Valley town on I-25 in Weld County. Street dumpsters need a Town obstruction permit with a traffic control plan. Basement finishes and landscaping lead demand.",
   },
+  {
+    city: 'Frederick',
+    slug: 'frederick-co-dumpster-rental',
+    desc: "Carbon Valley town on I-25 and Highway 52. The Town wants remodeling dumpsters on the driveway, out of roads and alleys. Roofers keep the bin through the mid-roof inspection.",
+  },
+  {
+    city: 'Dacono',
+    slug: 'dacono-co-dumpster-rental',
+    desc: "Carbon Valley city where a $10 City permit is required before delivery, even on the driveway, and street placement is not allowed. Haulers must be City-licensed.",
+  },
 ]
 
 const projects = [

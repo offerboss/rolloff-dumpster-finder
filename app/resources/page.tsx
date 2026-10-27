@@ -342,6 +342,20 @@ const resourceCards = [
       'How east Boulder County roll-off quotes are built: size, included tons, overage, rental days, and the city permit costs you can actually look up.',
     href: '/resources/boulder-county-dumpster-rental-cost',
   },
+  {
+    badge: 'Geo Guide',
+    title: 'Northern Colorado Dumpster Permits',
+    excerpt:
+      'Frederick, Dacono, Platteville, Milliken, and Berthoud side by side: which towns want a permit on the driveway, which ban the street, and which haulers need a local license.',
+    href: '/resources/northern-colorado-dumpster-permits',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'Northern Colorado Dumpster Rental Cost',
+    excerpt:
+      'How roll-off quotes are built north of the metro: size, included tons, overage, rental days, rural delivery, and the local permit fees you can actually look up.',
+    href: '/resources/northern-colorado-dumpster-rental-cost',
+  },
 ]
 
 export default function ResourcesPage() {

@@ -340,6 +340,31 @@ const cityCards = [
     slug: 'firestone-co-dumpster-rental',
     desc: "Weld County Carbon Valley town where street dumpsters need a Town permit and traffic control plan.",
   },
+  {
+    city: 'Frederick',
+    slug: 'frederick-co-dumpster-rental',
+    desc: "Carbon Valley town where dumpsters belong on the driveway. A bin in the road is subject to ticketing.",
+  },
+  {
+    city: 'Dacono',
+    slug: 'dacono-co-dumpster-rental',
+    desc: "Carbon Valley city with a $10 permit required even on the driveway and no street placement.",
+  },
+  {
+    city: 'Platteville',
+    slug: 'platteville-co-dumpster-rental',
+    desc: "US-85 farm town where a $20, 30-day permit is required before a roll-off goes on private property.",
+  },
+  {
+    city: 'Milliken',
+    slug: 'milliken-co-dumpster-rental',
+    desc: "Weld County town where street dumpsters need a Town obstruction permit filed through CommunityCore.",
+  },
+  {
+    city: 'Berthoud',
+    slug: 'berthoud-co-dumpster-rental',
+    desc: "Larimer County town where street dumpsters need a Town permit and haulers need a waste license.",
+  },
 ]
 
 const projects = [
