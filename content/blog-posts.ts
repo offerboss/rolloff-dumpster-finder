@@ -9395,8 +9395,8 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       'Five towns north of the metro, five different answers. Dacono and Platteville want a permit even on the driveway, Frederick keeps bins out of the street, and Milliken and Berthoud run street permits through CommunityCore.',
     category: 'Geo Guide',
-    coverImage: '/RDF-Images/construction-site-roll-off-dumpster.png',
-    coverImageAlt: 'Roll-off dumpster at a residential construction site',
+    coverImage: '/RDF-Images/dacono-co-dumpster-rental-hero.webp',
+    coverImageAlt: 'Roll-off dumpster on a home driveway with Front Range peaks beyond in northern Colorado',
     date: '2026-10-27',
     author: 'Adam Chandler',
     metaDescription:
