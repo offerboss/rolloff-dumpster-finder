@@ -1079,4 +1079,47 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
-    
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/timnath-co-dumpster-rental',
+      lastModified: new Date('2026-11-03'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/severance-co-dumpster-rental',
+      lastModified: new Date('2026-11-03'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/wellington-co-dumpster-rental',
+      lastModified: new Date('2026-11-03'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/eaton-co-dumpster-rental',
+      lastModified: new Date('2026-11-03'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/ault-co-dumpster-rental',
+      lastModified: new Date('2026-11-03'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/fort-collins-greeley-area-dumpster-permits',
+      lastModified: new Date('2026-11-03'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/fort-collins-greeley-area-dumpster-rental-cost',
+      lastModified: new Date('2026-11-03'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+]
+}
