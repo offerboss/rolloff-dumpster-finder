@@ -365,6 +365,31 @@ const cityCards = [
     slug: 'berthoud-co-dumpster-rental',
     desc: "Larimer County town where street dumpsters need a Town permit and haulers need a waste license.",
   },
+  {
+    city: 'Timnath',
+    slug: 'timnath-co-dumpster-rental',
+    desc: "Larimer County town east of Fort Collins where dumpsters stay on private property, never in the street.",
+  },
+  {
+    city: 'Severance',
+    slug: 'severance-co-dumpster-rental',
+    desc: "Weld County town where street dumpsters need a Town ROW permit and street debris must be cleared daily.",
+  },
+  {
+    city: 'Wellington',
+    slug: 'wellington-co-dumpster-rental',
+    desc: "I-25 town north of Fort Collins with a $100 right-of-way permit plus a $1,000 refundable deposit.",
+  },
+  {
+    city: 'Eaton',
+    slug: 'eaton-co-dumpster-rental',
+    desc: "US-85 town north of Greeley where street bins go through a $175 right-of-way use application.",
+  },
+  {
+    city: 'Ault',
+    slug: 'ault-co-dumpster-rental',
+    desc: "Farm crossroads at US-85 and Highway 14 with a $150 ROW permit plus street repair.",
+  },
 ]
 
 const projects = [

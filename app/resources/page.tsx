@@ -356,6 +356,20 @@ const resourceCards = [
       'How roll-off quotes are built north of the metro: size, included tons, overage, rental days, rural delivery, and the local permit fees you can actually look up.',
     href: '/resources/northern-colorado-dumpster-rental-cost',
   },
+  {
+    badge: 'Geo Guide',
+    title: 'Fort Collins–Greeley Area Dumpster Permits',
+    excerpt:
+      'Timnath, Severance, Wellington, Eaton, and Ault side by side: which town keeps bins off the street, which clears street debris daily, and which right-of-way fees are published.',
+    href: '/resources/fort-collins-greeley-area-dumpster-permits',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'Fort Collins–Greeley Area Dumpster Rental Cost',
+    excerpt:
+      'How roll-off quotes are built in Timnath, Severance, Wellington, Eaton, and Ault: size, included tons, overage, rental days, rural delivery, and the right-of-way fees you can look up.',
+    href: '/resources/fort-collins-greeley-area-dumpster-rental-cost',
+  },
 ]
 
 export default function ResourcesPage() {
@@ -434,20 +448,4 @@ export default function ResourcesPage() {
 
       {/* Dark CTA band */}
       <section className="bg-[#1A2530] py-[72px] px-8 text-center">
-        <div className="w-11 h-1 bg-orange rounded-sm mx-auto mb-6" />
-        <h2 className="text-[clamp(26px,4vw,38px)] font-extrabold text-white tracking-tight mb-[14px]">
-          Ready to Book?
-        </h2>
-        <p className="text-[16px] text-white/[.52] max-w-[460px] mx-auto mb-8 leading-[1.65]">
-          Find available roll-off dumpster rentals near you. No oversized containers, no hidden fees.
-        </p>
-        <a
-          href="https://www.rolloffdumpsterfinder.com/#section-i0tmdJpJCs"
-          className="inline-block bg-orange text-black font-bold text-[14px] px-[28px] py-[13px] rounded-full hover:opacity-90 transition-opacity"
-        >
-          Get a Quote
-        </a>
-      </section>
-    </>
-  )
-}
+  

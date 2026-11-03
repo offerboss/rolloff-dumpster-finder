@@ -21288,4 +21288,764 @@ export const cityLocations: CityLocation[] = [
     longitude: -105.0811,
     pricingPlacementNote: "Street, alley, or right-of-way placement in Berthoud needs a Town Roll-Off Dumpster/Storage or right-of-way permit through CommunityCore. Driveway placement needs no right-of-way permit.",
   },
+
+  // ─── TIMNATH (CO) ────────────────────────────────────────
+  {
+    slug: "timnath-co-dumpster-rental",
+    cityName: "Timnath",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Timnath, CO Dumpster Rental",
+    metaDescription: "Timnath, Colorado dumpster rental for basement finishes, roofing, and cleanouts. Compare roll-off sizes and the Town rule that keeps bins off the street.",
+    primaryKeyword: "timnath co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental timnath co",
+      "timnath construction dumpster rental",
+      "roll off dumpster timnath",
+      "roll off dumpster timnath co",
+      "rolloff dumpsters timnath",
+      "roll offs timnath co",
+      "10 yard dumpster rental timnath",
+      "20 yard dumpster rental timnath",
+      "30 yard dumpster rental timnath",
+      "timnath dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Timnath, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for new-home finishes, roofing tear-offs, cleanouts, and landscaping across Timnath and the I-25 and Harmony Road corridor east of Fort Collins.",
+    introParagraphs: [
+      "Timnath is a Larimer County town on the east side of I-25, across from Fort Collins and next to Windsor. The old town center along Main Street is small. Most of Timnath is newer subdivisions built around Harmony Road and Timnath Reservoir. That housing stock shapes the work: basement finishes, landscaping installs, fence builds, and roofing tear-offs after hail. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Timnath is direct about where a dumpster goes. The Town's code enforcement guide says dumpsters must be stored on private property and cannot obstruct any street or sidewalk. It also says nothing, including dumpsters, may be stored in a public street, sidewalk, or alley. On construction sites, Sec. 7-2-80(e) of the Municipal Code requires debris and trash receptacles to be covered during the work day as much as practical and whenever work stops for the day.",
+      "Rolloff Dumpster Finder helps Timnath homeowners and contractors compare roll-off options across the Fort Collins, Timnath, and Windsor area. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Ask for a tarp if the job runs more than a day."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Basement Finishes",
+            "description": "Much of Timnath's housing is recent construction, and many homes came with unfinished basements. Finishing one produces drywall scraps, framing offcuts, and packaging. A 15 or 20-yard covers most single-basement jobs."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "Timnath sits in the northern Front Range hail corridor. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Timnath is a driveway question. Town code keeps dumpsters off streets, sidewalks, and alleys.",
+    placementNotes: [
+      "Dumpsters must be stored on private property and cannot obstruct any street or sidewalk, according to the Town's code enforcement guide.",
+      "The same guide says no item, including dumpsters, portable toilets, and building materials, may be stored in a public street, sidewalk, or alley.",
+      "On construction sites, debris and trash receptacles must be covered during the work day as much as practical and whenever work stops at the end of the day (Municipal Code Sec. 7-2-80(e)).",
+      "Measure driveway length and width before choosing a size. Tell the provider about HOA rules, tight cul-de-sacs, and curb or sidewalk crossings.",
+      "Contractors doing work in the right-of-way file a Town right-of-way permit reviewed by the Town Engineer. That permit is for construction and street occupancy, so do not plan a dumpster in the street without talking to the Town first.",
+      "When in doubt, confirm placement requirements with the Town of Timnath and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Old Town Timnath and Main Street",
+      "Harmony Road corridor",
+      "Timnath Reservoir area",
+      "Timnath Ranch",
+      "Wildwing",
+      "I-25 interchange area"
+    ],
+    nearbyCities: [
+      "Fort Collins",
+      "Windsor",
+      "Severance",
+      "Wellington",
+      "Loveland",
+      "Johnstown",
+      "Greeley",
+      "Eaton",
+      "Berthoud",
+      "Milliken"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Timnath, CO?",
+            "answer": "Quotes in Timnath are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Timnath, Colorado?",
+            "answer": "Not for a bin on your own driveway. The real rule is placement: Timnath's code enforcement guide says dumpsters must be stored on private property and cannot obstruct a street or sidewalk, and nothing may be stored in a public street, sidewalk, or alley. Plan for the driveway."
+      },
+      {
+            "question": "Does a Timnath dumpster need to be covered?",
+            "answer": "On construction sites, yes. Sec. 7-2-80(e) of the Municipal Code requires debris and trash receptacles to be covered during the work day as much as practical and whenever work stops at the end of the day. Ask the provider for a tarp."
+      },
+      {
+            "question": "What size dumpster for a Timnath home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Timnath?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Fort Collins, Windsor, and Severance?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Fort Collins, Windsor, Severance, and Wellington. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Timnath?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Timnath?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Timnath dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/timnath-co-dumpster-rental-hero.webp',
+      alt: "Dark green roll-off dumpster on the driveway of a newer stone-accented home with Front Range foothills beyond in Timnath, Colorado",
+    },
+    latitude: 40.5291,
+    longitude: -104.9858,
+    pricingPlacementNote: "Timnath keeps dumpsters on private property, out of streets, sidewalks, and alleys. Construction-site receptacles must be covered at the end of each work day.",
+  },
+
+  // ─── SEVERANCE (CO) ────────────────────────────────────────
+  {
+    slug: "severance-co-dumpster-rental",
+    cityName: "Severance",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Severance, CO Dumpster Rental",
+    metaDescription: "Severance, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and the Town right-of-way permit before you book.",
+    primaryKeyword: "severance co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental severance co",
+      "severance construction dumpster rental",
+      "roll off dumpster severance",
+      "roll off dumpster severance co",
+      "rolloff dumpsters severance",
+      "roll offs severance co",
+      "10 yard dumpster rental severance",
+      "20 yard dumpster rental severance",
+      "30 yard dumpster rental severance",
+      "severance dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Severance, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for new-home finishes, roofing tear-offs, cleanouts, and landscaping across Severance and the Windsor, Eaton, and Greeley area.",
+    introParagraphs: [
+      "Severance is a Weld County town between Windsor, Eaton, and Greeley. Bruce Eaton founded it in 1906, and residents incorporated it in 1920. The name came from David E. Severance, who applied for a post office in 1894 for a place meant to be called Tailholt; the office came back named Severance. Today a small old town sits inside a much larger ring of newer subdivisions. That means basement finishes, landscaping, and roofing tear-offs. Most residential jobs fit a 10, 15, or 20-yard.",
+      "Severance writes dumpsters into its street code. Section 10-3-50 says anyone doing construction must make sure construction debris, including dumpsters, portable toilets, and materials, is removed from public streets and sidewalks or cleaned daily. Violations are a misdemeanor, each day counts as a separate offense, and the Town can stop construction inspections until things are fixed. For planned use of the right-of-way, the Town has a Right-of-Way Permit handled by Public Works.",
+      "Rolloff Dumpster Finder helps Severance homeowners and contractors compare roll-off options across the Windsor, Severance, and Greeley area. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. A driveway placement keeps the street code out of the job."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Basement Finishes",
+            "description": "Newer Severance subdivisions include many homes with unfinished basements. Finishing one produces drywall scraps, framing offcuts, and packaging. A 15 or 20-yard covers most single-basement jobs."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "Severance sits in the northern Front Range hail corridor. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Severance depends on your driveway, HOA rules, and a Town right-of-way permit for anything planned in the street.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup and keeps the job out of the Town street code.",
+      "Town code Section 10-3-50 requires construction debris, including dumpsters, to be removed from public streets and sidewalks or cleaned daily. Each day of violation is a separate offense.",
+      "For planned use of the right-of-way, download the Town's Right-of-Way (ROW) Permit and email it to rowpermits@townofseverance.org, or call Public Works at 970-652-1917.",
+      "Measure driveway length and width. Tell the provider about HOA rules and tight cul-de-sacs when you book.",
+      "Mark irrigation boxes and sprinkler heads near the drop zone. New landscaping is easy to crack under a loaded container.",
+      "When in doubt, confirm placement requirements with the Town of Severance and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Old Town Severance",
+      "Timber Ridge Parkway area",
+      "Highway 257 corridor",
+      "Highway 14 corridor"
+    ],
+    nearbyCities: [
+      "Windsor",
+      "Eaton",
+      "Greeley",
+      "Timnath",
+      "Fort Collins",
+      "Ault",
+      "Johnstown",
+      "Wellington",
+      "Evans",
+      "Milliken"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Severance, CO?",
+            "answer": "Quotes in Severance are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Severance, Colorado?",
+            "answer": "For the street or other right-of-way, plan on one. Severance has a Right-of-Way Permit handled by Public Works, and Town code requires construction debris, including dumpsters, to be removed from public streets and sidewalks or cleaned daily. A container on your own driveway stays out of both."
+      },
+      {
+            "question": "Who do I contact about a Severance right-of-way permit?",
+            "answer": "Public Works. Email the completed ROW Permit to rowpermits@townofseverance.org or call 970-652-1917. Ask your provider whether it files permits for you."
+      },
+      {
+            "question": "What size dumpster for a Severance home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Severance?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Windsor, Eaton, and Greeley?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Windsor, Eaton, Greeley, and Timnath. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Severance?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Severance?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Severance dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/severance-co-dumpster-rental-hero.webp',
+      alt: "Dark green roll-off dumpster on the driveway of a new ranch home beside a lake with snowy Front Range peaks in Severance, Colorado",
+    },
+    latitude: 40.5247,
+    longitude: -104.8511,
+    pricingPlacementNote: "Severance code requires dumpsters and other construction debris to be removed from public streets and sidewalks or cleaned daily. Planned street use goes through a Town Right-of-Way Permit.",
+  },
+
+  // ─── WELLINGTON (CO) ────────────────────────────────────────
+  {
+    slug: "wellington-co-dumpster-rental",
+    cityName: "Wellington",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Wellington, CO Dumpster Rental",
+    metaDescription: "Wellington, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and the Town right-of-way permit rules before you book.",
+    primaryKeyword: "wellington co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental wellington co",
+      "wellington construction dumpster rental",
+      "roll off dumpster wellington",
+      "roll off dumpster wellington co",
+      "rolloff dumpsters wellington",
+      "roll offs wellington co",
+      "10 yard dumpster rental wellington",
+      "20 yard dumpster rental wellington",
+      "30 yard dumpster rental wellington",
+      "wellington dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Wellington, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for remodels, roofing tear-offs, cleanouts, and landscaping across Wellington and the I-25 corridor north of Fort Collins.",
+    introParagraphs: [
+      "Wellington is a Larimer County town on I-25 north of Fort Collins, the last town of size before the Wyoming line. It was founded in 1902 and incorporated in 1905, named for C.L. Wellington of the Colorado and Southern Railroad. The historic downtown runs along Cleveland Avenue, with newer subdivisions around it. That mix produces remodels, basement finishes, landscaping, and roofing tear-offs. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Wellington runs right-of-way work through Public Works. Since December 16, 2025, Right of Way permit applications go to Public Works instead of the Building Department. The Town lists what it wants: a signed application, a certificate of liability insurance, a traffic control plan, and a current contractor or business license. Work on Cleveland Avenue also needs a CDOT permit. Review takes about 72 hours, and the fees are a $100 application and a $1,000 refundable deposit.",
+      "Rolloff Dumpster Finder helps Wellington homeowners and contractors compare roll-off options across the Fort Collins, Wellington, and Timnath area. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and HOA rules. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Driveway placement keeps the street permit off the table."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Downtown Remodels",
+            "description": "Older homes near Cleveland Avenue and the original town grid produce plaster, old flooring, and tile. Weight climbs fast. A 15 or 20-yard is common. Check driveway and alley access before booking."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "Wellington sits in the northern Front Range hail corridor. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Wellington depends on your driveway, HOA rules, and the Town right-of-way permit for anything in the street.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup and keeps the job out of the Town right-of-way process.",
+      "The Town's Right of Way Permit is described as a street cut permit for work in the right-of-way. Ask Public Works if your container needs one before planning street placement.",
+      "Applications go to Public Works and need a signed application, certificate of liability insurance, traffic control plan, and current contractor or business license. Cleveland Avenue also needs a CDOT State Highway Utility/Special Use Permit.",
+      "Allow about 72 hours for review. Fees are a $100 application and a $1,000 refundable deposit; card payments add a 3% processing fee.",
+      "Measure driveway length and width. Tell the provider about HOA rules and tight cul-de-sacs when you book.",
+      "When in doubt, confirm placement requirements with the Town of Wellington (970-568-3381) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Wellington",
+      "Cleveland Avenue corridor",
+      "I-25 interchange area",
+      "Boxelder Creek area",
+      "Highway 1 corridor"
+    ],
+    nearbyCities: [
+      "Fort Collins",
+      "Timnath",
+      "Windsor",
+      "Severance",
+      "Ault",
+      "Eaton",
+      "Loveland",
+      "Greeley",
+      "Johnstown",
+      "Berthoud"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Wellington, CO?",
+            "answer": "Quotes in Wellington are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Wellington, Colorado?",
+            "answer": "Not for a bin on your own driveway. For work in the street or other right-of-way, Wellington uses a Right of Way Permit through Public Works, with a $100 application fee and a $1,000 refundable deposit. The Town describes it as a street cut permit, so ask Public Works whether a container in the street falls under it."
+      },
+      {
+            "question": "What does Wellington ask for with a right-of-way permit?",
+            "answer": "A signed application, a certificate of liability insurance, a traffic control plan, and a current contractor or business license. Work on Cleveland Avenue also needs a CDOT permit. Allow about 72 hours for review."
+      },
+      {
+            "question": "What size dumpster for a Wellington home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Wellington?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Fort Collins, Timnath, and Windsor?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Fort Collins, Timnath, Windsor, and Severance. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Wellington?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Wellington?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Wellington dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/wellington-co-dumpster-rental-hero.webp',
+      alt: "Dark green roll-off dumpster on the driveway of a two-story home with prairie and foothills beyond in Wellington, Colorado",
+    },
+    latitude: 40.7039,
+    longitude: -105.0086,
+    pricingPlacementNote: "Wellington's Right of Way Permit carries a $100 application fee and a $1,000 refundable deposit. Driveway placement needs no right-of-way permit.",
+  },
+
+  // ─── EATON (CO) ────────────────────────────────────────
+  {
+    slug: "eaton-co-dumpster-rental",
+    cityName: "Eaton",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Eaton, CO Dumpster Rental",
+    metaDescription: "Eaton, Colorado dumpster rental for remodels, roofing, and cleanouts. Compare roll-off sizes and the Town right-of-way use permit before you book.",
+    primaryKeyword: "eaton co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental eaton co",
+      "eaton construction dumpster rental",
+      "roll off dumpster eaton",
+      "roll off dumpster eaton co",
+      "rolloff dumpsters eaton",
+      "roll offs eaton co",
+      "10 yard dumpster rental eaton",
+      "20 yard dumpster rental eaton",
+      "30 yard dumpster rental eaton",
+      "eaton dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Eaton, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for older-home remodels, roofing tear-offs, cleanouts, and farm debris across Eaton and the US-85 corridor north of Greeley.",
+    introParagraphs: [
+      "Eaton is a Weld County town on US-85 north of Greeley. It was incorporated in 1892 and named for Benjamin Harrison Eaton, the irrigation pioneer who later served as Colorado's governor. Sugar beets and farming built the town. Today older homes on the original grid sit beside newer subdivisions on the edges. That mix produces remodels, cleanouts, roofing tear-offs, and outbuilding cleanups. Most residential jobs fit a 10, 15, or 20-yard container.",
+      "Eaton handles the right-of-way through a contracted engineer. The Town uses EPS Group as its Engineering Department, and Right-of-Way Use Applications go to eaton@epsgroupinc.com. The current form, effective January 1, 2026, includes a Temporary Occupation classification and asks for a traffic control plan and a site plan with aerial imagery. The standard application and review fee is $175. An extension or revision is $50, and ROW violations start at $300.",
+      "Rolloff Dumpster Finder helps Eaton homeowners and contractors compare roll-off options across the Greeley, Eaton, and Ault area. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and any gravel or acreage access. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. A driveway placement keeps the ROW application out of the job."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Older Home Remodels",
+            "description": "Homes on Eaton's original grid produce plaster, old flooring, and tile. Weight climbs fast. A 15 or 20-yard is common. Check driveway and alley access before booking."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "Eaton sits in the northern Front Range hail corridor. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Eaton depends on your driveway, site access, and a Town right-of-way use application for anything in the street.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup and keeps the job out of the Town right-of-way process.",
+      "For the street or other Town right-of-way, file a Right-of-Way Use Application with the Town's engineering firm at eaton@epsgroupinc.com. The form includes a Temporary Occupation classification.",
+      "The application asks for a traffic control plan and a site plan with aerial imagery. The standard application and review fee is $175 (effective January 1, 2026). Extensions or revisions are $50.",
+      "ROW violations are charged at fees times days delinquent, with a $300 minimum. File before the container arrives.",
+      "Rural and acreage lots: tell the provider about gravel drives, soft ground, gates, and where the truck can turn around.",
+      "When in doubt, confirm placement requirements with Eaton Town Hall (970-454-3338) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Eaton and First Street",
+      "US-85 corridor",
+      "Eaton Country Club area",
+      "Original town grid",
+      "Rural Eaton acreage"
+    ],
+    nearbyCities: [
+      "Greeley",
+      "Ault",
+      "Severance",
+      "Windsor",
+      "Evans",
+      "Timnath",
+      "Fort Collins",
+      "Wellington",
+      "Johnstown",
+      "Milliken"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Eaton, CO?",
+            "answer": "Quotes in Eaton are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Eaton, Colorado?",
+            "answer": "For the street or other right-of-way, yes. Eaton uses a Right-of-Way Use Application, filed with the Town's engineering firm, with a $175 standard application and review fee. A container on your own driveway stays out of that process."
+      },
+      {
+            "question": "Where do I send an Eaton right-of-way application?",
+            "answer": "To the Town's contracted engineering firm at eaton@epsgroupinc.com. Questions go to Town Hall at 970-454-3338. Include a traffic control plan and a site plan with aerial imagery."
+      },
+      {
+            "question": "What size dumpster for a Eaton home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Eaton?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Greeley, Ault, and Severance?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Greeley, Ault, Severance, and Windsor. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Eaton?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Eaton?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Eaton dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/eaton-co-dumpster-rental-hero.webp',
+      alt: "Dark green roll-off dumpster on the driveway of a 1950s home under yellow elm trees on a quiet street in Eaton, Colorado",
+    },
+    latitude: 40.5305,
+    longitude: -104.7116,
+    pricingPlacementNote: "Street or right-of-way placement in Eaton needs a Town Right-of-Way Use Application with a $175 standard application and review fee. Driveway placement needs none.",
+  },
+
+  // ─── AULT (CO) ────────────────────────────────────────
+  {
+    slug: "ault-co-dumpster-rental",
+    cityName: "Ault",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Ault, CO Dumpster Rental",
+    metaDescription: "Ault, Colorado dumpster rental for cleanouts, roofing, and farm debris. Compare roll-off sizes and the Town right-of-way permit before you book.",
+    primaryKeyword: "ault co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental ault co",
+      "ault construction dumpster rental",
+      "roll off dumpster ault",
+      "roll off dumpster ault co",
+      "rolloff dumpsters ault",
+      "roll offs ault co",
+      "10 yard dumpster rental ault",
+      "20 yard dumpster rental ault",
+      "30 yard dumpster rental ault",
+      "ault dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Ault, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for farmhouse cleanouts, remodels, roofing tear-offs, and outbuilding debris across Ault and the US-85 and Highway 14 crossroads.",
+    introParagraphs: [
+      "Ault is a Weld County town at the crossing of US-85 and Highway 14, north of Eaton. The Denver Pacific laid track here in 1869. The siding was renamed Ault in 1898 for Alexander Ault, a grain buyer who kept local farmers afloat in hard years, and the town incorporated in 1904. From 1913 to 1985 it held a sugar beet dump for the Eaton sugar factory. That farm history shows up in the work: farmhouse cleanouts, shed and outbuilding teardowns, and roofing tear-offs.",
+      "Ault is also a bedroom town now. The Town notes that residents commute to Cheyenne, Fort Collins, and Greeley, all under 45 minutes away, so newer homes sit beside the older stock. For anything in the street, the Town publishes a ROW permit. The general cost is $150 plus repair of the street and right-of-way, and the application and diagram go to Town Hall before any work in the ROW. A ROW violation is $500 per incident.",
+      "Rolloff Dumpster Finder helps Ault homeowners and farm owners compare roll-off options across the Ault, Eaton, and Greeley area. Availability depends on which providers cover your address, and rural delivery distance matters here. When you request quotes, give the address, the project type, and any gravel drive, gate, or soft ground. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Most jobs fit on the property."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Farmhouse & Estate Cleanouts",
+            "description": "Older farmhouses and family properties around Ault produce furniture, boxes, and decades of stored items. A 20 or 30-yard is common. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "Ault sits in the northern Front Range hail corridor. A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Ault usually happens on your own property. Anything in the street goes through the Town ROW permit.",
+    placementNotes: [
+      "Driveway or yard placement on private property is the standard setup and keeps the job out of the Town ROW permit.",
+      "For work in the right-of-way, the Town publishes a ROW permit. The general cost is $150 plus repair of the street and/or ROW. The page does not name dumpsters, so ask Town Hall whether a container in the street falls under it.",
+      "Return the permit application and diagram to Town Hall before any work in the ROW. Contact the Licensing Clerk at 970-834-2844.",
+      "A ROW violation is $500 per incident. Sort out the permit before delivery, not after.",
+      "Rural and acreage lots: tell the provider about gravel drives, soft ground, gates, and where the truck can turn around. Mark septic and irrigation lines.",
+      "When in doubt, confirm placement requirements with the Town of Ault and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Ault",
+      "US-85 corridor",
+      "Highway 14 corridor",
+      "Rural Ault acreage",
+      "Highland school area"
+    ],
+    nearbyCities: [
+      "Eaton",
+      "Greeley",
+      "Severance",
+      "Wellington",
+      "Windsor",
+      "Fort Collins",
+      "Timnath",
+      "Evans",
+      "Johnstown",
+      "Milliken"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Ault, CO?",
+            "answer": "Quotes in Ault are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Ault, Colorado?",
+            "answer": "Not for a bin on your own property. For work in the right-of-way, Ault publishes a ROW permit with a general cost of $150 plus street repair. The Town page does not name dumpsters, so call the Licensing Clerk at 970-834-2844 before planning street placement."
+      },
+      {
+            "question": "Can a dumpster go on a gravel drive or acreage in Ault?",
+            "answer": "Usually, if the ground is firm and the truck has room to back in and lift. Tell the provider about gravel, soft ground, gates, and overhead lines when you book."
+      },
+      {
+            "question": "What size dumpster for a Ault home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Ault?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Eaton, Greeley, and Severance?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Eaton, Greeley, Severance, and Wellington. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Ault?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Ault?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Ault dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/ault-co-dumpster-rental-hero.webp',
+      alt: "Dark green roll-off dumpster on the gravel drive of a white farmhouse with a red barn and grain elevator beyond near Ault, Colorado",
+    },
+    latitude: 40.5822,
+    longitude: -104.7319,
+    pricingPlacementNote: "Ault's ROW permit has a general cost of $150 plus street repair. Placement on your own property needs no ROW permit.",
+  },
 ]

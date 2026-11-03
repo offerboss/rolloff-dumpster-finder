@@ -9467,7 +9467,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Skip the street whenever the driveway fits the container. In Frederick and Dacono the street is not on the menu anyway. In Milliken and Berthoud, a street permit adds paperwork, review time, and possibly insurance documents for a job that fits on the driveway. If the driveway is too short, size down or plan two smaller hauls before you file anything.</p>
 
-<p>For the towns just south, read the <a href="/resources/boulder-county-dumpster-permits">Boulder County dumpster permit guide</a> (Louisville, Lafayette, Superior, Erie, and Firestone). For quote mechanics in these five towns, read <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/longmont-co-dumpster-rental">Longmont</a>, <a href="/locations/loveland-co-dumpster-rental">Loveland</a>, and <a href="/locations/johnstown-co-dumpster-rental">Johnstown</a>.</p>
+<p>For the towns just south, read the <a href="/resources/boulder-county-dumpster-permits">Boulder County dumpster permit guide</a> (Louisville, Lafayette, Superior, Erie, and Firestone). For quote mechanics in these five towns, read <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/longmont-co-dumpster-rental">Longmont</a>, <a href="/locations/loveland-co-dumpster-rental">Loveland</a>, and <a href="/locations/johnstown-co-dumpster-rental">Johnstown</a>. North toward Fort Collins and Greeley, read the <a href="/resources/fort-collins-greeley-area-dumpster-permits">Timnath, Severance, Wellington, Eaton, and Ault permit guide</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 `,
@@ -9585,7 +9585,7 @@ export const blogPosts: BlogPost[] = [
   <li>Who files the permit, and whether the fee is passed through</li>
 </ul>
 
-<p>Towns just south have their own guide: <a href="/resources/boulder-county-dumpster-rental-cost">Boulder County dumpster rental cost</a>.</p>
+<p>Towns just south have their own guide: <a href="/resources/boulder-county-dumpster-rental-cost">Boulder County dumpster rental cost</a>. Towns to the north: <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area dumpster rental cost</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 `,
@@ -9614,6 +9614,239 @@ export const blogPosts: BlogPost[] = [
     toc: [
       { "id": "how-priced", "title": "How a Roll-Off Quote Is Built" },
       { "id": "permits", "title": "Permit Fees Are the Numbers You Can Look Up" },
+      { "id": "sizing", "title": "Size the Job Before You Price It" },
+      { "id": "skip-it", "title": "When Not to Rent a Dumpster" },
+      { "id": "quote-checklist", "title": "What to Ask Every Provider" },
+      { "id": "faq", "title": "Straight Answers" }
+    ],
+  },
+
+  {
+    slug: 'fort-collins-greeley-area-dumpster-permits',
+    title: 'Fort Collins–Greeley Area Dumpster Permits: Timnath, Severance, Wellington, Eaton & Ault',
+    metaTitle: 'Timnath to Ault Dumpster Permits by Town',
+    excerpt:
+      'Five towns around Fort Collins and Greeley, five answers. Timnath keeps bins off the street, Severance makes street debris a daily problem, and Wellington, Eaton, and Ault publish right-of-way fees.',
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/wellington-co-dumpster-rental-hero.webp',
+    coverImageAlt: 'Roll-off dumpster on a home driveway with prairie and foothills beyond in northern Colorado',
+    date: '2026-11-03',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Dumpster permit rules for Timnath, Severance, Wellington, Eaton, and Ault, CO: driveway vs. street, published right-of-way fees, and who to call.',
+    readingTime: 6,
+    keywords: [
+      "fort collins greeley area dumpster permits",
+      "timnath dumpster permit",
+      "severance co dumpster permit",
+      "wellington co dumpster permit",
+      "eaton co dumpster permit",
+      "ault co dumpster permit"
+    ],
+    body: `
+<p>None of these five towns asks for a permit when the bin sits on your own driveway. The differences start at the curb.</p>
+
+<p>The short answer on dumpster permits around Fort Collins and Greeley: Timnath does not give you a street option; dumpsters stay on private property. Severance requires construction debris, dumpsters included, to be removed from public streets and sidewalks or cleaned daily, and runs planned street use through a Right-of-Way Permit. Wellington, Eaton, and Ault each publish a right-of-way permit with a fee you can look up.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Driveway first, everywhere. In Timnath, the street is off the table and construction bins get covered at day's end. In Severance, file the ROW Permit with Public Works before anything goes in the street. Wellington's right-of-way permit is $100 plus a $1,000 refundable deposit. Eaton's is a $175 application and review fee. Ault's is $150 plus street repair.</p>
+</div>
+
+<h2 id="compare">The Five Towns Side by Side</h2>
+
+<div class="not-prose my-8 overflow-x-auto">
+<table class="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
+  <thead class="bg-gray-50">
+    <tr>
+      <th class="px-4 py-3 text-left font-semibold">Town</th>
+      <th class="px-4 py-3 text-left font-semibold">Private driveway</th>
+      <th class="px-4 py-3 text-left font-semibold">Street or right-of-way</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="border-t"><td class="px-4 py-3">Timnath</td><td class="px-4 py-3">Where the Town wants it</td><td class="px-4 py-3">No storage of dumpsters in streets, sidewalks, or alleys</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Severance</td><td class="px-4 py-3">No right-of-way permit</td><td class="px-4 py-3">ROW Permit via Public Works; street debris removed or cleaned daily</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Wellington</td><td class="px-4 py-3">No right-of-way permit</td><td class="px-4 py-3">Right of Way Permit: $100 plus $1,000 refundable deposit</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Eaton</td><td class="px-4 py-3">No right-of-way permit</td><td class="px-4 py-3">Right-of-Way Use Application: $175 standard fee</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Ault</td><td class="px-4 py-3">No right-of-way permit</td><td class="px-4 py-3">ROW permit: $150 plus street repair</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="timnath">Timnath: Private Property Only</h2>
+
+<p>Timnath's <a href="https://timnath.org/wp-content/uploads/2023/09/2023-09-07-TIM-code-enforcement-online.pdf" target="_blank" rel="noopener noreferrer">code enforcement guide</a> says dumpsters must be stored on private property and cannot obstruct any street or sidewalk, and that nothing, dumpsters included, may be stored in a public street, sidewalk, or alley. On construction sites, a <a href="https://timnath.org/wp-content/uploads/2024/05/Flyer-for-Trash-dumpsters-in-Timnath.pdf" target="_blank" rel="noopener noreferrer">Town flyer</a> points to Sec. 7-2-80(e): debris receptacles are covered during the work day as much as practical and whenever work stops. Ask for a tarp. Details: <a href="/locations/timnath-co-dumpster-rental">Timnath</a>.</p>
+
+<h2 id="severance">Severance: The Street Is a Daily Problem</h2>
+
+<p>Severance Municipal Code <a href="https://mcclibraryfunctions.azurewebsites.us/api/ordinanceDownload/18258/1112024/pdf?forceDownload=true" target="_blank" rel="noopener noreferrer">Section 10-3-50</a> requires construction debris, including dumpsters, portable toilets, and materials, to be removed from public streets and sidewalks or cleaned daily. Each day of violation is a separate misdemeanor, and the Town can stop construction inspections until it is fixed. For planned use of the right-of-way, the Town's <a href="https://townofseverance.org/178/Public-WorksROW-Permits" target="_blank" rel="noopener noreferrer">Public Works ROW Permits page</a> has the form. Email it to rowpermits@townofseverance.org or call 970-652-1917. Details: <a href="/locations/severance-co-dumpster-rental">Severance</a>.</p>
+
+<!--survey-mid-->
+
+<h2 id="wellington">Wellington: $100 Plus a $1,000 Deposit</h2>
+
+<p>Wellington's <a href="https://www.wellingtoncolorado.gov/652/Right-of-Way-Hydrant-Water-Meter-Permits" target="_blank" rel="noopener noreferrer">Right of Way permit page</a> asks for a signed application, a certificate of liability insurance, a traffic control plan, and a current contractor or business license. Cleveland Avenue also needs a CDOT permit. Review takes about 72 hours. The fees are $100 for the application and a $1,000 refundable deposit, with a 3% charge on card payments. Since December 16, 2025, applications go to Public Works, not the Building Department. The Town calls it a street cut permit, so ask Public Works if a container in the street needs one. Details: <a href="/locations/wellington-co-dumpster-rental">Wellington</a>.</p>
+
+<h2 id="eaton">Eaton: $175 and a Site Plan</h2>
+
+<p>Eaton contracts its engineering to EPS Group, and the <a href="https://www.eatonco.org/apply/page/right-way-permit" target="_blank" rel="noopener noreferrer">Right-of-Way Use Application</a> goes to eaton@epsgroupinc.com. The form, effective January 1, 2026, includes a Temporary Occupation classification and asks for a traffic control plan and a site plan with aerial imagery. The standard application and review fee is $175. Extensions or revisions are $50, and violations run fees times days delinquent with a $300 minimum. Details: <a href="/locations/eaton-co-dumpster-rental">Eaton</a>.</p>
+
+<h2 id="ault">Ault: $150 Plus Street Repair</h2>
+
+<p>Ault's <a href="https://aultcolorado.gov/ROWpermit" target="_blank" rel="noopener noreferrer">ROW permit page</a> lists a general cost of $150 plus repair of the street and right-of-way. Return the application and diagram to Town Hall before any work in the ROW. A violation is $500 per incident. The page does not name dumpsters, so call the Licensing Clerk at 970-834-2844 before planning a bin in the street. Details: <a href="/locations/ault-co-dumpster-rental">Ault</a>.</p>
+
+<h2 id="skip-street">When Not to Bother With the Street</h2>
+
+<p>Skip the street whenever the driveway or yard fits the container. In Timnath it is not an option. In the other four, a street bin adds an application, review time, and possibly insurance and traffic control documents for a job that fits on your property. If the driveway is too short, size down or plan two smaller hauls before you file anything.</p>
+
+<p>For the Carbon Valley and US-85 towns to the south, read the <a href="/resources/northern-colorado-dumpster-permits">northern Colorado dumpster permit guide</a> (Frederick, Dacono, Platteville, Milliken, and Berthoud). For quote mechanics in these five towns, read <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/fort-collins-co-dumpster-rental">Fort Collins</a>, <a href="/locations/greeley-co-dumpster-rental">Greeley</a>, and <a href="/locations/windsor-co-dumpster-rental">Windsor</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "Do I need a dumpster permit on my driveway in these towns?",
+            "answer": "No. None of Timnath, Severance, Wellington, Eaton, or Ault publishes a permit for a roll-off on your own driveway. The rules start when the bin goes in the street or other right-of-way."
+      },
+      {
+            "question": "Can I put a dumpster in the street in Timnath?",
+            "answer": "Plan on no. The Town's code enforcement guide says dumpsters must be stored on private property and nothing, dumpsters included, may be stored in a public street, sidewalk, or alley."
+      },
+      {
+            "question": "What does a right-of-way permit cost in Wellington, Eaton, or Ault?",
+            "answer": "Wellington: a $100 application fee and a $1,000 refundable deposit. Eaton: a $175 standard application and review fee. Ault: a general cost of $150 plus repair of the street and right-of-way."
+      },
+      {
+            "question": "What is the Severance street debris rule?",
+            "answer": "Section 10-3-50 requires construction debris, including dumpsters, to be removed from public streets and sidewalks or cleaned daily. Each day of violation is a separate offense. Planned street use goes through the Town ROW Permit."
+      },
+      {
+            "question": "Is the permit included in the rental price?",
+            "answer": "Usually not. Ask each provider who files the permit and whether the fee is passed through. Driveway placement avoids the question in all five towns."
+      }
+    ],
+    toc: [
+      { "id": "compare", "title": "The Five Towns Side by Side" },
+      { "id": "timnath", "title": "Timnath: Private Property Only" },
+      { "id": "severance", "title": "Severance: The Street Is a Daily Problem" },
+      { "id": "wellington", "title": "Wellington: $100 Plus a $1,000 Deposit" },
+      { "id": "eaton", "title": "Eaton: $175 and a Site Plan" },
+      { "id": "ault", "title": "Ault: $150 Plus Street Repair" },
+      { "id": "skip-street", "title": "When Not to Bother With the Street" },
+      { "id": "faq", "title": "Straight Answers" }
+    ],
+  },
+
+  {
+    slug: 'fort-collins-greeley-area-dumpster-rental-cost',
+    title: 'Fort Collins–Greeley Area Dumpster Rental Cost: How Quotes Are Built in Timnath, Severance, Wellington, Eaton & Ault',
+    metaTitle: 'Timnath to Ault Dumpster Rental Cost',
+    excerpt:
+      'How roll-off quotes are built in Timnath, Severance, Wellington, Eaton, and Ault: size, included tons, overage, rental days, rural delivery, and the right-of-way fees you can actually look up.',
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/eaton-co-dumpster-rental-hero.webp',
+    coverImageAlt: 'Roll-off dumpster on the driveway of a small-town home under yellow elm trees in northern Colorado',
+    date: '2026-11-03',
+    author: 'Adam Chandler',
+    metaDescription:
+      'Dumpster rental cost guide for Timnath, Severance, Wellington, Eaton, and Ault, CO: how roll-off quotes are priced and the published right-of-way fees.',
+    readingTime: 5,
+    keywords: [
+      "fort collins greeley area dumpster rental cost",
+      "timnath dumpster rental cost",
+      "severance dumpster rental cost",
+      "wellington co dumpster rental cost",
+      "eaton co dumpster rental cost",
+      "ault dumpster rental cost"
+    ],
+    body: `
+<p>A roll-off quote between Fort Collins and Greeley is the same handful of numbers as anywhere else. Out past Eaton and Ault, the miles from the hauler's yard become one of them.</p>
+
+<p>The short answer on dumpster rental cost in Timnath, Severance, Wellington, Eaton, and Ault: the price is built from the container size, the weight it includes, the per-ton overage, the rental days, and delivery to your address. Right-of-way fees sit on top only when the bin goes in the street. I am not publishing a price table for these towns, because I do not have a sourced one. Here is how to read the quote instead.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Get two quotes for the same size and the same rental days. Compare included tons, overage per ton, extension fee, and delivery. Keep the bin on the driveway and no town here adds a permit. Street placement adds $100 plus a $1,000 refundable deposit in Wellington, $175 in Eaton, and $150 plus street repair in Ault.</p>
+</div>
+
+<h2 id="how-priced">How a Roll-Off Quote Is Built</h2>
+
+<ul>
+  <li><strong>Container size.</strong> 10, 15, 20, 30, or 40 yards. Bigger costs more, but one larger container can beat two hauls.</li>
+  <li><strong>Included weight.</strong> Every quote includes a tonnage allowance. Shingles, tile, concrete, and soil hit it fast.</li>
+  <li><strong>Overage per ton.</strong> The line that turns a fair quote into an ugly invoice. Get it in writing.</li>
+  <li><strong>Rental period and extensions.</strong> Ask how many days are included and what each extra day costs.</li>
+  <li><strong>Delivery distance.</strong> Farm addresses around Eaton and Ault, and the north edge of Wellington, can sit a long way from the nearest yard. Ask for any trip or fuel charge up front.</li>
+  <li><strong>Debris type.</strong> Clean yard waste, clean concrete, and mixed construction debris can be priced differently.</li>
+</ul>
+
+<p>For the national version of this breakdown, read <a href="/resources/what-does-a-dumpster-rental-cost">what does a dumpster rental cost</a>.</p>
+
+<!--survey-mid-->
+
+<h2 id="permits">Right-of-Way Fees Are the Numbers You Can Look Up</h2>
+
+<p>These are the published local numbers I could verify. All of them apply only off the driveway:</p>
+
+<ul>
+  <li><a href="/locations/wellington-co-dumpster-rental">Wellington</a>: Right of Way Permit, $100 application plus a $1,000 refundable deposit; card payments add 3% (<a href="https://www.wellingtoncolorado.gov/652/Right-of-Way-Hydrant-Water-Meter-Permits" target="_blank" rel="noopener noreferrer">Town of Wellington</a>).</li>
+  <li><a href="/locations/eaton-co-dumpster-rental">Eaton</a>: Right-of-Way Use Application, $175 standard application and review fee; $50 per extension or revision (<a href="https://www.eatonco.org/apply/page/right-way-permit" target="_blank" rel="noopener noreferrer">Town of Eaton</a>).</li>
+  <li><a href="/locations/ault-co-dumpster-rental">Ault</a>: ROW permit, general cost $150 plus repair of the street and right-of-way; violations $500 per incident (<a href="https://aultcolorado.gov/ROWpermit" target="_blank" rel="noopener noreferrer">Town of Ault</a>).</li>
+  <li><a href="/locations/severance-co-dumpster-rental">Severance</a>: the Town ROW Permit page does not list a dumpster fee. Street debris, dumpsters included, must be removed or cleaned daily under Section 10-3-50 (<a href="https://townofseverance.org/178/Public-WorksROW-Permits" target="_blank" rel="noopener noreferrer">Town of Severance</a>).</li>
+  <li><a href="/locations/timnath-co-dumpster-rental">Timnath</a>: no street option to price. Dumpsters are stored on private property (<a href="https://timnath.org/wp-content/uploads/2023/09/2023-09-07-TIM-code-enforcement-online.pdf" target="_blank" rel="noopener noreferrer">Town of Timnath</a>).</li>
+</ul>
+
+<p>The full rules are in the <a href="/resources/fort-collins-greeley-area-dumpster-permits">Fort Collins–Greeley area dumpster permit guide</a>.</p>
+
+<h2 id="sizing">Size the Job Before You Price It</h2>
+
+<p>Most single-home jobs in these towns land in a 10, 15, or 20-yard. A garage cleanout fits a 10. A kitchen remodel fits a 15. A roof tear-off, basement finish, or full-home cleanout fits a 20 by volume, with weight as the catch. Farmhouse estate cleanouts and outbuilding teardowns around Eaton and Ault often run to a 30. In Timnath, size to what fits fully on the driveway. For heavy loads, read <a href="/resources/roofing-dumpster-rental">roofing dumpster rental</a> before the crew starts.</p>
+
+<h2 id="skip-it">When Not to Rent a Dumpster</h2>
+
+<p>Skip the roll-off when the load is a few pieces of furniture and a pile of boxes. A junk removal crew or your hauler's bulk pickup can cost less than any container. Skip the street plan in Wellington if the deposit would tie up cash for a job that fits on the driveway.</p>
+
+<h2 id="quote-checklist">What to Ask Every Provider</h2>
+
+<ul>
+  <li>Container size and included tons</li>
+  <li>Overage per ton</li>
+  <li>Included rental days and the daily extension charge</li>
+  <li>Delivery and any trip fee for your address</li>
+  <li>A tarp, if the job is a Timnath construction site</li>
+  <li>Who files any right-of-way permit, and whether the fee is passed through</li>
+</ul>
+
+<p>Towns just south have their own guide: <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "How much does a dumpster cost in Timnath, Severance, Wellington, Eaton, or Ault?",
+            "answer": "It depends on size, included tons, overage per ton, rental days, delivery distance, and debris type. Get two quotes for the same size and the same days and compare every line. I do not publish an unsourced price table for these towns."
+      },
+      {
+            "question": "What permit costs can I plan for?",
+            "answer": "None on the driveway. In the street: Wellington charges $100 plus a $1,000 refundable deposit, Eaton charges a $175 standard application and review fee, and Ault lists $150 plus street repair. Timnath keeps dumpsters on private property."
+      },
+      {
+            "question": "Why do rural addresses cost more to serve?",
+            "answer": "Delivery distance and site access. Farm addresses around Eaton and Ault can sit far from the nearest yard, and gravel drives or soft ground can complicate drop-off. Ask for any trip or fuel charge in the quote."
+      },
+      {
+            "question": "What makes a quote jump after the job?",
+            "answer": "Weight. Shingles, tile, concrete, and soil push past the included tons fast. Get the overage per ton in writing before loading."
+      },
+      {
+            "question": "When should I skip the dumpster?",
+            "answer": "When the load is a few pieces of furniture or a handful of boxes. Junk removal or a bulk pickup can cost less than any container."
+      }
+    ],
+    toc: [
+      { "id": "how-priced", "title": "How a Roll-Off Quote Is Built" },
+      { "id": "permits", "title": "Right-of-Way Fees Are the Numbers You Can Look Up" },
       { "id": "sizing", "title": "Size the Job Before You Price It" },
       { "id": "skip-it", "title": "When Not to Rent a Dumpster" },
       { "id": "quote-checklist", "title": "What to Ask Every Provider" },
