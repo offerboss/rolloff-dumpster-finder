@@ -27,3 +27,20 @@
 - Edgewater: the City's Dumpster Guide PDF couldn't be opened (edgewaterco.gov returns 403 to the Mac and to WebFetch). The page only claims the guide exists, that roll-offs sit under Property Improvements, and that permits go through CommunityCore; search results of the official documents and right-of-way pages confirm all three. Read the PDF in a browser and add any specific rules with a citation.
 - Long titles: 162 of 165 titles exceed 65 characters, mostly because of the " | Rolloff Dumpster Finder" suffix plus long page titles. Shortening them is a template or metadata pass; not done.
 - `rolloff-preview.html` and `rolloff-locations-preview.html` are still in the repo root. The untracked `public/RDF-Images/Houston Rolloff Dumpster Rentals.png` (Oct 10, 2.5 MB) and the modified `tsconfig.tsbuildinfo` were left alone.
+
+## Friday QA — 2026-11-06
+
+**This week shipped (Nov 3):** Timnath, Severance, Wellington, Eaton, Ault + fort-collins-greeley-area-dumpster-permits + fort-collins-greeley-area-dumpster-rental-cost (b50e624, sitemap fix 09f7dae). Live 200s; sitemap 186 URLs; heroes 1920×1080 WebP under 300 KB.
+
+**Fixed**
+- Restored dirty `tsconfig.tsbuildinfo` with `git checkout` (no commit needed; working tree clean of that file).
+
+**Verified**
+- No "whether you" in week city/guide content.
+- Dollar amounts on week pages/guides are official ROW/permit fees only (Wellington $100+$1,000 deposit; Eaton $175/$50/$300; Ault $150/$500) — not unsourced rental ranges.
+- Canonical host remains www (bare 307→www). Remotes still HTTPS (push may need SSH without changing origin).
+
+**Open / not fixed**
+- Untracked `public/RDF-Images/Houston Rolloff Dumpster Rentals.png` (2.5 MB, Oct 10) left alone.
+- Sitewide unsourced price ranges on older city pages/cost guides (from 2026-10-16 QA) still open.
+- Long titles with brand suffix (template pass) still open.
