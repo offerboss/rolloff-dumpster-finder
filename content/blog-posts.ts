@@ -9467,7 +9467,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Skip the street whenever the driveway fits the container. In Frederick and Dacono the street is not on the menu anyway. In Milliken and Berthoud, a street permit adds paperwork, review time, and possibly insurance documents for a job that fits on the driveway. If the driveway is too short, size down or plan two smaller hauls before you file anything.</p>
 
-<p>For the towns just south, read the <a href="/resources/boulder-county-dumpster-permits">Boulder County dumpster permit guide</a> (Louisville, Lafayette, Superior, Erie, and Firestone). For quote mechanics in these five towns, read <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/longmont-co-dumpster-rental">Longmont</a>, <a href="/locations/loveland-co-dumpster-rental">Loveland</a>, and <a href="/locations/johnstown-co-dumpster-rental">Johnstown</a>. North toward Fort Collins and Greeley, read the <a href="/resources/fort-collins-greeley-area-dumpster-permits">Timnath, Severance, Wellington, Eaton, and Ault permit guide</a>.</p>
+<p>For the towns just south, read the <a href="/resources/boulder-county-dumpster-permits">Boulder County dumpster permit guide</a> (Louisville, Lafayette, Superior, Erie, and Firestone). For quote mechanics in these five towns, read <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/longmont-co-dumpster-rental">Longmont</a>, <a href="/locations/loveland-co-dumpster-rental">Loveland</a>, and <a href="/locations/johnstown-co-dumpster-rental">Johnstown</a>. North toward Fort Collins and Greeley, read the <a href="/resources/fort-collins-greeley-area-dumpster-permits">Timnath, Severance, Wellington, Eaton, and Ault permit guide</a>. East along US-85 and I-76, read the <a href="/resources/southern-weld-county-dumpster-permits">Fort Lupton, Hudson, Keenesburg, Gilcrest, and LaSalle permit guide</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 `,
@@ -9585,7 +9585,7 @@ export const blogPosts: BlogPost[] = [
   <li>Who files the permit, and whether the fee is passed through</li>
 </ul>
 
-<p>Towns just south have their own guide: <a href="/resources/boulder-county-dumpster-rental-cost">Boulder County dumpster rental cost</a>. Towns to the north: <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area dumpster rental cost</a>.</p>
+<p>Towns just south have their own guide: <a href="/resources/boulder-county-dumpster-rental-cost">Boulder County dumpster rental cost</a>. Towns to the north: <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area dumpster rental cost</a>. Towns to the east: <a href="/resources/southern-weld-county-dumpster-rental-cost">southern Weld County dumpster rental cost</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 `,
@@ -9847,6 +9847,249 @@ export const blogPosts: BlogPost[] = [
     toc: [
       { "id": "how-priced", "title": "How a Roll-Off Quote Is Built" },
       { "id": "permits", "title": "Right-of-Way Fees Are the Numbers You Can Look Up" },
+      { "id": "sizing", "title": "Size the Job Before You Price It" },
+      { "id": "skip-it", "title": "When Not to Rent a Dumpster" },
+      { "id": "quote-checklist", "title": "What to Ask Every Provider" },
+      { "id": "faq", "title": "Straight Answers" }
+    ],
+  },
+
+  {
+    slug: 'southern-weld-county-dumpster-permits',
+    title: "Southern Weld County Dumpster Permits: Fort Lupton, Hudson, Keenesburg, Gilcrest & LaSalle",
+    metaTitle: "Fort Lupton to LaSalle Dumpster Permits by Town",
+    excerpt:
+      "Five towns in southern Weld County, five different rules. Fort Lupton permits private property too, Hudson bans the street, Keenesburg wants the street, Gilcrest charges $25, and LaSalle has no dumpster permit.",
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/hudson-co-dumpster-rental-hero.webp',
+    coverImageAlt: "Roll-off dumpster on a home driveway with farm fields beyond in southern Weld County, Colorado",
+    date: '2026-11-10',
+    author: 'Adam Chandler',
+    metaDescription:
+      "Dumpster permit rules for Fort Lupton, Hudson, Keenesburg, Gilcrest, and LaSalle, CO: driveway vs. street, permit windows, published fees, and who to call.",
+    readingTime: 6,
+    keywords: [
+      "southern weld county dumpster permits",
+      "fort lupton dumpster permit",
+      "hudson co dumpster permit",
+      "keenesburg dumpster permit",
+      "gilcrest dumpster permit",
+      "lasalle co dumpster permit"
+    ],
+    body: `
+<p>Most towns on this site let you skip the permit when the bin sits on your driveway. Down US-85 and out I-76 in southern Weld County, that assumption breaks in three different ways.</p>
+
+<p>The short answer on dumpster permits in Fort Lupton, Hudson, Keenesburg, Gilcrest, and LaSalle: Fort Lupton wants a free permit on the street or on private property. Hudson keeps dumpsters on private property and requires a permit for most single-family cleanups. Keenesburg wants the roll-off on the street, not the driveway, under a free 15-day permit. Gilcrest charges $25 for a 14-day roll-off permit. LaSalle publishes no dumpster permit, and its right-of-way permit is written for excavation.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Read your town's rule before you pick a spot. Fort Lupton: free permit, up to 30 days, 30 feet from corners. Hudson: private property only, permit for most home cleanups, one month per year. Keenesburg: street, not driveway, free permit, 15 days. Gilcrest: $25, 14 days, one address. LaSalle: driveway, and call Public Works before anything goes in the street.</p>
+</div>
+
+<h2 id="compare">The Five Towns Side by Side</h2>
+
+<div class="not-prose my-8 overflow-x-auto">
+<table class="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
+  <thead class="bg-gray-50">
+    <tr>
+      <th class="px-4 py-3 text-left font-semibold">Town</th>
+      <th class="px-4 py-3 text-left font-semibold">Private driveway</th>
+      <th class="px-4 py-3 text-left font-semibold">Street or right-of-way</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="border-t"><td class="px-4 py-3">Fort Lupton</td><td class="px-4 py-3">Free Dumpster Roll Off permit, up to 30 days</td><td class="px-4 py-3">Same permit, plus a site plan and cones</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Hudson</td><td class="px-4 py-3">Town dumpster permit for most single-family cleanups, one month per year</td><td class="px-4 py-3">Not allowed</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Keenesburg</td><td class="px-4 py-3">Not where the Town wants it</td><td class="px-4 py-3">No-fee permit, 15 days only</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Gilcrest</td><td class="px-4 py-3">Form does not say; ask Town Hall</td><td class="px-4 py-3">$25 Rolloff Dumpster Permit, 14 days</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">LaSalle</td><td class="px-4 py-3">No published dumpster permit</td><td class="px-4 py-3">$100 Right-of-Way Permit is written for excavation; ask Public Works</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="fort-lupton">Fort Lupton: A Free Permit Either Way</h2>
+
+<p>Fort Lupton's <a href="https://www.fortluptonco.gov/162/Public-Works" target="_blank" rel="noopener noreferrer">Public Works page</a> says the Dumpster Permit covers dumpsters, PODs, and large containers placed on the street or on private property for cleanup or moving. It is free and can be issued for up to 30 days. Apply through CommunityCore under the permit type Public Works - Dumpster Roll Off. Dumpsters may not block neighboring driveways and must sit 30 feet from corners or alley entrances. The <a href="https://www.fortluptonco.gov/DocumentCenter/View/20430/2026-Dumpster-Permit-Application" target="_blank" rel="noopener noreferrer">2026 application</a> asks for a site plan when the bin goes on the street, requires cones around it, and says to display the permit on the dumpster. The City suggests checking its zoning map first to confirm the property is inside City jurisdiction. Details: <a href="/locations/fort-lupton-co-dumpster-rental">Fort Lupton</a>.</p>
+
+<h2 id="hudson">Hudson: Private Property, Limited Time</h2>
+
+<p>Hudson Municipal Code Sec. 16-147, printed on the Town's <a href="https://www.hudsoncolorado.org/DocumentCenter/View/5135/Dumpster-Application-" target="_blank" rel="noopener noreferrer">Dumpster Application</a>, bars dumpsters at single-family and two-family homes and in R-1 zones, with exceptions. A remodel or repair that needs no building permit, or a general cleanup, can get a Town dumpster permit for up to one month per year. Construction under a valid building permit needs no dumpster permit, as long as the bin leaves within 30 days of the certificate of occupancy. Homes in agriculturally zoned districts are exempt. In every case, the dumpster sits on private property and not in the public right-of-way. The Town <a href="https://www.hudsonco.gov/193/Permits-and-Licenses" target="_blank" rel="noopener noreferrer">permits page</a> lists the fee as variable. Details: <a href="/locations/hudson-co-dumpster-rental">Hudson</a>.</p>
+
+<!--survey-mid-->
+
+<h2 id="keenesburg">Keenesburg: The Street, Not the Driveway</h2>
+
+<p>Keenesburg's <a href="https://www.keenesburg.org/how_do_i/faqs.php" target="_blank" rel="noopener noreferrer">Town FAQ</a> allows a temporary roll-off with a no-fee permit for a 15-day period only. It must be parked on the street and not on the driveway, so it does not disturb the right-of-way at the sidewalk. That is the opposite of the advice on most of this site, so follow the Town, not the habit. Outside that temporary permit, containers over 96 gallons are not allowed in R-1 zones or on single-family lots, except estate zoning of one acre or more. Details: <a href="/locations/keenesburg-co-dumpster-rental">Keenesburg</a>.</p>
+
+<h2 id="gilcrest">Gilcrest: $25 for 14 Days</h2>
+
+<p>Gilcrest posts a Rolloff Dumpster Permit Application on its <a href="https://www.townofgilcrest.org/forms" target="_blank" rel="noopener noreferrer">Forms page</a>. The fee is $25. The permit is valid for 14 days and only at the placement address on the form, and the application goes to the Town by email. The form does not say whether a bin on your own driveway needs it, so call Town Hall at 970-737-2426. Town Hall is closed Sunday and Monday. Details: <a href="/locations/gilcrest-co-dumpster-rental">Gilcrest</a>.</p>
+
+<h2 id="lasalle">LaSalle: Driveway First, Ask Before the Street</h2>
+
+<p>LaSalle does not publish a dumpster permit. Its <a href="https://www.lasalletown.com/DocumentCenter/View/1572/Right-of-Way-Permit-Applicationpdf" target="_blank" rel="noopener noreferrer">Right-of-Way Permit</a> is $100 and needs at least 5 working days, but the form is written for excavation and asks for a traffic control plan, a certificate of insurance, and a work map. Call Public Works at 970-284-5625 before planning a bin in the street. The rule that does apply to many dumpster jobs is the roof: LaSalle lists roofs among the <a href="https://www.lasalletown.com/2169/Building-Permits" target="_blank" rel="noopener noreferrer">projects that need a building permit</a>, and the <a href="https://www.lasalletown.com/DocumentCenter/View/1652/2025-Uniform-Fee-Schedule---031125-Revision" target="_blank" rel="noopener noreferrer">2025 fee schedule</a> sets the over-the-counter residential reroof fee at $125. Details: <a href="/locations/lasalle-co-dumpster-rental">LaSalle</a>.</p>
+
+<h2 id="county">Outside Town Limits: Weld County Governs</h2>
+
+<p>Rural addresses around these towns often carry a town name but sit outside town limits. There, Weld County governs the road right-of-way, not the town. Keep the bin on your own property, and check Weld County Public Works <a href="https://www.weld.gov/Government/Departments/Public-Works/Permits" target="_blank" rel="noopener noreferrer">right-of-way permits</a> before anything goes on a county road. Do not assume a town rule applies to a county address.</p>
+
+<h2 id="skip-it">When Not to Bother With a Permit</h2>
+
+<p>Skip the roll-off when the load is light. Keenesburg holds two free dump days a year, in spring and fall, for dead trees and limbs. A few pieces of furniture can go to junk removal or your hauler's bulk pickup for less than a container and a permit. In Hudson, a light cleanup that would burn a month of your yearly permit window is a good candidate for a junk hauler instead.</p>
+
+<p>For the towns to the west, read the <a href="/resources/northern-colorado-dumpster-permits">northern Colorado dumpster permit guide</a> (Frederick, Dacono, Platteville, Milliken, and Berthoud). North toward Greeley, read the <a href="/resources/fort-collins-greeley-area-dumpster-permits">Fort Collins–Greeley area permit guide</a>. For quote mechanics in these five towns, read <a href="/resources/southern-weld-county-dumpster-rental-cost">southern Weld County dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/brighton-co-dumpster-rental">Brighton</a>, <a href="/locations/platteville-co-dumpster-rental">Platteville</a>, <a href="/locations/evans-co-dumpster-rental">Evans</a>, and <a href="/locations/greeley-co-dumpster-rental">Greeley</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "Do I need a dumpster permit on my driveway in these towns?",
+            "answer": "It depends on the town. Fort Lupton's free permit covers private property too. Hudson requires a permit for most single-family cleanups. Keenesburg wants the roll-off on the street, not the driveway. Gilcrest's form does not say, so ask Town Hall. LaSalle publishes no dumpster permit."
+      },
+      {
+            "question": "Can I put a dumpster in the street in Hudson?",
+            "answer": "No. Hudson Municipal Code Sec. 16-147 says dumpsters shall be located on private property and shall not be placed in the public right-of-way."
+      },
+      {
+            "question": "Why does Keenesburg want the roll-off on the street?",
+            "answer": "The Town's FAQ says a temporary roll-off must be parked on the street and not on the driveway, so it does not disturb the right-of-way at the sidewalk. The permit is free and covers 15 days."
+      },
+      {
+            "question": "What do the permits cost?",
+            "answer": "Fort Lupton: free, up to 30 days. Keenesburg: no fee, 15 days. Gilcrest: $25, 14 days. Hudson lists its dumpster permit fee as variable. LaSalle's $100 Right-of-Way Permit is written for excavation, so ask Public Works before using it for a dumpster."
+      },
+      {
+            "question": "Who handles rural addresses outside town limits?",
+            "answer": "Weld County, not the town. Keep the bin on your own property and check Weld County Public Works right-of-way permits before placing anything on a county road."
+      }
+    ],
+    toc: [
+      { "id": "compare", "title": "The Five Towns Side by Side" },
+      { "id": "fort-lupton", "title": "Fort Lupton: A Free Permit Either Way" },
+      { "id": "hudson", "title": "Hudson: Private Property, Limited Time" },
+      { "id": "keenesburg", "title": "Keenesburg: The Street, Not the Driveway" },
+      { "id": "gilcrest", "title": "Gilcrest: $25 for 14 Days" },
+      { "id": "lasalle", "title": "LaSalle: Driveway First, Ask Before the Street" },
+      { "id": "county", "title": "Outside Town Limits: Weld County Governs" },
+      { "id": "skip-it", "title": "When Not to Bother With a Permit" },
+      { "id": "faq", "title": "Straight Answers" }
+    ],
+  },
+
+  {
+    slug: 'southern-weld-county-dumpster-rental-cost',
+    title: "Southern Weld County Dumpster Rental Cost: How Quotes Are Built in Fort Lupton, Hudson, Keenesburg, Gilcrest & LaSalle",
+    metaTitle: "Fort Lupton to LaSalle Dumpster Rental Cost",
+    excerpt:
+      "How roll-off quotes are built in Fort Lupton, Hudson, Keenesburg, Gilcrest, and LaSalle: size, included tons, overage, rental days, rural delivery, and the short permit windows that turn into extension fees.",
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/gilcrest-co-dumpster-rental-hero.webp',
+    coverImageAlt: "Roll-off dumpster on the gravel drive of an older farmhouse under large shade trees in southern Weld County, Colorado",
+    date: '2026-11-10',
+    author: 'Adam Chandler',
+    metaDescription:
+      "Dumpster rental cost guide for Fort Lupton, Hudson, Keenesburg, Gilcrest, and LaSalle, CO: how roll-off quotes are priced and the published permit fees.",
+    readingTime: 5,
+    keywords: [
+      "southern weld county dumpster rental cost",
+      "fort lupton dumpster rental cost",
+      "hudson co dumpster rental cost",
+      "keenesburg dumpster rental cost",
+      "gilcrest dumpster rental cost",
+      "lasalle co dumpster rental cost"
+    ],
+    body: `
+<p>A roll-off quote in southern Weld County is the same handful of numbers as anywhere else. What changes here is the permit line, and in two towns the clock.</p>
+
+<p>The short answer on dumpster rental cost in Fort Lupton, Hudson, Keenesburg, Gilcrest, and LaSalle: the price is built from the container size, the weight it includes, the per-ton overage, the rental days, and delivery to your address. Town permits sit on top, and here they are small or free. I am not publishing a price table for these towns, because I do not have a sourced one. Here is how to read the quote instead.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Get two quotes for the same size and the same rental days. Compare included tons, overage per ton, extension fee, and delivery. Match the rental to the permit window: 30 days in Fort Lupton, 15 in Keenesburg, 14 in Gilcrest, and one month per year for a Hudson cleanup permit. The published permit fees are free in Fort Lupton and Keenesburg and $25 in Gilcrest.</p>
+</div>
+
+<h2 id="how-priced">How a Roll-Off Quote Is Built</h2>
+
+<ul>
+  <li><strong>Container size.</strong> 10, 15, 20, 30, or 40 yards. Bigger costs more, but one larger container can beat two hauls.</li>
+  <li><strong>Included weight.</strong> Every quote includes a tonnage allowance. Shingles, tile, concrete, and soil hit it fast.</li>
+  <li><strong>Overage per ton.</strong> The line that turns a fair quote into an ugly invoice. Get it in writing.</li>
+  <li><strong>Rental period and extensions.</strong> Ask how many days are included and what each extra day costs. In these towns, the permit window can be shorter than the rental.</li>
+  <li><strong>Delivery distance.</strong> Farm addresses east of Hudson and Keenesburg, and around Gilcrest, can sit a long way from the nearest yard. Ask for any trip or fuel charge up front.</li>
+  <li><strong>Debris type.</strong> Clean yard waste, clean concrete, and mixed construction debris can be priced differently.</li>
+</ul>
+
+<p>For the national version of this breakdown, read <a href="/resources/what-does-a-dumpster-rental-cost">what does a dumpster rental cost</a>.</p>
+
+<!--survey-mid-->
+
+<h2 id="permits">The Permit Numbers You Can Look Up</h2>
+
+<p>These are the published local numbers I could verify:</p>
+
+<ul>
+  <li><a href="/locations/fort-lupton-co-dumpster-rental">Fort Lupton</a>: Dumpster Roll Off permit, free, up to 30 days, street or private property (<a href="https://www.fortluptonco.gov/162/Public-Works" target="_blank" rel="noopener noreferrer">City of Fort Lupton</a>).</li>
+  <li><a href="/locations/keenesburg-co-dumpster-rental">Keenesburg</a>: temporary roll-off permit, no fee, 15 days only, parked on the street (<a href="https://www.keenesburg.org/how_do_i/faqs.php" target="_blank" rel="noopener noreferrer">Town of Keenesburg</a>).</li>
+  <li><a href="/locations/gilcrest-co-dumpster-rental">Gilcrest</a>: Rolloff Dumpster Permit, $25, valid 14 days at one address (<a href="https://www.townofgilcrest.org/forms" target="_blank" rel="noopener noreferrer">Town of Gilcrest</a>).</li>
+  <li><a href="/locations/hudson-co-dumpster-rental">Hudson</a>: Dumpster Application, fee listed as variable; most single-family cleanups are limited to one month per year (<a href="https://www.hudsonco.gov/193/Permits-and-Licenses" target="_blank" rel="noopener noreferrer">Town of Hudson</a>).</li>
+  <li><a href="/locations/lasalle-co-dumpster-rental">LaSalle</a>: no dumpster permit published. The $100 Right-of-Way Permit is written for excavation. A residential reroof permit is $125 over the counter on the 2025 schedule (<a href="https://www.lasalletown.com/DocumentCenter/View/1652/2025-Uniform-Fee-Schedule---031125-Revision" target="_blank" rel="noopener noreferrer">Town of LaSalle</a>).</li>
+</ul>
+
+<p>The full rules are in the <a href="/resources/southern-weld-county-dumpster-permits">southern Weld County dumpster permit guide</a>.</p>
+
+<h2 id="time">The Permit Clock Is a Cost</h2>
+
+<p>A short permit window turns extension days into a planning problem. If a Gilcrest job runs past 14 days or a Keenesburg job past 15, you are paying the provider's daily extension fee and asking the Town about a new permit. Book delivery for the day the work starts, not the week before. Ask for a firm pickup date in writing.</p>
+
+<h2 id="sizing">Size the Job Before You Price It</h2>
+
+<p>Most single-home jobs in these towns land in a 10, 15, or 20-yard. A garage cleanout fits a 10. A kitchen remodel fits a 15. A roof tear-off, basement finish, or full-home cleanout fits a 20 by volume, with weight as the catch. Farmhouse estate cleanouts and outbuilding teardowns around Gilcrest and Hudson often run to a 30. In Keenesburg, size to what fits along the curb without crowding the sidewalk. For heavy loads, read <a href="/resources/roofing-dumpster-rental">roofing dumpster rental</a> before the crew starts.</p>
+
+<h2 id="skip-it">When Not to Rent a Dumpster</h2>
+
+<p>Skip the roll-off when the load is a few pieces of furniture and a pile of boxes. A junk removal crew or your hauler's bulk pickup can cost less than any container. In Keenesburg, dead trees and limbs can wait for one of the Town's two free dump days in spring and fall.</p>
+
+<h2 id="quote-checklist">What to Ask Every Provider</h2>
+
+<ul>
+  <li>Container size and included tons</li>
+  <li>Overage per ton</li>
+  <li>Included rental days and the daily extension charge</li>
+  <li>Delivery and any trip fee for your address</li>
+  <li>Who files the town permit, and whether any fee is passed through</li>
+  <li>A firm pickup date inside the permit window</li>
+</ul>
+
+<p>Towns to the west have their own guide: <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>. North toward Greeley: <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area dumpster rental cost</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "How much does a dumpster cost in Fort Lupton, Hudson, Keenesburg, Gilcrest, or LaSalle?",
+            "answer": "It depends on size, included tons, overage per ton, rental days, delivery distance, and debris type. Get two quotes for the same size and the same days and compare every line. I do not publish an unsourced price table for these towns."
+      },
+      {
+            "question": "What permit costs can I plan for?",
+            "answer": "Fort Lupton and Keenesburg publish free dumpster permits. Gilcrest charges $25 for 14 days. Hudson lists its dumpster permit fee as variable. LaSalle has no dumpster permit; its $100 Right-of-Way Permit is written for excavation."
+      },
+      {
+            "question": "Why does the permit window matter for price?",
+            "answer": "Because the rental can outlast it. Gilcrest's permit runs 14 days and Keenesburg's 15. Past that, you pay daily extension fees and need to ask the Town about a new permit."
+      },
+      {
+            "question": "Why do rural addresses cost more to serve?",
+            "answer": "Delivery distance and site access. Farm addresses around Hudson, Keenesburg, and Gilcrest can sit far from the nearest yard, and gravel drives or soft ground can complicate drop-off. Ask for any trip or fuel charge in the quote."
+      },
+      {
+            "question": "When should I skip the dumpster?",
+            "answer": "When the load is a few pieces of furniture or a handful of boxes. Junk removal or a bulk pickup can cost less than any container. In Keenesburg, yard limbs can wait for a free dump day."
+      }
+    ],
+    toc: [
+      { "id": "how-priced", "title": "How a Roll-Off Quote Is Built" },
+      { "id": "permits", "title": "The Permit Numbers You Can Look Up" },
+      { "id": "time", "title": "The Permit Clock Is a Cost" },
       { "id": "sizing", "title": "Size the Job Before You Price It" },
       { "id": "skip-it", "title": "When Not to Rent a Dumpster" },
       { "id": "quote-checklist", "title": "What to Ask Every Provider" },

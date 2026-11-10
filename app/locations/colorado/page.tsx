@@ -390,6 +390,31 @@ const cityCards = [
     slug: 'ault-co-dumpster-rental',
     desc: "Farm crossroads at US-85 and Highway 14 with a $150 ROW permit plus street repair.",
   },
+  {
+    city: 'Fort Lupton',
+    slug: 'fort-lupton-co-dumpster-rental',
+    desc: "US-85 city where a free City permit covers dumpsters on the street or on private property for up to 30 days.",
+  },
+  {
+    city: 'Hudson',
+    slug: 'hudson-co-dumpster-rental',
+    desc: "I-76 town where dumpsters stay on private property and most home cleanups need a Town permit.",
+  },
+  {
+    city: 'Keenesburg',
+    slug: 'keenesburg-co-dumpster-rental',
+    desc: "I-76 town where a temporary roll-off goes on the street, not the driveway, under a free 15-day permit.",
+  },
+  {
+    city: 'Gilcrest',
+    slug: 'gilcrest-co-dumpster-rental',
+    desc: "US-85 farm town with a $25 roll-off permit valid for 14 days at one address.",
+  },
+  {
+    city: 'LaSalle',
+    slug: 'lasalle-co-dumpster-rental',
+    desc: "Railroad town south of Greeley where roofs need a building permit and the ROW permit is written for excavation.",
+  },
 ]
 
 const projects = [

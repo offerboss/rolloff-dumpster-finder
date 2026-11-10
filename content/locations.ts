@@ -22048,4 +22048,759 @@ export const cityLocations: CityLocation[] = [
     longitude: -104.7319,
     pricingPlacementNote: "Ault's ROW permit has a general cost of $150 plus street repair. Placement on your own property needs no ROW permit.",
   },
+
+  // ─── FORT LUPTON (CO) ────────────────────────────────────────
+  {
+    slug: "fort-lupton-co-dumpster-rental",
+    cityName: "Fort Lupton",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Fort Lupton, CO Dumpster Rental",
+    metaDescription: "Fort Lupton, Colorado dumpster rental for cleanouts, roofing, and remodels. Compare roll-off sizes and the free City dumpster permit before you book.",
+    primaryKeyword: "fort lupton co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental fort lupton co",
+      "fort lupton construction dumpster rental",
+      "roll off dumpster fort lupton",
+      "roll off dumpster fort lupton co",
+      "rolloff dumpsters fort lupton",
+      "roll offs fort lupton co",
+      "10 yard dumpster rental fort lupton",
+      "20 yard dumpster rental fort lupton",
+      "30 yard dumpster rental fort lupton",
+      "fort lupton dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Fort Lupton, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for cleanouts, remodels, roofing tear-offs, and farm debris across Fort Lupton and the US-85 corridor in southern Weld County.",
+    introParagraphs: [
+      "Fort Lupton is a Weld County city on US-85 between Brighton and Platteville. The name goes back to 1836, when Lancaster Lupton built an adobe fur trading post on the South Platte. The town grew up a mile south of the old fort, where William Winbourn established it beside a railroad sidetrack in 1881. Cattle, vegetable canning, and a sugar factory built the place. The work here runs from older-home remodels and cleanouts to roofing tear-offs and farm cleanups.",
+      "Fort Lupton asks for a dumpster permit even when the bin sits on private property. The City's Dumpster Roll Off permit covers dumpsters, PODs, and other large containers placed on the street or on private property for cleanup or moving. It is free and can be issued for up to 30 days. Apply through CommunityCore under the permit type Public Works - Dumpster Roll Off. Containers cannot block a neighbor's driveway and must sit 30 feet from corners and alley entrances.",
+      "Rolloff Dumpster Finder helps Fort Lupton homeowners and contractors compare roll-off options across the Fort Lupton, Brighton, and Platteville area. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, driveway length, and whether the bin goes on the street. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Check the City zoning map first to confirm the property is inside City jurisdiction."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Older Home Remodels",
+            "description": "Older Fort Lupton homes produce plaster, old flooring, and tile. Weight climbs fast. A 15 or 20-yard is common. Pick a spot that clears the permit's 30-foot setback from corners and alley entrances."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Fort Lupton starts with a free City permit, on the street or on your own property.",
+    placementNotes: [
+      "Fort Lupton's Dumpster Roll Off permit covers dumpsters, PODs, and large containers placed on the street or on private property for cleanup or moving. It is free and can be issued for up to 30 days.",
+      "Apply through CommunityCore and choose the permit type Public Works - Dumpster Roll Off. The City keeps a kiosk in its office for applicants without a computer, and paper applications are available on request.",
+      "Containers may not block neighboring driveways and must be placed 30 feet from corners or alley entrances.",
+      "For street placement, the application asks for a site plan, and cones must be used around the dumpster. Display the permit on the dumpster in clear view.",
+      "City code Sec. 7-62 bars permanently placing dumpsters or roll-off boxes in front setbacks and street-side yards in residential and commercial areas. A rental is temporary. Keep it that way.",
+      "Check the City zoning map before applying to confirm the property is inside Fort Lupton's jurisdiction. Addresses outside City limits fall under Weld County.",
+      "When in doubt, confirm placement requirements with Fort Lupton Public Works (303-857-6694) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Fort Lupton",
+      "Denver Avenue corridor",
+      "US-85 corridor",
+      "Highway 52 corridor",
+      "Rural Fort Lupton acreage"
+    ],
+    nearbyCities: [
+      "Platteville",
+      "Brighton",
+      "Hudson",
+      "Lochbuie",
+      "Dacono",
+      "Frederick",
+      "Firestone",
+      "Keenesburg",
+      "Gilcrest",
+      "Thornton"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Fort Lupton, CO?",
+            "answer": "Quotes in Fort Lupton are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Fort Lupton, Colorado?",
+            "answer": "In most cases, yes. The City's free Dumpster Roll Off permit covers dumpsters and large containers placed on the street or on private property for cleanup or moving, for up to 30 days. Apply through CommunityCore."
+      },
+      {
+            "question": "Where can a dumpster sit in Fort Lupton?",
+            "answer": "On your driveway, or on the street with a site plan and cones. It cannot block a neighbor's driveway and must be 30 feet from corners and alley entrances. Display the permit on the dumpster."
+      },
+      {
+            "question": "What size dumpster for a Fort Lupton home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Fort Lupton?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Platteville, Brighton, and Hudson?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Platteville, Brighton, Hudson, and Lochbuie. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Fort Lupton?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Fort Lupton?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Fort Lupton dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/fort-lupton-co-dumpster-rental-hero.webp',
+      alt: "Dark green roll-off dumpster on the driveway of a brick ranch house on a tree-lined street in Fort Lupton, Colorado",
+    },
+    latitude: 40.0847,
+    longitude: -104.813,
+    pricingPlacementNote: "Fort Lupton's Dumpster Roll Off permit is free and runs up to 30 days, on the street or on private property.",
+  },
+
+  // ─── HUDSON (CO) ────────────────────────────────────────
+  {
+    slug: "hudson-co-dumpster-rental",
+    cityName: "Hudson",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Hudson, CO Dumpster Rental",
+    metaDescription: "Hudson, Colorado dumpster rental for cleanouts, remodels, and roofing. Compare roll-off sizes and the Town dumpster permit rules before you book.",
+    primaryKeyword: "hudson co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental hudson co",
+      "hudson construction dumpster rental",
+      "roll off dumpster hudson",
+      "roll off dumpster hudson co",
+      "rolloff dumpsters hudson",
+      "roll offs hudson co",
+      "10 yard dumpster rental hudson",
+      "20 yard dumpster rental hudson",
+      "30 yard dumpster rental hudson",
+      "hudson dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Hudson, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for cleanouts, remodels, roofing tear-offs, and farm debris across Hudson and the I-76 corridor in southeast Weld County.",
+    introParagraphs: [
+      "Hudson is a Weld County town on I-76 northeast of Denver. It began in 1883 as a Union Pacific water and supply stop with a post office. John M. Lapp filed the first plat in 1887, and the town incorporated in 1914. The Henrylyn irrigation district, created in 1907, turned the land around it into farm country. That history shows up in the work: farmhouse cleanouts, outbuilding teardowns, remodels, and roofing tear-offs.",
+      "Hudson writes its dumpster rules into the Municipal Code. Sec. 16-147 bars dumpsters at single-family and two-family homes and in R-1 zones, with exceptions. A remodel or repair that needs no building permit, or a general property cleanup, can get a Town dumpster permit for up to one month per year. Construction under a valid building permit needs no dumpster permit. Either way, the dumpster stays on private property and out of the public right-of-way.",
+      "Rolloff Dumpster Finder helps Hudson homeowners and farm owners compare roll-off options across the Hudson, Keenesburg, and Fort Lupton area. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and where the bin will sit on the property. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Get a firm pickup date, because a cleanup permit covers one month a year."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Farm & Acreage Cleanups",
+            "description": "Single-family and two-family homes in agriculturally zoned districts are exempt from Hudson's dumpster permit. Outbuilding cleanouts and fence removal there still need firm ground and room for the truck to turn around."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Hudson is a private-property question. Town code keeps dumpsters out of the public right-of-way.",
+    placementNotes: [
+      "Hudson Municipal Code Sec. 16-147 requires dumpsters to be located on private property and not placed in the public right-of-way.",
+      "At single-family and two-family homes, a remodel or repair that does not need a building permit, or a general property cleanup, needs a Town dumpster permit. It covers up to one month per year.",
+      "No dumpster permit is needed during construction under a valid building permit. The dumpster must be removed within 30 days after the certificate of occupancy is issued.",
+      "Single-family and two-family homes in agriculturally zoned districts are exempt from the dumpster permit.",
+      "Debris overflowing a dumpster is declared a public nuisance under Town code. Size up instead of heaping the load.",
+      "The Town's Dumpster Application asks for the zoning district, the dumpster's location on the property, and arrival and pickup dates. The Town permits page lists the fee as variable.",
+      "When in doubt, confirm placement requirements with Hudson Town Hall (303-536-9311) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Hudson",
+      "Original town plat",
+      "I-76 corridor",
+      "Rural Hudson acreage"
+    ],
+    nearbyCities: [
+      "Keenesburg",
+      "Lochbuie",
+      "Fort Lupton",
+      "Brighton",
+      "Platteville",
+      "Commerce City",
+      "Thornton",
+      "Gilcrest",
+      "Dacono",
+      "Greeley"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Hudson, CO?",
+            "answer": "Quotes in Hudson are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Hudson, Colorado?",
+            "answer": "Often, yes. At single-family and two-family homes, a cleanup or a remodel that needs no building permit requires a Town dumpster permit, good for up to one month per year. Work under a valid building permit and homes in agricultural zones need no dumpster permit. The dumpster stays on private property either way."
+      },
+      {
+            "question": "Can I put a dumpster in the street in Hudson?",
+            "answer": "No. Hudson Municipal Code Sec. 16-147 says dumpsters shall be located on private property and shall not be placed in the public right-of-way."
+      },
+      {
+            "question": "What size dumpster for a Hudson home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Hudson?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Keenesburg, Lochbuie, and Fort Lupton?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Keenesburg, Lochbuie, Fort Lupton, and Brighton. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Hudson?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Hudson?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Hudson dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/hudson-co-dumpster-rental-hero.webp',
+      alt: "Gray roll-off dumpster on the driveway of a two-story home with farm fields beyond in Hudson, Colorado",
+    },
+    latitude: 40.0736,
+    longitude: -104.6433,
+    pricingPlacementNote: "Hudson keeps dumpsters on private property. A cleanup permit at a single-family home covers up to one month per year.",
+  },
+
+  // ─── KEENESBURG (CO) ────────────────────────────────────────
+  {
+    slug: "keenesburg-co-dumpster-rental",
+    cityName: "Keenesburg",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Keenesburg, CO Dumpster Rental",
+    metaDescription: "Keenesburg, Colorado dumpster rental for cleanouts and remodels. Compare roll-off sizes and the Town's free 15-day roll-off permit before you book.",
+    primaryKeyword: "keenesburg co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental keenesburg co",
+      "keenesburg construction dumpster rental",
+      "roll off dumpster keenesburg",
+      "roll off dumpster keenesburg co",
+      "rolloff dumpsters keenesburg",
+      "roll offs keenesburg co",
+      "10 yard dumpster rental keenesburg",
+      "20 yard dumpster rental keenesburg",
+      "30 yard dumpster rental keenesburg",
+      "keenesburg dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Keenesburg, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for cleanouts, remodels, roofing tear-offs, and yard debris across Keenesburg and the I-76 corridor in southeast Weld County.",
+    introParagraphs: [
+      "Keenesburg is a Weld County town on I-76 east of Hudson. It started as Keene Station on the Burlington line in 1882, named for homesteader Les Keene, and shipped cattle from the yearly drives. The post office opened in 1907 as Keenesburg, to avoid confusion with Keene, Nebraska. The town incorporated in 1919. Most early residents raised livestock or dry-land farmed. The work now is cleanouts, remodels, roofing tear-offs, and yard debris.",
+      "Keenesburg flips the usual placement rule. The Town says a temporary roll-off is allowed with a no-fee permit for a 15-day period only, and it must be parked on the street, not on the driveway, so it does not disturb the right-of-way at the sidewalk. Outside that temporary permit, containers over 96 gallons are not allowed in R-1 zones or on single-family lots, except estate zoning of one acre or more.",
+      "Rolloff Dumpster Finder helps Keenesburg homeowners compare roll-off options across the Keenesburg, Hudson, and Fort Lupton area. Availability depends on which providers cover your address. Tell each provider the bin goes on the street under a Town permit, and book pickup inside 15 days. Ask for the included weight allowance, overage rate per ton, and daily extension fee. The Town lists Buffalo Ridge, at 11655 WCR 59, as the local dump."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Tree & Limb Cleanup",
+            "description": "Open burning is prohibited in Keenesburg under Ordinance 2021-02. The Town holds two free dump days, in spring and fall, for dead trees and limbs. Use those for a light load. Rent a roll-off when the pile is bigger or cannot wait."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Keenesburg is a street question. The Town wants temporary roll-offs on the street, not the driveway.",
+    placementNotes: [
+      "A temporary roll-off is allowed with a no-fee Town permit for a 15-day period only.",
+      "The Town says the roll-off must be parked on the street and not on the driveway, so it does not disturb the right-of-way at the sidewalk.",
+      "Keep the sidewalk clear and leave room for traffic. Ask the Town which form it wants; its document center lists a ROW / Access Permit Application.",
+      "Outside the temporary permit, containers over 96 gallons are not allowed in R-1 zones or on single-family lots, except estate zoning of one acre or more.",
+      "Plan pickup inside the 15 days. Ask the provider about the daily extension fee and early pickup.",
+      "When in doubt, confirm placement requirements with the Town of Keenesburg and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Keenesburg",
+      "Market Street",
+      "Broadway Avenue",
+      "I-76 corridor",
+      "Rural Keenesburg acreage"
+    ],
+    nearbyCities: [
+      "Hudson",
+      "Lochbuie",
+      "Fort Lupton",
+      "Brighton",
+      "Platteville",
+      "Gilcrest",
+      "Commerce City",
+      "Greeley",
+      "Thornton",
+      "Fort Morgan"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Keenesburg, CO?",
+            "answer": "Quotes in Keenesburg are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Keenesburg, Colorado?",
+            "answer": "Yes. The Town allows a temporary roll-off with a no-fee permit for a 15-day period only. The Town also says the roll-off goes on the street, not on the driveway."
+      },
+      {
+            "question": "Why does a Keenesburg roll-off go on the street?",
+            "answer": "The Town's FAQ says temporary roll-offs must be parked on the street and not on the driveway, so they do not disturb the right-of-way at the sidewalk. Confirm the exact spot with the Town before delivery."
+      },
+      {
+            "question": "What size dumpster for a Keenesburg home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Keenesburg?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Hudson, Lochbuie, and Fort Lupton?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Hudson, Lochbuie, Fort Lupton, and Brighton. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Keenesburg?",
+            "answer": "The Town permit covers a 15-day period only. Provider rental periods vary, so confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Keenesburg?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Keenesburg dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/keenesburg-co-dumpster-rental-hero.webp',
+      alt: "Blue roll-off dumpster parked at the curb between traffic cones on an open street in Keenesburg, Colorado",
+    },
+    latitude: 40.1083,
+    longitude: -104.5197,
+    pricingPlacementNote: "Keenesburg allows a temporary roll-off with a no-fee permit for 15 days, parked on the street rather than the driveway.",
+  },
+
+  // ─── GILCREST (CO) ────────────────────────────────────────
+  {
+    slug: "gilcrest-co-dumpster-rental",
+    cityName: "Gilcrest",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Gilcrest, CO Dumpster Rental",
+    metaDescription: "Gilcrest, Colorado dumpster rental for cleanouts, roofing, and remodels. Compare roll-off sizes and the Town's $25, 14-day roll-off permit before you book.",
+    primaryKeyword: "gilcrest co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental gilcrest co",
+      "gilcrest construction dumpster rental",
+      "roll off dumpster gilcrest",
+      "roll off dumpster gilcrest co",
+      "rolloff dumpsters gilcrest",
+      "roll offs gilcrest co",
+      "10 yard dumpster rental gilcrest",
+      "20 yard dumpster rental gilcrest",
+      "30 yard dumpster rental gilcrest",
+      "gilcrest dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Gilcrest, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for cleanouts, remodels, roofing tear-offs, and farm debris across Gilcrest and the US-85 corridor between Platteville and LaSalle.",
+    introParagraphs: [
+      "Gilcrest is a small Weld County town on US-85 between Platteville and LaSalle. It was built on the remains of Nantes, a failing railroad town, after Iowa lumberman W. K. Gilcrest bought much of the land in 1907 and renamed it for his father. Within a couple of years about 1,000 trees had been planted around the park and streets. From 1913 to 1977, a sugar beet dump operated at the railroad station. The work here is farmhouse cleanouts, remodels, and roofing tear-offs.",
+      "Gilcrest publishes a Rolloff Dumpster Permit Application. The fee is $25. The permit is valid for 14 days, and only at the placement address on the form. The application asks for the purpose, the placement address, and the placement and expiration dates, and it goes to the Town by email. The form does not say whether a bin on your own driveway needs it, so ask Town Hall before delivery.",
+      "Rolloff Dumpster Finder helps Gilcrest homeowners and farm owners compare roll-off options across the Gilcrest, Platteville, and LaSalle area. Availability depends on which providers cover your address, and rural delivery distance matters. Give each provider the address, the project type, and any gravel drive or soft ground. Ask for the included weight allowance, overage rate per ton, and daily extension fee. Book pickup inside the 14-day permit window."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Farmhouse & Estate Cleanouts",
+            "description": "Older homes and farm properties around Gilcrest produce furniture, boxes, and decades of stored items. A 20 or 30-yard is common. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "A 20-yard holds most residential tear-offs by volume. Weight matters more. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "03",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "04",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "05",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "06",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "07",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "08",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in Gilcrest runs through a Town roll-off permit with a 14-day limit.",
+    placementNotes: [
+      "The Town of Gilcrest Rolloff Dumpster Permit costs $25 and is valid for 14 days, only at the location on the application.",
+      "The form asks for the name or business, a contact person, the purpose, the placement address, the date of placement, and the expiration date. Email it to the Town at the address printed on the form.",
+      "The form does not say whether driveway placement needs the permit. Ask Town Hall before delivery.",
+      "Town Hall is at 19750 County Road 31. It is open Tuesday to Friday 10 am to 6 pm and Saturday 10 am to 2 pm, and closed Sunday and Monday. Plan the permit around those hours.",
+      "Rural and acreage lots: tell the provider about gravel drives, soft ground, gates, and where the truck can turn around.",
+      "Addresses outside Town limits fall under Weld County, not the Town.",
+      "When in doubt, confirm placement requirements with Gilcrest Town Hall (970-737-2426) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Gilcrest",
+      "Gilcrest Park area",
+      "US-85 corridor",
+      "Rural Gilcrest acreage"
+    ],
+    nearbyCities: [
+      "Platteville",
+      "LaSalle",
+      "Evans",
+      "Greeley",
+      "Milliken",
+      "Johnstown",
+      "Fort Lupton",
+      "Kersey",
+      "Hudson",
+      "Firestone"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in Gilcrest, CO?",
+            "answer": "Quotes in Gilcrest are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in Gilcrest, Colorado?",
+            "answer": "Plan on it. Gilcrest publishes a Rolloff Dumpster Permit Application with a $25 fee, valid for 14 days at one placement address. The form does not say whether a bin on your own driveway needs it, so call Town Hall at 970-737-2426."
+      },
+      {
+            "question": "When is Gilcrest Town Hall open for permits?",
+            "answer": "Tuesday through Friday 10 am to 6 pm and Saturday 10 am to 2 pm. It is closed Sunday and Monday. Send the application early so a Monday delivery is not held up."
+      },
+      {
+            "question": "What size dumpster for a Gilcrest home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in Gilcrest?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Platteville, LaSalle, and Evans?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Platteville, LaSalle, Evans, and Greeley. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in Gilcrest?",
+            "answer": "The Town roll-off permit runs 14 days at one address. Provider rental periods vary, so confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in Gilcrest?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a Gilcrest dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/gilcrest-co-dumpster-rental-hero.webp',
+      alt: "Dark green roll-off dumpster on the gravel drive of an older farmhouse under large shade trees in Gilcrest, Colorado",
+    },
+    latitude: 40.2819,
+    longitude: -104.7778,
+    pricingPlacementNote: "Gilcrest's Rolloff Dumpster Permit is $25 and valid for 14 days at one placement address.",
+  },
+
+  // ─── LASALLE (CO) ────────────────────────────────────────
+  {
+    slug: "lasalle-co-dumpster-rental",
+    cityName: "LaSalle",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "LaSalle, CO Dumpster Rental",
+    metaDescription: "LaSalle, Colorado dumpster rental for roofing, remodels, and cleanouts. Compare roll-off sizes, the Town reroof permit, and right-of-way rules before you book.",
+    primaryKeyword: "lasalle co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental lasalle co",
+      "lasalle construction dumpster rental",
+      "roll off dumpster lasalle",
+      "roll off dumpster lasalle co",
+      "rolloff dumpsters lasalle",
+      "roll offs lasalle co",
+      "10 yard dumpster rental lasalle",
+      "20 yard dumpster rental lasalle",
+      "30 yard dumpster rental lasalle",
+      "lasalle dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in LaSalle, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for roofing tear-offs, remodels, cleanouts, and farm debris across LaSalle and the US-85 corridor south of Greeley.",
+    introParagraphs: [
+      "LaSalle is a Weld County town on US-85 just south of Evans and Greeley. The Denver Pacific reached the site in 1870, and the town grew after the Union Pacific met that line here in 1881. By 1910 LaSalle was a railroad base with an engine roundhouse, and residents voted to incorporate that April. The Town credits the name to early settler D. S. Ellis, who came from LaSalle, Illinois. The work here is roofing tear-offs, older-home remodels, and cleanouts.",
+      "Roofing is where LaSalle's rules show up first. The Town lists roofs among the projects that need a building permit, and the 2025 fee schedule sets the over-the-counter residential reroof fee at $125. Starting without the permit costs more: the Town warns fees may be doubled, and the schedule sets the investigation or violation fee at two times the permit fee. Inspections go through ProCode, the Town's contracted building inspection agency.",
+      "Rolloff Dumpster Finder helps LaSalle homeowners and contractors compare roll-off options across the LaSalle, Evans, and Greeley area. Availability depends on which providers cover your address. When you request quotes, give the address, the project type, and driveway length. Ask each provider for the included weight allowance, overage rate per ton, rental period, and daily extension fee. A driveway placement keeps the job out of the Town right-of-way process."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Roofing Tear-Offs",
+            "description": "LaSalle requires a building permit for roofs, with a $125 over-the-counter residential reroof fee on the 2025 schedule. A 20-yard holds most residential tear-offs by volume. Confirm the included tonnage before the crew starts loading."
+      },
+      {
+            "number": "02",
+            "name": "Kitchen & Bath Remodels",
+            "description": "Cabinets are bulky. Tile and cast iron are heavy. A 15-yard covers most single-kitchen jobs. Step up to a 20-yard if a bathroom is part of the same project."
+      },
+      {
+            "number": "03",
+            "name": "Home Cleanouts",
+            "description": "Getting a house ready to list usually produces more debris than expected. A full-home cleanout typically fills a 20-yard. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "04",
+            "name": "Basement & Garage Cleanouts",
+            "description": "A typical garage cleanout fits in a 10-yard. A full basement with furniture and boxes often needs a 15 or 20-yard. Keep chemicals out of the load."
+      },
+      {
+            "number": "05",
+            "name": "Yard Waste & Landscaping",
+            "description": "Fence rebuilds, shrub removal, and sod changes fill a container fast. Branches are light. Soil and rock are not. Ask if clean yard waste prices differently from mixed loads."
+      },
+      {
+            "number": "06",
+            "name": "Flooring Removal",
+            "description": "Carpet and pad are light. Tile, stone, and hardwood with underlayment add weight fast. A 10-yard handles a few rooms of carpet. Whole-house tile often needs a 15-yard with a clear weight allowance."
+      },
+      {
+            "number": "07",
+            "name": "Construction Debris",
+            "description": "Additions and rebuilds produce framing scraps, drywall, and packaging. A 20 or 30-yard is common for a single-home project. Flag tight streets and HOA rules when you book."
+      }
+    ],
+    placementIntro: "Dumpster placement in LaSalle usually happens on your own driveway. The Town's right-of-way permit is written for excavation.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup. The Town does not publish a separate dumpster permit.",
+      "LaSalle's Right-of-Way Permit is $100 and needs a minimum of 5 working days for approval. The form is written for excavation and asks for a traffic control plan, a certificate of insurance, and a map of the work location. Ask Public Works before planning a bin in the street.",
+      "Sidewalk, curb, and gutter repairs are the homeowner's responsibility in LaSalle. Ask the provider to put boards under the rails if the truck has to cross the curb or sidewalk.",
+      "The Town plows most of its streets and asks residents to move cars and trailers off the street during snowstorms. A street-side bin in winter works against that.",
+      "Roof replacement needs a building permit. The 2025 fee schedule lists a $125 over-the-counter residential reroof fee.",
+      "When in doubt, confirm placement requirements with LaSalle Town Hall (970-284-6931) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown LaSalle",
+      "Original town grid",
+      "US-85 corridor",
+      "Rural LaSalle acreage"
+    ],
+    nearbyCities: [
+      "Evans",
+      "Greeley",
+      "Gilcrest",
+      "Kersey",
+      "Garden City",
+      "Platteville",
+      "Milliken",
+      "Johnstown",
+      "Windsor",
+      "Fort Lupton"
+    ],
+    faq: [
+      {
+            "question": "How much does dumpster rental cost in LaSalle, CO?",
+            "answer": "Quotes in LaSalle are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
+      },
+      {
+            "question": "Do I need a permit for a dumpster in LaSalle, Colorado?",
+            "answer": "The Town does not publish a dumpster permit for a bin on your own driveway. For the street, LaSalle's Right-of-Way Permit is $100 with at least 5 working days for approval, but the form is written for excavation. Call Public Works at 970-284-5625 before planning street placement."
+      },
+      {
+            "question": "Does a LaSalle roof replacement need a permit?",
+            "answer": "Yes. The Town lists roofs among the projects that need a building permit, and the 2025 fee schedule sets the over-the-counter residential reroof fee at $125. Get the permit before the tear-off starts."
+      },
+      {
+            "question": "What size dumpster for a LaSalle home cleanout?",
+            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
+      },
+      {
+            "question": "Can I get a dumpster for roofing debris in LaSalle?",
+            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
+      },
+      {
+            "question": "Do you serve nearby towns like Evans, Greeley, and Gilcrest?",
+            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Evans, Greeley, Gilcrest, and Kersey. Availability and pricing depend on which providers cover your delivery address."
+      },
+      {
+            "question": "How long can I keep a dumpster rental in LaSalle?",
+            "answer": "Rental periods vary by provider. Confirm the included days and the daily extension charge before booking."
+      },
+      {
+            "question": "What about concrete, dirt, or heavy debris in LaSalle?",
+            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
+      },
+      {
+            "question": "Are there items I cannot put in a LaSalle dumpster?",
+            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/lasalle-co-dumpster-rental-hero.webp',
+      alt: "Dark green roll-off dumpster holding roofing debris on the driveway of an older two-story house in LaSalle, Colorado",
+    },
+    latitude: 40.3486,
+    longitude: -104.7019,
+    pricingPlacementNote: "LaSalle's right-of-way permit is $100 and is written for excavation. Roof replacement needs a building permit, with a $125 reroof fee on the 2025 schedule.",
+  },
 ]

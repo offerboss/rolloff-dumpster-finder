@@ -1121,5 +1121,47 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/fort-lupton-co-dumpster-rental',
+      lastModified: new Date('2026-11-10'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/hudson-co-dumpster-rental',
+      lastModified: new Date('2026-11-10'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/keenesburg-co-dumpster-rental',
+      lastModified: new Date('2026-11-10'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/gilcrest-co-dumpster-rental',
+      lastModified: new Date('2026-11-10'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/lasalle-co-dumpster-rental',
+      lastModified: new Date('2026-11-10'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/southern-weld-county-dumpster-permits',
+      lastModified: new Date('2026-11-10'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/southern-weld-county-dumpster-rental-cost',
+      lastModified: new Date('2026-11-10'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
 ]
 }

@@ -370,6 +370,20 @@ const resourceCards = [
       'How roll-off quotes are built in Timnath, Severance, Wellington, Eaton, and Ault: size, included tons, overage, rental days, rural delivery, and the right-of-way fees you can look up.',
     href: '/resources/fort-collins-greeley-area-dumpster-rental-cost',
   },
+  {
+    badge: 'Geo Guide',
+    title: 'Southern Weld County Dumpster Permits',
+    excerpt:
+      'Fort Lupton, Hudson, Keenesburg, Gilcrest, and LaSalle side by side: which town permits private property, which bans the street, which wants the street, and the permit windows that apply.',
+    href: '/resources/southern-weld-county-dumpster-permits',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'Southern Weld County Dumpster Rental Cost',
+    excerpt:
+      'How roll-off quotes are built in Fort Lupton, Hudson, Keenesburg, Gilcrest, and LaSalle: size, included tons, overage, rental days, rural delivery, and short permit windows.',
+    href: '/resources/southern-weld-county-dumpster-rental-cost',
+  },
 ]
 
 export default function ResourcesPage() {
