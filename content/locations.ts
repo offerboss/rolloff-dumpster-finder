@@ -22613,40 +22613,20 @@ export const cityLocations: CityLocation[] = [
     ],
     faq: [
       {
-            "question": "How much does dumpster rental cost in Gilcrest, CO?",
-            "answer": "Quotes in Gilcrest are built from the container size, the included weight allowance, the overage rate per ton, the rental period, delivery distance, and disposal fees for your debris type. Ask every provider to quote the same size and the same rental days so the numbers compare."
-      },
-      {
             "question": "Do I need a permit for a dumpster in Gilcrest, Colorado?",
             "answer": "Plan on it. Gilcrest publishes a Rolloff Dumpster Permit Application with a $25 fee, valid for 14 days at one placement address. The form does not say whether a bin on your own driveway needs it, so call Town Hall at 970-737-2426."
       },
       {
             "question": "When is Gilcrest Town Hall open for permits?",
-            "answer": "Tuesday through Friday 10 am to 6 pm and Saturday 10 am to 2 pm. It is closed Sunday and Monday. Send the application early so a Monday delivery is not held up."
+            "answer": "Tuesday through Friday 10 am to 6 pm and Saturday 10 am to 2 pm. It is closed Sunday and Monday. Town Hall is at 19750 County Road 31. Send the application early so a Monday delivery is not held up."
       },
       {
-            "question": "What size dumpster for a Gilcrest home cleanout?",
-            "answer": "A garage cleanout often fits a 10-yard. A full-home cleanout usually needs a 20-yard. Estate jobs can run to a 30-yard. Price a second haul against one larger container before you book."
-      },
-      {
-            "question": "Can I get a dumpster for roofing debris in Gilcrest?",
-            "answer": "Yes. A 20-yard is the common size for a residential tear-off by volume. Confirm the included tonnage and overage rate before the roof comes off."
-      },
-      {
-            "question": "Do you serve nearby towns like Platteville, LaSalle, and Evans?",
-            "answer": "Rolloff Dumpster Finder helps customers across northern Colorado, including Platteville, LaSalle, Evans, and Greeley. Availability and pricing depend on which providers cover your delivery address."
+            "question": "What does the Gilcrest roll-off permit application ask for?",
+            "answer": "The application asks for the purpose, the placement address, and the placement and expiration dates, and it goes to the Town by email. The permit is valid only at the placement address on the form."
       },
       {
             "question": "How long can I keep a dumpster rental in Gilcrest?",
             "answer": "The Town roll-off permit runs 14 days at one address. Provider rental periods vary, so confirm the included days and the daily extension charge before booking."
-      },
-      {
-            "question": "What about concrete, dirt, or heavy debris in Gilcrest?",
-            "answer": "Concrete, brick, dirt, and rock usually need a heavy-debris container, often a 10-yard or smaller. They reach the weight limit well before the container looks full. Tell the provider exactly what is going in."
-      },
-      {
-            "question": "Are there items I cannot put in a Gilcrest dumpster?",
-            "answer": "Paint, solvents, motor oil, batteries, propane tanks, tires, appliances with refrigerant, and asbestos-containing material are commonly prohibited in standard roll-off containers. Restricted items vary by provider and disposal facility, so ask for the full list before loading."
       }
     ],
     heroImage: {

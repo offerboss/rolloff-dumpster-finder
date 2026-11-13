@@ -44,120 +44,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-// ─── Shared static content (same for all city pages) ──────────
-
-const sizeGuide = [
-  {
-    size: '10 Yard',
-    capacity: '~3 pickup truck loads',
-    goodFor: [
-      'Small garage or room cleanout',
-      'Minor bathroom remodel',
-      'Small roofing job',
-      'Yard debris cleanup',
-    ],
-    note: 'The smallest standard container. Right for focused, single-space jobs.',
-  },
-  {
-    size: '15 Yard',
-    capacity: '~4.5 pickup truck loads',
-    goodFor: [
-      'Bathroom remodel',
-      'Medium cleanout',
-      'Deck removal (small)',
-      'Landscaping debris',
-    ],
-    note: 'A good middle option when a 10-yard feels tight but a 20-yard seems excessive.',
-  },
-  {
-    size: '20 Yard',
-    capacity: '~6 pickup truck loads',
-    goodFor: [
-      'Kitchen or basement remodel',
-      'Full roof tear-off',
-      'Whole-home cleanout',
-      'Deck removal (large)',
-    ],
-    note: 'The most-booked size. Handles most remodels, roofing jobs, and full-home cleanouts comfortably.',
-  },
-  {
-    size: '30 Yard',
-    capacity: '~9 pickup truck loads',
-    goodFor: [
-      'Large renovation',
-      'Estate cleanout',
-      'New construction cleanup',
-      'Mixed C&D debris',
-    ],
-    note: 'Step up to a 30-yard when the job is big or when you want buffer room to avoid a second pull.',
-  },
-  {
-    size: '40 Yard',
-    capacity: '~12 pickup truck loads',
-    goodFor: [
-      'Major construction project',
-      'Commercial renovation',
-      'Large demolition',
-      'Multi-unit cleanout',
-    ],
-    note: 'The largest standard container. Typically reserved for commercial jobs and major construction.',
-  },
-]
-
-const accepted = [
-  'Household junk and furniture',
-  'Construction lumber and wood',
-  'Drywall and plaster',
-  'Flooring (carpet, hardwood, tile)',
-  'Roofing shingles and materials',
-  'Yard waste (check with provider)',
-  'Non-hazardous renovation debris',
-  'Metal scraps and fixtures',
-  'Glass and windows',
-  'Cardboard and packaging',
-]
-
-const restricted = [
-  'Paint and solvents',
-  'Chemicals and pesticides',
-  'Motor oil and automotive fluids',
-  'Propane tanks',
-  'Batteries (car and household)',
-  'Tires',
-  'Appliances containing refrigerants (freon)',
-  'Asbestos-containing materials',
-  'Hazardous waste of any kind',
-  'Electronics (e-waste) — varies by provider',
-  'Concrete, dirt, brick, asphalt (require special heavy-debris containers)',
-]
-
-const processSteps = [
-  {
-    step: '01',
-    title: 'Tell us about your project',
-    description:
-      'Share your city, project type, and approximate debris volume. The more specific you are, the more accurate the quote.',
-  },
-  {
-    step: '02',
-    title: 'Choose the right size',
-    description:
-      'Pick a container size based on your project. Use the size guide above or ask — getting the size right the first time avoids paying for a second pull.',
-  },
-  {
-    step: '03',
-    title: 'Schedule delivery',
-    description:
-      'Confirm a delivery date and placement location. Make sure the area is clear of vehicles, overhead lines, and any access obstacles before the truck arrives.',
-  },
-  {
-    step: '04',
-    title: 'Fill it and call for pickup',
-    description:
-      "Fill the container at your pace during the rental period. When you're done, call for pickup. Pickup is included in your flat-rate quote to the stated weight limit.",
-  },
-]
-
 // ─── Page component ───────────────────────────────────────────
 
 export default async function CityPage({ params }: Props) {
@@ -378,48 +264,20 @@ export default async function CityPage({ params }: Props) {
         </div>
       </section>
 
-      {/* ── 4. Size Guide ──────────────────────────────────── */}
+      {/* ── 4. Size Guide (short link to the shared size guide) ── */}
       <section className="bg-charcoal py-16 px-8" id="dumpster-sizes">
-        <div className="max-w-[1200px] mx-auto mb-10">
+        <div className="max-w-[1200px] mx-auto">
           <div className="w-10 h-[3px] bg-orange rounded-sm mb-5" />
           <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-white tracking-tight mb-3">
-            What Size Dumpster Do You Need?
+            Dumpster sizes for {city.cityName} projects
           </h2>
           <p className="text-[15px] text-white/[.52] max-w-[640px] leading-[1.65]">
-            For many {city.cityName} homeowners, a 20-yard dumpster covers most remodels, roofing
-            jobs, and whole-home cleanouts without being oversized. Here is the full breakdown by
-            container size.
-          </p>
-        </div>
-        <div className="max-w-[1200px] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
-          {sizeGuide.map((s) => (
-            <div
-              key={s.size}
-              className="bg-white/[.05] border border-white/[.08] border-t-2 border-t-orange rounded-sm p-5 flex flex-col"
-            >
-              <p className="text-[22px] font-extrabold text-orange tracking-tight mb-1">{s.size}</p>
-              <p className="text-[11px] text-white/[.4] mb-4">{s.capacity}</p>
-              <ul className="space-y-[6px] flex-1 mb-4">
-                {s.goodFor.map((item) => (
-                  <li key={item} className="flex items-start gap-2 text-[12px] text-white/[.65] leading-[1.5]">
-                    <span className="w-[5px] h-[5px] rounded-full bg-orange mt-[5px] shrink-0" aria-hidden="true" />
-                    {item}
-                  </li>
-                ))}
-              </ul>
-              <p className="text-[11px] text-white/[.36] leading-[1.5] border-t border-white/[.08] pt-3 mt-auto">
-                {s.note}
-              </p>
-            </div>
-          ))}
-        </div>
-        <div className="max-w-[1200px] mx-auto mt-8 text-center">
-          <p className="text-[14px] text-white/[.5]">
-            Not sure which size fits your project?{' '}
+            Providers serving {city.cityName} deliver the standard 10- to 40-yard roll-off containers.
+            The{' '}
             <Link href="/resources/how-to-choose-the-right-dumpster-size" className="text-orange underline underline-offset-2 hover:no-underline">
-              Read the dumpster size guide
-            </Link>
-            .
+              dumpster size guide
+            </Link>{' '}
+            explains how those sizes compare and how to match one to a remodel, a roofing job, or a cleanout.
           </p>
         </div>
       </section>
@@ -490,48 +348,16 @@ export default async function CityPage({ params }: Props) {
         <div className="max-w-[1200px] mx-auto">
           <div className="w-10 h-[3px] bg-orange rounded-sm mb-5" />
           <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-charcoal tracking-tight mb-3">
-            What Can You Put in a Roll Off Dumpster?
+            What can go in a dumpster in {city.cityName}
           </h2>
-          <p className="text-[15px] text-[#6B7280] max-w-[640px] leading-[1.65] mb-10">
-            Accepted and restricted items vary by provider and disposal facility. Always confirm
-            with your rental company if you have items you are not sure about.
-          </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {/* Accepted */}
-            <div className="bg-[#F0FAF4] border border-green-200 rounded-md p-6">
-              <p className="text-[11px] font-bold uppercase tracking-[.1em] text-green-700 mb-4">
-                Commonly Accepted
-              </p>
-              <ul className="space-y-[10px]">
-                {accepted.map((item) => (
-                  <li key={item} className="flex items-start gap-3 text-[14px] text-[#374151] leading-[1.5]">
-                    <span className="w-2 h-2 rounded-full bg-green-500 mt-[5px] shrink-0" aria-hidden="true" />
-                    {item}
-                  </li>
-                ))}
-              </ul>
-            </div>
-            {/* Restricted */}
-            <div className="bg-[#FFF7F0] border border-orange-200 rounded-md p-6">
-              <p className="text-[11px] font-bold uppercase tracking-[.1em] text-orange mb-4">
-                Commonly Restricted
-              </p>
-              <ul className="space-y-[10px]">
-                {restricted.map((item) => (
-                  <li key={item} className="flex items-start gap-3 text-[14px] text-[#374151] leading-[1.5]">
-                    <span className="w-2 h-2 rounded-full bg-orange mt-[5px] shrink-0" aria-hidden="true" />
-                    {item}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          </div>
-          <p className="mt-6 text-[14px] text-[#6B7280]">
-            For the full list of accepted and prohibited items, read our guide to{' '}
+          <p className="text-[15px] text-[#6B7280] max-w-[640px] leading-[1.65]">
+            Accepted and restricted items in {city.cityName} depend on the provider and the disposal
+            facility that will take the load. Confirm anything unusual with the rental company before
+            loading, and use our guide to{' '}
             <Link href="/resources/what-can-you-put-in-a-roll-off-dumpster" className="text-orange underline underline-offset-2 hover:no-underline">
               what can go in a roll-off dumpster
-            </Link>
-            .
+            </Link>{' '}
+            for the accepted and prohibited lists.
           </p>
         </div>
       </section>
@@ -617,28 +443,23 @@ export default async function CityPage({ params }: Props) {
 
       {/* ── 9. Rental Process ──────────────────────────────── */}
       <section className="bg-charcoal py-16 px-8">
-        <div className="max-w-[1200px] mx-auto mb-10">
+        <div className="max-w-[1200px] mx-auto">
           <div className="w-10 h-[3px] bg-orange rounded-sm mb-5" />
           <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-white tracking-tight mb-3">
-            How Dumpster Rental Works in {city.cityName}
+            How dumpster rental works in {city.cityName}
           </h2>
-          <p className="text-[15px] text-white/[.52] max-w-[520px] leading-[1.65]">
-            Four steps from first contact to final pickup.
+          <p className="text-[15px] text-white/[.52] max-w-[640px] leading-[1.65]">
+            A {city.cityName} rental typically starts with a quote and a delivery appointment, then a
+            loading period and a pickup. Our guide to{' '}
+            <Link href="/resources/how-to-choose-a-dumpster-rental-company" className="text-orange underline underline-offset-2 hover:no-underline">
+              choosing a dumpster rental company
+            </Link>{' '}
+            covers what to compare on the quote, and{' '}
+            <Link href="/resources/how-long-can-you-keep-a-rental-dumpster" className="text-orange underline underline-offset-2 hover:no-underline">
+              how long you can keep a rental dumpster
+            </Link>{' '}
+            covers the rental window and extensions.
           </p>
-        </div>
-        <div className="max-w-[1200px] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-          {processSteps.map((s) => (
-            <div
-              key={s.step}
-              className="bg-white/[.05] border border-white/[.08] rounded-sm p-6"
-            >
-              <div className="text-[36px] font-extrabold text-orange leading-none mb-4 tracking-tight">
-                {s.step}
-              </div>
-              <p className="text-[14px] font-bold text-white mb-2 leading-[1.3]">{s.title}</p>
-              <p className="text-[13px] text-white/[.48] leading-[1.65]">{s.description}</p>
-            </div>
-          ))}
         </div>
       </section>
 
