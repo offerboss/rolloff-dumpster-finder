@@ -384,6 +384,20 @@ const resourceCards = [
       'How roll-off quotes are built in Fort Lupton, Hudson, Keenesburg, Gilcrest, and LaSalle: size, included tons, overage, rental days, rural delivery, and short permit windows.',
     href: '/resources/southern-weld-county-dumpster-rental-cost',
   },
+  {
+    badge: 'Geo Guide',
+    title: 'Weld County Town Dumpster Permits',
+    excerpt:
+      'Mead, Lochbuie, Kersey, Pierce, and Nunn side by side: Lochbuie\'s 72-hour rule, Mead\'s street obstruction permit and its daily extension fee, and the towns with no dumpster permit at all.',
+    href: '/resources/weld-county-towns-dumpster-permits',
+  },
+  {
+    badge: 'Geo Guide',
+    title: 'Weld County Town Dumpster Rental Cost',
+    excerpt:
+      'How roll-off quotes are built in Mead, Lochbuie, Kersey, Pierce, and Nunn: size, included tons, overage, rental days, rural delivery, and the Town fees and deadlines you can look up.',
+    href: '/resources/weld-county-towns-dumpster-rental-cost',
+  },
 ]
 
 export default function ResourcesPage() {

@@ -9700,7 +9700,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Skip the street whenever the driveway or yard fits the container. In Timnath it is not an option. In the other four, a street bin adds an application, review time, and possibly insurance and traffic control documents for a job that fits on your property. If the driveway is too short, size down or plan two smaller hauls before you file anything.</p>
 
-<p>For the Carbon Valley and US-85 towns to the south, read the <a href="/resources/northern-colorado-dumpster-permits">northern Colorado dumpster permit guide</a> (Frederick, Dacono, Platteville, Milliken, and Berthoud). For quote mechanics in these five towns, read <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/fort-collins-co-dumpster-rental">Fort Collins</a>, <a href="/locations/greeley-co-dumpster-rental">Greeley</a>, and <a href="/locations/windsor-co-dumpster-rental">Windsor</a>.</p>
+<p>For the Carbon Valley and US-85 towns to the south, read the <a href="/resources/northern-colorado-dumpster-permits">northern Colorado dumpster permit guide</a> (Frederick, Dacono, Platteville, Milliken, and Berthoud). For quote mechanics in these five towns, read <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/fort-collins-co-dumpster-rental">Fort Collins</a>, <a href="/locations/greeley-co-dumpster-rental">Greeley</a>, and <a href="/locations/windsor-co-dumpster-rental">Windsor</a>. For Kersey, Pierce, and Nunn, read the <a href="/resources/weld-county-towns-dumpster-permits">Weld County town permit guide</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 `,
@@ -9818,7 +9818,7 @@ export const blogPosts: BlogPost[] = [
   <li>Who files any right-of-way permit, and whether the fee is passed through</li>
 </ul>
 
-<p>Towns just south have their own guide: <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>.</p>
+<p>Towns just south have their own guide: <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>. Kersey, Pierce, and Nunn: <a href="/resources/weld-county-towns-dumpster-rental-cost">Weld County town dumpster rental cost</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 `,
@@ -9937,7 +9937,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Skip the roll-off when the load is light. Keenesburg holds two free dump days a year, in spring and fall, for dead trees and limbs. A few pieces of furniture can go to junk removal or your hauler's bulk pickup for less than a container and a permit. In Hudson, a light cleanup that would burn a month of your yearly permit window is a good candidate for a junk hauler instead.</p>
 
-<p>For the towns to the west, read the <a href="/resources/northern-colorado-dumpster-permits">northern Colorado dumpster permit guide</a> (Frederick, Dacono, Platteville, Milliken, and Berthoud). North toward Greeley, read the <a href="/resources/fort-collins-greeley-area-dumpster-permits">Fort Collins–Greeley area permit guide</a>. For quote mechanics in these five towns, read <a href="/resources/southern-weld-county-dumpster-rental-cost">southern Weld County dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/brighton-co-dumpster-rental">Brighton</a>, <a href="/locations/platteville-co-dumpster-rental">Platteville</a>, <a href="/locations/evans-co-dumpster-rental">Evans</a>, and <a href="/locations/greeley-co-dumpster-rental">Greeley</a>.</p>
+<p>For the towns to the west, read the <a href="/resources/northern-colorado-dumpster-permits">northern Colorado dumpster permit guide</a> (Frederick, Dacono, Platteville, Milliken, and Berthoud). North toward Greeley, read the <a href="/resources/fort-collins-greeley-area-dumpster-permits">Fort Collins–Greeley area permit guide</a>. For quote mechanics in these five towns, read <a href="/resources/southern-weld-county-dumpster-rental-cost">southern Weld County dumpster rental cost</a>. Neighbors with their own pages: <a href="/locations/brighton-co-dumpster-rental">Brighton</a>, <a href="/locations/platteville-co-dumpster-rental">Platteville</a>, <a href="/locations/evans-co-dumpster-rental">Evans</a>, and <a href="/locations/greeley-co-dumpster-rental">Greeley</a>. Mead, Lochbuie, Kersey, Pierce, and Nunn are in the <a href="/resources/weld-county-towns-dumpster-permits">Weld County town permit guide</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 `,
@@ -10060,7 +10060,7 @@ export const blogPosts: BlogPost[] = [
   <li>A firm pickup date inside the permit window</li>
 </ul>
 
-<p>Towns to the west have their own guide: <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>. North toward Greeley: <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area dumpster rental cost</a>.</p>
+<p>Towns to the west have their own guide: <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado dumpster rental cost</a>. North toward Greeley: <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area dumpster rental cost</a>. Mead, Lochbuie, Kersey, Pierce, and Nunn: <a href="/resources/weld-county-towns-dumpster-rental-cost">Weld County town dumpster rental cost</a>.</p>
 
 <h2 id="faq">Straight Answers</h2>
 `,
@@ -10096,4 +10096,244 @@ export const blogPosts: BlogPost[] = [
       { "id": "faq", "title": "Straight Answers" }
     ],
   },
+  {
+    slug: 'weld-county-towns-dumpster-permits',
+    title: "Weld County Town Dumpster Permits: Mead, Lochbuie, Kersey, Pierce & Nunn",
+    metaTitle: "Mead, Lochbuie, Kersey, Pierce & Nunn Dumpster Permits",
+    excerpt:
+      "Five Weld County towns, five different answers. Lochbuie runs a 72-hour clock, Mead charges $1,000 a day past a street permit's end date, and Kersey, Pierce, and Nunn publish no dumpster permit at all.",
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/lochbuie-co-dumpster-rental-hero.webp',
+    coverImageAlt: "Roll-off dumpster on a home driveway in a newer Weld County, Colorado subdivision",
+    date: '2026-11-17',
+    author: 'Adam Chandler',
+    metaDescription:
+      "Dumpster permit rules for Mead, Lochbuie, Kersey, Pierce, and Nunn, CO: driveway vs. street, Lochbuie's 72-hour rule, Mead's obstruction permit, and who to call.",
+    readingTime: 6,
+    keywords: [
+      "weld county town dumpster permits",
+      "mead dumpster permit",
+      "lochbuie dumpster permit",
+      "kersey dumpster permit",
+      "pierce co dumpster permit",
+      "nunn co dumpster permit"
+    ],
+    body: `
+<p>These five Weld County towns sit at the edges of the county's other clusters: Mead on the west side near Longmont, Lochbuie on I-76 at the Adams County line, Kersey east of Greeley, and Pierce and Nunn up US-85 toward Wyoming. Their dumpster rules have almost nothing in common.</p>
+
+<p>The short answer on dumpster permits in Mead, Lochbuie, Kersey, Pierce, and Nunn: only Lochbuie has a rule written for roll-offs, and it is a 72-hour clock that applies to driveways too. Mead treats a bin in the street as an obstruction, with a $50 base fee and a $1,000-a-day extension fee if the job runs past the permit's completion date. Kersey, Pierce, and Nunn publish no dumpster permit, so a bin on your own property is the plan, and Town Hall is the call before anything goes in a street.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Lochbuie: 72 hours free on public or private property, then a Temporary Placement Permit. Mead: driveway is simplest; street means an obstruction permit with a hard completion date. Kersey: no dumpster permit; the street falls under a Right-of-Way Use Permit. Pierce: no dumpster permit; re-roofs and demolitions need building permits. Nunn: no dumpster permit, and the shared Town dumpsters are household trash only.</p>
+</div>
+
+<h2 id="compare">The Five Towns Side by Side</h2>
+
+<div class="not-prose my-8 overflow-x-auto">
+<table class="min-w-full text-sm border border-gray-200 rounded-lg overflow-hidden">
+  <thead class="bg-gray-50">
+    <tr>
+      <th class="px-4 py-3 text-left font-semibold">Town</th>
+      <th class="px-4 py-3 text-left font-semibold">Private driveway</th>
+      <th class="px-4 py-3 text-left font-semibold">Street or right-of-way</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="border-t"><td class="px-4 py-3">Mead</td><td class="px-4 py-3">No Town permit published</td><td class="px-4 py-3">Obstruction permit, $50 base fee, $1,000/day past the completion date</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Lochbuie</td><td class="px-4 py-3">Free for 72 hours, then a Temporary Placement Permit</td><td class="px-4 py-3">Same 72-hour rule</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Kersey</td><td class="px-4 py-3">No Town permit published</td><td class="px-4 py-3">Right-of-Way Use Permit; ask Public Works</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Pierce</td><td class="px-4 py-3">No Town permit published</td><td class="px-4 py-3">No permit published; ask Town Hall</td></tr>
+    <tr class="border-t"><td class="px-4 py-3">Nunn</td><td class="px-4 py-3">No Town permit published</td><td class="px-4 py-3">Right-of-way construction permit is written for street work; ask Town Hall</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="mead">Mead: The Street Is an Obstruction</h2>
+
+<p>Mead Municipal Code Sec. 11-2-20 makes it unlawful to place an obstruction in any street, alley, sidewalk, or other public place without a permit. The Town's <a href="https://www.townofmead.org/media/19206" target="_blank" rel="noopener noreferrer">Utility Excavation, Street Cut, and Obstruction Permit</a> has a $50 base fee and asks for a site plan, a traffic control plan per MUTCD, and insurance certificates naming the Town. Under Sec. 11-2-60 the application states the purpose, the size, and how long the obstruction will stay. Two conditions matter for a dumpster. Work not finished by the completion date draws a $1,000-per-day extension fee, which the Town Engineer may waive if you apply for a new permit at least five business days before expiration. And no construction activity is allowed from 7 pm to 7 am or on weekends and Town holidays without approval. The <a href="https://www.townofmead.org/media/42471" target="_blank" rel="noopener noreferrer">June 2026 fee schedule</a> also lists a $60 reroof permit plus a $50 processing fee. Details: <a href="/locations/mead-co-dumpster-rental">Mead</a>.</p>
+
+<h2 id="lochbuie">Lochbuie: The 72-Hour Clock</h2>
+
+<p>Lochbuie's <a href="https://www.lochbuie.org/publicnotice/page/faq-permits" target="_blank" rel="noopener noreferrer">permit FAQ</a> says roll-off dumpsters and storage pods may be placed on public or private property for up to 72 hours without a permit. Past 72 hours, a Temporary Placement Permit is required, and the application can be emailed to building@lochbuie.org. The clock covers your own driveway too. That catches most remodels and every roof, since the Town also lists re-roofing, basement finishes, siding, and fences among the projects that need a building permit. Details: <a href="/locations/lochbuie-co-dumpster-rental">Lochbuie</a>.</p>
+
+<!--survey-mid-->
+
+<h2 id="kersey">Kersey: No Dumpster Permit, a Right-of-Way Use Permit for the Street</h2>
+
+<p>Kersey does not publish a dumpster permit. Its <a href="https://www.kerseygov.com/departments/planning_department/right_of_way_permit.php" target="_blank" rel="noopener noreferrer">Right-of-Way Use Permit</a> regulates obstructions and use of Town rights-of-way and drainage easements, gravel or paved. It requires a traffic control plan under MUTCD, liability insurance naming the Town, and notice to Public Works 24 hours before work starts, and it expires three months from issue unless stated otherwise. That is a contractor's permit, so keep a homeowner's bin on the driveway and call <a href="https://www.kerseygov.com/departments/public_works_department/index.php" target="_blank" rel="noopener noreferrer">Public Works</a> at 970-353-1681 before planning the street. Details: <a href="/locations/kersey-co-dumpster-rental">Kersey</a>.</p>
+
+<h2 id="pierce">Pierce: Building Permits Do the Work</h2>
+
+<p>Pierce publishes no dumpster permit, and its <a href="https://www.piercecolo.gov/index.php/government/administration/fees" target="_blank" rel="noopener noreferrer">fee schedule</a> covers street cut permits but nothing for a container in the street. The rules that shape a dumpster job are on the <a href="https://www.piercecolo.gov/government/departments/planning-and-zoning/building-permits" target="_blank" rel="noopener noreferrer">building permits page</a>: re-roofing, demolitions, kitchen remodels, and basement finishes all need a permit, run by SAFEbuilt through CommunityCore. Talk to the permit technician first if the property is in the floodway or flood zone. A permit becomes void if work has not started within 180 days. Details: <a href="/locations/pierce-co-dumpster-rental">Pierce</a>.</p>
+
+<h2 id="nunn">Nunn: The Shared Bins Are Not for This</h2>
+
+<p>Nunn publishes no dumpster permit. Its right-of-way construction permit under <a href="https://townofnunn.colorado.gov/sites/g/files/lrnvjt1066/files/documents/2024%20Municipal%20Code.pdf" target="_blank" rel="noopener noreferrer">Municipal Code</a> Sec. 12.12.030 is written for construction and excavation in public streets, so keep a roll-off on your own property and call Town Hall at 970-897-2385 before planning the street. The more useful rule is the trash system. Residents share Town dumpsters, about one per three homes, for household trash only, and the Town's <a href="https://townofnunn.colorado.gov/sites/g/files/lrnvjt1066/files/documents/Welcome%20letter.pdf" target="_blank" rel="noopener noreferrer">welcome letter</a> says no mattresses, furniture, electronics, tires, or hazardous materials. A cleanout needs its own container. Details: <a href="/locations/nunn-co-dumpster-rental">Nunn</a>.</p>
+
+<h2 id="county">Outside Town Limits: Weld County Governs</h2>
+
+<p>Farm addresses around Kersey, Pierce, and Nunn often carry a town name but sit outside town limits. There, Weld County governs the road right-of-way, not the town. Keep the bin on your own property, and check Weld County Public Works <a href="https://www.weld.gov/Government/Departments/Public-Works/Permits" target="_blank" rel="noopener noreferrer">right-of-way permits</a> before anything goes on a county road. Lochbuie spans Weld and Adams counties; inside Town limits, the Town's 72-hour rule applies either way.</p>
+
+<h2 id="skip-it">When Not to Bother With a Permit</h2>
+
+<p>Skip the roll-off when the load is light. Kersey residents can take limbs under 6 inches and leaves to the Town recycle area with a key from Town Hall. Nunn has a Town site for trees and limbs with a permit from the Town Clerk, and a spring cleanup each year. In Lochbuie, a weekend cleanout that is loaded and gone inside 72 hours needs no permit at all.</p>
+
+<h2 id="other-weld">Other Weld County Towns</h2>
+
+<p>The rest of Weld County is covered town by town in three other guides: the <a href="/resources/southern-weld-county-dumpster-permits">southern Weld County permit guide</a> (Fort Lupton, Hudson, Keenesburg, Gilcrest, LaSalle), the <a href="/resources/fort-collins-greeley-area-dumpster-permits">Fort Collins–Greeley area permit guide</a> (Timnath, Severance, Wellington, Eaton, Ault), and the <a href="/resources/northern-colorado-dumpster-permits">northern Colorado permit guide</a> (Frederick, Dacono, Platteville, Milliken, Berthoud). For what a quote should include in these five towns, read <a href="/resources/weld-county-towns-dumpster-rental-cost">Weld County town dumpster rental cost</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "Which of these towns has a dumpster permit?",
+            "answer": "Only Lochbuie has a rule written for roll-off dumpsters: 72 hours free on public or private property, then a Temporary Placement Permit. Mead covers a bin in the street under its obstruction permit. Kersey, Pierce, and Nunn publish no dumpster permit."
+      },
+      {
+            "question": "Can I keep a dumpster on my driveway in these towns without a permit?",
+            "answer": "In Mead, Kersey, Pierce, and Nunn, none of the Towns publish a permit for a bin on private property. In Lochbuie, only for 72 hours. After that you need a Temporary Placement Permit, even on your own driveway."
+      },
+      {
+            "question": "What is Mead's $1,000-a-day fee?",
+            "answer": "It is the extension fee on Mead's Utility Excavation, Street Cut, and Obstruction Permit. If work is not finished by the completion date on the permit, the Town can charge $1,000 per day. Apply for a new permit at least five business days before expiration."
+      },
+      {
+            "question": "Can I put cleanout debris in Nunn's Town dumpsters?",
+            "answer": "No. The shared Town dumpsters are for household trash only, and the Town says no mattresses, furniture, electronics, tires, or hazardous materials. Non-residents may not use them at all."
+      },
+      {
+            "question": "Who do I call?",
+            "answer": "Mead Town Hall 970-535-4477. Lochbuie Town Hall 303-655-9308. Kersey Town Hall and Public Works 970-353-1681. Pierce Town Hall 970-834-2851. Nunn Town Hall 970-897-2385."
+      }
+    ],
+    toc: [
+      { "id": "compare", "title": "The Five Towns Side by Side" },
+      { "id": "mead", "title": "Mead: The Street Is an Obstruction" },
+      { "id": "lochbuie", "title": "Lochbuie: The 72-Hour Clock" },
+      { "id": "kersey", "title": "Kersey: No Dumpster Permit, a Right-of-Way Use Permit for the Street" },
+      { "id": "pierce", "title": "Pierce: Building Permits Do the Work" },
+      { "id": "nunn", "title": "Nunn: The Shared Bins Are Not for This" },
+      { "id": "county", "title": "Outside Town Limits: Weld County Governs" },
+      { "id": "skip-it", "title": "When Not to Bother With a Permit" },
+      { "id": "other-weld", "title": "Other Weld County Towns" },
+      { "id": "faq", "title": "Straight Answers" }
+    ],
+  },
+  {
+    slug: 'weld-county-towns-dumpster-rental-cost',
+    title: "Weld County Town Dumpster Rental Cost: How Quotes Are Built in Mead, Lochbuie, Kersey, Pierce & Nunn",
+    metaTitle: "Mead to Nunn Dumpster Rental Cost: How Quotes Work",
+    excerpt:
+      "How roll-off quotes are built in Mead, Lochbuie, Kersey, Pierce, and Nunn: size, included tons, overage, rental days, rural delivery, and the Town permit fees and deadlines you can look up.",
+    category: 'Geo Guide',
+    coverImage: '/RDF-Images/pierce-co-dumpster-rental-hero.webp',
+    coverImageAlt: "Roll-off dumpster on a gravel drive beside a farmhouse in northern Weld County, Colorado",
+    date: '2026-11-17',
+    author: 'Adam Chandler',
+    metaDescription:
+      "Dumpster rental cost guide for Mead, Lochbuie, Kersey, Pierce, and Nunn, CO: how roll-off quotes are priced and the published Town permit fees.",
+    readingTime: 5,
+    keywords: [
+      "weld county town dumpster rental cost",
+      "mead dumpster rental cost",
+      "lochbuie dumpster rental cost",
+      "kersey dumpster rental cost",
+      "pierce co dumpster rental cost",
+      "nunn co dumpster rental cost"
+    ],
+    body: `
+<p>None of these five towns publishes a dumpster rental price, and I am not going to invent one. What they do publish are the permit fees and deadlines that end up in the total.</p>
+
+<p>The short answer on dumpster rental cost in Mead, Lochbuie, Kersey, Pierce, and Nunn: the price is built from the container size, the weight it includes, the per-ton overage, the rental days, and delivery distance. The Town numbers to plan around are Lochbuie's 72-hour no-permit window, Mead's $50 obstruction permit and its $1,000-a-day extension fee, and the reroof permit fees in Mead and Nunn.</p>
+
+<div class="not-prose my-8 rounded-lg border border-orange-200 bg-orange-50 p-6">
+  <p class="text-sm font-semibold uppercase tracking-wide text-orange-700 mb-2">TL;DR</p>
+  <p class="text-charcoal text-sm">Get two quotes for the same size and the same rental days. Compare included tons, overage per ton, extension fee, and delivery. In Lochbuie, decide up front whether the job fits in 72 hours. In Mead, keep the bin off the street or set a completion date you will beat. On farm addresses around Kersey, Pierce, and Nunn, ask about trip charges.</p>
+</div>
+
+<h2 id="how-priced">How a Roll-Off Quote Is Built</h2>
+
+<ul>
+  <li><strong>Size.</strong> The container you order sets the base price.</li>
+  <li><strong>Included weight.</strong> Every quote includes a tonnage allowance. Roofing, tile, and concrete use it up fast.</li>
+  <li><strong>Overage per ton.</strong> Weight past the allowance is billed per ton after the landfill scale ticket.</li>
+  <li><strong>Rental days.</strong> A set number of days is included. Extra days are billed per day.</li>
+  <li><strong>Delivery distance.</strong> Pierce and Nunn sit on US-85 north of Ault, and farm addresses east of Kersey are spread out. Ask for any trip or fuel charge up front.</li>
+</ul>
+
+<p>For the full breakdown, read <a href="/resources/what-does-a-dumpster-rental-cost">what a dumpster rental costs</a>.</p>
+
+<h2 id="permits">The Town Numbers You Can Look Up</h2>
+
+<ul>
+  <li><a href="/locations/mead-co-dumpster-rental">Mead</a>: street obstruction permit, $50 base fee; $1,000 per day if work runs past the permit's completion date (<a href="https://www.townofmead.org/media/19206" target="_blank" rel="noopener noreferrer">Town of Mead</a>). Reroof permit $60 plus a $50 processing fee on the June 2026 schedule (<a href="https://www.townofmead.org/media/42471" target="_blank" rel="noopener noreferrer">Town of Mead</a>).</li>
+  <li><a href="/locations/lochbuie-co-dumpster-rental">Lochbuie</a>: no permit for up to 72 hours on public or private property; a Temporary Placement Permit after that (<a href="https://www.lochbuie.org/publicnotice/page/faq-permits" target="_blank" rel="noopener noreferrer">Town of Lochbuie</a>). The Town does not list the permit fee on that page, so ask when you apply.</li>
+  <li><a href="/locations/kersey-co-dumpster-rental">Kersey</a>: no dumpster permit. Street use falls under the Right-of-Way Use Permit (<a href="https://www.kerseygov.com/departments/planning_department/right_of_way_permit.php" target="_blank" rel="noopener noreferrer">Town of Kersey</a>).</li>
+  <li><a href="/locations/pierce-co-dumpster-rental">Pierce</a>: no dumpster permit. Re-roofs and demolitions need building permits (<a href="https://www.piercecolo.gov/government/departments/planning-and-zoning/building-permits" target="_blank" rel="noopener noreferrer">Town of Pierce</a>).</li>
+  <li><a href="/locations/nunn-co-dumpster-rental">Nunn</a>: no dumpster permit. One-stop permits such as re-roofs carry a $50 administrative fee plus 2% use tax on the 2026 schedule (<a href="https://townofnunn.colorado.gov/sites/g/files/lrnvjt1066/files/documents/2026%20Fee%20Schedule.pdf" target="_blank" rel="noopener noreferrer">Town of Nunn</a>).</li>
+</ul>
+
+<p>The full rules are in the <a href="/resources/weld-county-towns-dumpster-permits">Weld County town dumpster permit guide</a>.</p>
+
+<h2 id="time">Where the Clock Costs Money</h2>
+
+<p>Two towns turn time into money in different ways. In Lochbuie, a bin that stays a fourth day needs a Temporary Placement Permit, so a weekend cleanout and a two-week remodel are different jobs. In Mead, a street bin that outlasts the permit's completion date can cost $1,000 a day, which dwarfs any provider's extension fee. Book delivery for the day work starts and get the pickup date in writing.</p>
+
+<h2 id="sizing">Size the Job Before You Price It</h2>
+
+<p>Size for weight as well as volume. Roofing, tile, and concrete hit the tonnage allowance before the container looks full; a cleanout fills by volume first. Outbuilding teardowns on acreage around Pierce, Nunn, and Kersey mix lumber, metal, and concrete, and concrete belongs in its own load. For the size range, read <a href="/resources/how-to-choose-the-right-dumpster-size">how to choose the right dumpster size</a>.</p>
+
+<h2 id="skip-it">When Not to Rent a Dumpster</h2>
+
+<p>Skip the roll-off when the load is a few pieces of furniture and a pile of boxes. A junk removal crew can cost less than any container. In Kersey, the Town's trash page sends large items like a mattress or sofa to the hauler as a separate pickup, and small limbs can go to the resident recycle area for free. In Nunn, a light cleanup can wait for the Town's spring cleanup.</p>
+
+<h2 id="quote-checklist">What to Ask Every Provider</h2>
+
+<ul>
+  <li>Container size and included tons</li>
+  <li>Overage per ton</li>
+  <li>Included rental days and the daily extension charge</li>
+  <li>Delivery and any trip fee for your address</li>
+  <li>Who files the town permit, and whether any fee is passed through</li>
+  <li>A firm pickup date inside the permit window</li>
+</ul>
+
+<p>Other Weld County towns have their own cost guides: <a href="/resources/southern-weld-county-dumpster-rental-cost">southern Weld County</a>, <a href="/resources/fort-collins-greeley-area-dumpster-rental-cost">Fort Collins–Greeley area</a>, and <a href="/resources/northern-colorado-dumpster-rental-cost">northern Colorado</a>.</p>
+
+<h2 id="faq">Straight Answers</h2>
+`,
+    faq: [
+      {
+            "question": "How much does a dumpster cost in Mead, Lochbuie, Kersey, Pierce, or Nunn?",
+            "answer": "It depends on size, included tons, overage per ton, rental days, delivery distance, and debris type. Get two quotes for the same size and the same days and compare every line. I do not publish an unsourced price table for these towns."
+      },
+      {
+            "question": "What Town fees can I plan for?",
+            "answer": "Mead's street obstruction permit has a $50 base fee, and a reroof permit is $60 plus a $50 processing fee. Nunn's one-stop permits, including re-roofs, carry a $50 administrative fee plus 2% use tax. Lochbuie needs no permit for 72 hours. Kersey and Pierce publish no dumpster permit."
+      },
+      {
+            "question": "Why can a Mead street dumpster get expensive?",
+            "answer": "Because the obstruction permit has a completion date. If the work runs past it, the Town can charge $1,000 per day. Keep the bin on your driveway or set a date you will beat."
+      },
+      {
+            "question": "Does Lochbuie's 72-hour rule change what I should order?",
+            "answer": "It changes how you schedule. A cleanout loaded and hauled inside 72 hours needs no permit. A longer job needs a Temporary Placement Permit, so file it when you book."
+      },
+      {
+            "question": "Why do farm addresses cost more to serve?",
+            "answer": "Delivery distance and site access. Addresses around Pierce, Nunn, and east of Kersey can sit far from the nearest yard, and gravel drives or soft ground can complicate drop-off. Ask for any trip or fuel charge in the quote."
+      }
+    ],
+    toc: [
+      { "id": "how-priced", "title": "How a Roll-Off Quote Is Built" },
+      { "id": "permits", "title": "The Town Numbers You Can Look Up" },
+      { "id": "time", "title": "Where the Clock Costs Money" },
+      { "id": "sizing", "title": "Size the Job Before You Price It" },
+      { "id": "skip-it", "title": "When Not to Rent a Dumpster" },
+      { "id": "quote-checklist", "title": "What to Ask Every Provider" },
+      { "id": "faq", "title": "Straight Answers" }
+    ],
+  },
+
 ]

@@ -1163,5 +1163,47 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/mead-co-dumpster-rental',
+      lastModified: new Date('2026-11-17'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/kersey-co-dumpster-rental',
+      lastModified: new Date('2026-11-17'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/lochbuie-co-dumpster-rental',
+      lastModified: new Date('2026-11-17'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/pierce-co-dumpster-rental',
+      lastModified: new Date('2026-11-17'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/locations/nunn-co-dumpster-rental',
+      lastModified: new Date('2026-11-17'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/weld-county-towns-dumpster-permits',
+      lastModified: new Date('2026-11-17'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://www.rolloffdumpsterfinder.com/resources/weld-county-towns-dumpster-rental-cost',
+      lastModified: new Date('2026-11-17'),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
 ]
 }

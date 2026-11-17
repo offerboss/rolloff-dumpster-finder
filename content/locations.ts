@@ -22783,4 +22783,593 @@ export const cityLocations: CityLocation[] = [
     longitude: -104.7019,
     pricingPlacementNote: "LaSalle's right-of-way permit is $100 and is written for excavation. Roof replacement needs a building permit, with a $125 reroof fee on the 2025 schedule.",
   },
+  // ─── MEAD (CO) ────────────────────────────────────────
+  {
+    slug: "mead-co-dumpster-rental",
+    cityName: "Mead",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Mead, CO Dumpster Rental",
+    metaDescription: "Mead, Colorado dumpster rental for roofing, remodels, and cleanouts. See the Town's $50 obstruction permit and $1,000-a-day extension fee before a bin goes in the street.",
+    primaryKeyword: "mead co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental mead co",
+      "mead construction dumpster rental",
+      "roll off dumpster mead",
+      "roll off dumpster mead co",
+      "rolloff dumpsters mead",
+      "roll offs mead co",
+      "10 yard dumpster rental mead",
+      "20 yard dumpster rental mead",
+      "30 yard dumpster rental mead",
+      "mead dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Mead, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for roofing tear-offs, remodels, cleanouts, and new-home punch lists across Mead and the farm country between Longmont and Johnstown.",
+    introParagraphs: [
+      "Mead started as a beet-railroad town. In late 1905 the Great Western Railroad announced a line through the Highlandlake district, with a beet dump and station on the edge of Paul Mead's farm. He platted lots and streets before the first track was laid and named the town for his father, Dr. Martin Mead, the area's first doctor. Mead was incorporated in 1908. Today the old town grid sits beside newer subdivisions, so the work runs from older-home remodels to roofs and garage cleanouts.",
+      "Mead treats anything placed in a street, alley, or sidewalk as an obstruction. Municipal Code Sec. 11-2-20 makes it unlawful to obstruct a public place without a permit. The Town's Utility Excavation, Street Cut, and Obstruction Permit carries a $50 base fee and asks for a site plan, a traffic control plan, and insurance certificates naming the Town. The catch is the end date. Work not finished by the completion date on the permit draws a $1,000-per-day extension fee.",
+      "Rolloff Dumpster Finder helps Mead homeowners and contractors compare roll-off options across the Mead, Longmont, and Firestone area. Availability depends on which providers cover your address. Give each provider the address, the project type, and your HOA rules. Ask for the included weight allowance, overage rate per ton, rental period, and daily extension fee. A driveway placement keeps the job out of the obstruction permit entirely."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Reroofs",
+            "description": "Mead lists Roof/Reroof as a single-stop permit: $60 on the June 2026 fee schedule, plus a $50 administrative processing fee. Pull it before the tear-off. Unpermitted work is billed at double the building permit fee."
+      },
+      {
+            "number": "02",
+            "name": "Old-Town Remodels",
+            "description": "Homes on the original 1906 plat are the ones most likely to hide plaster, old flooring, and layers of tile. Those loads get heavy before they look full. Ask what tonnage the quote includes."
+      },
+      {
+            "number": "03",
+            "name": "New-Home Punch Lists",
+            "description": "Newer subdivisions produce cardboard, trim scraps, landscaping, and basement-finish debris. Check HOA rules on how long a bin can sit in the driveway before you book."
+      },
+      {
+            "number": "04",
+            "name": "Demolition",
+            "description": "Mead's fee schedule lists a $50 demolition permit. Sheds, garages, and outbuildings on acreage lots produce lumber, metal, and concrete that need a sized-for-weight container."
+      },
+      {
+            "number": "05",
+            "name": "Garage & Estate Cleanouts",
+            "description": "Cleanouts are mostly volume, not weight. Furniture and boxes fill a container fast. Keep paint, fuel, and chemicals out of the load and ask the provider about mattresses and appliances."
+      }
+    ],
+    placementIntro: "Dumpster placement in Mead is simplest on your own driveway. A bin in the street, alley, or sidewalk is an obstruction under Town code.",
+    placementNotes: [
+      "Driveway placement on private property is the standard setup. Mead's obstruction permit applies to streets, alleys, sidewalks, and other public places.",
+      "For street placement, use the Town's Utility Excavation, Street Cut, and Obstruction Permit. The base fee is $50. Submit it with the listed attachments to permits@townofmead.org.",
+      "The application asks for a site plan, a traffic control plan per MUTCD, and liability and auto insurance certificates naming the Town of Mead. Most homeowners will need the rental provider's help with those.",
+      "Set a realistic completion date. If the work is not done by that date, the Town can charge a $1,000-per-day extension fee. The Town Engineer can waive it if you apply for a new permit at least five business days before the current one expires.",
+      "The permit bars construction activity between 7 pm and 7 am, and on weekends and Town holidays, without the Town Engineer's approval. Schedule a street drop and swap on a weekday.",
+      "Under Sec. 11-2-30, the permit holder restores any damaged pavement, curb, gutter, or sidewalk. Ask the provider to use boards under the rails.",
+      "When in doubt, confirm placement requirements with Mead Town Hall (970-535-4477) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Original 1906 town plat",
+      "Downtown Mead",
+      "Newer subdivisions",
+      "Rural Mead acreage"
+    ],
+    nearbyCities: [
+      "Longmont",
+      "Firestone",
+      "Frederick",
+      "Berthoud",
+      "Johnstown",
+      "Platteville",
+      "Milliken",
+      "Dacono",
+      "Erie",
+      "Loveland"
+    ],
+    faq: [
+      {
+            "question": "Do I need a permit for a dumpster in Mead, Colorado?",
+            "answer": "Not on your own driveway. A dumpster in a street, alley, or sidewalk is an obstruction under Mead Municipal Code Sec. 11-2-20, and it needs the Town's Utility Excavation, Street Cut, and Obstruction Permit. The base fee is $50."
+      },
+      {
+            "question": "What happens if a Mead street permit runs past its completion date?",
+            "answer": "The Town can charge a $1,000-per-day extension fee for work not finished by the completion date on the permit. Apply for a new permit at least five business days before expiration, or set a completion date you can actually meet."
+      },
+      {
+            "question": "Does a Mead roof replacement need a permit?",
+            "answer": "Yes. Roof/Reroof is a single-stop permit on the Town's June 2026 fee schedule, at $60 plus a $50 administrative processing fee. Performing unpermitted work costs double the building permit fee."
+      },
+      {
+            "question": "Can a dumpster be delivered on a weekend in Mead?",
+            "answer": "On your driveway, that is between you and the provider. Under a street obstruction permit, construction activity is not allowed 7 pm to 7 am, on weekends, or on Town holidays unless the Town Engineer approves it in advance."
+      },
+      {
+            "question": "Who do I contact about a dumpster in a Mead street?",
+            "answer": "Mead Town Hall at 441 Third Street, 970-535-4477. Obstruction permits go to permits@townofmead.org, and the Town Engineer reviews them."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/mead-co-dumpster-rental-hero.webp',
+      alt: "Dark green roll-off dumpster on the driveway of a newer two-story home at the edge of farmland in Mead, Colorado, with the Front Range beyond",
+    },
+    latitude: 40.2333,
+    longitude: -104.9986,
+    pricingPlacementNote: "Mead's street obstruction permit has a $50 base fee and a $1,000-per-day extension fee if work runs past the completion date. A reroof permit is $60 plus a $50 processing fee.",
+  },
+  // ─── KERSEY (CO) ────────────────────────────────────────
+  {
+    slug: "kersey-co-dumpster-rental",
+    cityName: "Kersey",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Kersey, CO Dumpster Rental",
+    metaDescription: "Kersey, Colorado dumpster rental for cleanouts, remodels, and roofing. See the Town's right-of-way use permit, its trash rules, and where limbs can go instead.",
+    primaryKeyword: "kersey co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental kersey co",
+      "kersey construction dumpster rental",
+      "roll off dumpster kersey",
+      "roll off dumpster kersey co",
+      "rolloff dumpsters kersey",
+      "roll offs kersey co",
+      "10 yard dumpster rental kersey",
+      "20 yard dumpster rental kersey",
+      "30 yard dumpster rental kersey",
+      "kersey dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Kersey, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for cleanouts, remodels, roofing tear-offs, and farm debris across Kersey and the US-34 corridor east of Greeley.",
+    introParagraphs: [
+      "Kersey sits on US-34 about three miles east of Greeley, with around 1,600 residents and the Platte Valley School District. It started as Orr. When the Union Pacific agreed to a shipping depot there in 1884, the name had to change because Orr was too close to other stations on the line. Railroad master James Kersey Painter used his mother's maiden name. Residents voted to incorporate on November 10, 1908. The work here is older-home remodels, roofs, and farm and estate cleanouts.",
+      "Kersey's weekly trash service is not built for a cleanout. The Town contracts residential trash, every house gets a toter, and pickup is Tuesday with carts out by 7 a.m. The Town's trash page sends large items such as a mattress or sofa to the hauler as a separate pickup. Tree limbs have their own outlet. The Town runs a small recycle area for limbs under 6 inches in diameter and leaves, open to Kersey residents only, with a key checked out from Town Hall.",
+      "Rolloff Dumpster Finder helps Kersey homeowners and farm owners compare roll-off options across the Kersey, Greeley, and Evans area. Availability depends on which providers cover your address, and rural delivery distance matters east of town. Give each provider the address, the project type, and any gravel drive or soft ground. Ask for the included weight allowance, overage rate per ton, and daily extension fee. A bin on your own property keeps the job out of the Town right-of-way process."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Farm & Estate Cleanouts",
+            "description": "Kersey's settlement was mostly in the surrounding farms and ranches, and the outbuildings show it. Barn and shop cleanouts mix lumber, metal, and decades of storage. Tell the provider about gates, gravel, and where the truck can turn."
+      },
+      {
+            "number": "02",
+            "name": "Roofing Tear-Offs",
+            "description": "The Town posts a Re-Roof Guide among its building permit documents, and permits run through Community Core with SafeBuilt as the inspection agency. Check the guide before the crew starts."
+      },
+      {
+            "number": "03",
+            "name": "Basement Finishes & Additions",
+            "description": "Kersey publishes guides for basement finishes and home additions under the 2024 codes. Framing scraps, drywall, and packaging are bulky. Plan the container around the stage of work that produces the most debris."
+      },
+      {
+            "number": "04",
+            "name": "Yard Cleanup",
+            "description": "Small limbs and leaves can go to the Town's resident recycle area for free. Grass clippings, bagged material, and limbs from commercial crews cannot. A roll-off makes sense when it is sod, soil, fencing, or a full tree."
+      },
+      {
+            "number": "05",
+            "name": "Move-Out Cleanouts",
+            "description": "The weekly toter is for household trash. When a move or sale produces furniture and boxes by the room, a container is cheaper than a string of special pickups."
+      }
+    ],
+    placementIntro: "Dumpster placement in Kersey usually happens on your own property. The Town regulates obstructions in its right-of-way through a use permit.",
+    placementNotes: [
+      "Driveway or yard placement on private property is the standard setup. The Town does not publish a separate dumpster permit.",
+      "Kersey's Right-of-Way Use Permit covers obstructions and use of the Town's rights-of-way and drainage easements, gravel or paved. Ask Public Works before planning a bin in the street.",
+      "Right-of-way permits require a traffic control plan under MUTCD and notice to Public Works 24 hours before work starts. An issued permit expires three months from the date issued unless it says otherwise.",
+      "The permit requires liability insurance naming the Town. That is usually the rental provider's paperwork, not the homeowner's.",
+      "Alley or street trash pickup depends on the neighborhood. Keep the container clear of the toter spot on Tuesday.",
+      "Rural lots outside Town limits fall under Weld County, not the Town.",
+      "When in doubt, confirm placement requirements with Kersey Town Hall (970-353-1681) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Kersey",
+      "Original town grid",
+      "US-34 corridor",
+      "Rural Kersey acreage"
+    ],
+    nearbyCities: [
+      "Greeley",
+      "Evans",
+      "LaSalle",
+      "Gilcrest",
+      "Eaton",
+      "Windsor",
+      "Platteville",
+      "Johnstown",
+      "Garden City",
+      "Milliken"
+    ],
+    faq: [
+      {
+            "question": "Do I need a permit for a dumpster in Kersey, Colorado?",
+            "answer": "Not on your own property, based on what the Town publishes. Kersey has no dumpster permit. Its Right-of-Way Use Permit covers obstructions in Town rights-of-way, so call Public Works at 970-353-1681 before a bin goes in the street."
+      },
+      {
+            "question": "Where can I take tree limbs in Kersey?",
+            "answer": "The Town runs a small recycle area for limbs under 6 inches in diameter and leaves. It is open to Kersey residents only. Check out a key from Town Hall, Monday through Friday, 8 a.m. to 4 p.m. No grass clippings, no bagged material, and no limbs from commercial crews."
+      },
+      {
+            "question": "Will Kersey's trash service pick up a mattress or sofa?",
+            "answer": "Not with regular pickup. The Town's trash page says to contact the hauler directly for large items such as a mattress or sofa. A full-room or full-house cleanout is roll-off territory."
+      },
+      {
+            "question": "Who handles building permits in Kersey?",
+            "answer": "Permits are applied for through Community Core, with SafeBuilt as the Town's contracted inspection agency. The Town posts guides for re-roofs, basement finishes, decks, and additions. SafeBuilt can be reached at 970-686-7511."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/kersey-co-dumpster-rental-hero.webp',
+      alt: "Charcoal gray roll-off dumpster on a concrete driveway between older homes under fall trees in Kersey, Colorado, with a grain elevator in the distance",
+    },
+    latitude: 40.3872,
+    longitude: -104.5622,
+    pricingPlacementNote: "Kersey publishes no dumpster permit. Street placement falls under the Town's Right-of-Way Use Permit, which requires a traffic control plan.",
+  },
+  // ─── LOCHBUIE (CO) ────────────────────────────────────────
+  {
+    slug: "lochbuie-co-dumpster-rental",
+    cityName: "Lochbuie",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Lochbuie, CO Dumpster Rental",
+    metaDescription: "Lochbuie, Colorado dumpster rental for roofing, remodels, and cleanouts. The Town allows 72 hours without a permit; longer needs a Temporary Placement Permit.",
+    primaryKeyword: "lochbuie co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental lochbuie co",
+      "lochbuie construction dumpster rental",
+      "roll off dumpster lochbuie",
+      "roll off dumpster lochbuie co",
+      "rolloff dumpsters lochbuie",
+      "roll offs lochbuie co",
+      "10 yard dumpster rental lochbuie",
+      "20 yard dumpster rental lochbuie",
+      "30 yard dumpster rental lochbuie",
+      "lochbuie dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Lochbuie, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for roofing tear-offs, remodels, basement finishes, and cleanouts across Lochbuie and the I-76 corridor north of Brighton.",
+    introParagraphs: [
+      "Lochbuie began as a 12-acre mobile home subdivision. Gordon McClain developed it in 1961 next to what was then I-80S, and called it Spacious Living, nicknamed Space City. Residents voted to incorporate in 1974 to improve water and sewer, and named the town after his grandparents' ancestral home on the Isle of Mull in Scotland. The Town now spans Weld and Adams counties, with 1,867 housing units. Most work is roofs, basement finishes, remodels, and move-out cleanouts in the newer subdivisions.",
+      "Lochbuie has one of the clearest container rules in the area, and the number is 72 hours. The Town's permit FAQ says roll-off dumpsters and storage pods may sit on public or private property for up to 72 hours without a permit. Longer than that requires a Temporary Placement Permit, and the application can be emailed to building@lochbuie.org. Most remodels and roof jobs keep a bin longer than three days, so plan on the permit.",
+      "Rolloff Dumpster Finder helps Lochbuie homeowners and contractors compare roll-off options across the Lochbuie, Brighton, and Hudson area. Availability depends on which providers cover your address. Give each provider the address, the project type, and your HOA rules. Ask for the included weight allowance, overage rate per ton, rental period, and daily extension fee. Match the rental days to the permit you actually have."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Re-Roofing",
+            "description": "Lochbuie lists re-roofing among the projects that need a building permit. Inspections are run by SAFEbuilt, and the Town asks that a ladder be set up for roof inspections. A tear-off almost always runs past 72 hours, so file for the Temporary Placement Permit with the building permit."
+      },
+      {
+            "number": "02",
+            "name": "Basement Finishes",
+            "description": "Basement finishes need a building permit in Lochbuie. Drywall, framing scraps, and packaging are light but bulky. Order the bin for the demo and framing stage, not the whole project."
+      },
+      {
+            "number": "03",
+            "name": "Siding & Window Jobs",
+            "description": "Siding is on the Town's permit list. Old siding and trim fill a container by volume long before weight is a problem."
+      },
+      {
+            "number": "04",
+            "name": "Quick Cleanouts",
+            "description": "A move-out or garage cleanout loaded in a weekend can fit inside the 72-hour no-permit window. Book the drop for the morning you start and the pickup for the morning you finish."
+      },
+      {
+            "number": "05",
+            "name": "Fence & Concrete Work",
+            "description": "Fences are on the Town's permit list. Residential flat concrete work is not, but old concrete is heavy. Tell the provider exactly what is going in so the container is sized for weight."
+      }
+    ],
+    placementIntro: "Dumpster placement in Lochbuie runs on a clock. Up to 72 hours needs no permit on public or private property; longer needs a Temporary Placement Permit.",
+    placementNotes: [
+      "Roll-off dumpsters and storage pods may be placed on public or private property for up to 72 hours without a permit.",
+      "For anything longer than 72 hours, get a Temporary Placement Permit. Email the application to building@lochbuie.org or call the Town at 303-655-9308.",
+      "The 72-hour rule applies to the driveway too, not just the street. Count the days from delivery to pickup, not from when work starts.",
+      "Lochbuie has three HOA parks. If your subdivision has an HOA, check its rules on driveway containers along with the Town's.",
+      "Building permits go through the Town's CommunityConnect portal. Inspections are scheduled with SAFEbuilt at 303-774-0454; requests in by 4 pm are scheduled for the next business day.",
+      "The Town spans Weld and Adams counties. Addresses outside Town limits fall under the county, not the Town.",
+      "When in doubt, confirm placement requirements with Lochbuie Town Hall (303-655-9308) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Space City (original 1961 subdivision)",
+      "Newer Lochbuie subdivisions",
+      "I-76 corridor",
+      "Weld County side",
+      "Adams County side"
+    ],
+    nearbyCities: [
+      "Brighton",
+      "Hudson",
+      "Fort Lupton",
+      "Keenesburg",
+      "Commerce City",
+      "Thornton",
+      "Northglenn",
+      "Aurora",
+      "Dacono",
+      "Frederick"
+    ],
+    faq: [
+      {
+            "question": "Do I need a permit for a dumpster in Lochbuie, Colorado?",
+            "answer": "Only if it stays longer than 72 hours. The Town allows roll-off dumpsters and storage pods on public or private property for up to 72 hours without a permit. Past that, you need a Temporary Placement Permit."
+      },
+      {
+            "question": "How do I get a Temporary Placement Permit in Lochbuie?",
+            "answer": "Email the application to building@lochbuie.org, or call Town Hall at 303-655-9308. Town Hall is open Monday through Thursday, 7 am to 6 pm."
+      },
+      {
+            "question": "Does the 72-hour rule apply on my own driveway?",
+            "answer": "Yes. The Town's FAQ covers both public and private property. A dumpster on your driveway for more than 72 hours needs the permit too."
+      },
+      {
+            "question": "Does a Lochbuie re-roof need a building permit?",
+            "answer": "Yes. Re-roofing is on the Town's list of projects that need a building permit, along with basement finishes, decks, fences, siding, and water heaters. Apply online through CommunityConnect."
+      },
+      {
+            "question": "Is Lochbuie in Weld County or Adams County?",
+            "answer": "Both. The Town was incorporated in 1974 in Weld and Adams counties. Inside Town limits, the Town's 72-hour rule applies either way."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/lochbuie-co-dumpster-rental-hero.webp',
+      alt: "Navy blue roll-off dumpster on the driveway of a newer two-story home with tan siding in Lochbuie, Colorado",
+    },
+    latitude: 40.0072,
+    longitude: -104.7161,
+    pricingPlacementNote: "Lochbuie allows a roll-off on public or private property for up to 72 hours without a permit. Longer stays need a Temporary Placement Permit.",
+  },
+  // ─── PIERCE (CO) ────────────────────────────────────────
+  {
+    slug: "pierce-co-dumpster-rental",
+    cityName: "Pierce",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Pierce, CO Dumpster Rental",
+    metaDescription: "Pierce, Colorado dumpster rental for farm cleanouts, roofing, and remodels. Re-roofs and demolitions need a Town building permit; check the flood zone first.",
+    primaryKeyword: "pierce co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental pierce co",
+      "pierce construction dumpster rental",
+      "roll off dumpster pierce",
+      "roll off dumpster pierce co",
+      "rolloff dumpsters pierce",
+      "roll offs pierce co",
+      "10 yard dumpster rental pierce",
+      "20 yard dumpster rental pierce",
+      "30 yard dumpster rental pierce",
+      "pierce dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Pierce, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for farm and estate cleanouts, roofing tear-offs, remodels, and outbuilding teardowns across Pierce and the US-85 corridor north of Ault.",
+    introParagraphs: [
+      "Pierce began as a railroad siding. On November 8, 1869, the Denver Pacific laid a side track here and named it for General John Pierce, the railroad's president. A boxcar beside the track was the first building. The town grew into a shipping point for cattle, sheep, potatoes, beans, and sugar beets, and the Roggen Elevator still stands in town. The work here is farmhouse and estate cleanouts, roofs, remodels, and old outbuildings coming down.",
+      "Pierce sends most of the paperwork through its building department. The Town lists re-roofing and demolitions among the projects that need a building permit, along with kitchen remodels, basement finishes, and pole barns. Permitting is run for the Town by SAFEbuilt through CommunityCore. The Town strongly recommends talking to the permit technician first, especially if the property is in the floodway or flood zone. A permit becomes void if work has not started within 180 days.",
+      "Rolloff Dumpster Finder helps Pierce homeowners and farm owners compare roll-off options across the Pierce, Ault, and Nunn area. Availability depends on which providers cover your address, and delivery distance on the north end of Weld County matters. Give each provider the address, the project type, and any gravel drive or soft ground. Ask for the included weight allowance, overage rate per ton, rental period, and daily extension fee."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Outbuilding Teardowns",
+            "description": "Pierce requires a building permit for demolitions. Old sheds, barns, and pole buildings produce lumber, sheet metal, and concrete. Concrete belongs in its own heavy-debris load."
+      },
+      {
+            "number": "02",
+            "name": "Re-Roofs",
+            "description": "Re-roofing needs a Pierce building permit. The Town posts a re-roofing guide with its building permit documents. Book the bin after the permit is issued, not before."
+      },
+      {
+            "number": "03",
+            "name": "Farmhouse & Estate Cleanouts",
+            "description": "Older homes on the original town grid and the farms around it hold a lot of stored furniture and equipment. Price one larger container against a second haul before booking."
+      },
+      {
+            "number": "04",
+            "name": "Kitchen & Basement Work",
+            "description": "The Town's permit list covers kitchen remodelling, basement finishes, and removing or replacing walls. Plan the container around the demolition week."
+      },
+      {
+            "number": "05",
+            "name": "Storm Cleanup",
+            "description": "Pierce has a long blizzard history. The Town's own account records farmers clearing roads by horse team after a 1913 storm, and three days of wind and snow in 1949. Storm-damaged sheds, fences, and roofs can need a demolition or re-roof permit before the debris goes in a bin."
+      }
+    ],
+    placementIntro: "Dumpster placement in Pierce usually happens on a driveway or gravel yard. The Town does not publish a dumpster permit.",
+    placementNotes: [
+      "Driveway or yard placement on private property is the standard setup. The Town does not publish a separate dumpster permit.",
+      "Ask Town Hall before planning a bin in a street. The Town's fee schedule covers street cut permits but lists no dumpster or street-placement permit.",
+      "Trash is collected by Maverick Disposal, with totes at the curb early Tuesday morning. Keep the container clear of the tote spot.",
+      "Properties in the floodway or flood zone can carry extra permit requirements. The Town posts a guide to owning property in a flood zone.",
+      "Rural lots outside Town limits fall under Weld County, not the Town. Check Weld County Public Works before anything goes on a county road.",
+      "When in doubt, confirm placement requirements with Pierce Town Hall (970-834-2851) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Pierce",
+      "Original town grid",
+      "US-85 corridor",
+      "Rural Pierce acreage"
+    ],
+    nearbyCities: [
+      "Ault",
+      "Nunn",
+      "Eaton",
+      "Greeley",
+      "Wellington",
+      "Severance",
+      "Windsor",
+      "Fort Collins",
+      "Cheyenne, WY"
+    ],
+    faq: [
+      {
+            "question": "Do I need a permit for a dumpster in Pierce, Colorado?",
+            "answer": "The Town does not publish a dumpster permit for a bin on your own property. Call Town Hall at 970-834-2851 before planning anything in a street."
+      },
+      {
+            "question": "Does tearing down a shed or barn in Pierce need a permit?",
+            "answer": "Pierce lists demolitions among the projects that need a building permit. Talk to the building permit technician before the teardown, especially if the property is in a flood zone."
+      },
+      {
+            "question": "Does a Pierce re-roof need a building permit?",
+            "answer": "Yes. Re-roofing is on the Town's list. Apply through CommunityCore, run by SAFEbuilt. Schedule inspections with SAFEbuilt at 970-674-1036; calls before 7:30 am can get a same-day inspection."
+      },
+      {
+            "question": "How long is a Pierce building permit good for?",
+            "answer": "A permit becomes void if work has not started within 180 days of its date, or if more than 180 days pass between inspections. Book the dumpster when the work is ready to start."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/pierce-co-dumpster-rental-hero.webp',
+      alt: "Brick red roll-off dumpster on a gravel drive beside a white farmhouse, with a grain elevator and railroad tracks behind it in Pierce, Colorado",
+    },
+    latitude: 40.6353,
+    longitude: -104.7547,
+    pricingPlacementNote: "Pierce does not publish a dumpster permit. Re-roofs and demolitions need a Town building permit through SAFEbuilt.",
+  },
+  // ─── NUNN (CO) ────────────────────────────────────────
+  {
+    slug: "nunn-co-dumpster-rental",
+    cityName: "Nunn",
+    stateName: "Colorado",
+    stateAbbr: "CO",
+    metaTitle: "Nunn, CO Dumpster Rental",
+    metaDescription: "Nunn, Colorado dumpster rental for cleanouts, roofing, and remodels. The Town's shared trash dumpsters are household-only: no furniture, mattresses, or tires.",
+    primaryKeyword: "nunn co dumpster rental",
+    secondaryKeywords: [
+      "dumpster rental nunn co",
+      "nunn construction dumpster rental",
+      "roll off dumpster nunn",
+      "roll off dumpster nunn co",
+      "rolloff dumpsters nunn",
+      "roll offs nunn co",
+      "10 yard dumpster rental nunn",
+      "20 yard dumpster rental nunn",
+      "30 yard dumpster rental nunn",
+      "nunn dumpster permit"
+    ],
+    heroH1: "Dumpster Rental in Nunn, Colorado",
+    heroSubheadline: "Roll-off dumpster rental for cleanouts, roofing tear-offs, remodels, and prairie-lot projects across Nunn and northern Weld County toward the Wyoming line.",
+    introParagraphs: [
+      "Nunn is a small high-plains town on the old Denver Pacific line between Denver and Cheyenne. The area west of town was Maynard Flats. The town plat in 1906 first used the name Maynard, but a railroad foreman preferred Tom Nunn, a homesteader who flagged down a train after finding a burning bridge about a mile north of Pierce. Nunn was incorporated in 1908 and adopted the slogan Watch Nunn Grow. The work here is cleanouts, roofs, remodels, and big-lot projects.",
+      "Nunn's trash system is the reason a roll-off comes up. Residents share Town dumpsters, each allocated to about three homes, and they are for household trash only. The Town's welcome letter says not to put mattresses, furniture, electronics, tires, or hazardous materials in them, and trash infractions bring a citation from Nunn Municipal Court. Anyone who is not a Town resident may not use them at all. A cleanout or remodel needs its own container.",
+      "Rolloff Dumpster Finder helps Nunn homeowners compare roll-off options across the Nunn, Pierce, and Ault area. Availability depends on which providers cover your address, and delivery distance matters this far north. Give each provider the address, the project type, and any gravel drive or soft ground. Ask for the included weight allowance, overage rate per ton, rental period, daily extension fee, and any trip charge."
+    ],
+    pricingGuide: [
+      { size: "10 Yard", uses: "Garage cleanouts, flooring removal, sod and soil, single-room remodels", range: "Quoted per haul + tons" },
+      { size: "15 Yard", uses: "Bathroom remodels, basement cleanouts, small deck removal, landscaping debris", range: "Quoted per haul + tons" },
+      { size: "20 Yard", uses: "Roofing tear-offs, kitchen remodels, basement finishes, full home cleanouts", range: "Quoted per haul + tons" },
+      { size: "30 Yard", uses: "Estate cleanouts, large renovations, additions, mixed construction debris", range: "Quoted per haul + tons" },
+      { size: "40 Yard", uses: "Major construction, commercial projects, large multi-room demolition", range: "Quoted per haul + tons" },
+    ],
+    projects: [
+      {
+            "number": "01",
+            "name": "Household Cleanouts",
+            "description": "The shared Town dumpsters are for household trash only. Furniture, mattresses, and electronics from a move or estate need a separate container or a hauler that takes them."
+      },
+      {
+            "number": "02",
+            "name": "Re-Roofs",
+            "description": "Nunn lists re-roofs as one-stop building permits, with a $50 administrative fee on the 2026 fee schedule plus the Town's 2% use tax on building permits. Get the permit before the tear-off."
+      },
+      {
+            "number": "03",
+            "name": "Trees & Limbs",
+            "description": "Nunn has a Town site for trees and limbs only, and dumping there needs a permit from the Town Clerk first. A roll-off makes sense when limbs come mixed with fencing, sod, or other debris."
+      },
+      {
+            "number": "04",
+            "name": "Big-Lot Projects",
+            "description": "Agricultural lots of five acres or more are the only places livestock is allowed in Town. Sheds, corrals, and fencing on those lots produce mixed lumber and metal."
+      },
+      {
+            "number": "05",
+            "name": "Remodels",
+            "description": "Kitchen and bath tear-outs produce cabinets, tile, and fixtures that do not belong in the shared household bins. Ask the provider about weight before the tile comes up."
+      }
+    ],
+    placementIntro: "Dumpster placement in Nunn usually happens on a driveway or gravel yard. The Town's right-of-way permit is written for construction in streets.",
+    placementNotes: [
+      "Driveway or yard placement on private property is the standard setup. The Town does not publish a separate dumpster permit.",
+      "Nunn's right-of-way construction permit, under Sec. 12.12.030, covers construction and excavation in public streets and is issued by the Town Clerk with the Town Engineer. Ask Town Hall before planning a bin in the street.",
+      "Keep the roll-off away from the shared Town dumpster so the trash truck can reach it.",
+      "Leaves and trimmings may be piled neatly along alley or street edges for pickup only if they do not obstruct passage, under Sec. 8.04.110. A container in the same spot needs the same care.",
+      "Rural lots outside Town limits fall under Weld County, not the Town.",
+      "When in doubt, confirm placement requirements with Nunn Town Hall (970-897-2385) and your rental provider before scheduling delivery."
+    ],
+    neighborhoods: [
+      "Downtown Nunn",
+      "Original town plat",
+      "US-85 corridor",
+      "Agricultural lots"
+    ],
+    nearbyCities: [
+      "Pierce",
+      "Ault",
+      "Wellington",
+      "Eaton",
+      "Severance",
+      "Fort Collins",
+      "Greeley",
+      "Windsor",
+      "Cheyenne, WY"
+    ],
+    faq: [
+      {
+            "question": "Can I put remodel or cleanout debris in Nunn's Town dumpsters?",
+            "answer": "No. The shared Town dumpsters are for household trash only. The Town says not to dispose of mattresses, furniture, electronics, tires, or hazardous materials in them, and trash infractions can bring a citation from Nunn Municipal Court."
+      },
+      {
+            "question": "Do I need a permit for a roll-off dumpster in Nunn?",
+            "answer": "The Town does not publish a dumpster permit for a bin on your own property. Its right-of-way construction permit covers construction in public streets, so call Town Hall at 970-897-2385 before planning street placement."
+      },
+      {
+            "question": "Does a Nunn re-roof need a permit?",
+            "answer": "Yes. Re-roofs are one-stop building permits. The 2026 fee schedule lists a $50 administrative fee for one-stop permits, plus the 2% use tax on all building permits."
+      },
+      {
+            "question": "Where can I take tree limbs in Nunn?",
+            "answer": "The Town has a site for trees and limbs only. Dumping there requires a permit from the Town Clerk first, and anything other than trees or limbs is prohibited."
+      },
+      {
+            "question": "Does Nunn have a spring cleanup?",
+            "answer": "Yes. The Town's welcome letter says spring cleanup is provided for residents each year. A light cleanup can wait for it. A remodel or estate cleanout usually cannot."
+      }
+    ],
+    heroImage: {
+      src: '/RDF-Images/nunn-co-dumpster-rental-hero.webp',
+      alt: "Tan roll-off dumpster on a gravel drive beside a small house with open prairie beyond in Nunn, Colorado",
+    },
+    latitude: 40.7069,
+    longitude: -104.7839,
+    pricingPlacementNote: "Nunn does not publish a dumpster permit. Re-roofs are one-stop permits with a $50 administrative fee plus 2% use tax.",
+  },
 ]

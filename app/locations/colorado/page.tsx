@@ -415,6 +415,31 @@ const cityCards = [
     slug: 'lasalle-co-dumpster-rental',
     desc: "Railroad town south of Greeley where roofs need a building permit and the ROW permit is written for excavation.",
   },
+  {
+    city: 'Mead',
+    slug: 'mead-co-dumpster-rental',
+    desc: "Beet-railroad town near Longmont where a street dumpster is an obstruction with a $1,000-a-day extension fee.",
+  },
+  {
+    city: 'Kersey',
+    slug: 'kersey-co-dumpster-rental',
+    desc: "US-34 town east of Greeley with no dumpster permit and a resident limb recycle area.",
+  },
+  {
+    city: 'Lochbuie',
+    slug: 'lochbuie-co-dumpster-rental',
+    desc: "I-76 town where a roll-off can sit 72 hours anywhere without a permit, then needs one.",
+  },
+  {
+    city: 'Pierce',
+    slug: 'pierce-co-dumpster-rental',
+    desc: "1869 Denver Pacific siding town where re-roofs and demolitions need a building permit.",
+  },
+  {
+    city: 'Nunn',
+    slug: 'nunn-co-dumpster-rental',
+    desc: "High-plains town where the shared Town dumpsters take household trash only.",
+  },
 ]
 
 const projects = [
