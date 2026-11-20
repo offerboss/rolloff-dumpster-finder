@@ -104,7 +104,7 @@ const faq = [
   {
     question: 'Can I get same-day delivery on a 10-yard dumpster?',
     answer:
-      'Same-day delivery is available from most local roll-off operators if you call before noon. Larger national providers are less likely to offer same-day service than smaller local operators. For more on how same-day delivery works and what to say when you call, see the same-day dumpster rental guide.',
+      'Availability depends on the operator and the day, so ask when you call. For how same-day delivery works and what to say when you call, see the same-day dumpster rental guide.',
   },
 ]
 
@@ -375,7 +375,7 @@ const bodyHtml = `
 
 <p>If the container fills mid-project, a second pull is usually cheaper than having booked a 20-yard at the start. The exception is if the project scope clearly called for more capacity from the beginning, in which case sizing correctly on the first booking saves both money and a scheduling call.</p>
 
-<p>Same-day delivery is available from most local operators if you call before noon. For how to find operators who can move that fast and what a rush fee typically runs, see the <a href="/resources/same-day-dumpster-rental" class="text-orange hover:underline">same-day dumpster rental guide</a>.</p>
+<p>For how to find operators who can move that fast and what a rush fee typically runs, see the <a href="/resources/same-day-dumpster-rental" class="text-orange hover:underline">same-day dumpster rental guide</a>.</p>
 
 <h2 id="sizing-up">When to Step Up to a 20-Yard</h2>
 

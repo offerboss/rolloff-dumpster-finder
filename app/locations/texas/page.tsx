@@ -229,7 +229,7 @@ const faq = [
   },
   {
     q: 'How quickly can I get dumpster delivery in Texas?',
-    a: 'In major metros like Dallas, Houston, and Austin, same-week delivery is typically available. During hail season or after major storm events, lead times stretch as providers get slammed with roofing jobs. During normal periods, plan for 24–48 hours in metro areas.',
+    a: 'During hail season or after major storm events, lead times stretch as providers get slammed with roofing jobs.',
   },
   {
     q: 'Do you serve multiple Texas cities?',

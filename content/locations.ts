@@ -2939,7 +2939,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Provo?',
         answer:
-          'Most Utah County providers deliver within 24–48 hours of booking. For planned projects, a few days of lead time gives you more control over timing and container size availability.',
+          'For planned projects, a few days of lead time gives you more control over timing and container size availability.',
       },
       {
         question: 'Do you serve Orem, Springville, and nearby cities?',
@@ -3152,7 +3152,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Ogden?',
         answer:
-          'Most Weber County providers deliver within 24–48 hours of booking. For planned projects, a few days of lead time gives you more control over timing and container availability. Spring and fall are the busiest seasons — booking ahead helps.',
+          'For planned projects, a few days of lead time gives you more control over timing and container availability. Spring and fall are the busiest seasons — booking ahead helps.',
       },
       {
         question: 'Do you serve Roy, Clearfield, and nearby cities?',
@@ -3571,7 +3571,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Lehi?',
         answer:
-          'Most northern Utah County providers deliver within 24–48 hours of booking. For planned projects, a few days of lead time gives you more control over timing and container size. Commercial jobs at the Thanksgiving Point or Silicon Slopes corridor may need additional coordination for site access.',
+          'For planned projects, a few days of lead time gives you more control over timing and container size. Commercial jobs at the Thanksgiving Point or Silicon Slopes corridor may need additional coordination for site access.',
       },
       {
         question: 'Do you serve American Fork, Eagle Mountain, and nearby cities?',
@@ -5047,7 +5047,6 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Cheyenne for home cleanouts, construction debris, and renovation projects across Laramie County.',
     introParagraphs: [
       'Cheyenne is Wyoming\'s largest city and state capital, with a mix of older residential neighborhoods, active construction, and working ranches on the urban fringe. Most home cleanouts and remodels in Cheyenne work with a 10- or 20-yard container.',
-      'Delivery windows of 48–72 hours are standard for most Cheyenne-area providers.',
       'Wind events in southeast Wyoming can accelerate exterior project timelines. If you are replacing a fence, cleaning out storm-damaged outbuildings, or clearing land on a rural property, confirm weight limits before loading — dirt and rock hit limits fast.',
     ],
     pricingGuide: [
@@ -5097,7 +5096,7 @@ export const cityLocations: CityLocation[] = [
       },
       {
         question: 'How far in advance do I need to book in Cheyenne?',
-        answer: '48–72 hours is standard for most Cheyenne-area providers. For rural Laramie County deliveries or larger containers, 3–5 business days is more reliable. Book earlier during active construction season.',
+        answer: 'Book earlier during active construction season.',
       },
     ],
     latitude: 41.1400,
@@ -5171,7 +5170,7 @@ export const cityLocations: CityLocation[] = [
       },
       {
         question: 'What is the typical delivery lead time in Casper?',
-        answer: 'Most Casper-area providers deliver within 48–72 hours of booking. For rural addresses or specialty container sizes, plan for 3–5 business days. Availability tightens in summer — book ahead.',
+        answer: 'Availability tightens in summer — book ahead.',
       },
     ],
     latitude: 42.8501,
@@ -5244,7 +5243,7 @@ export const cityLocations: CityLocation[] = [
       },
       {
         question: 'How quickly can I get delivery in Gillette?',
-        answer: 'Standard lead time is 48–72 hours. Availability tightens in summer and can be limited for specialty sizes. If you need same-day or next-day delivery, call ahead to confirm stock.',
+        answer: 'Availability tightens in summer and can be limited for specialty sizes. If you need same-day or next-day delivery, call ahead to confirm stock.',
       },
     ],
     latitude: 44.2912,
@@ -5269,7 +5268,6 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Roll-off dumpster rental in Laramie for home cleanouts, renovation projects, and construction debris across Albany County.',
     introParagraphs: [
       'Laramie sits at 7,165 feet in southeast Wyoming and is home to the University of Wyoming. The city\'s rental market sees consistent cleanout demand around lease turnover, and its residential core has a mix of older homes and newer construction near campus. Most cleanouts use 10–15 yard containers.',
-      'Book 48–72 hours ahead for standard service.',
       'Laramie\'s high-altitude location and proximity to I-80 keep construction activity consistent. Winter weather can complicate delivery scheduling from November through March — plan ahead if your project falls in that window.',
     ],
     pricingGuide: [
@@ -5342,7 +5340,7 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Rock Springs for home cleanouts, construction debris, and renovation projects in Sweetwater County.',
     introParagraphs: [
       'Rock Springs is a Sweetwater County city in southwest Wyoming, connected to the regional economy through energy, transportation, and service industries. The city has a stable residential base and consistent demand for cleanout and construction containers.',
-      'The provider pool is limited — advance booking of 48–72 hours is standard, and specialty sizes may require more lead time. Nearby Green River is also served by most Rock Springs providers.',
+      'Nearby Green River is also served by most Rock Springs providers.',
       'Rock Springs sits along I-80 with access to a broad surrounding area. Rural Sweetwater County parcels — particularly properties used for ranching or energy-related work — often need larger containers and may carry a delivery mileage charge.',
     ],
     pricingGuide: [
@@ -5378,7 +5376,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Rock Springs, WY?',
-        answer: 'Pricing varies by container size, debris type, weight, and delivery distance. The limited provider pool means availability can be tight — book 48–72 hours ahead.',
+        answer: 'Pricing varies by container size, debris type, weight, and delivery distance.',
       },
       {
         question: 'Do Rock Springs providers also serve Green River?',
@@ -5415,7 +5413,7 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Roll-off dumpster rental in Sheridan for home cleanouts, ranch property debris, and renovation projects across Sheridan County.',
     introParagraphs: [
       'Sheridan is a northern Wyoming city at the base of the Bighorn Mountains in Sheridan County. The city has a well-preserved historic downtown, a strong agriculture and ranching economy, and consistent residential construction activity. Most cleanout and renovation jobs use 10–20 yard containers.',
-      'The provider pool is limited, and advance booking of 48–72 hours is typical. During peak summer months, availability can tighten — book ahead for time-sensitive jobs.',
+      'During peak summer months, availability can tighten — book ahead for time-sensitive jobs.',
       'Sheridan County\'s large ranch and agricultural properties are a common source of rural cleanout requests. Outbuildings, equipment sheds, and decades-old accumulations on ranch parcels often need 30–40 yard containers and may require multiple pulls.',
     ],
     pricingGuide: [
@@ -5463,7 +5461,7 @@ export const cityLocations: CityLocation[] = [
       },
       {
         question: 'How far in advance should I book in Sheridan?',
-        answer: '48–72 hours is standard for most jobs. For large containers, rural delivery, or projects during peak summer months, book 4–5 business days ahead to ensure availability.',
+        answer: 'For large containers, rural delivery, or projects during peak summer months, book early to ensure availability.',
       },
     ],
     latitude: 44.7972,
@@ -5493,7 +5491,7 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Oklahoma City for home cleanouts, tornado cleanup, construction debris, and renovation projects across the OKC metro.',
     introParagraphs: [
       'Oklahoma City is one of the fastest-growing metros in the South-Central US, with active residential construction, commercial development, and consistent storm cleanup demand. The city sits in Tornado Alley — post-storm cleanups are a recurring driver of container demand, particularly in south and southwest OKC neighborhoods.',
-      'Pricing in Oklahoma City is competitive. The metro has multiple providers, which keeps lead times short — 24–48 hours is typical for in-city delivery. During and after major storm events, availability can tighten fast.',
+      'Pricing in Oklahoma City is competitive. During and after major storm events, availability can tighten fast.',
       'Oklahoma City\'s spread-out geography means delivery zones vary significantly by provider. Confirm your address is in-network before booking, especially for addresses in far northwest OKC, Moore, Edmond, or Yukon.',
     ],
     pricingGuide: [
@@ -5543,7 +5541,7 @@ export const cityLocations: CityLocation[] = [
       },
       {
         question: 'How quickly can I get delivery in Oklahoma City?',
-        answer: '24–48 hours is typical for in-city delivery in OKC. During post-storm surges, lead times can extend. If timing is critical, call rather than booking online to confirm same-day or next-day availability.',
+        answer: 'During post-storm surges, lead times can extend. If timing is critical, call rather than booking online to confirm same-day or next-day availability.',
       },
     ],
     latitude: 35.4676,
@@ -5571,7 +5569,7 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Tulsa for home cleanouts, storm debris, construction projects, and renovation work across the Tulsa metro.',
     introParagraphs: [
       'Tulsa is Oklahoma\'s second-largest city, with a strong mix of residential neighborhoods, active construction, and commercial development in Tulsa County. The Tulsa metro includes Broken Arrow, Owasso, Jenks, and Sand Springs — all served by providers based in or near the city.',
-      'Pricing in Tulsa is competitive. The city has a solid provider network, and 24–48 hour delivery is standard for most in-city addresses. During storm season, call early — demand spikes fast after significant weather events.',
+      'Pricing in Tulsa is competitive. During storm season, call early — demand spikes fast after significant weather events.',
       'Tulsa\'s older neighborhoods — Midtown, Brookside, Cherry Street — have historic homes where renovation debris can include dense materials like plaster, brick, and old-growth lumber. These hit weight limits fast — size up or confirm weight allowances before loading.',
     ],
     pricingGuide: [
@@ -5650,7 +5648,7 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Norman for home cleanouts, construction debris, and renovation projects across Cleveland County.',
     introParagraphs: [
       'Norman is home to the University of Oklahoma and is one of Oklahoma\'s fastest-growing cities. Located just south of Oklahoma City in Cleveland County, Norman has active residential construction, strong rental property turnover, and consistent home renovation activity.',
-      'Most OKC-area providers serve Norman, giving you reasonable selection. Book 24–48 hours ahead for standard delivery.',
+      'Most OKC-area providers serve Norman, giving you reasonable selection.',
       'Norman\'s growth has pushed residential construction into the city\'s northwest and east sides. New build debris, subdivision development, and renovation of older University North Park and Brookhaven-area homes all create container demand.',
     ],
     pricingGuide: [
@@ -5727,7 +5725,6 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Roll-off dumpster rental in Broken Arrow for home cleanouts, construction debris, and renovation projects across the Tulsa metro.',
     introParagraphs: [
       'Broken Arrow is Tulsa\'s largest suburb and one of the fastest-growing cities in Oklahoma. Located in both Tulsa and Wagoner Counties, the city has extensive new residential construction, established neighborhoods under renovation, and a large commercial base.',
-      'Most Tulsa-area providers cover Broken Arrow, and 24–48 hour delivery is standard for most addresses.',
       'Broken Arrow\'s residential construction activity — particularly in its Rose District and east-side growth areas — generates consistent demand for 20 and 30-yard construction containers. Home renovation in the city\'s established 1970s and 1980s-era neighborhoods is also a steady driver.',
     ],
     pricingGuide: [
@@ -5800,7 +5797,6 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Edmond for home cleanouts, construction debris, and renovation projects north of Oklahoma City.',
     introParagraphs: [
       'Edmond is one of the fastest-growing cities in Oklahoma, located just north of Oklahoma City in Oklahoma County. Strong residential growth, active renovation, and a consistent new construction pipeline make Edmond one of the more active container rental markets in the OKC metro.',
-      'Most OKC-area providers serve Edmond, and 24–48 hour delivery is standard. For larger containers during peak construction season, book 3–4 days ahead.',
       'Edmond\'s newer construction — particularly in Deer Creek, Coffee Creek, and Waterloo Road corridors — generates steady new-build debris demand. Renovation of older homes near downtown also drives cleanout and remodel container requests.',
     ],
     pricingGuide: [
@@ -5836,7 +5832,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Edmond, OK?',
-        answer: 'Price varies by container size, debris type, weight, and delivery location. Most OKC-area providers serve Edmond with 24–48 hour delivery.',
+        answer: 'Price varies by container size, debris type, weight, and delivery location.',
       },
       {
         question: 'Do I need a permit to place a dumpster in Edmond?',
@@ -5869,7 +5865,7 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Find roll-off dumpster rental options in Lawton for home cleanouts, construction debris, and renovation projects in Comanche County.',
     introParagraphs: [
       'Lawton is southwest Oklahoma\'s largest city, located in Comanche County adjacent to Fort Sill. The city has a diverse economy anchored by Fort Sill and regional services, with steady residential construction and home renovation activity across its urban and suburban areas.',
-      'Lawton has fewer providers than OKC or Tulsa, which can tighten availability. Book 48–72 hours ahead for standard delivery.',
+      'Lawton has fewer providers than OKC or Tulsa, which can tighten availability.',
       'Lawton\'s proximity to Fort Sill means the local housing market has high turnover — military families moving in and out generate consistent cleanout demand. Most residential cleanouts use 10–20 yard containers.',
     ],
     pricingGuide: [
@@ -5905,7 +5901,7 @@ export const cityLocations: CityLocation[] = [
     faq: [
       {
         question: 'How much does dumpster rental cost in Lawton, OK?',
-        answer: 'Pricing varies by container size, debris type, weight, and delivery location. Lawton has fewer providers than larger Oklahoma metros — book 48–72 hours ahead.',
+        answer: 'Pricing varies by container size, debris type, weight, and delivery location.',
       },
       {
         question: 'Can I place a dumpster on Fort Sill housing property in Lawton?',
@@ -6102,7 +6098,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Tucson?',
         answer:
-          'Most Tucson providers deliver within 24–48 hours for standard orders. Tucson has fewer providers than Phoenix, which means tighter availability — booking a few days ahead is the safer play if your project has a firm start date.',
+          'Tucson has fewer providers than Phoenix, which means tighter availability — booking a few days ahead is the safer play if your project has a firm start date.',
       },
       {
         question: 'Do you serve nearby cities like Marana, Oro Valley, and Sahuarita?',
@@ -6291,7 +6287,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Jackson?',
         answer:
-          'Most Jackson-area providers need 48–72 hours for standard deliveries. During peak summer construction months — June through August — availability can tighten, and a 4–5 day lead time is more reliable. Book early if your project has a fixed start date.',
+          'Book early if your project has a fixed start date.',
       },
       {
         question: 'Do you serve nearby areas like Wilson, Teton Village, and Driggs?',
@@ -6471,7 +6467,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Evanston?',
         answer:
-          'Most Evanston-area providers need 48–72 hours for standard deliveries. For rural Uinta County addresses or larger containers, plan for 3–5 business days. The provider pool is small — if your project has a firm start date, book early.',
+          'The provider pool is small — if your project has a firm start date, book early.',
       },
       {
         question: 'Do you serve nearby areas like Lyman, Mountain View, and Kemmerer?',
@@ -6650,7 +6646,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Green River?',
         answer:
-          'Most providers need 48–72 hours for standard deliveries. Because Green River shares a provider pool with Rock Springs, availability is generally reasonable outside of peak summer construction months. For commercial or industrial projects, 3–5 business days is more reliable.',
+          'Because Green River shares a provider pool with Rock Springs, availability is generally reasonable outside of peak summer construction months.',
       },
       {
         question: 'Do you serve Rock Springs and other nearby areas?',
@@ -6828,7 +6824,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Riverton?',
         answer:
-          'Most Riverton-area providers need 48–72 hours for standard residential deliveries. Rural addresses and larger container sizes may require 3–5 business days. The provider pool is small, so if your project has a firm start date, book early.',
+          'The provider pool is small, so if your project has a firm start date, book early.',
       },
       {
         question: 'Do you serve Lander, Shoshoni, and other Fremont County areas?',
@@ -8258,7 +8254,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Grand Prairie?',
         answer:
-          'After a major hail event across the DFW corridor, lead times stretch as providers fill with roofing jobs across Dallas, Tarrant, and adjacent counties. During spring storm season, plan for 24–72 hours.',
+          'After a major hail event across the DFW corridor, lead times stretch as providers fill with roofing jobs across Dallas, Tarrant, and adjacent counties.',
       },
       {
         question: 'Do you serve Arlington, Dallas, and nearby cities?',
@@ -9063,7 +9059,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get delivery in Pueblo?',
         answer:
-          'Most providers serving Pueblo deliver within 24–48 hours. Hail storm season can create backlogs — call early in the week if you can. Waiting until Friday afternoon usually means Monday delivery.',
+          'Hail storm season can create backlogs — call early in the week if you can. Waiting until Friday afternoon usually means Monday delivery.',
       },
       {
         question: 'Do you serve Pueblo West and nearby communities?',
@@ -9280,7 +9276,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get delivery in St. George?',
         answer:
-          "Most providers serving St. George can deliver within 24–48 hours. The city's active construction market means demand stays high year-round — call early in the week when you can.",
+          "The city's active construction market means demand stays high year-round — call early in the week when you can.",
       },
       {
         question: 'Do you serve Santa Clara, Ivins, Washington City, and Hurricane?',
@@ -9495,7 +9491,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get delivery in Flagstaff?',
         answer:
-          "Most providers serving Flagstaff can deliver within 24–48 hours. Flagstaff is more remote than Phoenix — fewer providers means scheduling can tighten during busy seasons. Summer is active for both tourism and renovation. Winter deliveries depend on road and driveway conditions after snow.",
+          "Flagstaff is more remote than Phoenix — fewer providers means scheduling can tighten during busy seasons. Summer is active for both tourism and renovation. Winter deliveries depend on road and driveway conditions after snow.",
       },
       {
         question: 'Do you serve Williams, Sedona, Winslow, and nearby areas?',
@@ -9710,7 +9706,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Prescott?',
         answer:
-          'Most providers serving Prescott can deliver within 24–48 hours. Prescott is large enough to have local carriers — you are not waiting for a Phoenix truck to drive up. Spring and fall are busy renovation seasons. Booking early in the week gives you more scheduling flexibility.',
+          'Prescott is large enough to have local carriers — you are not waiting for a Phoenix truck to drive up. Spring and fall are busy renovation seasons. Booking early in the week gives you more scheduling flexibility.',
       },
       {
         question: 'Do you serve Prescott Valley, Chino Valley, and Dewey-Humboldt?',
@@ -9926,7 +9922,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Waco?',
         answer:
-          'Most providers serving Waco can deliver within 24–48 hours. During hail season, demand spikes and lead times can stretch. Booking as soon as you know you need a container is the right move after a major storm — the post-storm window fills up fast.',
+          'During hail season, demand spikes and lead times can stretch. Booking as soon as you know you need a container is the right move after a major storm — the post-storm window fills up fast.',
       },
       {
         question: 'Do you serve Woodway, Hewitt, Bellmead, and nearby cities?',
@@ -13474,7 +13470,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Fort Morgan?',
         answer:
-          'Delivery typically runs 2–4 business days in Fort Morgan — slightly longer than Front Range markets due to fewer haulers operating in the area. Booking a day or two ahead is more important here than in metro markets.',
+          'Booking a day or two ahead is more important here than in metro markets.',
       },
       {
         question: 'Do you serve Brush, Wiggins, and nearby Morgan County communities?',
@@ -13671,7 +13667,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Gunnison?',
         answer:
-          'Delivery typically runs 2–4 business days in Gunnison. Fewer haulers operate in this market than on the Front Range. Winter weather can extend lead times further — booking a week ahead is the safe call for projects that run November through April.',
+          'Fewer haulers operate in this market than on the Front Range. Winter weather can extend lead times further — booking a week ahead is the safe call for projects that run November through April.',
       },
       {
         question: 'Do you serve Crested Butte, Montrose, and nearby areas?',
@@ -13867,7 +13863,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Crested Butte?',
         answer:
-          'Plan for 3–5 business days in most cases. Providers typically run from Gunnison, 28 miles south. Winter weather can extend lead times significantly — road conditions on CO-135 can delay delivery after heavy snowfall. Booking a week or more ahead is the right call for winter projects.',
+          'Providers typically run from Gunnison, 28 miles south. Winter weather can extend lead times significantly — road conditions on CO-135 can delay delivery after heavy snowfall. Booking a week or more ahead is the right call for winter projects.',
       },
       {
         question: 'Do you serve Mount Crested Butte and Gunnison?',
@@ -14062,7 +14058,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Mt. Crested Butte?',
         answer:
-          'Plan for 3–5 business days. Providers typically run from Gunnison, 31 miles south. During peak summer construction season in June and July, container availability tightens across the Gunnison Valley. Booking a week or more in advance is the right call during the shoulder season.',
+          'Providers typically run from Gunnison, 31 miles south. During peak summer construction season in June and July, container availability tightens across the Gunnison Valley. Booking a week or more in advance is the right call during the shoulder season.',
       },
       {
         question: 'Do you serve Crested Butte town and Gunnison?',
@@ -14257,7 +14253,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Lake City?',
         answer:
-          'Plan for 5–7 business days or more. Lake City is one of the most remote markets in Colorado — providers typically come from Gunnison, 55 miles north on CO-149. CO-149 crosses Spring Creek Pass and can be affected by weather. Book at least a week ahead for any project, and further ahead for winter-adjacent work.',
+          'Lake City is one of the most remote markets in Colorado — providers typically come from Gunnison, 55 miles north on CO-149. CO-149 crosses Spring Creek Pass and can be affected by weather. Book at least a week ahead for any project, and further ahead for winter-adjacent work.',
       },
       {
         question: 'Do you serve Gunnison, Creede, and nearby Hinsdale County areas?',
@@ -14452,7 +14448,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Almont?',
         answer:
-          'Plan for 3–5 business days. Providers typically run from Gunnison, 11 miles south. Properties up Taylor Canyon may take longer depending on access conditions. Build extra lead time into projects near the seasonal windows — late fall and early spring access can be uncertain.',
+          'Providers typically run from Gunnison, 11 miles south. Properties up Taylor Canyon may take longer depending on access conditions. Build extra lead time into projects near the seasonal windows — late fall and early spring access can be uncertain.',
       },
       {
         question: 'Do you serve Gunnison, Crested Butte, and Taylor Canyon properties?',
@@ -14653,7 +14649,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Duncan?',
         answer:
-          'Most providers serving Duncan can deliver within 24–48 hours under normal conditions. After major weather events — hail storms, tornadoes, high-wind events — availability tightens across Stephens County. Book as early as possible after storm damage; the good providers fill up fast.',
+          'After major weather events — hail storms, tornadoes, high-wind events — availability tightens across Stephens County. Book as early as possible after storm damage; the good providers fill up fast.',
       },
       {
         question: 'Do you serve Marlow, Velma, and other nearby communities?',
@@ -14854,7 +14850,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Chickasha?',
         answer:
-          'Most providers serving Chickasha can deliver within 24–48 hours under normal conditions. Chickasha is served by providers from the OKC metro and from the Southwest Oklahoma market, so coverage is generally good. After major hail or tornado events, availability tightens — book as early as possible.',
+          'Chickasha is served by providers from the OKC metro and from the Southwest Oklahoma market, so coverage is generally good. After major hail or tornado events, availability tightens — book as early as possible.',
       },
       {
         question: 'Do you serve Tuttle, Blanchard, Anadarko, and nearby towns?',
@@ -15054,7 +15050,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Altus?',
         answer:
-          'Plan for 48–72 hours in most cases. Altus has fewer active providers than the OKC or Lawton markets, and delivery lead times are longer. After major hail or wind events, availability tightens further. Book as far in advance as possible, especially for storm cleanup jobs.',
+          'Altus has fewer active providers than the OKC or Lawton markets, and delivery lead times are longer. After major hail or wind events, availability tightens further. Book as far in advance as possible, especially for storm cleanup jobs.',
       },
       {
         question: 'Do you serve Frederick, Hobart, Mangum, and nearby towns?',
@@ -15254,7 +15250,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Anadarko?',
         answer:
-          'Plan for 48–72 hours. Anadarko is a smaller market than Lawton or OKC — fewer providers operate here, and lead times are longer. After hail storms or major weather events, availability tightens further. Book as far in advance as possible, particularly for storm cleanup jobs.',
+          'Anadarko is a smaller market than Lawton or OKC — fewer providers operate here, and lead times are longer. After hail storms or major weather events, availability tightens further. Book as far in advance as possible, particularly for storm cleanup jobs.',
       },
       {
         question: 'Do you serve Chickasha, Carnegie, Fort Cobb, and nearby towns?',
@@ -15354,7 +15350,7 @@ export const cityLocations: CityLocation[] = [
         number: '03',
         name: 'Construction Debris',
         description:
-          "New residential construction has continued in Elgin as the community grows north of Lawton. Framing, drywall, roofing, and finish debris from new builds typically need a 20- to 30-yard container. Elgin's provider network mirrors Lawton's — lead times are generally in the 24–48 hour range under normal conditions.",
+          "New residential construction has continued in Elgin as the community grows north of Lawton. Framing, drywall, roofing, and finish debris from new builds typically need a 20- to 30-yard container.",
       },
       {
         number: '04',
@@ -15454,7 +15450,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Elgin?',
         answer:
-          'Most providers serving Elgin can deliver within 24–48 hours under normal conditions. Elgin uses the same provider network as Lawton, 12 miles south, so lead times are generally consistent with that market. After major weather events, availability tightens — book early after storm damage.',
+          'Elgin uses the same provider network as Lawton, 12 miles south, so lead times are generally consistent with that market. After major weather events, availability tightens — book early after storm damage.',
       },
       {
         question: 'Do you serve Lawton, Cache, and other nearby communities?',
@@ -15554,7 +15550,7 @@ export const cityLocations: CityLocation[] = [
         number: '03',
         name: 'Construction Debris',
         description:
-          'Active residential construction continues east of Higley Road and in the San Tan Ranch corridor. Framing, drywall, and finish debris from new builds typically need a 20- to 30-yard container. The Gilbert market shares the same provider network as Chandler — lead times run 24–48 hours under normal conditions.',
+          'Active residential construction continues east of Higley Road and in the San Tan Ranch corridor. Framing, drywall, and finish debris from new builds typically need a 20- to 30-yard container.',
       },
       {
         number: '04',
@@ -15793,7 +15789,7 @@ export const cityLocations: CityLocation[] = [
         number: '08',
         name: 'Construction Debris',
         description:
-          'New residential construction continues in south Moore and the Steelman Farms corridor. Framing, drywall, and finish debris from new builds typically need a 20- to 30-yard container. The OKC south metro provider network serves Moore with lead times generally in the 24–48 hour range under normal conditions.',
+          'New residential construction continues in south Moore and the Steelman Farms corridor. Framing, drywall, and finish debris from new builds typically need a 20- to 30-yard container.',
       },
       {
         number: '09',
@@ -15870,7 +15866,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Moore?',
         answer:
-          "Most providers serving Moore can deliver within 24–48 hours under normal conditions. Moore uses the same OKC metro provider network as Norman and Midwest City. After a significant tornado or storm event, lead times across the south metro can extend — book as early as possible after damage.",
+          "Moore uses the same OKC metro provider network as Norman and Midwest City. After a significant tornado or storm event, lead times across the south metro can extend — book as early as possible after damage.",
       },
       {
         question: 'Do you serve nearby cities like Norman, Midwest City, and Oklahoma City?',
@@ -15926,7 +15922,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Loveland has a split housing market. Downtown and the Westside carry homes from the 1920s through the 1960s — older craftsman bungalows, ranch homes, and split-levels that have gone decades without major renovation. Those neighborhoods generate steady estate cleanout and remodel volume, particularly as long-term owners age out. The Sunrise and Lake Loveland areas represent a second tier from the 1970s and 1980s, now producing consistent kitchen and bathroom renovation demand as original finishes reach the end of their useful life.",
       'Larimer County sits in the Front Range hail corridor, and Loveland sees the same roofing replacement cycle that hits Fort Collins every active spring and summer. The Centerra corridor on the east side has grown significantly since 2000 and continues producing new residential and commercial construction debris. The US-34 corridor — Loveland\'s connection west to Rocky Mountain National Park through the Big Thompson Canyon — also connects to rural properties and Estes Park-adjacent vacation homes that generate periodic cleanup and renovation demand.',
-      'Rolloff Dumpster Finder covers Loveland and the broader Larimer County area — Fort Collins, Windsor, Berthoud, and the corridor south toward Johnstown and Longmont. Most Loveland addresses have 24–48 hour delivery availability from the same provider network that serves Fort Collins. We show weight limits and what the base rate includes before you book. If the invoice does not match the quote, give us a call.',
+      'Rolloff Dumpster Finder covers Loveland and the broader Larimer County area — Fort Collins, Windsor, Berthoud, and the corridor south toward Johnstown and Longmont. We show weight limits and what the base rate includes before you book. If the invoice does not match the quote, give us a call.',
     ],
     pricingGuide: [
       {
@@ -16137,7 +16133,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Longmont carries more housing history than its east-of-Boulder location suggests. Old Town has homes from the 1880s and 1890s — Victorian cottages, brick bungalows, and Craftsman houses that generate consistent renovation and estate cleanout volume as they change hands. The mid-century neighborhoods west of Main Street — Garden Acres, Sunset, and the flatblock suburban streets from the 1950s and 1960s — are on their second and third renovation cycles. That combination of historic core and aging suburbs keeps dumpster demand in Longmont steady year-round.",
       'In September 2013, flooding along the St. Vrain Creek caused severe damage across Longmont and Boulder County — one of the costliest flood events in Colorado history. The rebuilding and property improvements that followed changed the character of parts of the city, and some properties are still completing long-term renovation work. Longmont also sits in the Front Range hail corridor, producing consistent asphalt shingle replacement demand each spring and summer. Active new residential construction in the Twin Peaks and northeast Longmont corridors adds a construction debris component on top of the renovation volume.',
-      'Rolloff Dumpster Finder covers Longmont and the surrounding Boulder County area — Boulder, Loveland, Berthoud, Erie, and the Lafayette-Louisville corridor. Most Longmont addresses have 24–48 hour delivery availability from the same provider network serving Boulder and the Northern Front Range. We show weight limits and what the base rate includes before you book. If the invoice does not match the quote, give us a call.',
+      'Rolloff Dumpster Finder covers Longmont and the surrounding Boulder County area — Boulder, Loveland, Berthoud, Erie, and the Lafayette-Louisville corridor. We show weight limits and what the base rate includes before you book. If the invoice does not match the quote, give us a call.',
     ],
     pricingGuide: [
       {

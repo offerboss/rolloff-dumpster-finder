@@ -493,7 +493,7 @@ const faq = [
   },
   {
     q: 'How quickly can I get delivery in Colorado?',
-    a: 'Front Range providers can typically deliver within 24–48 hours of booking. Mountain markets need 2–4 days lead time. During hail season (June through August), demand surges on the Front Range — book early or expect limited availability.',
+    a: 'During hail season (June through August), demand surges on the Front Range — book early or expect limited availability.',
   },
   {
     q: 'Do you serve ski resort towns and mountain communities?',

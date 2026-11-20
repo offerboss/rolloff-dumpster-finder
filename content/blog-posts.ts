@@ -1317,7 +1317,7 @@ export const blogPosts: BlogPost[] = [
       {
         question: 'How fast can a company deliver a dumpster?',
         answer:
-          'Next-day delivery is standard when ordered before midday. For planned projects, booking two to three days ahead usually gets you a better rate and a wider choice of container sizes.',
+          'For planned projects, booking two to three days ahead usually gets you a better rate and a wider choice of container sizes.',
       },
       {
         question: 'Do smaller local companies charge more or less than national ones?',
@@ -1544,7 +1544,7 @@ export const blogPosts: BlogPost[] = [
       {
         question: 'How fast can I get a commercial dumpster delivered?',
         answer:
-          'Next-day delivery is standard when ordered before midday. For planned commercial projects, booking two to three days ahead typically gets you better availability, a wider choice of container sizes, and a better rate.',
+          'For planned commercial projects, booking two to three days ahead typically gets you better availability, a wider choice of container sizes, and a better rate.',
       },
     ],
     body: `
@@ -1750,7 +1750,7 @@ export const blogPosts: BlogPost[] = [
 <p>A roll-off is a project tool — a one-time container rental with a defined start and end date. A commercial dumpster service is an ongoing subscription with a permanent container serviced on a regular schedule. If the need is recurring waste pickup, a roll-off is the wrong product. If the need is a one-time project, it is exactly right.</p>
 
 <h3>How fast can I get a commercial dumpster delivered?</h3>
-<p>Next-day delivery is standard when ordered before midday. For planned commercial projects, booking two to three days ahead typically gets better availability, a wider choice of container sizes, and a better rate.</p>
+<p>For planned commercial projects, booking two to three days ahead typically gets better availability, a wider choice of container sizes, and a better rate.</p>
 
 <p>The container is the easy part of a commercial project. Three site managers debating where it should go is the hard part. Give us a call — we will sort out the container. The committee is on you.</p>
 `,
@@ -3702,7 +3702,7 @@ export const blogPosts: BlogPost[] = [
 <p>Standard rentals run seven days. Call ahead on day three or four if you think you will need more time — do not wait until the last day. Probate and real estate timelines sometimes push projects longer than expected; most companies accommodate extensions without difficulty.</p>
 
 <h3>What happens if I need a second container partway through?</h3>
-<p>Call your rental company and request a swap-out: they haul the full container and deliver an empty one, usually within 24–48 hours. If you anticipate overflow before booking, asking for a 30-yard container instead of a 20-yard is almost always cheaper than calling for a second pull after the fact.</p>
+<p>Call your rental company and request a swap-out: they haul the full container and deliver an empty one. If you anticipate overflow before booking, asking for a 30-yard container instead of a 20-yard is almost always cheaper than calling for a second pull after the fact.</p>
 
 <h3>Do I need a permit for the dumpster at the estate property?</h3>
 <p>If the container goes on the private driveway, no permit is required in most jurisdictions. For a full breakdown of permit requirements by placement type, see <a href="/resources/do-you-need-a-permit-for-a-dumpster-rental">do you need a permit for a dumpster rental</a>.</p>
@@ -3741,7 +3741,7 @@ export const blogPosts: BlogPost[] = [
       {
         question: 'What happens if I need a second container partway through?',
         answer:
-          'Call your rental company and request a swap-out — they haul the full container and deliver an empty one, usually within 24–48 hours. Asking for a 30-yard instead of a 20-yard upfront is almost always cheaper than a second pull after the fact.',
+          'Call your rental company and request a swap-out — they haul the full container and deliver an empty one. Asking for a 30-yard instead of a 20-yard upfront is almost always cheaper than a second pull after the fact.',
       },
       {
         question: 'Do I need a permit for the dumpster at the estate property?',
@@ -7025,7 +7025,7 @@ export const blogPosts: BlogPost[] = [
   />
 </figure>
 
-<p>Oklahoma City is the largest dumpster rental market in the state. Multiple providers operate across the metro, and lead times are often short — typically 24–48 hours for in-city delivery.</p>
+<p>Oklahoma City is the largest dumpster rental market in the state. Multiple providers operate across the metro.</p>
 
 <p>Tulsa is Oklahoma's second-largest city. Broken Arrow, as one of Tulsa's fastest-growing suburbs, benefits from the same provider access.</p>
 

@@ -209,7 +209,7 @@ const faq = [
   },
   {
     q: 'How quickly can I get delivery in Oklahoma City or Tulsa?',
-    a: 'OKC and Tulsa providers typically deliver within 24–48 hours. During post-storm surges, lead times can extend — call early. Smaller markets like Lawton and Norman book 48–72 hours out under normal conditions.',
+    a: 'During post-storm surges, lead times can extend — call early.',
   },
   {
     q: 'What items are prohibited in Oklahoma dumpsters?',

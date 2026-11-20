@@ -372,7 +372,7 @@ const bodyHtml = `
 
 <p>Multi-pull projects may qualify for a contracted per-haul rate &#8212; lower than booking each pull separately. Ask the operator directly if the job involves more than two pulls. Not all companies offer this structure, but those that do make it available when the volume is confirmed upfront.</p>
 
-<p>If the project requires a container on short notice, local operators can often deliver same-day if the call comes before noon. For more on timing and what to say when you call, see the <a href="/resources/same-day-dumpster-rental" class="text-orange hover:underline">same-day dumpster rental guide</a>.</p>
+<p>If the project requires a container on short notice, ask the operator about same-day availability. For more on timing and what to say when you call, see the <a href="/resources/same-day-dumpster-rental" class="text-orange hover:underline">same-day dumpster rental guide</a>.</p>
 
 <h2 id="sizing-down">When a 20-Yard Is the Right Call</h2>
 

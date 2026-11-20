@@ -200,67 +200,29 @@ export default async function CityPage({ params }: Props) {
         </div>
       </section>
 
-      {/* ── 3. Cost Guide ──────────────────────────────────── */}
+      {/* ── 3. Cost (short link to the shared cost guide; local permit note only) ── */}
       <section className="bg-[#F5F4F0] py-16 px-8" id="cost-guide">
         <div className="max-w-[1200px] mx-auto">
           <div className="w-10 h-[3px] bg-orange rounded-sm mb-5" />
           <h2 className="text-[clamp(22px,3vw,30px)] font-extrabold text-charcoal tracking-tight mb-3">
-            How Is a Dumpster Rental Priced in {city.cityName}?
+            Dumpster rental cost in {city.cityName}
           </h2>
-          <p className="text-[15px] text-[#6B7280] max-w-[700px] leading-[1.65] mb-8">
-            Pricing depends on container size, debris type, weight, rental period, delivery
-            location, and landfill disposal fees. When you compare {city.cityName} quotes, check the
-            included days and tons, not just the headline number.
+          <p className="text-[15px] text-[#6B7280] max-w-[700px] leading-[1.65]">
+            The{' '}
+            <Link href="/resources/what-does-a-dumpster-rental-cost" className="text-orange underline underline-offset-2 hover:no-underline">
+              dumpster rental cost guide
+            </Link>{' '}
+            explains what goes into a quote and what to compare between providers.
+            {city.pricingPlacementNote ? <> {city.pricingPlacementNote}</> : null}
           </p>
-
-          <div className="overflow-x-auto mb-6">
-            <table className="w-full text-sm border-collapse">
-              <thead>
-                <tr className="bg-charcoal text-white">
-                  <th className="px-5 py-3 text-left font-semibold whitespace-nowrap">Dumpster Size</th>
-                  <th className="px-5 py-3 text-left font-semibold">Common Uses</th>
-                  <th className="px-5 py-3 text-left font-semibold whitespace-nowrap">
-                    How It&apos;s Priced
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                {city.pricingGuide.map((row, i) => (
-                  <tr
-                    key={row.size}
-                    className={`border-b border-gray-200 ${i % 2 === 0 ? 'bg-white' : 'bg-gray-50'} hover:bg-orange/[.04] transition-colors`}
-                  >
-                    <td className="px-5 py-4 font-semibold text-charcoal whitespace-nowrap">{row.size}</td>
-                    <td className="px-5 py-4 text-[#556070]">{row.uses}</td>
-                    <td className="px-5 py-4 font-semibold text-orange">{row.range}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-
-          <p className="text-[12px] text-[#9CA3AF] mb-8 leading-relaxed max-w-[700px]">
-            Actual pricing varies based on dumpster size, debris type, weight,
-            rental period, delivery address, and provider availability.{' '}
-            {city.pricingPlacementNote ??
-              'Street or right-of-way placement may require a permit which is not included in rental pricing.'}
-          </p>
-
           <a
             href="https://form.typeform.com/to/vgtrPHz6"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block bg-orange text-black font-bold text-[14px] px-7 py-[13px] rounded-full hover:opacity-90 transition-opacity"
+            className="inline-block mt-8 bg-orange text-black font-bold text-[14px] px-7 py-[13px] rounded-full hover:opacity-90 transition-opacity"
           >
             Get a {city.cityName} Dumpster Quote
           </a>
-          <p className="mt-5 text-[14px] text-[#6B7280]">
-            Not sure what moves the price?{' '}
-            <Link href="/resources/what-does-a-dumpster-rental-cost" className="text-orange underline underline-offset-2 hover:no-underline">
-              See how dumpster rental pricing works
-            </Link>
-            .
-          </p>
         </div>
       </section>
 

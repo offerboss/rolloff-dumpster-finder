@@ -198,7 +198,7 @@ const faq = [
   },
   {
     q: 'How quickly can I get delivery in Wyoming?',
-    a: 'Cheyenne and Casper providers typically deliver within 48–72 hours. Smaller markets like Sheridan, Rock Springs, and Gillette may need 3–5 business days. Summer months tighten availability — book ahead.',
+    a: 'Summer months tighten availability — book ahead.',
   },
   {
     q: 'What items are prohibited in Wyoming dumpsters?',

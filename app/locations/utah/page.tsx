@@ -198,7 +198,7 @@ const faq = [
   },
   {
     q: 'How quickly can I get delivery in Utah?',
-    a: 'Salt Lake Valley providers typically deliver within 24–48 hours of booking. Mountain and rural markets need more lead time — plan for 2–4 days when outside the metro. During busy spring and fall seasons, booking a few days ahead gives you more flexibility.',
+    a: 'During busy spring and fall seasons, booking a few days ahead gives you more flexibility.',
   },
   {
     q: 'Do you serve ski resort towns and mountain communities near Salt Lake City?',
