@@ -263,7 +263,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How soon can I get a roll off dumpster delivered in Denver?',
         answer:
-          'Delivery availability depends on the provider and current demand. Same-week delivery is often possible, and some providers may offer next-day options depending on availability. For planned projects, booking a few days in advance gives you more flexibility on delivery timing.',
+          'Delivery availability depends on the provider and current demand. For planned projects, booking a few days in advance gives you more flexibility on delivery timing.',
       },
     ],
     heroImage: {
@@ -461,7 +461,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Colorado Springs?',
         answer:
-          'Delivery availability depends on the provider and current demand. Same-week delivery is often possible, and some providers offer next-day options when availability allows. For planned projects, booking a few days ahead gives you more flexibility on delivery date and timing.',
+          'Delivery availability depends on the provider and current demand. For planned projects, booking a few days ahead gives you more flexibility on delivery date and timing.',
       },
       {
         question: 'Do you serve areas near Colorado Springs like Fountain, Monument, or Manitou Springs?',
@@ -679,7 +679,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Fort Collins?',
         answer:
-          'Delivery availability depends on the provider and current demand. Same-week delivery is often possible. For planned projects, booking a few days in advance gives you more flexibility on delivery timing and container selection.',
+          'Delivery availability depends on the provider and current demand. For planned projects, booking a few days in advance gives you more flexibility on delivery timing and container selection.',
       },
       {
         question: 'Do you serve nearby cities like Loveland, Windsor, and Wellington?',
@@ -889,7 +889,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Boulder?',
         answer:
-          'Same-week delivery is often available. Demand runs high during peak construction season and after hail events. Booking a few days in advance gives you more flexibility on timing and container selection.',
+          'Demand runs high during peak construction season and after hail events. Booking a few days in advance gives you more flexibility on timing and container selection.',
       },
       {
         question: 'Do you serve nearby cities like Louisville, Superior, and Lafayette?',
@@ -1097,7 +1097,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Grand Junction?',
         answer:
-          'The Grand Junction market has fewer providers than Front Range cities. Same-week delivery is often available, but inventory can be tighter. Book a few days ahead if your project has a firm start date, especially during active construction season or post-storm roofing cycles.',
+          'The Grand Junction market has fewer providers than Front Range cities. Book a few days ahead if your project has a firm start date, especially during active construction season or post-storm roofing cycles.',
       },
       {
         question: 'Do you serve nearby cities like Fruita, Clifton, and Palisade?',
@@ -1303,7 +1303,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Steamboat Springs?',
         answer:
-          'Routt County has fewer providers than Front Range markets. Same-week delivery is possible in off-peak periods, but spring renovation windows tighten availability fast. Book a week or more ahead if your project starts in April, May, or September when contractor demand is highest.',
+          'Routt County has fewer providers than Front Range markets. Book a week or more ahead if your project starts in April, May, or September when contractor demand is highest.',
       },
       {
         question: 'Do you serve nearby towns like Hayden, Craig, and Oak Creek?',
@@ -1513,7 +1513,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Phoenix?',
         answer:
-          'Phoenix has one of the more competitive dumpster markets in the Southwest. Same-day or next-day delivery is available from several providers in most Valley zip codes. Demand spikes during spring renovation season and after major monsoon events. Book a few days ahead when you can.',
+          'Phoenix has one of the more competitive dumpster markets in the Southwest. Demand spikes during spring renovation season and after major monsoon events. Book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Scottsdale, Mesa, and Chandler?',
@@ -1718,7 +1718,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Scottsdale?',
         answer:
-          'Scottsdale has good provider coverage from the greater Phoenix market. Same-day or next-day delivery is available from several companies in most Scottsdale zip codes. Spring renovation season and the fall snowbird return push availability tighter. Book a few days ahead when you can.',
+          'Scottsdale has good provider coverage from the greater Phoenix market. Spring renovation season and the fall snowbird return push availability tighter. Book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Paradise Valley, Fountain Hills, and Cave Creek?',
@@ -1919,7 +1919,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Chandler?',
         answer:
-          'Chandler has good provider coverage from the greater Phoenix market. Same-day or next-day delivery is available from several companies in most Chandler zip codes. Spring renovation season runs busy February through May. Book a few days ahead when you can.',
+          'Chandler has good provider coverage from the greater Phoenix market. Spring renovation season runs busy February through May. Book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Gilbert, Mesa, and Tempe?',
@@ -2122,7 +2122,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Mesa?',
         answer:
-          'Mesa has broad coverage from the greater Phoenix market. Same-day or next-day delivery is available from several providers across most Mesa zip codes. Demand runs highest February through May and after summer monsoon events. Book a few days ahead when you can.',
+          'Mesa has broad coverage from the greater Phoenix market. Demand runs highest February through May and after summer monsoon events. Book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Chandler, Gilbert, and Tempe?',
@@ -2325,7 +2325,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Tempe?',
         answer:
-          'Tempe has good provider coverage from the greater Phoenix market. Same-day or next-day delivery is available from several providers across most Tempe zip codes. Demand runs highest during spring semester move-out season and February through May renovation season. Book a few days ahead when you can.',
+          'Tempe has good provider coverage from the greater Phoenix market. Demand runs highest during spring semester move-out season and February through May renovation season. Book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Phoenix, Mesa, and Chandler?',
@@ -2520,7 +2520,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Glendale?',
         answer:
-          'Glendale has solid provider coverage from the greater Phoenix market. Same-day or next-day delivery is available from several companies across most Glendale zip codes. Spring renovation season and the summer monsoon aftermath push demand higher. Book a few days ahead when you can.',
+          'Glendale has solid provider coverage from the greater Phoenix market. Spring renovation season and the summer monsoon aftermath push demand higher. Book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Peoria, Surprise, and Avondale?',
@@ -2734,7 +2734,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Salt Lake City?',
         answer:
-          'Same-week delivery is typically available from SLC-area providers. Some offer next-day options depending on availability. For planned projects, booking a few days in advance gives you more flexibility on timing and container size.',
+          'For planned projects, booking a few days in advance gives you more flexibility on timing and container size.',
       },
       {
         question: 'Do you serve nearby cities like Murray, Sandy, and West Valley City?',
@@ -2939,7 +2939,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Provo?',
         answer:
-          'Most Utah County providers deliver within 24–48 hours of booking. For planned projects, a few days of lead time gives you more control over timing and container size availability. During busy spring and fall seasons, same-week delivery can tighten up.',
+          'Most Utah County providers deliver within 24–48 hours of booking. For planned projects, a few days of lead time gives you more control over timing and container size availability.',
       },
       {
         question: 'Do you serve Orem, Springville, and nearby cities?',
@@ -3206,7 +3206,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Sandy is one of the Salt Lake Valley's primary 1970s and 1980s suburban build-outs — and that housing is now 40 to 50 years old. Original owners are downsizing or passing properties to family; buyers are gutting kitchens, replacing roofs, and overhauling bathrooms that last saw an update when Carter was in office. In the Granite Hills area and older Sandy neighborhoods near 9000 South, the renovation cycle is in full swing. A kitchen gut on a 1975 ranch house fills a 15-yard container before the cabinets hit the ground.",
       'Sandy sits at the mouth of Little Cottonwood Canyon — which means Alta and Snowbird are a short drive up the road. Vacation rentals, second homes, and canyon-adjacent properties get renovated between ski seasons. Base-area rental properties turn over regularly, and the renovation cycle there runs on a different calendar than the rest of the valley. Mountain properties can have limited truck access and steeper driveways — confirm clearance with your provider before booking a canyon-adjacent delivery.',
-      'Rolloff Dumpster Finder connects Sandy and South Valley customers with roll-off containers sized for the actual job. Service extends to Cottonwood Heights, Draper, South Jordan, Midvale, Murray, West Jordan, and surrounding South Valley communities. Sandy has a well-established provider network, so same-week delivery is usually available — but HOA restrictions affect placement in many neighborhoods, and that detail is worth confirming before the truck shows up.',
+      'Rolloff Dumpster Finder connects Sandy and South Valley customers with roll-off containers sized for the actual job. Service extends to Cottonwood Heights, Draper, South Jordan, Midvale, Murray, West Jordan, and surrounding South Valley communities. HOA restrictions affect placement in many Sandy neighborhoods, and that detail is worth confirming before the truck shows up.',
     ],
     pricingGuide: [
       {
@@ -3361,7 +3361,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Sandy?',
         answer:
-          'Sandy is well-served by South Valley providers, and same-week delivery is typically available. Some offer next-day options depending on availability. For planned projects, a few days of lead time gives you more control over timing and container size.',
+          'For planned projects, a few days of lead time gives you more control over timing and container size.',
       },
       {
         question: 'Do you serve Draper, Cottonwood Heights, and nearby cities?',
@@ -3775,7 +3775,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in West Valley City?',
         answer:
-          'West Valley City is well-served by Salt Lake Valley providers. Same-week delivery is typically available, and some providers offer next-day options. For planned projects, a few days of lead time gives you more control over timing and container size.',
+          'West Valley City is well-served by Salt Lake Valley providers. For planned projects, a few days of lead time gives you more control over timing and container size.',
       },
       {
         question: 'Do you serve Taylorsville, Kearns, and nearby cities?',
@@ -3829,7 +3829,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Dallas has a wide mix of housing stock driving steady dumpster demand. Lakewood, M-Streets, Winnetka Heights, and Oak Cliff have Craftsman bungalows and Tudor cottages from the 1920s and 1930s in constant renovation. Buckner Terrace, Casa View, and Pleasant Grove are full of 1950s and 1960s post-war houses hitting the age where the kitchen, bath, and roof all need attention at the same time. An estate cleanout in a Casa View ranch fills a 20-yard container without much effort.',
       'Dallas sits in Hail Alley. A single storm system moving through the DFW area on a March or April night can trigger thousands of roofing replacements across the metro in the weeks that follow. Roll-off providers get slammed fast after a major hail event — container availability tightens within days. If you know a storm came through your neighborhood, book as soon as you have a contractor lined up. Waiting a week after a hail event means waiting longer for a container.',
-      'Rolloff Dumpster Finder connects Dallas customers with roll-off containers sized for the job. We serve Dallas neighborhoods and the wider DFW Metroplex — Irving, Garland, Richardson, Plano, Carrollton, Mesquite, Duncanville, Grand Prairie, and beyond. Get a quote based on what you are actually hauling, not a blanket estimate from someone who would rather go bigger.',
+      'Rolloff Dumpster Finder connects Dallas customers with roll-off containers sized for the job. Get a quote based on what you are actually hauling, not a blanket estimate from someone who would rather go bigger.',
     ],
     pricingGuide: [
       {
@@ -3980,7 +3980,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Dallas?',
         answer:
-          'In the Dallas metro, same-day or next-day delivery is typically available during normal periods. After a major hail event or storm, lead times stretch as providers fill with roofing jobs. During storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event or storm, lead times stretch as providers fill with roofing jobs.',
       },
       {
         question: 'Do I need a permit to put a dumpster on the street in Dallas?',
@@ -4035,7 +4035,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Houston's Inner Loop neighborhoods have some of the most active renovation markets in Texas. The Heights has Victorian and Craftsman homes from the 1890s through the 1920s — many have been bought, gutted, and rebuilt in the past decade. Montrose, Midtown, and Timbergrove have mid-century bungalows hitting renovation age. Meyerland, Bellaire, and Spring Branch have 1950s and 1960s ranch houses turning over steadily as original owners downsize. And because Houston has no zoning law, teardowns and infill new builds happen constantly throughout established neighborhoods — no variance required.",
       'Hurricane Harvey dropped over 50 inches of rain on parts of Houston in 2017 — the highest rainfall total ever recorded from a U.S. tropical cyclone. Tens of thousands of homes were gutted and rebuilt. But Harvey was not a once-in-a-generation event here. Tropical Storm Allison in 2001, Imelda in 2019, and repeated Tax Day and Memorial Day flood events have inundated homes in Meyerland, Kashmere Gardens, and low-lying areas across the city. Post-flood gut-outs are a recurring demand driver in Houston that does not exist at the same scale anywhere else in Texas.',
-      'Rolloff Dumpster Finder connects Houston customers with roll-off containers sized for the job. We serve Houston neighborhoods and the wider Greater Houston area — Sugar Land, Pearland, Pasadena, Baytown, Missouri City, Katy, Spring, League City, and beyond. Houston site access varies a lot between dense Inner Loop neighborhoods and suburban master-planned communities. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects Houston customers with roll-off containers sized for the job. Houston site access varies a lot between dense Inner Loop neighborhoods and suburban master-planned communities. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -4191,7 +4191,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Houston?',
         answer:
-          'Same-day or next-day delivery is typically available in the Houston metro during normal periods. After a major hurricane or flood event, lead times stretch significantly as providers fill with gut-out and cleanup work. After a named storm, plan for 48–96 hours rather than assuming same-day availability.',
+          'After a major hurricane or flood event, lead times stretch significantly as providers fill with gut-out and cleanup work.',
       },
       {
         question: 'Do you serve Sugar Land, Pearland, and nearby Houston suburbs?',
@@ -4240,7 +4240,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Austin's population growth has reshaped established neighborhoods over the past decade. Hyde Park, Clarksville, and Cherrywood have Craftsman bungalows and Victorian cottages from the 1890s through the 1930s — many bought by tech workers in the 2010s and now being renovated or expanded. East Austin's 1940s and 1950s frame houses are being gutted, rebuilt, and added onto at a pace that keeps dumpster providers busy year-round. Travis Heights, Bouldin Creek, and Allandale have mid-century ranches that have hit the age where the kitchen, bath, and roof all need work at the same time.",
       "Austin has made it significantly easier to build accessory dwelling units — garage apartments, backyard cottages, and secondary suites on existing lots. ADU construction has become a steady demand driver for roll-off containers across central Austin. Demo of existing garages, concrete flatwork, and caliche excavation for slab foundations generates more debris than most homeowners expect. Austin's infill development policy adds to the volume: small-lot construction debris is a daily reality in this market.",
-      'Rolloff Dumpster Finder connects Austin customers with roll-off containers sized for the job. We serve Austin and the surrounding metro — Round Rock, Cedar Park, Pflugerville, Georgetown, Kyle, Buda, Leander, and beyond. Austin site access varies considerably: tight East Austin lots have different constraints than wide suburban driveways in Cedar Park. Get a quote based on what you are hauling and where the container needs to go.',
+      'Rolloff Dumpster Finder connects Austin customers with roll-off containers sized for the job. Austin site access varies considerably: tight East Austin lots have different constraints than wide suburban driveways in Cedar Park. Get a quote based on what you are hauling and where the container needs to go.',
     ],
     pricingGuide: [
       {
@@ -4395,7 +4395,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Austin?',
         answer:
-          'Same-day or next-day delivery is typically available in the Austin metro during normal periods. Demand spikes during peak renovation season (spring and fall) when the weather is mild and project volume is high. A few days of lead time gives you more control over timing and placement.',
+          'Demand spikes during peak renovation season (spring and fall) when the weather is mild and project volume is high. A few days of lead time gives you more control over timing and placement.',
       },
       {
         question: 'Do you serve Round Rock, Cedar Park, and other Austin suburbs?',
@@ -4444,7 +4444,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'San Antonio has some of the oldest continuously occupied housing stock in Texas. The King William Historic District has Victorian-era homes from the 1870s and 1880s — structures now 140 to 150 years old, in constant need of mechanical updates and structural work. Monte Vista has large Tudor Revival, Spanish Colonial Revival, and Prairie-style homes from the 1910s through the 1940s. Dignowity Hill and Lavaca are full of early 20th-century vernacular Texas cottages that have been renovating steadily as those neighborhoods have been rediscovered. These are old houses with significant material volume when opened up for renovation.',
       'San Antonio has more military personnel, retirees, and DoD contractor activity than almost any other American city. Joint Base San Antonio — which encompasses Fort Sam Houston, Randolph Air Force Base, and Lackland Air Force Base — is the largest joint base in the Department of Defense. It creates steady housing turnover in the surrounding neighborhoods. Government Hill, Mahncke Park, and the East Side see regular cleanouts as military families rotate in and out on PCS orders. The contractor ecosystem tied to JBSA generates consistent renovation demand that does not slow between seasons.',
-      'Rolloff Dumpster Finder connects San Antonio customers with roll-off containers sized for the job. We serve San Antonio and the surrounding metro — New Braunfels, Boerne, Schertz, Universal City, Live Oak, Converse, Helotes, and Seguin. San Antonio historic neighborhoods and wide suburban corridors have different access requirements. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects San Antonio customers with roll-off containers sized for the job. San Antonio historic neighborhoods and wide suburban corridors have different access requirements. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -4599,7 +4599,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in San Antonio?',
         answer:
-          'Same-day or next-day delivery is typically available in the San Antonio metro during normal periods. A few days of lead time gives you more flexibility on timing and placement. After major storm events, lead times stretch as roofing and cleanup jobs fill provider schedules.',
+          'A few days of lead time gives you more flexibility on timing and placement. After major storm events, lead times stretch as roofing and cleanup jobs fill provider schedules.',
       },
       {
         question: 'Do you serve New Braunfels, Boerne, and nearby cities?',
@@ -4648,7 +4648,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Fort Worth has a distinctive mix of housing that spans from early 20th-century Craftsman bungalows to post-war suburban ranch houses. Fairmount, Mistletoe Heights, and Berkeley Place have homes from the 1900s through the 1930s that have been renovating steadily as the Near Southside area has come back. Ryan Place and Overton Park have 1930s and 1940s period revival homes near TCU that generate steady kitchen and bath renovation volume. Further out, Wedgwood and Seminary Hills are full of 1950s and 1960s ranch houses hitting the age where the roof, kitchen, and mechanical systems all need work at the same time.',
       'Fort Worth sits in Hail Alley alongside Dallas, and Tarrant County gets hit regularly during spring storm seasons. A major hail event across the western DFW Metroplex can trigger hundreds of simultaneous roofing replacements across Fort Worth, Arlington, and the mid-cities in the weeks that follow. Provider capacity tightens within days of a significant storm. Booking as soon as you have a contractor lined up matters more than the container size. Waiting a week after a hail event in this market means waiting longer for a container.',
-      'Rolloff Dumpster Finder connects Fort Worth customers with roll-off containers sized for the job. We serve Fort Worth and the surrounding Tarrant County metro — Arlington, Grapevine, Hurst, Euless, Bedford, Keller, Mansfield, Burleson, and North Richland Hills. Fort Worth historic neighborhoods have different access requirements than the wide suburban streets in north Fort Worth or southern Tarrant County. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects Fort Worth customers with roll-off containers sized for the job. Fort Worth historic neighborhoods have different access requirements than the wide suburban streets in north Fort Worth or southern Tarrant County. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -4798,7 +4798,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Fort Worth?',
         answer:
-          'In the Fort Worth metro, same-day or next-day delivery is typically available during normal periods. After a major hail event across Tarrant County, lead times stretch as providers fill with roofing jobs. During storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event across Tarrant County, lead times stretch as providers fill with roofing jobs.',
       },
       {
         question: 'Do I need a permit to put a dumpster on the street in Fort Worth?',
@@ -4852,7 +4852,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Plano built out fast in the 1970s, 1980s, and early 1990s as one of the Dallas metro\'s fastest-growing suburbs. That growth pace means a large portion of the housing stock is now 30 to 50 years old — precisely the age where original kitchens, bathrooms, and roofing start failing at the same time. Heritage Plano neighborhoods from the early 1970s are seeing heavy renovation activity as homeowners update properties they have held for decades. Historic Downtown Plano has a smaller pocket of homes from the 1950s and 1960s that generate a different renovation load — original plaster, cast iron plumbing, and flooring that adds volume fast.',
       "Toyota's move of its North American headquarters to Legacy West in 2017 brought thousands of relocated employees to Plano and surrounding Collin County. Many bought 1990s and 2000s Plano properties and have been updating them since. Plano is also one of the most HOA-intensive markets in North Texas — most neighborhoods have associations that govern container placement, visibility, and rental duration. Most HOAs require the container in the driveway and out of street-facing view. That's worth knowing before you schedule a delivery, not after.",
-      'Rolloff Dumpster Finder connects Plano customers with containers sized for the project. We serve Plano and the wider Collin County metro — Allen, Frisco, McKinney, Richardson, Murphy, Wylie, Sachse, and The Colony. Get a quote based on what you are actually hauling. Plano\'s well-maintained 1980s ranches and Frisco\'s newer construction don\'t always need the same container, and the price difference between sizes adds up.',
+      'Rolloff Dumpster Finder connects Plano customers with containers sized for the project. Get a quote based on what you are actually hauling. Plano\'s well-maintained 1980s ranches and Frisco\'s newer construction don\'t always need the same container, and the price difference between sizes adds up.',
     ],
     pricingGuide: [
       {
@@ -5005,7 +5005,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Plano?',
         answer:
-          'Same-day or next-day delivery is typically available in Plano during normal periods. After a major hail event in Collin County, lead times stretch across the DFW market as providers fill with roofing jobs. During storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event in Collin County, lead times stretch across the DFW market as providers fill with roofing jobs.',
       },
       {
         question: 'Do you serve Allen, Frisco, and other Collin County cities?',
@@ -5269,7 +5269,7 @@ export const cityLocations: CityLocation[] = [
     heroSubheadline: 'Roll-off dumpster rental in Laramie for home cleanouts, renovation projects, and construction debris across Albany County.',
     introParagraphs: [
       'Laramie sits at 7,165 feet in southeast Wyoming and is home to the University of Wyoming. The city\'s rental market sees consistent cleanout demand around lease turnover, and its residential core has a mix of older homes and newer construction near campus. Most cleanouts use 10–15 yard containers.',
-      'Laramie\'s smaller provider pool means less flexibility on same-day or next-day requests. Book 48–72 hours ahead for standard service.',
+      'Book 48–72 hours ahead for standard service.',
       'Laramie\'s high-altitude location and proximity to I-80 keep construction activity consistent. Winter weather can complicate delivery scheduling from November through March — plan ahead if your project falls in that window.',
     ],
     pricingGuide: [
@@ -5846,10 +5846,6 @@ export const cityLocations: CityLocation[] = [
         question: 'What size dumpster should I get for a full home renovation in Edmond?',
         answer: 'For a full kitchen or bathroom gut, a 20-yard is the standard. For multi-room or whole-home renovations, step up to a 30-yard. Edmond remodel jobs tend to be larger-scale — when in doubt, size up to avoid a second pull fee.',
       },
-      {
-        question: 'Can I get same-day delivery in Edmond?',
-        answer: 'Some OKC-area providers offer same-day delivery depending on availability and your location within Edmond. Call to confirm — booking online may not surface same-day slots.',
-      },
     ],
     latitude: 35.6528,
     longitude: -97.4781,
@@ -6106,7 +6102,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Tucson?',
         answer:
-          'Most Tucson providers deliver within 24–48 hours for standard orders. Same-day delivery is possible but not guaranteed. Tucson has fewer providers than Phoenix, which means tighter availability — booking a few days ahead is the safer play if your project has a firm start date.',
+          'Most Tucson providers deliver within 24–48 hours for standard orders. Tucson has fewer providers than Phoenix, which means tighter availability — booking a few days ahead is the safer play if your project has a firm start date.',
       },
       {
         question: 'Do you serve nearby cities like Marana, Oro Valley, and Sahuarita?',
@@ -7042,7 +7038,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Arlington?',
         answer:
-          'Same-day or next-day delivery is typically available across the Arlington market during normal periods. After a major hail event across the mid-cities corridor, lead times stretch as providers fill with roofing jobs. During storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event across the mid-cities corridor, lead times stretch as providers fill with roofing jobs.',
       },
       {
         question: 'Do I need a permit to put a dumpster on the street in Arlington?',
@@ -7245,7 +7241,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Irving?',
         answer:
-          'Same-day or next-day delivery is typically available across the Irving market during normal periods. After a major hail event across the DFW metro, lead times stretch as providers fill with roofing jobs. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event across the DFW metro, lead times stretch as providers fill with roofing jobs.',
       },
       {
         question: 'Do I need a permit to put a dumpster on the street in Irving?',
@@ -7299,7 +7295,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Frisco grew faster than nearly any city in the country through the 2000s and 2010s, and most of that housing stock is now hitting the 15-to-25-year mark. Original kitchens, roofing systems, and HVAC equipment installed when Stonebriar and Grayhawk were first developed are reaching the end of their lifecycle at the same time. First-generation homeowners and buyers remodeling after purchase both drive steady container demand across these neighborhoods. A full kitchen teardown in a 2005 Frisco home fills a 10-yard container without much effort.',
       'Frisco is still actively developing — new residential subdivisions in far west Frisco and master-planned communities near the Prosper and Celina borders generate consistent new-construction debris alongside the renovation demand in the older stock. The city sits squarely in Hail Alley, and Collin County spring storm seasons push significant roofing replacement volume each year. When a major system moves through, provider availability in north DFW tightens fast. Book as soon as a contractor is scheduled.',
-      'Rolloff Dumpster Finder connects Frisco customers with roll-off containers from local operators covering Collin County and adjacent communities. We serve Frisco and the surrounding north DFW corridor — Plano, Allen, McKinney, The Colony, Prosper, Little Elm, and Celina. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects Frisco customers with roll-off containers from local operators covering Collin County and adjacent communities. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -7446,7 +7442,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Frisco?',
         answer:
-          'Same-day or next-day delivery is typically available in the Frisco market during normal periods. After a major hail event across Collin County, lead times stretch as providers fill with roofing jobs across north DFW. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event across Collin County, lead times stretch as providers fill with roofing jobs across north DFW.',
       },
       {
         question: 'My HOA has rules about containers — what do I need to know?',
@@ -7500,7 +7496,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'McKinney has two distinct dumpster markets running at the same time. The historic downtown district and older central neighborhoods built from the 1890s through the 1960s generate estate cleanout and renovation demand as longtime residents move on and buyers take on full-gut projects. Stonebridge Ranch — one of the largest master-planned communities in North Texas, with more than 9,000 homes — has its own renovation wave as properties from the 1990s and early 2000s hit the 25-to-30-year mark. Both markets are active, and they rarely need the same container size.',
       'McKinney is still building on its western and northern edges. Trinity Falls along the West Fork Trinity River, Painted Tree, and Erwin Farms are generating consistent new-construction debris alongside the renovation demand in the older stock. Collin County sits in Hail Alley, and spring storm seasons push roofing replacement volume across the metro simultaneously. Provider capacity tightens fast after a significant event — booking as soon as a contractor is scheduled is the move, not waiting to see how the workload settles.',
-      'Rolloff Dumpster Finder connects McKinney customers with roll-off containers from local operators covering Collin County and adjacent communities. We serve McKinney and the surrounding corridor — Frisco, Allen, Prosper, Celina, Melissa, Fairview, and Princeton. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects McKinney customers with roll-off containers from local operators covering Collin County and adjacent communities. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -7654,7 +7650,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in McKinney?',
         answer:
-          'Same-day or next-day delivery is typically available in McKinney during normal periods. After a major hail event across Collin County, lead times stretch as providers fill with roofing jobs across north DFW. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event across Collin County, lead times stretch as providers fill with roofing jobs across north DFW.',
       },
       {
         question: 'Do you serve Frisco, Allen, and nearby cities?',
@@ -7703,7 +7699,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Garland built out heavily in the 1950s and 1960s as Dallas expanded northeast, and those neighborhoods are at the age where renovation and estate cleanout demand is high. Brick ranch houses across South Garland, Duck Creek, and the blocks around Heritage Crossing are 50 to 70 years old. Original kitchens, aging bathrooms, and first-generation roofing systems are all on the replacement list at once. Estate cleanouts in Garland generate some of the largest single-container loads in the DFW market — a three-bedroom ranch lived in for five decades fills a 20-yard container without much effort.',
       'Garland sits in DFW Hail Alley, and the older roofing stock across the post-WWII neighborhoods amplifies storm-season demand. When a major hail event tracks through Dallas County, Garland generates disproportionate replacement volume because many roofs were already near the end of their service life. Lake Ray Hubbard runs along the city\'s eastern edge, and the Lakeland Hills and Rowlett Creek areas see waterfront renovation activity that is distinct from what drives the rest of the Garland market.',
-      'Rolloff Dumpster Finder connects Garland customers with roll-off containers from local operators covering Dallas County and adjacent communities. We serve Garland and the surrounding east DFW corridor — Rowlett, Sachse, Richardson, Mesquite, Plano, and Wylie. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects Garland customers with roll-off containers from local operators covering Dallas County and adjacent communities. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -7861,7 +7857,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Garland?',
         answer:
-          'Same-day or next-day delivery is typically available in Garland during normal periods. After a major hail event across Dallas County, lead times stretch as providers fill with roofing jobs. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event across Dallas County, lead times stretch as providers fill with roofing jobs.',
       },
       {
         question: 'Do you serve Rowlett, Richardson, and nearby cities?',
@@ -7910,7 +7906,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Denton houses the University of North Texas and Texas Woman\'s University, and that student population creates a rental market that turns over every May and August in a way no other DFW city matches. Landlords clearing units, property managers replacing flooring and fixtures, and students moving out of off-campus houses all generate cleanout volume on the same compressed timeline. A single block of rental houses near UNT can produce a week\'s worth of container demand during a single move-out cycle. Outside of those windows, a 10-yard container handles most single-unit rental turnover.',
       'Beyond the college market, Denton County has been one of the fastest-growing counties in Texas for the past decade. New master-planned communities have expanded north and west of the older city core. At the same time, Downtown Denton\'s historic neighborhoods near the Courthouse Square have early 1900s housing stock generating renovation and estate cleanout demand on a completely different timeline. Hail Alley follows Denton along with the rest of North Texas — spring storm seasons push roofing replacement demand across both the older and newer housing stock at once.',
-      'Rolloff Dumpster Finder connects Denton customers with roll-off containers from local operators covering Denton County and adjacent communities. We serve Denton and the surrounding corridor — Lewisville, The Colony, Little Elm, Corinth, Flower Mound, Highland Village, and Argyle. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects Denton customers with roll-off containers from local operators covering Denton County and adjacent communities. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -8058,7 +8054,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Denton?',
         answer:
-          'Same-day or next-day delivery is typically available in Denton during normal periods. During the May and August student move-out seasons and after major Denton County hail events, lead times stretch. Plan for 24–72 hours during peak demand rather than assuming same-day availability.',
+          'During the May and August student move-out seasons and after major Denton County hail events, lead times stretch.',
       },
       {
         question: 'Do I need a permit for a dumpster in Denton?',
@@ -8262,7 +8258,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Grand Prairie?',
         answer:
-          'Same-day or next-day delivery is typically available during normal periods. After a major hail event across the DFW corridor, lead times stretch as providers fill with roofing jobs across Dallas, Tarrant, and adjacent counties. During spring storm season, plan for 24–72 hours.',
+          'After a major hail event across the DFW corridor, lead times stretch as providers fill with roofing jobs across Dallas, Tarrant, and adjacent counties. During spring storm season, plan for 24–72 hours.',
       },
       {
         question: 'Do you serve Arlington, Dallas, and nearby cities?',
@@ -8311,7 +8307,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Carrollton covers three distinct eras of suburban development. South Carrollton along Belt Line Road and Old Denton Road was built heavily in the 1970s and 1980s — brick ranches and traditional split-levels on established lots that are now generating renovation demand. North Carrollton\'s newer neighborhoods, including areas near Hebron Parkway, came up in the 1990s and 2000s and are starting their first renovation cycle. Old Town Carrollton near the historic downtown has structures dating to the early 1900s. These three eras run on different timelines simultaneously, which means container demand across the city is rarely seasonal.',
       'Carrollton\'s position along the I-35E corridor generates light commercial and industrial activity — distribution centers, office parks, and retail tenant improvements. The city sits in Hail Alley with the rest of North Texas, and spring storm seasons push roofing demand across both the older south Carrollton ranches and the newer HOA communities in the north. Virtually all of Carrollton\'s newer subdivisions have HOA placement rules — confirm with the association before booking a container in a north Carrollton community.',
-      'Rolloff Dumpster Finder connects Carrollton customers with roll-off containers from local operators covering Dallas, Denton, and Collin Counties. We serve Carrollton and the surrounding corridor — Plano, Addison, Farmers Branch, Lewisville, The Colony, Irving, and Dallas. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects Carrollton customers with roll-off containers from local operators covering Dallas, Denton, and Collin Counties. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -8461,7 +8457,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Carrollton?',
         answer:
-          'Same-day or next-day delivery is typically available in Carrollton during normal periods. After a major hail event across north DFW, lead times stretch. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event across north DFW, lead times stretch.',
       },
       {
         question: 'Do you serve Plano, Addison, and nearby cities?',
@@ -8510,7 +8506,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Richardson built out quickly in the 1960s and 1970s as Dallas expanded north along US-75, and the housing stock reflects that timeline. Ranch houses in Richardson Heights, Canyon Creek, and Hamner Hills are 45 to 60 years old — original kitchens, dated bathrooms, and roofing systems that have been replaced at least once. Buyers taking on these homes often do significant gut renovations, and longtime owners updating before a sale generate steady container demand. An estate cleanout in a Canyon Creek home occupied since 1968 fills a 20-yard container reliably.',
       'The Telecom Corridor along US-75 between Campbell Road and the President George Bush Turnpike houses Ericsson, Fujitsu, and dozens of other tech tenants. Office gut jobs, tenant improvements, and corporate space renovations from this corridor generate commercial container demand that runs separately from the residential market. Richardson sits in Hail Alley, and spring storm seasons hit the older housing stock hard — roofs already approaching the end of their service life before a storm rarely wait for a convenient booking window.',
-      'Rolloff Dumpster Finder connects Richardson customers with roll-off containers from local operators covering Dallas County and Collin County. We serve Richardson and the surrounding corridor — Plano, Garland, Allen, Dallas, Addison, Murphy, and Sachse. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects Richardson customers with roll-off containers from local operators covering Dallas County and Collin County. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -8660,7 +8656,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Richardson?',
         answer:
-          'Same-day or next-day delivery is typically available during normal periods. After a major hail event across Dallas County, lead times stretch. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event across Dallas County, lead times stretch.',
       },
       {
         question: 'Do you serve Plano, Garland, and nearby cities?',
@@ -8709,7 +8705,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       'Allen grew rapidly through the 1990s and 2000s, and most of that housing stock is now 20 to 35 years old. The earliest neighborhoods along Bethany Drive and the east US-75 corridor are hitting the point where original kitchens, bathrooms, and roofing systems need replacement — the same renovation wave that has been moving through Plano for the past decade is now working its way through Allen\'s older subdivisions. First-time renovators in Allen are often surprised at how much debris a kitchen gut and bath update generate, particularly in the larger two-story homes common in Allen\'s 1990s subdivisions.',
       'Allen\'s commercial growth along the US-75 and SH-121 corridors generates ongoing tenant improvement and commercial renovation work. The Allen Premium Outlets area and the Watters Creek mixed-use development have driven steady retail and restaurant buildout. Allen sits in Hail Alley in Collin County — the same spring storm patterns that push roofing demand across Plano and McKinney hit Allen at the same time. Provider capacity tightens across the Collin County corridor after a significant event, and virtually every Allen subdivision has an HOA with container placement rules.',
-      'Rolloff Dumpster Finder connects Allen customers with roll-off containers from local operators covering Collin County and adjacent communities. We serve Allen and the surrounding corridor — Plano, Frisco, McKinney, Fairview, Lucas, Murphy, and Richardson. Get a quote based on what you are hauling and where the container needs to land.',
+      'Rolloff Dumpster Finder connects Allen customers with roll-off containers from local operators covering Collin County and adjacent communities. Get a quote based on what you are hauling and where the container needs to land.',
     ],
     pricingGuide: [
       {
@@ -8859,7 +8855,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Allen?',
         answer:
-          'Same-day or next-day delivery is typically available in Allen during normal periods. After a major hail event across Collin County, lead times stretch across the Plano, Allen, and McKinney corridor. During spring storm season, plan for 24–72 hours rather than assuming same-day availability.',
+          'After a major hail event across Collin County, lead times stretch across the Plano, Allen, and McKinney corridor.',
       },
       {
         question: 'Do you serve Plano, Frisco, McKinney, and nearby cities?',
@@ -9067,7 +9063,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get delivery in Pueblo?',
         answer:
-          'Most providers serving Pueblo deliver within 24–48 hours. Same-day service is sometimes available with enough lead time. Hail storm season can create backlogs — call early in the week if you can. Waiting until Friday afternoon usually means Monday delivery.',
+          'Most providers serving Pueblo deliver within 24–48 hours. Hail storm season can create backlogs — call early in the week if you can. Waiting until Friday afternoon usually means Monday delivery.',
       },
       {
         question: 'Do you serve Pueblo West and nearby communities?',
@@ -9284,7 +9280,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get delivery in St. George?',
         answer:
-          "Most providers serving St. George can deliver within 24–48 hours. Same-day service is sometimes available. The city's active construction market means demand stays high year-round — call early in the week when you can.",
+          "Most providers serving St. George can deliver within 24–48 hours. The city's active construction market means demand stays high year-round — call early in the week when you can.",
       },
       {
         question: 'Do you serve Santa Clara, Ivins, Washington City, and Hurricane?',
@@ -10149,7 +10145,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Aurora?',
         answer:
-          "Most providers serving Aurora can schedule delivery within one to three business days. Same-day delivery is available from some local operators if you call before noon. Aurora's geographic size means your specific address — northeast near Buckley, central, or southeast — may affect which providers can reach you fastest.",
+          "Aurora's geographic size means your specific address — northeast near Buckley, central, or southeast — may affect which providers can reach you fastest.",
       },
       {
         question: 'Do you serve nearby cities like Centennial, Parker, and Englewood?',
@@ -10370,7 +10366,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Lakewood?',
         answer:
-          'Most providers serving Lakewood can deliver within one to three business days. Same-day delivery is available from some local operators if you call early. Your location within Lakewood — east side near Wadsworth, or west toward Golden — can affect which providers reach you fastest.',
+          'Your location within Lakewood — east side near Wadsworth, or west toward Golden — can affect which providers reach you fastest.',
       },
       {
         question: 'Do you serve nearby cities like Golden, Arvada, and Englewood?',
@@ -10589,7 +10585,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Arvada?',
         answer:
-          "Most providers serving Arvada deliver within one to three business days. Same-day delivery is available from some local operators if you call before noon. Your location within Arvada affects delivery windows — the Candelas area near the foothills may have fewer provider options than east Arvada near Wadsworth.",
+          "Your location within Arvada affects delivery windows — the Candelas area near the foothills may have fewer provider options than east Arvada near Wadsworth.",
       },
       {
         question: 'Do you serve Westminster, Wheat Ridge, and Golden?',
@@ -10804,7 +10800,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Westminster?',
         answer:
-          'Most providers serving Westminster can deliver within one to three business days. Same-day delivery may be available from some operators. After a significant hail event, availability across the northern Denver metro tightens quickly — book as soon as you know the roofing job is scheduled.',
+          'After a significant hail event, availability across the northern Denver metro tightens quickly — book as soon as you know the roofing job is scheduled.',
       },
       {
         question: 'Do you serve Broomfield, Thornton, and Northglenn?',
@@ -11018,7 +11014,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Thornton?',
         answer:
-          'Most providers serving Thornton can deliver within one to three business days. Same-day delivery is available from some local operators. After a significant hail event, availability tightens across the northern Denver metro — book early rather than late.',
+          'After a significant hail event, availability tightens across the northern Denver metro — book early rather than late.',
       },
       {
         question: 'Do you serve Northglenn, Westminster, and Commerce City?',
@@ -11231,7 +11227,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Centennial?',
         answer:
-          'Most providers serving Centennial can deliver within one to three business days. Same-day delivery is available from some local operators. After a major hail event, container availability across the south metro tightens — book as soon as the roofing project is scheduled.',
+          'After a major hail event, container availability across the south metro tightens — book as soon as the roofing project is scheduled.',
       },
       {
         question: 'Do you serve Greenwood Village, Parker, and Littleton?',
@@ -11440,7 +11436,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Littleton?',
         answer:
-          'Most providers serving Littleton can deliver within one to three business days. Some local operators offer same-day delivery. After a significant hail event, availability across the south Denver metro tightens quickly — book as soon as the project is scheduled.',
+          'After a significant hail event, availability across the south Denver metro tightens quickly — book as soon as the project is scheduled.',
       },
       {
         question: 'Do you serve Englewood, Highlands Ranch, and Centennial?',
@@ -11581,7 +11577,7 @@ export const cityLocations: CityLocation[] = [
         number: '09',
         name: 'Rental Property Turnover',
         description:
-          "Commerce City has a significant rental housing market, particularly in the older south neighborhoods. A turnover typically requires a 10- or 15-yard container — appliances, flooring, drywall patches, and accumulated tenant debris add up. Same-day delivery is available from some local providers if the timeline between tenants is tight.",
+          "Commerce City has a significant rental housing market, particularly in the older south neighborhoods. A turnover typically requires a 10- or 15-yard container — appliances, flooring, drywall patches, and accumulated tenant debris add up.",
       },
     ],
     placementIntro:
@@ -11644,7 +11640,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Commerce City?',
         answer:
-          'Most providers serving Commerce City deliver within one to three business days. Some local operators offer same-day delivery. After a major hail event, availability across the north Denver metro tightens — book as soon as the project is confirmed.',
+          'After a major hail event, availability across the north Denver metro tightens — book as soon as the project is confirmed.',
       },
       {
         question: 'Do you serve Thornton, Brighton, and Aurora?',
@@ -11848,7 +11844,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Wheat Ridge?',
         answer:
-          'Most providers serving Wheat Ridge deliver within one to three business days. Some local operators offer same-day delivery. Summer availability tightens after hail events — book as soon as the project is confirmed.',
+          'Summer availability tightens after hail events — book as soon as the project is confirmed.',
       },
       {
         question: 'Do you serve Arvada, Lakewood, and Golden?',
@@ -12053,7 +12049,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Greenwood Village?',
         answer:
-          'Most providers serving Greenwood Village deliver within one to three business days. Some local operators offer same-day delivery. After major hail events, south metro container availability tightens — book as soon as the project is confirmed.',
+          'After major hail events, south metro container availability tightens — book as soon as the project is confirmed.',
       },
       {
         question: 'Do you serve Centennial, Cherry Hills Village, and Englewood?',
@@ -12256,7 +12252,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Englewood?',
         answer:
-          'Most providers serving Englewood deliver within one to three business days. Some local operators offer same-day delivery. Summer availability tightens after hail events — book as soon as the project is confirmed.',
+          'Summer availability tightens after hail events — book as soon as the project is confirmed.',
       },
       {
         question: 'Do you serve Denver, Littleton, and Centennial?',
@@ -12460,7 +12456,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Broomfield?',
         answer:
-          'Most providers serving Broomfield deliver within one to three business days. Some local operators offer same-day delivery. Summer availability tightens after hail events — book as soon as the project is confirmed.',
+          'Summer availability tightens after hail events — book as soon as the project is confirmed.',
       },
       {
         question: 'Do you serve Westminster, Thornton, and Arvada?',
@@ -12669,7 +12665,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Greeley?',
         answer:
-          'Most local providers deliver within 1–3 business days. Same-day delivery is sometimes available if you call before mid-morning. After a major hail event, container availability across Weld County tightens quickly — booking a day or two ahead is worthwhile during storm season.',
+          'After a major hail event, container availability across Weld County tightens quickly — booking a day or two ahead is worthwhile during storm season.',
       },
       {
         question: 'Do you serve Evans, Windsor, and other Weld County communities?',
@@ -12872,7 +12868,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Windsor?',
         answer:
-          'Most local providers deliver within 1–3 business days. Same-day delivery is sometimes available if you call before mid-morning. After a major hail event, container availability across northern Weld County tightens fast — booking ahead by a day or two is worthwhile during storm season.',
+          'After a major hail event, container availability across northern Weld County tightens fast — booking ahead by a day or two is worthwhile during storm season.',
       },
       {
         question: 'Do you serve Timnath, Greeley, and Fort Collins from Windsor?',
@@ -13077,7 +13073,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Evans?',
         answer:
-          'Most local providers deliver within 1–3 business days. Evans is served by the same haulers that cover Greeley, so availability is generally good. After a major hail event, container inventory across the combined metro tightens — booking a day or two ahead is worth it during storm season.',
+          'Evans is served by the same haulers that cover Greeley, so availability is generally good. After a major hail event, container inventory across the combined metro tightens — booking a day or two ahead is worth it during storm season.',
       },
       {
         question: 'Do you serve Greeley, Windsor, and Milliken from Evans?',
@@ -13276,7 +13272,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Johnstown?',
         answer:
-          'Most local providers deliver within 1–3 business days. Johnstown is often on the same delivery loop as Windsor and Milliken, which tends to keep availability good. After a major hail event, container inventory across the northern Front Range corridor tightens — booking a day or two ahead is worthwhile during storm season.',
+          'Johnstown is often on the same delivery loop as Windsor and Milliken, which tends to keep availability good. After a major hail event, container inventory across the northern Front Range corridor tightens — booking a day or two ahead is worthwhile during storm season.',
       },
       {
         question: 'Do you serve Milliken, Loveland, and Windsor from Johnstown?',
@@ -14711,7 +14707,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Chickasha's older residential neighborhoods — the blocks around downtown and the University of Science and Arts of Oklahoma — have housing stock built largely from the early 1900s through the 1950s. Those homes are now cycling through estate cleanouts, full-room renovations, and rental property turnovers as ownership changes hands. The university keeps a steady stream of housing activity in the neighborhoods closest to campus: tenant turnover, landlord renovations, and the occasional full gut of a property that has been rented hard for twenty years.",
       'Grady County sits squarely in the Oklahoma severe weather corridor, and hail and wind events drive consistent roofing demand in the spring and early summer. Agricultural properties outside the city — barns, equipment sheds, storm cellars, and outbuildings on working farms and pasture land — generate a category of cleanup that residential haulers sometimes are not set up for. A barn cleanout or a farm outbuilding teardown produces different material than a house cleanout, and it is worth discussing the debris type with your provider before booking.',
-      'Rolloff Dumpster Finder connects Chickasha customers with local roll-off providers serving Grady County and the I-44 corridor. Chickasha sits between the OKC metro and the Southwest Oklahoma cluster — providers from both directions typically cover the area. We serve Chickasha and the surrounding corridor: Tuttle, Blanchard, Rush Springs, Anadarko, Duncan, and Marlow. Get a quote based on what you are actually hauling.',
+      'Rolloff Dumpster Finder connects Chickasha customers with local roll-off providers serving Grady County and the I-44 corridor. Chickasha sits between the OKC metro and the Southwest Oklahoma cluster — providers from both directions typically cover the area. Get a quote based on what you are actually hauling.',
     ],
     pricingGuide: [
       {
@@ -15112,7 +15108,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Anadarko is Caddo County's seat and sits at the center of a distinct stretch of southwest-central Oklahoma. The older residential neighborhoods around downtown carry housing stock built from the early 1900s through the 1950s — a mix of craftsman bungalows and mid-century homes that are cycling through estate cleanouts, renovation projects, and long-deferred maintenance work. For a city of roughly 6,500 people, properties here accumulate material across generations, and a single full-home cleanout in a long-term residence often produces more volume than first-time renters expect.",
       'Anadarko has a significant institutional presence for a city its size. Tribal government offices, the Bureau of Indian Affairs regional headquarters, and cultural facilities including the Southern Plains Indian Museum operate here. That institutional footprint creates renovation and cleanout demand alongside standard residential work. Hail and wind events in Caddo County also drive consistent roofing activity through the spring severe weather season, and agricultural properties on the county\'s wheat and cotton farms generate farm outbuilding cleanup that falls outside what a standard residential hauler expects.',
-      'Rolloff Dumpster Finder connects Anadarko customers with local roll-off providers serving Caddo County and the surrounding area. Providers from the OKC metro direction and the Southwest Oklahoma cluster both cover this market. We serve Anadarko and the surrounding corridor — Chickasha, Lawton, Carnegie, Fort Cobb, and Hinton. Confirm delivery lead times before you schedule; this is a smaller market than Lawton or OKC.',
+      'Rolloff Dumpster Finder connects Anadarko customers with local roll-off providers serving Caddo County and the surrounding area. Providers from the OKC metro direction and the Southwest Oklahoma cluster both cover this market. Confirm delivery lead times before you schedule; this is a smaller market than Lawton or OKC.',
     ],
     pricingGuide: [
       {
@@ -15312,7 +15308,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Elgin sits about 12 miles north of Lawton in Comanche County and functions as a bedroom community for the larger metro to the south. The residential areas carry a mix of older ranch homes and newer construction that has followed steady population growth over the past two decades. Estate cleanouts, renovation projects, and home turnovers are the core of local dumpster demand. Properties here that have been owner-occupied for 20 or 30 years — especially those with detached shops or storm cellars — often produce more volume than first-time renters expect.",
       'Elgin is close to Fort Sill, and personnel rotations through the area create a steady cycle of move-in and move-out cleanouts in the residential neighborhoods closest to the installation. That housing turnover runs year-round, not just in the spring and fall. Hail and wind events in Comanche County also drive consistent roofing replacement demand. New residential construction has continued in Elgin as the community grows, and job site debris from framing and finish work adds a construction component to the local market.',
-      'Rolloff Dumpster Finder connects Elgin customers with local roll-off providers serving Comanche County. Elgin is covered by the same provider network as Lawton, 12 miles south — delivery lead times are typically in line with the Lawton market. We serve Elgin and the surrounding corridor: Lawton, Cache, Fletcher, Medicine Park, and Chickasha. Get a quote based on what you are actually hauling.',
+      'Rolloff Dumpster Finder connects Elgin customers with local roll-off providers serving Comanche County. Elgin is covered by the same provider network as Lawton, 12 miles south — delivery lead times are typically in line with the Lawton market. Get a quote based on what you are actually hauling.',
     ],
     pricingGuide: [
       {
@@ -15512,7 +15508,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Gilbert grew from a farming town of under 30,000 in 1990 to one of the largest cities in Arizona. That growth happened fast and mostly outward. The result is a market split by housing age. The Heritage District and older streets near downtown carry 1970s and 1980s homes that generate consistent flip and estate cleanout volume. Power Ranch, Morrison Ranch, Val Vista Lakes, and the Higley corridor represent a second tier — late-1990s and 2000s builds now hitting the first full renovation cycle. Kitchens, bathrooms, and flooring are the active categories.",
       "Tile roofing covers virtually every home in Gilbert. Concrete tile is two to four times heavier than asphalt shingles per square, which means roofing containers hit weight limits before they look half full. That distinction matters at the landfill scale. Desert landscaping conversion and oleander removal also generate more debris volume than most homeowners estimate. Gilbert is one of the most HOA-dense cities in the Valley — the majority of neighborhoods require association approval before a container is placed or before any exterior work begins.",
-      'Rolloff Dumpster Finder covers Gilbert and the full Southeast Valley — Chandler, Mesa, Tempe, Queen Creek, and the San Tan corridor. Most Gilbert zip codes have same-day or next-day availability from the Phoenix provider network. We show weight limits and what the base rate includes before you book. If the invoice does not match the quote, give us a call.',
+      'Rolloff Dumpster Finder covers Gilbert and the full Southeast Valley — Chandler, Mesa, Tempe, Queen Creek, and the San Tan corridor. We show weight limits and what the base rate includes before you book. If the invoice does not match the quote, give us a call.',
     ],
     pricingGuide: [
       {
@@ -15662,7 +15658,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get a dumpster delivered in Gilbert?',
         answer:
-          'Gilbert is well-covered by the greater Phoenix provider network. Same-day or next-day delivery is available from several companies in most Gilbert zip codes. Spring renovation season — February through May — runs busy. Book a few days ahead when you can.',
+          'Gilbert is well-covered by the greater Phoenix provider network. Spring renovation season — February through May — runs busy. Book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Chandler, Mesa, and Queen Creek?',
@@ -15721,7 +15717,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "Moore sits on I-35 directly south of Oklahoma City, in Cleveland County between OKC and Norman. Most of the city's housing stock is suburban single-family construction from the 1960s through the 1990s — ranch homes and traditional two-stories on flat residential lots. That older housing generates steady renovation demand: kitchens, bathrooms, flooring, and roofing are the active categories. The Sunnylane corridor and Colonial Heights carry a concentration of mid-century homes that produce consistent flip and cleanout volume.",
       'Moore has been struck by more destructive tornadoes than almost any comparable city in the United States. The 1999 and 2013 events were both EF5 storms. The 2013 tornado destroyed over 1,100 homes and damaged thousands more across the Plaza Towers and Briarwood corridors. Rebuilding following major tornado events generates the most concentrated dumpster demand of any single event type. During severe weather season — April through June — provider capacity across the OKC south metro can tighten quickly after a significant strike.',
-      'Rolloff Dumpster Finder connects Moore customers with the OKC metro provider network that also serves Norman, Midwest City, and south Oklahoma City. Most Moore addresses have same-day or next-day availability under normal conditions. After a tornado or major storm event, booking early is not a sales pitch — it is practical scheduling. We show weight limits and what the base rate includes before you book.',
+      'Rolloff Dumpster Finder connects Moore customers with the OKC metro provider network that also serves Norman, Midwest City, and south Oklahoma City. After a tornado or major storm event, booking early is not a sales pitch — it is practical scheduling. We show weight limits and what the base rate includes before you book.',
     ],
     pricingGuide: [
       {
@@ -16080,7 +16076,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Loveland?',
         answer:
-          'Most Loveland addresses have same-day or next-day delivery available from the Fort Collins-Loveland provider network. Hail season — typically late April through September — runs busy for roofing containers. Book a few days ahead when you can.',
+          'Hail season — typically late April through September — runs busy for roofing containers. Book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Fort Collins, Windsor, and Berthoud?',
@@ -16291,7 +16287,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in Longmont?',
         answer:
-          'Most Longmont addresses have same-day or next-day delivery available from the Boulder-Longmont provider network. Hail season — late April through September — keeps roofing containers in demand. Book a few days ahead when you can.',
+          'Hail season — late April through September — keeps roofing containers in demand. Book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Boulder, Erie, and Lafayette?',
@@ -16350,7 +16346,7 @@ export const cityLocations: CityLocation[] = [
     introParagraphs: [
       "West Jordan is one of Utah's largest cities, and most of it was built between 1980 and 2005 — a suburban expansion wave that filled the Salt Lake Valley south of West Valley City with ranch homes, two-stories, and larger family houses. That housing is now 20 to 40 years old and generating a consistent first renovation cycle. Kitchens from the early 1990s, bathrooms with original tile, and roofs that predate the 2010s are the active categories across the Bingham Creek and Copper Hills areas.",
       "Utah homes commonly have full basements, and West Jordan is no exception. A 3-bedroom home with a finished basement and a two-car garage here can fill a 20-yard container where the same footprint elsewhere might need a 15. That volume dynamic applies equally to estate cleanouts in the city's older 1980s subdivisions. The Bangerter Highway corridor along West Jordan's western edge also generates steady commercial renovation demand from the warehousing and light industrial operations in that zone.",
-      'Rolloff Dumpster Finder serves West Jordan and the south Salt Lake Valley — Sandy, South Jordan, Riverton, Herriman, Taylorsville, and Midvale. Most West Jordan addresses have same-day or next-day delivery from the Salt Lake Valley provider network. The terrain is flat throughout most of the city and truck access is generally straightforward. We show weight limits and what the base rate includes before you book.',
+      'Rolloff Dumpster Finder serves West Jordan and the south Salt Lake Valley — Sandy, South Jordan, Riverton, Herriman, Taylorsville, and Midvale. The terrain is flat throughout most of the city and truck access is generally straightforward. We show weight limits and what the base rate includes before you book.',
     ],
     pricingGuide: [
       {
@@ -16500,7 +16496,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can I get dumpster delivery in West Jordan?',
         answer:
-          'West Jordan is well-served by the Salt Lake Valley provider network. Same-day or next-day delivery is available from several companies in most West Jordan zip codes. Spring and summer renovation season runs busy — book a few days ahead when you can.',
+          'West Jordan is well-served by the Salt Lake Valley provider network. Spring and summer renovation season runs busy — book a few days ahead when you can.',
       },
       {
         question: 'Do you serve nearby cities like Sandy, South Jordan, and Herriman?',
@@ -16728,7 +16724,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can a dumpster be delivered in Parker?',
         answer:
-          'Most providers serving Parker and Douglas County can deliver within one to two business days of booking. Same-day delivery is available from some operators. During busy spring and fall renovation seasons, booking a few days ahead gives more flexibility on timing.',
+          'During busy spring and fall renovation seasons, booking a few days ahead gives more flexibility on timing.',
       },
       {
         question: 'Do you serve nearby communities like Highlands Ranch, Lone Tree, and Castle Rock?',
@@ -16934,7 +16930,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can a dumpster be delivered in Draper?',
         answer:
-          'Most providers serving Draper and the south Salt Lake Valley can deliver within one to two business days. Same-day delivery is available from some operators. During busy spring and fall renovation seasons, booking a few days ahead gives more flexibility on timing.',
+          'During busy spring and fall renovation seasons, booking a few days ahead gives more flexibility on timing.',
       },
       {
         question: 'Do you serve South Jordan, Sandy, and the surrounding south valley?',
@@ -17139,7 +17135,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can a dumpster be delivered in South Jordan?',
         answer:
-          'Most providers serving South Jordan and the south Salt Lake Valley can deliver within one to two business days of booking. Same-day delivery is available from some operators. During busy spring and fall renovation seasons, booking a few days ahead gives more scheduling flexibility.',
+          'During busy spring and fall renovation seasons, booking a few days ahead gives more scheduling flexibility.',
       },
       {
         question: 'Do you serve Daybreak, Riverton, and other nearby communities?',
@@ -17346,7 +17342,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can a dumpster be delivered in Peoria?',
         answer:
-          'Most providers serving Peoria and the West Valley can deliver within one to two business days of booking. Same-day delivery is available from some operators. During busy seasons, booking a few days ahead gives more flexibility on timing.',
+          'During busy seasons, booking a few days ahead gives more flexibility on timing.',
       },
       {
         question: 'Do you serve Vistancia, Westbrook Village, and north Peoria?',
@@ -17551,7 +17547,7 @@ export const cityLocations: CityLocation[] = [
       {
         question: 'How quickly can a dumpster be delivered in Owasso?',
         answer:
-          'Most providers serving Owasso and the north Tulsa metro can deliver within one to two business days. Same-day delivery is available from some operators. During busy storm-repair seasons, booking a few days ahead gives more flexibility.',
+          'During busy storm-repair seasons, booking a few days ahead gives more flexibility.',
       },
       {
         question: 'Do you serve Claremore, Collinsville, and other north Tulsa cities?',
@@ -23373,3 +23369,4 @@ export const cityLocations: CityLocation[] = [
     pricingPlacementNote: "Nunn does not publish a dumpster permit. Re-roofs are one-stop permits with a $50 administrative fee plus 2% use tax.",
   },
 ]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

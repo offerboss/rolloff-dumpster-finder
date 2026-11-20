@@ -126,7 +126,7 @@ const faqSchema = {
       name: 'How far in advance should I reserve a dumpster in the Denver metro?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'During normal periods, one to three business days is usually enough lead time. After a major hail event, availability across the metro tightens within days as providers fill with roofing jobs. During hail season — June through August — book as soon as a project is scheduled.',
+        text: 'After a major hail event, availability across the metro tightens within days as providers fill with roofing jobs. During hail season — June through August — book as soon as a project is scheduled.',
       },
     },
   ],
@@ -369,7 +369,7 @@ const faq = [
   },
   {
     q: 'How far in advance should I reserve a dumpster in the Denver metro?',
-    a: 'During normal periods, one to three business days is usually enough. After a major hail event, availability across the metro tightens within days as providers fill with roofing jobs. During hail season — June through August — book as soon as a project is scheduled.',
+    a: 'After a major hail event, availability across the metro tightens within days as providers fill with roofing jobs. During hail season — June through August — book as soon as a project is scheduled.',
   },
 ]
 
@@ -1002,3 +1002,4 @@ export default function DenverMetroPage() {
     </>
   )
 }
+                                                                                                                                                    
