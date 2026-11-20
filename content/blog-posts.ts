@@ -669,8 +669,8 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       'Not all rental agreements are the same. Knowing what to ask about weight limits, prohibited materials, and extension fees saves you money and avoids surprises on pickup day.',
     category: 'Tips',
-    coverImage: 'https://picsum.photos/seed/dumpster-tips/800/500',
-    coverImageAlt: 'Person reviewing a dumpster rental agreement',
+    coverImage: '/RDF-Images/roll-off-dumpster-size-comparison.webp',
+    coverImageAlt: 'Four roll-off dumpsters of different sizes lined up on a gravel lot',
     date: '2025-05-01',
     author: 'Adam Chandler',
     metaDescription:
@@ -687,8 +687,8 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       'Tires, paint, and mattresses are prohibited at most companies. Here is what is typically accepted, what gets rejected at the landfill, and what triggers an extra disposal fee.',
     category: 'Rules',
-    coverImage: 'https://picsum.photos/seed/dumpster-rules/800/500',
-    coverImageAlt: 'Roll-off dumpster filled with construction debris',
+    coverImage: '/home-page-images/residential-cleanout-dumpster.webp',
+    coverImageAlt: 'Roll-off dumpster loaded with renovation debris in front of a house',
     date: '2025-05-08',
     author: 'Adam Chandler',
     metaDescription:
@@ -710,8 +710,8 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       'The container looks the same. The agreement, weight allowances, and pickup windows are often different. Here is what to know before you order the wrong type.',
     category: 'Education',
-    coverImage: 'https://picsum.photos/seed/dumpster-commercial/800/500',
-    coverImageAlt: 'Commercial roll-off dumpster on a job site',
+    coverImage: '/RDF-Images/urban-street-dumpster-rental.webp',
+    coverImageAlt: 'Roll-off dumpster placed on a city street with cones beside brick buildings',
     date: '2025-05-15',
     author: 'Adam Chandler',
     metaDescription:
@@ -733,7 +733,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       'Most rentals include a 7 or 14-day window. Here is what happens when the project runs long, when it makes sense to extend, and when a second pull is the smarter call.',
     category: 'FAQs',
-    coverImage: 'https://picsum.photos/seed/dumpster-time/800/500',
+    coverImage: '/home-page-images/roll-off-dumpster-rental-residential-cleanout.webp',
     coverImageAlt: 'Roll-off dumpster in a residential driveway',
     date: '2025-05-22',
     author: 'Adam Chandler',
